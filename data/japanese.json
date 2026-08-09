@@ -7,23 +7,78 @@
   "grammar": {
     "title": "The potential form (可能形)",
     "rules": [
-      {"label": "る-verbs", "detail": "drop る, add られる", "examples": ["たべる → たべられる (can eat)", "みる → みられる (can see)"]},
-      {"label": "う-verbs", "detail": "change the final -u sound to -eru", "examples": ["のむ → のめる (can drink)", "はなす → はなせる (can speak)", "よむ → よめる (can read)", "かう → かえる (can buy)"]},
-      {"label": "Irregulars", "detail": "", "examples": ["する → できる (can do)", "くる → こられる (can come)"]}
+      {
+        "label": "る-verbs",
+        "detail": "drop る, add られる",
+        "examples": [
+          "たべる → たべられる (can eat)",
+          "みる → みられる (can see)"
+        ]
+      },
+      {
+        "label": "う-verbs",
+        "detail": "change the final -u sound to -eru",
+        "examples": [
+          "のむ → のめる (can drink)",
+          "はなす → はなせる (can speak)",
+          "よむ → よめる (can read)",
+          "かう → かえる (can buy)"
+        ]
+      },
+      {
+        "label": "Irregulars",
+        "detail": "",
+        "examples": [
+          "する → できる (can do)",
+          "くる → こられる (can come)"
+        ]
+      }
     ],
     "bigPoint": "With the potential form, the object particle を usually becomes が:  かんじを よむ → かんじが よめる (“can read kanji”)."
   },
   "vocab": [
-    {"jp": "およぐ → およげる", "romaji": "oyogu → oyogeru", "en": "to swim → can swim"},
-    {"jp": "はなす → はなせる", "romaji": "hanasu → hanaseru", "en": "to speak → can speak"},
-    {"jp": "うんてん する → うんてん できる", "romaji": "unten suru → unten dekiru", "en": "to drive → can drive"},
-    {"jp": "かんじ 〔漢字〕", "romaji": "kanji", "en": "Chinese characters"},
-    {"jp": "ぜんぜん + neg.", "romaji": "zenzen", "en": "not at all"},
-    {"jp": "まだまだ", "romaji": "madamada", "en": "not yet / a long way to go"}
+    {
+      "jp": "およぐ → およげる",
+      "romaji": "oyogu → oyogeru",
+      "en": "to swim → can swim"
+    },
+    {
+      "jp": "はなす → はなせる",
+      "romaji": "hanasu → hanaseru",
+      "en": "to speak → can speak"
+    },
+    {
+      "jp": "うんてん する → うんてん できる",
+      "romaji": "unten suru → unten dekiru",
+      "en": "to drive → can drive"
+    },
+    {
+      "jp": "かんじ 〔漢字〕",
+      "romaji": "kanji",
+      "en": "Chinese characters"
+    },
+    {
+      "jp": "ぜんぜん + neg.",
+      "romaji": "zenzen",
+      "en": "not at all"
+    },
+    {
+      "jp": "まだまだ",
+      "romaji": "madamada",
+      "en": "not yet / a long way to go"
+    }
   ],
   "examples": [
-    {"jp": "にほんごが すこし はなせます。", "romaji": "Nihongo ga sukoshi hanasemasu.", "en": "I can speak a little Japanese."},
-    {"jp": "わたしは かんじが ぜんぜん よめません。", "romaji": "Watashi wa kanji ga zenzen yomemasen.", "en": "I can’t read kanji at all."}
+    {
+      "jp": "にほんごが すこし はなせます。",
+      "romaji": "Nihongo ga sukoshi hanasemasu.",
+      "en": "I can speak a little Japanese."
+    },
+    {
+      "jp": "わたしは かんじが ぜんぜん よめません。",
+      "romaji": "Watashi wa kanji ga zenzen yomemasen.",
+      "en": "I can’t read kanji at all."
+    }
   ],
   "note": "The potential form turns any verb into an ichidan (る-)verb, so you conjugate the end normally: はなせる → はなせます / はなせない / はなせなかった. Casual shortcut: たべられる often becomes たべれる (dropping ら) — common in speech, informal in textbooks. And できる already means “can do,” so no separate potential form is needed.",
   "selfCheck": {
