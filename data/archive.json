@@ -1,0 +1,9 @@
+[
+  {
+    "id": "selftest-1836",
+    "kind": "System",
+    "label": "Sun, Aug 9 · 6:36 PM",
+    "summary": "Auto-publish pipeline test — confirms scheduled tasks can write to the app.",
+    "ref": null
+  }
+]
