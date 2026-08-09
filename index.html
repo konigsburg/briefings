@@ -51,27 +51,23 @@
   .theme{font-size:13px;color:var(--gold);font-weight:600;padding:2px 6px 10px}
   .lede{font-size:14.5px;line-height:1.5;color:var(--ink-soft);padding:0 6px 14px;opacity:.95}
 
-  /* Section cards */
-  .sections{display:flex;flex-direction:column;gap:10px;padding:2px 6px 8px}
-  .sec-card{position:relative;overflow:hidden;display:flex;align-items:center;gap:14px;width:100%;text-align:left;
-    font-family:inherit;cursor:pointer;color:var(--ink);padding:13px 15px;border-radius:18px;
+  /* Section chips — compact single row */
+  .sections{display:grid;grid-template-columns:1fr 1fr 1fr;gap:9px;padding:2px 6px 6px}
+  .sec-card{position:relative;overflow:hidden;display:flex;flex-direction:column;align-items:center;gap:7px;
+    width:100%;font-family:inherit;cursor:pointer;color:var(--ink);padding:11px 6px 10px;border-radius:15px;
     background:linear-gradient(135deg,rgba(255,255,255,.09),rgba(255,255,255,.03));
-    border:1px solid var(--card-line);box-shadow:0 6px 20px rgba(0,0,0,.20);
-    transition:transform .1s ease, box-shadow .2s ease}
-  .sec-card:active{transform:scale(.985)}
-  .sec-card::before{content:"";position:absolute;inset:0;opacity:.16;pointer-events:none}
-  .sec-card.jp::before{background:radial-gradient(130% 150% at 0% 0%,rgba(242,160,160,.55),transparent 55%)}
-  .sec-card.cook::before{background:radial-gradient(130% 150% at 0% 0%,rgba(247,197,110,.5),transparent 55%)}
-  .sec-card.garden::before{background:radial-gradient(130% 150% at 0% 0%,rgba(159,214,160,.5),transparent 55%)}
-  .sec-ic{position:relative;z-index:1;flex:0 0 46px;height:46px;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:23px}
-  .sec-card.jp .sec-ic{background:linear-gradient(135deg,rgba(242,160,160,.4),rgba(242,160,160,.12));border:1px solid rgba(242,160,160,.5);box-shadow:0 3px 14px rgba(242,160,160,.3)}
-  .sec-card.cook .sec-ic{background:linear-gradient(135deg,rgba(247,197,110,.4),rgba(247,197,110,.12));border:1px solid rgba(247,197,110,.5);box-shadow:0 3px 14px rgba(247,197,110,.3)}
-  .sec-card.garden .sec-ic{background:linear-gradient(135deg,rgba(159,214,160,.4),rgba(159,214,160,.12));border:1px solid rgba(159,214,160,.5);box-shadow:0 3px 14px rgba(159,214,160,.3)}
-  .sec-txt{position:relative;z-index:1;display:flex;flex-direction:column;gap:3px;flex:1;min-width:0}
-  .sec-name{font-size:15.5px;font-weight:650;letter-spacing:.2px}
+    border:1px solid var(--card-line);box-shadow:0 4px 14px rgba(0,0,0,.16);transition:transform .1s ease}
+  .sec-card:active{transform:scale(.96)}
+  .sec-card::before{content:"";position:absolute;inset:0;opacity:.15;pointer-events:none}
+  .sec-card.jp::before{background:radial-gradient(120% 130% at 50% 0%,rgba(242,160,160,.5),transparent 62%)}
+  .sec-card.cook::before{background:radial-gradient(120% 130% at 50% 0%,rgba(247,197,110,.45),transparent 62%)}
+  .sec-card.garden::before{background:radial-gradient(120% 130% at 50% 0%,rgba(159,214,160,.45),transparent 62%)}
+  .sec-ic{position:relative;z-index:1;width:40px;height:40px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:20px}
+  .sec-card.jp .sec-ic{background:linear-gradient(135deg,rgba(242,160,160,.4),rgba(242,160,160,.12));border:1px solid rgba(242,160,160,.5);box-shadow:0 3px 11px rgba(242,160,160,.28)}
+  .sec-card.cook .sec-ic{background:linear-gradient(135deg,rgba(247,197,110,.4),rgba(247,197,110,.12));border:1px solid rgba(247,197,110,.5);box-shadow:0 3px 11px rgba(247,197,110,.28)}
+  .sec-card.garden .sec-ic{background:linear-gradient(135deg,rgba(159,214,160,.4),rgba(159,214,160,.12));border:1px solid rgba(159,214,160,.5);box-shadow:0 3px 11px rgba(159,214,160,.28)}
+  .sec-name{position:relative;z-index:1;font-size:12px;font-weight:650;letter-spacing:.2px}
   .sec-card.jp .sec-name{color:var(--jp)} .sec-card.cook .sec-name{color:var(--cook)} .sec-card.garden .sec-name{color:var(--garden)}
-  .sec-prev{font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .sec-arrow{position:relative;z-index:1;flex:0 0 auto;font-size:24px;color:var(--muted);opacity:.55;font-weight:300}
 
   .section-h{display:flex;align-items:center;gap:8px;margin:16px 6px 10px;font-size:12px;
     text-transform:uppercase;letter-spacing:1.4px;color:var(--muted);font-weight:700}
@@ -193,9 +189,9 @@ function renderToday(){
   const flagged=((t.inbox&&t.inbox.flagged)||[]).map(x=>`<div class="card"><span class="tag">${esc(x.tag)}</span><h3>${esc(x.title)}</h3><p>${esc(x.detail)}</p></div>`).join('');
   const resolved=(t.resolved||[]).map(x=>`<li>${esc(x)}</li>`).join('');
   const tiles=`<div class="section-h">Your briefings</div><div class="sections">
-    <button class="sec-card jp" onclick="showTab('japanese')"><span class="sec-ic">🇯🇵</span><span class="sec-txt"><span class="sec-name">Japanese</span><span class="sec-prev">${esc(jp.lessonNo?('Lesson #'+jp.lessonNo+' · '+(jp.theme||'')):'Daily lesson')}</span></span><span class="sec-arrow">›</span></button>
-    <button class="sec-card cook" onclick="showTab('cooking')"><span class="sec-ic">🍅</span><span class="sec-txt"><span class="sec-name">Cooking</span><span class="sec-prev">${esc(ck.theme||'Weekly meal plan')}</span></span><span class="sec-arrow">›</span></button>
-    <button class="sec-card garden" onclick="showTab('garden')"><span class="sec-ic">🌱</span><span class="sec-txt"><span class="sec-name">Gardening</span><span class="sec-prev">${esc(gd.headline||'Weekly garden update')}</span></span><span class="sec-arrow">›</span></button>
+    <button class="sec-card jp" onclick="showTab('japanese')"><span class="sec-ic">🇯🇵</span><span class="sec-name">Japanese</span></button>
+    <button class="sec-card cook" onclick="showTab('cooking')"><span class="sec-ic">🍅</span><span class="sec-name">Cooking</span></button>
+    <button class="sec-card garden" onclick="showTab('garden')"><span class="sec-ic">🌱</span><span class="sec-name">Gardening</span></button>
   </div>`;
   document.getElementById('view-today').innerHTML=`
     <div class="daterow"><div class="d">${esc(t.date||'')}</div><div class="g">${esc(t.generatedAt||'')}</div></div>
