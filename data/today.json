@@ -1,6 +1,6 @@
 {
   "date": "Sunday, August 9, 2026",
-  "generatedAt": "Updated · 6:01 PM",
+  "generatedAt": "Inbox update · 6:42 PM ET",
   "theme": "In transit — Charlotte, then Portland tonight",
   "greeting": "Rental's back and you're on board. From here it all comes down to the Charlotte connection — and it just got tighter, because this flight is boarding well after its scheduled push.",
   "needsAttention": [
@@ -50,13 +50,13 @@
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "quip renewal posts Aug 12",
-        "detail": "Still pending — auto-renews in 3 days. Skip or edit if you don't want it."
+        "tag": "Security",
+        "title": "2 GitHub access-token alerts",
+        "detail": "Fine-grained PATs 'briefings-deploy' & 'briefings-deploy-2' created on your account — match your briefings deploy; revoke only if not you."
       }
     ],
-    "noise": "Nothing new since this morning except a GitHub notice for the token you just created.",
-    "clear": "No urgent, health, security, or job-search mail while you've been traveling."
+    "noise": "2 low-priority: 1 promo (Field Company griddle) + your own Daily Japanese Lesson.",
+    "clear": "No job-search, financial, or health mail today."
   },
   "resolved": [
     "Rental returned to SRQ (Enterprise, conf 2127234511).",
