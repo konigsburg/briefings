@@ -1,0 +1,65 @@
+{
+  "date": "Sunday, August 9, 2026",
+  "generatedAt": "Updated · 6:01 PM",
+  "theme": "In transit — Charlotte, then Portland tonight",
+  "greeting": "Rental's back and you're on board. From here it all comes down to the Charlotte connection — and it just got tighter, because this flight is boarding well after its scheduled push.",
+  "needsAttention": [
+    {
+      "tag": "Watch closely",
+      "title": "Charlotte connection is now the whole game",
+      "detail": "AA 5348 was due out at 5:28 but you're only boarding around 6:00 — so plan on landing CLT closer to 8:05–8:15, not 7:34. AA 2120 to Portland leaves at 8:25. That may be a sprint, or a misconnect. The second you land, check the board for AA 2120's gate and go straight there."
+    },
+    {
+      "tag": "If you miss it",
+      "title": "You're inside the AA hub at CLT — rebooking is easy",
+      "detail": "Both flights are American in the same terminal, so if 2120 goes without you, the app will usually auto-rebook you before you're even off the jet bridge. If not, a gate agent or the AA app can put you on the next PWM flight. Not worth stressing mid-air."
+    }
+  ],
+  "schedule": [
+    {
+      "time": "4:30 PM",
+      "title": "✓ Rental returned — SRQ",
+      "detail": "Enterprise Pacifica, done",
+      "tag": "Done"
+    },
+    {
+      "time": "Now",
+      "title": "✓ Boarded AA 5348  SRQ → CLT",
+      "detail": "Seats 20F / 20D · running behind · conf NXARJF",
+      "tag": "In transit"
+    },
+    {
+      "time": "~8:10 PM",
+      "title": "Land Charlotte (CLT) — move fast",
+      "detail": "Check the board for AA 2120's gate on arrival",
+      "tag": "Tight"
+    },
+    {
+      "time": "8:25 PM",
+      "title": "AA 2120  CLT → Portland (PWM)",
+      "detail": "Seats 11C / 11B · scheduled arrival 10:44 PM · conf NXARJF",
+      "tag": "Flight"
+    },
+    {
+      "time": "Tomorrow",
+      "title": "Lara Hamilton's birthday",
+      "detail": "Aug 10 — a note or call when you land",
+      "tag": "Reminder"
+    }
+  ],
+  "inbox": {
+    "flagged": [
+      {
+        "tag": "Financial",
+        "title": "quip renewal posts Aug 12",
+        "detail": "Still pending — auto-renews in 3 days. Skip or edit if you don't want it."
+      }
+    ],
+    "noise": "Nothing new since this morning except a GitHub notice for the token you just created.",
+    "clear": "No urgent, health, security, or job-search mail while you've been traveling."
+  },
+  "resolved": [
+    "Rental returned to SRQ (Enterprise, conf 2127234511).",
+    "This morning's open question is settled — you're on the flights, not Jen and the kids."
+  ]
+}
