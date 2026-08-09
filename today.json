@@ -1,0 +1,79 @@
+{
+  "date": "Sunday, August 9, 2026",
+  "generatedAt": "Snapshot · Aug 9",
+  "theme": "Travel day — St. Petersburg → Portland, Maine",
+  "greeting": "Getting you north tonight. One open question and one tight connection to keep an eye on, otherwise the day is booked and confirmed.",
+  "needsAttention": [
+    {
+      "tag": "Decision open",
+      "title": "Confirm whether tonight's flights are still on",
+      "detail": "Both legs carry the note “may be cancelled if Jen flies down with the kids instead.” Lock this in before you head to SRQ — everything below depends on it."
+    },
+    {
+      "tag": "Tight connection",
+      "title": "51 minutes at Charlotte",
+      "detail": "AA 5348 lands CLT 7:34 PM; AA 2120 to Portland departs 8:25 PM. If the SRQ leg slips even 20 minutes, the Portland connection is at risk. Know your CLT gates before you land."
+    },
+    {
+      "tag": "Timing",
+      "title": "Return the rental with room to spare",
+      "detail": "Enterprise Pacifica due back at SRQ by 4:30 PM (conf 2127234511); AA 5348 boards ~5:00 for a 5:28 departure. SRQ is small, so ~1 hr is workable — just don't linger."
+    }
+  ],
+  "schedule": [
+    {
+      "time": "4:30 PM",
+      "title": "Return Enterprise rental — SRQ",
+      "detail": "Chrysler Pacifica · conf 2127234511",
+      "tag": "Car"
+    },
+    {
+      "time": "5:28 PM",
+      "title": "AA 5348  SRQ → CLT",
+      "detail": "Seats 20F / 20D · arrive 7:34 PM · conf NXARJF",
+      "tag": "Flight"
+    },
+    {
+      "time": "7:34–8:25",
+      "title": "Connect at Charlotte (CLT)",
+      "detail": "51-minute connection — the tight one",
+      "tag": "Layover"
+    },
+    {
+      "time": "8:25 PM",
+      "title": "AA 2120  CLT → Portland (PWM)",
+      "detail": "Seats 11C / 11B · arrive 10:44 PM · conf NXARJF",
+      "tag": "Flight"
+    },
+    {
+      "time": "Tomorrow",
+      "title": "Lara Hamilton's birthday",
+      "detail": "Aug 10 — a note or call if you have a moment",
+      "tag": "Reminder"
+    }
+  ],
+  "inbox": {
+    "flagged": [
+      {
+        "tag": "Financial",
+        "title": "quip renewal posts Aug 12",
+        "detail": "Subscription auto-renews in 3 days — skip or edit now if you don't want it."
+      },
+      {
+        "tag": "Maine",
+        "title": "Midcoast Villager — you're subscribed",
+        "detail": "Receipt for Print & Digital, plus your new-account welcome. Login details saved in that thread."
+      },
+      {
+        "tag": "FYI",
+        "title": "Japanese lesson #221 went out",
+        "detail": "Potential form 〈〜られる／〜える〉 — saying what you can and can't do."
+      }
+    ],
+    "noise": "1 promotional email (The Company Store sale). Nothing actionable.",
+    "clear": "No job-search, urgent, health, or security mail in the last two days."
+  },
+  "resolved": [
+    "Travel is fully booked and confirmed — American conf NXARJF, Enterprise conf 2127234511."
+  ]
+}
