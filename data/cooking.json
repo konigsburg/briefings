@@ -1,0 +1,33 @@
+{
+  "date": "Sat, Aug 8",
+  "generatedAt": "Weekly · Aug 8",
+  "theme": "Peak-summer Italian — one slow tomato sugo that carries the whole week",
+  "components": [
+    {
+      "name": "Slow tomato sofrito (sugo)",
+      "time": "~75 min, mostly hands-off",
+      "ingredients": "3 lb ripe tomatoes (or 2 cans San Marzano + the best fresh you have), 1 onion, 4 garlic cloves, generous olive oil, basil stems, pinch of chili, salt",
+      "method": "Sweat finely diced onion in a good pour of olive oil until jammy, add garlic, then crushed tomatoes and basil stems. Simmer low 45–60 min until reduced and glossy. Cool. Keeps 5 days in the fridge and freezes well — the backbone of three dinners below."
+    },
+    {
+      "name": "Marinated summer beans & zucchini",
+      "time": "~30 min",
+      "ingredients": "1 lb green or wax beans, 2 zucchini, lemon, olive oil, garlic, mint or basil",
+      "method": "Blanch beans crisp-tender; grill or blister the zucchini. While still warm, toss with lemon, olive oil, a smashed garlic clove, and torn herbs. Holds 4 days and becomes salads, pasta add-ins, or a quick side."
+    }
+  ],
+  "dinners": [
+    {"name": "Spaghetti al pomodoro, done right", "time": "20 min", "ingredients": "sofrito, spaghetti, basil, Parmigiano, olive oil", "steps": ["Boil pasta 1 min shy of al dente.", "Warm the sofrito, loosen with pasta water.", "Finish the pasta in the sauce 60–90 sec.", "Off heat: torn basil + a thread of olive oil.", "Cheese at the table."]},
+    {"name": "Pan-seared fish with sofrito & beans", "time": "25 min", "ingredients": "2 fillets firm white fish or salmon, sofrito, the marinated beans, lemon", "steps": ["Pat fish very dry, salt well.", "Sear skin-side down in olive oil until crisp.", "Spoon warm sofrito onto the plates.", "Set fish on top, beans alongside.", "Bright squeeze of lemon."]},
+    {"name": "Summer vegetable & sofrito gratin", "time": "45 min", "ingredients": "zucchini, eggplant, sofrito, breadcrumbs, Parmigiano, olive oil", "steps": ["Layer sliced zucchini and eggplant with sofrito.", "Season each layer, drizzle with oil.", "Top with Parmigiano breadcrumbs.", "Bake 375°F ~35 min until bubbling.", "Rest 10 min before serving."]},
+    {"name": "Clams (or mussels) in brothy sofrito", "time": "20 min", "ingredients": "2 lb clams or mussels, sofrito thinned with white wine, parsley, grilled bread", "steps": ["Bloom garlic and chili in olive oil.", "Add a ladle of sofrito + a splash of wine.", "Add shellfish, cover, steam until open.", "Parsley; discard any that stayed shut.", "Serve with grilled bread for the broth."]}
+  ],
+  "technique": {"name": "Emulsifying pasta sauce with starchy water", "tiedTo": "Spaghetti al pomodoro — the swirl that makes it glossy and clinging, not watery."},
+  "shopping": [
+    {"section": "Produce", "items": "ripe tomatoes (3 lb), onion, garlic, 2 zucchini, 1 eggplant, green/wax beans (1 lb), basil, mint, parsley, lemons"},
+    {"section": "Seafood", "items": "2 firm white fish or salmon fillets; 2 lb clams or mussels"},
+    {"section": "Dairy", "items": "Parmigiano-Reggiano"},
+    {"section": "Pantry", "items": "San Marzano tomatoes (2 cans, backup), spaghetti, breadcrumbs, good olive oil, dried chili, white wine"}
+  ],
+  "scaleNote": "For the weeks the four girls are here (6 people): double the sofrito and pasta, add a second fish fillet or stretch with more beans, and set aside a plain buttered-pasta + mild-sofrito portion before you add chili. The gratin scales straight up in a bigger dish."
+}
