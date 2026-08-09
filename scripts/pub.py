@@ -1,6 +1,8 @@
 import json,base64,urllib.request,urllib.error,os
 TOK=os.environ.get("GH_PUB_TOKEN") or (open("/home/claude/.ghtoken").read().strip() if os.path.exists("/home/claude/.ghtoken") else "")
 OWNER,REPO="konigsburg","briefings"
+TARGET=os.environ.get("PUB_TARGET","data/today.json")
+MODE=os.environ.get("PUB_MODE","merge")
 op=urllib.request.build_opener(urllib.request.ProxyHandler({}))
 def api(m,p,b=None):
     r=urllib.request.Request(f"https://api.github.com{p}",data=(json.dumps(b).encode() if b else None),method=m)
@@ -22,9 +24,9 @@ def putjson(path,obj,msg,sha):
     if sha:body["sha"]=sha
     return api("PUT",f"/repos/{OWNER}/{REPO}/contents/{path}",body)[0]
 payload=json.load(open("/tmp/payload.json"))
-cur,sha=getjson("data/today.json")
-today=dict(cur or {}); today.update(payload)
-print("today",putjson("data/today.json",today,"Update brief",sha))
+cur,sha=getjson(TARGET)
+obj=payload if MODE=="replace" else {**(cur or {}), **payload}
+print("target",TARGET,putjson(TARGET,obj,"Update "+TARGET,sha))
 if os.path.exists("/tmp/arch.json"):
     entry=json.load(open("/tmp/arch.json"))
     arch,ash=getjson("data/archive.json"); arch=arch or []
