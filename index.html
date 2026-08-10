@@ -237,6 +237,7 @@ function renderToday(){
   const sched=(t.schedule||[]).map(x=>`<div class="row"><div class="t">${esc(x.time)}</div><div class="body"><div class="ti">${esc(x.title)}</div><div class="de">${esc(x.detail)}</div></div></div>`).join('');
   const flagged=((t.inbox&&t.inbox.flagged)||[]).map(x=>`<div class="card"><span class="tag">${esc(x.tag)}</span><h3>${esc(x.title)}</h3><p>${esc(x.detail)}</p></div>`).join('');
   const resolved=(t.resolved||[]).map(x=>`<li>${esc(x)}</li>`).join('');
+  const rc=t.recipe?`<div class="section-h">Tonight&#39;s recipe</div><div class="card recipe"><span class="tag">\ud83d\udcd6 ${esc(t.recipe.book)}</span><h3>${esc(t.recipe.title)}</h3>${t.recipe.why?`<p>${esc(t.recipe.why)}</p>`:''}</div>`:'';
   const tiles=`<div class="section-h">Your briefings</div><div class="sections">
     <button class="sec-card jp" onclick="showTab('japanese')"><span class="sec-ic">🇯🇵</span><span class="sec-name">Japanese</span></button>
     <button class="sec-card cook" onclick="showTab('cooking')"><span class="sec-ic">🍅</span><span class="sec-name">Cooking</span></button>
@@ -249,6 +250,7 @@ function renderToday(){
     ${tiles}
     ${na?`<div class="section-h">Needs attention</div>${na}`:''}
     <div class="section-h">Your day</div><div class="card"><div class="tl-list">${sched||'<p>Nothing scheduled.</p>'}</div></div>
+    ${rc}
     <div class="section-h">Inbox</div>${flagged}
     ${t.inbox&&t.inbox.noise?`<div class="noise">${esc(t.inbox.noise)}</div>`:''}
     ${t.inbox&&t.inbox.clear?`<div class="clear">✓ ${esc(t.inbox.clear)}</div>`:''}
