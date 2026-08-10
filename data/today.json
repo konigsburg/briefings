@@ -1,82 +1,64 @@
 {
-  "date": "Sunday, August 9, 2026",
-  "generatedAt": "Inbox update · 10:04 PM ET",
-  "theme": "In transit — Charlotte to Portland",
-  "greeting": "Correcting the record: your briefings pipeline was never actually broken. The page sat at 6:43 because that was your manual test publish, and no scheduled task had run since (the next is tonight's inbox summary). This is a fresh live push.",
+  "date": "Monday, August 10, 2026",
+  "generatedAt": "Morning brief · 8:00 AM ET",
+  "theme": "An open travel day — one ferry north, calm water around it.",
+  "greeting": "Good morning, Dan. Nothing's on the calendar before the 1 o'clock ferry, so the day is largely open water — a crossing to the Hamptons and time to yourself on either side.",
   "needsAttention": [
     {
-      "tag": "Live",
-      "title": "Portland tonight",
-      "detail": "AA 2120 was due out of CLT at 8:25, landing PWM 10:44 PM. If the connection was too tight, American usually auto-rebooks you onto the next flight — check the app."
+      "tag": "Health",
+      "title": "Talkiatry pre-visit questionnaire",
+      "detail": "Talkiatry nudged twice — Sunday night and again this morning — asking you to answer a few questions before your next visit."
     },
     {
-      "tag": "Good news",
-      "title": "Nothing was broken — it was just cadence",
-      "detail": "Your deploy token still has full push access. The site only refreshes when a writer task fires (morning brief, inbox summaries), so between fires it shows the last write. pub.py is now hardened to fail loudly if a publish ever IS rejected."
+      "tag": "Calendar",
+      "title": "Brain MRI on Wed Aug 19",
+      "detail": "Mike put a Brain MRI on your calendar for Wednesday Aug 19, 3:30–4:30 PM and invited you both — worth confirming you're set."
     }
   ],
   "schedule": [
     {
-      "time": "4:30 PM",
-      "title": "✓ Rental returned — SRQ",
-      "detail": "Enterprise Pacifica, done",
-      "tag": "Done"
+      "time": "1:00 PM",
+      "title": "Ferry: New London → Orient Point",
+      "detail": "Cross Sound Ferry, booked under Mike; reach the terminal 30–60 min early.",
+      "tag": "Travel"
     },
     {
-      "time": "~8:10 PM",
-      "title": "✓ Landed Charlotte (CLT)",
-      "detail": "AA 5348 in late after the delayed push",
-      "tag": "Done"
-    },
-    {
-      "time": "8:25 PM",
-      "title": "AA 2120  CLT → Portland (PWM)",
-      "detail": "Seats 11C / 11B · scheduled arrival 10:44 PM · conf NXARJF",
-      "tag": "Flight"
-    },
-    {
-      "time": "Tomorrow",
-      "title": "Lara Hamilton's birthday",
-      "detail": "Aug 10 — a note or call when you're settled",
-      "tag": "Reminder"
+      "time": "All day",
+      "title": "Open before and after",
+      "detail": "No meetings on the calendar; the morning and late afternoon are yours.",
+      "tag": "Open"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "GitHub codes & tokens",
-        "detail": "Sudo verify code + 3 access tokens (briefings-deploy 1/2/3); likely you — verify if not."
+        "tag": "Job search",
+        "title": "Anthropic application confirmed",
+        "detail": "Greenhouse confirmed your application for the Policy Partnerships & Convenings Lead role (Fri); MyGreenhouse now tracks it."
       },
       {
         "tag": "Health",
-        "title": "Talkiatry check-in",
-        "detail": "Questionnaire requested before next visit; no deadline. No Mom's-health items."
+        "title": "Talkiatry pre-visit form pending",
+        "detail": "A short questionnaire your clinician wants before your next visit."
       },
       {
-        "tag": "FYI",
-        "title": "Bar Mitzvah save-the-date",
-        "detail": "Paperless Post: Brody's Bar Mitzvah, Sat Dec 12."
-      },
-      {
-        "tag": "FYI",
-        "title": "Possible spam",
-        "detail": "'JustForFans' DM notification (adult site); ignore unless expected."
+        "tag": "Security",
+        "title": "3 GitHub deploy tokens created",
+        "detail": "briefings-deploy 1–3 added over the weekend — expected, from setting up this brief's publisher; no action needed."
       }
     ],
-    "noise": "~6 promos/newsletters: Nextdoor, Snapchat, Talarico campaign, Pip Decks, NYPL, Field Company.",
-    "clear": "No job-search, financial, or urgent-reply mail."
+    "noise": "Mostly promos and newsletters — The Company Store flash sales, Domino's, Delta SkyMiles, New Yorker, FT, NY Sun, Realtor.com, Nextdoor, and a few Tampa/St. Pete parking receipts.",
+    "clear": ""
   },
   "resolved": [
-    "Rental returned to SRQ (Enterprise, conf 2127234511).",
-    "pub.py hardened — a rejected publish now exits non-zero and pings you instead of silently freezing the page.",
-    "Travel itinerary task switched to a live HTML itinerary."
+    "Anthropic application submitted — confirmation from Greenhouse.",
+    "Briefings web-app publisher connected via GitHub deploy tokens."
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Portland, Maine",
+    "location": "East Hampton, NY",
     "confidence": "high",
-    "asOf": "Sun Aug 9"
+    "asOf": "Monday Aug 10"
   }
 }
