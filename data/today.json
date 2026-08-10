@@ -71,5 +71,12 @@
     "Rental returned to SRQ (Enterprise, conf 2127234511).",
     "pub.py hardened — a rejected publish now exits non-zero and pings you instead of silently freezing the page.",
     "Travel itinerary task switched to a live HTML itinerary."
-  ]
+  ],
+  "context": {
+    "kids": false,
+    "phase": "green",
+    "location": "Portland, Maine",
+    "confidence": "high",
+    "asOf": "Sun Aug 9"
+  }
 }
