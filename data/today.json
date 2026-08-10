@@ -1,18 +1,18 @@
 {
   "date": "Sunday, August 9, 2026",
-  "generatedAt": "Live update · 8:55 PM ET",
-  "theme": "In transit — the Charlotte connection, then Portland",
-  "greeting": "Publishing pipeline is back online — this brief is a fresh push, not the frozen 6:43 one. By now the Charlotte connection has played out one way or the other; here's where things stand.",
+  "generatedAt": "Live update · 9:17 PM ET",
+  "theme": "In transit — Charlotte to Portland",
+  "greeting": "Correcting the record: your briefings pipeline was never actually broken. The page sat at 6:43 because that was your manual test publish, and no scheduled task had run since (the next is tonight's inbox summary). This is a fresh live push.",
   "needsAttention": [
     {
       "tag": "Live",
-      "title": "Did AA 2120 to Portland work out?",
-      "detail": "AA 2120 was scheduled out of CLT at 8:25 PM. If you made it, you're airborne now, landing PWM ~10:44 PM. If you missed it, you're in the AA hub — the app usually auto-rebooks onto the next Portland flight before you're off the jet bridge; a gate agent can confirm."
+      "title": "Portland tonight",
+      "detail": "AA 2120 was due out of CLT at 8:25, landing PWM 10:44 PM. If the connection was too tight, American usually auto-rebooks you onto the next flight — check the app."
     },
     {
-      "tag": "Resolved",
-      "title": "Briefings site fixed — it was a stale deploy token",
-      "detail": "The page was frozen at 6:43 because pub.py silently swallowed an auth failure after your token rotation. New token wired in, pub.py now fails loudly, and this update is the proof it's writing again."
+      "tag": "Good news",
+      "title": "Nothing was broken — it was just cadence",
+      "detail": "Your deploy token still has full push access. The site only refreshes when a writer task fires (morning brief, inbox summaries), so between fires it shows the last write. pub.py is now hardened to fail loudly if a publish ever IS rejected."
     }
   ],
   "schedule": [
@@ -42,19 +42,13 @@
     }
   ],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "Security",
-        "title": "Revoke your old deploy tokens",
-        "detail": "Now that the new fine-grained PAT is live, revoke the stale one and any unused deploy token in GitHub → Settings → Developer settings → Fine-grained tokens."
-      }
-    ],
+    "flagged": [],
     "noise": "Nothing new needing you.",
     "clear": "No job-search, financial, or health mail outstanding."
   },
   "resolved": [
     "Rental returned to SRQ (Enterprise, conf 2127234511).",
-    "Briefings publish pipeline restored — token rotated, pub.py hardened to fail loudly.",
+    "pub.py hardened — a rejected publish now exits non-zero and pings you instead of silently freezing the page.",
     "Travel itinerary task switched to a live HTML itinerary."
   ]
 }
