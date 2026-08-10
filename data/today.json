@@ -1,6 +1,6 @@
 {
   "date": "Monday, August 10, 2026",
-  "generatedAt": "Morning brief · 8:00 AM ET",
+  "generatedAt": "Inbox update · 10:35 AM ET",
   "theme": "An open travel day — one ferry north, calm water around it.",
   "greeting": "Good morning, Dan. Nothing's on the calendar before the 1 o'clock ferry, so the day is largely open water — a crossing to the Hamptons and time to yourself on either side.",
   "needsAttention": [
@@ -33,22 +33,27 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Anthropic application confirmed",
-        "detail": "Greenhouse confirmed your application for the Policy Partnerships & Convenings Lead role (Fri); MyGreenhouse now tracks it."
-      },
-      {
-        "tag": "Health",
-        "title": "Talkiatry pre-visit form pending",
-        "detail": "A short questionnaire your clinician wants before your next visit."
+        "title": "Likely-phishing \"interview update\"",
+        "detail": "sourcehire.app asks you to confirm visa/work authorization for a Confidential SVP Global Public Policy role (REQ64085). Scam signals — don't click; verify independently. Only job-search item."
       },
       {
         "tag": "Security",
-        "title": "3 GitHub deploy tokens created",
-        "detail": "briefings-deploy 1–3 added over the weekend — expected, from setting up this brief's publisher; no action needed."
+        "title": "GitHub: 3 access tokens + sudo code",
+        "detail": "Sudo verification code plus 3 fine-grained PATs (briefings-deploy, -2, -3) created Aug 9–10. Matches your briefings app; confirm it was you."
+      },
+      {
+        "tag": "Financial",
+        "title": "Uber charge $19.97",
+        "detail": "Receipt + charge summary for Sunday-evening ride."
+      },
+      {
+        "tag": "Health",
+        "title": "Talkiatry check-in request",
+        "detail": "Questionnaire for your clinician (your own care). No Mom's Health items."
       }
     ],
-    "noise": "Mostly promos and newsletters — The Company Store flash sales, Domino's, Delta SkyMiles, New Yorker, FT, NY Sun, Realtor.com, Nextdoor, and a few Tampa/St. Pete parking receipts.",
-    "clear": ""
+    "noise": "~20 promotional/newsletter emails (Company Store, Field Company, Jack Archer, BBC Maestro, NY Sun, NYPL, Todoist x2, Zapier, etc.), plus 1 adult-content spam and a misdirected HVAC notice.",
+    "clear": "No confirmed-legitimate urgent mail; the only job-search email looks like a phishing attempt."
   },
   "resolved": [
     "Anthropic application submitted — confirmation from Greenhouse.",
