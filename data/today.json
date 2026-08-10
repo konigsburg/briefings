@@ -1,6 +1,6 @@
 {
   "date": "Sunday, August 9, 2026",
-  "generatedAt": "Live update · 9:17 PM ET",
+  "generatedAt": "Inbox update · 10:04 PM ET",
   "theme": "In transit — Charlotte to Portland",
   "greeting": "Correcting the record: your briefings pipeline was never actually broken. The page sat at 6:43 because that was your manual test publish, and no scheduled task had run since (the next is tonight's inbox summary). This is a fresh live push.",
   "needsAttention": [
@@ -42,9 +42,30 @@
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "Nothing new needing you.",
-    "clear": "No job-search, financial, or health mail outstanding."
+    "flagged": [
+      {
+        "tag": "Security",
+        "title": "GitHub codes & tokens",
+        "detail": "Sudo verify code + 3 access tokens (briefings-deploy 1/2/3); likely you — verify if not."
+      },
+      {
+        "tag": "Health",
+        "title": "Talkiatry check-in",
+        "detail": "Questionnaire requested before next visit; no deadline. No Mom's-health items."
+      },
+      {
+        "tag": "FYI",
+        "title": "Bar Mitzvah save-the-date",
+        "detail": "Paperless Post: Brody's Bar Mitzvah, Sat Dec 12."
+      },
+      {
+        "tag": "FYI",
+        "title": "Possible spam",
+        "detail": "'JustForFans' DM notification (adult site); ignore unless expected."
+      }
+    ],
+    "noise": "~6 promos/newsletters: Nextdoor, Snapchat, Talarico campaign, Pip Decks, NYPL, Field Company.",
+    "clear": "No job-search, financial, or urgent-reply mail."
   },
   "resolved": [
     "Rental returned to SRQ (Enterprise, conf 2127234511).",
