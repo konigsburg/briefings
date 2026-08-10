@@ -1,0 +1,1591 @@
+{
+  "meta": {
+    "title": "Dan's Cookbook Library",
+    "purpose": "Source pool for the daily recipe in the morning brief. Each day the brief picks one recipe (seasonally appropriate where possible), names the dish + book, and Dan cooks from his own copy.",
+    "lastUpdated": "2026-08-10",
+    "version": 1.1,
+    "note": "Recipe titles transcribed from photographed contents/index pages. Page numbers are included only where clearly legible; the book title + recipe name is the reliable anchor (each book has its own index). Books marked coverage:'structure-only' or 'cover-only' need contents photos before their individual recipes can be drawn.",
+    "seasonNow": "late summer",
+    "booksTotal": 10,
+    "selection": "Each morning: season = month (Dec-Feb winter, Mar-May spring, Jun-Aug summer, Sep-Nov autumn); pick seasonalPools[season][ dayOfYear mod len ] — deterministic rotation, no repeats within a season, no state needed."
+  },
+  "books": [
+    {
+      "id": "reichl-my-kitchen-year",
+      "title": "My Kitchen Year",
+      "subtitle": "136 Recipes That Saved My Life",
+      "author": "Ruth Reichl",
+      "organizedBy": "season",
+      "seasons": [
+        "fall",
+        "winter",
+        "spring",
+        "summer"
+      ],
+      "coverage": "structure-only",
+      "needsPhotos": true,
+      "sections": [
+        {
+          "name": "Fall",
+          "recipes": []
+        },
+        {
+          "name": "Winter",
+          "recipes": []
+        },
+        {
+          "name": "Spring",
+          "recipes": []
+        },
+        {
+          "name": "Summer",
+          "recipes": []
+        }
+      ]
+    },
+    {
+      "id": "lawson-how-to-eat",
+      "title": "How to Eat",
+      "subtitle": "The Pleasures and Principles of Good Food",
+      "author": "Nigella Lawson",
+      "organizedBy": "type",
+      "coverage": "rich",
+      "needsPhotos": false,
+      "sections": [
+        {
+          "name": "Basics, Etc.",
+          "recipes": [
+            "Basic Roast Chicken",
+            "Stock",
+            "Mayonnaise",
+            "Hollandaise",
+            "Béarnaise",
+            "Béchamel",
+            "Vegetable Soup",
+            "Bread Crumbs",
+            "Plain Salad Dressing",
+            "Basic French Dressing",
+            "Victoria Sponge",
+            "Birthday Cake",
+            "Fancy Cake",
+            "Basic White Loaf",
+            "Lemon Curd",
+            "Real Custard",
+            "Basic Vanilla Ice Cream",
+            "The World's Best Chocolate Ice Cream",
+            "Crêpes",
+            "Plain Pastry Dough",
+            "Rich Pastry Dough",
+            "Sweet Pastry Dough",
+            "Crumble",
+            "Scented Panna Cotta with Gooseberry Compote",
+            "A Christmas Goose",
+            "Lidgate's Chestnut Stuffing",
+            "Lidgate's Cranberry and Orange Stuffing",
+            "Gravy",
+            "Bread Sauce",
+            "Brussels Sprouts and Chestnuts",
+            "Cranberry Sauce",
+            "Brandy Butter",
+            "Iced Rum Sauce",
+            "Mincemeat",
+            "Ed Victor's Turkey Hash",
+            "Panchphoran Aloo (Potatoes in Whole Spices)",
+            "Lentil and Chestnut Soup",
+            "Christmas Queen of Puddings",
+            "Clementine Cake"
+          ]
+        },
+        {
+          "name": "Cooking in Advance",
+          "recipes": [
+            "Anna's Chickpea and Pasta Soup",
+            "South Beach Black Bean Soup",
+            "Consommé",
+            "Italian Broth",
+            "Gnocchetti di Semolino",
+            "Baked Veal and Ham Pasta",
+            "Oxtail with Stout and Marjoram",
+            "Cawl",
+            "Greek Lamb Stew",
+            "Venison in White Wine",
+            "Chicken and Chickpea Tagine",
+            "Beef Stew with Anchovies and Thyme",
+            "Braised Pheasant with Mushrooms and Bacon",
+            "Ratatouille",
+            "Moussaka",
+            "Petits Pois à la Française",
+            "Onion Mush",
+            "Rhubarb, Muscat, and Mascarpone Trifle",
+            "Proper English Trifle",
+            "White Tiramisu",
+            "Quince Syllabub",
+            "Stem Ginger Gingerbread",
+            "Almond and Orange-Blossom Cake",
+            "Baked Spiced Aromatic Plums",
+            "Barbados Cream"
+          ]
+        },
+        {
+          "name": "One and Two",
+          "recipes": [
+            "Linguine with Clams",
+            "Cod with Clams",
+            "Moules Marinière",
+            "Scallops and Bacon",
+            "Shrimp with Garlic and Chili Pepper",
+            "Fried Shrimp Cakes",
+            "Peter Rabbit in Mr. McGregor's Salad",
+            "Liver with Sweet Onions",
+            "Marinated, Flattened Quail",
+            "Chicken with Morels",
+            "Steak au Poivre",
+            "Home Carpaccio of Beef",
+            "Lamb and Bean Braise",
+            "Pea Risotto",
+            "Pea Soufflé",
+            "Cream of Chicken Soup",
+            "Butternut Squash and Pasta Soup",
+            "Sunday Night Chicken Noodle",
+            "Pasta with Anchovy Sauce",
+            "Kale with Chorizo and Poached Egg",
+            "Grouse with Mascarpone and Thyme",
+            "Blini",
+            "Zabaglione",
+            "Baked Semolina",
+            "Apple and Walnut Crumble",
+            "Risotto-Inspired Rice Pudding"
+          ]
+        },
+        {
+          "name": "Fast Food",
+          "recipes": [
+            "Red Mullet with Garlic and Rosemary",
+            "Gooey Chocolate Puddings",
+            "Beef Stroganoff",
+            "Roast Sugar-Sprinkled Peaches",
+            "Squid with Chili and Clams",
+            "Sole with Chanterelles",
+            "Mascarpone, Rum, and Lime Cream",
+            "Lamb with Garlicky Tahini",
+            "Passion Fruit Fool",
+            "Roast Cod with Pea Purée",
+            "Duck with Orange Salsa",
+            "Noodles with Scallions, Shiitake Mushrooms, and Snow Peas",
+            "Mackerel in Cider",
+            "Chambéry Trout"
+          ]
+        },
+        {
+          "name": "Weekend Lunch",
+          "recipes": [
+            "Salsa Verde",
+            "Salmon Scallops with Warm Balsamic Vinaigrette",
+            "Cinnamon-Hot Rack of Lamb",
+            "Charred and Chickpea'd Couscous",
+            "Baked Figs",
+            "Seven-Minute Steamed Chocolate Pudding",
+            "Steak Mirabeau",
+            "Lemon Chicken",
+            "Sticky Chocolate Pudding",
+            "Mushroom Ragoût",
+            "Oven-Cooked Polenta",
+            "Golden Roof Vegetable Couscous",
+            "Chicken Stew with Couscous",
+            "Harissa",
+            "Coconut Crème Caramel",
+            "Ham Cooked in Cider",
+            "Steak and Kidney Pie",
+            "Banana Custard",
+            "Crab and Saffron Tart",
+            "Lemon Linguine",
+            "Tarte Tatin",
+            "Baked Caramel Apples",
+            "Taramasalata",
+            "Garlic Chicken Wings",
+            "Choucroute Garni",
+            "The Roast Beef",
+            "The Gravy",
+            "The Roast Potatoes",
+            "The Yorkshire Pudding",
+            "Lemon Ice Cream",
+            "Cold Roast Fillet of Beef"
+          ]
+        },
+        {
+          "name": "Dinner",
+          "recipes": [
+            "Chicken-Liver Crostini",
+            "Pea and Garlic Crostini",
+            "Roast Pepper with Green Olive Paste Crostini",
+            "Gorgonzola with Mascarpone and Marsala Crostini",
+            "Lentil and Black Olive Crostini",
+            "Mushrooms Crostini",
+            "Shrimp and Eggplant Crostini",
+            "Beans Wrapped in Prosciutto Crostini",
+            "Caesar Salad",
+            "Loin of Pork with Bay Leaves",
+            "Rhubarb Ice Cream",
+            "Rhubarb and Muscat Jelly",
+            "Ceviche with Hot Garlic Potatoes",
+            "The Tenderest Chicken",
+            "Chocolate Raspberry Pudding Cake",
+            "Lemon Pie",
+            "Roast Shoulder of Lamb",
+            "Green Salad with Green Beans",
+            "Translucent Apple Tart",
+            "Gigot Boulangère",
+            "Caper Sauce for Roast Lamb",
+            "Roast Fresh Ham",
+            "Red Cabbage Cooked in the Viennese Fashion",
+            "Apple Butterscotch Tart",
+            "Roast Loin of Pork",
+            "Clapshot with Burnt Onions",
+            "Custard Tart",
+            "Salmon Baked in Foil",
+            "Ham in Coca-Cola",
+            "Cherry Pie",
+            "Endive and Mustard Salad",
+            "Pea Orzotto",
+            "Roast Leeks",
+            "Poached Pistachio-Sprinkled Apricots Stuffed with Crème Fraîche",
+            "Guacamole",
+            "Paprika-Toasted Potato Skins and Their Mashed Pulp",
+            "Cod Wrapped in Ham",
+            "Sage and Onion Lentils",
+            "Hazelnut Cake",
+            "Chestnut and Pancetta Salad",
+            "Roast Venison Fillet",
+            "Quinces Poached in Muscat",
+            "Marsala Muscovado Custard with Muskily Spiced Prunes",
+            "Little Gems with Green Goddess Dressing",
+            "Pheasant with Gin and It",
+            "Sweet and Sour Cabbage",
+            "Pavlova with Passion Fruit",
+            "Grilled Pepper Salad",
+            "Butterflied Leg of Lamb with Garlic Potatoes",
+            "Sauternes Custard (or Ice Cream)",
+            "Poached Peaches",
+            "Sauternes and Lemon Balm Jelly",
+            "Pea, Mint, and Avocado Salad",
+            "Beef Fillet with Red Wine, Anchovies, Garlic, and Thyme",
+            "Strawberries in Dark Syrup",
+            "Proust's Madeleines",
+            "Pea and Lettuce Soup",
+            "Lamb with Chickpeas",
+            "Couscous Salad",
+            "Turkish Delight Figs",
+            "Pistachio Crescents",
+            "Onion Tart",
+            "Roast Monkfish",
+            "Pumpkin Purée"
+          ]
+        },
+        {
+          "name": "Low Fat",
+          "recipes": [
+            "Mixed Mushrooms",
+            "Blakean Fish Pie",
+            "The Irish Club's Irish Stew",
+            "Spanish Stew",
+            "One-Pan Chicken",
+            "Involtini",
+            "Tagliatelle with Chicken from the Venetian Ghetto",
+            "Aromatic Chili Beef Noodle Soup",
+            "Mushroom Udon Soup",
+            "Braised Dried Shiitake Mushrooms with Soba Noodles",
+            "Seaweed and Noodle Salad",
+            "Mackerel Teriyaki",
+            "Black Cod Marinated in Den Miso",
+            "Cambodian Hot-and-Sour Beef Salad",
+            "Thai-Flavored Mussels",
+            "Thai Clam Pot",
+            "Vegetable Miso Broth",
+            "Lacquered Quail",
+            "Beet Greens and Buckwheat Noodles",
+            "Shredded Beet Salad with Yogurt",
+            "Beet Soup",
+            "Restrained Mushroom Risotto",
+            "Linguine with Crab",
+            "Miso-Mustard Dressing",
+            "Roast Garlic and Lemon Dressing",
+            "Vegetable Curry in Vegetable Sauce",
+            "Beef Braised in Beer",
+            "Half-Coq au Vin",
+            "Char Siu"
+          ]
+        },
+        {
+          "name": "Feeding Babies and Small Children",
+          "recipes": [
+            "Gypsy Toast",
+            "Poussin",
+            "Lamb Chops",
+            "Garlic Mushrooms",
+            "Quails' Eggs and New Potatoes",
+            "Garlic-Fried Potatoes",
+            "Garlic Roast Potatoes",
+            "Frittata",
+            "Cod and Peas",
+            "Chicken Strips",
+            "Macaroni and Cheese",
+            "Cottage Pie and Shepherd's Pie",
+            "Veal, Liver, and Bacon Pie",
+            "Beef and Beans with Pasta",
+            "Meatballs in Tomato Sauce",
+            "Clove-Hot Chili con Carne",
+            "Duck Liver Sauce",
+            "Pasta Sauce with Sausage",
+            "Chicken Patties",
+            "Chicken Pie",
+            "Marinated Chicken Drumsticks",
+            "Mushroom Risotto",
+            "Salmon Fishcakes",
+            "Children's Chocolate Mousse",
+            "Cheese Stars",
+            "Digestive Biscuits",
+            "Fairy Cakes",
+            "Jam Tarts",
+            "The Cake",
+            "The Cookies",
+            "Fish Sandwiches"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lawson-forever-summer",
+      "title": "Forever Summer",
+      "author": "Nigella Lawson",
+      "organizedBy": "course",
+      "seasons": [
+        "summer"
+      ],
+      "coverage": "structure-only",
+      "needsPhotos": true,
+      "sections": [
+        {
+          "name": "First Course",
+          "recipes": []
+        },
+        {
+          "name": "Second Course",
+          "recipes": []
+        },
+        {
+          "name": "Puddings",
+          "recipes": []
+        },
+        {
+          "name": "Drinks",
+          "recipes": []
+        }
+      ]
+    },
+    {
+      "id": "slater-kitchen-diaries",
+      "title": "The Kitchen Diaries",
+      "author": "Nigel Slater",
+      "organizedBy": "month",
+      "seasons": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "coverage": "partial",
+      "needsPhotos": true,
+      "sections": [
+        {
+          "name": "January",
+          "recipes": [
+            "Dal and pumpkin soup",
+            "A salad of fennel, winter leaves and Parmesan",
+            "Stew",
+            "A frosted marmalade cake",
+            "Frozen yoghurt with roast rhubarb",
+            "Double ginger cake",
+            "Onion soup without tears",
+            "Cheese-smothered potatoes",
+            "A velvety soup for a clear, cold day",
+            "Bulghur wheat with aubergines and mint",
+            "A really good spaghetti Bolognaise",
+            "Chicken broth with noodles, lemon and mint",
+            "Spiced crumbed mackerel with smoked paprika",
+            "A herb butter for grilled chops",
+            "A pot-roast pheasant with celery and sage",
+            "A clear, hot mussel soup",
+            "Sausages with salami and lentils",
+            "A lime tart"
+          ]
+        },
+        {
+          "name": "February",
+          "recipes": []
+        },
+        {
+          "name": "March",
+          "recipes": []
+        },
+        {
+          "name": "April",
+          "recipes": []
+        },
+        {
+          "name": "May",
+          "recipes": []
+        },
+        {
+          "name": "June",
+          "recipes": []
+        },
+        {
+          "name": "July",
+          "recipes": []
+        },
+        {
+          "name": "August",
+          "recipes": []
+        },
+        {
+          "name": "September",
+          "recipes": []
+        },
+        {
+          "name": "October",
+          "recipes": []
+        },
+        {
+          "name": "November",
+          "recipes": []
+        },
+        {
+          "name": "December",
+          "recipes": []
+        }
+      ]
+    },
+    {
+      "id": "slater-kitchen-diaries-ii",
+      "title": "The Kitchen Diaries II",
+      "author": "Nigel Slater",
+      "organizedBy": "month",
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "coverage": "structure-only",
+      "needsPhotos": true,
+      "sections": [
+        {
+          "name": "Spring eats (April, May, June)",
+          "recipes": []
+        },
+        {
+          "name": "Summer eats (July, August, September)",
+          "recipes": []
+        },
+        {
+          "name": "Autumn eats (October, November, December)",
+          "recipes": []
+        },
+        {
+          "name": "Winter eats (January, February, March)",
+          "recipes": []
+        }
+      ]
+    },
+    {
+      "id": "slater-notes-from-the-larder",
+      "title": "Notes from the Larder",
+      "subtitle": "A Kitchen Diary with Recipes",
+      "author": "Nigel Slater",
+      "organizedBy": "month",
+      "coverage": "cover-only",
+      "needsPhotos": true,
+      "sections": []
+    },
+    {
+      "id": "slater-a-cooks-book",
+      "title": "A Cook's Book",
+      "author": "Nigel Slater",
+      "organizedBy": "type",
+      "coverage": "structure-only",
+      "needsPhotos": true,
+      "sections": [
+        {
+          "name": "A bowl of soup",
+          "recipes": []
+        },
+        {
+          "name": "Breaking bread",
+          "recipes": []
+        },
+        {
+          "name": "Everyday greens",
+          "recipes": []
+        },
+        {
+          "name": "A chicken in the pot",
+          "recipes": []
+        },
+        {
+          "name": "Everyday dinners",
+          "recipes": []
+        },
+        {
+          "name": "Meat feast",
+          "recipes": []
+        },
+        {
+          "name": "Sometimes, you just want pie",
+          "recipes": []
+        },
+        {
+          "name": "A slice of tart",
+          "recipes": []
+        },
+        {
+          "name": "Pudding and other matters",
+          "recipes": []
+        },
+        {
+          "name": "Five cakes for everyday (and four for a special occasion)",
+          "recipes": []
+        },
+        {
+          "name": "The stillness of cheesecake",
+          "recipes": []
+        },
+        {
+          "name": "Four chocolate cakes",
+          "recipes": []
+        },
+        {
+          "name": "The ritual of tea",
+          "recipes": []
+        },
+        {
+          "name": "Just one more bite before I go",
+          "recipes": []
+        }
+      ]
+    },
+    {
+      "id": "slater-eat",
+      "title": "Eat",
+      "subtitle": "The Little Book of Fast Food",
+      "author": "Nigel Slater",
+      "organizedBy": "method",
+      "coverage": "partial",
+      "needsPhotos": true,
+      "sections": [
+        {
+          "name": "In the hand",
+          "recipes": []
+        },
+        {
+          "name": "In a bowl",
+          "recipes": []
+        },
+        {
+          "name": "In the frying pan",
+          "recipes": []
+        },
+        {
+          "name": "On the grill",
+          "recipes": []
+        },
+        {
+          "name": "On the stove",
+          "recipes": []
+        },
+        {
+          "name": "Little stews",
+          "recipes": []
+        },
+        {
+          "name": "In the oven",
+          "recipes": []
+        },
+        {
+          "name": "Under a crust",
+          "recipes": []
+        },
+        {
+          "name": "In a wok",
+          "recipes": []
+        },
+        {
+          "name": "On a plate",
+          "recipes": []
+        },
+        {
+          "name": "Desserts",
+          "recipes": []
+        },
+        {
+          "name": "By main ingredient — Chicken",
+          "recipes": [
+            "Butterflied Chicken, Arugula, Couscous",
+            "Chicken, Asparagus, and Avocado Sandwich",
+            "Chicken Breast with Smoked Cheese and Pancetta",
+            "Chicken Breasts with Taleggio",
+            "Chicken Skin Popcorn",
+            "Chicken Wings, Katsu Sauce",
+            "Chicken Wings with Onion Umeboshi Chutney",
+            "Chicken with Sour Cream and Gherkins",
+            "Cider Thighs",
+            "Citrus Chile Grilled Chicken",
+            "Marmalade Chicken",
+            "One-Pan Sunday Lunch",
+            "Paprika, Mustard Chicken Goujons",
+            "Chicken, Sherry, Almond Pot Roast",
+            "Quick Chicken Potpie",
+            "Ras el Hanout Chicken and Spelt",
+            "Satay Drumsticks",
+            "Stir-Fried Chicken Baguette"
+          ]
+        },
+        {
+          "name": "By main ingredient — Duck",
+          "recipes": [
+            "Duck Burgers",
+            "Duck with Beans"
+          ]
+        },
+        {
+          "name": "By main ingredient — Lamb",
+          "recipes": [
+            "Grilled Lamb with Minted Feta",
+            "Lamb Chops with Mustard Seed and Coconut",
+            "Lamb Shanks with Crushed Roots",
+            "Lamb with Yogurt and Turmeric",
+            "Lamb's Liver, Onions, and Pecorino",
+            "Roast Lamb, Mustard, and Crumbs",
+            "Slow-Roast Belly of Lamb",
+            "Spiced Sesame Lamb with Cucumber and Yogurt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slater-christmas-chronicles",
+      "title": "The Christmas Chronicles",
+      "author": "Nigel Slater",
+      "organizedBy": "winter diary",
+      "seasons": [
+        "winter"
+      ],
+      "coverage": "cover-only",
+      "needsPhotos": true,
+      "sections": []
+    },
+    {
+      "id": "canal-house-cooks-every-day",
+      "title": "Canal House Cooks Every Day",
+      "author": "Hamilton & Hirsheimer",
+      "organizedBy": "season + recipe-index categories",
+      "seasons": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "coverage": "rich",
+      "needsPhotos": false,
+      "sections": [
+        {
+          "name": "Soups",
+          "recipes": [
+            "cold avocado & cucumber soup",
+            "restorative beef broth",
+            "warm beet soup",
+            "cold carrot soup",
+            "chicken soup with ditalini",
+            "chicken broth with spinach & little meatballs",
+            "spinach tagliatelle & peas in golden chicken broth",
+            "cleansing ginger-chicken soup",
+            "chilled corn soup",
+            "cold white corn soup with lobster & avocado",
+            "duck soup with cabbage, ham & chinese rice noodles",
+            "roasted red pepper & tomato gazpacho",
+            "stinging nettle soup",
+            "chilled potato & celery soup",
+            "roasted pumpkin soup",
+            "white sweet potato soup with pickled scallions",
+            "turkey & potato soup",
+            "everyday vegetable tonic",
+            "watercress soup"
+          ]
+        },
+        {
+          "name": "Salads",
+          "recipes": [
+            "artichoke, pea & fava bean salad",
+            "asparagus vinaigrette",
+            "shaved asparagus & arugula salad",
+            "pickled beets with bruschetta",
+            "canal house year-round caprese salad",
+            "chopped celery salad",
+            "chanterelle salad",
+            "roast chicken & bread salad",
+            "marinated chicken salad with radicchio & iceberg",
+            "waldorf chicken salad",
+            "corn, string bean & potato salad",
+            "succotash salad",
+            "canal house crab louis",
+            "cool cucumber & mint salad with sichuan pepper",
+            "escarole salad with lemon",
+            "ruby red grapefruit, avocado & escarole salad",
+            "green lentil & smoked ham hock salad",
+            "potato salad 'buttered' & lemoned",
+            "old-fashioned layered potato salad",
+            "hearts of romaine",
+            "string beans vinaigrette with mimosa dressing",
+            "composed summer salad with french feta",
+            "sliced tomatoes with arugula",
+            "tomatoes with tonnato sauce",
+            "treviso with mustard vinaigrette"
+          ]
+        },
+        {
+          "name": "Eggs",
+          "recipes": [
+            "how to boil an egg",
+            "'buttered' eggs",
+            "buckwheat crêpes with ham & cheese",
+            "deviled eggs",
+            "chorizo & potato frittata",
+            "ham & cheese omelet",
+            "open-faced zucchini omelet",
+            "open-faced sandwiches",
+            "soft scrambled eggs & chanterelles"
+          ]
+        },
+        {
+          "name": "Pasta, rice & grains",
+          "recipes": [
+            "asparagus on pasta with a poached egg & lemon butter",
+            "lasagne bolognese",
+            "pappardelle bolognese",
+            "butternut squash & candied bacon on fresh pasta",
+            "cannelloni",
+            "deconstructed carbonara",
+            "spaghetti alla carbonara",
+            "curd rice",
+            "raviolini with fava beans & parmigiano",
+            "green lasagne with tomato sauce & fresh ricotta",
+            "buttery lobster capellini",
+            "pappardelle & mushrooms",
+            "rigatoni with passato & parmigiano-reggiano",
+            "fresh pasta",
+            "pappardelle with peas & scallions bathed in cream",
+            "rice salad",
+            "risotto cakes with anchovies (or not)",
+            "shrimp risotto",
+            "hot spaghetti tossed with raw tomato sauce",
+            "spaghetti with tomato sauce & ricotta",
+            "spinach pasta",
+            "spinach tagliatelle with tomato sauce & ricotta",
+            "spinach tagliatelle bolognese"
+          ]
+        },
+        {
+          "name": "Pizza",
+          "recipes": [
+            "pizza dough",
+            "potato & onion pizza",
+            "escarole, fontina & black olive pizza",
+            "prosciutto, lemon & green olive pizza",
+            "white clam pizza"
+          ]
+        },
+        {
+          "name": "Fish & shellfish",
+          "recipes": [
+            "canal house crab louis",
+            "potted crab",
+            "birthday halibut with beets & asparagus vinaigrette",
+            "buttery lobster capellini",
+            "lobster stew",
+            "fried fish & french-fried potatoes",
+            "grilled salmon",
+            "wild salmon crudo with arugula salad",
+            "smoked salmon butter",
+            "smoked salmon with chèvre on crax",
+            "poached wild salmon with fresh english peas & morels",
+            "sausage & clam stew",
+            "pickled shrimp & celery",
+            "shrimp roast",
+            "sole meunière with peas, parsley & chives"
+          ]
+        },
+        {
+          "name": "Birds",
+          "recipes": [
+            "chicken en gelée sandwiches",
+            "chicken roasted over potatoes & lemon",
+            "chicken thighs with pancetta & caperberries",
+            "fennel & ginger-rubbed chicken with cauliflower",
+            "marinated chicken salad with radicchio & iceberg",
+            "pan-fried chicken thighs with little zucchini",
+            "poached chicken with tarragon & chive mayonnaise",
+            "roast chicken",
+            "roast chicken & bread salad",
+            "roast chicken smothered with chanterelles",
+            "roasted chicken in a pot with spring onions",
+            "the fry queen's fried chicken",
+            "waldorf chicken salad",
+            "duck breasts with apples & caraway",
+            "confit of duck legs with potatoes sarladaise",
+            "roast goose with ten legs",
+            "grilled quail with braised chestnuts & kabocha squash",
+            "galantine of turkey & pork with peas",
+            "roast turkey",
+            "day-after-thanksgiving turkey sandwich"
+          ]
+        },
+        {
+          "name": "Meat",
+          "recipes": [
+            "braised beef brisket with onions & currants",
+            "beef tenderloin with parsley-tarragon butter",
+            "whole beef tenderloin, peppered & grilled",
+            "roast beef sandwich with avocado & tomato",
+            "roast prime rib of beef",
+            "bratwurst with fingerling potatoes",
+            "bratwurst with sautéed caraway cabbage",
+            "sliced brisket with onions on a soft potato roll",
+            "corned beef & cabbage",
+            "rolled flank steak with pesto",
+            "baked ham with golden bread crumbs",
+            "baked ham with mustard & brown sugar sauce",
+            "sliced ham on baguette",
+            "sliced ham with cannellini & lemon",
+            "cold leg of lamb for easter",
+            "roast leg of lamb with rosemary",
+            "lamb shoulder chops with rosemary potatoes",
+            "march meatball madness",
+            "pork chops with roasted beets & escarole salad",
+            "pork cutlets with pickled pearl onions & pancetta",
+            "pork stewed in guajillo chile mole",
+            "roast pork with salmoriglio",
+            "rabbit stew",
+            "sausage & clam stew",
+            "pimentón & caraway short ribs with egg noodles",
+            "two steaks feed four",
+            "skirt steak with buttered spinach & french fries",
+            "hoisin-ful spareribs for the fourth of july",
+            "breast of veal braised with green olives & tomatoes",
+            "'brunette' de veau"
+          ]
+        },
+        {
+          "name": "Vegetables & legumes",
+          "recipes": [
+            "asparagus with lemon-butter sauce",
+            "roasted asparagus",
+            "fire-toasted corn tortilla with mashed avocado",
+            "avocado mash on multigrain toast",
+            "pickled beets with horseradish cream",
+            "borlotti beans with sautéed baby kale",
+            "butternut squash & candied bacon on fresh pasta",
+            "cannellini with smoked ham & rosemary",
+            "caponata",
+            "cauliflower with bread crumbs, pancetta & prunes",
+            "fricassée of chanterelles",
+            "chestnut & pearl onion stuffing",
+            "cranberry beans in olive oil",
+            "fritto misto",
+            "the garden giveth",
+            "kabocha squash, yukon gold potatoes & cipolline",
+            "roasted kabocha squash",
+            "crushed potatoes with pancetta, peas & scallions",
+            "brian's mashed potato trick",
+            "sister frances's potatoes",
+            "roasted spring onions",
+            "tomato 'rollmops'",
+            "tomato tart",
+            "tomatoes all dressed up for summer",
+            "tomatoes take a warm oil bath",
+            "the splendid summer tomato sandwich",
+            "olive oil–poached zucchini & raw tomatoes",
+            "sautéed zucchini with scallions & fresh mozzarella"
+          ]
+        },
+        {
+          "name": "Canal House essentials",
+          "recipes": [
+            "anchovy & lemon butter",
+            "apples cooked with cumin",
+            "apricot syrup",
+            "balsamella",
+            "blue cheese with black pepper",
+            "browned flour",
+            "buttermilk love cakes",
+            "cheese straws",
+            "compound butters (fresh herb, lemon, horseradish, pimentón)",
+            "cornbread",
+            "cranberry-port gelée",
+            "dill sauce",
+            "golden bread crumbs with pancetta & prunes",
+            "green sauce with mint & parsley",
+            "ian's healthy pancakes",
+            "irish soda bread",
+            "little yorkshire puddings",
+            "melba toasts",
+            "no-knead bread",
+            "parsley sauce",
+            "preserved lemons",
+            "preserved strawberries & jamón serrano on little toasts",
+            "ragù bolognese",
+            "red currant jelly",
+            "rhubarb syrup",
+            "simple puff pastry",
+            "simple syrup",
+            "quick tomato sauce",
+            "simple tomato sauce",
+            "strawberry conserves",
+            "tartar sauce",
+            "tetrazzini sauce",
+            "turkey gravy",
+            "turkey stock"
+          ]
+        },
+        {
+          "name": "Desserts",
+          "recipes": [
+            "apple galette",
+            "apple tart",
+            "apricot & almond upside-down cake",
+            "mixed berry cobbler",
+            "squished berries with crème anglaise",
+            "thick & chewy brownies",
+            "thin & crisp chocolate chip cookies",
+            "chocolate sponge cake",
+            "fallen chocolate soufflé cake",
+            "little chocolate turnovers",
+            "scrappy coffee granita",
+            "old-fashioned baked vanilla custard",
+            "gianduia & caramel tart",
+            "little gianduia turnovers",
+            "ginger spice cake with dried cherries",
+            "puff pastry jam tartlets",
+            "kabocha squash pie",
+            "lemon meringue tart",
+            "pink lemon granita",
+            "marmalade cake",
+            "vin santo–roasted pears",
+            "agee's pecan pies",
+            "chocolate-covered boozy prunes",
+            "pumpkin chiffon pie",
+            "red velvet cupcakes with meringue frosting",
+            "roasted rhubarb",
+            "birthday strawberry pavlova",
+            "strawberries romanoff",
+            "strawberry shortcake",
+            "classic tuiles",
+            "classic vanilla ice cream",
+            "poached white peaches in lemon verbena syrup"
+          ]
+        },
+        {
+          "name": "Drinks",
+          "recipes": [
+            "apricot cooler",
+            "apricot spritzer",
+            "bellini",
+            "limonata",
+            "lemonade",
+            "melon water",
+            "milk punch",
+            "rummy apricot",
+            "tisane of fresh or dried lemon verbena",
+            "winter margarita"
+          ]
+        },
+        {
+          "name": "Celebration menus",
+          "recipes": [
+            "Easter Dinner",
+            "Birthday Lunch",
+            "The Garden Giveth",
+            "Fourth of July",
+            "Thanksgiving",
+            "Christmas",
+            "Hair of the Dog",
+            "Pizza Party",
+            "Valentine Sweets",
+            "March Meatball Madness",
+            "St. Paddy's Day"
+          ]
+        }
+      ]
+    }
+  ],
+  "seasonalPools": {
+    "summer": [
+      {
+        "title": "Cold white corn soup with lobster & avocado",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Chilled corn soup",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Roasted red pepper & tomato gazpacho",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Cold avocado & cucumber soup",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "The splendid summer tomato sandwich",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Tomatoes all dressed up for summer",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Olive oil–poached zucchini & raw tomatoes",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Sautéed zucchini with scallions & fresh mozzarella",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Composed summer salad with french feta",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Canal house year-round caprese salad",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Cool cucumber & mint salad with sichuan pepper",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Corn, string bean & potato salad",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Succotash salad",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "String beans vinaigrette with mimosa dressing",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Grilled salmon",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Wild salmon crudo with arugula salad",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Lobster stew",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Sausage & clam stew",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Shrimp roast",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "White clam pizza",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Strawberry shortcake",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Birthday strawberry pavlova",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Poached white peaches in lemon verbena syrup",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Pink lemon granita",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Grilled Pepper Salad",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Pea, Mint, and Avocado Salad",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Salsa Verde",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Baked Figs",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Roast Sugar-Sprinkled Peaches",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Poached Peaches",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Salmon Baked in Foil",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Chambéry Trout",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Squid with Chili and Clams",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Green Salad with Green Beans",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Strawberries in Dark Syrup",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Grilled Lamb with Minted Feta",
+        "book": "Eat"
+      },
+      {
+        "title": "Citrus Chile Grilled Chicken",
+        "book": "Eat"
+      }
+    ],
+    "autumn": [
+      {
+        "title": "Roasted pumpkin soup",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "White sweet potato soup with pickled scallions",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Warm beet soup",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Chanterelle salad",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Roast chicken smothered with chanterelles",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Fricassée of chanterelles",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Roasted kabocha squash",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Kabocha squash, yukon gold potatoes & cipolline",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Butternut squash & candied bacon on fresh pasta",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Grilled quail with braised chestnuts & kabocha squash",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Duck breasts with apples & caraway",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Pork chops with roasted beets & escarole salad",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Borlotti beans with sautéed baby kale",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Apple galette",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Kabocha squash pie",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Pumpkin chiffon pie",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Vin santo–roasted pears",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Ginger spice cake with dried cherries",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Braised Pheasant with Mushrooms and Bacon",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Pheasant with Gin and It",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Roast Venison Fillet",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Mushroom Ragoût",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Onion Tart",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Roast Monkfish",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Chestnut and Pancetta Salad",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Quinces Poached in Muscat",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Apple Butterscotch Tart",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Translucent Apple Tart",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Chicken and Chickpea Tagine",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Cider Thighs",
+        "book": "Eat"
+      },
+      {
+        "title": "Chicken, Sherry, Almond Pot Roast",
+        "book": "Eat"
+      },
+      {
+        "title": "Ras el Hanout Chicken and Spelt",
+        "book": "Eat"
+      },
+      {
+        "title": "Lamb Shanks with Crushed Roots",
+        "book": "Eat"
+      }
+    ],
+    "winter": [
+      {
+        "title": "Dal and pumpkin soup",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Onion soup without tears",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "A velvety soup for a clear, cold day",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "A really good spaghetti Bolognaise",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Chicken broth with noodles, lemon and mint",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "A clear, hot mussel soup",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Sausages with salami and lentils",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Cheese-smothered potatoes",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "A pot-roast pheasant with celery and sage",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Double ginger cake",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "A lime tart",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Restorative beef broth",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Chicken soup with ditalini",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Cleansing ginger-chicken soup",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Braised beef brisket with onions & currants",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Pimentón & caraway short ribs with egg noodles",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Corned beef & cabbage",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Cannellini with smoked ham & rosemary",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Roast prime rib of beef",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Spaghetti alla carbonara",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Fallen chocolate soufflé cake",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Greek Lamb Stew",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Venison in White Wine",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Beef Stew with Anchovies and Thyme",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Moussaka",
+        "book": "How to Eat"
+      },
+      {
+        "title": "The Irish Club's Irish Stew",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Steak and Kidney Pie",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Cottage Pie and Shepherd's Pie",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Clove-Hot Chili con Carne",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Half-Coq au Vin",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Lentil and Chestnut Soup",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Clementine Cake",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Aromatic Chili Beef Noodle Soup",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Black Cod Marinated in Den Miso",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Lamb with Yogurt and Turmeric",
+        "book": "Eat"
+      },
+      {
+        "title": "Slow-Roast Belly of Lamb",
+        "book": "Eat"
+      },
+      {
+        "title": "Quick Chicken Potpie",
+        "book": "Eat"
+      },
+      {
+        "title": "One-Pan Sunday Lunch",
+        "book": "Eat"
+      }
+    ],
+    "spring": [
+      {
+        "title": "Stinging nettle soup",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Chilled potato & celery soup",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Asparagus vinaigrette",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Shaved asparagus & arugula salad",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Artichoke, pea & fava bean salad",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Asparagus with lemon-butter sauce",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Roasted asparagus",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Asparagus on pasta with a poached egg & lemon butter",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Raviolini with fava beans & parmigiano",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Spinach tagliatelle & peas in golden chicken broth",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Pappardelle with peas & scallions bathed in cream",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Poached wild salmon with fresh english peas & morels",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Roasted spring onions",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Roasted chicken in a pot with spring onions",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Cold leg of lamb for easter",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Roast leg of lamb with rosemary",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Roasted rhubarb",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Pea Risotto",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Pea Soufflé",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Pea Orzotto",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Petits Pois à la Française",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Rhubarb, Muscat, and Mascarpone Trifle",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Rhubarb and Muscat Jelly",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Butterflied Leg of Lamb with Garlic Potatoes",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Cinnamon-Hot Rack of Lamb",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Lamb and Bean Braise",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Little Gems with Green Goddess Dressing",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Sage and Onion Lentils",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Chicken, Asparagus, and Avocado Sandwich",
+        "book": "Eat"
+      },
+      {
+        "title": "Lamb Chops with Mustard Seed and Coconut",
+        "book": "Eat"
+      }
+    ]
+  }
+}
