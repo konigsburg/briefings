@@ -1,18 +1,18 @@
 {
   "date": "Sunday, August 9, 2026",
-  "generatedAt": "Inbox update · 6:43 PM ET",
-  "theme": "In transit — Charlotte, then Portland tonight",
-  "greeting": "Rental's back and you're on board. From here it all comes down to the Charlotte connection — and it just got tighter, because this flight is boarding well after its scheduled push.",
+  "generatedAt": "Live update · 8:55 PM ET",
+  "theme": "In transit — the Charlotte connection, then Portland",
+  "greeting": "Publishing pipeline is back online — this brief is a fresh push, not the frozen 6:43 one. By now the Charlotte connection has played out one way or the other; here's where things stand.",
   "needsAttention": [
     {
-      "tag": "Watch closely",
-      "title": "Charlotte connection is now the whole game",
-      "detail": "AA 5348 was due out at 5:28 but you're only boarding around 6:00 — so plan on landing CLT closer to 8:05–8:15, not 7:34. AA 2120 to Portland leaves at 8:25. That may be a sprint, or a misconnect. The second you land, check the board for AA 2120's gate and go straight there."
+      "tag": "Live",
+      "title": "Did AA 2120 to Portland work out?",
+      "detail": "AA 2120 was scheduled out of CLT at 8:25 PM. If you made it, you're airborne now, landing PWM ~10:44 PM. If you missed it, you're in the AA hub — the app usually auto-rebooks onto the next Portland flight before you're off the jet bridge; a gate agent can confirm."
     },
     {
-      "tag": "If you miss it",
-      "title": "You're inside the AA hub at CLT — rebooking is easy",
-      "detail": "Both flights are American in the same terminal, so if 2120 goes without you, the app will usually auto-rebook you before you're even off the jet bridge. If not, a gate agent or the AA app can put you on the next PWM flight. Not worth stressing mid-air."
+      "tag": "Resolved",
+      "title": "Briefings site fixed — it was a stale deploy token",
+      "detail": "The page was frozen at 6:43 because pub.py silently swallowed an auth failure after your token rotation. New token wired in, pub.py now fails loudly, and this update is the proof it's writing again."
     }
   ],
   "schedule": [
@@ -23,16 +23,10 @@
       "tag": "Done"
     },
     {
-      "time": "Now",
-      "title": "✓ Boarded AA 5348  SRQ → CLT",
-      "detail": "Seats 20F / 20D · running behind · conf NXARJF",
-      "tag": "In transit"
-    },
-    {
       "time": "~8:10 PM",
-      "title": "Land Charlotte (CLT) — move fast",
-      "detail": "Check the board for AA 2120's gate on arrival",
-      "tag": "Tight"
+      "title": "✓ Landed Charlotte (CLT)",
+      "detail": "AA 5348 in late after the delayed push",
+      "tag": "Done"
     },
     {
       "time": "8:25 PM",
@@ -43,7 +37,7 @@
     {
       "time": "Tomorrow",
       "title": "Lara Hamilton's birthday",
-      "detail": "Aug 10 — a note or call when you land",
+      "detail": "Aug 10 — a note or call when you're settled",
       "tag": "Reminder"
     }
   ],
@@ -51,15 +45,16 @@
     "flagged": [
       {
         "tag": "Security",
-        "title": "2 GitHub access-token alerts",
-        "detail": "Fine-grained PATs 'briefings-deploy' & 'briefings-deploy-2' created on your account — match your briefings deploy; revoke only if not you."
+        "title": "Revoke your old deploy tokens",
+        "detail": "Now that the new fine-grained PAT is live, revoke the stale one and any unused deploy token in GitHub → Settings → Developer settings → Fine-grained tokens."
       }
     ],
-    "noise": "2 low-priority: 1 promo (Field Company griddle) + your own Daily Japanese Lesson.",
-    "clear": "No job-search, financial, or health mail. (Manual end-to-end verification run.)"
+    "noise": "Nothing new needing you.",
+    "clear": "No job-search, financial, or health mail outstanding."
   },
   "resolved": [
     "Rental returned to SRQ (Enterprise, conf 2127234511).",
-    "This morning's open question is settled — you're on the flights, not Jen and the kids."
+    "Briefings publish pipeline restored — token rotated, pub.py hardened to fail loudly.",
+    "Travel itinerary task switched to a live HTML itinerary."
   ]
 }
