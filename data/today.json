@@ -1,14 +1,25 @@
 {
   "date": "Tuesday, August 11, 2026",
-  "generatedAt": "Morning brief · 12:09 PM ET",
-  "theme": "An open day out on Long Island — one lunch anchors it, the rest is yours.",
-  "greeting": "The whole day is yours, Dan — just a 12:30 lunch at Flora in Westhampton Beach on the calendar. The girls are with Jen this stretch, so it's a quiet one.",
-  "needsAttention": [],
+  "generatedAt": "Morning brief · 2:05 PM ET",
+  "theme": "An open day on the East End — one lunch, then it's yours.",
+  "greeting": "Good morning, Dan. The calendar is nearly clear today — a table for four at Flora at midday, and the rest of the day is your own. The girls are with Jen, so it's a quiet stretch in Westhampton.",
+  "needsAttention": [
+    {
+      "tag": "Overdue · Work",
+      "title": "Destination edit work",
+      "detail": "In Professional Projects, overdue since Aug 6 — five days past due and still sitting open."
+    },
+    {
+      "tag": "Overdue · Home",
+      "title": "Sconce lights for Vinalhaven bedroom",
+      "detail": "In Personal Tasks, overdue since Aug 7 — the bedroom light search from last week."
+    }
+  ],
   "schedule": [
     {
       "time": "12:30 PM",
       "title": "Lunch at Flora",
-      "detail": "Westhampton Beach — table for 4, held under Susan Silbermann's Resy",
+      "detail": "Westhampton Beach, table for four under Susan Silbermann's Resy account.",
       "tag": "lunch"
     }
   ],
@@ -16,27 +27,17 @@
     "flagged": [
       {
         "tag": "Health",
-        "title": "Talkiatry visit confirmed for Aug 18",
-        "detail": "Your virtual visit is set for Tue, Aug 18 at 10:00 AM ET, and there's a pre-visit questionnaire waiting to be filled out beforehand."
-      },
-      {
-        "tag": "Security",
-        "title": "\"Cloud storage full\" email looks like phishing",
-        "detail": "A payment/storage warning to an old me@aol.com address from an unfamiliar sender — reads as phishing. Safe to ignore; don't click."
-      },
-      {
-        "tag": "Financial",
-        "title": "St. Pete agent following up on the short sale",
-        "detail": "Noelle at Vreeland offered a FaceTime tour, noting your short sale is wrapping up in Maine before the St. Pete move. No reply needed unless you want one."
+        "title": "Talkiatry visit confirmed",
+        "detail": "Virtual visit set for Tuesday, Aug 18 at 10:00 AM ET; a pre-visit questionnaire is also waiting."
       },
       {
         "tag": "FYI",
-        "title": "Save the date: Brody's Bar Mitzvah",
-        "detail": "Paperless Post invite for Saturday, Dec 12 — one to add to the calendar when you get a moment."
+        "title": "Brody's Bar Mitzvah save-the-date",
+        "detail": "Paperless Post invite for Saturday, Dec 12 — one to hold on the calendar."
       }
     ],
-    "noise": "The rest is newsletters and promos — NYT Cooking, Monocle, Folio Society, Field Company, Delta, a couple of language-lesson digests, and a political fundraiser.",
-    "clear": "No job-search mail today, and nothing in the inbox is waiting on your reply."
+    "noise": "A steady run of language-lesson digests, newsletters, and retail promos, plus a phishing 'cloud storage full' scam worth ignoring.",
+    "clear": "No urgent, security, or job-search mail needs you."
   },
   "resolved": [],
   "context": {
@@ -47,10 +48,14 @@
     "asOf": "Tuesday Aug 11"
   },
   "recipe": {
-    "title": "",
-    "book": "",
-    "why": ""
+    "title": "Chilled corn soup",
+    "book": "Canal House Cooks Every Day",
+    "why": "Peak East End sweet corn is everywhere right now — a cold, silky bowl is exactly right for a warm Westhampton afternoon."
   },
   "tasks": [],
-  "routines": null
+  "routines": {
+    "morning": "6/10",
+    "day": "0/3",
+    "evening": "0/4"
+  }
 }
