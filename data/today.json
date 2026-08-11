@@ -1,6 +1,6 @@
 {
   "date": "Tuesday, August 11, 2026",
-  "generatedAt": "Morning brief · 2:05 PM ET",
+  "generatedAt": "Inbox update · 3:09 PM ET",
   "theme": "An open day on the East End — one lunch, then it's yours.",
   "greeting": "Good morning, Dan. The calendar is nearly clear today — a table for four at Flora at midday, and the rest of the day is your own. The girls are with Jen, so it's a quiet stretch in Westhampton.",
   "needsAttention": [
@@ -26,18 +26,23 @@
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "No job-search mail",
+        "detail": "No recruiter, application, interview, or offer emails in the last 24-48h."
+      },
+      {
         "tag": "Health",
-        "title": "Talkiatry visit confirmed",
-        "detail": "Virtual visit set for Tuesday, Aug 18 at 10:00 AM ET; a pre-visit questionnaire is also waiting."
+        "title": "Talkiatry visit confirmed — Aug 18, 10:00 AM EDT",
+        "detail": "Virtual visit confirmed; a separate note asks for a pre-visit questionnaire. Your own care; nothing re: Mom."
       },
       {
         "tag": "FYI",
-        "title": "Brody's Bar Mitzvah save-the-date",
-        "detail": "Paperless Post invite for Saturday, Dec 12 — one to hold on the calendar."
+        "title": "Real-estate agent follow-up (St. Pete)",
+        "detail": "Noelle M. (vreelandre.com) offering a live FaceTime tour; references your short sale wrapping up. No deadline."
       }
     ],
-    "noise": "A steady run of language-lesson digests, newsletters, and retail promos, plus a phishing 'cloud storage full' scam worth ignoring.",
-    "clear": "No urgent, security, or job-search mail needs you."
+    "noise": "~6 promo/newsletter/social not itemized (Pip Decks, Field Company, NYPL, Snapchat, Talarico campaign, JustFor.Fans notification).",
+    "clear": "No urgent, security, financial, or job-search mail."
   },
   "resolved": [],
   "context": {
