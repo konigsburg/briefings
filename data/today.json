@@ -1,6 +1,6 @@
 {
   "date": "Monday, August 10, 2026",
-  "generatedAt": "Inbox update · 10:35 AM ET",
+  "generatedAt": "Inbox update · 10:03 PM ET",
   "theme": "An open travel day — one ferry north, calm water around it.",
   "greeting": "Good morning, Dan. Nothing's on the calendar before the 1 o'clock ferry, so the day is largely open water — a crossing to the Hamptons and time to yourself on either side.",
   "needsAttention": [
@@ -33,27 +33,32 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Likely-phishing \"interview update\"",
-        "detail": "sourcehire.app asks you to confirm visa/work authorization for a Confidential SVP Global Public Policy role (REQ64085). Scam signals — don't click; verify independently. Only job-search item."
-      },
-      {
-        "tag": "Security",
-        "title": "GitHub: 3 access tokens + sudo code",
-        "detail": "Sudo verification code plus 3 fine-grained PATs (briefings-deploy, -2, -3) created Aug 9–10. Matches your briefings app; confirm it was you."
-      },
-      {
-        "tag": "Financial",
-        "title": "Uber charge $19.97",
-        "detail": "Receipt + charge summary for Sunday-evening ride."
+        "title": "No job-search mail",
+        "detail": "No recruiter, application, interview, or offer emails in the last 24h."
       },
       {
         "tag": "Health",
-        "title": "Talkiatry check-in request",
-        "detail": "Questionnaire for your clinician (your own care). No Mom's Health items."
+        "title": "Talkiatry: Aug 13 canceled, Aug 18 confirmed",
+        "detail": "Aug 13 appt with Jennifer Snowden canceled (provider-initiated); new virtual visit confirmed Tue Aug 18, 10 AM EDT; pre-visit questionnaire sent."
+      },
+      {
+        "tag": "Security",
+        "title": "Apple iCloud web sign-in",
+        "detail": "Apple flagged a browser sign-in to dan@konigsburg.com on Aug 10, 9:11 AM PDT. Routine if it was you."
+      },
+      {
+        "tag": "Security",
+        "title": "Phishing: fake 'Cloud Storage' notice",
+        "detail": "'Payment failed / storage full' from alert-4608@yafft.xtf to me@aol.com — scam, do not click."
+      },
+      {
+        "tag": "Financial",
+        "title": "Morgan Stanley savings reminder",
+        "detail": "Signature Savings deposit reminder — marketing, marked important. No action needed."
       }
     ],
-    "noise": "~20 promotional/newsletter emails (Company Store, Field Company, Jack Archer, BBC Maestro, NY Sun, NYPL, Todoist x2, Zapier, etc.), plus 1 adult-content spam and a misdirected HVAC notice.",
-    "clear": "No confirmed-legitimate urgent mail; the only job-search email looks like a phishing attempt."
+    "noise": "~30 promotions/newsletters/social (Mattress Firm, Airbnb, Netflix, Chairish, New Yorker, NYT, NPR, Facebook, Snapchat, etc.) — not itemized.",
+    "clear": "No job-search mail and no genuine urgent or account-security issues; main items are a rescheduled psychiatry appt and a phishing email to ignore."
   },
   "resolved": [
     "Anthropic application submitted — confirmation from Greenhouse.",
