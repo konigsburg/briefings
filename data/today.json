@@ -1,6 +1,6 @@
 {
   "date": "Tuesday, August 11, 2026",
-  "generatedAt": "Morning brief · 8:06 AM ET",
+  "generatedAt": "Inbox update · 10:30 AM ET",
   "theme": "A wide-open day with just one lunch on the water.",
   "greeting": "The whole day is yours, Dan — just a 12:30 lunch at Flora holds the middle, and the girls are with Jen this stretch.",
   "needsAttention": [
@@ -27,27 +27,37 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "SVP, Global Public Policy (REQ64085)",
-        "detail": "Application update: optional step to add references and a cover letter."
+        "title": "SourceHire: add cover letter + references",
+        "detail": "REQ64085 SVP Global Public Policy — verify sender (sourcehire.app) is legit before sending docs"
       },
       {
-        "tag": "Health",
-        "title": "Talkiatry visits",
-        "detail": "Aug 13 session with Jennifer Snowden cancelled; next visit confirmed Aug 18, 10 AM."
-      },
-      {
-        "tag": "Financial",
-        "title": "Morgan Stanley savings",
-        "detail": "Nudge to fund your Signature Savings account; no action required."
+        "tag": "Job search",
+        "title": "SourceHire: 'CEO' role suggestion",
+        "detail": "Auto-generated off your SVP application — low signal"
       },
       {
         "tag": "Security",
-        "title": "New sign-ins to verify",
-        "detail": "Apple iCloud web sign-in (Aug 10) and a Todoist login notice — confirm both were you."
+        "title": "Todoist new-login alert",
+        "detail": "Aug 11 2:41am — reset password if this wasn't you"
+      },
+      {
+        "tag": "Security",
+        "title": "Google: Claude for Drive access granted",
+        "detail": "Two alerts ~10:04am — expected if you just connected Drive"
+      },
+      {
+        "tag": "Financial",
+        "title": "Morgan Stanley Signature Savings",
+        "detail": "Promo nudge to fund account — not urgent"
+      },
+      {
+        "tag": "FYI",
+        "title": "Anna: sourdough orders for Friday",
+        "detail": "$10–$12 loaves — reply asap if you want one"
       }
     ],
-    "noise": "The rest is newsletters and promos — NY Sun, Press Herald, The New Yorker, NYT Cooking, Daily Italian Words, NYPL, Li-Lac chocolates, plus a phishing 'cloud storage full' note to ignore.",
-    "clear": ""
+    "noise": "~28 promo/retail/travel + ~7 newsletters + Todoist/Facebook digests — not itemized",
+    "clear": "No real recruiter replies, interview invites, offers, or rejections. No Mom's-health items."
   },
   "resolved": [
     "Talkiatry cancelled your Aug 13 session with Jennifer Snowden; your next visit is already confirmed for Aug 18 at 10 AM."
