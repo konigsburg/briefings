@@ -1,74 +1,79 @@
 {
-  "date": "Monday, August 10, 2026",
-  "generatedAt": "Inbox update · 10:03 PM ET",
-  "theme": "An open travel day — one ferry north, calm water around it.",
-  "greeting": "Good morning, Dan. Nothing's on the calendar before the 1 o'clock ferry, so the day is largely open water — a crossing to the Hamptons and time to yourself on either side.",
+  "date": "Tuesday, August 11, 2026",
+  "generatedAt": "Morning brief · 9:25 AM ET",
+  "theme": "An open day out east — one lunch, then open water.",
+  "greeting": "Almost the whole day is yours, Dan — just lunch at Flora at 12:30, then the afternoon and evening are open.",
   "needsAttention": [
     {
-      "tag": "Health",
-      "title": "Talkiatry pre-visit questionnaire",
-      "detail": "Talkiatry nudged twice — Sunday night and again this morning — asking you to answer a few questions before your next visit."
+      "tag": "Job search",
+      "title": "Add references & cover letter — SVP application",
+      "detail": "SourceHire's interview-update email asks you to add professional references and a cover letter to your Senior Vice President, Global Public Policy application (REQ64085)."
     },
     {
-      "tag": "Calendar",
-      "title": "Brain MRI on Wed Aug 19",
-      "detail": "Mike put a Brain MRI on your calendar for Wednesday Aug 19, 3:30–4:30 PM and invited you both — worth confirming you're set."
+      "tag": "Order window",
+      "title": "Anna's bread orders for Friday",
+      "detail": "Knitwit in Maine is baking Everyday Sourdough ($10) and Semolina Pumpkinseed ($12) Friday and wants orders in asap."
+    },
+    {
+      "tag": "Security",
+      "title": "New Todoist sign-in",
+      "detail": "Todoist flagged a new overnight login and asks you to confirm it was you."
     }
   ],
   "schedule": [
     {
-      "time": "1:00 PM",
-      "title": "Ferry: New London → Orient Point",
-      "detail": "Cross Sound Ferry, booked under Mike; reach the terminal 30–60 min early.",
-      "tag": "Travel"
-    },
-    {
-      "time": "All day",
-      "title": "Open before and after",
-      "detail": "No meetings on the calendar; the morning and late afternoon are yours.",
-      "tag": "Open"
+      "time": "12:30 PM",
+      "title": "Lunch at Flora",
+      "detail": "Westhampton Beach — 4 guests, held under Susan's Resy.",
+      "tag": "lunch"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "No job-search mail",
-        "detail": "No recruiter, application, interview, or offer emails in the last 24h."
-      },
-      {
-        "tag": "Health",
-        "title": "Talkiatry: Aug 13 canceled, Aug 18 confirmed",
-        "detail": "Aug 13 appt with Jennifer Snowden canceled (provider-initiated); new virtual visit confirmed Tue Aug 18, 10 AM EDT; pre-visit questionnaire sent."
+        "title": "SVP application — references requested",
+        "detail": "SourceHire asks for references and a cover letter (REQ64085)."
       },
       {
         "tag": "Security",
-        "title": "Apple iCloud web sign-in",
-        "detail": "Apple flagged a browser sign-in to dan@konigsburg.com on Aug 10, 9:11 AM PDT. Routine if it was you."
-      },
-      {
-        "tag": "Security",
-        "title": "Phishing: fake 'Cloud Storage' notice",
-        "detail": "'Payment failed / storage full' from alert-4608@yafft.xtf to me@aol.com — scam, do not click."
-      },
-      {
-        "tag": "Financial",
-        "title": "Morgan Stanley savings reminder",
-        "detail": "Signature Savings deposit reminder — marketing, marked important. No action needed."
+        "title": "Todoist new login",
+        "detail": "Confirm the overnight sign-in was you."
       }
     ],
-    "noise": "~30 promotions/newsletters/social (Mattress Firm, Airbnb, Netflix, Chairish, New Yorker, NYT, NPR, Facebook, Snapchat, etc.) — not itemized.",
-    "clear": "No job-search mail and no genuine urgent or account-security issues; main items are a rescheduled psychiatry appt and a phishing email to ignore."
+    "noise": "Otherwise mostly newsletters and retail promos — travel, home goods, and language-lesson digests.",
+    "clear": ""
   },
-  "resolved": [
-    "Anthropic application submitted — confirmation from Greenhouse.",
-    "Briefings web-app publisher connected via GitHub deploy tokens."
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "East Hampton, NY",
+    "location": "Westhampton Beach, NY",
     "confidence": "high",
-    "asOf": "Monday Aug 10"
+    "asOf": "Tue Aug 11"
+  },
+  "recipe": {
+    "title": "Chilled corn soup",
+    "book": "Canal House Cooks Every Day",
+    "why": "Long Island corn is at its August peak and it's a warm one out east — a no-cook chilled soup is the easy supper tonight."
+  },
+  "tasks": [
+    {
+      "title": "Destination edit work",
+      "project": "",
+      "due": "Overdue Aug 6",
+      "overdue": true
+    },
+    {
+      "title": "Look for new sconce lights for Vinalhaven bedroom",
+      "project": "",
+      "due": "Overdue Aug 7",
+      "overdue": true
+    }
+  ],
+  "routines": {
+    "morning": "0/5",
+    "day": "0/3",
+    "evening": "0/4"
   }
 }
