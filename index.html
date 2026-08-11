@@ -238,6 +238,10 @@ function renderToday(){
   const flagged=((t.inbox&&t.inbox.flagged)||[]).map(x=>`<div class="card"><span class="tag">${esc(x.tag)}</span><h3>${esc(x.title)}</h3><p>${esc(x.detail)}</p></div>`).join('');
   const resolved=(t.resolved||[]).map(x=>`<li>${esc(x)}</li>`).join('');
   const rc=t.recipe?`<div class="section-h">Tonight&#39;s recipe</div><div class="card recipe"><span class="tag">\ud83d\udcd6 ${esc(t.recipe.book)}</span><h3>${esc(t.recipe.title)}</h3>${t.recipe.why?`<p>${esc(t.recipe.why)}</p>`:''}</div>`:'';
+  const tk=(t.tasks||[]).map(x=>`<div class="row"><div class="body"><div class="ti">${esc(x.title)}</div><div class="de">${[x.project,x.due].filter(Boolean).map(esc).join(' \u00b7 ')}</div></div></div>`).join('');
+  const rr=t.routines||null;
+  const rtline=rr?`<div class="de" style="padding-top:8px;opacity:.85">Daily routines \u00b7 Morning ${esc(rr.morning||'\u2013')} \u00b7 Day ${esc(rr.day||'\u2013')} \u00b7 Evening ${esc(rr.evening||'\u2013')}</div>`:'';
+  const tasksBlock=(tk||rtline)?`<div class="section-h">Today&#39;s tasks</div><div class="card"><div class="tl-list">${tk||'<div class="de">Nothing outstanding beyond your routines.</div>'}</div>${rtline}</div>`:'';
   const tiles=`<div class="section-h">Your briefings</div><div class="sections">
     <button class="sec-card jp" onclick="showTab('japanese')"><span class="sec-ic">🇯🇵</span><span class="sec-name">Japanese</span></button>
     <button class="sec-card cook" onclick="showTab('cooking')"><span class="sec-ic">🍅</span><span class="sec-name">Cooking</span></button>
@@ -250,6 +254,7 @@ function renderToday(){
     ${tiles}
     ${na?`<div class="section-h">Needs attention</div>${na}`:''}
     <div class="section-h">Your day</div><div class="card"><div class="tl-list">${sched||'<p>Nothing scheduled.</p>'}</div></div>
+    ${tasksBlock}
     ${rc}
     <div class="section-h">Inbox</div>${flagged}
     ${t.inbox&&t.inbox.noise?`<div class="noise">${esc(t.inbox.noise)}</div>`:''}
