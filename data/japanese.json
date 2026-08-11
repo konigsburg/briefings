@@ -2,87 +2,86 @@
   "lessonNo": 223,
   "date": "Tuesday, Aug 11",
   "generatedAt": "Lesson #223 · Aug 11",
-  "theme": "Talking about what you can do — the potential form",
-  "intro": "Turn plain verbs into can-do verbs, and learn the one particle that quietly changes when you do.",
+  "theme": "Saying what you can (and can't) do — the potential form",
+  "intro": "Turn any verb into 'can do it' and learn why the object switches from を to が.",
   "grammar": {
-    "title": "The potential form (可能形)",
+    "title": "The potential form",
     "rules": [
       {
-        "label": "る-verbs (ichidan)",
-        "detail": "drop る, add られる",
+        "label": "う-verbs (godan)",
+        "detail": "Change the final -u sound to -eru.",
         "examples": [
-          "食べる → 食べられる (can eat)",
-          "見る → 見られる (can see/watch)"
+          "はなす hanasu → はなせる hanaseru (can speak)",
+          "いく iku → いける ikeru (can go)",
+          "よむ yomu → よめる yomeru (can read)"
         ]
       },
       {
-        "label": "う-verbs (godan)",
-        "detail": "final -u sound → -e, then add る",
+        "label": "る-verbs (ichidan)",
+        "detail": "Drop る and add られる.",
         "examples": [
-          "話す → 話せる (can speak)",
-          "読む → 読める (can read)",
-          "行く → 行ける (can go)",
-          "泳ぐ → 泳げる (can swim)"
+          "たべる taberu → たべられる taberareru (can eat)",
+          "みる miru → みられる mirareru (can see/watch)"
         ]
       },
       {
         "label": "Irregulars",
-        "detail": "memorize these two",
+        "detail": "Memorize these two.",
         "examples": [
-          "する → できる (can do)",
-          "来る → 来られる／こられる (can come)"
+          "する suru → できる dekiru (can do)",
+          "くる kuru → こられる korareru (can come)"
         ]
       }
     ],
-    "bigPoint": "With the potential form the object usually takes が instead of を: 日本語を話す → 日本語が話せる."
+    "bigPoint": "Once a verb is potential, its object usually takes が instead of を: にほんごが はなせます (not を)."
   },
   "vocab": [
     {
-      "jp": "話す（はなす）",
-      "romaji": "hanasu",
-      "en": "to speak → 話せる can speak"
+      "jp": "できる",
+      "romaji": "dekiru",
+      "en": "can do / to be able"
     },
     {
-      "jp": "読む（よむ）",
-      "romaji": "yomu",
-      "en": "to read → 読める can read"
+      "jp": "話せる",
+      "romaji": "hanaseru",
+      "en": "can speak"
     },
     {
-      "jp": "泳ぐ（およぐ）",
-      "romaji": "oyogu",
-      "en": "to swim → 泳げる can swim"
+      "jp": "食べられる",
+      "romaji": "taberareru",
+      "en": "can eat"
     },
     {
-      "jp": "予約する（よやくする）",
-      "romaji": "yoyaku suru",
-      "en": "to reserve → 予約できる can reserve"
+      "jp": "読める",
+      "romaji": "yomeru",
+      "en": "can read"
     },
     {
-      "jp": "辛い（からい）",
-      "romaji": "karai",
-      "en": "spicy"
+      "jp": "飲める",
+      "romaji": "nomeru",
+      "en": "can drink"
     },
     {
-      "jp": "すこし",
-      "romaji": "sukoshi",
-      "en": "a little"
+      "jp": "ぜんぜん",
+      "romaji": "zenzen",
+      "en": "(not) at all (+ negative)"
     }
   ],
   "examples": [
     {
-      "jp": "私は日本語がすこし話せます。",
-      "romaji": "Watashi wa nihongo ga sukoshi hanasemasu.",
+      "jp": "にほんごが すこし はなせます。",
+      "romaji": "Nihongo ga sukoshi hanasemasu.",
       "en": "I can speak a little Japanese."
     },
     {
-      "jp": "辛いものが食べられますか。",
-      "romaji": "Karai mono ga taberaremasu ka.",
-      "en": "Can you eat spicy food?"
+      "jp": "ここで しゃしんが とれますか。",
+      "romaji": "Koko de shashin ga toremasu ka.",
+      "en": "Can I take photos here?"
     }
   ],
-  "note": "Once a verb is in the potential form it behaves like a る-verb, so conjugate onward normally: 話せます, 話せない, 話せて. Use できる wherever you'd want the potential of する (オンラインで予約できます). Keep the を → が shift in mind — it's the tell a native ear expects.",
+  "note": "Add すこし (a little) or ぜんぜん…ません (not at all): かんじは ぜんぜん よめません = 'I can't read kanji at all.' In casual speech the ら is sometimes dropped (たべれる), but the られる form is the correct, polite standard.",
   "selfCheck": {
-    "q": "Using 読む, how do you say \"I can read hiragana\"?",
-    "a": "ひらがなが読めます。(Hiragana ga yomemasu.)"
+    "q": "How would you say 'I can eat natto (なっとう)'?",
+    "a": "なっとうが たべられます。 (Nattō ga taberaremasu.) — が because it's the object of a potential verb; たべる → たべられる."
   }
 }
