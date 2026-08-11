@@ -1,9 +1,9 @@
 {
-  "lessonNo": 222,
-  "date": "Monday, Aug 10",
-  "generatedAt": "Lesson #222 · Aug 10",
-  "theme": "Saying what you can and can't do — the potential form",
-  "intro": "Reshape any verb into its potential form to say you are able to do something.",
+  "lessonNo": 223,
+  "date": "Tuesday, Aug 11",
+  "generatedAt": "Lesson #223 · Aug 11",
+  "theme": "Talking about what you can do — the potential form",
+  "intro": "Turn plain verbs into can-do verbs, and learn the one particle that quietly changes when you do.",
   "grammar": {
     "title": "The potential form (可能形)",
     "rules": [
@@ -11,17 +11,18 @@
         "label": "る-verbs (ichidan)",
         "detail": "drop る, add られる",
         "examples": [
-          "たべる → たべられる (can eat)",
-          "みる → みられる (can see)"
+          "食べる → 食べられる (can eat)",
+          "見る → 見られる (can see/watch)"
         ]
       },
       {
         "label": "う-verbs (godan)",
-        "detail": "change the final -u sound to -eru",
+        "detail": "final -u sound → -e, then add る",
         "examples": [
-          "のむ → のめる (can drink)",
-          "はなす → はなせる (can speak)",
-          "いく → いける (can go)"
+          "話す → 話せる (can speak)",
+          "読む → 読める (can read)",
+          "行く → 行ける (can go)",
+          "泳ぐ → 泳げる (can swim)"
         ]
       },
       {
@@ -29,54 +30,59 @@
         "detail": "memorize these two",
         "examples": [
           "する → できる (can do)",
-          "くる → こられる (can come)"
+          "来る → 来られる／こられる (can come)"
         ]
       }
     ],
-    "bigPoint": "With the potential form the object particle を usually becomes が: さしみを たべる → さしみが たべられる."
+    "bigPoint": "With the potential form the object usually takes が instead of を: 日本語を話す → 日本語が話せる."
   },
   "vocab": [
     {
-      "jp": "はなせる",
-      "romaji": "hanaseru",
-      "en": "can speak"
+      "jp": "話す（はなす）",
+      "romaji": "hanasu",
+      "en": "to speak → 話せる can speak"
     },
     {
-      "jp": "よめる",
-      "romaji": "yomeru",
-      "en": "can read"
+      "jp": "読む（よむ）",
+      "romaji": "yomu",
+      "en": "to read → 読める can read"
     },
     {
-      "jp": "たべられる",
-      "romaji": "taberareru",
-      "en": "can eat"
+      "jp": "泳ぐ（およぐ）",
+      "romaji": "oyogu",
+      "en": "to swim → 泳げる can swim"
     },
     {
-      "jp": "いける",
-      "romaji": "ikeru",
-      "en": "can go / is doable"
+      "jp": "予約する（よやくする）",
+      "romaji": "yoyaku suru",
+      "en": "to reserve → 予約できる can reserve"
     },
     {
-      "jp": "できる",
-      "romaji": "dekiru",
-      "en": "can do / is possible"
+      "jp": "辛い（からい）",
+      "romaji": "karai",
+      "en": "spicy"
+    },
+    {
+      "jp": "すこし",
+      "romaji": "sukoshi",
+      "en": "a little"
     }
   ],
   "examples": [
     {
-      "jp": "にほんごが すこし はなせます。",
-      "romaji": "Nihongo ga sukoshi hanasemasu.",
+      "jp": "私は日本語がすこし話せます。",
+      "romaji": "Watashi wa nihongo ga sukoshi hanasemasu.",
       "en": "I can speak a little Japanese."
     },
     {
-      "jp": "からいものが たべられますか。",
-      "romaji": "Karai mono ga taberaremasu ka?",
+      "jp": "辛いものが食べられますか。",
+      "romaji": "Karai mono ga taberaremasu ka.",
       "en": "Can you eat spicy food?"
     }
   ],
-  "note": "Every potential-form verb conjugates like a る-verb (ichidan): はなせる → はなせます / はなせない / はなせて. Note いける also means 'that works / not bad' casually.",
+  "note": "Once a verb is in the potential form it behaves like a る-verb, so conjugate onward normally: 話せます, 話せない, 話せて. Use できる wherever you'd want the potential of する (オンラインで予約できます). Keep the を → が shift in mind — it's the tell a native ear expects.",
   "selfCheck": {
-    "q": "書く (かく, to write) is an う-verb. Put it in the potential form and say 'I can write hiragana.' (Remember を→が.)",
-    "a": "かく → かける. → ひらがなが かけます。 (Hiragana ga kakemasu.)"
+    "q": "Using 読む, how do you say \"I can read hiragana\"?",
+    "a": "ひらがなが読めます。(Hiragana ga yomemasu.)"
   }
 }
