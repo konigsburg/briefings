@@ -1,48 +1,43 @@
 {
   "date": "Tuesday, August 11, 2026",
-  "generatedAt": "Inbox update · 3:09 PM ET",
-  "theme": "An open day on the East End — one lunch, then it's yours.",
-  "greeting": "Good morning, Dan. The calendar is nearly clear today — a table for four at Flora at midday, and the rest of the day is your own. The girls are with Jen, so it's a quiet stretch in Westhampton.",
+  "generatedAt": "Morning brief · 4:05 PM ET",
+  "theme": "An open day on the East End, one lunch on the books.",
+  "greeting": "A wide-open Tuesday, Dan — nothing but a midday lunch in Westhampton and the afternoon to yourself. The girls are with Jen this stretch, so the shape of the day is yours to set.",
   "needsAttention": [
     {
-      "tag": "Overdue · Work",
-      "title": "Destination edit work",
-      "detail": "In Professional Projects, overdue since Aug 6 — five days past due and still sitting open."
+      "tag": "Job search",
+      "title": "SVP, Global Public Policy — 'interview update'",
+      "detail": "A recruiter note (sourcehire.app) on a 'Confidential' SVP, Global Public Policy role asks you to confirm your work authorization through a link before the application moves — the sender and that ask are worth a hard look before you respond."
     },
     {
-      "tag": "Overdue · Home",
-      "title": "Sconce lights for Vinalhaven bedroom",
-      "detail": "In Personal Tasks, overdue since Aug 7 — the bedroom light search from last week."
+      "tag": "Overdue task",
+      "title": "Destination edit work",
+      "detail": "In Professional Projects, due Aug 6 and now five days overdue."
     }
   ],
   "schedule": [
     {
       "time": "12:30 PM",
-      "title": "Lunch at Flora",
-      "detail": "Westhampton Beach, table for four under Susan Silbermann's Resy account.",
+      "title": "Lunch at Flora, Westhampton Beach",
+      "detail": "Table for 4 on Susan Silbermann's Resy; held 15 minutes.",
       "tag": "lunch"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "No job-search mail",
-        "detail": "No recruiter, application, interview, or offer emails in the last 24-48h."
-      },
-      {
         "tag": "Health",
-        "title": "Talkiatry visit confirmed — Aug 18, 10:00 AM EDT",
-        "detail": "Virtual visit confirmed; a separate note asks for a pre-visit questionnaire. Your own care; nothing re: Mom."
+        "title": "Talkiatry visit confirmed — Aug 18",
+        "detail": "Virtual visit Tuesday, Aug 18 at 10:00 AM ET; a pre-visit check-in questionnaire is waiting."
       },
       {
         "tag": "FYI",
-        "title": "Real-estate agent follow-up (St. Pete)",
-        "detail": "Noelle M. (vreelandre.com) offering a live FaceTime tour; references your short sale wrapping up. No deadline."
+        "title": "Save the date: Brody's Bar Mitzvah",
+        "detail": "Paperless Post invite for Saturday, Dec 12 — Konigsburg & Campanaro families."
       }
     ],
-    "noise": "~6 promo/newsletter/social not itemized (Pip Decks, Field Company, NYPL, Snapchat, Talarico campaign, JustFor.Fans notification).",
-    "clear": "No urgent, security, financial, or job-search mail."
+    "noise": "The usual promos and newsletters — Vanguard and Morgan Stanley savings pitches, ANA miles, Field Company, NYPL — plus a fake 'cloud storage payment failed' scam to ignore.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -57,10 +52,17 @@
     "book": "Canal House Cooks Every Day",
     "why": "Peak East End sweet corn is everywhere right now — a cold, silky bowl is exactly right for a warm Westhampton afternoon."
   },
-  "tasks": [],
+  "tasks": [
+    {
+      "title": "Look for new sconce lights for Vinalhaven bedroom",
+      "project": "Personal Tasks",
+      "due": "Overdue Aug 7",
+      "overdue": true
+    }
+  ],
   "routines": {
-    "morning": "6/10",
-    "day": "0/3",
+    "morning": "7/10",
+    "day": "1/3",
     "evening": "0/4"
   }
 }
