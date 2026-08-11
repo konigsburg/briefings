@@ -1,48 +1,42 @@
 {
   "date": "Tuesday, August 11, 2026",
-  "generatedAt": "Morning brief · 10:32 AM ET",
-  "theme": "A wide-open day with one good lunch in it.",
-  "greeting": "Morning, Dan. The day is almost entirely yours: one lunch at Flora on the books, the girls are with Jen, and the hours around it are open for the job search and the things that have been waiting.",
-  "needsAttention": [
-    {
-      "tag": "Job search",
-      "title": "Global Public Policy application, interview-stage",
-      "detail": "SourceHire flagged your SVP, Global Public Policy application (REQ64085) as interview-stage and invites you to add a cover letter and professional references to move it forward. No hard deadline stated."
-    },
-    {
-      "tag": "Overdue task",
-      "title": "Destination edit work",
-      "detail": "A non-recurring task in Professional Projects, due Aug 6 and now five days past."
-    },
-    {
-      "tag": "Overdue task",
-      "title": "Vinalhaven bedroom sconces",
-      "detail": "A Personal Tasks item, due Aug 7 and now four days past: look for new sconce lights."
-    }
-  ],
+  "generatedAt": "Morning brief · 12:09 PM ET",
+  "theme": "An open day out on Long Island — one lunch anchors it, the rest is yours.",
+  "greeting": "The whole day is yours, Dan — just a 12:30 lunch at Flora in Westhampton Beach on the calendar. The girls are with Jen this stretch, so it's a quiet one.",
+  "needsAttention": [],
   "schedule": [
     {
       "time": "12:30 PM",
-      "title": "Lunch at Flora, Westhampton Beach",
-      "detail": "Resy for 4, table held 15 minutes; booked under Susan Silbermann.",
+      "title": "Lunch at Flora",
+      "detail": "Westhampton Beach — table for 4, held under Susan Silbermann's Resy",
       "tag": "lunch"
     }
   ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Health",
+        "title": "Talkiatry visit confirmed for Aug 18",
+        "detail": "Your virtual visit is set for Tue, Aug 18 at 10:00 AM ET, and there's a pre-visit questionnaire waiting to be filled out beforehand."
+      },
+      {
         "tag": "Security",
-        "title": "Claude for Google Drive access granted",
-        "detail": "Two Google alerts confirm access was granted on konigsburg@gmail.com, with a copy to your recovery address. Expected if that was you connecting the Drive tool."
+        "title": "\"Cloud storage full\" email looks like phishing",
+        "detail": "A payment/storage warning to an old me@aol.com address from an unfamiliar sender — reads as phishing. Safe to ignore; don't click."
+      },
+      {
+        "tag": "Financial",
+        "title": "St. Pete agent following up on the short sale",
+        "detail": "Noelle at Vreeland offered a FaceTime tour, noting your short sale is wrapping up in Maine before the St. Pete move. No reply needed unless you want one."
       },
       {
         "tag": "FYI",
-        "title": "Sourdough orders for Friday",
-        "detail": "Anna at Knit Wit Maine is baking Everyday ($10) and Semolina-Pumpkinseed ($12) sourdough Friday and wants orders in soon."
+        "title": "Save the date: Brody's Bar Mitzvah",
+        "detail": "Paperless Post invite for Saturday, Dec 12 — one to add to the calendar when you get a moment."
       }
     ],
-    "noise": "The rest is retail and travel promos plus daily newsletters: Indochino, Jack Archer, Mandarin Oriental, GHA Discovery, NY Sun, America's Test Kitchen, and your language-word emails.",
-    "clear": "No financial or health mail needs you this morning."
+    "noise": "The rest is newsletters and promos — NYT Cooking, Monocle, Folio Society, Field Company, Delta, a couple of language-lesson digests, and a political fundraiser.",
+    "clear": "No job-search mail today, and nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -53,14 +47,10 @@
     "asOf": "Tuesday Aug 11"
   },
   "recipe": {
-    "title": "Chilled corn soup",
-    "book": "Canal House Cooks Every Day",
-    "why": "Peak Long Island sweet corn is everywhere on the East End right now, and a chilled corn soup is the coolest way to put it to work on a warm Hamptons afternoon."
+    "title": "",
+    "book": "",
+    "why": ""
   },
   "tasks": [],
-  "routines": {
-    "morning": "6/10",
-    "day": "0/3",
-    "evening": "0/4"
-  }
+  "routines": null
 }
