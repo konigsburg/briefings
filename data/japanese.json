@@ -1,87 +1,80 @@
 {
-  "lessonNo": 223,
-  "date": "Tuesday, Aug 11",
-  "generatedAt": "Lesson #223 · Aug 11",
-  "theme": "Saying what you can (and can't) do — the potential form",
-  "intro": "Turn any verb into 'can do it' and learn why the object switches from を to が.",
+  "lessonNo": 225,
+  "date": "Wednesday, Aug 12",
+  "generatedAt": "Lesson #225 · Aug 12",
+  "theme": "Ongoing actions & states — the ～ている form",
+  "intro": "Clip the て-form onto いる／います to say what's happening right now and to describe states that keep going.",
   "grammar": {
-    "title": "The potential form",
+    "title": "て-form + いる／います",
     "rules": [
       {
-        "label": "う-verbs (godan)",
-        "detail": "Change the final -u sound to -eru.",
+        "label": "Action in progress",
+        "detail": "て-form + います = doing right now (\"-ing\")",
         "examples": [
-          "はなす hanasu → はなせる hanaseru (can speak)",
-          "いく iku → いける ikeru (can go)",
-          "よむ yomu → よめる yomeru (can read)"
+          "たべる → たべて → たべています (am eating)"
         ]
       },
       {
-        "label": "る-verbs (ichidan)",
-        "detail": "Drop る and add られる.",
+        "label": "Resultant / ongoing state",
+        "detail": "some verbs describe a state that began and continues",
         "examples": [
-          "たべる taberu → たべられる taberareru (can eat)",
-          "みる miru → みられる mirareru (can see/watch)"
+          "すむ → すんでいます (live/reside)",
+          "しる → しっています (know)"
         ]
       },
       {
-        "label": "Irregulars",
-        "detail": "Memorize these two.",
+        "label": "Casual form",
+        "detail": "everyday speech drops the い",
         "examples": [
-          "する suru → できる dekiru (can do)",
-          "くる kuru → こられる korareru (can come)"
+          "まってる (waiting)",
+          "なにしてるの？ (what are you doing?)"
         ]
       }
     ],
-    "bigPoint": "Once a verb is potential, its object usually takes が instead of を: にほんごが はなせます (not を)."
+    "bigPoint": "The opposite of しっています is しりません (I don't know) — NOT しっていません."
   },
   "vocab": [
     {
-      "jp": "できる",
-      "romaji": "dekiru",
-      "en": "can do / to be able"
+      "jp": "待つ（まつ）",
+      "romaji": "matsu",
+      "en": "to wait → まっています"
     },
     {
-      "jp": "話せる",
-      "romaji": "hanaseru",
-      "en": "can speak"
+      "jp": "住む（すむ）",
+      "romaji": "sumu",
+      "en": "to live/reside → すんでいます"
     },
     {
-      "jp": "食べられる",
-      "romaji": "taberareru",
-      "en": "can eat"
+      "jp": "知る（しる）",
+      "romaji": "shiru",
+      "en": "to know → しっています"
     },
     {
-      "jp": "読める",
-      "romaji": "yomeru",
-      "en": "can read"
+      "jp": "働く（はたらく）",
+      "romaji": "hataraku",
+      "en": "to work → はたらいています"
     },
     {
-      "jp": "飲める",
-      "romaji": "nomeru",
-      "en": "can drink"
-    },
-    {
-      "jp": "ぜんぜん",
-      "romaji": "zenzen",
-      "en": "(not) at all (+ negative)"
+      "jp": "持つ（もつ）",
+      "romaji": "motsu",
+      "en": "to carry/have → もっています"
     }
   ],
   "examples": [
     {
-      "jp": "にほんごが すこし はなせます。",
-      "romaji": "Nihongo ga sukoshi hanasemasu.",
-      "en": "I can speak a little Japanese."
+      "jp": "いま、えきで ともだちを まっています。",
+      "romaji": "Ima, eki de tomodachi o matte imasu.",
+      "en": "I'm waiting for a friend at the station right now."
     },
     {
-      "jp": "ここで しゃしんが とれますか。",
-      "romaji": "Koko de shashin ga toremasu ka.",
-      "en": "Can I take photos here?"
+      "jp": "わたしは とうきょうに すんでいます。",
+      "romaji": "Watashi wa Tokyo ni sunde imasu.",
+      "en": "I live in Tokyo."
     }
   ],
-  "note": "Add すこし (a little) or ぜんぜん…ません (not at all): かんじは ぜんぜん よめません = 'I can't read kanji at all.' In casual speech the ら is sometimes dropped (たべれる), but the られる form is the correct, polite standard.",
+  "note": "Verbs like 住む, 知る, 結婚する and 持つ don't mean 'in the middle of doing' — with ～ている they describe a state that started and continues. So しっています = 'I know,' not 'I am knowing.'",
   "selfCheck": {
-    "q": "How would you say 'I can eat natto (なっとう)'?",
-    "a": "なっとうが たべられます。 (Nattō ga taberaremasu.) — が because it's the object of a potential verb; たべる → たべられる."
+    "q": "A waiter asks what you're doing. How do you say 'I'm reading the menu (right now)'? (よむ = to read, メニュー = menu)",
+    "a": "メニューを よんでいます。 Menyu o yonde imasu. (Casual: メニュー よんでる。)"
   }
 }
