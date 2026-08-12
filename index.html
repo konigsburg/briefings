@@ -162,6 +162,35 @@
   .custodystrip .cs-loc{font-weight:600;color:var(--ink);}
   .custodystrip .cs-sep{opacity:.45;}
   .custodystrip .cs-conf{margin-left:auto;font-size:11px;opacity:.7;text-transform:uppercase;letter-spacing:.04em;}
+
+  /* editorial (chat-brief) layout for Today */
+  .tband{background:var(--wash);margin:0 -18px;padding:16px 18px 20px;border-bottom:1px solid var(--edge)}
+  .bband{background:var(--bg);margin:0 -18px;padding:20px 18px 0}
+  .tband .daterow{padding:2px 0 2px}
+  .tband .theme{padding:6px 0 6px;font-size:26px}
+  .tband .lede{padding:0 0 4px}
+  .acts{display:flex;gap:0;margin-top:14px}
+  .acts .act{flex:1;padding:0 14px;min-width:0}
+  .acts .act:first-child{padding-left:0}
+  .acts .act:last-child{padding-right:0}
+  .acts .act + .act{border-left:1px solid var(--hairline)}
+  .acts .act .time{font-weight:700;font-size:11px;letter-spacing:.07em;text-transform:uppercase;color:var(--ink);margin-bottom:6px}
+  .acts .act .line{font-size:13px;line-height:1.5;color:var(--ink-soft)}
+  @media(max-width:560px){
+    .acts{flex-direction:column;gap:0;margin-top:12px}
+    .acts .act{padding:12px 0}
+    .acts .act:first-child{padding-top:4px}
+    .acts .act + .act{border-left:0;border-top:1px solid var(--hairline)}
+  }
+  .item{display:flex;gap:15px;padding:14px 0;border-top:1px solid var(--hairline)}
+  .item:first-of-type{border-top:0}
+  .item .num{color:var(--muted);font-size:14px;min-width:16px;padding-top:2px;font-variant-numeric:tabular-nums;text-align:center}
+  .item .body{flex:1;min-width:0}
+  .item .kick{font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+  .item .t{font-weight:670;font-size:15.5px;color:var(--ink);line-height:1.3;margin-bottom:3px}
+  .item .s{font-size:13.5px;line-height:1.55;color:var(--ink-soft)}
+  .item .s .src{border-bottom:1px solid var(--muted)}
+  .routines{font-size:12.5px;color:var(--ink-soft);opacity:.92;padding:12px 0 2px;border-top:1px solid var(--hairline);margin-top:4px}
 </style>
 </head>
 <body>
@@ -238,37 +267,46 @@ function terrain(t){
   var path='<path d="M0,116 C140,108 250,110 360,113 C470,116 560,104 680,108 C760,111 812,114 840,111" fill="none" stroke="#2E2C27" stroke-width="2.4" stroke-linecap="round"/>';
   return '<div class="drawing"><svg viewBox="0 0 840 150" role="img" aria-label="The day drawn as calm terrain."><\!-- anchor -->'+sun+birds+path+dots+'</svg></div>';
 }
+function esc2(x){return esc(x);}
+function hourOf(str){var m=String(str||'').match(/(\d{1,2})(?::(\d{2}))?\s*(AM|PM)?/i);if(!m)return null;var h=parseInt(m[1],10);var mm=m[2]?parseInt(m[2],10):0;var ap=(m[3]||'').toUpperCase();if(ap==='PM'&&h<12)h+=12;if(ap==='AM'&&h===12)h=0;return h+mm/60;}
+function buildActs(sched){var b={m:[],a:[],e:[]};(sched||[]).forEach(function(ev){var h=hourOf(ev.time);var k=(h==null||h<12)?'m':(h<17?'a':'e');b[k].push(ev);});
+  function line(list,empty){if(!list.length)return empty;if(list.length===1){var ev=list[0];return (ev.time?ev.time+' — ':'')+ev.title+(ev.detail?' · '+ev.detail:'');}return list.map(function(ev){return (ev.time?ev.time+' ':'')+ev.title;}).join('; ');}
+  return [{time:'Morning',line:line(b.m,'Clear until midday.')},{time:'Afternoon',line:line(b.a,'Open through the afternoon.')},{time:'Evening',line:line(b.e,'The evening is yours.')}];}
+function acts(t){var A=(Array.isArray(t.acts)&&t.acts.length)?t.acts:buildActs(t.schedule);return '<div class="acts">'+A.slice(0,3).map(function(a){return '<div class="act"><div class="time">'+esc(a.time)+'</div><div class="line">'+esc(a.line)+'</div></div>';}).join('')+'</div>';}
+function itemsList(arr){return (arr||[]).map(function(x,i){return '<div class="item"><div class="num">'+(i+1)+'</div><div class="body">'+(x.tag?'<div class="kick">'+esc(x.tag)+'</div>':'')+'<div class="t">'+esc(x.title)+'</div><div class="s">'+esc(x.detail)+'</div></div></div>';}).join('');}
 function renderToday(){
-  const t=DATA.today||{}, jp=DATA.japanese||{}, ck=DATA.cooking||{}, gd=DATA.garden||{};
-  const na=(t.needsAttention||[]).map(x=>`<div class="card alert"><span class="tag">${esc(x.tag)}</span><h3>${esc(x.title)}</h3><p>${esc(x.detail)}</p></div>`).join('');
-  const sched=(t.schedule||[]).map(x=>`<div class="row"><div class="t">${esc(x.time)}</div><div class="body"><div class="ti">${esc(x.title)}</div><div class="de">${esc(x.detail)}</div></div></div>`).join('');
-  const flagged=((t.inbox&&t.inbox.flagged)||[]).map(x=>`<div class="card"><span class="tag">${esc(x.tag)}</span><h3>${esc(x.title)}</h3><p>${esc(x.detail)}</p></div>`).join('');
-  const resolved=(t.resolved||[]).map(x=>`<li>${esc(x)}</li>`).join('');
-  const rc=t.recipe?`<div class="section-h">Tonight&#39;s recipe</div><div class="card recipe"><span class="tag">\ud83d\udcd6 ${esc(t.recipe.book)}</span><h3>${esc(t.recipe.title)}</h3>${t.recipe.why?`<p>${esc(t.recipe.why)}</p>`:''}</div>`:'';
-  const tk=(t.tasks||[]).map(x=>`<div class="row"><div class="body"><div class="ti">${esc(x.title)}</div><div class="de">${[x.project,x.due].filter(Boolean).map(esc).join(' \u00b7 ')}</div></div></div>`).join('');
+  const t=DATA.today||{};
+  const na=itemsList(t.needsAttention);
+  const flagged=itemsList((t.inbox&&t.inbox.flagged)||[]);
+  const tk=(t.tasks||[]).map(function(x,i){return '<div class="item"><div class="num">'+(i+1)+'</div><div class="body"><div class="t">'+esc(x.title)+'</div><div class="s">'+[x.project,x.due].filter(Boolean).map(esc).join(' · ')+'</div></div></div>';}).join('');
   const rr=t.routines||null;
-  const rtline=rr?`<div class="de" style="padding-top:8px;opacity:.85">Daily routines \u00b7 Morning ${esc(rr.morning||'\u2013')} \u00b7 Day ${esc(rr.day||'\u2013')} \u00b7 Evening ${esc(rr.evening||'\u2013')}</div>`:'';
-  const tasksBlock=(tk||rtline)?`<div class="section-h">Today&#39;s tasks</div><div class="card"><div class="tl-list">${tk||'<div class="de">Nothing outstanding beyond your routines.</div>'}</div>${rtline}</div>`:'';
-  const tiles=`<div class="section-h">Your briefings</div><div class="sections">
-    <button class="sec-card jp" onclick="showTab('japanese')"><span class="sec-ic">🇯🇵</span><span class="sec-name">Japanese</span></button>
-    <button class="sec-card cook" onclick="showTab('cooking')"><span class="sec-ic">🍅</span><span class="sec-name">Cooking</span></button>
-    <button class="sec-card garden" onclick="showTab('garden')"><span class="sec-ic">🌱</span><span class="sec-name">Gardening</span></button>
-  </div>`;
-  document.getElementById('view-today').innerHTML=`
-    <div class="daterow"><div class="d">${esc(t.date||'')}</div><div class="g">${esc(t.generatedAt||'')}</div></div>
-    <div class="theme">${esc(t.theme||'')}</div>
-    <div class="lede">${esc(t.greeting||'')}</div>
-    ${terrain(t)}
-    ${tiles}
-    ${na?`<div class="section-h">Needs attention</div>${na}`:''}
-    <div class="section-h">Your day</div><div class="card"><div class="tl-list">${sched||'<p>Nothing scheduled.</p>'}</div></div>
-    ${tasksBlock}
-    ${rc}
-    <div class="section-h">Inbox</div>${flagged}
-    ${t.inbox&&t.inbox.noise?`<div class="noise">${esc(t.inbox.noise)}</div>`:''}
-    ${t.inbox&&t.inbox.clear?`<div class="clear">✓ ${esc(t.inbox.clear)}</div>`:''}
-    ${resolved?`<div class="section-h">Resolved</div><div class="card resolved"><ul>${resolved}</ul></div>`:''}
-    <div class="foot">Alerts arrive through the Claude app; this icon is your reader.</div>`;
+  const rtline=rr?'<div class="routines">Daily routines · Morning '+esc(rr.morning||'–')+' · Day '+esc(rr.day||'–')+' · Evening '+esc(rr.evening||'–')+'</div>':'';
+  const tasksBlock=(tk||rtline)?'<div class="section-h">Today&#39;s tasks</div>'+(tk||'<div class="item"><div class="num">·</div><div class="body"><div class="s">Nothing outstanding beyond your routines.</div></div></div>')+rtline:'';
+  const rc=t.recipe?'<div class="section-h">Tonight&#39;s recipe</div><div class="item"><div class="num">☼</div><div class="body">'+(t.recipe.book?'<div class="kick">'+esc(t.recipe.book)+'</div>':'')+'<div class="t">'+esc(t.recipe.title||'')+'</div>'+(t.recipe.why?'<div class="s">'+esc(t.recipe.why)+'</div>':'')+'</div></div>':'';
+  const resolved=(t.resolved||[]).length?'<div class="section-h">Resolved</div>'+(t.resolved||[]).map(function(x,i){return '<div class="item"><div class="num">'+(i+1)+'</div><div class="body"><div class="s">'+esc(x)+'</div></div></div>';}).join(''):'';
+  const inbox='<div class="section-h">Inbox</div>'+(flagged||'<div class="item"><div class="num">·</div><div class="body"><div class="s">Nothing flagged.</div></div></div>')+(t.inbox&&t.inbox.noise?'<div class="noise">'+esc(t.inbox.noise)+'</div>':'')+(t.inbox&&t.inbox.clear?'<div class="clear">✓ '+esc(t.inbox.clear)+'</div>':'');
+  const tiles='<div class="section-h">Your briefings</div><div class="sections">'
+    +'<button class="sec-card jp" onclick="showTab(\'japanese\')"><span class="sec-ic">🇯🇵</span><span class="sec-name">Japanese</span></button>'
+    +'<button class="sec-card cook" onclick="showTab(\'cooking\')"><span class="sec-ic">🍅</span><span class="sec-name">Cooking</span></button>'
+    +'<button class="sec-card garden" onclick="showTab(\'garden\')"><span class="sec-ic">🌱</span><span class="sec-name">Gardening</span></button>'
+    +'</div>';
+  document.getElementById('view-today').innerHTML=
+    '<div class="tband">'
+      +'<div class="daterow"><div class="d">'+esc(t.date||'')+'</div><div class="g">'+esc(t.generatedAt||'')+'</div></div>'
+      +'<div class="theme">'+esc(t.theme||'')+'</div>'
+      +(t.greeting?'<div class="lede">'+esc(t.greeting)+'</div>':'')
+      +terrain(t)
+      +acts(t)
+    +'</div>'
+    +'<div class="bband">'
+      +(na?'<div class="section-h">Needs attention</div>'+na:'')
+      +tasksBlock
+      +rc
+      +inbox
+      +resolved
+      +tiles
+      +'<div class="foot">Alerts arrive through the Claude app; this icon is your reader.</div>'
+    +'</div>';
 }
 function subhead(accent,title){return `<div class="subhead"><button class="backbtn" onclick="showTab('today')">‹ Home</button><div class="st accent-${accent}">${title}</div></div>`;}
 
