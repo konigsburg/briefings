@@ -1,74 +1,64 @@
 {
   "date": "Wednesday, August 12, 2026",
-  "generatedAt": "Inbox update · 4:04 PM ET",
-  "theme": "An open day on Long Island before tomorrow's train south to Washington.",
-  "greeting": "The day is mostly yours, Dan — one midday hour you set aside, with the 3:16 Amtrak to DC waiting tomorrow. Two quick job-search follow-ups are due today, and that Aug 6 work edit is still the one thing genuinely past its date.",
+  "generatedAt": "Morning brief · 6:32 PM ET",
+  "theme": "An open day before tomorrow's train to Washington.",
+  "greeting": "The day is almost entirely yours, Dan — a single midday block, then open. Tomorrow's the 3:16 train to Washington, so there's room today to close out what's been lingering before you travel.",
   "needsAttention": [
     {
       "tag": "Overdue task",
-      "title": "Destination edit work is six days past due",
-      "detail": "Your one open work commitment in Professional Projects was due Aug 6 — still the only real task past its date."
+      "title": "Vinalhaven sconce lights",
+      "detail": "In your Personal Tasks list, open since Aug 7 — the last non-routine item still hanging before you're on the move again."
     },
     {
-      "tag": "Prep for tomorrow",
-      "title": "Amtrak to Washington leaves tomorrow at 3:16 PM",
-      "detail": "You're booked from Penn Station (NYP) to DC on tomorrow's 3:16 PM Amtrak; the updated eTicket is already in your inbox — worth having it and your ID ready before you head into the city."
+      "tag": "Tomorrow prep",
+      "title": "Amtrak to DC was reissued",
+      "detail": "Your 08/13 ticket arrived marked UPDATED, with departure now at 3:16 PM from New York — worth confirming the new time before you pack."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
       "title": "Do my poses",
-      "detail": "A midday hour you blocked for yourself.",
-      "tag": "wellness"
+      "detail": "A midday movement block — the only thing on the calendar today.",
+      "tag": "personal"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Possible recruiting scam — verify before replying",
-        "detail": "sourcehire.app asks you to 'confirm work authorization/visa' for SVP Global Public Policy (REQ64085), employer 'Confidential.' Sent twice. Phishing hallmarks — don't click or share details until confirmed."
+        "tag": "Security",
+        "title": "'Confirm work authorization' lure",
+        "detail": "A 'SourceHire' note for a Confidential SVP Global Public Policy role wants you to confirm visa status through a tracking link; the undisclosed employer and garbled URL read as a job-application phishing attempt — don't click."
       },
       {
-        "tag": "Security",
-        "title": "New iOS sign-in to Gmail",
-        "detail": "Google alert (x2, ~11 AM ET) — a new iOS device was granted access to konigsburg@gmail.com. Confirm it was you."
-      },
-      {
-        "tag": "Security",
-        "title": "JustForFans new-device login alert",
-        "detail": "System flagged a login from a new device/IP (1:43 PM ET). Verify or ignore."
+        "tag": "Health",
+        "title": "Talkiatry intake questionnaire",
+        "detail": "A short pre-visit form is waiting ahead of your confirmed Aug 18, 10 AM virtual visit."
       },
       {
         "tag": "Financial",
-        "title": "Chase card statement ready",
-        "detail": "Balance $359.14, min $40, due Sep 8; autopay on. Chase Sapphire autopay also scheduled."
-      },
-      {
-        "tag": "FYI",
-        "title": "Amtrak eTicket UPDATED — trip tomorrow 8/13",
-        "detail": "Updated ticket + receipt for Penn Station departure. Confirm the change is what you expected."
+        "title": "Chase statement ready",
+        "detail": "Balance $359.14, minimum $40 due Sep 8 — autopay is already on, so nothing needs doing."
       }
     ],
-    "noise": "~30 promos/newsletters (NYT Cooking, Press Herald & Midcoast Villager, Delta & Breeze, ParkMobile, Chairish, hims, VRBO, a political fundraiser, language digests, Todoist digest, quip orders) — not itemized.",
+    "noise": "The rest is newsletters and promos — Press Herald and New Yorker digests, your Japanese and Italian lesson emails, Delta and American offers, and quip and Herb Lester shipping notices.",
     "clear": ""
   },
   "resolved": [
-    "Thank-you note to Larry and Karyn — done",
-    "Return ferry booked (Orient Point → New London) — done"
+    "Figma seat request approved.",
+    "Twelve tasks already checked off today — the morning routine is all but cleared."
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "East Hampton, NY",
-    "confidence": "low",
+    "location": "New York, NY",
+    "confidence": "high",
     "asOf": "Wednesday Aug 12"
   },
   "recipe": {
     "title": "Roasted red pepper & tomato gazpacho",
     "book": "Canal House Cooks Every Day",
-    "why": "High summer has the peppers and tomatoes peaking at the Maine farmstands, and a no-cook gazpacho is exactly right for a warm, unhurried evening cooking just for yourself."
+    "why": "Late-summer tomatoes and peppers are peaking at the East End farmstands right now — a chilled, smoky gazpacho is just the thing for a warm New York afternoon before you head south."
   },
   "tasks": [
     {
@@ -82,12 +72,6 @@
       "project": "Inbox",
       "due": "Today",
       "overdue": false
-    },
-    {
-      "title": "Look for new sconce lights for Vinalhaven bedroom",
-      "project": "Personal Tasks",
-      "due": "Overdue Aug 7",
-      "overdue": true
     }
   ],
   "routines": {
