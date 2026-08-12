@@ -1,76 +1,58 @@
 {
-  "date": "Tuesday, August 11, 2026",
-  "generatedAt": "Inbox update · 10:05 PM ET",
-  "theme": "A light day at the shore — one lunch out, the rest open.",
-  "greeting": "A quiet Tuesday, Dan — lunch at Flora in Westhampton was the one thing on the calendar, and the girls are with Jen. The inbox is calm apart from a single job-search reply worth a look.",
+  "date": "Wednesday, August 12, 2026",
+  "generatedAt": "Morning brief · 8:29 AM ET",
+  "theme": "A wide-open day with no meetings — yours to point at what's been waiting.",
+  "greeting": "The whole day is yours, Dan — nothing's on the calendar today or tomorrow. The one thing tugging is a work edit that's slipped six days past due.",
   "needsAttention": [
     {
-      "tag": "Job search",
-      "title": "Confirm work authorization for SVP Global Public Policy role",
-      "detail": "An application update for the Senior VP of Global Public Policy role (REQ64085) asks you to confirm your work authorization to keep it moving; it came in twice yesterday from an outside applicant portal (sourcehire.app), not the employer directly."
+      "tag": "Overdue task",
+      "title": "Destination edit work has slipped past due",
+      "detail": "Your one open work commitment, in Professional Projects, was due Aug 6 — six days overdue now, the only real task past its date."
     }
   ],
-  "schedule": [
-    {
-      "time": "12:30 PM",
-      "title": "Lunch at Flora, Westhampton Beach",
-      "detail": "Table for four, booked on Susan Silbermann's Resy account.",
-      "tag": "Lunch"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Likely scam recruiter — verify before replying",
-        "detail": "'Confidential' via jobs@sourcehire.app pushes you to confirm visa/work authorization for a Senior VP Global Public Policy role (REQ64085). Hidden employer + urgency = phishing signs. Only job-search item."
-      },
-      {
-        "tag": "Security",
-        "title": "Amex: 'confirm your income'",
-        "detail": "Account ending 03003. Looks like a routine income-update prompt from Amex's real domain — verify inside the Amex app, not via the email link."
-      },
-      {
-        "tag": "Health",
-        "title": "Talkiatry: next visit Tue Aug 18, 10:00 AM EDT",
-        "detail": "Visit confirmed; also a pre-visit questionnaire to fill out. No items about Mom's care."
+        "title": "\"Interview update\" on SVP Global Public Policy role",
+        "detail": "An email from sourcehire.app asks you to confirm work authorization to \"keep your application moving\" — the confidential employer, urgency, and link read like recruiting phishing, so verify before acting."
       },
       {
         "tag": "Financial",
-        "title": "PayPal receipt — Disney Plus $21.09",
-        "detail": "Expected subscription charge. Nothing unexpected."
+        "title": "Chase card statement ready — $359.14",
+        "detail": "Due Sep 8; autopay is enabled, so nothing needs doing."
+      },
+      {
+        "tag": "Health",
+        "title": "Talkiatry visit confirmed for Aug 18",
+        "detail": "Virtual visit Tuesday Aug 18 at 10:00 AM ET; a pre-visit check-in questionnaire is also waiting."
       },
       {
         "tag": "FYI",
-        "title": "GitHub: briefings Pages build failed",
-        "detail": "konigsburg/briefings build failed on main (40bd2c8) — this app. May self-fix on next push; check if home screen looks stale."
+        "title": "Save the date: Brody's Bar Mitzvah, Dec 12",
+        "detail": "Paperless Post invite for the Konigsburg & Campanaro family."
       }
     ],
-    "noise": "6 promo/social/newsletter (Doublelist, Snapchat, American Airlines, HBO Max, Press Herald, New Yorker) + self-sent Japanese lesson — not itemized.",
+    "noise": "Mostly promos (Delta, American, HBO Max, The Company Store, Field Company) and newsletters (New Yorker, Press Herald, NYPL, Italian Word of the Day), plus an obvious \"cloud storage full\" spam sent to a wrong address.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Westhampton Beach, NY",
-    "confidence": "high",
-    "asOf": "Tuesday Aug 11"
+    "location": "Coastal Maine",
+    "confidence": "low",
+    "asOf": "Wednesday Aug 12"
   },
   "recipe": {
-    "title": "Chilled corn soup",
+    "title": "Roasted red pepper & tomato gazpacho",
     "book": "Canal House Cooks Every Day",
-    "why": "Peak East End sweet corn is everywhere right now — a cold, silky bowl is exactly right for a warm Westhampton afternoon."
+    "why": "High summer has the peppers and tomatoes peaking at the Maine farmstands, and a no-cook gazpacho is exactly right for a warm, unhurried evening cooking just for yourself."
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 6",
-      "overdue": true
-    },
-    {
-      "title": "Look for new sconce lights for Vinalhaven bedroom",
+      "title": "Look for new sconce lights for the Vinalhaven bedroom",
       "project": "Personal Tasks",
       "due": "Overdue Aug 7",
       "overdue": true
@@ -78,7 +60,7 @@
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   }
 }
