@@ -1,6 +1,6 @@
 {
   "date": "Wednesday, August 12, 2026",
-  "generatedAt": "Morning brief · 8:29 AM ET",
+  "generatedAt": "Inbox update · 10:13 AM ET",
   "theme": "A wide-open day with no meetings — yours to point at what's been waiting.",
   "greeting": "The whole day is yours, Dan — nothing's on the calendar today or tomorrow. The one thing tugging is a work edit that's slipped six days past due.",
   "needsAttention": [
@@ -15,27 +15,27 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "\"Interview update\" on SVP Global Public Policy role",
-        "detail": "An email from sourcehire.app asks you to confirm work authorization to \"keep your application moving\" — the confidential employer, urgency, and link read like recruiting phishing, so verify before acting."
+        "title": "Likely job-scam email — verify before acting",
+        "detail": "sourcehire.app: 'Confidential SVP Global Public Policy' asks you to confirm visa/work authorization. Unsolicited, confidential employer, unfamiliar domain, urgency — treat as phishing unless you recognize it. Only job-search item."
       },
       {
         "tag": "Financial",
-        "title": "Chase card statement ready — $359.14",
-        "detail": "Due Sep 8; autopay is enabled, so nothing needs doing."
+        "title": "Chase card statement + Quip charge",
+        "detail": "Chase (...8020) statement ready: $359.14, min $40, due 09/08, auto-pay on. Sapphire auto-payment scheduled. Quip recurring order #Q8780080 charged. Nothing unexpected."
       },
       {
         "tag": "Health",
-        "title": "Talkiatry visit confirmed for Aug 18",
-        "detail": "Virtual visit Tuesday Aug 18 at 10:00 AM ET; a pre-visit check-in questionnaire is also waiting."
+        "title": "Talkiatry visit confirmed Tue 08/18",
+        "detail": "Your own virtual visit, 10:00 AM ET. No Mom's-care items."
       },
       {
         "tag": "FYI",
-        "title": "Save the date: Brody's Bar Mitzvah, Dec 12",
-        "detail": "Paperless Post invite for the Konigsburg & Campanaro family."
+        "title": "Amtrak trip tomorrow (08/13)",
+        "detail": "eTicket + receipt for tomorrow's trip, marked UPDATED. Amtrak Guest Rewards 'set password' is expected from your new signup, not suspicious."
       }
     ],
-    "noise": "Mostly promos (Delta, American, HBO Max, The Company Store, Field Company) and newsletters (New Yorker, Press Herald, NYPL, Italian Word of the Day), plus an obvious \"cloud storage full\" spam sent to a wrong address.",
-    "clear": ""
+    "noise": "~18 promotions/newsletters (NY Sun, New Yorker, Press Herald, Delta, AA, HBO Max, SiriusXM, retail), not itemized.",
+    "clear": "No security alerts and no legitimate job-search action items today."
   },
   "resolved": [],
   "context": {
