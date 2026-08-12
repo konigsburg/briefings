@@ -1,45 +1,52 @@
 {
   "date": "Tuesday, August 11, 2026",
-  "generatedAt": "Morning brief · 4:05 PM ET",
-  "theme": "An open day on the East End, one lunch on the books.",
-  "greeting": "A wide-open Tuesday, Dan — nothing but a midday lunch in Westhampton and the afternoon to yourself. The girls are with Jen this stretch, so the shape of the day is yours to set.",
+  "generatedAt": "Morning brief · 9:05 PM ET",
+  "theme": "A quiet Westhampton day winding down — lunch behind you, one job thread worth a careful eye.",
+  "greeting": "Evening, Dan. The Hamptons day has mostly unwound: lunch at Flora is done and tomorrow's calendar is clear. One job-search email came in twice today and is worth a careful look before you close the laptop.",
   "needsAttention": [
     {
       "tag": "Job search",
-      "title": "SVP, Global Public Policy — 'interview update'",
-      "detail": "A recruiter note (sourcehire.app) on a 'Confidential' SVP, Global Public Policy role asks you to confirm your work authorization through a link before the application moves — the sender and that ask are worth a hard look before you respond."
-    },
-    {
-      "tag": "Overdue task",
-      "title": "Destination edit work",
-      "detail": "In Professional Projects, due Aug 6 and now five days overdue."
+      "title": "SVP, Global Public Policy — work-auth ask",
+      "detail": "An \"interview update\" for the Senior Vice President, Global Public Policy role (REQ64085) arrived twice today from jobs@sourcehire.app, asking you to \"confirm your work authorization\" via a link to \"keep your application moving.\" The role fits your background, but the unfamiliar sender, the confidential employer, and a visa-status ask by link are worth scrutinizing before you click anything."
     }
   ],
   "schedule": [
     {
       "time": "12:30 PM",
-      "title": "Lunch at Flora, Westhampton Beach",
-      "detail": "Table for 4 on Susan Silbermann's Resy; held 15 minutes.",
+      "title": "Lunch at Flora",
+      "detail": "Westhampton Beach · table for 4",
       "tag": "lunch"
     }
   ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "SVP, Global Public Policy interview update",
+        "detail": "Two notes from jobs@sourcehire.app asking you to confirm work authorization for REQ64085 — scrutinize the sender before acting."
+      },
+      {
         "tag": "Health",
-        "title": "Talkiatry visit confirmed — Aug 18",
-        "detail": "Virtual visit Tuesday, Aug 18 at 10:00 AM ET; a pre-visit check-in questionnaire is waiting."
+        "title": "Talkiatry visit confirmed · Aug 18",
+        "detail": "Your next virtual visit is set for Tue, Aug 18 at 10:00 AM ET; a pre-visit questionnaire is also waiting."
+      },
+      {
+        "tag": "Financial",
+        "title": "Amex income confirmation",
+        "detail": "American Express is prompting you to confirm your income on the account ending 03003 — routine, no rush."
       },
       {
         "tag": "FYI",
-        "title": "Save the date: Brody's Bar Mitzvah",
-        "detail": "Paperless Post invite for Saturday, Dec 12 — Konigsburg & Campanaro families."
+        "title": "Briefings site build failed",
+        "detail": "GitHub Pages reported a failed deploy on konigsburg/briefings; the next publish should re-trigger it."
       }
     ],
-    "noise": "The usual promos and newsletters — Vanguard and Morgan Stanley savings pitches, ANA miles, Field Company, NYPL — plus a fake 'cloud storage payment failed' scam to ignore.",
+    "noise": "The rest is newsletters and promos — New Yorker, Press Herald, NYPL, an airline miles nudge, a few retail sends — plus assorted social and spam.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    "Lunch at Flora in Westhampton Beach — done and checked off."
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -54,6 +61,12 @@
   },
   "tasks": [
     {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 6",
+      "overdue": true
+    },
+    {
       "title": "Look for new sconce lights for Vinalhaven bedroom",
       "project": "Personal Tasks",
       "due": "Overdue Aug 7",
@@ -61,8 +74,8 @@
     }
   ],
   "routines": {
-    "morning": "7/10",
-    "day": "1/3",
+    "morning": "0/3",
+    "day": "0/2",
     "evening": "0/4"
   }
 }
