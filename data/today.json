@@ -1,52 +1,40 @@
 {
   "date": "Tuesday, August 11, 2026",
-  "generatedAt": "Morning brief · 9:05 PM ET",
-  "theme": "A quiet Westhampton day winding down — lunch behind you, one job thread worth a careful eye.",
-  "greeting": "Evening, Dan. The Hamptons day has mostly unwound: lunch at Flora is done and tomorrow's calendar is clear. One job-search email came in twice today and is worth a careful look before you close the laptop.",
+  "generatedAt": "Morning brief · 9:07 PM ET",
+  "theme": "A light day at the shore — one lunch out, the rest open.",
+  "greeting": "A quiet Tuesday, Dan — lunch at Flora in Westhampton was the one thing on the calendar, and the girls are with Jen. The inbox is calm apart from a single job-search reply worth a look.",
   "needsAttention": [
     {
       "tag": "Job search",
-      "title": "SVP, Global Public Policy — work-auth ask",
-      "detail": "An \"interview update\" for the Senior Vice President, Global Public Policy role (REQ64085) arrived twice today from jobs@sourcehire.app, asking you to \"confirm your work authorization\" via a link to \"keep your application moving.\" The role fits your background, but the unfamiliar sender, the confidential employer, and a visa-status ask by link are worth scrutinizing before you click anything."
+      "title": "Confirm work authorization for SVP Global Public Policy role",
+      "detail": "An application update for the Senior VP of Global Public Policy role (REQ64085) asks you to confirm your work authorization to keep it moving; it came in twice yesterday from an outside applicant portal (sourcehire.app), not the employer directly."
     }
   ],
   "schedule": [
     {
       "time": "12:30 PM",
-      "title": "Lunch at Flora",
-      "detail": "Westhampton Beach · table for 4",
-      "tag": "lunch"
+      "title": "Lunch at Flora, Westhampton Beach",
+      "detail": "Table for four, booked on Susan Silbermann's Resy account.",
+      "tag": "Lunch"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "SVP, Global Public Policy interview update",
-        "detail": "Two notes from jobs@sourcehire.app asking you to confirm work authorization for REQ64085 — scrutinize the sender before acting."
+        "tag": "Financial",
+        "title": "Amex asks you to confirm your income",
+        "detail": "American Express wants your income updated on the account ending 03003 — routine account upkeep, no stated deadline."
       },
       {
         "tag": "Health",
-        "title": "Talkiatry visit confirmed · Aug 18",
-        "detail": "Your next virtual visit is set for Tue, Aug 18 at 10:00 AM ET; a pre-visit questionnaire is also waiting."
-      },
-      {
-        "tag": "Financial",
-        "title": "Amex income confirmation",
-        "detail": "American Express is prompting you to confirm your income on the account ending 03003 — routine, no rush."
-      },
-      {
-        "tag": "FYI",
-        "title": "Briefings site build failed",
-        "detail": "GitHub Pages reported a failed deploy on konigsburg/briefings; the next publish should re-trigger it."
+        "title": "Talkiatry visit confirmed for Aug 18",
+        "detail": "Your next virtual visit is set for Tuesday, Aug 18 at 10:00 AM ET; a pre-visit check-in questionnaire is also waiting."
       }
     ],
-    "noise": "The rest is newsletters and promos — New Yorker, Press Herald, NYPL, an airline miles nudge, a few retail sends — plus assorted social and spam.",
+    "noise": "Mostly newsletters and promos — New Yorker, Press Herald, Midcoast Villager, HBO Max, airline points, a cast-iron griddle pitch, and the usual social pings.",
     "clear": ""
   },
-  "resolved": [
-    "Lunch at Flora in Westhampton Beach — done and checked off."
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -74,8 +62,8 @@
     }
   ],
   "routines": {
-    "morning": "0/3",
-    "day": "0/2",
+    "morning": "0/10",
+    "day": "0/3",
     "evening": "0/4"
   }
 }
