@@ -1,8 +1,8 @@
 {
   "date": "Wednesday, August 12, 2026",
-  "generatedAt": "Inbox update · 3:09 PM ET",
+  "generatedAt": "Inbox update · 4:04 PM ET",
   "theme": "An open day on Long Island before tomorrow's train south to Washington.",
-  "greeting": "The day is mostly yours, Dan — just a midday hour you've set aside, with the 3:16 Amtrak to DC waiting tomorrow. Two quick job-search follow-ups are due today, and that Aug 6 work edit is still the one thing genuinely past its date.",
+  "greeting": "The day is mostly yours, Dan — one midday hour you set aside, with the 3:16 Amtrak to DC waiting tomorrow. Two quick job-search follow-ups are due today, and that Aug 6 work edit is still the one thing genuinely past its date.",
   "needsAttention": [
     {
       "tag": "Overdue task",
@@ -33,12 +33,12 @@
       {
         "tag": "Security",
         "title": "New iOS sign-in to Gmail",
-        "detail": "Google alert (x2, 10:58 ET) — new iOS device granted access to konigsburg@gmail.com. Confirm it was you."
+        "detail": "Google alert (x2, ~11 AM ET) — a new iOS device was granted access to konigsburg@gmail.com. Confirm it was you."
       },
       {
         "tag": "Security",
         "title": "JustForFans new-device login alert",
-        "detail": "Unusual sender flagged a login from a new device/IP. Verify or ignore."
+        "detail": "System flagged a login from a new device/IP (1:43 PM ET). Verify or ignore."
       },
       {
         "tag": "Financial",
@@ -51,7 +51,7 @@
         "detail": "Updated ticket + receipt for Penn Station departure. Confirm the change is what you expected."
       }
     ],
-    "noise": "~30 promos/newsletters (NYT Cooking, New Yorker, Press Herald, airline & retail promos, political fundraiser, language digests, Todoist digest, Figma seat approval) — not itemized.",
+    "noise": "~30 promos/newsletters (NYT Cooking, Press Herald & Midcoast Villager, Delta & Breeze, ParkMobile, Chairish, hims, VRBO, a political fundraiser, language digests, Todoist digest, quip orders) — not itemized.",
     "clear": ""
   },
   "resolved": [
@@ -84,15 +84,15 @@
       "overdue": false
     },
     {
-      "title": "Look for new sconce lights for the Vinalhaven bedroom",
+      "title": "Look for new sconce lights for Vinalhaven bedroom",
       "project": "Personal Tasks",
       "due": "Overdue Aug 7",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
-    "evening": "0/4"
+    "morning": "7/10",
+    "day": "1/3",
+    "evening": "1/4"
   }
 }
