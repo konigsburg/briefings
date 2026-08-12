@@ -1,47 +1,62 @@
 {
   "date": "Wednesday, August 12, 2026",
-  "generatedAt": "Inbox update · 10:13 AM ET",
-  "theme": "A wide-open day with no meetings — yours to point at what's been waiting.",
-  "greeting": "The whole day is yours, Dan — nothing's on the calendar today or tomorrow. The one thing tugging is a work edit that's slipped six days past due.",
+  "generatedAt": "Inbox update · 2:41 PM ET",
+  "theme": "An open day on Long Island before tomorrow's train south to Washington.",
+  "greeting": "The day is mostly yours, Dan — just a midday hour you've set aside, with the 3:16 Amtrak to DC waiting tomorrow. Two quick job-search follow-ups are due today, and that Aug 6 work edit is still the one thing genuinely past its date.",
   "needsAttention": [
     {
       "tag": "Overdue task",
-      "title": "Destination edit work has slipped past due",
-      "detail": "Your one open work commitment, in Professional Projects, was due Aug 6 — six days overdue now, the only real task past its date."
+      "title": "Destination edit work is six days past due",
+      "detail": "Your one open work commitment in Professional Projects was due Aug 6 — still the only real task past its date."
+    },
+    {
+      "tag": "Prep for tomorrow",
+      "title": "Amtrak to Washington leaves tomorrow at 3:16 PM",
+      "detail": "You're booked from Penn Station (NYP) to DC on tomorrow's 3:16 PM Amtrak; the updated eTicket is already in your inbox — worth having it and your ID ready before you head into the city."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "12:00 PM",
+      "title": "Do my poses",
+      "detail": "A midday hour you blocked for yourself.",
+      "tag": "wellness"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Security",
+        "title": "Two Google sign-in alerts today",
+        "detail": "A new sign-in and an 'iOS was granted access' notice for konigsburg@gmail.com reached your recovery address around 10:58 AM — likely your own new iOS access, but confirm you recognize them."
+      },
+      {
         "tag": "Job search",
-        "title": "Likely job-scam email — verify before acting",
-        "detail": "sourcehire.app: 'Confidential SVP Global Public Policy' asks you to confirm visa/work authorization. Unsolicited, confidential employer, unfamiliar domain, urgency — treat as phishing unless you recognize it. Only job-search item."
+        "title": "Likely job scam — don't reply",
+        "detail": "sourcehire.app is pushing a 'Confidential SVP, Global Public Policy' role and pressing you to confirm visa/work authorization. Unsolicited, confidential employer, unfamiliar domain, urgency — treat as phishing."
       },
       {
         "tag": "Financial",
-        "title": "Chase card statement + Quip charge",
-        "detail": "Chase (...8020) statement ready: $359.14, min $40, due 09/08, auto-pay on. Sapphire auto-payment scheduled. Quip recurring order #Q8780080 charged. Nothing unexpected."
-      },
-      {
-        "tag": "Health",
-        "title": "Talkiatry visit confirmed Tue 08/18",
-        "detail": "Your own virtual visit, 10:00 AM ET. No Mom's-care items."
+        "title": "Chase statement ready, auto-pay on",
+        "detail": "Card (...8020) statement is $359.14, min $40, due 09/08; Sapphire auto-payment is scheduled and a Quip recurring order was charged. Nothing unexpected."
       },
       {
         "tag": "FYI",
-        "title": "Amtrak trip tomorrow (08/13)",
-        "detail": "eTicket + receipt for tomorrow's trip, marked UPDATED. Amtrak Guest Rewards 'set password' is expected from your new signup, not suspicious."
+        "title": "Amtrak eTicket updated for tomorrow",
+        "detail": "Your 08/13 travel documents are marked UPDATED and in your inbox; the Amtrak Guest Rewards welcome email is from your new signup, not suspicious."
       }
     ],
-    "noise": "~18 promotions/newsletters (NY Sun, New Yorker, Press Herald, Delta, AA, HBO Max, SiriusXM, retail), not itemized.",
-    "clear": "No security alerts and no legitimate job-search action items today."
+    "noise": "~20+ promotions and newsletters — Breeze, Delta, VRBO, Sopo Seafood, Field Company, NYT Cooking, NY Sun, Press Herald, Midcoast Villager, language lessons and retail — not itemized.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    "Thank-you note to Larry and Karyn — done",
+    "Return ferry booked (Orient Point → New London) — done"
+  ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Coastal Maine",
+    "location": "East Hampton, NY",
     "confidence": "low",
     "asOf": "Wednesday Aug 12"
   },
@@ -51,6 +66,18 @@
     "why": "High summer has the peppers and tomatoes peaking at the Maine farmstands, and a no-cook gazpacho is exactly right for a warm, unhurried evening cooking just for yourself."
   },
   "tasks": [
+    {
+      "title": "Next steps with Shireen",
+      "project": "Inbox",
+      "due": "Today",
+      "overdue": false
+    },
+    {
+      "title": "Thank Sakai San",
+      "project": "Inbox",
+      "due": "Today",
+      "overdue": false
+    },
     {
       "title": "Look for new sconce lights for the Vinalhaven bedroom",
       "project": "Personal Tasks",
