@@ -1,6 +1,6 @@
 {
   "date": "Tuesday, August 11, 2026",
-  "generatedAt": "Morning brief · 9:07 PM ET",
+  "generatedAt": "Inbox update · 10:05 PM ET",
   "theme": "A light day at the shore — one lunch out, the rest open.",
   "greeting": "A quiet Tuesday, Dan — lunch at Flora in Westhampton was the one thing on the calendar, and the girls are with Jen. The inbox is calm apart from a single job-search reply worth a look.",
   "needsAttention": [
@@ -21,17 +21,32 @@
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Amex asks you to confirm your income",
-        "detail": "American Express wants your income updated on the account ending 03003 — routine account upkeep, no stated deadline."
+        "tag": "Job search",
+        "title": "Likely scam recruiter — verify before replying",
+        "detail": "'Confidential' via jobs@sourcehire.app pushes you to confirm visa/work authorization for a Senior VP Global Public Policy role (REQ64085). Hidden employer + urgency = phishing signs. Only job-search item."
+      },
+      {
+        "tag": "Security",
+        "title": "Amex: 'confirm your income'",
+        "detail": "Account ending 03003. Looks like a routine income-update prompt from Amex's real domain — verify inside the Amex app, not via the email link."
       },
       {
         "tag": "Health",
-        "title": "Talkiatry visit confirmed for Aug 18",
-        "detail": "Your next virtual visit is set for Tuesday, Aug 18 at 10:00 AM ET; a pre-visit check-in questionnaire is also waiting."
+        "title": "Talkiatry: next visit Tue Aug 18, 10:00 AM EDT",
+        "detail": "Visit confirmed; also a pre-visit questionnaire to fill out. No items about Mom's care."
+      },
+      {
+        "tag": "Financial",
+        "title": "PayPal receipt — Disney Plus $21.09",
+        "detail": "Expected subscription charge. Nothing unexpected."
+      },
+      {
+        "tag": "FYI",
+        "title": "GitHub: briefings Pages build failed",
+        "detail": "konigsburg/briefings build failed on main (40bd2c8) — this app. May self-fix on next push; check if home screen looks stale."
       }
     ],
-    "noise": "Mostly newsletters and promos — New Yorker, Press Herald, Midcoast Villager, HBO Max, airline points, a cast-iron griddle pitch, and the usual social pings.",
+    "noise": "6 promo/social/newsletter (Doublelist, Snapchat, American Airlines, HBO Max, Press Herald, New Yorker) + self-sent Japanese lesson — not itemized.",
     "clear": ""
   },
   "resolved": [],
