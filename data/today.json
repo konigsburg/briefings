@@ -1,6 +1,6 @@
 {
   "date": "Wednesday, August 12, 2026",
-  "generatedAt": "Inbox update · 2:41 PM ET",
+  "generatedAt": "Inbox update · 3:09 PM ET",
   "theme": "An open day on Long Island before tomorrow's train south to Washington.",
   "greeting": "The day is mostly yours, Dan — just a midday hour you've set aside, with the 3:16 Amtrak to DC waiting tomorrow. Two quick job-search follow-ups are due today, and that Aug 6 work edit is still the one thing genuinely past its date.",
   "needsAttention": [
@@ -26,27 +26,32 @@
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "Two Google sign-in alerts today",
-        "detail": "A new sign-in and an 'iOS was granted access' notice for konigsburg@gmail.com reached your recovery address around 10:58 AM — likely your own new iOS access, but confirm you recognize them."
+        "tag": "Job search",
+        "title": "Possible recruiting scam — verify before replying",
+        "detail": "sourcehire.app asks you to 'confirm work authorization/visa' for SVP Global Public Policy (REQ64085), employer 'Confidential.' Sent twice. Phishing hallmarks — don't click or share details until confirmed."
       },
       {
-        "tag": "Job search",
-        "title": "Likely job scam — don't reply",
-        "detail": "sourcehire.app is pushing a 'Confidential SVP, Global Public Policy' role and pressing you to confirm visa/work authorization. Unsolicited, confidential employer, unfamiliar domain, urgency — treat as phishing."
+        "tag": "Security",
+        "title": "New iOS sign-in to Gmail",
+        "detail": "Google alert (x2, 10:58 ET) — new iOS device granted access to konigsburg@gmail.com. Confirm it was you."
+      },
+      {
+        "tag": "Security",
+        "title": "JustForFans new-device login alert",
+        "detail": "Unusual sender flagged a login from a new device/IP. Verify or ignore."
       },
       {
         "tag": "Financial",
-        "title": "Chase statement ready, auto-pay on",
-        "detail": "Card (...8020) statement is $359.14, min $40, due 09/08; Sapphire auto-payment is scheduled and a Quip recurring order was charged. Nothing unexpected."
+        "title": "Chase card statement ready",
+        "detail": "Balance $359.14, min $40, due Sep 8; autopay on. Chase Sapphire autopay also scheduled."
       },
       {
         "tag": "FYI",
-        "title": "Amtrak eTicket updated for tomorrow",
-        "detail": "Your 08/13 travel documents are marked UPDATED and in your inbox; the Amtrak Guest Rewards welcome email is from your new signup, not suspicious."
+        "title": "Amtrak eTicket UPDATED — trip tomorrow 8/13",
+        "detail": "Updated ticket + receipt for Penn Station departure. Confirm the change is what you expected."
       }
     ],
-    "noise": "~20+ promotions and newsletters — Breeze, Delta, VRBO, Sopo Seafood, Field Company, NYT Cooking, NY Sun, Press Herald, Midcoast Villager, language lessons and retail — not itemized.",
+    "noise": "~30 promos/newsletters (NYT Cooking, New Yorker, Press Herald, airline & retail promos, political fundraiser, language digests, Todoist digest, Figma seat approval) — not itemized.",
     "clear": ""
   },
   "resolved": [
