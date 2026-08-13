@@ -1,53 +1,40 @@
 {
   "date": "Wednesday, August 12, 2026",
-  "generatedAt": "Inbox update · 6:38 PM ET",
-  "theme": "An open day before tomorrow's train to Washington.",
-  "greeting": "The day is almost entirely yours, Dan — a single midday block, then open. Tomorrow's the 3:16 train to Washington, so there's room today to close out what's been lingering before you travel.",
+  "generatedAt": "Morning brief · 8:13 PM ET",
+  "theme": "A quiet Wednesday winding down; tomorrow afternoon the train carries you south to DC.",
+  "greeting": "The day's been open, Dan, with the girls at Jen's — one gentle midday block and otherwise yours. Tomorrow the 3:16 out of New York takes you down to Washington, and your updated Amtrak ticket is already in the inbox.",
   "needsAttention": [
     {
-      "tag": "Overdue task",
-      "title": "Vinalhaven sconce lights",
-      "detail": "In your Personal Tasks list, open since Aug 7 — the last non-routine item still hanging before you're on the move again."
-    },
-    {
-      "tag": "Tomorrow prep",
-      "title": "Amtrak to DC was reissued",
-      "detail": "Your 08/13 ticket arrived marked UPDATED, with departure now at 3:16 PM from New York — worth confirming the new time before you pack."
+      "tag": "Job search",
+      "title": "Interview update asks for your work authorization",
+      "detail": "An 'Interview Update' for a Senior Vice President of Global Public Policy role, sent via sourcehire.app, asks you to confirm your work authorization to \"keep your application moving\" — worth confirming the sender and link are legitimate before you respond."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
       "title": "Do my poses",
-      "detail": "A midday movement block — the only thing on the calendar today.",
+      "detail": "Midday stretch block",
       "tag": "personal"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "'Confirm work authorization' lure",
-        "detail": "A 'SourceHire' note for a Confidential SVP Global Public Policy role wants you to confirm visa status through a tracking link; the undisclosed employer and garbled URL read as a job-application phishing attempt — don't click."
+        "tag": "Financial",
+        "title": "Chase card statement ready",
+        "detail": "Balance $359.14 on card …8020, due Sep 8; auto-pay is already on, so nothing to do."
       },
       {
         "tag": "Health",
-        "title": "Talkiatry intake questionnaire",
-        "detail": "A short pre-visit form is waiting ahead of your confirmed Aug 18, 10 AM virtual visit."
-      },
-      {
-        "tag": "Financial",
-        "title": "Chase statement ready",
-        "detail": "Balance $359.14, minimum $40 due Sep 8 — autopay is already on, so nothing needs doing."
+        "title": "Talkiatry visit Tue Aug 18",
+        "detail": "Virtual visit confirmed for 10 AM ET; a pre-visit questionnaire is waiting when you have a minute."
       }
     ],
-    "noise": "The rest is newsletters and promos — Press Herald and New Yorker digests, your Japanese and Italian lesson emails, Delta and American offers, and quip and Herb Lester shipping notices.",
+    "noise": "Mostly promotions and newsletters — Delta, American, HBO Max, Press Herald, The New Yorker, quip, Nextdoor — plus a 'cloud storage full' scam aimed at an old AOL address.",
     "clear": ""
   },
-  "resolved": [
-    "Figma seat request approved.",
-    "Twelve tasks already checked off today — the morning routine is all but cleared."
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -64,14 +51,20 @@
     {
       "title": "Next steps with Shireen",
       "project": "Inbox",
-      "due": "Today",
+      "due": "Today Aug 12",
       "overdue": false
     },
     {
       "title": "Thank Sakai San",
       "project": "Inbox",
-      "due": "Today",
+      "due": "Today Aug 12",
       "overdue": false
+    },
+    {
+      "title": "Look for new sconce lights for Vinalhaven bedroom",
+      "project": "Personal Tasks",
+      "due": "Overdue Aug 7",
+      "overdue": true
     }
   ],
   "routines": {
