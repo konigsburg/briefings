@@ -1,6 +1,6 @@
 {
   "date": "Thursday, August 13, 2026",
-  "generatedAt": "Morning brief · 8:30 AM ET",
+  "generatedAt": "Inbox update · 11:11 AM ET",
   "theme": "An open morning, then an afternoon train to DC.",
   "greeting": "The day is mostly yours until mid-afternoon, Dan, when the 3:16 carries you down to Washington. Two follow-ups have slipped a day and are easiest to clear before you're on the rails.",
   "needsAttention": [
@@ -26,18 +26,23 @@
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Apple auto-renewals",
-        "detail": "Todoist Pro ($59.99/yr) and Hushed ($4.99/mo) renewed today — routine, nothing to do."
+        "tag": "Job search",
+        "title": "No job-search mail today",
+        "detail": "ICGN Autumn Conference (Toronto, Nov 2026) invite — networking, not a recruiter; no action."
       },
       {
-        "tag": "FYI",
-        "title": "ICGN Autumn Conference, Toronto",
-        "detail": "Registration opened for the November governance conference — a networking fit for the board search."
+        "tag": "Security",
+        "title": "MTA account moved to new device (iPhone)",
+        "detail": "12:11 UTC; almost certainly you — LIRR receipt arrived 1 min later. Act only if not you."
+      },
+      {
+        "tag": "Financial",
+        "title": "Expected charges only",
+        "detail": "MTA LIRR $24.50; Amtrak eTicket+receipt for 8/13 trip; quip order #Q8780080 recurring charge. Nothing unexpected."
       }
     ],
-    "noise": "The rest is promos and newsletters — Bloomberg, Foreign Affairs, Breeze, American Airlines, quip — plus Amtrak and MTA travel receipts.",
-    "clear": "No mail awaiting your reply, and nothing security- or recruiter-related."
+    "noise": "~5 promo/newsletter emails (ICGN, Italian Word of the Day, AA loyalty, Amtrak Rewards, quip credits), not itemized.",
+    "clear": "No job-search, health, or truly urgent mail."
   },
   "resolved": [],
   "context": {
