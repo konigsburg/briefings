@@ -1,32 +1,31 @@
 {
   "date": "Thursday, August 13, 2026",
-  "generatedAt": "Morning brief · 2:11 PM ET",
-  "theme": "An open day that ends on the 3:16 south to Washington.",
-  "greeting": "Most of today is yours, Dan — an East Hampton morning, then the train down to Washington, with a late flight on to Bangor tomorrow night. The Japan board search is running on its own schedule, so nothing here is chasing you.",
+  "generatedAt": "Morning brief · 2:13 PM ET",
+  "theme": "A travel day — East Hampton down to DC by rail, Maine tomorrow.",
+  "greeting": "A quiet, open morning gives way to an afternoon on the rails: LIRR into the city, then the 3:16 Amtrak down to Washington, with an overnight in DC before tomorrow's late flight to Bangor. The girls are with Jen this stretch, so the trip is yours to make at your own pace.",
   "needsAttention": [],
   "schedule": [
     {
+      "time": "11:54 AM",
+      "title": "LIRR from East Hampton",
+      "detail": "Into the city via Jamaica, arriving early afternoon.",
+      "tag": "Travel"
+    },
+    {
       "time": "3:16 PM",
-      "title": "Train to Washington, DC",
-      "detail": "Amtrak from Penn Station, in around 6:15.",
+      "title": "Amtrak to Washington, DC",
+      "detail": "Moynihan/Penn Station to DC, ~3½ hrs; overnight in Washington.",
       "tag": "Travel"
     }
   ],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "Job search",
-        "title": "Japan board call set for Aug 19",
-        "detail": "JOMON's Mr. Furuta is confirmed for a Zoom Wednesday, Aug 19 at 8:00 PM ET — the ProNed thank-you to Sakai-san went out this morning."
-      }
-    ],
-    "noise": "The rest is newsletters and retail promos — NYT Cooking, Morgan Stanley and Amex offers, Mattress Firm, a campaign blast or two.",
-    "clear": "No security, financial, or health mail needing you."
+    "flagged": [],
+    "noise": "The rest is promotions and newsletters — Costco tips, Mattress Firm, bedding sales, a Morgan Stanley savings pitch, a couple of campaign emails, and the Portland Press Herald.",
+    "clear": "No urgent, security, or job-search mail awaiting a reply."
   },
   "resolved": [
-    "Sent your thank-you to Sakai-san, closing the loop on last month's ProNed board conversation.",
-    "Cleared the Vinalhaven sconce lights that had lingered since Aug 7.",
-    "Wrapped next steps with Shireen."
+    "Locked in the trip: Amtrak tickets to DC and tomorrow night's AA flight on to Bangor, and looped Mike in.",
+    "Cleared a few to-dos — thanked Sakai-san, mapped next steps with Shireen, and sorted the Vinalhaven sconces."
   ],
   "context": {
     "kids": false,
@@ -42,8 +41,8 @@
   },
   "tasks": [],
   "routines": {
-    "morning": "6/10",
-    "day": "0/3",
+    "morning": "0/4",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
