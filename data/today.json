@@ -1,48 +1,53 @@
 {
   "date": "Thursday, August 13, 2026",
-  "generatedAt": "Inbox update · 11:07 AM ET",
-  "theme": "An open morning, then an afternoon train to DC.",
-  "greeting": "The morning is still yours, Dan — the 3:16 carries you down to Washington this afternoon. Two follow-ups have slipped a day and are easiest to clear before you're on the rails.",
+  "generatedAt": "Morning brief · 2:08 PM ET",
+  "theme": "A quiet morning, then the afternoon train south to Washington.",
+  "greeting": "Early afternoon, Dan — the day's one fixed point, the 3:16 Amtrak from New York down to Washington, is coming up within the hour. The girls are with Jen this stretch.",
   "needsAttention": [
     {
-      "tag": "Follow-up owed",
-      "title": "Thank-you note to Sakai-san",
-      "detail": "In your Todoist Inbox, due Aug 12 — a short thank-you now a day past and worth clearing while it's fresh."
+      "tag": "Overdue · follow-up",
+      "title": "Next steps with Shireen",
+      "detail": "A follow-up in your Todoist dated Aug 12, now a day past — worth closing before you're on the train."
     },
     {
-      "tag": "Follow-up owed",
-      "title": "Next steps with Shireen",
-      "detail": "Also in your Inbox and a day overdue — a quick decision on the next move, best sent before the train."
+      "tag": "Overdue · note",
+      "title": "Thank Sakai-san",
+      "detail": "A thank-you you flagged Aug 12, still open in Todoist."
+    },
+    {
+      "tag": "Travel today",
+      "title": "Use the updated Amtrak eTicket",
+      "detail": "Your 3:16 PM train to Washington is ticketed — Amtrak resent an UPDATED eTicket yesterday, so use that one, not the original."
     }
   ],
   "schedule": [
     {
       "time": "3:16 PM",
-      "title": "Amtrak to Washington, DC",
-      "detail": "Train south out of New York, ~3 hrs; eTicket is in your inbox.",
+      "title": "Train to Washington, DC",
+      "detail": "Amtrak from New York, in around 6:16 PM.",
       "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "No job-search mail today",
-        "detail": "ICGN Autumn Conference (Toronto, Nov 2026) invite — networking, not a recruiter; no action."
-      },
-      {
-        "tag": "Security",
-        "title": "MTA account moved to new device (iPhone)",
-        "detail": "12:11 UTC; almost certainly you — LIRR receipt landed one minute later. Act only if not you."
+        "tag": "FYI",
+        "title": "ICGN Autumn Conference — Toronto, Nov",
+        "detail": "ICGN asks whether you'll attend the November governance conference in Toronto."
       },
       {
         "tag": "Financial",
-        "title": "Expected charges only",
-        "detail": "MTA LIRR $24.50, Amtrak eTicket+receipt for the 8/13 trip, quip order #Q8780080, and a scheduled Chase Sapphire auto-payment. Nothing unexpected."
+        "title": "Chase Sapphire autopay scheduled",
+        "detail": "Your automatic card payment is set to post on the due date; Apple also charged the Todoist Pro renewal ($59.99)."
+      },
+      {
+        "tag": "Security",
+        "title": "MTA TrainTime moved to iPhone",
+        "detail": "Your ticket account was moved to a device named 'iPhone' — expected if that was you setting up today's train."
       }
     ],
-    "noise": "~8 promo/newsletter emails (NYT Cooking, ICGN, Italian Word of the Day, AA loyalty, Amtrak Rewards, quip credits, MidCoast Villager, Figma), not itemized.",
-    "clear": "No job-search, health, or truly urgent mail."
+    "noise": "Otherwise receipts and promos — Amtrak, Apple, Breeze, Bloomberg, Foreign Affairs, quip, The Company Store, and the daily Italian/Japanese digests.",
+    "clear": "No recruiter or application mail this morning."
   },
   "resolved": [],
   "context": {
@@ -50,46 +55,34 @@
     "phase": "green",
     "location": "New York → Washington, DC",
     "confidence": "high",
-    "asOf": "Thursday Aug 13"
+    "asOf": "Thu Aug 13"
   },
   "recipe": {
     "title": "Cold avocado & cucumber soup",
     "book": "Canal House Cooks Every Day",
-    "why": "A no-cook chilled soup for a warm DC evening — peak-August avocados and cucumbers, and nothing that asks you to face a stove after the train."
+    "why": "A hot travel day wants no stove — a chilled avocado-cucumber soup is a cool, five-minute supper for whenever you land in DC."
   },
   "tasks": [
     {
-      "title": "Thank Sakai-san",
-      "project": "Inbox",
-      "due": "Overdue Aug 12",
-      "overdue": true
-    },
-    {
-      "title": "Next steps with Shireen",
-      "project": "Inbox",
-      "due": "Overdue Aug 12",
-      "overdue": true
-    },
-    {
       "title": "Look for new sconce lights for Vinalhaven bedroom",
-      "project": "Personal Tasks",
+      "project": "",
       "due": "Overdue Aug 7",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "6/10",
-    "day": "0/3",
+    "morning": "0/10",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "Open and unhurried — nothing on the calendar before the train."
+      "time": "Earlier",
+      "line": "An open morning — nothing was on the calendar before the train."
     },
     {
-      "time": "Afternoon",
-      "line": "3:16 PM Amtrak from New York down to Washington, DC (in around 6:16)."
+      "time": "3:16 PM",
+      "line": "Amtrak from New York down to Washington, DC (in around 6:16)."
     },
     {
       "time": "Evening",
