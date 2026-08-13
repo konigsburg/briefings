@@ -1,53 +1,43 @@
 {
   "date": "Thursday, August 13, 2026",
-  "generatedAt": "Morning brief · 8:15 AM ET",
-  "theme": "A quiet morning, then the afternoon train south to Washington.",
-  "greeting": "Most of the day is open, Dan — the one fixed point is the 3:16 train from New York down to DC, so the morning is yours before you're on the move. The girls are with Jen this stretch.",
+  "generatedAt": "Morning brief · 8:30 AM ET",
+  "theme": "An open morning, then an afternoon train to DC.",
+  "greeting": "The day is mostly yours until mid-afternoon, Dan, when the 3:16 carries you down to Washington. Two follow-ups have slipped a day and are easiest to clear before you're on the rails.",
   "needsAttention": [
     {
-      "tag": "Overdue · follow-up",
+      "tag": "Follow-up owed",
+      "title": "Thank-you note to Sakai-san",
+      "detail": "In your Todoist Inbox, due yesterday — a short thank-you that's a day past and worth clearing while it's fresh."
+    },
+    {
+      "tag": "Follow-up owed",
       "title": "Next steps with Shireen",
-      "detail": "A follow-up in your Todoist dated Aug 12, now a day past — worth closing before you're on the train."
-    },
-    {
-      "tag": "Overdue · note",
-      "title": "Thank Sakai-san",
-      "detail": "A thank-you you flagged Aug 12, still open in Todoist."
-    },
-    {
-      "tag": "Travel today",
-      "title": "Use the updated Amtrak eTicket",
-      "detail": "Your 3:16 PM train to Washington is ticketed — Amtrak resent an UPDATED eTicket yesterday, so use that one, not the original."
+      "detail": "Also in your Inbox and a day overdue — a quick decision on the next move, best sent before the train."
     }
   ],
   "schedule": [
     {
       "time": "3:16 PM",
-      "title": "Train to Washington, DC",
-      "detail": "Amtrak from New York, in around 6:16 PM.",
+      "title": "Amtrak to Washington, DC",
+      "detail": "Train south out of New York, ~3 hrs; eTicket is in your inbox.",
       "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "ICGN Autumn Conference — Toronto, Nov",
-        "detail": "ICGN asks whether you'll attend the November governance conference in Toronto."
-      },
-      {
         "tag": "Financial",
-        "title": "Chase Sapphire autopay scheduled",
-        "detail": "Your automatic card payment is set to post on the due date; Apple also charged the Todoist Pro renewal ($59.99)."
+        "title": "Apple auto-renewals",
+        "detail": "Todoist Pro ($59.99/yr) and Hushed ($4.99/mo) renewed today — routine, nothing to do."
       },
       {
-        "tag": "Security",
-        "title": "MTA TrainTime moved to iPhone",
-        "detail": "Your ticket account was moved to a device named 'iPhone' — expected if that was you setting up today's train."
+        "tag": "FYI",
+        "title": "ICGN Autumn Conference, Toronto",
+        "detail": "Registration opened for the November governance conference — a networking fit for the board search."
       }
     ],
-    "noise": "Otherwise receipts and promos — Amtrak, Apple, Breeze, Bloomberg, Foreign Affairs, quip, The Company Store, and the daily Italian/Japanese digests.",
-    "clear": "No recruiter or application mail this morning."
+    "noise": "The rest is promos and newsletters — Bloomberg, Foreign Affairs, Breeze, American Airlines, quip — plus Amtrak and MTA travel receipts.",
+    "clear": "No mail awaiting your reply, and nothing security- or recruiter-related."
   },
   "resolved": [],
   "context": {
@@ -55,24 +45,36 @@
     "phase": "green",
     "location": "New York → Washington, DC",
     "confidence": "high",
-    "asOf": "Thu Aug 13"
+    "asOf": "Thursday Aug 13"
   },
   "recipe": {
     "title": "Cold avocado & cucumber soup",
     "book": "Canal House Cooks Every Day",
-    "why": "A hot travel day wants no stove — a chilled avocado-cucumber soup is a cool, five-minute supper for whenever you land in DC."
+    "why": "A no-cook chilled soup for a warm DC evening — peak-August avocados and cucumbers, and nothing that asks you to face a stove after the train."
   },
   "tasks": [
     {
+      "title": "Thank Sakai-san",
+      "project": "Inbox",
+      "due": "Overdue Aug 12",
+      "overdue": true
+    },
+    {
+      "title": "Next steps with Shireen",
+      "project": "Inbox",
+      "due": "Overdue Aug 12",
+      "overdue": true
+    },
+    {
       "title": "Look for new sconce lights for Vinalhaven bedroom",
-      "project": "",
+      "project": "Personal Tasks",
       "due": "Overdue Aug 7",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
+    "morning": "3/10",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
