@@ -2,80 +2,82 @@
   "lessonNo": 225,
   "date": "Thursday, Aug 13",
   "generatedAt": "Lesson #225 · Aug 13",
-  "theme": "Describing actions in progress & ongoing states — the ~teiru form",
-  "intro": "Take a verb's te-form and add iru/imasu to say what's happening now, or to describe a continuing state.",
+  "theme": "〜ている — what's happening now & ongoing states",
+  "intro": "Snap いる／います onto a て-form to say what's happening right now — and what stays true.",
   "grammar": {
-    "title": "The ~teiru / ~teimasu form",
+    "title": "て-form + いる／います",
     "rules": [
       {
         "label": "Action in progress",
-        "detail": "te-form + iru/imasu = 'is ~ing', with action verbs.",
+        "detail": "Plain て-form + います = English \"-ing\" happening now.",
         "examples": [
-          "taberu -> tabete -> tabete imasu (is eating)",
-          "matsu -> matte -> matte imasu (is waiting)"
+          "食べて → 食べています (am eating)",
+          "いま、雨がふっています。(It's raining right now.)"
         ]
       },
       {
-        "label": "Ongoing / resultant state",
-        "detail": "With state-change verbs it describes a continuing state, not a live action.",
+        "label": "Continuing state",
+        "detail": "With 知る・住む・結婚する・持つ it marks an ongoing state, not an action in progress.",
         "examples": [
-          "sumu -> sunde imasu (lives)",
-          "shiru -> shitte imasu (knows)"
-        ]
-      },
-      {
-        "label": "Casual",
-        "detail": "Drop the i: ~teiru -> ~teru.",
-        "examples": [
-          "matte iru -> matteru",
-          "tabete imasu -> tabeteru"
+          "結婚しています (is married, not \"marrying\")",
+          "知っています (I know)"
         ]
       }
     ],
-    "bigPoint": "State verbs are tricky: 'shitte imasu' = 'I know', and its negative is the irregular 'shirimasen' (not shitte imasen)."
+    "bigPoint": "Negatives are tricky: \"Do you know?\" is 知っていますか, but \"I don't know\" is 知りません — never 知っていません."
   },
   "vocab": [
     {
       "jp": "待つ（まつ）",
       "romaji": "matsu",
-      "en": "to wait -> matte iru"
+      "en": "to wait → 待っています"
     },
     {
       "jp": "降る（ふる）",
       "romaji": "furu",
-      "en": "to fall (rain/snow) -> futte iru"
+      "en": "to fall (rain/snow) → 降っています"
     },
     {
-      "jp": "住む（すむ）",
-      "romaji": "sumu",
-      "en": "to live, reside -> sunde iru"
+      "jp": "込む（こむ）",
+      "romaji": "komu",
+      "en": "to get crowded → 込んでいます (is crowded)"
     },
     {
       "jp": "知る（しる）",
       "romaji": "shiru",
-      "en": "to know -> shitte iru"
+      "en": "to know → 知っています (I know)"
     },
     {
-      "jp": "探す（さがす）",
-      "romaji": "sagasu",
-      "en": "to look for -> sagashite iru"
+      "jp": "住む（すむ）",
+      "romaji": "sumu",
+      "en": "to live/reside → 住んでいます"
+    },
+    {
+      "jp": "持つ（もつ）",
+      "romaji": "motsu",
+      "en": "to have/hold → 持っています (I have/own)"
     }
   ],
   "examples": [
     {
-      "jp": "今、電車を待っています。",
-      "romaji": "Ima, densha o matte imasu.",
-      "en": "I'm waiting for the train right now."
+      "jp": "いま、えきで ともだちを まっています。",
+      "romaji": "Ima, eki de tomodachi o matte imasu.",
+      "en": "I'm waiting for a friend at the station right now."
     },
     {
-      "jp": "東京に住んでいます。",
-      "romaji": "Tokyo ni sunde imasu.",
-      "en": "I live in Tokyo. (ongoing state)"
+      "jp": "でんしゃが とても こんでいます。",
+      "romaji": "Densha ga totemo konde imasu.",
+      "en": "The train is very crowded."
+    },
+    {
+      "jp": "かれの なまえを しっていますか。",
+      "romaji": "Kare no namae o shitte imasu ka.",
+      "en": "Do you know his name?"
     }
   ],
-  "note": "With action verbs (matsu, taberu, furu) ~teiru means 'in progress'. With state verbs (sumu, shiru, kekkon suru, motsu) it means a continuing state. Negative of shitte imasu is shirimasen.",
+  "note": "In casual speech いる often drops to てる → 何してる？= \"Whatcha doing?\" Normal \"-ing\" verbs form the negative regularly: たべていません = am not eating.",
   "selfCheck": {
-    "q": "At the station, say 'I'm looking for the station' using 駅 (eki) and 探す (sagasu).",
-    "a": "駅を探しています。Eki o sagashite imasu. (Casual: 駅、探してる。)"
+    "q": "Turn 「テレビを見ます」(I watch TV) into \"I'm watching TV right now.\"",
+    "a": "テレビを見ています。(Terebi o mite imasu.)"
   }
 }
