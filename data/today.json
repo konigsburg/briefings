@@ -1,27 +1,21 @@
 {
   "date": "Thursday, August 13, 2026",
-  "generatedAt": "Morning brief · 4:05 PM ET",
-  "theme": "A travel Thursday — rails to DC tonight, wings to Maine tomorrow.",
-  "greeting": "A quiet, travel-shaped Thursday, Dan. You're mid-route to Washington on a delayed Acela, with an overnight in DC before tomorrow's late flight north.",
-  "needsAttention": [
-    {
-      "tag": "Travel today",
-      "title": "Acela 2165 running late into DC",
-      "detail": "Amtrak flagged Train 2165 (booking C3B671) as delayed — roughly 25 minutes late after a mechanical assessment east of Penn Station. Arrival into DC will slip past the 6:16 PM scheduled time."
-    }
-  ],
+  "generatedAt": "Morning brief · 6:13 PM ET",
+  "theme": "An open day, then an afternoon train down to DC.",
+  "greeting": "A quiet, open Thursday, Dan — the day is yours until the afternoon Acela carries you down to Washington. The girls are with Jen this stretch, and tomorrow night a late flight points you toward Maine.",
+  "needsAttention": [],
   "schedule": [
     {
       "time": "3:16 PM",
       "title": "Train to Washington, DC",
-      "detail": "Acela 2165, NYC Penn → DC, running late.",
-      "tag": "Travel"
+      "detail": "Down from New York, into Union Station by 6:16 PM.",
+      "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [],
-    "noise": "Promos and newsletters only — Union Square Wines, Home Chef, and the Midcoast Villager.",
-    "clear": "No urgent, security, financial, or job-search mail — just Amtrak alerts on today's train and a coffee receipt."
+    "noise": "Just a WeatherTech promo landed overnight.",
+    "clear": "No urgent, security, financial, or job-search mail."
   },
   "resolved": [],
   "context": {
@@ -38,7 +32,7 @@
   },
   "tasks": [],
   "routines": {
-    "morning": "0/4",
+    "morning": "6/10",
     "day": "0/3",
     "evening": "0/4"
   },
