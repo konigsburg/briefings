@@ -1,78 +1,49 @@
 {
   "date": "Thursday, August 13, 2026",
-  "generatedAt": "Morning brief · 2:08 PM ET",
-  "theme": "A quiet morning, then the afternoon train south to Washington.",
-  "greeting": "Early afternoon, Dan — the day's one fixed point, the 3:16 Amtrak from New York down to Washington, is coming up within the hour. The girls are with Jen this stretch.",
-  "needsAttention": [
-    {
-      "tag": "Overdue · follow-up",
-      "title": "Next steps with Shireen",
-      "detail": "A follow-up in your Todoist dated Aug 12, now a day past — worth closing before you're on the train."
-    },
-    {
-      "tag": "Overdue · note",
-      "title": "Thank Sakai-san",
-      "detail": "A thank-you you flagged Aug 12, still open in Todoist."
-    },
-    {
-      "tag": "Travel today",
-      "title": "Use the updated Amtrak eTicket",
-      "detail": "Your 3:16 PM train to Washington is ticketed — Amtrak resent an UPDATED eTicket yesterday, so use that one, not the original."
-    }
-  ],
+  "generatedAt": "Morning brief · 2:11 PM ET",
+  "theme": "An open day that ends on the 3:16 south to Washington.",
+  "greeting": "Most of today is yours, Dan — an East Hampton morning, then the train down to Washington, with a late flight on to Bangor tomorrow night. The Japan board search is running on its own schedule, so nothing here is chasing you.",
+  "needsAttention": [],
   "schedule": [
     {
       "time": "3:16 PM",
       "title": "Train to Washington, DC",
-      "detail": "Amtrak from New York, in around 6:16 PM.",
-      "tag": "travel"
+      "detail": "Amtrak from Penn Station, in around 6:15.",
+      "tag": "Travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "ICGN Autumn Conference — Toronto, Nov",
-        "detail": "ICGN asks whether you'll attend the November governance conference in Toronto."
-      },
-      {
-        "tag": "Financial",
-        "title": "Chase Sapphire autopay scheduled",
-        "detail": "Your automatic card payment is set to post on the due date; Apple also charged the Todoist Pro renewal ($59.99)."
-      },
-      {
-        "tag": "Security",
-        "title": "MTA TrainTime moved to iPhone",
-        "detail": "Your ticket account was moved to a device named 'iPhone' — expected if that was you setting up today's train."
+        "tag": "Job search",
+        "title": "Japan board call set for Aug 19",
+        "detail": "JOMON's Mr. Furuta is confirmed for a Zoom Wednesday, Aug 19 at 8:00 PM ET — the ProNed thank-you to Sakai-san went out this morning."
       }
     ],
-    "noise": "Otherwise receipts and promos — Amtrak, Apple, Breeze, Bloomberg, Foreign Affairs, quip, The Company Store, and the daily Italian/Japanese digests.",
-    "clear": "No recruiter or application mail this morning."
+    "noise": "The rest is newsletters and retail promos — NYT Cooking, Morgan Stanley and Amex offers, Mattress Firm, a campaign blast or two.",
+    "clear": "No security, financial, or health mail needing you."
   },
-  "resolved": [],
+  "resolved": [
+    "Sent your thank-you to Sakai-san, closing the loop on last month's ProNed board conversation.",
+    "Cleared the Vinalhaven sconce lights that had lingered since Aug 7.",
+    "Wrapped next steps with Shireen."
+  ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "New York → Washington, DC",
+    "location": "East Hampton → Washington, DC",
     "confidence": "high",
-    "asOf": "Thu Aug 13"
+    "asOf": "Thursday Aug 13"
   },
   "recipe": {
     "title": "Cold avocado & cucumber soup",
     "book": "Canal House Cooks Every Day",
-    "why": "A hot travel day wants no stove — a chilled avocado-cucumber soup is a cool, five-minute supper for whenever you land in DC."
+    "why": "A cold, silky bowl for a hot travel day — cucumbers are at their August peak and it asks nothing of you at the end of a train ride south."
   },
-  "tasks": [
-    {
-      "title": "Look for new sconce lights for Vinalhaven bedroom",
-      "project": "",
-      "due": "Overdue Aug 7",
-      "overdue": true
-    }
-  ],
+  "tasks": [],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
+    "morning": "6/10",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
