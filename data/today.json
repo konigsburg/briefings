@@ -1,13 +1,13 @@
 {
   "date": "Thursday, August 13, 2026",
-  "generatedAt": "Inbox update · 11:11 AM ET",
+  "generatedAt": "Inbox update · 11:07 AM ET",
   "theme": "An open morning, then an afternoon train to DC.",
-  "greeting": "The day is mostly yours until mid-afternoon, Dan, when the 3:16 carries you down to Washington. Two follow-ups have slipped a day and are easiest to clear before you're on the rails.",
+  "greeting": "The morning is still yours, Dan — the 3:16 carries you down to Washington this afternoon. Two follow-ups have slipped a day and are easiest to clear before you're on the rails.",
   "needsAttention": [
     {
       "tag": "Follow-up owed",
       "title": "Thank-you note to Sakai-san",
-      "detail": "In your Todoist Inbox, due yesterday — a short thank-you that's a day past and worth clearing while it's fresh."
+      "detail": "In your Todoist Inbox, due Aug 12 — a short thank-you now a day past and worth clearing while it's fresh."
     },
     {
       "tag": "Follow-up owed",
@@ -33,15 +33,15 @@
       {
         "tag": "Security",
         "title": "MTA account moved to new device (iPhone)",
-        "detail": "12:11 UTC; almost certainly you — LIRR receipt arrived 1 min later. Act only if not you."
+        "detail": "12:11 UTC; almost certainly you — LIRR receipt landed one minute later. Act only if not you."
       },
       {
         "tag": "Financial",
         "title": "Expected charges only",
-        "detail": "MTA LIRR $24.50; Amtrak eTicket+receipt for 8/13 trip; quip order #Q8780080 recurring charge. Nothing unexpected."
+        "detail": "MTA LIRR $24.50, Amtrak eTicket+receipt for the 8/13 trip, quip order #Q8780080, and a scheduled Chase Sapphire auto-payment. Nothing unexpected."
       }
     ],
-    "noise": "~5 promo/newsletter emails (ICGN, Italian Word of the Day, AA loyalty, Amtrak Rewards, quip credits), not itemized.",
+    "noise": "~8 promo/newsletter emails (NYT Cooking, ICGN, Italian Word of the Day, AA loyalty, Amtrak Rewards, quip credits, MidCoast Villager, Figma), not itemized.",
     "clear": "No job-search, health, or truly urgent mail."
   },
   "resolved": [],
@@ -78,7 +78,7 @@
     }
   ],
   "routines": {
-    "morning": "3/10",
+    "morning": "6/10",
     "day": "0/3",
     "evening": "0/4"
   },
