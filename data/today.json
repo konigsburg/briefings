@@ -1,36 +1,33 @@
 {
   "date": "Thursday, August 13, 2026",
-  "generatedAt": "Morning brief · 2:13 PM ET",
-  "theme": "A travel day — East Hampton down to DC by rail, Maine tomorrow.",
-  "greeting": "A quiet, open morning gives way to an afternoon on the rails: LIRR into the city, then the 3:16 Amtrak down to Washington, with an overnight in DC before tomorrow's late flight to Bangor. The girls are with Jen this stretch, so the trip is yours to make at your own pace.",
-  "needsAttention": [],
+  "generatedAt": "Morning brief · 4:05 PM ET",
+  "theme": "A travel Thursday — rails to DC tonight, wings to Maine tomorrow.",
+  "greeting": "A quiet, travel-shaped Thursday, Dan. You're mid-route to Washington on a delayed Acela, with an overnight in DC before tomorrow's late flight north.",
+  "needsAttention": [
+    {
+      "tag": "Travel today",
+      "title": "Acela 2165 running late into DC",
+      "detail": "Amtrak flagged Train 2165 (booking C3B671) as delayed — roughly 25 minutes late after a mechanical assessment east of Penn Station. Arrival into DC will slip past the 6:16 PM scheduled time."
+    }
+  ],
   "schedule": [
     {
-      "time": "11:54 AM",
-      "title": "LIRR from East Hampton",
-      "detail": "Into the city via Jamaica, arriving early afternoon.",
-      "tag": "Travel"
-    },
-    {
       "time": "3:16 PM",
-      "title": "Amtrak to Washington, DC",
-      "detail": "Moynihan/Penn Station to DC, ~3½ hrs; overnight in Washington.",
+      "title": "Train to Washington, DC",
+      "detail": "Acela 2165, NYC Penn → DC, running late.",
       "tag": "Travel"
     }
   ],
   "inbox": {
     "flagged": [],
-    "noise": "The rest is promotions and newsletters — Costco tips, Mattress Firm, bedding sales, a Morgan Stanley savings pitch, a couple of campaign emails, and the Portland Press Herald.",
-    "clear": "No urgent, security, or job-search mail awaiting a reply."
+    "noise": "Promos and newsletters only — Union Square Wines, Home Chef, and the Midcoast Villager.",
+    "clear": "No urgent, security, financial, or job-search mail — just Amtrak alerts on today's train and a coffee receipt."
   },
-  "resolved": [
-    "Locked in the trip: Amtrak tickets to DC and tomorrow night's AA flight on to Bangor, and looped Mike in.",
-    "Cleared a few to-dos — thanked Sakai-san, mapped next steps with Shireen, and sorted the Vinalhaven sconces."
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "East Hampton → Washington, DC",
+    "location": "Washington, DC",
     "confidence": "high",
     "asOf": "Thursday Aug 13"
   },
@@ -42,7 +39,7 @@
   "tasks": [],
   "routines": {
     "morning": "0/4",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
