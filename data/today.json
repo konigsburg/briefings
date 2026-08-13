@@ -1,6 +1,6 @@
 {
   "date": "Wednesday, August 12, 2026",
-  "generatedAt": "Morning brief · 8:13 PM ET",
+  "generatedAt": "Inbox update · 10:03 PM ET",
   "theme": "A quiet Wednesday winding down; tomorrow afternoon the train carries you south to DC.",
   "greeting": "The day's been open, Dan, with the girls at Jen's — one gentle midday block and otherwise yours. Tomorrow the 3:16 out of New York takes you down to Washington, and your updated Amtrak ticket is already in the inbox.",
   "needsAttention": [
@@ -21,18 +21,23 @@
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Chase card statement ready",
-        "detail": "Balance $359.14 on card …8020, due Sep 8; auto-pay is already on, so nothing to do."
+        "tag": "Job search",
+        "title": "Possible phishing — verify before acting",
+        "detail": "jobs@sourcehire.app asks you to confirm visa/work authorization for a 'Confidential' Senior VP Global Public Policy role (REQ64085). Unnamed employer, odd domain, sent twice — likely a scam. Don't confirm anything."
       },
       {
-        "tag": "Health",
-        "title": "Talkiatry visit Tue Aug 18",
-        "detail": "Virtual visit confirmed for 10 AM ET; a pre-visit questionnaire is waiting when you have a minute."
+        "tag": "Financial",
+        "title": "Chase statement + autopay",
+        "detail": "Card (…8020) statement ready: $359.14 balance, $40 min, due 09/08, autopay on. Sapphire autopay scheduled. Quip order #Q8780080 charged."
+      },
+      {
+        "tag": "FYI",
+        "title": "Amtrak trip today (Aug 13)",
+        "detail": "Updated eTickets + receipt for your 08/13 trip — have the QR/ticket ready."
       }
     ],
-    "noise": "Mostly promotions and newsletters — Delta, American, HBO Max, Press Herald, The New Yorker, quip, Nextdoor — plus a 'cloud storage full' scam aimed at an old AOL address.",
-    "clear": ""
+    "noise": "~13 promo/newsletter emails (Nextdoor, Lumosity, Delta, AA, HBO Max, New Yorker, Press Herald, etc.) plus order/shipping notices — not itemized.",
+    "clear": "No legit recruiter outreach, interviews, or offers. No security alerts. No health/Mom's-care items."
   },
   "resolved": [],
   "context": {
