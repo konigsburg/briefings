@@ -1,80 +1,92 @@
 {
-  "date": "Wednesday, August 12, 2026",
-  "generatedAt": "Inbox update · 10:03 PM ET",
-  "theme": "A quiet Wednesday winding down; tomorrow afternoon the train carries you south to DC.",
-  "greeting": "The day's been open, Dan, with the girls at Jen's — one gentle midday block and otherwise yours. Tomorrow the 3:16 out of New York takes you down to Washington, and your updated Amtrak ticket is already in the inbox.",
+  "date": "Thursday, August 13, 2026",
+  "generatedAt": "Morning brief · 8:15 AM ET",
+  "theme": "A quiet morning, then the afternoon train south to Washington.",
+  "greeting": "Most of the day is open, Dan — the one fixed point is the 3:16 train from New York down to DC, so the morning is yours before you're on the move. The girls are with Jen this stretch.",
   "needsAttention": [
     {
-      "tag": "Job search",
-      "title": "Interview update asks for your work authorization",
-      "detail": "An 'Interview Update' for a Senior Vice President of Global Public Policy role, sent via sourcehire.app, asks you to confirm your work authorization to \"keep your application moving\" — worth confirming the sender and link are legitimate before you respond."
+      "tag": "Overdue · follow-up",
+      "title": "Next steps with Shireen",
+      "detail": "A follow-up in your Todoist dated Aug 12, now a day past — worth closing before you're on the train."
+    },
+    {
+      "tag": "Overdue · note",
+      "title": "Thank Sakai-san",
+      "detail": "A thank-you you flagged Aug 12, still open in Todoist."
+    },
+    {
+      "tag": "Travel today",
+      "title": "Use the updated Amtrak eTicket",
+      "detail": "Your 3:16 PM train to Washington is ticketed — Amtrak resent an UPDATED eTicket yesterday, so use that one, not the original."
     }
   ],
   "schedule": [
     {
-      "time": "12:00 PM",
-      "title": "Do my poses",
-      "detail": "Midday stretch block",
-      "tag": "personal"
+      "time": "3:16 PM",
+      "title": "Train to Washington, DC",
+      "detail": "Amtrak from New York, in around 6:16 PM.",
+      "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Possible phishing — verify before acting",
-        "detail": "jobs@sourcehire.app asks you to confirm visa/work authorization for a 'Confidential' Senior VP Global Public Policy role (REQ64085). Unnamed employer, odd domain, sent twice — likely a scam. Don't confirm anything."
+        "tag": "FYI",
+        "title": "ICGN Autumn Conference — Toronto, Nov",
+        "detail": "ICGN asks whether you'll attend the November governance conference in Toronto."
       },
       {
         "tag": "Financial",
-        "title": "Chase statement + autopay",
-        "detail": "Card (…8020) statement ready: $359.14 balance, $40 min, due 09/08, autopay on. Sapphire autopay scheduled. Quip order #Q8780080 charged."
+        "title": "Chase Sapphire autopay scheduled",
+        "detail": "Your automatic card payment is set to post on the due date; Apple also charged the Todoist Pro renewal ($59.99)."
       },
       {
-        "tag": "FYI",
-        "title": "Amtrak trip today (Aug 13)",
-        "detail": "Updated eTickets + receipt for your 08/13 trip — have the QR/ticket ready."
+        "tag": "Security",
+        "title": "MTA TrainTime moved to iPhone",
+        "detail": "Your ticket account was moved to a device named 'iPhone' — expected if that was you setting up today's train."
       }
     ],
-    "noise": "~13 promo/newsletter emails (Nextdoor, Lumosity, Delta, AA, HBO Max, New Yorker, Press Herald, etc.) plus order/shipping notices — not itemized.",
-    "clear": "No legit recruiter outreach, interviews, or offers. No security alerts. No health/Mom's-care items."
+    "noise": "Otherwise receipts and promos — Amtrak, Apple, Breeze, Bloomberg, Foreign Affairs, quip, The Company Store, and the daily Italian/Japanese digests.",
+    "clear": "No recruiter or application mail this morning."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "New York, NY",
+    "location": "New York → Washington, DC",
     "confidence": "high",
-    "asOf": "Wednesday Aug 12"
+    "asOf": "Thu Aug 13"
   },
   "recipe": {
-    "title": "Roasted red pepper & tomato gazpacho",
+    "title": "Cold avocado & cucumber soup",
     "book": "Canal House Cooks Every Day",
-    "why": "Late-summer tomatoes and peppers are peaking at the East End farmstands right now — a chilled, smoky gazpacho is just the thing for a warm New York afternoon before you head south."
+    "why": "A hot travel day wants no stove — a chilled avocado-cucumber soup is a cool, five-minute supper for whenever you land in DC."
   },
   "tasks": [
     {
-      "title": "Next steps with Shireen",
-      "project": "Inbox",
-      "due": "Today Aug 12",
-      "overdue": false
-    },
-    {
-      "title": "Thank Sakai San",
-      "project": "Inbox",
-      "due": "Today Aug 12",
-      "overdue": false
-    },
-    {
       "title": "Look for new sconce lights for Vinalhaven bedroom",
-      "project": "Personal Tasks",
+      "project": "",
       "due": "Overdue Aug 7",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "7/10",
-    "day": "1/3",
-    "evening": "1/4"
-  }
+    "morning": "0/10",
+    "day": "0/6",
+    "evening": "0/4"
+  },
+  "acts": [
+    {
+      "time": "Morning",
+      "line": "Open and unhurried — nothing on the calendar before the train."
+    },
+    {
+      "time": "Afternoon",
+      "line": "3:16 PM Amtrak from New York down to Washington, DC (in around 6:16)."
+    },
+    {
+      "time": "Evening",
+      "line": "Arrive in DC — the evening is your own."
+    }
+  ]
 }
