@@ -1,8 +1,8 @@
 {
   "date": "Friday, August 14, 2026",
-  "generatedAt": "Morning brief · 1:26 PM ET",
-  "theme": "An open day in DC, then a late flight north to Maine.",
-  "greeting": "The day is largely yours until a late flight to Bangor — DCA to BGR, wheels up at 10:15 PM. The girls are with Jen, so it's a quiet solo evening on the way to Maine.",
+  "generatedAt": "Updated · 7:31 PM ET",
+  "theme": "An evening flight home to Maine.",
+  "greeting": "Evening, Dan — the day winds down with a 10:15 flight from Washington up to Bangor tonight (AA 3117). The girls are with Jen this stretch.",
   "needsAttention": [
     {
       "tag": "Networking reply",
@@ -19,8 +19,8 @@
     {
       "time": "10:15 PM",
       "title": "Flight to Bangor (AA 3117)",
-      "detail": "DCA → BGR, arrives 11:59 PM",
-      "tag": "Travel"
+      "detail": "From Washington DCA — heading up to Maine.",
+      "tag": "travel"
     }
   ],
   "inbox": {
@@ -45,9 +45,9 @@
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Washington, DC → Maine tonight",
+    "location": "Washington, DC → Bangor, ME",
     "confidence": "high",
-    "asOf": "Friday Aug 14"
+    "asOf": "Fri Aug 14"
   },
   "recipe": {
     "title": "The splendid summer tomato sandwich",
@@ -69,16 +69,16 @@
   },
   "acts": [
     {
-      "time": "Earlier",
-      "line": "An open morning — nothing was on the calendar before the train."
-    },
-    {
-      "time": "3:16 PM",
-      "line": "Amtrak from New York down to Washington, DC (in around 6:16)."
+      "time": "Daytime",
+      "line": "A quiet Friday down in Washington."
     },
     {
       "time": "Evening",
-      "line": "Arrive in DC — the evening is your own."
+      "line": "10:15 PM flight from DC up to Bangor (AA 3117)."
+    },
+    {
+      "time": "Tonight",
+      "line": "Landing in Maine — the weekend up north begins."
     }
   ]
 }
