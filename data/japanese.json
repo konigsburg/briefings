@@ -1,83 +1,89 @@
 {
   "lessonNo": 225,
-  "date": "Thursday, Aug 13",
-  "generatedAt": "Lesson #225 · Aug 13",
-  "theme": "〜ている — what's happening now & ongoing states",
-  "intro": "Snap いる／います onto a て-form to say what's happening right now — and what stays true.",
+  "date": "Friday, Aug 14",
+  "generatedAt": "Lesson #225 · Aug 14",
+  "theme": "〜ている — actions in progress & ongoing states (out and about in town)",
+  "intro": "Take the て-form and add いる to say what's happening now — or describe a state that's still true.",
   "grammar": {
-    "title": "て-form + いる／います",
+    "title": "The 〜ている form",
     "rules": [
       {
         "label": "Action in progress",
-        "detail": "Plain て-form + います = English \"-ing\" happening now.",
+        "detail": "て-form + いる = \"is/are ~ing\"",
         "examples": [
-          "食べて → 食べています (am eating)",
-          "いま、雨がふっています。(It's raining right now.)"
+          "食べる → 食べている (is eating)"
         ]
       },
       {
-        "label": "Continuing state",
-        "detail": "With 知る・住む・結婚する・持つ it marks an ongoing state, not an action in progress.",
+        "label": "Resultant / ongoing state",
+        "detail": "something happened and the result continues",
         "examples": [
-          "結婚しています (is married, not \"marrying\")",
-          "知っています (I know)"
+          "住む → 住んでいる (lives there)",
+          "結婚する → 結婚している (is married)"
+        ]
+      },
+      {
+        "label": "Polite / casual / negative",
+        "detail": "〜ています (polite) · 〜てる (casual, drops い) · 〜ていません (negative)",
+        "examples": [
+          "待っている → 待ってる"
         ]
       }
     ],
-    "bigPoint": "Negatives are tricky: \"Do you know?\" is 知っていますか, but \"I don't know\" is 知りません — never 知っていません."
+    "bigPoint": "A few verbs live in 〜ている form: 知っている = \"know\" (never plain 知る for \"I know\"), 持っている = \"have/own\". But \"I don't know\" is 知りません, not 知っていません."
   },
   "vocab": [
     {
       "jp": "待つ（まつ）",
       "romaji": "matsu",
-      "en": "to wait → 待っています"
-    },
-    {
-      "jp": "降る（ふる）",
-      "romaji": "furu",
-      "en": "to fall (rain/snow) → 降っています"
-    },
-    {
-      "jp": "込む（こむ）",
-      "romaji": "komu",
-      "en": "to get crowded → 込んでいます (is crowded)"
-    },
-    {
-      "jp": "知る（しる）",
-      "romaji": "shiru",
-      "en": "to know → 知っています (I know)"
+      "en": "to wait → 待っている (is waiting)"
     },
     {
       "jp": "住む（すむ）",
       "romaji": "sumu",
-      "en": "to live/reside → 住んでいます"
+      "en": "to live/reside → 住んでいる (lives)"
+    },
+    {
+      "jp": "知る（しる）",
+      "romaji": "shiru",
+      "en": "to know → 知っている (know)"
+    },
+    {
+      "jp": "探す（さがす）",
+      "romaji": "sagasu",
+      "en": "to look for → 探している (is looking for)"
+    },
+    {
+      "jp": "混む（こむ）",
+      "romaji": "komu",
+      "en": "to get crowded → 混んでいる (is crowded)"
     },
     {
       "jp": "持つ（もつ）",
       "romaji": "motsu",
-      "en": "to have/hold → 持っています (I have/own)"
+      "en": "to hold/have → 持っている (have/own)"
     }
   ],
   "examples": [
     {
-      "jp": "いま、えきで ともだちを まっています。",
+      "jp": "今、駅で友だちを待っています。",
       "romaji": "Ima, eki de tomodachi o matte imasu.",
       "en": "I'm waiting for a friend at the station right now."
     },
     {
-      "jp": "でんしゃが とても こんでいます。",
-      "romaji": "Densha ga totemo konde imasu.",
-      "en": "The train is very crowded."
+      "jp": "わたしは東京に住んでいます。",
+      "romaji": "Watashi wa Tokyo ni sunde imasu.",
+      "en": "I live in Tokyo."
     },
     {
-      "jp": "かれの なまえを しっていますか。",
-      "romaji": "Kare no namae o shitte imasu ka.",
-      "en": "Do you know his name?"
+      "jp": "電車が混んでいますね。",
+      "romaji": "Densha ga konde imasu ne.",
+      "en": "The train's crowded, huh."
     }
   ],
-  "note": "In casual speech いる often drops to てる → 何してる？= \"Whatcha doing?\" Normal \"-ing\" verbs form the negative regularly: たべていません = am not eating.",
+  "note": "The same 〜ている covers \"in progress\" and \"resulting state\" — context tells you which. With motion/instant verbs (行く, 来る, 結婚する) it usually means the RESULT: 行っている = \"has gone (and is there),\" not \"is going.\"",
   "selfCheck": {
-    "q": "Turn 「テレビを見ます」(I watch TV) into \"I'm watching TV right now.\"",
-    "a": "テレビを見ています。(Terebi o mite imasu.)"
+    "q": "A shopkeeper asks if you're looking for something. Say politely with 〜ている: \"Yes, I'm looking for a jacket (ジャケット).\"",
+    "a": "はい、ジャケットを探しています。 (Hai, jaketto o sagashite imasu.)"
   }
 }
