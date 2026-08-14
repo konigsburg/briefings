@@ -1,38 +1,57 @@
 {
-  "date": "Thursday, August 13, 2026",
-  "generatedAt": "Morning brief · 6:13 PM ET",
-  "theme": "An open day, then an afternoon train down to DC.",
-  "greeting": "A quiet, open Thursday, Dan — the day is yours until the afternoon Acela carries you down to Washington. The girls are with Jen this stretch, and tomorrow night a late flight points you toward Maine.",
-  "needsAttention": [],
+  "date": "Friday, August 14, 2026",
+  "generatedAt": "Morning brief · 9:05 AM ET",
+  "theme": "An open day, then a late flight north.",
+  "greeting": "Morning, Dan — the calendar is empty until a 10:15 PM flight from Reagan up to Bangor. Two things want you before you fly, and the girls are with Jen.",
+  "needsAttention": [
+    {
+      "tag": "Awaiting reply",
+      "title": "Pick a time for the PRI call",
+      "detail": "Eugenia wrote back in your PRI thread with times next week — Monday midday or a couple of Thursday windows, your time — and is waiting on you to choose one."
+    },
+    {
+      "tag": "Deadline today",
+      "title": "Clear Mike's calendar for surgery",
+      "detail": "Today is the deadline on your oral-surgery prep task to block Mike's work calendar for Aug 20–21, the surgery in Portland and the recovery day after."
+    }
+  ],
   "schedule": [
     {
-      "time": "3:16 PM",
-      "title": "Train to Washington, DC",
-      "detail": "Down from New York, into Union Station by 6:16 PM.",
+      "time": "10:15 PM",
+      "title": "Flight to Bangor (AA 3117)",
+      "detail": "DCA → BGR, landing near midnight.",
       "tag": "travel"
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "Just a WeatherTech promo landed overnight.",
-    "clear": "No urgent, security, financial, or job-search mail."
+    "flagged": [
+      {
+        "tag": "Job search",
+        "title": "Eugenia wants to schedule the PRI call",
+        "detail": "Networking reply offering Monday or Thursday windows next week; awaiting your pick."
+      }
+    ],
+    "noise": "Newsletters and promotions were quiet overnight.",
+    "clear": "No security, account, or financial mail — one networking reply flagged above."
   },
-  "resolved": [],
+  "resolved": [
+    "You replied to Drew this morning after Schwartzman's overnight trip to the emergency vet."
+  ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Washington, DC",
+    "location": "Washington, DC → Bangor, ME",
     "confidence": "high",
-    "asOf": "Thursday Aug 13"
+    "asOf": "Friday Aug 14"
   },
   "recipe": {
-    "title": "Cold avocado & cucumber soup",
+    "title": "The splendid summer tomato sandwich",
     "book": "Canal House Cooks Every Day",
-    "why": "A cold, silky bowl for a hot travel day — cucumbers are at their August peak and it asks nothing of you at the end of a train ride south."
+    "why": "August tomatoes are at their peak and ask for almost nothing — a fitting, no-cook supper for a travel day that lands you in Maine close to midnight."
   },
   "tasks": [],
   "routines": {
-    "morning": "6/10",
+    "morning": "0/10",
     "day": "0/3",
     "evening": "0/4"
   },
