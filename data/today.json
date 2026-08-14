@@ -1,46 +1,51 @@
 {
   "date": "Friday, August 14, 2026",
-  "generatedAt": "Morning brief · 9:05 AM ET",
-  "theme": "An open day, then a late flight north.",
-  "greeting": "Morning, Dan — the calendar is empty until a 10:15 PM flight from Reagan up to Bangor. Two things want you before you fly, and the girls are with Jen.",
+  "generatedAt": "Morning brief · 1:26 PM ET",
+  "theme": "An open day in DC, then a late flight north to Maine.",
+  "greeting": "The day is largely yours until a late flight to Bangor — DCA to BGR, wheels up at 10:15 PM. The girls are with Jen, so it's a quiet solo evening on the way to Maine.",
   "needsAttention": [
     {
-      "tag": "Awaiting reply",
-      "title": "Pick a time for the PRI call",
-      "detail": "Eugenia wrote back in your PRI thread with times next week — Monday midday or a couple of Thursday windows, your time — and is waiting on you to choose one."
+      "tag": "Networking reply",
+      "title": "Pick a time with Eugenia",
+      "detail": "On the PRI thread she offered Monday 12–2 PM ET or Thursday morning your time to talk, and is waiting on you to choose. She also mentioned PRI's CEO role has now been filled."
     },
     {
-      "tag": "Deadline today",
-      "title": "Clear Mike's calendar for surgery",
-      "detail": "Today is the deadline on your oral-surgery prep task to block Mike's work calendar for Aug 20–21, the surgery in Portland and the recovery day after."
+      "tag": "Flight tonight",
+      "title": "Check in for AA 3117",
+      "detail": "Check-in is open for tonight's 10:15 PM DCA→Bangor flight (confirmation DYEOUM)."
     }
   ],
   "schedule": [
     {
       "time": "10:15 PM",
       "title": "Flight to Bangor (AA 3117)",
-      "detail": "DCA → BGR, landing near midnight.",
-      "tag": "travel"
+      "detail": "DCA → BGR, arrives 11:59 PM",
+      "tag": "Travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Eugenia wants to schedule the PRI call",
-        "detail": "Networking reply offering Monday or Thursday windows next week; awaiting your pick."
+        "title": "Eugenia — PRI call times",
+        "detail": "Replied with slots to talk (Mon 12–2 PM ET or Thu morning); awaiting your pick."
+      },
+      {
+        "tag": "FYI",
+        "title": "AA check-in open (DYEOUM)",
+        "detail": "Tonight's DCA→Bangor flight, 10:15 PM."
       }
     ],
-    "noise": "Newsletters and promotions were quiet overnight.",
-    "clear": "No security, account, or financial mail — one networking reply flagged above."
+    "noise": "The usual newsletters and promos — Alison Roman, Chairish, a Talarico campaign ask, Maine Voices Live, Patreon, and a Dex digest.",
+    "clear": ""
   },
   "resolved": [
-    "You replied to Drew this morning after Schwartzman's overnight trip to the emergency vet."
+    "Replied to Drew about Schwartzman's emergency-vet scare."
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Washington, DC → Bangor, ME",
+    "location": "Washington, DC → Maine tonight",
     "confidence": "high",
     "asOf": "Friday Aug 14"
   },
@@ -49,7 +54,14 @@
     "book": "Canal House Cooks Every Day",
     "why": "August tomatoes are at their peak and ask for almost nothing — a fitting, no-cook supper for a travel day that lands you in Maine close to midnight."
   },
-  "tasks": [],
+  "tasks": [
+    {
+      "title": "Mike's oral surgery prep",
+      "project": "Personal Tasks",
+      "due": "Today Aug 14",
+      "overdue": false
+    }
+  ],
   "routines": {
     "morning": "0/10",
     "day": "0/3",
