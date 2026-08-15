@@ -1,42 +1,44 @@
 {
   "date": "Saturday, August 15, 2026",
-  "generatedAt": "Morning brief · 12:03 PM ET",
-  "theme": "An open Saturday on the coast, nothing on the calendar.",
-  "greeting": "The calendar's empty and the girls are with Jen, Dan, so it's a wide-open Saturday in Maine. Two things want a word: Eugenia is holding times for a PRI talk, and Mike's surgery prep has slipped a day.",
+  "generatedAt": "Morning brief · 4:02 PM ET",
+  "theme": "A wide-open Saturday in Maine, the calendar clear.",
+  "greeting": "Nothing on the calendar today, Dan, and the girls are with Jen — the day is yours. The two things worth not letting drift are Mike's surgery prep, now a day past its first checkpoint, and picking a time back with Eugenia.",
   "needsAttention": [
     {
-      "tag": "Reply owed",
-      "title": "Pick a time with Eugenia",
-      "detail": "Eugenia Unanyants-Jackson offered Monday 12-2 PM ET or Thursday windows for a PRI talk; the slot is waiting on you, and Monday is two days out."
+      "tag": "Health · overdue",
+      "title": "Mike's surgery prep has slipped a day",
+      "detail": "Thursday's oral surgery is in Portland; clearing his work calendar was due yesterday and pre-op confirmation with the surgeon's office is due the 17th. The list still needs moving."
     },
     {
-      "tag": "Health · overdue",
-      "title": "Mike's oral surgery prep",
-      "detail": "Prep for the Aug 20 oral surgery in Portland is a day past due. Next up: confirm pre-op instructions by Aug 17 and a driver by Aug 18."
+      "tag": "Job search",
+      "title": "Pick a time back with Eugenia on PRI",
+      "detail": "She offered Monday 12–2 or Thursday your time for a catch-up and is waiting to hear which works — Monday is only two days out, so a reply this weekend keeps it open."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "PRI - Eugenia awaiting your reply",
-        "detail": "She offered Monday 12-2 PM ET or Thursday to talk through the PRI situation."
+        "tag": "Health",
+        "title": "Talkiatry follow-up Tuesday",
+        "detail": "Virtual visit with Dr. Snowden on Aug 18 at 10:00 AM ET."
       },
       {
         "tag": "Financial",
         "title": "Morgan Stanley holdings notice",
-        "detail": "Proxy / important information on your private markets and alternatives holdings."
+        "detail": "Information on a private markets & alternatives position in your portfolio."
       }
     ],
-    "noise": "Everything else is newsletters and retail promos - NYT Cooking, FT, New Yorker, Mandarin Oriental, and a stack of shop sales.",
+    "noise": "The rest is automated — an American Airlines check-in from last night's flight and a routine proxy-vote notice.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    "Arrived in Maine on last night's flight from Washington-Reagan into Bangor."
+  ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Vinalhaven, Maine",
+    "location": "Coastal Maine",
     "confidence": "high",
     "asOf": "Saturday Aug 15"
   },
@@ -51,10 +53,16 @@
       "project": "Professional Projects",
       "due": "Today",
       "overdue": false
+    },
+    {
+      "title": "Need flights to Croatia — buy",
+      "project": "Inbox",
+      "due": "Today",
+      "overdue": false
     }
   ],
   "routines": {
-    "morning": "0/4",
+    "morning": "6/10",
     "day": "0/3",
     "evening": "0/4"
   },
