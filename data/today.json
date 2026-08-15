@@ -1,28 +1,16 @@
 {
-  "date": "Friday, August 14, 2026",
-  "generatedAt": "Updated · 7:31 PM ET",
-  "theme": "An evening flight home to Maine.",
-  "greeting": "Evening, Dan — the day winds down with a 10:15 flight from Washington up to Bangor tonight (AA 3117). The girls are with Jen this stretch.",
+  "date": "Saturday, August 15, 2026",
+  "generatedAt": "Updated · 11:55 AM ET",
+  "theme": "An open Saturday, back home in Maine.",
+  "greeting": "You're back in Maine after last night's flight into Bangor, Dan — an open Saturday with nothing on the calendar. The girls are with Jen this stretch.",
   "needsAttention": [
     {
-      "tag": "Networking reply",
-      "title": "Pick a time with Eugenia",
-      "detail": "On the PRI thread she offered Monday 12–2 PM ET or Thursday morning your time to talk, and is waiting on you to choose. She also mentioned PRI's CEO role has now been filled."
-    },
-    {
-      "tag": "Flight tonight",
-      "title": "Check in for AA 3117",
-      "detail": "Check-in is open for tonight's 10:15 PM DCA→Bangor flight (confirmation DYEOUM)."
+      "tag": "Overdue · family",
+      "title": "Mike's oral-surgery prep — Aug 14 step is past",
+      "detail": "His surgery is Thursday Aug 20 in Portland. The Aug 14 task (clear Mike's work calendar for Aug 20–21) is now overdue, and the next milestone is Aug 17: confirm pre-op instructions with the surgeon's office."
     }
   ],
-  "schedule": [
-    {
-      "time": "10:15 PM",
-      "title": "Flight to Bangor (AA 3117)",
-      "detail": "From Washington DCA — heading up to Maine.",
-      "tag": "travel"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
@@ -45,14 +33,14 @@
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Washington, DC → Bangor, ME",
+    "location": "Bangor / Vinalhaven, ME",
     "confidence": "high",
-    "asOf": "Fri Aug 14"
+    "asOf": "Sat Aug 15"
   },
   "recipe": {
-    "title": "The splendid summer tomato sandwich",
+    "title": "Tomatoes all dressed up for summer",
     "book": "Canal House Cooks Every Day",
-    "why": "August tomatoes are at their peak and ask for almost nothing — a fitting, no-cook supper for a travel day that lands you in Maine close to midnight."
+    "why": "Peak August tomatoes and a slow Saturday in Maine — dress them simply and let them be most of dinner."
   },
   "tasks": [
     {
@@ -69,16 +57,16 @@
   },
   "acts": [
     {
-      "time": "Daytime",
-      "line": "A quiet Friday down in Washington."
+      "time": "Morning",
+      "line": "Back in Maine — an open, unhurried morning."
+    },
+    {
+      "time": "Afternoon",
+      "line": "Nothing on the calendar; the day is yours."
     },
     {
       "time": "Evening",
-      "line": "10:15 PM flight from DC up to Bangor (AA 3117)."
-    },
-    {
-      "time": "Tonight",
-      "line": "Landing in Maine — the weekend up north begins."
+      "line": "A quiet evening up north."
     }
   ]
 }
