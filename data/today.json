@@ -1,13 +1,18 @@
 {
   "date": "Saturday, August 15, 2026",
-  "generatedAt": "Updated · 11:55 AM ET",
-  "theme": "An open Saturday, back home in Maine.",
-  "greeting": "You're back in Maine after last night's flight into Bangor, Dan — an open Saturday with nothing on the calendar. The girls are with Jen this stretch.",
+  "generatedAt": "Morning brief · 12:03 PM ET",
+  "theme": "An open Saturday on the coast, nothing on the calendar.",
+  "greeting": "The calendar's empty and the girls are with Jen, Dan, so it's a wide-open Saturday in Maine. Two things want a word: Eugenia is holding times for a PRI talk, and Mike's surgery prep has slipped a day.",
   "needsAttention": [
     {
-      "tag": "Overdue · family",
-      "title": "Mike's oral-surgery prep — Aug 14 step is past",
-      "detail": "His surgery is Thursday Aug 20 in Portland. The Aug 14 task (clear Mike's work calendar for Aug 20–21) is now overdue, and the next milestone is Aug 17: confirm pre-op instructions with the surgeon's office."
+      "tag": "Reply owed",
+      "title": "Pick a time with Eugenia",
+      "detail": "Eugenia Unanyants-Jackson offered Monday 12-2 PM ET or Thursday windows for a PRI talk; the slot is waiting on you, and Monday is two days out."
+    },
+    {
+      "tag": "Health · overdue",
+      "title": "Mike's oral surgery prep",
+      "detail": "Prep for the Aug 20 oral surgery in Portland is a day past due. Next up: confirm pre-op instructions by Aug 17 and a driver by Aug 18."
     }
   ],
   "schedule": [],
@@ -15,27 +20,25 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Eugenia — PRI call times",
-        "detail": "Replied with slots to talk (Mon 12–2 PM ET or Thu morning); awaiting your pick."
+        "title": "PRI - Eugenia awaiting your reply",
+        "detail": "She offered Monday 12-2 PM ET or Thursday to talk through the PRI situation."
       },
       {
-        "tag": "FYI",
-        "title": "AA check-in open (DYEOUM)",
-        "detail": "Tonight's DCA→Bangor flight, 10:15 PM."
+        "tag": "Financial",
+        "title": "Morgan Stanley holdings notice",
+        "detail": "Proxy / important information on your private markets and alternatives holdings."
       }
     ],
-    "noise": "The usual newsletters and promos — Alison Roman, Chairish, a Talarico campaign ask, Maine Voices Live, Patreon, and a Dex digest.",
+    "noise": "Everything else is newsletters and retail promos - NYT Cooking, FT, New Yorker, Mandarin Oriental, and a stack of shop sales.",
     "clear": ""
   },
-  "resolved": [
-    "Replied to Drew about Schwartzman's emergency-vet scare."
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Bangor / Vinalhaven, ME",
+    "location": "Vinalhaven, Maine",
     "confidence": "high",
-    "asOf": "Sat Aug 15"
+    "asOf": "Saturday Aug 15"
   },
   "recipe": {
     "title": "Tomatoes all dressed up for summer",
@@ -44,14 +47,14 @@
   },
   "tasks": [
     {
-      "title": "Mike's oral surgery prep",
-      "project": "Personal Tasks",
-      "due": "Today Aug 14",
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Today",
       "overdue": false
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/4",
     "day": "0/3",
     "evening": "0/4"
   },
