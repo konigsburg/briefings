@@ -1,33 +1,88 @@
 {
-  "date": "Sat, Aug 8",
-  "generatedAt": "Weekly · Aug 8",
-  "theme": "Peak-summer Italian — one slow tomato sugo that carries the whole week",
+  "date": "Sat, Aug 15",
+  "generatedAt": "Weekly · Aug 15",
+  "theme": "Late-summer seafood, built on a jar of confit tomatoes and a quick fumet — a 2-adult, technique-forward week",
   "components": [
     {
-      "name": "Slow tomato sofrito (sugo)",
+      "name": "Confit cherry tomatoes (olive-oil conserva)",
       "time": "~75 min, mostly hands-off",
-      "ingredients": "3 lb ripe tomatoes (or 2 cans San Marzano + the best fresh you have), 1 onion, 4 garlic cloves, generous olive oil, basil stems, pinch of chili, salt",
-      "method": "Sweat finely diced onion in a good pour of olive oil until jammy, add garlic, then crushed tomatoes and basil stems. Simmer low 45–60 min until reduced and glossy. Cool. Keeps 5 days in the fridge and freezes well — the backbone of three dinners below."
+      "ingredients": "2 lb cherry/Sungold tomatoes, 6 garlic cloves, thyme + a strip of orange peel, chili flake, ~1.5 cups olive oil, flaky salt",
+      "method": "Heat oven to 300°F. Nestle whole tomatoes, smashed garlic, thyme and orange peel in a small baking dish and pour olive oil until they're half-submerged. Salt lightly. Bake 60–75 min until slumped and jammy but not broken down. Cool and store submerged in their oil; they keep 1–2 weeks fridge and turn any pan into dinner."
     },
     {
-      "name": "Marinated summer beans & zucchini",
-      "time": "~30 min",
-      "ingredients": "1 lb green or wax beans, 2 zucchini, lemon, olive oil, garlic, mint or basil",
-      "method": "Blanch beans crisp-tender; grill or blister the zucchini. While still warm, toss with lemon, olive oil, a smashed garlic clove, and torn herbs. Holds 4 days and becomes salads, pasta add-ins, or a quick side."
+      "name": "Quick fish fumet",
+      "time": "~45 min",
+      "ingredients": "1.5 lb white-fish bones/heads (or shrimp shells), 1 leek, 1 fennel stalk, 1 celery rib, 1 cup dry white wine, parsley stems, bay",
+      "method": "Rinse bones well to keep the stock clean. Sweat the sliced aromatics in olive oil with no color, 6–8 min. Add bones, wine, cover with cold water. Bring just to a bare simmer, skim the gray foam, and hold 20 min — no longer or it turns bitter. Strain, cool, chill. Freeze half in a jar for later weeks."
     }
   ],
   "dinners": [
-    {"name": "Spaghetti al pomodoro, done right", "time": "20 min", "ingredients": "sofrito, spaghetti, basil, Parmigiano, olive oil", "steps": ["Boil pasta 1 min shy of al dente.", "Warm the sofrito, loosen with pasta water.", "Finish the pasta in the sauce 60–90 sec.", "Off heat: torn basil + a thread of olive oil.", "Cheese at the table."]},
-    {"name": "Pan-seared fish with sofrito & beans", "time": "25 min", "ingredients": "2 fillets firm white fish or salmon, sofrito, the marinated beans, lemon", "steps": ["Pat fish very dry, salt well.", "Sear skin-side down in olive oil until crisp.", "Spoon warm sofrito onto the plates.", "Set fish on top, beans alongside.", "Bright squeeze of lemon."]},
-    {"name": "Summer vegetable & sofrito gratin", "time": "45 min", "ingredients": "zucchini, eggplant, sofrito, breadcrumbs, Parmigiano, olive oil", "steps": ["Layer sliced zucchini and eggplant with sofrito.", "Season each layer, drizzle with oil.", "Top with Parmigiano breadcrumbs.", "Bake 375°F ~35 min until bubbling.", "Rest 10 min before serving."]},
-    {"name": "Clams (or mussels) in brothy sofrito", "time": "20 min", "ingredients": "2 lb clams or mussels, sofrito thinned with white wine, parsley, grilled bread", "steps": ["Bloom garlic and chili in olive oil.", "Add a ladle of sofrito + a splash of wine.", "Add shellfish, cover, steam until open.", "Parsley; discard any that stayed shut.", "Serve with grilled bread for the broth."]}
+    {
+      "name": "Crisp-skin branzino with confit tomatoes & basil",
+      "time": "20 min",
+      "ingredients": "2 branzino fillets (or sea bass), confit tomatoes + a spoon of their oil, basil, lemon",
+      "steps": [
+        "Pat fillets bone-dry; salt the skin. Lay skin-down in a cold nonstick pan, then bring heat to medium-high.",
+        "Press gently 30 sec so it stays flat; cook 3–4 min until skin is crackling and the flesh has gone opaque up the sides.",
+        "Flip for just 30–45 sec, then rest skin-up.",
+        "Warm a few confit tomatoes in their oil, spoon around the fish, finish with basil and lemon."
+      ]
+    },
+    {
+      "name": "Seafood brodetto on the fumet",
+      "time": "35 min",
+      "ingredients": "fumet, confit tomatoes, mixed fish + shrimp, clams or mussels, garlic, grilled bread",
+      "steps": [
+        "Bloom garlic and chili in olive oil, add a few confit tomatoes and crush lightly.",
+        "Add the fumet and a splash of wine; simmer 10 min to a light broth.",
+        "Slide in firm fish first, then shrimp and shellfish; cover until the shells open and fish is just set.",
+        "Ladle over garlic-rubbed grilled bread, big drizzle of raw olive oil."
+      ]
+    },
+    {
+      "name": "Spaghetti al pomodoro confit with anchovy",
+      "time": "20 min",
+      "ingredients": "spaghetti, confit tomatoes + oil, 3 anchovies, garlic, parmigiano or toasted breadcrumbs",
+      "steps": [
+        "Melt anchovies and garlic in the confit oil until dissolved.",
+        "Add a ladle of pasta water and the confit tomatoes; smash into a loose sauce.",
+        "Toss just-shy-of-done spaghetti in the pan and mantecare with more pasta water until glossy.",
+        "Finish with cheese or crunchy breadcrumbs."
+      ]
+    },
+    {
+      "name": "Clams in fumet-tomato broth with fennel",
+      "time": "25 min",
+      "ingredients": "littleneck clams, fumet, confit tomatoes, shaved fennel, white wine, parsley",
+      "steps": [
+        "Sweat shaved fennel in olive oil until soft.",
+        "Add wine and reduce, then fumet and a spoon of confit tomatoes.",
+        "Add clams, cover, and steam 4–6 min until they open; discard any that stay shut.",
+        "Shower with parsley and serve with more grilled bread for the broth."
+      ]
+    }
   ],
-  "technique": {"name": "Emulsifying pasta sauce with starchy water", "tiedTo": "Spaghetti al pomodoro — the swirl that makes it glossy and clinging, not watery."},
+  "technique": {
+    "name": "Cold-pan crisp fish skin",
+    "tiedTo": "The branzino — starting skin-down in a cold pan and coming up to heat renders the skin evenly so it shatters instead of curling; the same trick carries every seared-fish dinner all week."
+  },
   "shopping": [
-    {"section": "Produce", "items": "ripe tomatoes (3 lb), onion, garlic, 2 zucchini, 1 eggplant, green/wax beans (1 lb), basil, mint, parsley, lemons"},
-    {"section": "Seafood", "items": "2 firm white fish or salmon fillets; 2 lb clams or mussels"},
-    {"section": "Dairy", "items": "Parmigiano-Reggiano"},
-    {"section": "Pantry", "items": "San Marzano tomatoes (2 cans, backup), spaghetti, breadcrumbs, good olive oil, dried chili, white wine"}
+    {
+      "section": "Produce",
+      "items": "2 lb cherry/Sungold tomatoes, 2 heads garlic, 1 leek, 1 fennel bulb (+stalk), 1 celery rib, basil, parsley, thyme, 1 orange, 2 lemons"
+    },
+    {
+      "section": "Seafood",
+      "items": "2 branzino fillets, ~1.5 lb white-fish bones or shrimp shells, mixed fish for brodetto, shrimp, littleneck clams, mussels"
+    },
+    {
+      "section": "Dairy",
+      "items": "parmigiano-reggiano"
+    },
+    {
+      "section": "Pantry",
+      "items": "good olive oil (large bottle), anchovies, spaghetti, dry white wine, chili flake, bay, flaky salt, rustic bread for grilling"
+    }
   ],
-  "scaleNote": "For the weeks the four girls are here (6 people): double the sofrito and pasta, add a second fish fillet or stretch with more beans, and set aside a plain buttered-pasta + mild-sofrito portion before you add chili. The gratin scales straight up in a bigger dish."
+  "scaleNote": "This is a 2-adult, technique week (girls with Jen through Aug 23). For a full-house week later, double the confit tomatoes and make a full 750ml fumet; anchor the kids on the spaghetti al pomodoro (pull anchovies for the wary) and serve the branzino as simply pan-seared fillets. For 6, plan ~2 branzino fillets per 2 kids sharing, 3 lb clams, and 1.25 lb spaghetti."
 }
