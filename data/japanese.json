@@ -1,89 +1,104 @@
 {
-  "lessonNo": 225,
-  "date": "Friday, Aug 14",
-  "generatedAt": "Lesson #225 · Aug 14",
-  "theme": "〜ている — actions in progress & ongoing states (out and about in town)",
-  "intro": "Take the て-form and add いる to say what's happening now — or describe a state that's still true.",
+  "lessonNo": 226,
+  "date": "Sunday, Aug 16",
+  "generatedAt": "Lesson #226 · Aug 16",
+  "theme": "Casual speech — plain past & plain negatives (talking with friends)",
+  "intro": "You know the polite ます-forms; now learn the plain forms used with friends and family — focusing on the plain past and plain negative.",
   "grammar": {
-    "title": "The 〜ている form",
+    "title": "Plain (casual) verb forms",
     "rules": [
       {
-        "label": "Action in progress",
-        "detail": "て-form + いる = \"is/are ~ing\"",
+        "label": "る-verbs",
+        "detail": "Drop る, add ない / た / なかった.",
         "examples": [
-          "食べる → 食べている (is eating)"
+          "みる → みない (don't watch)",
+          "みる → みた (watched)",
+          "みる → みなかった (didn't watch)"
         ]
       },
       {
-        "label": "Resultant / ongoing state",
-        "detail": "something happened and the result continues",
+        "label": "う-verbs (negative)",
+        "detail": "Change the final -u sound to -a, then add ない (note う → わ, not あ).",
         "examples": [
-          "住む → 住んでいる (lives there)",
-          "結婚する → 結婚している (is married)"
+          "のむ → のまない (don't drink)",
+          "かう → かわない (don't buy)"
         ]
       },
       {
-        "label": "Polite / casual / negative",
-        "detail": "〜ています (polite) · 〜てる (casual, drops い) · 〜ていません (negative)",
+        "label": "う-verbs (past)",
+        "detail": "Use the same sound-change as the て-form, but with た/だ.",
         "examples": [
-          "待っている → 待ってる"
+          "のむ → のんだ (drank)",
+          "かく → かいた (wrote)",
+          "いく → いった (went)"
+        ]
+      },
+      {
+        "label": "Negative past (any verb)",
+        "detail": "Take the ない form, drop the final い, add かった — ない acts like an い-adjective.",
+        "examples": [
+          "いかない → いかなかった (didn't go)",
+          "たべない → たべなかった (didn't eat)"
+        ]
+      },
+      {
+        "label": "Irregulars",
+        "detail": "する and くる memorize directly.",
+        "examples": [
+          "する → しない / した / しなかった",
+          "くる → こない / きた / こなかった"
         ]
       }
     ],
-    "bigPoint": "A few verbs live in 〜ている form: 知っている = \"know\" (never plain 知る for \"I know\"), 持っている = \"have/own\". But \"I don't know\" is 知りません, not 知っていません."
+    "bigPoint": "い-adjectives form their own plain past with 〜かった (いそがしかった = was busy), NOT でした."
   },
   "vocab": [
     {
-      "jp": "待つ（まつ）",
-      "romaji": "matsu",
-      "en": "to wait → 待っている (is waiting)"
+      "jp": "きのう (昨日)",
+      "romaji": "kinou",
+      "en": "yesterday"
     },
     {
-      "jp": "住む（すむ）",
-      "romaji": "sumu",
-      "en": "to live/reside → 住んでいる (lives)"
+      "jp": "えいが (映画)",
+      "romaji": "eiga",
+      "en": "movie"
     },
     {
-      "jp": "知る（しる）",
-      "romaji": "shiru",
-      "en": "to know → 知っている (know)"
+      "jp": "ぜんぜん (全然)",
+      "romaji": "zenzen",
+      "en": "(not) at all — used with a negative"
     },
     {
-      "jp": "探す（さがす）",
-      "romaji": "sagasu",
-      "en": "to look for → 探している (is looking for)"
+      "jp": "つかれる",
+      "romaji": "tsukareru",
+      "en": "to get tired (past: つかれた)"
     },
     {
-      "jp": "混む（こむ）",
-      "romaji": "komu",
-      "en": "to get crowded → 混んでいる (is crowded)"
+      "jp": "いそがしい (忙しい)",
+      "romaji": "isogashii",
+      "en": "busy (plain past: いそがしかった)"
     },
     {
-      "jp": "持つ（もつ）",
-      "romaji": "motsu",
-      "en": "to hold/have → 持っている (have/own)"
+      "jp": "まだ",
+      "romaji": "mada",
+      "en": "(not) yet / still"
     }
   ],
   "examples": [
     {
-      "jp": "今、駅で友だちを待っています。",
-      "romaji": "Ima, eki de tomodachi o matte imasu.",
-      "en": "I'm waiting for a friend at the station right now."
+      "jp": "きのうは なにも しなかった。",
+      "romaji": "Kinou wa nani mo shinakatta.",
+      "en": "I didn't do anything yesterday."
     },
     {
-      "jp": "わたしは東京に住んでいます。",
-      "romaji": "Watashi wa Tokyo ni sunde imasu.",
-      "en": "I live in Tokyo."
-    },
-    {
-      "jp": "電車が混んでいますね。",
-      "romaji": "Densha ga konde imasu ne.",
-      "en": "The train's crowded, huh."
+      "jp": "えいが みた？ ── うん、みた！ でも ともだちは こなかった。",
+      "romaji": "Eiga mita? ── Un, mita! Demo tomodachi wa konakatta.",
+      "en": "Did you see the movie? ── Yeah, I saw it! But my friend didn't come."
     }
   ],
-  "note": "The same 〜ている covers \"in progress\" and \"resulting state\" — context tells you which. With motion/instant verbs (行く, 来る, 結婚する) it usually means the RESULT: 行っている = \"has gone (and is there),\" not \"is going.\"",
+  "note": "Casual questions just rise in tone — no か needed (みた？ = did you see it?). ぜんぜん pairs with a negative. Use plain forms with friends/family and in casual writing; keep ます-forms for strangers, teachers, and work.",
   "selfCheck": {
-    "q": "A shopkeeper asks if you're looking for something. Say politely with 〜ている: \"Yes, I'm looking for a jacket (ジャケット).\"",
-    "a": "はい、ジャケットを探しています。 (Hai, jaketto o sagashite imasu.)"
+    "q": "How do you say \"I didn't go\" in plain/casual speech? (verb: いく)",
+    "a": "いかなかった (ikanakatta) — \"(I) didn't go.\" Bonus: きのうは いそがしくて、どこも いかなかった。= \"Yesterday I was busy, so I didn't go anywhere.\""
   }
 }
