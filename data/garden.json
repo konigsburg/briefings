@@ -1,14 +1,38 @@
 {
-  "date": "Sun, Aug 9",
+  "date": "Sun, Aug 16",
   "region": "NH Seacoast · zone 6a",
-  "generatedAt": "Weekly · Aug 9",
-  "headline": "Sow one more round of fall crops now — the window for direct-sown greens and roots closes over the next 2–3 weeks.",
+  "generatedAt": "Weekly · Aug 16",
+  "headline": "Last good window to direct-sow fast fall greens — get spinach, lettuce, arugula, radishes, and kale in now for an October harvest.",
   "tasks": [
-    {"tag": "Sow now", "title": "Direct-sow fall greens & roots", "detail": "Lettuce, spinach, arugula, kale, chard, plus beets, carrots, and turnips. With first frost around mid-October, these have time if sown in the next couple of weeks. Keep the seedbed damp in the August heat until they’re up."},
-    {"tag": "Harvest", "title": "Pick often to keep plants producing", "detail": "Harvest zucchini and cucumbers every day or two, snap beans while slender, and pull the first ripe tomatoes. Frequent picking keeps beans and squash setting new fruit."},
-    {"tag": "Water", "title": "Deep, consistent watering", "detail": "An inch-plus per week, early morning at the base. Even moisture now prevents blossom-end rot on tomatoes and bitterness or splitting in cukes and greens."},
-    {"tag": "Pest watch", "title": "Scout for late-summer pests & blight", "detail": "Check for squash bugs, tomato hornworms, and cucumber beetles and hand-pick them. Watch tomatoes and potatoes for early/late blight in humid spells — remove affected leaves and open up airflow."},
-    {"tag": "Feed", "title": "Side-dress the heavy feeders", "detail": "A light feeding for tomatoes, peppers, and winter squash to carry them through the final push. Go easy on nitrogen so you get fruit, not just leaves."},
-    {"tag": "Prep", "title": "Look ahead to succession & garlic", "detail": "As peas and early beans finish, clear the beds and sow a quick round of greens or a cover crop. Order seed garlic now for planting in October."}
+    {
+      "tag": "Sow now",
+      "title": "Direct-sow fall greens",
+      "detail": "With ~8-9 weeks to first frost (mid-Oct), sow quick 40-60 day crops now: spinach, lettuce, arugula, radishes, kale, cilantro, and Asian greens. Water the seedbed daily until they germinate in the late-summer heat."
+    },
+    {
+      "tag": "Harvest",
+      "title": "Keep picking summer crops",
+      "detail": "Tomatoes, zucchini, cucumbers, beans, and peppers are peaking. Harvest every day or two — picking regularly keeps plants producing and stops zucchini from turning to baseball bats."
+    },
+    {
+      "tag": "Pest watch",
+      "title": "Late blight & powdery mildew",
+      "detail": "Humid coastal air makes this prime time for late blight on tomatoes (brown greasy spots, fast spread) and white powdery mildew on squash and cucumbers. Remove affected leaves, improve airflow, and never compost blighted foliage."
+    },
+    {
+      "tag": "Water",
+      "title": "Water deep and steady",
+      "detail": "Give beds about 1 inch per week, watering at the base in the morning. Consistent moisture prevents tomato cracking and blossom-end rot during the August heat."
+    },
+    {
+      "tag": "Prune",
+      "title": "Open up tomato plants",
+      "detail": "Strip the lower 12 inches of leaves off tomatoes and thin dense growth to boost airflow and sunlight to ripening fruit. Stop topping/feeding heavily so plants ripen what they've set before frost."
+    },
+    {
+      "tag": "Prep",
+      "title": "Order garlic for October",
+      "detail": "Buy seed garlic now while supply is good — you'll plant cloves in mid-to-late October, a few weeks before the ground freezes, for a bigger harvest next summer."
+    }
   ]
 }
