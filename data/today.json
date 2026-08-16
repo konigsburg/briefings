@@ -1,18 +1,18 @@
 {
   "date": "Sunday, August 16, 2026",
   "generatedAt": "Morning brief · 12:04 PM ET",
-  "theme": "A wide-open Sunday to clear the decks.",
-  "greeting": "The calendar's empty and the girls are with Jen, Dan, so the whole day is yours in Maine. The only threads worth pulling are a couple of overdue errands and the start of Mike's surgery week.",
+  "theme": "An open Sunday in Maine, with a few overdue threads worth closing.",
+  "greeting": "The calendar is clear today, Dan, so the whole shape of it is yours. The only things really asking for you are a couple of loose threads: a call to lock in with Eugenia and Mike's surgery to start prepping for.",
   "needsAttention": [
     {
-      "tag": "Reply today",
-      "title": "Lock a time with Eugenia",
-      "detail": "She offered Monday noon–2 or Thursday windows to talk through the PRI situation; a quick reply today holds the Monday slot before it's gone."
+      "tag": "Reply owed",
+      "title": "Lock in the PRI call with Eugenia",
+      "detail": "Eugenia offered Monday 12–2 your time (that's tomorrow) or Thursday for the PRI conversation, and she's waiting on you to pick a slot."
     },
     {
-      "tag": "Prep · this week",
-      "title": "Confirm Mike's pre-op details",
-      "detail": "His oral surgery is Thursday in Portland. Your prep task flags confirming pre-op instructions with the surgeon's office around now, with the driver, meds, and soft food to line up before Wednesday."
+      "tag": "This week",
+      "title": "Start Mike's surgery prep",
+      "detail": "Mike's oral surgery is Thursday in Portland; your prep task is overdue and flags confirming pre-op instructions with the surgeon's office by tomorrow."
     }
   ],
   "schedule": [],
@@ -21,21 +21,21 @@
       {
         "tag": "Health",
         "title": "Talkiatry follow-up Tuesday",
-        "detail": "Virtual visit with Dr. Snowden is Tuesday at 10 AM ET — nothing to do but keep it."
+        "detail": "A reminder that your next virtual visit is Tuesday, Aug 18 at 10:00 AM ET."
       },
       {
         "tag": "Financial",
         "title": "Morgan Stanley holdings notice",
-        "detail": "A private-markets / proxy notice landed Friday; worth a look for any voting deadline."
+        "detail": "A proxy/holdings information notice from Morgan Stanley Private Markets & Alternatives is waiting."
       },
       {
         "tag": "FYI",
-        "title": "Valoris StePs thread",
-        "detail": "Matt looped in on Chie's idea to widen the IMC conversation; you're cc'd, nothing owed yet."
+        "title": "Valoris note on the StePs research",
+        "detail": "Marc recapped a chat with you about widening the IMC discussion beyond asset managers; you're cc'd, nothing owed."
       }
     ],
-    "noise": "The usual tide of retail and newsletters — Mattress Firm, Indochino, The Company Store, NYT Cooking, The New Yorker, a campaign ask.",
-    "clear": "Otherwise the inbox is quiet; a realtor's nudge about the St. Pete place is the only other personal thread, and it can wait."
+    "noise": "The rest is newsletters and shop promos — NYT Cooking, The New Yorker, WSJ, Schoolhouse, Fog Linen, Folio Society, Amtrak.",
+    "clear": "Nothing else in the inbox is waiting on you."
   },
   "resolved": [],
   "context": {
@@ -52,7 +52,7 @@
   },
   "tasks": [
     {
-      "title": "Buy Croatia flights",
+      "title": "Buy the Croatia flights",
       "project": "Inbox",
       "due": "Overdue Aug 15",
       "overdue": true
@@ -65,25 +65,25 @@
     }
   ],
   "routines": {
-    "morning": "7/10",
-    "day": "0/3",
-    "evening": "0/4"
+    "morning": "3/3",
+    "day": "6/6",
+    "evening": "4/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing scheduled — you're partway through the morning routine with the day still blank ahead of you.",
+      "line": "A quiet Maine Sunday with nothing on the calendar to answer to.",
       "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "Clear runway to close the overdue few: the Croatia flights and the destination edit have been sitting since Friday.",
-      "tag": "open"
+      "line": "The open stretch to lock the PRI call time and get ahead of Mike's surgery prep.",
+      "tag": "clear"
     },
     {
       "time": "Evening",
-      "line": "Surgery week starts tomorrow, so a quiet night to get Mike's pre-op logistics settled.",
-      "tag": "quiet"
+      "line": "Tomorrow holds the possible noon PRI call and Milica Boskovic's birthday.",
+      "tag": "moon"
     }
   ]
 }
