@@ -1,18 +1,18 @@
 {
-  "date": "Saturday, August 15, 2026",
-  "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "A wide-open Saturday in Maine, the calendar clear.",
-  "greeting": "Nothing on the calendar today, Dan, and the girls are with Jen — the day is yours. The two things worth not letting drift are Mike's surgery prep, now a day past its first checkpoint, and picking a time back with Eugenia.",
+  "date": "Sunday, August 16, 2026",
+  "generatedAt": "Morning brief · 9:30 AM ET",
+  "theme": "A wide-open Sunday",
+  "greeting": "A rare fully open Sunday, Dan — nothing on the calendar at all. The one thing worth touching today is Mike's pre-op prep before Thursday's surgery.",
   "needsAttention": [
     {
-      "tag": "Health · overdue",
-      "title": "Mike's surgery prep has slipped a day",
-      "detail": "Thursday's oral surgery is in Portland; clearing his work calendar was due yesterday and pre-op confirmation with the surgeon's office is due the 17th. The list still needs moving."
+      "tag": "Surgery prep",
+      "title": "Confirm Mike's pre-op instructions",
+      "detail": "Mike's oral surgery is Thursday in Portland, and tomorrow (Aug 17) is the day to confirm fasting and the meds list with the surgeon's office. Overdue since Aug 14 in Personal Tasks."
     },
     {
-      "tag": "Job search",
-      "title": "Pick a time back with Eugenia on PRI",
-      "detail": "She offered Monday 12–2 or Thursday your time for a catch-up and is waiting to hear which works — Monday is only two days out, so a reply this weekend keeps it open."
+      "tag": "Travel booking",
+      "title": "Buy the Croatia flights",
+      "detail": "Sitting in your Todoist inbox and now a day past due — the fare window only narrows the longer the booking waits."
     }
   ],
   "schedule": [],
@@ -21,48 +21,57 @@
       {
         "tag": "Health",
         "title": "Talkiatry follow-up Tuesday",
-        "detail": "Virtual visit with Dr. Snowden on Aug 18 at 10:00 AM ET."
+        "detail": "Virtual visit Tue, Aug 18 at 10:00 AM EDT with Dr. Snowden."
       },
       {
         "tag": "Financial",
-        "title": "Morgan Stanley holdings notice",
-        "detail": "Information on a private markets & alternatives position in your portfolio."
+        "title": "myFICO balance alert",
+        "detail": "JPMCB card monthly balance reported higher — informational."
+      },
+      {
+        "tag": "Security",
+        "title": "New Google sign-in",
+        "detail": "Sign-in tied to a KAYAK login on Aug 15; appears self-initiated."
       }
     ],
-    "noise": "The rest is automated — an American Airlines check-in from last night's flight and a routine proxy-vote notice.",
-    "clear": ""
+    "noise": "The rest is newsletters and promotions — New Yorker, Folio Society, Press Herald, United, Breeze.",
+    "clear": "No mail awaiting your reply, and no job-search messages today."
   },
-  "resolved": [
-    "Arrived in Maine on last night's flight from Washington-Reagan into Bangor."
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Coastal Maine",
-    "confidence": "high",
-    "asOf": "Saturday Aug 15"
+    "location": "Portland, Maine",
+    "confidence": "low",
+    "asOf": "Sunday Aug 16"
   },
   "recipe": {
-    "title": "Tomatoes all dressed up for summer",
+    "title": "Olive oil–poached zucchini & raw tomatoes",
     "book": "Canal House Cooks Every Day",
-    "why": "Peak August tomatoes and a slow Saturday in Maine — dress them simply and let them be most of dinner."
+    "why": "Peak-summer zucchini and just-picked tomatoes, softened slowly in good olive oil — exactly the unhurried supper a quiet Maine evening is asking for."
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Today",
-      "overdue": false
+      "title": "Mike's oral surgery prep",
+      "project": "Personal Tasks",
+      "due": "Overdue Aug 14",
+      "overdue": true
     },
     {
-      "title": "Need flights to Croatia — buy",
+      "title": "Need flights to Croatia - buy",
       "project": "Inbox",
-      "due": "Today",
-      "overdue": false
+      "due": "Overdue Aug 15",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
+      "overdue": true
     }
   ],
   "routines": {
-    "morning": "6/10",
+    "morning": "0/10",
     "day": "0/3",
     "evening": "0/4"
   },
