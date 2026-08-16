@@ -1,47 +1,47 @@
 {
   "date": "Sunday, August 16, 2026",
-  "generatedAt": "Morning brief · 9:40 AM ET",
-  "theme": "A wide-open Sunday",
-  "greeting": "A rare fully open Sunday, Dan — nothing on the calendar at all. The one thing worth touching today is Mike's pre-op prep before Thursday's surgery.",
+  "generatedAt": "Morning brief · 9:43 AM ET",
+  "theme": "An open Sunday in Maine, the girls with Jen.",
+  "greeting": "Nothing's on the calendar today, Dan — a rare wide-open Sunday. The girls are with Jen this week, so the quiet is yours to spend.",
   "needsAttention": [
     {
-      "tag": "Surgery prep",
-      "title": "Confirm Mike's pre-op instructions",
-      "detail": "Mike's oral surgery is Thursday in Portland, and tomorrow (Aug 17) is the day to confirm fasting and the meds list with the surgeon's office. Overdue since Aug 14 in Personal Tasks."
+      "tag": "Reply to schedule",
+      "title": "Pick a time with Eugenia",
+      "detail": "In the PRI thread, Eugenia offered Monday noon–2 or Thursday morning your time and is waiting on you to choose — a reply today is what makes tomorrow's call happen."
     },
     {
-      "tag": "Travel booking",
-      "title": "Buy the Croatia flights",
-      "detail": "Sitting in your Todoist inbox and now a day past due — the fare window only narrows the longer the booking waits."
+      "tag": "Prep deadline",
+      "title": "Confirm Mike's pre-op details",
+      "detail": "Your Personal Tasks prep list wants the surgeon's pre-op instructions confirmed by tomorrow, ahead of Mike's Aug 20 oral surgery in Portland. The task is two days overdue."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "Valoris circling back on StePs",
+        "detail": "Marc followed up on your idea to widen the IMC conversation beyond asset managers; you're cc'd with Chie, no direct ask to you yet."
+      },
+      {
         "tag": "Health",
         "title": "Talkiatry follow-up Tuesday",
-        "detail": "Virtual visit Tue, Aug 18 at 10:00 AM EDT with Dr. Snowden."
+        "detail": "Virtual visit with Dr. Snowden on Tuesday, Aug 18 at 10 AM ET."
       },
       {
         "tag": "Financial",
-        "title": "myFICO balance alert",
-        "detail": "JPMCB card monthly balance reported higher — informational."
-      },
-      {
-        "tag": "Security",
-        "title": "New Google sign-in",
-        "detail": "Sign-in tied to a KAYAK login on Aug 15; appears self-initiated."
+        "title": "Morgan Stanley proxy notice",
+        "detail": "Proxy materials posted for one of your holdings — informational, votable whenever you're ready."
       }
     ],
-    "noise": "The rest is newsletters and promotions — New Yorker, Folio Society, Press Herald, United, Breeze.",
-    "clear": "No mail awaiting your reply, and no job-search messages today."
+    "noise": "The New Yorker Daily, NYT Cooking's weeknight dinners, and a chatty nudge from your realtor.",
+    "clear": "Nothing else in the inbox is pulling at you this morning."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Portland, Maine",
+    "location": "Coastal Maine",
     "confidence": "low",
     "asOf": "Sunday Aug 16"
   },
@@ -52,41 +52,38 @@
   },
   "tasks": [
     {
-      "title": "Mike's oral surgery prep",
-      "project": "Personal Tasks",
-      "due": "Overdue Aug 14",
-      "overdue": true
-    },
-    {
-      "title": "Need flights to Croatia - buy",
-      "project": "Inbox",
+      "title": "Destination edit work",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
+      "title": "Buy Croatia flights",
+      "project": "Inbox",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "7/10",
     "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Back in Maine — an open, unhurried morning."
+      "line": "A clear Sunday morning with the girls at Jen's — the house and the hours are your own.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar; the day is yours."
+      "line": "Nothing scheduled straight through; the longest open runway you've had all week.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "A quiet evening up north."
+      "line": "Quiet into the evening, with Monday holding a midday call to lock in and a birthday to note.",
+      "tag": "quiet"
     }
   ]
 }
