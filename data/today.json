@@ -1,47 +1,47 @@
 {
   "date": "Sunday, August 16, 2026",
-  "generatedAt": "Morning brief · 2:03 PM ET",
-  "theme": "An open Sunday in Maine, with a few overdue threads worth closing.",
-  "greeting": "The calendar is clear today, Dan, so the whole shape of it is yours. The only things really asking for you are a couple of loose threads: a call to lock in with Eugenia and Mike's surgery to start prepping for.",
+  "generatedAt": "Morning brief · 2:06 PM ET",
+  "theme": "An open Sunday in coastal Maine.",
+  "greeting": "The calendar is clear today, Dan — a genuinely open Sunday in Maine with the girls at Jen's. A couple of threads are worth closing before the week starts: Eugenia is waiting on a call time, and Mike's surgery prep is coming due.",
   "needsAttention": [
     {
       "tag": "Reply owed",
-      "title": "Lock in the PRI call with Eugenia",
-      "detail": "Eugenia offered Monday 12–2 your time (that's tomorrow) or Thursday for the PRI conversation, and she's waiting on you to pick a slot."
+      "title": "Pick a call time with Eugenia",
+      "detail": "On the PRI thread she offered slots and is waiting for you to choose — one is Monday 12-2 PM your time, which is tomorrow."
     },
     {
-      "tag": "This week",
-      "title": "Start Mike's surgery prep",
-      "detail": "Mike's oral surgery is Thursday in Portland; your prep task is overdue and flags confirming pre-op instructions with the surgeon's office by tomorrow."
+      "tag": "Surgery prep",
+      "title": "Confirm Mike's pre-op details",
+      "detail": "Mike's oral surgery is Thursday in Portland; the prep task in Personal Tasks has pre-op instructions due tomorrow and a driver and insurance check due Tuesday. Overdue since Aug 14."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "Interview email asks for work authorization",
+        "detail": "A message about an SVP Global Public Policy role asks you to confirm visa and sponsorship status through a link - worth verifying the sender is legitimate before responding."
+      },
+      {
         "tag": "Health",
         "title": "Talkiatry follow-up Tuesday",
-        "detail": "A reminder that your next virtual visit is Tuesday, Aug 18 at 10:00 AM ET."
+        "detail": "Virtual visit with Dr. Snowden on Tuesday, Aug 18 at 10:00 AM ET."
       },
       {
         "tag": "Financial",
-        "title": "Morgan Stanley holdings notice",
-        "detail": "A proxy/holdings information notice from Morgan Stanley Private Markets & Alternatives is waiting."
-      },
-      {
-        "tag": "FYI",
-        "title": "Valoris note on the StePs research",
-        "detail": "Marc recapped a chat with you about widening the IMC discussion beyond asset managers; you're cc'd, nothing owed."
+        "title": "Morgan Stanley proxy notice",
+        "detail": "Proxy voting material arrived for one of your private-markets holdings."
       }
     ],
-    "noise": "The rest is newsletters and shop promos — NYT Cooking, The New Yorker, WSJ, Schoolhouse, Fog Linen, Folio Society, Amtrak.",
-    "clear": "Nothing else in the inbox is waiting on you."
+    "noise": "The usual Sunday reading - NYT Cooking, The New Yorker, WSJ - plus your own Japanese lesson.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Vinalhaven, Maine",
+    "location": "Coastal Maine",
     "confidence": "high",
     "asOf": "Sunday Aug 16"
   },
@@ -65,25 +65,22 @@
     }
   ],
   "routines": {
-    "morning": "3/3",
-    "day": "6/6",
-    "evening": "4/4"
+    "morning": "0/3",
+    "day": "0/6",
+    "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet Maine Sunday with nothing on the calendar to answer to.",
-      "tag": "open"
+      "line": "The calendar is empty top to bottom - a rare fully open Sunday."
     },
     {
       "time": "Afternoon",
-      "line": "The open stretch to lock the PRI call time and get ahead of Mike's surgery prep.",
-      "tag": "clear"
+      "line": "Coastal Maine, the girls with Jen, the day entirely your own."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow holds the possible noon PRI call and Milica Boskovic's birthday.",
-      "tag": "moon"
+      "line": "Nothing scheduled tonight, and tomorrow opens just as clear."
     }
   ]
 }
