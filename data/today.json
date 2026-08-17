@@ -1,25 +1,35 @@
 {
   "date": "Sunday, August 16, 2026",
   "generatedAt": "Morning brief · 8:06 PM ET",
-  "theme": "An open Sunday in Maine.",
-  "greeting": "The calendar is clear today, Dan. The only things asking for you are a couple of replies and the start of Mike's surgery week.",
+  "theme": "An open Sunday bracing for a full Monday.",
+  "greeting": "A quiet one, Dan — nothing on the calendar but a birthday note. The work worth a glance tonight is the short list that spills into tomorrow.",
   "needsAttention": [
     {
-      "tag": "Reply owed",
-      "title": "Eugenia is waiting on a time",
-      "detail": "She answered in the PRI thread with slots — Monday 12–2 or Thursday, your time — and needs you to pick one. Monday is tomorrow."
+      "tag": "Awaiting reply",
+      "title": "Pick a time with Eugenia",
+      "detail": "On the PRI thread she offered Monday noon–2 or Thursday morning your time and is waiting to hear which. The Monday slot is tomorrow."
     },
     {
-      "tag": "Surgery week",
-      "title": "Start Mike's pre-op checklist",
-      "detail": "Thursday's oral surgery in Portland is close: pre-op instructions to confirm with the surgeon's office by tomorrow, then a driver and insurance to lock down by Tuesday."
+      "tag": "Surgery prep",
+      "title": "Confirm Mike's pre-op details",
+      "detail": "His oral surgery is Thursday in Portland; pre-op instructions were meant to be confirmed by tomorrow, driver and insurance by Tuesday. The task has been open since Aug 14."
+    },
+    {
+      "tag": "Tomorrow's call",
+      "title": "Prep the 2 PM with Mike",
+      "detail": "You and Mike follow up at 2 PM tomorrow. He forwarded the Morningstar–Sustainalytics stewardship wind-down and floated reaching out to its abandoned clients — worth arriving with a view."
+    },
+    {
+      "tag": "Booking window",
+      "title": "Buy the Croatia flights",
+      "detail": "The task came due Aug 15 and is now a day overdue; fares tend to climb the longer it sits."
     }
   ],
   "schedule": [
     {
       "time": "All day",
       "title": "Milica Boskovic's birthday",
-      "detail": "A line to send her way",
+      "detail": "A note on your calendar today",
       "tag": "Birthday"
     }
   ],
@@ -27,34 +37,24 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "SVP Global Public Policy — interview update",
-        "detail": "An applicant-tracking note asks you to confirm work authorization to keep the application moving; the sender (sourcehire.app) is worth verifying before you click anything."
+        "title": "SVP Global Public Policy update",
+        "detail": "A recruiter note on the Senior VP of Global Public Policy role asks you to confirm work authorization to keep the application moving — check the sender before clicking."
       },
       {
         "tag": "Health",
-        "title": "Talkiatry follow-up Tuesday",
-        "detail": "Virtual visit with Dr. Snowden, Tuesday Aug 18 at 10:00 AM ET."
-      },
-      {
-        "tag": "Financial",
-        "title": "Morgan Stanley holdings notice",
-        "detail": "A proxy and important-information mailing about your private markets and alternatives holdings."
-      },
-      {
-        "tag": "FYI",
-        "title": "Mike's Sustainalytics idea",
-        "detail": "Mike forwarded news that Morningstar is closing Sustainalytics' stewardship arm and floated reaching out to its stranded clients."
+        "title": "Talkiatry visit Tuesday",
+        "detail": "Your next follow-up with Dr. Snowden is a virtual visit Tuesday at 10 AM ET."
       }
     ],
-    "noise": "The rest is promotions and newsletters — Chairish, Domino's, NYT Cooking, WSJ, the New Yorker, and a few shop mailers.",
+    "noise": "The rest is newsletters and retail — WSJ, The New Yorker, NYT Cooking, an Amex paperless nudge, Chairish, and a few sales.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Vinalhaven, Maine",
-    "confidence": "high",
+    "location": "Portland, Maine",
+    "confidence": "low",
     "asOf": "Sunday Aug 16"
   },
   "recipe": {
@@ -64,12 +64,6 @@
   },
   "tasks": [
     {
-      "title": "Book Croatia flights",
-      "project": "Inbox",
-      "due": "Overdue Aug 15",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
       "project": "Professional Projects",
       "due": "Overdue Aug 15",
@@ -77,22 +71,22 @@
     }
   ],
   "routines": {
-    "morning": "7/10",
-    "day": "0/3",
-    "evening": "0/4"
+    "morning": "3/3",
+    "day": "3/3",
+    "evening": "4/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A wide-open Sunday, Dan — nothing on the calendar to shape it."
+      "line": "A still Sunday — the calendar holds only a birthday note."
     },
     {
       "time": "Afternoon",
-      "line": "The middle of the day is yours to spend as you like."
+      "line": "Nothing scheduled, so the open hours are yours to shape."
     },
     {
       "time": "Evening",
-      "line": "A calm close, with tomorrow's two o'clock call with Mike the only thing on the near horizon."
+      "line": "Monday looms fuller — an early networking window and an afternoon call to keep in mind."
     }
   ]
 }
