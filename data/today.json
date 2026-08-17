@@ -1,71 +1,65 @@
 {
   "date": "Monday, August 17, 2026",
-  "generatedAt": "Morning brief · 12:04 PM ET",
-  "theme": "An open day with the girls at Jen's — one call, a few things to close.",
-  "greeting": "The girls are with Jen this stretch, so it's a quiet solo day in Portland. Only one thing is fixed on the calendar; the rest of the day is yours to spend on the errands and calls that have been waiting.",
+  "generatedAt": "Morning brief · 12:08 PM ET",
+  "theme": "An open day with a single call to anchor it.",
+  "greeting": "A wide-open Monday, Dan — one short call with Mike is the only fixed point on the calendar. With the girls at Jen's this week, the rest of the day is yours to spend.",
   "needsAttention": [
     {
-      "tag": "Reply today",
-      "title": "Eugenia's PRI call window is today",
-      "detail": "She offered to talk Monday 12:00-14:00 your time or Thursday, and is waiting on you to pick a slot. If you want the Monday option, it closes this afternoon."
+      "tag": "Deadline today",
+      "title": "Confirm Mike's pre-op details",
+      "detail": "Mike's oral surgery is Thursday in Portland, and today is the day to confirm fasting and medication instructions with the surgeon's office. The prep task has been open since Aug 14."
     },
     {
-      "tag": "Surgery Thursday",
-      "title": "Confirm Mike's pre-op instructions",
-      "detail": "Mike's oral surgery is Thursday in Portland; your Todoist prep list has today as the day to confirm fasting, NSAIDs, and meds with the surgeon's office. The task is 3 days overdue."
+      "tag": "Networking",
+      "title": "Pick a time with Eugenia",
+      "detail": "Eugenia offered to reconnect on PRI either today between 12 and 2 ET or Thursday — she is waiting on you to choose a slot."
     },
     {
-      "tag": "Prices climbing",
-      "title": "Croatia flights still unbought",
-      "detail": "The 'buy flights to Croatia' task in your travel list has been overdue since Friday; fares tend to firm up the longer this waits."
+      "tag": "Window closing",
+      "title": "Book the Croatia flights",
+      "detail": "The flights-to-Croatia task was due Aug 15 and is still open; fares tend to climb the longer it sits."
     }
   ],
   "schedule": [
     {
       "time": "2:00 PM",
       "title": "Call with Mike",
-      "detail": "Dan and Mike follow up — you're calling him.",
-      "tag": "call"
+      "detail": "You phone Mike; the Sustainalytics client idea he forwarded is likely on the agenda.",
+      "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two LinkedIn messages awaiting you",
-        "detail": "Peter, and Abhishek Tiwary (Global Head of People at KPMG Delivery Network), are both flagged as waiting for your reply on LinkedIn."
+        "title": "Peter's LinkedIn message",
+        "detail": "A message from Peter is waiting for a reply in LinkedIn."
       },
       {
-        "tag": "Job search",
-        "title": "Recruiter asks you to confirm work authorization",
-        "detail": "A sourcehire.app message about an SVP Global Public Policy role (REQ64085) asks you to confirm visa/sponsorship status — worth verifying it's a legitimate employer before responding."
+        "tag": "Security",
+        "title": "Unverified work-authorization request",
+        "detail": "An 'interview update' for an SVP Global Public Policy role asks you to confirm work authorization through a link — verify the sender before clicking."
       },
       {
         "tag": "Health",
         "title": "Talkiatry follow-up tomorrow",
-        "detail": "Virtual visit with Dr. Jennifer Snowden, Tuesday Aug 18 at 10:00 AM EDT."
-      },
-      {
-        "tag": "Financial",
-        "title": "Morgan Stanley proxy notices",
-        "detail": "Two proxyvote.com notices on your holdings arrived over the weekend, if you vote your shares."
+        "detail": "A virtual visit with Dr. Snowden is set for Tuesday at 10 AM ET."
       },
       {
         "tag": "FYI",
-        "title": "Mike's Sustainalytics idea",
-        "detail": "Mike flagged that Morningstar is closing Sustainalytics' stewardship business and floated reaching out to its now-abandoned clients — cc'd to you and Karapetyan, no reply needed yet."
+        "title": "Morningstar exits stewardship",
+        "detail": "Mike flagged that Sustainalytics is closing its stewardship arm and floated reaching out to its stranded clients."
+      },
+      {
+        "tag": "Financial",
+        "title": "Amex autopay and a proxy notice",
+        "detail": "Your Amex autopay processed and a Morgan Stanley proxy notice arrived — both informational."
       }
     ],
-    "noise": "The rest is newsletters and promos — NYT Cooking, WSJ, New Yorker, Folio, Fog Linen, Amtrak points, and a Nautilus sailing note.",
-    "clear": "Nothing new is unanswered from your own sent threads."
+    "noise": "The usual reading pile — NYT Cooking, WSJ, The New Yorker, Responsible Investor — plus LinkedIn job alerts and a parking receipt.",
+    "clear": "Nothing else is waiting on a reply."
   },
-  "resolved": [
-    {
-      "tag": "Closed out",
-      "title": "Susan / Flora lunch wrapped",
-      "detail": "You sent your thank-you note Aug 12 after meeting Susan and her wife; nothing is owed on that thread."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -81,28 +75,28 @@
   "tasks": [
     {
       "title": "Destination edit work",
-      "project": "Travel",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
-    "evening": "0/4"
+    "morning": "10/10",
+    "day": "6/6",
+    "evening": "4/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The morning is wide open, with three overdue to-dos — surgery prep, flights, and the destination edit — waiting since Friday."
+      "line": "The morning is open — nothing on the calendar before midday."
     },
     {
       "time": "Afternoon",
-      "line": "One call anchors the day at 2 with Mike, then the afternoon reopens."
+      "line": "A single call anchors the afternoon, then the day clears."
     },
     {
       "time": "Evening",
-      "line": "A quiet close; tomorrow starts with the 10 AM Talkiatry follow-up."
+      "line": "The girls are with Jen this week, so the evening is unclaimed."
     }
   ]
 }
