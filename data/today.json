@@ -1,70 +1,87 @@
 {
   "date": "Monday, August 17, 2026",
   "generatedAt": "Morning brief · 8:04 PM ET",
-  "theme": "An open day that's mostly yours — one call, and travel to get ready for.",
-  "greeting": "The calendar's nearly empty today, Dan — a single afternoon call with Mike. That leaves the day bending toward reading, packing, and closing out a few overdue things.",
+  "theme": "A quiet Maine evening with a few threads still open.",
+  "greeting": "An open Monday winding down in Maine, Dan, with the girls at Jen's this week. A couple of replies and Thursday's surgery prep are about all that's still tugging.",
   "needsAttention": [
     {
-      "tag": "Health · surgery",
-      "title": "Mike's oral-surgery prep",
-      "detail": "Overdue since Aug 14 in Personal Tasks. Surgery is Thursday in Portland, and today's step on your list is confirming pre-op instructions with the surgeon's office."
-    },
-    {
-      "tag": "Booking window",
-      "title": "Buy the Croatia flights",
-      "detail": "Overdue since Aug 15 in your Inbox list — fares only climb the longer this sits, and the trip hinges on locking dates."
-    },
-    {
       "tag": "Reply owed",
-      "title": "Lock a time with Eugenia",
-      "detail": "She wrote back Aug 14 with slots for a PRI catch-up; the Monday window has passed, so Thursday is the one still open and waiting on your yes."
+      "title": "Mike's Saudi Telecom lead",
+      "detail": "On the stc Group board thread, Mike asked what you meant by 'almost with Mexico' and notes that work is already done and paid. A quick reply keeps a live lead moving."
     },
     {
-      "tag": "Tomorrow · health",
-      "title": "Talkiatry visit at 10 AM",
-      "detail": "Your follow-up with Dr. Snowden is a virtual visit tomorrow morning — worth having your notes ready tonight."
+      "tag": "Surgery prep",
+      "title": "Mike's oral surgery Thursday",
+      "detail": "Portland surgery is Thu Aug 20. Today's step was confirming pre-op instructions; tomorrow you owe the driver and insurance confirmation. The task has been overdue since Aug 14."
+    },
+    {
+      "tag": "Call to lock",
+      "title": "PRI time with Eugenia",
+      "detail": "She offered Monday 12-2 or Thursday windows your time. Monday's passed, so confirm Thursday to keep the PRI conversation on the calendar."
+    },
+    {
+      "tag": "Window closing",
+      "title": "Croatia flights unbought",
+      "detail": "The buy-flights-to-Croatia task has been overdue since Aug 15, and fares tend to climb the longer it waits."
     }
   ],
   "schedule": [
     {
+      "time": "All day",
+      "title": "Milica Boskovic's birthday",
+      "detail": "A note if you have a moment",
+      "tag": "birthday"
+    },
+    {
       "time": "2:00 PM",
-      "title": "Call with Mike",
-      "detail": "You phone Mike — follow-up",
+      "title": "Call with Mike Lubrano",
+      "detail": "Follow-up by phone",
       "tag": "call"
+    },
+    {
+      "time": "Tue 10:00 AM",
+      "title": "Talkiatry follow-up",
+      "detail": "Virtual visit with Dr. Snowden",
+      "tag": "health"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "New LinkedIn message from Peter",
-        "detail": "A message is sitting in your LinkedIn inbox awaiting a reply — worth a glance given the search."
+        "tag": "Health",
+        "title": "Talkiatry visit tomorrow",
+        "detail": "Virtual follow-up with Dr. Snowden, Tue Aug 18 at 10 AM."
       },
       {
         "tag": "Financial",
         "title": "Morgan Stanley holdings notice",
-        "detail": "Proxy and holdings information from Morgan Stanley Private Markets & Alternatives arrived Friday."
+        "detail": "Proxy and holdings information from Morgan Stanley Private Markets & Alternatives."
+      },
+      {
+        "tag": "Job search",
+        "title": "Peter messaged you on LinkedIn",
+        "detail": "A LinkedIn message is sitting unread, waiting on a reply."
       },
       {
         "tag": "FYI",
-        "title": "Mike's Sustainalytics idea",
-        "detail": "Mike floated reaching out to Sustainalytics' stewardship clients now that Morningstar is winding that business down."
+        "title": "Maine ferry tickets confirmed",
+        "detail": "Maine State Ferry Service order came through."
       },
       {
         "tag": "FYI",
-        "title": "Boat leads from Dan Mac",
-        "detail": "He came back on your boat hunt — Luders 33, Cape Dory, a Nicholson 31, one near Penobscot."
+        "title": "Boat picks from Dan MacN",
+        "detail": "Nicholson 31 and a Luders 33 in Penobscot worth a look."
       }
     ],
-    "noise": "Amtrak survey, Fog Linen welcome, Nautilus and Midcoast Villager newsletters, and the LinkedIn job digests.",
-    "clear": "Nothing urgent is buried in the rest."
+    "noise": "The usual promos and newsletters, plus a LinkedIn SVP State Affairs job alert, Hims, Fog Linen, Midcoast Villager and Nautilus Sailing.",
+    "clear": "Nothing else waits on you; the Sustainalytics and StePs notes are Mike's threads to carry."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Coastal Maine",
-    "confidence": "low",
+    "location": "Vinalhaven, Maine",
+    "confidence": "high",
     "asOf": "Monday Aug 17"
   },
   "recipe": {
@@ -86,13 +103,7 @@
       "overdue": false
     },
     {
-      "title": "Start new book — first 50 pages",
-      "project": "Inbox",
-      "due": "Today",
-      "overdue": false
-    },
-    {
-      "title": "Shave",
+      "title": "Start new book - first 50 pages",
       "project": "Inbox",
       "due": "Today",
       "overdue": false
@@ -106,15 +117,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet stretch to yourself — reading and travel prep before anything is on the clock."
+      "line": "An open stretch with nothing on the calendar but your routines."
     },
     {
       "time": "Afternoon",
-      "line": "Your 2 o'clock call with Mike is the only fixed point on the day."
+      "line": "A 2 PM call with Mike was the day's one fixed point."
     },
     {
       "time": "Evening",
-      "line": "The girls are with Jen, so the evening's yours — pack the small bags and crack the new book."
+      "line": "Groceries are in for chicken parm; the night is yours before a busy travel week."
     }
   ]
 }
