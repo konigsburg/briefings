@@ -1,70 +1,68 @@
 {
   "date": "Tuesday, August 18, 2026",
   "generatedAt": "Morning brief · 12:04 PM ET",
-  "theme": "An open day tucked in front of a full one.",
-  "greeting": "Good morning, Dan. Today is largely yours — a single telehealth check-in, then room to clear the overdue list and get set for a heavy medical day in Portland tomorrow.",
+  "theme": "An open day braced against a heavy tomorrow.",
+  "greeting": "The day is genuinely yours, Dan — nothing on today's calendar. Tomorrow leans hard into Mike's medical appointments and Thursday's surgery, so today's real work is the prep that makes those go smoothly.",
   "needsAttention": [
     {
-      "tag": "Prep · today",
-      "title": "Lock Mike's surgery logistics",
-      "detail": "Today's line on the oral-surgery prep list: confirm the driver to and from Portland and pin down insurance coverage and what's owed, ahead of Thursday's extraction. Prescriptions and soft food are tomorrow's job."
+      "tag": "Surgery week",
+      "title": "Confirm Mike's ride and coverage",
+      "detail": "Your oral-surgery prep task is overdue and today's items are the last open ones — lock the driver to and from Portland and confirm what insurance owes before Thursday's extraction."
     },
     {
       "tag": "Awaiting reply",
-      "title": "Pick a call time with Eugenia",
-      "detail": "Eugenia offered slots for a PRI catch-up and is waiting to hear which works. Her Monday window has passed and Thursday collides with the surgery, so a fresh time needs proposing."
+      "title": "Amra wrote back from BlackRock",
+      "detail": "Your Sustainalytics question came back warm and personal, and she's expecting a reply while the thread is still fresh."
     },
     {
-      "tag": "Window closing",
-      "title": "Book the Croatia flights",
-      "detail": "The Croatia flights have sat on the list since Friday; the fare window keeps narrowing the longer the booking waits."
+      "tag": "Prep tomorrow",
+      "title": "Mike's medical day starts at 9:30",
+      "detail": "Throat ultrasound at 9:30 and a brain MRI at 3:30 tomorrow, plus a Jomon call in the evening — worth mapping the drive and soft-food run tonight."
     }
   ],
-  "schedule": [
-    {
-      "time": "10:00 AM",
-      "title": "Telehealth follow-up",
-      "detail": "Virtual visit with Dr. Snowden",
-      "tag": "health"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn message from Peter",
-        "detail": "A note from Peter is sitting unanswered in your LinkedIn messages."
+        "title": "Peter messaged you on LinkedIn",
+        "detail": "A new LinkedIn message is flagged as awaiting your response."
       },
       {
         "tag": "Job search",
-        "title": "Two new public-policy roles",
-        "detail": "LinkedIn flagged a VP of Government Relations & Public Policy and a State Affairs executive role matching your searches."
+        "title": "Deloitte thread still open",
+        "detail": "Michael Rossen asked whether you'd reached out to Jonathan Dunne — still unanswered from July."
       },
       {
-        "tag": "FYI",
-        "title": "Valoris follow-ups from Mike Lubrano",
-        "detail": "Two notes from Mike Lubrano — a 'Dan and Mike follow up' and a nudge about Morningstar exiting the Sustainalytics stewardship business and its now-loose clients."
+        "tag": "Financial",
+        "title": "Dubrovnik flights charged",
+        "detail": "Underpricer confirmed your booking to Dubrovnik — worth checking the order and the card charge."
+      },
+      {
+        "tag": "Health",
+        "title": "Talkiatry visits on the books",
+        "detail": "Today's 10 AM telehealth was confirmed; the next is set for October 13."
       }
     ],
-    "noise": "The usual drift: Lumosity and Fog Linen promos, ICGN Paris, Nautilus Sailing, and the Midcoast/Nextdoor Maine newsletters.",
-    "clear": "Nothing else is waiting on your reply."
+    "noise": "The usual promos and newsletters — Delta, Monocle, Kayak, Adobe, plus throw pillows and RGB guitars.",
+    "clear": "Anna's Vinalhaven bread ordering closed for the week — nothing to do there."
   },
   "resolved": [
     {
-      "tag": "Sailing",
-      "title": "Boat shortlist came back",
-      "detail": "Dan Mac replied with cruising-boat ideas — a Nicholson 31, Cape Dorys, and a Luders 33 up in Penobscot — nothing needed from you."
+      "tag": "Booked",
+      "title": "Croatia flights are done",
+      "detail": "Underpricer and Kayak both confirmed your Dubrovnik trip, so the 'buy flights' task can close."
     },
     {
-      "tag": "Booked",
-      "title": "Maine ferry tickets confirmed",
-      "detail": "The Maine State Ferry order came through confirmed."
+      "tag": "Confirmed",
+      "title": "Maine ferry tickets in hand",
+      "detail": "Maine State Ferry sent your reservation and vehicle confirmation."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Coastal Maine",
+    "location": "Vinalhaven, Maine",
     "confidence": "high",
     "asOf": "Tuesday Aug 18"
   },
@@ -101,15 +99,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet start with just the 10 o'clock telehealth visit on the books."
+      "line": "The calendar is clear — a rare open stretch before tomorrow's medical run."
     },
     {
       "time": "Afternoon",
-      "line": "Wide open — a good stretch to clear the overdue pile: Croatia flights, travel bags, and the first pages of the new book."
+      "line": "Yours to spend, with the surgery-week prep as the one thing that can't wait."
     },
     {
       "time": "Evening",
-      "line": "Worth getting ahead of tomorrow's Portland run — throat ultrasound, brain MRI, then the Jomon call at 8."
+      "line": "Tomorrow opens with Mike's 9:30 ultrasound, so tee up the driver and the soft-food stock tonight."
     }
   ],
   "japanese": {
