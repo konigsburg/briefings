@@ -1,104 +1,91 @@
 {
-  "lessonNo": 226,
-  "date": "Sunday, Aug 16",
-  "generatedAt": "Lesson #226 · Aug 16",
-  "theme": "Casual speech — plain past & plain negatives (talking with friends)",
-  "intro": "You know the polite ます-forms; now learn the plain forms used with friends and family — focusing on the plain past and plain negative.",
+  "lessonNo": 227,
+  "date": "Tuesday, Aug 18",
+  "generatedAt": "Lesson #227 · Aug 18",
+  "theme": "The ～たら conditional — saying \"if / when\" (making plans while traveling)",
+  "intro": "Take the plain past (た) form of any word and add ら to say \"if / when X happens, then Y.\"",
   "grammar": {
-    "title": "Plain (casual) verb forms",
+    "title": "The ～たら conditional",
     "rules": [
       {
-        "label": "る-verbs",
-        "detail": "Drop る, add ない / た / なかった.",
+        "label": "Verbs",
+        "detail": "Plain past + ら",
         "examples": [
-          "みる → みない (don't watch)",
-          "みる → みた (watched)",
-          "みる → みなかった (didn't watch)"
+          "食べる → 食べた → 食べたら (if/when I eat)",
+          "行く → 行った → 行ったら",
+          "する → した → したら / 来る → 来た → 来たら"
         ]
       },
       {
-        "label": "う-verbs (negative)",
-        "detail": "Change the final -u sound to -a, then add ない (note う → わ, not あ).",
+        "label": "い-adjectives",
+        "detail": "past ～かった + ら",
         "examples": [
-          "のむ → のまない (don't drink)",
-          "かう → かわない (don't buy)"
+          "安い → 安かった → 安かったら (if it's cheap)"
         ]
       },
       {
-        "label": "う-verbs (past)",
-        "detail": "Use the same sound-change as the て-form, but with た/だ.",
+        "label": "な-adj / nouns",
+        "detail": "～だった + ら",
         "examples": [
-          "のむ → のんだ (drank)",
-          "かく → かいた (wrote)",
-          "いく → いった (went)"
-        ]
-      },
-      {
-        "label": "Negative past (any verb)",
-        "detail": "Take the ない form, drop the final い, add かった — ない acts like an い-adjective.",
-        "examples": [
-          "いかない → いかなかった (didn't go)",
-          "たべない → たべなかった (didn't eat)"
-        ]
-      },
-      {
-        "label": "Irregulars",
-        "detail": "する and くる memorize directly.",
-        "examples": [
-          "する → しない / した / しなかった",
-          "くる → こない / きた / こなかった"
+          "暇 → 暇だったら (if I'm free)",
+          "雨 → 雨だったら (if it rains)"
         ]
       }
     ],
-    "bigPoint": "い-adjectives form their own plain past with 〜かった (いそがしかった = was busy), NOT でした."
+    "bigPoint": "The たら-clause comes first and ～たら covers BOTH \"if\" (uncertain) and \"when\" (certain) — context decides. It's most natural when the main clause is a request, suggestion, or your next action."
   },
   "vocab": [
     {
-      "jp": "きのう (昨日)",
-      "romaji": "kinou",
-      "en": "yesterday"
+      "jp": "着く（つく）",
+      "romaji": "tsuku",
+      "en": "to arrive"
     },
     {
-      "jp": "えいが (映画)",
-      "romaji": "eiga",
-      "en": "movie"
+      "jp": "終わる（おわる）",
+      "romaji": "owaru",
+      "en": "to finish, to end"
     },
     {
-      "jp": "ぜんぜん (全然)",
-      "romaji": "zenzen",
-      "en": "(not) at all — used with a negative"
+      "jp": "安い（やすい）",
+      "romaji": "yasui",
+      "en": "cheap, inexpensive"
     },
     {
-      "jp": "つかれる",
-      "romaji": "tsukareru",
-      "en": "to get tired (past: つかれた)"
+      "jp": "暇（ひま）",
+      "romaji": "hima",
+      "en": "free (time), not busy"
     },
     {
-      "jp": "いそがしい (忙しい)",
-      "romaji": "isogashii",
-      "en": "busy (plain past: いそがしかった)"
+      "jp": "連絡する（れんらくする）",
+      "romaji": "renraku suru",
+      "en": "to contact / get in touch"
     },
     {
-      "jp": "まだ",
-      "romaji": "mada",
-      "en": "(not) yet / still"
+      "jp": "雨（あめ）",
+      "romaji": "ame",
+      "en": "rain"
     }
   ],
   "examples": [
     {
-      "jp": "きのうは なにも しなかった。",
-      "romaji": "Kinou wa nani mo shinakatta.",
-      "en": "I didn't do anything yesterday."
+      "jp": "駅に着いたら、電話してください。",
+      "romaji": "Eki ni tsuitara, denwa shite kudasai.",
+      "en": "When you arrive at the station, please call me."
     },
     {
-      "jp": "えいが みた？ ── うん、みた！ でも ともだちは こなかった。",
-      "romaji": "Eiga mita? ── Un, mita! Demo tomodachi wa konakatta.",
-      "en": "Did you see the movie? ── Yeah, I saw it! But my friend didn't come."
+      "jp": "時間があったら、京都に行きたいです。",
+      "romaji": "Jikan ga attara, Kyōto ni ikitai desu.",
+      "en": "If I have time, I want to go to Kyoto."
+    },
+    {
+      "jp": "仕事が終わったら、飲みに行きましょう。",
+      "romaji": "Shigoto ga owattara, nomi ni ikimashō.",
+      "en": "Once work is done, let's go for a drink."
     }
   ],
-  "note": "Casual questions just rise in tone — no か needed (みた？ = did you see it?). ぜんぜん pairs with a negative. Use plain forms with friends/family and in casual writing; keep ます-forms for strangers, teachers, and work.",
+  "note": "～たら always attaches to the plain PAST form — even い-adjectives (安かったら) and nouns (雨だったら). Don't overthink \"if vs. when\": the same たら does both. It pairs beautifully with requests (〜てください), invitations (〜ましょう), and your own plans (〜たいです).",
   "selfCheck": {
-    "q": "How do you say \"I didn't go\" in plain/casual speech? (verb: いく)",
-    "a": "いかなかった (ikanakatta) — \"(I) didn't go.\" Bonus: きのうは いそがしくて、どこも いかなかった。= \"Yesterday I was busy, so I didn't go anywhere.\""
+    "q": "How would you say \"If it's cheap, I'll buy it\"? (Use 安い = cheap, 買う = to buy.)",
+    "a": "安かったら、買います。(Yasukattara, kaimasu.) — 安い → 安かった → +ら → 安かったら."
   }
 }
