@@ -1,77 +1,71 @@
 {
   "date": "Tuesday, August 18, 2026",
   "generatedAt": "Morning brief · 10:06 AM ET",
-  "theme": "An open day in Maine — one 10 o'clock visit, then it's yours.",
-  "greeting": "Morning, Dan. The calendar is nearly clear today — a 10 AM virtual visit is the only fixed point — while tomorrow carries the weight, with Mike's ultrasound and MRI back to back. A good day to knock down the overdue list and get ahead of Thursday's surgery.",
+  "theme": "An open day tucked in front of a full one.",
+  "greeting": "Good morning, Dan. Today is largely yours — a single telehealth check-in, then room to clear the overdue list and get set for a heavy medical day in Portland tomorrow.",
   "needsAttention": [
     {
-      "tag": "Health · Today",
-      "title": "Virtual visit at 10 AM",
-      "detail": "Your Talkiatry follow-up with Dr. Jennifer Snowden is at 10:00 AM ET. It is not on your Google calendar, so it is easy to slide past."
+      "tag": "Prep · today",
+      "title": "Lock Mike's surgery logistics",
+      "detail": "Today's line on the oral-surgery prep list: confirm the driver to and from Portland and pin down insurance coverage and what's owed, ahead of Thursday's extraction. Prescriptions and soft food are tomorrow's job."
     },
     {
-      "tag": "Reply owed",
-      "title": "Pick a time with Eugenia",
-      "detail": "On the PRI thread she offered Monday 12–2 or Thursday windows your time and is waiting on you to choose one."
+      "tag": "Awaiting reply",
+      "title": "Pick a call time with Eugenia",
+      "detail": "Eugenia offered slots for a PRI catch-up and is waiting to hear which works. Her Monday window has passed and Thursday collides with the surgery, so a fresh time needs proposing."
     },
     {
-      "tag": "Family · Thursday",
-      "title": "Lock down Mike's surgery logistics",
-      "detail": "His oral surgery in Portland is Thursday; today's prep items are confirming the driver and the insurance and what's owed. The task has sat open in Todoist since Aug 14."
-    },
-    {
-      "tag": "Overdue · Travel",
-      "title": "Croatia flights still unbought",
-      "detail": "Open since Aug 15 in Todoist — and the surgery note flags avoiding flights Aug 20–23, so it is worth checking those dates before you book."
+      "tag": "Window closing",
+      "title": "Book the Croatia flights",
+      "detail": "The Croatia flights have sat on the list since Friday; the fare window keeps narrowing the longer the booking waits."
     }
   ],
   "schedule": [
     {
       "time": "10:00 AM",
-      "title": "Talkiatry virtual visit",
-      "detail": "Follow-up with Dr. Jennifer Snowden",
-      "tag": "Health"
+      "title": "Telehealth follow-up",
+      "detail": "Virtual visit with Dr. Snowden",
+      "tag": "health"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Health",
-        "title": "Therapy visit today, 10 AM",
-        "detail": "Talkiatry reminder for a virtual follow-up with Dr. Snowden."
+        "tag": "Job search",
+        "title": "LinkedIn message from Peter",
+        "detail": "A note from Peter is sitting unanswered in your LinkedIn messages."
       },
       {
         "tag": "Job search",
-        "title": "Peter messaged you on LinkedIn",
-        "detail": "A LinkedIn message is sitting unanswered."
-      },
-      {
-        "tag": "Job search",
-        "title": "Eugenia waiting on PRI times",
-        "detail": "She offered slots to talk and needs your pick."
-      },
-      {
-        "tag": "Job search",
-        "title": "SVP, State Affairs alert (OCHIN)",
-        "detail": "A LinkedIn alert for a senior public-affairs role."
+        "title": "Two new public-policy roles",
+        "detail": "LinkedIn flagged a VP of Government Relations & Public Policy and a State Affairs executive role matching your searches."
       },
       {
         "tag": "FYI",
-        "title": "Lubrano flags a Sustainalytics opening",
-        "detail": "Morningstar is closing Sustainalytics' stewardship arm; he suggests reaching out to the stranded clients."
+        "title": "Valoris follow-ups from Mike Lubrano",
+        "detail": "Two notes from Mike Lubrano — a 'Dan and Mike follow up' and a nudge about Morningstar exiting the Sustainalytics stewardship business and its now-loose clients."
       }
     ],
-    "noise": "Promos and newsletters: two ICGN Paris Exchange sends, Fog Linen, Nautilus Sailing, and the Midcoast Villager.",
-    "clear": "No security, account, or financial alerts."
+    "noise": "The usual drift: Lumosity and Fog Linen promos, ICGN Paris, Nautilus Sailing, and the Midcoast/Nextdoor Maine newsletters.",
+    "clear": "Nothing else is waiting on your reply."
   },
   "resolved": [
-    "Dan MacNaughton wrote back on your boat hunt with models to chase — a Luders 33 in Penobscot among them."
+    {
+      "tag": "Sailing",
+      "title": "Boat shortlist came back",
+      "detail": "Dan Mac replied with cruising-boat ideas — a Nicholson 31, Cape Dorys, and a Luders 33 up in Penobscot — nothing needed from you."
+    },
+    {
+      "tag": "Booked",
+      "title": "Maine ferry tickets confirmed",
+      "detail": "The Maine State Ferry order came through confirmed."
+    }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Portland, Maine",
-    "confidence": "low",
+    "location": "Coastal Maine",
+    "confidence": "high",
     "asOf": "Tuesday Aug 18"
   },
   "recipe": {
@@ -97,31 +91,25 @@
       "project": "Inbox",
       "due": "Overdue Aug 17",
       "overdue": true
-    },
-    {
-      "title": "Shave",
-      "project": "Inbox",
-      "due": "Overdue Aug 17",
-      "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "10/10",
     "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "An open morning, with nothing on the calendar until early afternoon."
+      "line": "A quiet start with just the 10 o'clock telehealth visit on the books."
     },
     {
       "time": "Afternoon",
-      "line": "Your 2 o'clock call with Mike is the day's one fixed point."
+      "line": "Wide open — a good stretch to clear the overdue pile: Croatia flights, travel bags, and the first pages of the new book."
     },
     {
       "time": "Evening",
-      "line": "Quiet time to pack the small travel bags before tomorrow's 10 AM follow-up."
+      "line": "Worth getting ahead of tomorrow's Portland run — throat ultrasound, brain MRI, then the Jomon call at 8."
     }
   ],
   "japanese": {
