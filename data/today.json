@@ -1,115 +1,112 @@
 {
   "date": "Tuesday, August 18, 2026",
-  "generatedAt": "Morning brief · 6:03 AM ET",
-  "theme": "An open day, girls with Jen — room to clear what's been waiting.",
-  "greeting": "The calendar is nearly clear today, Dan, which leaves space for the few things that have been sitting: Mike's surgery logistics, a couple of replies people are holding for, and those Croatia flights.",
+  "generatedAt": "Morning brief · 8:00 AM ET",
+  "theme": "An open day in Maine — one 10 o'clock visit, then it's yours.",
+  "greeting": "Morning, Dan. The calendar is nearly clear today — a 10 AM virtual visit is the only fixed point — while tomorrow carries the weight, with Mike's ultrasound and MRI back to back. A good day to knock down the overdue list and get ahead of Thursday's surgery.",
   "needsAttention": [
     {
-      "tag": "Prep · overdue",
-      "title": "Mike's surgery logistics",
-      "detail": "His oral surgery is Thursday in Portland, and today's items are confirming the driver and the insurance side. It has sat in Personal Tasks since Aug 14."
+      "tag": "Health · Today",
+      "title": "Virtual visit at 10 AM",
+      "detail": "Your Talkiatry follow-up with Dr. Jennifer Snowden is at 10:00 AM ET. It is not on your Google calendar, so it is easy to slide past."
     },
     {
-      "tag": "Job search",
-      "title": "Reply to Mike on the Saudi lead",
-      "detail": "Mike is holding for your answer on what you meant by \"almost with Mexico\" in the Saudi Telecom board thread — he calls it a live one."
-    },
-    {
-      "tag": "Window closing",
-      "title": "Buy the Croatia flights",
-      "detail": "Overdue in your Inbox since Aug 15; fares only climb the longer the booking waits."
-    },
-    {
-      "tag": "Networking",
+      "tag": "Reply owed",
       "title": "Pick a time with Eugenia",
-      "detail": "She offered Monday 12–2 or Thursday for a PRI catch-up and has been waiting since Aug 14 for you to choose one."
+      "detail": "On the PRI thread she offered Monday 12–2 or Thursday windows your time and is waiting on you to choose one."
     },
     {
-      "tag": "Overdue task",
-      "title": "Destination edit work",
-      "detail": "Still open in Professional Projects, overdue since Aug 15."
+      "tag": "Family · Thursday",
+      "title": "Lock down Mike's surgery logistics",
+      "detail": "His oral surgery in Portland is Thursday; today's prep items are confirming the driver and the insurance and what's owed. The task has sat open in Todoist since Aug 14."
+    },
+    {
+      "tag": "Overdue · Travel",
+      "title": "Croatia flights still unbought",
+      "detail": "Open since Aug 15 in Todoist — and the surgery note flags avoiding flights Aug 20–23, so it is worth checking those dates before you book."
     }
   ],
   "schedule": [
     {
-      "time": "All day",
-      "title": "Milica Boskovic's birthday",
-      "detail": "A note on your calendar",
-      "tag": "birthday"
-    },
-    {
-      "time": "2:00 PM",
-      "title": "Call with Mike",
-      "detail": "Your follow-up — Dan to phone Mike",
-      "tag": "call"
+      "time": "10:00 AM",
+      "title": "Talkiatry virtual visit",
+      "detail": "Follow-up with Dr. Jennifer Snowden",
+      "tag": "Health"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Saudi Telecom board lead",
-        "detail": "Mike is waiting on your reply in the thread."
-      },
-      {
-        "tag": "Job search",
-        "title": "Eugenia's PRI catch-up",
-        "detail": "Pick Monday or Thursday to talk."
-      },
-      {
         "tag": "Health",
-        "title": "Talkiatry follow-up Tuesday",
-        "detail": "Virtual visit at 10 AM with Dr. Snowden."
+        "title": "Therapy visit today, 10 AM",
+        "detail": "Talkiatry reminder for a virtual follow-up with Dr. Snowden."
       },
       {
-        "tag": "Financial",
-        "title": "Morgan Stanley holdings notice",
-        "detail": "Proxy materials flagged as important."
+        "tag": "Job search",
+        "title": "Peter messaged you on LinkedIn",
+        "detail": "A LinkedIn message is sitting unanswered."
+      },
+      {
+        "tag": "Job search",
+        "title": "Eugenia waiting on PRI times",
+        "detail": "She offered slots to talk and needs your pick."
+      },
+      {
+        "tag": "Job search",
+        "title": "SVP, State Affairs alert (OCHIN)",
+        "detail": "A LinkedIn alert for a senior public-affairs role."
       },
       {
         "tag": "FYI",
-        "title": "Maine ferry tickets confirmed",
-        "detail": "Order confirmation landed; boat leads from Dan MacN too."
+        "title": "Lubrano flags a Sustainalytics opening",
+        "detail": "Morningstar is closing Sustainalytics' stewardship arm; he suggests reaching out to the stranded clients."
       }
     ],
-    "noise": "The usual LinkedIn job alerts and the Midcoast Villager newsletter.",
-    "clear": "Nothing else in the inbox is asking for you."
+    "noise": "Promos and newsletters: two ICGN Paris Exchange sends, Fog Linen, Nautilus Sailing, and the Midcoast Villager.",
+    "clear": "No security, account, or financial alerts."
   },
-  "resolved": [],
+  "resolved": [
+    "Dan MacNaughton wrote back on your boat hunt with models to chase — a Luders 33 in Penobscot among them."
+  ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Coastal Maine",
+    "location": "Portland, Maine",
     "confidence": "low",
-    "asOf": "Monday Aug 17"
+    "asOf": "Tuesday Aug 18"
   },
   "recipe": {
-    "title": "Olive oil–poached zucchini & raw tomatoes",
+    "title": "Composed summer salad with french feta",
     "book": "Canal House Cooks Every Day",
-    "why": "Peak-summer zucchini and just-picked tomatoes, softened slowly in good olive oil — exactly the unhurried supper a quiet Maine evening is asking for."
+    "why": "High summer on the Maine coast has the farmstands at their peak, and a composed salad lets ripe tomatoes and briny French feta carry a warm, low-effort evening on your own."
   },
   "tasks": [
     {
-      "title": "Shave",
-      "project": "Inbox",
-      "due": "Today",
-      "overdue": false
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
+      "overdue": true
     },
     {
       "title": "Organize small bags for travel",
       "project": "Inbox",
-      "due": "Today",
-      "overdue": false
+      "due": "Overdue Aug 17",
+      "overdue": true
     },
     {
       "title": "Start new book — first 50 pages",
       "project": "Inbox",
-      "due": "Today",
-      "overdue": false
+      "due": "Overdue Aug 17",
+      "overdue": true
+    },
+    {
+      "title": "Shave",
+      "project": "Inbox",
+      "due": "Overdue Aug 17",
+      "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/3",
+    "morning": "0/10",
     "day": "0/3",
     "evening": "0/4"
   },
@@ -126,5 +123,9 @@
       "time": "Evening",
       "line": "Quiet time to pack the small travel bags before tomorrow's 10 AM follow-up."
     }
-  ]
+  ],
+  "japanese": {
+    "lessonNo": 227,
+    "theme": "The ～たら conditional — saying \"if / when\""
+  }
 }
