@@ -1,23 +1,18 @@
 {
   "date": "Tuesday, August 18, 2026",
-  "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "An open day braced against a heavy tomorrow.",
-  "greeting": "The day is genuinely yours, Dan — nothing on today's calendar. Tomorrow leans hard into Mike's medical appointments and Thursday's surgery, so today's real work is the prep that makes those go smoothly.",
+  "generatedAt": "Morning brief · 4:05 PM ET",
+  "theme": "Open on the calendar, a prep day before a heavy medical stretch.",
+  "greeting": "Nothing's on the calendar today, Dan, which lands well: Wednesday brings two hospital appointments and Thursday is Mike's oral surgery. The girls are with Jen, so the day is clear to get ahead of the logistics.",
   "needsAttention": [
     {
-      "tag": "Surgery week",
-      "title": "Confirm Mike's ride and coverage",
-      "detail": "Your oral-surgery prep task is overdue and today's items are the last open ones — lock the driver to and from Portland and confirm what insurance owes before Thursday's extraction."
+      "tag": "Surgery prep",
+      "title": "Lock Mike's driver and confirm coverage",
+      "detail": "Mike's oral surgery is Thursday in Portland; today's items on the prep list are a confirmed driver both ways and what insurance covers. The task has been open since Aug 14."
     },
     {
-      "tag": "Awaiting reply",
-      "title": "Amra wrote back from BlackRock",
-      "detail": "Your Sustainalytics question came back warm and personal, and she's expecting a reply while the thread is still fresh."
-    },
-    {
-      "tag": "Prep tomorrow",
-      "title": "Mike's medical day starts at 9:30",
-      "detail": "Throat ultrasound at 9:30 and a brain MRI at 3:30 tomorrow, plus a Jomon call in the evening — worth mapping the drive and soft-food run tonight."
+      "tag": "Owe a reply",
+      "title": "Eugenia's PRI times are waiting",
+      "detail": "She replied on Aug 14 with slots to talk and hasn't heard back; the Monday option has already passed, so a new time is needed."
     }
   ],
   "schedule": [],
@@ -25,44 +20,18 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Peter messaged you on LinkedIn",
-        "detail": "A new LinkedIn message is flagged as awaiting your response."
-      },
-      {
-        "tag": "Job search",
-        "title": "Deloitte thread still open",
-        "detail": "Michael Rossen asked whether you'd reached out to Jonathan Dunne — still unanswered from July."
-      },
-      {
-        "tag": "Financial",
-        "title": "Dubrovnik flights charged",
-        "detail": "Underpricer confirmed your booking to Dubrovnik — worth checking the order and the card charge."
-      },
-      {
-        "tag": "Health",
-        "title": "Talkiatry visits on the books",
-        "detail": "Today's 10 AM telehealth was confirmed; the next is set for October 13."
+        "title": "LinkedIn message from Peter",
+        "detail": "A new LinkedIn message is waiting for a reply, worth a look given the active search."
       }
     ],
-    "noise": "The usual promos and newsletters — Delta, Monocle, Kayak, Adobe, plus throw pillows and RGB guitars.",
-    "clear": "Anna's Vinalhaven bread ordering closed for the week — nothing to do there."
+    "noise": "The rest is a Fog Linen welcome and your daily Japanese lesson.",
+    "clear": "The Flora reservation thread with Susan is already handled."
   },
-  "resolved": [
-    {
-      "tag": "Booked",
-      "title": "Croatia flights are done",
-      "detail": "Underpricer and Kayak both confirmed your Dubrovnik trip, so the 'buy flights' task can close."
-    },
-    {
-      "tag": "Confirmed",
-      "title": "Maine ferry tickets in hand",
-      "detail": "Maine State Ferry sent your reservation and vehicle confirmation."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Vinalhaven, Maine",
+    "location": "Portland, Maine",
     "confidence": "high",
     "asOf": "Tuesday Aug 18"
   },
@@ -85,29 +54,29 @@
       "overdue": true
     },
     {
-      "title": "Start new book — first 50 pages",
+      "title": "Start new book, first 50 pages",
       "project": "Inbox",
       "due": "Overdue Aug 17",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "10/10",
-    "day": "0/3",
-    "evening": "0/4"
+    "morning": "0/10",
+    "day": "3/3",
+    "evening": "4/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is clear — a rare open stretch before tomorrow's medical run."
+      "line": "A clear morning to close out the surgery-prep logistics: driver, insurance, prescriptions, and soft food."
     },
     {
       "time": "Afternoon",
-      "line": "Yours to spend, with the surgery-week prep as the one thing that can't wait."
+      "line": "Room to reply to Eugenia and chip at the overdue Professional Projects edit."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens with Mike's 9:30 ultrasound, so tee up the driver and the soft-food stock tonight."
+      "line": "Set up for a stacked Wednesday: a throat ultrasound at 9:30, a brain MRI at 3:30, then an 8 PM Tokyo call with Jomon."
     }
   ],
   "japanese": {
