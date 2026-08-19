@@ -1,25 +1,30 @@
 {
   "date": "Wednesday, August 19, 2026",
-  "generatedAt": "Morning brief · 12:04 PM ET",
-  "theme": "Mike's appointments thread the day, on the eve of his surgery.",
-  "greeting": "Morning, Dan. Mike's medical run brackets the day — a throat ultrasound this morning, a brain MRI at 3:30 — and tomorrow's oral surgery in Portland sits just past the evening.",
+  "generatedAt": "Morning brief · 12:05 PM ET",
+  "theme": "A day of Mike's medical appointments, capped by a late Tokyo call.",
+  "greeting": "Today's shape is mostly Mike's, Dan — a throat ultrasound and a brain MRI to clear him before tomorrow's oral surgery, then a Jomon call to Tokyo to close the night.",
   "needsAttention": [
     {
-      "tag": "Tomorrow's surgery",
-      "title": "Mike's surgery prep hasn't been checked off",
-      "detail": "Mike's oral surgery is tomorrow in Portland, and today's list on your Todoist is the day-before items: fill the prescriptions, stock soft food and ice packs. He can't drive home after sedation, so a ride needs to be set."
+      "tag": "Prep · today",
+      "title": "Fill Mike's scripts and stock soft food",
+      "detail": "Mike's oral surgery is tomorrow in Portland and you're his ride home, so today is the day to fill the prescriptions and lay in soft food — yogurt, broth, eggs, no straws. It's the Aug 19 line on your surgery-prep task, overdue since the 14th."
+    },
+    {
+      "tag": "Tomorrow's call",
+      "title": "Come to the IMC research call with a view",
+      "detail": "Mike Lubrano's call tomorrow night pulls you and Chie at NRI into shaping the next stage of the IMC research; the open question on the thread is how to bring players beyond asset managers and owners into the discussion. Worth arriving holding a thought or two."
     }
   ],
   "schedule": [
     {
       "time": "9:30 AM",
-      "title": "Mike — throat ultrasound",
-      "detail": "South Portland",
+      "title": "Mike's throat ultrasound",
+      "detail": "With Mike at 50 Foden Rd",
       "tag": "Health"
     },
     {
       "time": "3:30 PM",
-      "title": "Mike — brain MRI",
+      "title": "Mike's brain MRI",
       "detail": "400 Technology Way",
       "tag": "Health"
     },
@@ -32,28 +37,49 @@
     {
       "time": "8:00 PM",
       "title": "Jomon Associates call",
-      "detail": "Zoom · Tokyo team",
+      "detail": "Zoom with Tokyo",
       "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "NACD New England reception, Sept 15",
+        "detail": "The NACD's New England chapter asked you to RSVP for their Sept 15 appreciation reception — an easy yes worth sending given the board search."
+      },
+      {
+        "tag": "Job search",
+        "title": "The Conor Kehoe intro is still hanging",
+        "detail": "Your note to the PRI's Conor never landed — the address bounced twice and Eugenia resent the corrected one, so the ball is back with you."
+      },
+      {
         "tag": "FYI",
-        "title": "Anna's weekly bread order is open",
-        "detail": "Knitwit's sourdough sign-up went out — a few loaves left ($10–$12); a reply claims one."
+        "title": "Maine ferry and Dubrovnik flight booked",
+        "detail": "Confirmations arrived for the Maine State Ferry and the Dubrovnik flight — travel logistics are squared away."
       }
     ],
-    "noise": "The rest is newsletters and receipts — Responsible Investor, NYT Cooking, America's Test Kitchen, plus Apple, Amazon, and parking confirmations.",
-    "clear": "Nothing else is waiting on a reply."
+    "noise": "The usual promos and newsletters — Blaze, SiriusXM, NYT Cooking, Foreign Affairs, Responsible Investor, a couple of shop lists.",
+    "clear": "Nothing else is asking for you; the rest is confirmations and reading."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Answered",
+      "title": "Amra closed the Sustainalytics loop",
+      "detail": "BlackRock's Amra replied to your stewardship question and caught up on Croatia — the thread's done bar a friendly hello back."
+    },
+    {
+      "tag": "Scheduled",
+      "title": "Tomorrow's IMC call is on the calendar",
+      "detail": "Mike Lubrano sent the Teams invite and you confirmed the time, so the Chie and Valoris research call is set."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Portland, Maine",
     "confidence": "high",
-    "asOf": "Wed Aug 19"
+    "asOf": "Wednesday Aug 19"
   },
   "recipe": {
     "title": "Composed summer salad with french feta",
@@ -82,15 +108,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The day opens at 9:30 with Mike's throat ultrasound, then the late morning is yours."
+      "line": "Mike's throat ultrasound at 9:30 is the one fixed point before noon."
     },
     {
       "time": "Afternoon",
-      "line": "Open through midday until the 3:30 brain MRI, with a five o'clock haircut after."
+      "line": "His brain MRI at 3:30, then a five o'clock haircut."
     },
     {
       "time": "Evening",
-      "line": "The Tokyo call at eight closes the day, with tomorrow's Portland surgery to have prepped for by then."
+      "line": "An 8 o'clock Zoom with Jomon in Tokyo closes the day out."
     }
   ],
   "japanese": {
