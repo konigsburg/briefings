@@ -1,49 +1,90 @@
 {
   "date": "Wednesday, August 19, 2026",
-  "generatedAt": "Morning brief · 6:04 AM ET",
-  "theme": "An open day before a full Wednesday.",
-  "greeting": "The calendar is clear today, Dan — nothing scheduled at all. A good window to clear Mike's surgery prep and get back to Eugenia before tomorrow fills up with scans and an evening call.",
+  "generatedAt": "Morning brief · 6:37 AM ET",
+  "theme": "A Maine medical day, with tomorrow's surgery to get ahead of.",
+  "greeting": "The girls are with Jen this week, so today belongs to Mike's appointments and getting set for his surgery tomorrow.",
   "needsAttention": [
     {
+      "tag": "Surgery prep",
+      "title": "Stock up before Mike's surgery tomorrow",
+      "detail": "Mike's oral surgery is tomorrow in Portland. Today is the last window to fill prescriptions, lay in soft food, and grab ice packs and gauze — the prep task has been open since Aug 14."
+    },
+    {
       "tag": "Awaiting reply",
-      "title": "Pick a time with Eugenia on PRI",
-      "detail": "On the PRI thread, Eugenia has sent call times — Thursday among them — and is waiting for you to confirm which one works. It has been sitting since Aug 14."
-    },
-    {
-      "tag": "Window closing",
-      "title": "Finish Mike's surgery prep",
-      "detail": "Mike's oral surgery is Thursday in Portland. The prep task is overdue: fill the prescriptions, stock soft food, and confirm the driver and coverage before then."
-    },
-    {
-      "tag": "Prep for tomorrow",
-      "title": "Ready for the Jomon call",
-      "detail": "Your Zoom with Jomon Associates is confirmed for 8 PM tomorrow (morning in Tokyo). Worth arriving with a few talking points in hand."
+      "title": "Pick a time with Eugenia",
+      "detail": "For your PRI catch-up, Eugenia offered Monday 12–2, or Thursday 7–11 and 12–2 your time. She's waiting on you to choose a slot."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "9:30 AM",
+      "title": "Mike's throat ultrasound",
+      "detail": "With Mike on Foden Rd",
+      "tag": "Health"
+    },
+    {
+      "time": "3:30 PM",
+      "title": "Brain MRI",
+      "detail": "Mike's scan, Technology Way",
+      "tag": "Health"
+    },
+    {
+      "time": "5:00 PM",
+      "title": "Haircut",
+      "detail": "",
+      "tag": "Personal"
+    },
+    {
+      "time": "8:00 PM",
+      "title": "Jomon Associates call",
+      "detail": "Tokyo Zoom, their morning",
+      "tag": "Call"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Connection request from Mastercard's policy chief",
-        "detail": "A LinkedIn invitation from Tucker, Chief Government Affairs & Policy Officer at Mastercard, is waiting on your response — a strong governance and policy contact."
+        "tag": "Financial",
+        "title": "Morgan Stanley corporate action notice",
+        "detail": "A voluntary corporate action notice arrived via ProxyVote — worth a look in case there's an election deadline."
       },
       {
         "tag": "Job search",
-        "title": "Peter's LinkedIn message",
-        "detail": "A LinkedIn message from Peter is sitting unanswered from Aug 17."
+        "title": "Mastercard's policy chief wants to connect",
+        "detail": "A LinkedIn invite from Tucker, Chief Government Affairs & Policy Officer at Mastercard."
+      },
+      {
+        "tag": "Job search",
+        "title": "NACD New England reception, Sept 15",
+        "detail": "An RSVP request for the chapter's appreciation reception."
+      },
+      {
+        "tag": "FYI",
+        "title": "Peter messaged you on LinkedIn",
+        "detail": "A message is sitting in your LinkedIn inbox awaiting a reply."
       }
     ],
-    "noise": "The rest is promotional: a French tutoring pitch, a Fog Linen welcome, and your own daily Japanese lesson.",
-    "clear": "The Flora dinner thread with Susan is wrapped — you already replied and thanked her."
+    "noise": "The usual promos and newsletters — Responsible Investor, Daily Italian, StoryGraph, and a few shopping pings.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Scheduled",
+      "title": "IMC research call is locked in",
+      "detail": "Mike Lubrano sent the Teams invite; you, Mike and Chie meet tomorrow at 9 PM your time."
+    },
+    {
+      "tag": "Reply in",
+      "title": "Amra answered on Sustainalytics",
+      "detail": "BlackRock's Amra Balic replied to your question about Morningstar winding down Sustainalytics' stewardship business."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Portland, Maine",
-    "confidence": "low",
-    "asOf": "Tuesday Aug 18"
+    "confidence": "high",
+    "asOf": "Wednesday Aug 19"
   },
   "recipe": {
     "title": "Composed summer salad with french feta",
@@ -56,6 +97,12 @@
       "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
+    },
+    {
+      "title": "LL Bean",
+      "project": "Inbox",
+      "due": "Today",
+      "overdue": false
     },
     {
       "title": "Organize small bags for travel",
@@ -71,22 +118,22 @@
     }
   ],
   "routines": {
-    "morning": "10/10",
-    "day": "0/3",
+    "morning": "0/10",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar — the morning is entirely open."
+      "line": "The day opens with Mike's 9:30 throat ultrasound — you're along for the medical run."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear through the afternoon, a rare stretch of unclaimed time."
+      "line": "His brain MRI lands at 3:30, then a haircut at five before the evening turns."
     },
     {
       "time": "Evening",
-      "line": "A quiet night before tomorrow fills up with Mike's two scans and the Tokyo call."
+      "line": "Tokyo calls at eight, and the last of the surgery prep is yours to close out."
     }
   ],
   "japanese": {
