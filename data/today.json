@@ -1,31 +1,26 @@
 {
   "date": "Wednesday, August 19, 2026",
   "generatedAt": "Morning brief · 10:05 AM ET",
-  "theme": "A Maine medical day, with tomorrow's surgery to get ahead of.",
-  "greeting": "The girls are with Jen this week, so today belongs to Mike's appointments and getting set for his surgery tomorrow.",
+  "theme": "Mike's appointments thread the day, on the eve of his surgery.",
+  "greeting": "Morning, Dan. Mike's medical run brackets the day — a throat ultrasound this morning, a brain MRI at 3:30 — and tomorrow's oral surgery in Portland sits just past the evening.",
   "needsAttention": [
     {
-      "tag": "Surgery prep",
-      "title": "Stock up before Mike's surgery tomorrow",
-      "detail": "Mike's oral surgery is tomorrow in Portland. Today is the last window to fill prescriptions, lay in soft food, and grab ice packs and gauze — the prep task has been open since Aug 14."
-    },
-    {
-      "tag": "Awaiting reply",
-      "title": "Pick a time with Eugenia",
-      "detail": "For your PRI catch-up, Eugenia offered Monday 12–2, or Thursday 7–11 and 12–2 your time. She's waiting on you to choose a slot."
+      "tag": "Tomorrow's surgery",
+      "title": "Mike's surgery prep hasn't been checked off",
+      "detail": "Mike's oral surgery is tomorrow in Portland, and today's list on your Todoist is the day-before items: fill the prescriptions, stock soft food and ice packs. He can't drive home after sedation, so a ride needs to be set."
     }
   ],
   "schedule": [
     {
       "time": "9:30 AM",
-      "title": "Mike's throat ultrasound",
-      "detail": "With Mike on Foden Rd",
+      "title": "Mike — throat ultrasound",
+      "detail": "South Portland",
       "tag": "Health"
     },
     {
       "time": "3:30 PM",
-      "title": "Brain MRI",
-      "detail": "Mike's scan, Technology Way",
+      "title": "Mike — brain MRI",
+      "detail": "400 Technology Way",
       "tag": "Health"
     },
     {
@@ -37,54 +32,28 @@
     {
       "time": "8:00 PM",
       "title": "Jomon Associates call",
-      "detail": "Tokyo Zoom, their morning",
+      "detail": "Zoom · Tokyo team",
       "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Morgan Stanley corporate action notice",
-        "detail": "A voluntary corporate action notice arrived via ProxyVote — worth a look in case there's an election deadline."
-      },
-      {
-        "tag": "Job search",
-        "title": "Mastercard's policy chief wants to connect",
-        "detail": "A LinkedIn invite from Tucker, Chief Government Affairs & Policy Officer at Mastercard."
-      },
-      {
-        "tag": "Job search",
-        "title": "NACD New England reception, Sept 15",
-        "detail": "An RSVP request for the chapter's appreciation reception."
-      },
-      {
         "tag": "FYI",
-        "title": "Peter messaged you on LinkedIn",
-        "detail": "A message is sitting in your LinkedIn inbox awaiting a reply."
+        "title": "Anna's weekly bread order is open",
+        "detail": "Knitwit's sourdough sign-up went out — a few loaves left ($10–$12); a reply claims one."
       }
     ],
-    "noise": "The usual promos and newsletters — Responsible Investor, Daily Italian, StoryGraph, and a few shopping pings.",
-    "clear": ""
+    "noise": "The rest is newsletters and receipts — Responsible Investor, NYT Cooking, America's Test Kitchen, plus Apple, Amazon, and parking confirmations.",
+    "clear": "Nothing else is waiting on a reply."
   },
-  "resolved": [
-    {
-      "tag": "Scheduled",
-      "title": "IMC research call is locked in",
-      "detail": "Mike Lubrano sent the Teams invite; you, Mike and Chie meet tomorrow at 9 PM your time."
-    },
-    {
-      "tag": "Reply in",
-      "title": "Amra answered on Sustainalytics",
-      "detail": "BlackRock's Amra Balic replied to your question about Morningstar winding down Sustainalytics' stewardship business."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Portland, Maine",
     "confidence": "high",
-    "asOf": "Wednesday Aug 19"
+    "asOf": "Wed Aug 19"
   },
   "recipe": {
     "title": "Composed summer salad with french feta",
@@ -99,41 +68,29 @@
       "overdue": true
     },
     {
-      "title": "LL Bean",
-      "project": "Inbox",
-      "due": "Today",
-      "overdue": false
-    },
-    {
       "title": "Organize small bags for travel",
-      "project": "Inbox",
-      "due": "Overdue Aug 17",
-      "overdue": true
-    },
-    {
-      "title": "Start new book — first 50 pages",
       "project": "Inbox",
       "due": "Overdue Aug 17",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
+    "morning": "6/10",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The day opens with Mike's 9:30 throat ultrasound — you're along for the medical run."
+      "line": "The day opens at 9:30 with Mike's throat ultrasound, then the late morning is yours."
     },
     {
       "time": "Afternoon",
-      "line": "His brain MRI lands at 3:30, then a haircut at five before the evening turns."
+      "line": "Open through midday until the 3:30 brain MRI, with a five o'clock haircut after."
     },
     {
       "time": "Evening",
-      "line": "Tokyo calls at eight, and the last of the surgery prep is yours to close out."
+      "line": "The Tokyo call at eight closes the day, with tomorrow's Portland surgery to have prepped for by then."
     }
   ],
   "japanese": {
