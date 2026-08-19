@@ -1033,44 +1033,96 @@
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Grilled Pepper Salad",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Grilled Lamb with Minted Feta",
+        "book": "Eat"
+      },
+      {
         "title": "Chilled corn soup",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Pea, Mint, and Avocado Salad",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Citrus Chile Grilled Chicken",
+        "book": "Eat"
       },
       {
         "title": "Roasted red pepper & tomato gazpacho",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Salsa Verde",
+        "book": "How to Eat"
+      },
+      {
         "title": "Cold avocado & cucumber soup",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Baked Figs",
+        "book": "How to Eat"
       },
       {
         "title": "The splendid summer tomato sandwich",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Roast Sugar-Sprinkled Peaches",
+        "book": "How to Eat"
+      },
+      {
         "title": "Tomatoes all dressed up for summer",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Poached Peaches",
+        "book": "How to Eat"
       },
       {
         "title": "Olive oil–poached zucchini & raw tomatoes",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Salmon Baked in Foil",
+        "book": "How to Eat"
+      },
+      {
         "title": "Sautéed zucchini with scallions & fresh mozzarella",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Chambéry Trout",
+        "book": "How to Eat"
       },
       {
         "title": "Composed summer salad with french feta",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Squid with Chili and Clams",
+        "book": "How to Eat"
+      },
+      {
         "title": "Canal house year-round caprese salad",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Green Salad with Green Beans",
+        "book": "How to Eat"
+      },
+      {
         "title": "Cool cucumber & mint salad with sichuan pepper",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Strawberries in Dark Syrup",
+        "book": "How to Eat"
       },
       {
         "title": "Corn, string bean & potato salad",
@@ -1123,58 +1175,6 @@
       {
         "title": "Pink lemon granita",
         "book": "Canal House Cooks Every Day"
-      },
-      {
-        "title": "Grilled Pepper Salad",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Pea, Mint, and Avocado Salad",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Salsa Verde",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Baked Figs",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Roast Sugar-Sprinkled Peaches",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Poached Peaches",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Salmon Baked in Foil",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Chambéry Trout",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Squid with Chili and Clams",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Green Salad with Green Beans",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Strawberries in Dark Syrup",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Grilled Lamb with Minted Feta",
-        "book": "Eat"
-      },
-      {
-        "title": "Citrus Chile Grilled Chicken",
-        "book": "Eat"
       }
     ],
     "autumn": [
@@ -1183,44 +1183,104 @@
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Braised Pheasant with Mushrooms and Bacon",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Cider Thighs",
+        "book": "Eat"
+      },
+      {
         "title": "White sweet potato soup with pickled scallions",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Pheasant with Gin and It",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Chicken, Sherry, Almond Pot Roast",
+        "book": "Eat"
       },
       {
         "title": "Warm beet soup",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Roast Venison Fillet",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Ras el Hanout Chicken and Spelt",
+        "book": "Eat"
+      },
+      {
         "title": "Chanterelle salad",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Mushroom Ragoût",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Lamb Shanks with Crushed Roots",
+        "book": "Eat"
       },
       {
         "title": "Roast chicken smothered with chanterelles",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Onion Tart",
+        "book": "How to Eat"
+      },
+      {
         "title": "Fricassée of chanterelles",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Roast Monkfish",
+        "book": "How to Eat"
       },
       {
         "title": "Roasted kabocha squash",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Chestnut and Pancetta Salad",
+        "book": "How to Eat"
+      },
+      {
         "title": "Kabocha squash, yukon gold potatoes & cipolline",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Quinces Poached in Muscat",
+        "book": "How to Eat"
       },
       {
         "title": "Butternut squash & candied bacon on fresh pasta",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Apple Butterscotch Tart",
+        "book": "How to Eat"
+      },
+      {
         "title": "Grilled quail with braised chestnuts & kabocha squash",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Translucent Apple Tart",
+        "book": "How to Eat"
+      },
+      {
         "title": "Duck breasts with apples & caraway",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Chicken and Chickpea Tagine",
+        "book": "How to Eat"
       },
       {
         "title": "Pork chops with roasted beets & escarole salad",
@@ -1249,111 +1309,15 @@
       {
         "title": "Ginger spice cake with dried cherries",
         "book": "Canal House Cooks Every Day"
-      },
-      {
-        "title": "Braised Pheasant with Mushrooms and Bacon",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Pheasant with Gin and It",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Roast Venison Fillet",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Mushroom Ragoût",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Onion Tart",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Roast Monkfish",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Chestnut and Pancetta Salad",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Quinces Poached in Muscat",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Apple Butterscotch Tart",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Translucent Apple Tart",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Chicken and Chickpea Tagine",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Cider Thighs",
-        "book": "Eat"
-      },
-      {
-        "title": "Chicken, Sherry, Almond Pot Roast",
-        "book": "Eat"
-      },
-      {
-        "title": "Ras el Hanout Chicken and Spelt",
-        "book": "Eat"
-      },
-      {
-        "title": "Lamb Shanks with Crushed Roots",
-        "book": "Eat"
       }
     ],
     "winter": [
       {
+        "title": "Greek Lamb Stew",
+        "book": "How to Eat"
+      },
+      {
         "title": "Dal and pumpkin soup",
-        "book": "The Kitchen Diaries"
-      },
-      {
-        "title": "Onion soup without tears",
-        "book": "The Kitchen Diaries"
-      },
-      {
-        "title": "A velvety soup for a clear, cold day",
-        "book": "The Kitchen Diaries"
-      },
-      {
-        "title": "A really good spaghetti Bolognaise",
-        "book": "The Kitchen Diaries"
-      },
-      {
-        "title": "Chicken broth with noodles, lemon and mint",
-        "book": "The Kitchen Diaries"
-      },
-      {
-        "title": "A clear, hot mussel soup",
-        "book": "The Kitchen Diaries"
-      },
-      {
-        "title": "Sausages with salami and lentils",
-        "book": "The Kitchen Diaries"
-      },
-      {
-        "title": "Cheese-smothered potatoes",
-        "book": "The Kitchen Diaries"
-      },
-      {
-        "title": "A pot-roast pheasant with celery and sage",
-        "book": "The Kitchen Diaries"
-      },
-      {
-        "title": "Double ginger cake",
-        "book": "The Kitchen Diaries"
-      },
-      {
-        "title": "A lime tart",
         "book": "The Kitchen Diaries"
       },
       {
@@ -1361,84 +1325,136 @@
         "book": "Canal House Cooks Every Day"
       },
       {
-        "title": "Chicken soup with ditalini",
-        "book": "Canal House Cooks Every Day"
-      },
-      {
-        "title": "Cleansing ginger-chicken soup",
-        "book": "Canal House Cooks Every Day"
-      },
-      {
-        "title": "Braised beef brisket with onions & currants",
-        "book": "Canal House Cooks Every Day"
-      },
-      {
-        "title": "Pimentón & caraway short ribs with egg noodles",
-        "book": "Canal House Cooks Every Day"
-      },
-      {
-        "title": "Corned beef & cabbage",
-        "book": "Canal House Cooks Every Day"
-      },
-      {
-        "title": "Cannellini with smoked ham & rosemary",
-        "book": "Canal House Cooks Every Day"
-      },
-      {
-        "title": "Roast prime rib of beef",
-        "book": "Canal House Cooks Every Day"
-      },
-      {
-        "title": "Spaghetti alla carbonara",
-        "book": "Canal House Cooks Every Day"
-      },
-      {
-        "title": "Fallen chocolate soufflé cake",
-        "book": "Canal House Cooks Every Day"
-      },
-      {
-        "title": "Greek Lamb Stew",
-        "book": "How to Eat"
+        "title": "Lamb with Yogurt and Turmeric",
+        "book": "Eat"
       },
       {
         "title": "Venison in White Wine",
         "book": "How to Eat"
       },
       {
+        "title": "Onion soup without tears",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Chicken soup with ditalini",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Slow-Roast Belly of Lamb",
+        "book": "Eat"
+      },
+      {
         "title": "Beef Stew with Anchovies and Thyme",
         "book": "How to Eat"
+      },
+      {
+        "title": "A velvety soup for a clear, cold day",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Cleansing ginger-chicken soup",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Quick Chicken Potpie",
+        "book": "Eat"
       },
       {
         "title": "Moussaka",
         "book": "How to Eat"
       },
       {
+        "title": "A really good spaghetti Bolognaise",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Braised beef brisket with onions & currants",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "One-Pan Sunday Lunch",
+        "book": "Eat"
+      },
+      {
         "title": "The Irish Club's Irish Stew",
         "book": "How to Eat"
+      },
+      {
+        "title": "Chicken broth with noodles, lemon and mint",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Pimentón & caraway short ribs with egg noodles",
+        "book": "Canal House Cooks Every Day"
       },
       {
         "title": "Steak and Kidney Pie",
         "book": "How to Eat"
       },
       {
+        "title": "A clear, hot mussel soup",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Corned beef & cabbage",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
         "title": "Cottage Pie and Shepherd's Pie",
         "book": "How to Eat"
+      },
+      {
+        "title": "Sausages with salami and lentils",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Cannellini with smoked ham & rosemary",
+        "book": "Canal House Cooks Every Day"
       },
       {
         "title": "Clove-Hot Chili con Carne",
         "book": "How to Eat"
       },
       {
+        "title": "Cheese-smothered potatoes",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Roast prime rib of beef",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
         "title": "Half-Coq au Vin",
         "book": "How to Eat"
+      },
+      {
+        "title": "A pot-roast pheasant with celery and sage",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Spaghetti alla carbonara",
+        "book": "Canal House Cooks Every Day"
       },
       {
         "title": "Lentil and Chestnut Soup",
         "book": "How to Eat"
       },
       {
+        "title": "Double ginger cake",
+        "book": "The Kitchen Diaries"
+      },
+      {
+        "title": "Fallen chocolate soufflé cake",
+        "book": "Canal House Cooks Every Day"
+      },
+      {
         "title": "Clementine Cake",
         "book": "How to Eat"
+      },
+      {
+        "title": "A lime tart",
+        "book": "The Kitchen Diaries"
       },
       {
         "title": "Aromatic Chili Beef Noodle Soup",
@@ -1447,22 +1463,6 @@
       {
         "title": "Black Cod Marinated in Den Miso",
         "book": "How to Eat"
-      },
-      {
-        "title": "Lamb with Yogurt and Turmeric",
-        "book": "Eat"
-      },
-      {
-        "title": "Slow-Roast Belly of Lamb",
-        "book": "Eat"
-      },
-      {
-        "title": "Quick Chicken Potpie",
-        "book": "Eat"
-      },
-      {
-        "title": "One-Pan Sunday Lunch",
-        "book": "Eat"
       }
     ],
     "spring": [
@@ -1471,44 +1471,96 @@
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Pea Risotto",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Chicken, Asparagus, and Avocado Sandwich",
+        "book": "Eat"
+      },
+      {
         "title": "Chilled potato & celery soup",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Pea Soufflé",
+        "book": "How to Eat"
+      },
+      {
+        "title": "Lamb Chops with Mustard Seed and Coconut",
+        "book": "Eat"
       },
       {
         "title": "Asparagus vinaigrette",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Pea Orzotto",
+        "book": "How to Eat"
+      },
+      {
         "title": "Shaved asparagus & arugula salad",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Petits Pois à la Française",
+        "book": "How to Eat"
       },
       {
         "title": "Artichoke, pea & fava bean salad",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Rhubarb, Muscat, and Mascarpone Trifle",
+        "book": "How to Eat"
+      },
+      {
         "title": "Asparagus with lemon-butter sauce",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Rhubarb and Muscat Jelly",
+        "book": "How to Eat"
       },
       {
         "title": "Roasted asparagus",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Butterflied Leg of Lamb with Garlic Potatoes",
+        "book": "How to Eat"
+      },
+      {
         "title": "Asparagus on pasta with a poached egg & lemon butter",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Cinnamon-Hot Rack of Lamb",
+        "book": "How to Eat"
       },
       {
         "title": "Raviolini with fava beans & parmigiano",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Lamb and Bean Braise",
+        "book": "How to Eat"
+      },
+      {
         "title": "Spinach tagliatelle & peas in golden chicken broth",
         "book": "Canal House Cooks Every Day"
       },
       {
+        "title": "Little Gems with Green Goddess Dressing",
+        "book": "How to Eat"
+      },
+      {
         "title": "Pappardelle with peas & scallions bathed in cream",
         "book": "Canal House Cooks Every Day"
+      },
+      {
+        "title": "Sage and Onion Lentils",
+        "book": "How to Eat"
       },
       {
         "title": "Poached wild salmon with fresh english peas & morels",
@@ -1533,58 +1585,6 @@
       {
         "title": "Roasted rhubarb",
         "book": "Canal House Cooks Every Day"
-      },
-      {
-        "title": "Pea Risotto",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Pea Soufflé",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Pea Orzotto",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Petits Pois à la Française",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Rhubarb, Muscat, and Mascarpone Trifle",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Rhubarb and Muscat Jelly",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Butterflied Leg of Lamb with Garlic Potatoes",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Cinnamon-Hot Rack of Lamb",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Lamb and Bean Braise",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Little Gems with Green Goddess Dressing",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Sage and Onion Lentils",
-        "book": "How to Eat"
-      },
-      {
-        "title": "Chicken, Asparagus, and Avocado Sandwich",
-        "book": "Eat"
-      },
-      {
-        "title": "Lamb Chops with Mustard Seed and Coconut",
-        "book": "Eat"
       }
     ]
   }
