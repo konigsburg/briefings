@@ -1,18 +1,23 @@
 {
   "date": "Tuesday, August 18, 2026",
-  "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "Open on the calendar, a prep day before a heavy medical stretch.",
-  "greeting": "Nothing's on the calendar today, Dan, which lands well: Wednesday brings two hospital appointments and Thursday is Mike's oral surgery. The girls are with Jen, so the day is clear to get ahead of the logistics.",
+  "generatedAt": "Morning brief · 10:03 PM ET",
+  "theme": "An open day before a full Wednesday.",
+  "greeting": "The calendar is clear today, Dan — nothing scheduled at all. A good window to clear Mike's surgery prep and get back to Eugenia before tomorrow fills up with scans and an evening call.",
   "needsAttention": [
     {
-      "tag": "Surgery prep",
-      "title": "Lock Mike's driver and confirm coverage",
-      "detail": "Mike's oral surgery is Thursday in Portland; today's items on the prep list are a confirmed driver both ways and what insurance covers. The task has been open since Aug 14."
+      "tag": "Awaiting reply",
+      "title": "Pick a time with Eugenia on PRI",
+      "detail": "On the PRI thread, Eugenia has sent call times — Thursday among them — and is waiting for you to confirm which one works. It has been sitting since Aug 14."
     },
     {
-      "tag": "Owe a reply",
-      "title": "Eugenia's PRI times are waiting",
-      "detail": "She replied on Aug 14 with slots to talk and hasn't heard back; the Monday option has already passed, so a new time is needed."
+      "tag": "Window closing",
+      "title": "Finish Mike's surgery prep",
+      "detail": "Mike's oral surgery is Thursday in Portland. The prep task is overdue: fill the prescriptions, stock soft food, and confirm the driver and coverage before then."
+    },
+    {
+      "tag": "Prep for tomorrow",
+      "title": "Ready for the Jomon call",
+      "detail": "Your Zoom with Jomon Associates is confirmed for 8 PM tomorrow (morning in Tokyo). Worth arriving with a few talking points in hand."
     }
   ],
   "schedule": [],
@@ -20,19 +25,24 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn message from Peter",
-        "detail": "A new LinkedIn message is waiting for a reply, worth a look given the active search."
+        "title": "Connection request from Mastercard's policy chief",
+        "detail": "A LinkedIn invitation from Tucker, Chief Government Affairs & Policy Officer at Mastercard, is waiting on your response — a strong governance and policy contact."
+      },
+      {
+        "tag": "Job search",
+        "title": "Peter's LinkedIn message",
+        "detail": "A LinkedIn message from Peter is sitting unanswered from Aug 17."
       }
     ],
-    "noise": "The rest is a Fog Linen welcome and your daily Japanese lesson.",
-    "clear": "The Flora reservation thread with Susan is already handled."
+    "noise": "The rest is promotional: a French tutoring pitch, a Fog Linen welcome, and your own daily Japanese lesson.",
+    "clear": "The Flora dinner thread with Susan is wrapped — you already replied and thanked her."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Portland, Maine",
-    "confidence": "high",
+    "confidence": "low",
     "asOf": "Tuesday Aug 18"
   },
   "recipe": {
@@ -54,29 +64,29 @@
       "overdue": true
     },
     {
-      "title": "Start new book, first 50 pages",
+      "title": "Start new book — first 50 pages",
       "project": "Inbox",
       "due": "Overdue Aug 17",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "3/3",
-    "evening": "4/4"
+    "morning": "10/10",
+    "day": "0/3",
+    "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning to close out the surgery-prep logistics: driver, insurance, prescriptions, and soft food."
+      "line": "No meetings on the calendar — the morning is entirely open."
     },
     {
       "time": "Afternoon",
-      "line": "Room to reply to Eugenia and chip at the overdue Professional Projects edit."
+      "line": "Still clear through the afternoon, a rare stretch of unclaimed time."
     },
     {
       "time": "Evening",
-      "line": "Set up for a stacked Wednesday: a throat ultrasound at 9:30, a brain MRI at 3:30, then an 8 PM Tokyo call with Jomon."
+      "line": "A quiet night before tomorrow fills up with Mike's two scans and the Tokyo call."
     }
   ],
   "japanese": {
