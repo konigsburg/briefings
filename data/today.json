@@ -1,84 +1,78 @@
 {
   "date": "Wednesday, August 19, 2026",
   "generatedAt": "Morning brief · 6:04 PM ET",
-  "theme": "A caregiving day around Mike's scans, closing with a late call to Tokyo.",
-  "greeting": "Most of today orbits Mike — the throat ultrasound is behind you and the brain MRI is this afternoon, with tomorrow's surgery to prep for. A haircut and an 8pm call with Jomon in Tokyo round out the edges.",
+  "theme": "A caregiving day, with one call to Tokyo.",
+  "greeting": "Most of today belongs to getting Mike through his scans and set for tomorrow's surgery, Dan. One evening call lands in Tokyo's morning, then a calm run-up to Portland.",
   "needsAttention": [
     {
-      "tag": "Prep for tomorrow",
-      "title": "Last calls before Mike's surgery",
-      "detail": "Oral surgery is tomorrow in Portland, so today is the day to fill the prescriptions, stock soft food and ice packs, and lock the ride home. The prep task in Personal Tasks has been sitting since Aug 14."
+      "tag": "Closing today",
+      "title": "Last items before Mike's surgery",
+      "detail": "Oral surgery is tomorrow in Portland, so today's window is filling the prescriptions, stocking soft food, and grabbing ice packs and gauze. You're also his ride home afterward."
     },
     {
       "tag": "Reply owed",
-      "title": "RSVP to the NACD New England reception",
-      "detail": "Lisa at NACD New England asked you to reply about the Sept 15 Appreciation Reception — exactly the kind of room worth being in for the board search."
+      "title": "Pick a time with Eugenia on the PRI",
+      "detail": "She offered call slots last week and hasn't heard back; the times she gave have mostly slipped by, so it's worth proposing a fresh one."
+    },
+    {
+      "tag": "Prep for tomorrow",
+      "title": "IMC research call with Chie and Mike",
+      "detail": "Tomorrow night's call is about the next stage of the research; good to arrive with a view on Chie's idea of pulling actors beyond asset managers into the stewardship conversation."
     }
   ],
   "schedule": [
     {
       "time": "9:30 AM",
       "title": "Mike's throat ultrasound",
-      "detail": "50 Foden Rd — done this morning",
+      "detail": "50 Foden Rd",
       "tag": "Health"
     },
     {
       "time": "3:30 PM",
       "title": "Brain MRI",
-      "detail": "400 Technology Way, with Mike",
+      "detail": "400 Technology Way",
       "tag": "Health"
     },
     {
       "time": "5:00 PM",
       "title": "Haircut",
-      "detail": "quick personal stop",
+      "detail": "",
       "tag": "Personal"
     },
     {
       "time": "8:00 PM",
       "title": "Jomon Associates call",
-      "detail": "Zoom to Tokyo — morning of Aug 20 there",
-      "tag": "Work"
+      "detail": "Zoom; Tokyo morning",
+      "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Amra at BlackRock wrote back",
-        "detail": "She replied warmly to your Sustainalytics note and asked after the summer — worth closing the loop while it's warm."
+        "title": "NACD New England reception RSVP",
+        "detail": "NACD New England asked you to reply about their Sept 15 Appreciation Reception."
       },
       {
         "tag": "Job search",
-        "title": "VP, Government Relations role posted",
-        "detail": "A LinkedIn alert flagged a stealth VP of Government Relations & Public Policy opening in your lane."
+        "title": "New public-policy VP role posted",
+        "detail": "A LinkedIn alert flagged a stealth VP, Government Relations & Public Policy opening from 8/17."
       },
       {
-        "tag": "FYI",
-        "title": "Maine ferry tickets confirmed",
-        "detail": "Your Maine State Ferry reservation to Vinalhaven came through."
+        "tag": "Financial",
+        "title": "Morgan Stanley corporate action",
+        "detail": "A voluntary corporate action notice is posted for your Morgan Stanley Private Markets holding."
       }
     ],
-    "noise": "The rest is newsletters and promos — Responsible Investor, NYT Cooking, BoatUS, Amex, and a few Maine locals.",
-    "clear": "Nothing hostile in the inbox; no security or account issues needing you."
+    "noise": "Schoolhouse, Amex, Apple Card, Midcoast Villager and a couple of newsletters — nothing that needs you.",
+    "clear": "Amra wrote back warmly on the Sustainalytics question; a friendly reply when you have a minute."
   },
-  "resolved": [
-    {
-      "tag": "Paid",
-      "title": "Bunkers invoice settled",
-      "detail": "You paid the $412 Bunkers invoice to Shelby this morning and QuickBooks confirmed it — done."
-    },
-    {
-      "tag": "Replied",
-      "title": "School follow-up handed back to Mike",
-      "detail": "You wrote back on the Karla Reynolds note asking to confirm the details with Nora; the ball's in Mike's court now."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Portland, Maine",
-    "confidence": "high",
+    "location": "Maine",
+    "confidence": "low",
     "asOf": "Wednesday Aug 19"
   },
   "recipe": {
@@ -88,15 +82,15 @@
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Organize small bags for travel",
+      "project": "Personal",
+      "due": "Overdue Aug 17",
       "overdue": true
     },
     {
-      "title": "Organize small bags for travel",
-      "project": "Personal Tasks",
-      "due": "Overdue Aug 17",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -108,15 +102,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The throat ultrasound with Mike at 9:30 is already behind you."
+      "line": "Mike's throat ultrasound at 9:30 opens a day built around his care."
     },
     {
       "time": "Afternoon",
-      "line": "A 3:30 brain MRI, then a 5 o'clock haircut before the day turns."
+      "line": "A brain MRI at 3:30 and a haircut after keep the medical run going before things ease."
     },
     {
       "time": "Evening",
-      "line": "An 8pm call with Jomon Associates catches Tokyo's Thursday morning."
+      "line": "An 8 o'clock Jomon call meets Tokyo's morning, then a quiet lead-in to Portland."
     }
   ],
   "japanese": {
