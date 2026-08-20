@@ -1,43 +1,43 @@
 {
   "date": "Thursday, August 20, 2026",
   "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "A care day, bookended by a late call.",
-  "greeting": "Today bends around Mike's oral surgery in Portland - the drive up, the wait, the ride home while he's still sedated. The one work marker is a nine o'clock call with Chie and Mike on the IMC research.",
+  "theme": "A caretaking day in Portland, with one call after dark.",
+  "greeting": "You're in Portland anchoring Mike through his oral surgery today, so the shape is caretaking, not calendar. The only thing on the far side of the day is a 9 PM call with Chie about the next stage of the IMC research.",
   "needsAttention": [
     {
-      "tag": "Care day",
-      "title": "Get Mike home after surgery",
-      "detail": "Mike's oral surgery is in Portland today, and he can't drive once he's sedated, so the ride home falls to you."
+      "tag": "Care today",
+      "title": "Mike's ride home and recovery",
+      "detail": "His oral surgery is in Portland today and he can't drive after the sedation — the day is blocked for the ride back and soft-food recovery."
     },
     {
-      "tag": "Tonight, prep",
-      "title": "Shape the IMC research next stage",
-      "detail": "You, Mike, and Chie meet at nine tonight on where the IMC research goes next; arrive with a clear view of what that stage should cover."
+      "tag": "Prep tonight",
+      "title": "Next stage of the IMC research",
+      "detail": "You, Chie and Mike meet at 9 PM on Teams to scope what comes next — worth arriving with a view on priorities."
     }
   ],
   "schedule": [
     {
       "time": "All day",
       "title": "Mike's oral surgery",
-      "detail": "Portland, Maine - sedation, needs a ride home",
-      "tag": "care"
+      "detail": "Portland — day blocked for the ride home",
+      "tag": "Care"
     },
     {
       "time": "10:00 AM",
       "title": "Haircut",
-      "detail": "",
-      "tag": "personal"
+      "detail": "Portland",
+      "tag": "Personal"
     },
     {
       "time": "9:00 PM",
-      "title": "IMC research call",
-      "detail": "With Chie and Mike, on Teams",
-      "tag": "call"
+      "title": "IMC research with Chie & Mike",
+      "detail": "Teams — next stage",
+      "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [],
-    "noise": "Just newsletters and shop alerts - NYT, Netflix, Chairish, Expedia.",
+    "noise": "The inbox is all newsletters and promos today — Amtrak, NYT Cooking, and a few travel and sailing lists.",
     "clear": "Nothing is waiting on your reply."
   },
   "resolved": [],
@@ -65,25 +65,31 @@
       "project": "Inbox",
       "due": "Overdue Aug 17",
       "overdue": true
+    },
+    {
+      "title": "Mike's oral surgery prep",
+      "project": "Personal Tasks",
+      "due": "Overdue Aug 14",
+      "overdue": true
     }
   ],
   "routines": {
     "morning": "0/4",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A ten o'clock haircut, then the drive to Portland for Mike's surgery."
+      "line": "A 10 o'clock haircut, then over to the surgery in Portland to get Mike through it."
     },
     {
       "time": "Afternoon",
-      "line": "The hours after are recovery and the ride home - keep them soft and unhurried."
+      "line": "Recovery mode — soft food, ice on and off, and keeping the day deliberately light."
     },
     {
       "time": "Evening",
-      "line": "The day's only work sits at nine, once Mike is settled."
+      "line": "One 9 PM call with Chie and Mike to map the next stage of the IMC research."
     }
   ],
   "japanese": {
