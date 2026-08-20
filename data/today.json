@@ -1,37 +1,52 @@
 {
   "date": "Thursday, August 20, 2026",
   "generatedAt": "Morning brief · 12:05 PM ET",
-  "theme": "A day built around Mike's surgery.",
-  "greeting": "Most of today belongs to Mike — his oral surgery is in Portland and you're the ride home. A quick haircut first, then a late call with Chie on where the IMC research goes next.",
+  "theme": "Caretaker day — Mike's surgery, then a late Japan call.",
+  "greeting": "Portland day built around Mike's oral surgery — you're the driver and post-op backup. Haircut done, girls with Jen, Chie call runs late at 9 PM to catch Friday morning in Tokyo.",
   "needsAttention": [
     {
-      "tag": "Tonight's call",
-      "title": "Come ready on IMC's next stage",
-      "detail": "Tonight's 9 PM call with Chie and Mike picks up the plan to bring players beyond asset managers and owners into the stewardship work — worth arriving with a few thoughts."
+      "tag": "Post-op care",
+      "title": "Mike's oral surgery today",
+      "detail": "Portland, ME. He'll need the ride home and can't drive after sedation; soft food, meds, and no straws through tomorrow. Aug 21 is his recovery day."
     },
     {
-      "tag": "Job search",
-      "title": "Amra's in New York in September",
-      "detail": "Amra Balic replied that she'll be in NYC Sep 5-11 and would love to catch up in person; she's waiting to hear if you're around."
+      "tag": "Reply — networking",
+      "title": "Amra Balic (BlackRock) in NYC Sept 5–11",
+      "detail": "She replied this morning proposing to meet in person. Worth a same-day reply to lock a slot — high-signal contact for your governance/board search."
+    },
+    {
+      "tag": "Reply — Valoris",
+      "title": "Marc Steindl call request",
+      "detail": "Mike suggested Marc get in touch with you before the group continues. Reply to schedule — this connects to the IMC/Valoris thread you're already in."
+    },
+    {
+      "tag": "Reply — sailing",
+      "title": "Nautilus books — send FL address",
+      "detail": "Amy is waiting on your Florida address to redirect the ASA textbooks now that dispatch is delayed. One-line reply unblocks her."
+    },
+    {
+      "tag": "RSVP",
+      "title": "NACD New England Reception, Sept 15",
+      "detail": "Lisa Ravetto asked for a kind reply. Directly relevant to your board-seat pipeline — worth attending unless calendar conflicts."
     }
   ],
   "schedule": [
     {
       "time": "All day",
       "title": "Mike's oral surgery",
-      "detail": "Portland, ME — you're driving him home",
+      "detail": "Portland, ME — you're driving and staying with him post-op.",
       "tag": "Care"
     },
     {
       "time": "10:00 AM",
-      "title": "Haircut",
-      "detail": "Portland",
-      "tag": "Personal"
+      "title": "Haircut — Dathan Hunter Salon",
+      "detail": "Done (receipt at 10:40 AM).",
+      "tag": "Done"
     },
     {
       "time": "9:00 PM",
-      "title": "IMC research call",
-      "detail": "Chie and Mike, via Teams",
+      "title": "Chie, Dan & Mike — next stage of IMC research",
+      "detail": "Teams call with Chie Mitsui (NRI). 10 AM Friday Tokyo. Mike organizing.",
       "tag": "Call"
     }
   ],
@@ -39,33 +54,48 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Mastercard policy chief wants to connect",
-        "detail": "A LinkedIn invite from Tucker, Mastercard's chief government affairs & policy officer, is waiting on your response."
+        "title": "Marc Steindl (Valoris) — call request",
+        "detail": "Warm intro through Mike; wants to speak before the group continues. Reply today."
       },
       {
         "tag": "Job search",
-        "title": "NACD New England reception, Sept 15",
-        "detail": "They asked you to RSVP for the appreciation reception."
+        "title": "Amra Balic (BlackRock) — NYC Sept 5–11",
+        "detail": "Proposing an in-person catch-up. Lock a slot; she's a strong governance connection."
       },
       {
-        "tag": "Health",
-        "title": "MaineHealth updated your Sep 3 estimate",
-        "detail": "Your visit estimate changed after new benefit info from your insurer."
+        "tag": "Job search",
+        "title": "LinkedIn — Head of Policy, North America at Chainalysis",
+        "detail": "Fits the crypto/policy adjacency of your background. Worth a look, not urgent."
+      },
+      {
+        "tag": "Job search",
+        "title": "LinkedIn — Tucker (CGAPO, Mastercard) wants to connect",
+        "detail": "Accept and follow with a short note; Mastercard gov affairs is right in your lane."
       },
       {
         "tag": "FYI",
-        "title": "Amy needs your Florida address",
-        "detail": "Nautilus is waiting on it to ship the sailing textbooks; she cc'd Mike."
+        "title": "NACD New England Reception, Sept 15",
+        "detail": "RSVP requested — good room for your board search."
+      },
+      {
+        "tag": "Health",
+        "title": "MaineHealth — estimate updated for Sep 3 visit",
+        "detail": "Insurance benefit info changed; check the new amount when you have a moment."
+      },
+      {
+        "tag": "FYI",
+        "title": "UPS — Amazon package arrives Fri 8/21, 2:30–4:30 PM",
+        "detail": "369 Danforth St, Portland — you'll be home post-recovery."
       }
     ],
-    "noise": "Retail promos (OXO, John Derian, Moo), a Nextdoor rant, and LinkedIn job digests — nothing that needs you.",
-    "clear": ""
+    "noise": "Heavy retail and newsletters (Folio, Schoolhouse, OXO, John Derian, Tom's Studio, Freaks of Nature, Lumosity, Nextdoor, Talkiatry).",
+    "clear": "No security or account alerts today."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Portland, Maine",
+    "location": "Portland, ME",
     "confidence": "high",
     "asOf": "Thursday Aug 20"
   },
@@ -76,20 +106,14 @@
   },
   "tasks": [
     {
-      "title": "Mike's oral surgery prep",
-      "project": "Personal Tasks",
-      "due": "Overdue Aug 14",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Content/Travel",
       "due": "Overdue Aug 15",
       "overdue": true
     },
     {
       "title": "Organize small bags for travel",
-      "project": "Inbox",
+      "project": "Travel",
       "due": "Overdue Aug 17",
       "overdue": true
     }
@@ -101,16 +125,16 @@
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "A 10:00 haircut, then Mike's oral surgery in Portland — you're the one driving him home once the sedation lifts."
-    },
-    {
       "time": "Afternoon",
-      "line": "Held open for recovery: soft food, ice on and off, nothing that needs Mike upright."
+      "line": "Get Mike settled with soft food and meds on hand — protect his rest window before the 9 PM call."
     },
     {
-      "time": "9:00 PM",
-      "line": "You, Mike and Chie pick up the next stage of the IMC research over Teams."
+      "time": "Late afternoon",
+      "line": "Send the three short replies — Amra, Marc Steindl, and Amy at Nautilus. Ten minutes, three doors opened."
+    },
+    {
+      "time": "Evening",
+      "line": "Skim the IMC thread before 9 PM so you and Mike show up aligned with Chie."
     }
   ],
   "japanese": {
