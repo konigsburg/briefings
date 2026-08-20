@@ -1,54 +1,64 @@
 {
   "date": "Thursday, August 20, 2026",
   "generatedAt": "Morning brief · 10:05 AM ET",
-  "theme": "Mike's surgery day in Portland — a haircut first, a late call to close.",
-  "greeting": "Today is built around Mike's oral surgery in Portland, Dan — you're driving him home, since he can't drive after the sedation. A 10 o'clock haircut before, and a 9 PM IMC call with Chie and Mike to finish. The girls are with Jen.",
+  "theme": "A day built around Mike's surgery.",
+  "greeting": "Most of today belongs to Mike — his oral surgery is in Portland and you're the ride home. A quick haircut first, then a late call with Chie on where the IMC research goes next.",
   "needsAttention": [
     {
-      "tag": "Today · family",
-      "title": "Mike's oral surgery — you're his ride",
-      "detail": "Surgery is today in Portland, ME. He can't drive after sedation, so you're taking him home; have the prescriptions, soft food, and ice packs ready."
+      "tag": "Tonight's call",
+      "title": "Come ready on IMC's next stage",
+      "detail": "Tonight's 9 PM call with Chie and Mike picks up the plan to bring players beyond asset managers and owners into the stewardship work — worth arriving with a few thoughts."
     },
     {
-      "tag": "Tonight · call",
-      "title": "IMC research call, 9 PM",
-      "detail": "Teams with Mike and Chie on the next stage of the IMC research — a skim of the StePs thread beforehand will help."
+      "tag": "Job search",
+      "title": "Amra's in New York in September",
+      "detail": "Amra Balic replied that she'll be in NYC Sep 5-11 and would love to catch up in person; she's waiting to hear if you're around."
     }
   ],
   "schedule": [
     {
-      "time": "10:00 AM",
-      "title": "Haircut",
-      "detail": "",
-      "tag": "personal"
-    },
-    {
       "time": "All day",
       "title": "Mike's oral surgery",
-      "detail": "Portland, ME — you're driving him home; no driving after sedation.",
-      "tag": "health"
+      "detail": "Portland, ME — you're driving him home",
+      "tag": "Care"
+    },
+    {
+      "time": "10:00 AM",
+      "title": "Haircut",
+      "detail": "Portland",
+      "tag": "Personal"
     },
     {
       "time": "9:00 PM",
       "title": "IMC research call",
-      "detail": "Teams — Chie, Dan and Mike, next stage of the IMC research.",
-      "tag": "call"
+      "detail": "Chie and Mike, via Teams",
+      "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "NACD New England reception",
-        "detail": "NACD New England asks you to RSVP for the Sept 15 appreciation reception."
+        "title": "Mastercard policy chief wants to connect",
+        "detail": "A LinkedIn invite from Tucker, Mastercard's chief government affairs & policy officer, is waiting on your response."
       },
       {
         "tag": "Job search",
-        "title": "New LinkedIn message from Peter",
-        "detail": "A message is waiting for your reply on LinkedIn."
+        "title": "NACD New England reception, Sept 15",
+        "detail": "They asked you to RSVP for the appreciation reception."
+      },
+      {
+        "tag": "Health",
+        "title": "MaineHealth updated your Sep 3 estimate",
+        "detail": "Your visit estimate changed after new benefit info from your insurer."
+      },
+      {
+        "tag": "FYI",
+        "title": "Amy needs your Florida address",
+        "detail": "Nautilus is waiting on it to ship the sailing textbooks; she cc'd Mike."
       }
     ],
-    "noise": "The rest is receipts, job alerts, and your own daily Japanese lessons.",
+    "noise": "Retail promos (OXO, John Derian, Moo), a Nextdoor rant, and LinkedIn job digests — nothing that needs you.",
     "clear": ""
   },
   "resolved": [],
@@ -57,7 +67,7 @@
     "phase": "green",
     "location": "Portland, Maine",
     "confidence": "high",
-    "asOf": "Thu Aug 20"
+    "asOf": "Thursday Aug 20"
   },
   "recipe": {
     "title": "The splendid summer tomato sandwich",
@@ -65,6 +75,12 @@
     "why": "Peak-season tomatoes are at their best right now, so a simple sandwich lets them carry the whole plate."
   },
   "tasks": [
+    {
+      "title": "Mike's oral surgery prep",
+      "project": "Personal Tasks",
+      "due": "Overdue Aug 14",
+      "overdue": true
+    },
     {
       "title": "Destination edit work",
       "project": "Professional Projects",
@@ -86,15 +102,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A 10:00 haircut, then over to Portland for Mike's surgery."
+      "line": "A 10:00 haircut, then Mike's oral surgery in Portland — you're the one driving him home once the sedation lifts."
     },
     {
-      "time": "Daytime",
-      "line": "Mike's oral surgery in Portland — you're his ride home; no driving after the sedation."
+      "time": "Afternoon",
+      "line": "Held open for recovery: soft food, ice on and off, nothing that needs Mike upright."
     },
     {
-      "time": "Evening",
-      "line": "9:00 PM Teams call with Chie and Mike on the next stage of the IMC research."
+      "time": "9:00 PM",
+      "line": "You, Mike and Chie pick up the next stage of the IMC research over Teams."
     }
   ],
   "japanese": {
