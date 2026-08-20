@@ -274,6 +274,7 @@ function buildActs(sched){var b={m:[],a:[],e:[]};(sched||[]).forEach(function(ev
   return [{time:'Morning',line:line(b.m,'Clear until midday.')},{time:'Afternoon',line:line(b.a,'Open through the afternoon.')},{time:'Evening',line:line(b.e,'The evening is yours.')}];}
 function acts(t){var A=(Array.isArray(t.acts)&&t.acts.length)?t.acts:buildActs(t.schedule);return '<div class="acts">'+A.slice(0,3).map(function(a){return '<div class="act"><div class="time">'+esc(a.time)+'</div><div class="line">'+esc(a.line)+'</div></div>';}).join('')+'</div>';}
 function itemsList(arr){return (arr||[]).map(function(x,i){return '<div class="item"><div class="num">'+(i+1)+'</div><div class="body">'+(x.tag?'<div class="kick">'+esc(x.tag)+'</div>':'')+'<div class="t">'+esc(x.title)+'</div><div class="s">'+esc(x.detail)+'</div></div></div>';}).join('');}
+const BOOK_AUTHORS={"How to Eat":"Nigella Lawson","Forever Summer":"Nigella Lawson","Canal House Cooks Every Day":"Hamilton & Hirsheimer","Eat":"Nigel Slater","The Kitchen Diaries":"Nigel Slater","The Kitchen Diaries II":"Nigel Slater","Notes from the Larder":"Nigel Slater","A Cook's Book":"Nigel Slater","The Christmas Chronicles":"Nigel Slater","My Kitchen Year":"Ruth Reichl"};
 function renderToday(){
   const t=DATA.today||{};
   const na=itemsList(t.needsAttention);
@@ -282,7 +283,7 @@ function renderToday(){
   const rr=t.routines||null;
   const rtline=rr?'<div class="routines">Daily routines · Morning '+esc(rr.morning||'–')+' · Day '+esc(rr.day||'–')+' · Evening '+esc(rr.evening||'–')+'</div>':'';
   const tasksBlock=(tk||rtline)?'<div class="section-h">Today&#39;s tasks</div>'+(tk||'<div class="item"><div class="num">·</div><div class="body"><div class="s">Nothing outstanding beyond your routines.</div></div></div>')+rtline:'';
-  const rc=t.recipe?'<div class="section-h">Tonight&#39;s recipe</div><div class="item"><div class="num">☼</div><div class="body">'+(t.recipe.book?'<div class="kick">'+esc(t.recipe.book)+'</div>':'')+'<div class="t">'+esc(t.recipe.title||'')+'</div>'+(t.recipe.why?'<div class="s">'+esc(t.recipe.why)+'</div>':'')+'</div></div>':'';
+  const rc=t.recipe?'<div class="section-h">Tonight&#39;s recipe</div><div class="item"><div class="num">☼</div><div class="body">'+(t.recipe.book?'<div class="kick">'+esc(t.recipe.book)+((t.recipe.author||BOOK_AUTHORS[t.recipe.book])?' · '+esc(t.recipe.author||BOOK_AUTHORS[t.recipe.book]):'')+'</div>':'')+'<div class="t">'+esc(t.recipe.title||'')+'</div>'+(t.recipe.why?'<div class="s">'+esc(t.recipe.why)+'</div>':'')+'</div></div>':'';
   const resolved=(t.resolved||[]).length?'<div class="section-h">Resolved</div>'+(t.resolved||[]).map(function(x,i){return '<div class="item"><div class="num">'+(i+1)+'</div><div class="body"><div class="s">'+esc(x)+'</div></div></div>';}).join(''):'';
   const inbox='<div class="section-h">Inbox</div>'+(flagged||'<div class="item"><div class="num">·</div><div class="body"><div class="s">Nothing flagged.</div></div></div>')+(t.inbox&&t.inbox.noise?'<div class="noise">'+esc(t.inbox.noise)+'</div>':'')+(t.inbox&&t.inbox.clear?'<div class="clear">✓ '+esc(t.inbox.clear)+'</div>':'');
   const tiles='<div class="section-h">Your briefings</div><div class="sections">'
