@@ -1,44 +1,38 @@
 {
   "date": "Thursday, August 20, 2026",
-  "generatedAt": "Morning brief · 6:05 AM ET",
-  "theme": "Mike's care today, Tokyo on the line tonight.",
-  "greeting": "Good morning, Dan. Today bends toward Mike — two appointments and surgery prep for tomorrow — with a late Zoom to Tokyo to close it out.",
+  "generatedAt": "Morning brief · 6:23 AM ET",
+  "theme": "Mike's surgery day in Portland — a haircut first, a late call to close.",
+  "greeting": "Today is built around Mike's oral surgery in Portland, Dan — you're driving him home, since he can't drive after the sedation. A 10 o'clock haircut before, and a 9 PM IMC call with Chie and Mike to finish. The girls are with Jen.",
   "needsAttention": [
     {
-      "tag": "Surgery prep",
-      "title": "Mike's oral surgery is tomorrow",
-      "detail": "Surgery is Thursday in Portland. Tonight's list is prescriptions, soft food, and ice packs, and you're his ride home since he can't drive after sedation."
+      "tag": "Today · family",
+      "title": "Mike's oral surgery — you're his ride",
+      "detail": "Surgery is today in Portland, ME. He can't drive after sedation, so you're taking him home; have the prescriptions, soft food, and ice packs ready."
     },
     {
-      "tag": "Prep for call",
-      "title": "IMC research call tomorrow night",
-      "detail": "You, Mike and Chie meet on Teams at 9 PM tomorrow on the next stage of the IMC research; a skim of the StePs thread beforehand will help."
+      "tag": "Tonight · call",
+      "title": "IMC research call, 9 PM",
+      "detail": "Teams with Mike and Chie on the next stage of the IMC research — a skim of the StePs thread beforehand will help."
     }
   ],
   "schedule": [
     {
-      "time": "9:30 AM",
-      "title": "Mike's throat ultrasound",
-      "detail": "50 Foden Rd",
-      "tag": "Health"
-    },
-    {
-      "time": "3:30 PM",
-      "title": "Brain MRI",
-      "detail": "400 Technology Way",
-      "tag": "Health"
-    },
-    {
-      "time": "5:00 PM",
+      "time": "10:00 AM",
       "title": "Haircut",
       "detail": "",
-      "tag": "Personal"
+      "tag": "personal"
     },
     {
-      "time": "8:00 PM",
-      "title": "Jomon Associates call",
-      "detail": "Zoom with Tokyo",
-      "tag": "Call"
+      "time": "All day",
+      "title": "Mike's oral surgery",
+      "detail": "Portland, ME — you're driving him home; no driving after sedation.",
+      "tag": "health"
+    },
+    {
+      "time": "9:00 PM",
+      "title": "IMC research call",
+      "detail": "Teams — Chie, Dan and Mike, next stage of the IMC research.",
+      "tag": "call"
     }
   ],
   "inbox": {
@@ -63,7 +57,7 @@
     "phase": "green",
     "location": "Portland, Maine",
     "confidence": "high",
-    "asOf": "Wed Aug 19"
+    "asOf": "Thu Aug 20"
   },
   "recipe": {
     "title": "The splendid summer tomato sandwich",
@@ -92,15 +86,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Mike's 9:30 throat ultrasound on Foden Road opens the day."
+      "line": "A 10:00 haircut, then over to Portland for Mike's surgery."
     },
     {
-      "time": "Afternoon",
-      "line": "A 3:30 brain MRI on Technology Way, then a 5 o'clock haircut."
+      "time": "Daytime",
+      "line": "Mike's oral surgery in Portland — you're his ride home; no driving after the sedation."
     },
     {
       "time": "Evening",
-      "line": "An 8 o'clock Zoom with Jomon Associates in Tokyo closes things out."
+      "line": "9:00 PM Teams call with Chie and Mike on the next stage of the IMC research."
     }
   ],
   "japanese": {
