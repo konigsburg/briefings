@@ -1,44 +1,60 @@
 {
   "date": "Thursday, August 20, 2026",
   "generatedAt": "Morning brief · 6:04 PM ET",
-  "theme": "A caretaking day in Portland, with one call after dark.",
-  "greeting": "You're in Portland anchoring Mike through his oral surgery today, so the shape is caretaking, not calendar. The only thing on the far side of the day is a 9 PM call with Chie about the next stage of the IMC research.",
+  "theme": "A caretaking day, one call to close it.",
+  "greeting": "Today belongs to Mike -- surgery in Portland, then getting him home to recover. The only work is a single call late tonight.",
   "needsAttention": [
     {
-      "tag": "Care today",
-      "title": "Mike's ride home and recovery",
-      "detail": "His oral surgery is in Portland today and he can't drive after the sedation — the day is blocked for the ride back and soft-food recovery."
+      "tag": "Job search",
+      "title": "Martin at Valoris wants a call",
+      "detail": "He wrote this afternoon hoping you two can get to know each other given your interest in joining the firm, and floated Aug 25 or 27 -- he's waiting on a time from you."
     },
     {
-      "tag": "Prep tonight",
-      "title": "Next stage of the IMC research",
-      "detail": "You, Chie and Mike meet at 9 PM on Teams to scope what comes next — worth arriving with a view on priorities."
+      "tag": "Awaiting reply",
+      "title": "Amra will be in New York",
+      "detail": "She answered your Sustainalytics question and mentioned she's in NYC September 5-11 and would love to meet in person -- the ball is with you."
     }
   ],
   "schedule": [
     {
       "time": "All day",
       "title": "Mike's oral surgery",
-      "detail": "Portland — day blocked for the ride home",
+      "detail": "Portland -- you're driving him home after sedation",
       "tag": "Care"
     },
     {
       "time": "10:00 AM",
       "title": "Haircut",
-      "detail": "Portland",
+      "detail": "",
       "tag": "Personal"
     },
     {
       "time": "9:00 PM",
-      "title": "IMC research with Chie & Mike",
-      "detail": "Teams — next stage",
-      "tag": "Call"
+      "title": "IMC research call",
+      "detail": "With Chie and Mike, on Teams",
+      "tag": "Work"
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "The inbox is all newsletters and promos today — Amtrak, NYT Cooking, and a few travel and sailing lists.",
-    "clear": "Nothing is waiting on your reply."
+    "flagged": [
+      {
+        "tag": "Job search",
+        "title": "A LinkedIn note from Mastercard",
+        "detail": "Mastercard's chief government affairs officer sent a connection request."
+      },
+      {
+        "tag": "Job search",
+        "title": "NACD reception on Sept 15",
+        "detail": "The New England chapter asked you to RSVP for their September 15 appreciation reception."
+      },
+      {
+        "tag": "Health",
+        "title": "MaineHealth revised an estimate",
+        "detail": "The cost estimate for your September 3 visit changed after an insurance update."
+      }
+    ],
+    "noise": "The rest is quiet -- a Venmo summary, LinkedIn job digests, a Maine ferry confirmation, and an Evite reunion thread.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -65,31 +81,25 @@
       "project": "Inbox",
       "due": "Overdue Aug 17",
       "overdue": true
-    },
-    {
-      "title": "Mike's oral surgery prep",
-      "project": "Personal Tasks",
-      "due": "Overdue Aug 14",
-      "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/4",
+    "morning": "6/10",
     "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A 10 o'clock haircut, then over to the surgery in Portland to get Mike through it."
+      "line": "A haircut at ten, then the drive to Portland for Mike's surgery."
     },
     {
       "time": "Afternoon",
-      "line": "Recovery mode — soft food, ice on and off, and keeping the day deliberately light."
+      "line": "The middle of the day is getting Mike home and settled -- he can't drive after the sedation."
     },
     {
       "time": "Evening",
-      "line": "One 9 PM call with Chie and Mike to map the next stage of the IMC research."
+      "line": "One call at nine with Chie and Mike on the next stage of the research, then quiet."
     }
   ],
   "japanese": {
