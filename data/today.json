@@ -1,23 +1,18 @@
 {
   "date": "Wednesday, August 19, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "Waiting rooms today, Portland tomorrow.",
-  "greeting": "Two of Mike's scans fill the day and a Tokyo call closes it, then an early start tomorrow for his surgery in Portland.",
+  "theme": "Mike's care today, Tokyo on the line tonight.",
+  "greeting": "Good morning, Dan. Today bends toward Mike — two appointments and surgery prep for tomorrow — with a late Zoom to Tokyo to close it out.",
   "needsAttention": [
     {
-      "tag": "Health, today",
-      "title": "Mike's surgery prep is due today",
-      "detail": "His oral surgery is tomorrow morning in Portland. Today is the window to fill prescriptions, stock soft food, and lay in ice packs; the prep checklist in Personal Tasks has been open since Aug 14."
+      "tag": "Surgery prep",
+      "title": "Mike's oral surgery is tomorrow",
+      "detail": "Surgery is Thursday in Portland. Tonight's list is prescriptions, soft food, and ice packs, and you're his ride home since he can't drive after sedation."
     },
     {
-      "tag": "Job search",
-      "title": "Eugenia is holding call times",
-      "detail": "Her Aug 14 note offered slots including Thursday and is waiting on a reply to lock one in. Worth closing before the windows pass."
-    },
-    {
-      "tag": "Prep, tomorrow",
-      "title": "The IMC research call wants a view",
-      "detail": "You, Mike and Chie discuss next-stage IMC research tomorrow at nine. Mike's StePs thread and the Sustainalytics note are the reading to arrive with."
+      "tag": "Prep for call",
+      "title": "IMC research call tomorrow night",
+      "detail": "You, Mike and Chie meet on Teams at 9 PM tomorrow on the next stage of the IMC research; a skim of the StePs thread beforehand will help."
     }
   ],
   "schedule": [
@@ -42,7 +37,7 @@
     {
       "time": "8:00 PM",
       "title": "Jomon Associates call",
-      "detail": "Tokyo team, over Zoom",
+      "detail": "Zoom with Tokyo",
       "tag": "Call"
     }
   ],
@@ -50,30 +45,25 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Mastercard's policy chief wants to connect",
-        "detail": "A LinkedIn invite from Tucker, Chief Government Affairs and Policy Officer at Mastercard, is waiting on you."
+        "title": "NACD New England reception",
+        "detail": "NACD New England asks you to RSVP for the Sept 15 appreciation reception."
       },
       {
         "tag": "Job search",
-        "title": "Peter messaged you on LinkedIn",
-        "detail": "A LinkedIn message from Peter is sitting unopened."
-      },
-      {
-        "tag": "FYI",
-        "title": "NACD New England reception, Sept 15",
-        "detail": "The New England chapter would like an RSVP for their appreciation reception."
+        "title": "New LinkedIn message from Peter",
+        "detail": "A message is waiting for your reply on LinkedIn."
       }
     ],
-    "noise": "Otherwise: Japanese lessons, job alerts, and travel confirmations for Dubrovnik and the Maine ferry.",
+    "noise": "The rest is receipts, job alerts, and your own daily Japanese lessons.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Maine",
+    "location": "Portland, Maine",
     "confidence": "high",
-    "asOf": "Wednesday Aug 19"
+    "asOf": "Wed Aug 19"
   },
   "recipe": {
     "title": "Baked Figs",
@@ -102,15 +92,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The day opened in a waiting room for Mike's throat ultrasound."
+      "line": "Mike's 9:30 throat ultrasound on Foden Road opens the day."
     },
     {
       "time": "Afternoon",
-      "line": "A brain MRI mid-afternoon, then a haircut to round off the errands."
+      "line": "A 3:30 brain MRI on Technology Way, then a 5 o'clock haircut."
     },
     {
       "time": "Evening",
-      "line": "The Jomon call from Tokyo lands at eight, with tomorrow's surgery just beyond it."
+      "line": "An 8 o'clock Zoom with Jomon Associates in Tokyo closes things out."
     }
   ],
   "japanese": {
