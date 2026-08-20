@@ -291,21 +291,20 @@ function renderToday(){
     +'<button class="sec-card cook" onclick="showTab(\'cooking\')"><span class="sec-ic">🍅</span><span class="sec-name">Cooking</span></button>'
     +'<button class="sec-card garden" onclick="showTab(\'garden\')"><span class="sec-ic">🌱</span><span class="sec-name">Gardening</span></button>'
     +'</div>';
+  var _md=function(x){if(!x)return null;var m={jan:0,feb:1,mar:2,apr:3,may:4,jun:5,jul:6,aug:7,sep:8,oct:9,nov:10,dec:11};var q=String(x).toLowerCase().match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\s+(\d{1,2})/);return q?(m[q[1]]+'-'+parseInt(q[2],10)):null;};
+  var _n=new Date(), _todayKey=_n.getMonth()+'-'+_n.getDate();
+  var dayFresh=(function(){var a=_md(t.context&&t.context.asOf);return a!==null&&a===_todayKey;})();
+  var topFresh='<div class="theme">'+esc(t.theme||'')+'</div>'+(t.greeting?'<div class="lede">'+esc(t.greeting)+'</div>':'')+terrain(t)+acts(t);
+  var topStale='<div class="theme">Today’s brief is refreshing…</div>'+terrain({});
+  var botFresh=tiles+(na?'<div class="section-h">Needs attention</div>'+na:'')+tasksBlock+rc+inbox+resolved;
+  var botStale=tiles+'<div class="section-h">Today</div><div class="card"><div class="s">Your schedule, needs-attention, and inbox are still updating for today — they’ll appear here shortly.</div></div>'+rc;
   document.getElementById('view-today').innerHTML=
     '<div class="tband">'
       +'<div class="daterow"><div class="d">'+esc(t.date||'')+'</div><div class="g">'+esc(t.generatedAt||'')+'</div></div>'
-      +'<div class="theme">'+esc(t.theme||'')+'</div>'
-      +(t.greeting?'<div class="lede">'+esc(t.greeting)+'</div>':'')
-      +terrain(t)
-      +acts(t)
+      +(dayFresh?topFresh:topStale)
     +'</div>'
     +'<div class="bband">'
-      +tiles
-      +(na?'<div class="section-h">Needs attention</div>'+na:'')
-      +tasksBlock
-      +rc
-      +inbox
-      +resolved
+      +(dayFresh?botFresh:botStale)
       +'<div class="foot">Alerts arrive through the Claude app; this icon is your reader.</div>'
     +'</div>';
 }
