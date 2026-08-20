@@ -1,100 +1,83 @@
 {
-  "lessonNo": 228,
-  "date": "Wednesday, Aug 19",
-  "generatedAt": "Lesson #228 · Aug 19",
-  "theme": "The 〜ば conditional — \"if...\" for advice and general rules",
-  "intro": "Meet 〜ば, the cousin of 〜たら — great for general truths, hypotheticals, and \"what should I do?\" phrases when asking a local for tips.",
+  "lessonNo": 229,
+  "date": "Thursday, Aug 20",
+  "generatedAt": "Lesson #229 · Aug 20",
+  "theme": "The 〜と conditional — automatic, natural consequences (\"whenever / if X, then Y\")",
+  "intro": "〜と links a condition to a result that always or automatically follows — ideal for directions and how things work.",
   "grammar": {
-    "title": "The 〜ば conditional",
+    "title": "The 〜と conditional",
     "rules": [
       {
-        "label": "る-verbs",
-        "detail": "drop る, add れば",
+        "label": "Verbs",
+        "detail": "plain non-past (dictionary) form + と",
         "examples": [
-          "食べる → 食べれば (if one eats)"
-        ]
-      },
-      {
-        "label": "う-verbs",
-        "detail": "change final -u to -e, then add ば",
-        "examples": [
-          "行く → 行けば (if one goes)",
-          "飲む → 飲めば (if one drinks)",
-          "話す → 話せば (if one speaks)"
+          "行く → 行くと (iku to) → if/when you go (行く → iku to (if you go))"
         ]
       },
       {
         "label": "い-adjectives",
-        "detail": "drop い, add ければ",
+        "detail": "い-adj + と",
         "examples": [
-          "安い → 安ければ (if cheap)",
-          "いい → よければ (if good)"
+          "安い → 安いと (yasui to) → if it's cheap"
         ]
       },
       {
         "label": "な-adj / nouns",
-        "detail": "use なら",
+        "detail": "add だ before と",
         "examples": [
-          "静か → 静かなら (if quiet)"
-        ]
-      },
-      {
-        "label": "Negative",
-        "detail": "〜ない → 〜なければ",
-        "examples": [
-          "行かない → 行かなければ (if one doesn't go)"
+          "静か → 静かだと (shizuka da to) → if it's quiet"
         ]
       }
     ],
-    "bigPoint": "When the main clause is a request or command (\"if..., please do X\"), Japanese usually prefers 〜たら over 〜ば. Advice/general result → 〜ば; \"if it happens, please do X\" → 〜たら."
+    "bigPoint": "The second clause can't be a command, request, invitation, or want — use 〜たら for those. 〜と is for facts, directions, and instructions only."
   },
   "vocab": [
     {
-      "jp": "押す（おす）",
-      "romaji": "osu",
-      "en": "to push"
+      "jp": "まっすぐ",
+      "romaji": "massugu",
+      "en": "straight ahead"
     },
     {
       "jp": "曲がる（まがる）",
       "romaji": "magaru",
-      "en": "to turn (a corner)"
+      "en": "to turn"
     },
     {
-      "jp": "予約する（よやくする）",
-      "romaji": "yoyaku suru",
-      "en": "to reserve / book"
+      "jp": "信号（しんごう）",
+      "romaji": "shingō",
+      "en": "traffic light"
     },
     {
-      "jp": "乗り換える（のりかえる）",
-      "romaji": "norikaeru",
-      "en": "to change / transfer (trains)"
+      "jp": "角（かど）",
+      "romaji": "kado",
+      "en": "corner"
     },
     {
-      "jp": "どうすれば",
-      "romaji": "dō sureba",
-      "en": "how / what should I do...?"
+      "jp": "見える（みえる）",
+      "romaji": "mieru",
+      "en": "to come into view / be visible"
+    },
+    {
+      "jp": "押す（おす）",
+      "romaji": "osu",
+      "en": "to push, to press"
     }
   ],
   "examples": [
     {
-      "jp": "安ければ、買います。",
-      "romaji": "Yasukereba, kaimasu.",
-      "en": "If it's cheap, I'll buy it."
+      "jp": "まっすぐ 行くと、右に えきが 見えます。",
+      "romaji": "Massugu iku to, migi ni eki ga miemasu.",
+      "en": "If you go straight, the station comes into view on the right."
     },
     {
-      "jp": "この道をまっすぐ行けば、駅があります。",
-      "romaji": "Kono michi o massugu ikeba, eki ga arimasu.",
-      "en": "If you go straight down this road, you'll find the station."
-    },
-    {
-      "jp": "どうすれば、電車を予約できますか。",
-      "romaji": "Dō sureba, densha o yoyaku dekimasu ka.",
-      "en": "How can I book the train?"
+      "jp": "この ボタンを 押すと、きっぷが 出ます。",
+      "romaji": "Kono botan o osu to, kippu ga demasu.",
+      "en": "When you press this button, a ticket comes out."
     }
   ],
-  "note": "〜ば spotlights the condition itself, so it's the go-to for general \"if X, then naturally Y\" statements and advice. A handy set phrase is 〜ばいい = \"you should / it'd be good to 〜\": 早く予約すればいいですよ (Hayaku yoyaku sureba ii desu yo) = \"You should book early.\"",
+  "note": "〜と is your go-to for directions (\"turn at the corner and you'll see…\") and how things work. It also fits natural truths: 春になると、さくらが さきます。(When spring comes, the cherry blossoms bloom.) If you want a request or wish after it, switch to 〜たら.",
   "selfCheck": {
-    "q": "Fill the blank: 「＿＿、電話してください。」 (困る/こまる = to be in trouble) — \"If you're in trouble, please call.\" The main clause is a request — which conditional fits best?",
-    "a": "〜たら: 「困ったら、電話してください」 (Komattara, denwa shite kudasai). Because the main clause is a request, 〜たら is natural; 困れば would sound odd here. Rule: advice/general result → 〜ば; \"if it happens, please do X\" → 〜たら."
+    "q": "How would you say: \"If you turn left at the traffic light, the hotel is on the right\"?",
+    "a": "信号を 左に 曲がると、ホテルが 右に あります。(Shingō o hidari ni magaru to, hoteru ga migi ni arimasu.)"
   }
 }
