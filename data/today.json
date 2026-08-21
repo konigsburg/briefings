@@ -1,26 +1,36 @@
 {
   "date": "Friday, August 21, 2026",
   "generatedAt": "Morning brief · 10:20 AM ET",
-  "theme": "A gentle day built around Mike's recovery.",
-  "greeting": "The day is open and quiet, Dan — a couple of small errands, then the drive to Rockland at noon. With Mike still mending from surgery, there's no rush in any of it.",
+  "theme": "A clear day around Mike's recovery — a few errands, then the coast.",
+  "greeting": "The day's been kept deliberately light while Mike recovers, Dan — a couple of errands this morning, then the drive up to Rockland. Nothing on the calendar is pulling at you, so the open stretch is yours.",
   "needsAttention": [
     {
-      "tag": "Before you go",
-      "title": "Pack the small travel bags this morning",
-      "detail": "Your 'Organize small bags for travel' task (Inbox) has sat open since Aug 17, and you're on the road to Rockland by noon — worth clearing before you leave."
+      "tag": "Book today",
+      "title": "Reserve Sunday's NYC dinner",
+      "detail": "Sunday's dinner for two in NYC is confirmed but still unbooked — call for a bar or counter seat today while a 48-hour table for two is still an easy ask."
+    },
+    {
+      "tag": "Reply owed",
+      "title": "Reply to Amra on a NYC catch-up",
+      "detail": "Amra Balic at BlackRock is in New York Sept 5–11 and asked to meet in person; her note is still awaiting your reply."
+    },
+    {
+      "tag": "Blocked",
+      "title": "Croatia gear order is stalled",
+      "detail": "The boat-shoe order can't go through until Mike sends his sizes and model pick — a p1 that's due today on your shared board."
     }
   ],
   "schedule": [
     {
       "time": "9:30 AM",
       "title": "Juliano comes by",
-      "detail": "Short visit at the house",
-      "tag": "Home"
+      "detail": "Morning stop-in",
+      "tag": "Personal"
     },
     {
       "time": "11:00 AM",
       "title": "Mail clothes",
-      "detail": "Get the package out",
+      "detail": "Quick errand",
       "tag": "Errand"
     },
     {
@@ -34,23 +44,33 @@
     "flagged": [
       {
         "tag": "Health",
-        "title": "Talkiatry visit summary is ready",
-        "detail": "The summary from your Aug 18 Portland appointment is available to view."
+        "title": "MaineHealth estimate updated",
+        "detail": "Your cost estimate for the Sep 3 visit changed after an insurance-benefit update."
+      },
+      {
+        "tag": "Job search",
+        "title": "NACD New England reception RSVP",
+        "detail": "NACD New England asked you to RSVP for their Sept 15 appreciation reception."
       },
       {
         "tag": "FYI",
-        "title": "Nautilus is waiting on your Florida address",
-        "detail": "Amy needs the Florida shipping address to send the sailing textbooks, which are back-ordered from the ASA."
+        "title": "Nautilus needs a shipping address",
+        "detail": "Amy is waiting on your Florida address before she can dispatch the sailing textbooks."
       }
     ],
-    "noise": "The rest is retail and newsletters — Amtrak, cocolab, the Italian and Japanese word-of-the-day, an Evite reunion ping.",
-    "clear": "Nothing else is waiting on a reply from you."
+    "noise": "A LinkedIn job digest, Google account and family-group setup notices, and an Evite reunion thread.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Job search",
-      "title": "Valoris call is set for the 27th",
-      "detail": "You and Martin locked in Thursday the 27th at noon ET; he's sent the Teams invite, so nothing more is needed now."
+      "tag": "Scheduled",
+      "title": "Valoris call is on the books",
+      "detail": "Martin Steindl confirmed Thursday Aug 27 at noon EST and sent the invite — nothing owed."
+    },
+    {
+      "tag": "Locked in",
+      "title": "IMC research call is set",
+      "detail": "Mike Lubrano sent the invite for the Chie/Dan/Mike discussion; the time is settled."
     }
   ],
   "context": {
@@ -67,29 +87,41 @@
   },
   "tasks": [
     {
-      "title": "Destination edit work",
+      "title": "Call 5 therapist practices for the older girls",
+      "project": "Mike + Dan — Board",
+      "due": "Due today",
+      "overdue": false
+    },
+    {
+      "title": "Finish the destination edit work",
       "project": "Professional Projects",
       "due": "Overdue Aug 15",
+      "overdue": true
+    },
+    {
+      "title": "Organize the small travel bags",
+      "project": "Inbox",
+      "due": "Overdue Aug 17",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/5",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Juliano stops by at 9:30 and there's clothing to mail by 11 — small errands before you head out."
+      "line": "Juliano comes by at 9:30 and clothes go out in the mail at 11 — light errands while Mike recovers."
     },
     {
       "time": "Afternoon",
-      "line": "You drive to Rockland at noon; the Forester keys are the one thing not to forget."
+      "line": "At noon, the drive up to Rockland with the Forester keys in hand."
     },
     {
       "time": "Evening",
-      "line": "Mike is still recovering from oral surgery, so keep the evening soft and low-key."
+      "line": "Nothing on the calendar; the evening stays as clear as the recovery day asks for."
     }
   ],
   "japanese": {
