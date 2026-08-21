@@ -1,83 +1,78 @@
 {
-  "lessonNo": 229,
-  "date": "Thursday, Aug 20",
-  "generatedAt": "Lesson #229 · Aug 20",
-  "theme": "The 〜と conditional — automatic, natural consequences (\"whenever / if X, then Y\")",
-  "intro": "〜と links a condition to a result that always or automatically follows — ideal for directions and how things work.",
+  "lessonNo": 230,
+  "date": "Friday, Aug 21",
+  "generatedAt": "Lesson #230 · Aug 21",
+  "theme": "Obligation — must (～なければならない) vs. don't have to (～なくてもいい)",
+  "intro": "Two patterns built off the plain ～ない form for saying what you must do and what you don't have to — great for airports and travel rules.",
   "grammar": {
-    "title": "The 〜と conditional",
+    "title": "Obligation: ～なければならない / ～なくてもいい",
     "rules": [
       {
-        "label": "Verbs",
-        "detail": "plain non-past (dictionary) form + と",
+        "label": "Must / have to (～なければならない)",
+        "detail": "Take the ～ない form, drop the final い, add ければ ならない (polite: なりません). Casual: ～なきゃ.",
         "examples": [
-          "行く → 行くと (iku to) → if/when you go (行く → iku to (if you go))"
+          "行く → 行かない → 行かなければならない (must go)",
+          "食べる → 食べない → 食べなければならない (must eat)"
         ]
       },
       {
-        "label": "い-adjectives",
-        "detail": "い-adj + と",
+        "label": "Don't have to (～なくてもいい)",
+        "detail": "Take the ～ない form, drop the final い, add くてもいい.",
         "examples": [
-          "安い → 安いと (yasui to) → if it's cheap"
-        ]
-      },
-      {
-        "label": "な-adj / nouns",
-        "detail": "add だ before と",
-        "examples": [
-          "静か → 静かだと (shizuka da to) → if it's quiet"
+          "行かない → 行かなくてもいい (don't have to go)",
+          "予約しない → 予約しなくてもいい (don't have to reserve)"
         ]
       }
     ],
-    "bigPoint": "The second clause can't be a command, request, invitation, or want — use 〜たら for those. 〜と is for facts, directions, and instructions only."
+    "bigPoint": "行かなければならない is literally a double negative: 'if I don't go, it won't do.' That mouthful is exactly why casual ～なきゃ exists."
   },
   "vocab": [
     {
-      "jp": "まっすぐ",
-      "romaji": "massugu",
-      "en": "straight ahead"
+      "jp": "パスポート",
+      "romaji": "pasupooto",
+      "en": "passport"
     },
     {
-      "jp": "曲がる（まがる）",
-      "romaji": "magaru",
-      "en": "to turn"
+      "jp": "予約（よやく）",
+      "romaji": "yoyaku",
+      "en": "reservation, booking"
     },
     {
-      "jp": "信号（しんごう）",
-      "romaji": "shingō",
-      "en": "traffic light"
+      "jp": "見せる（みせる）",
+      "romaji": "miseru",
+      "en": "to show"
     },
     {
-      "jp": "角（かど）",
-      "romaji": "kado",
-      "en": "corner"
+      "jp": "払う（はらう）",
+      "romaji": "harau",
+      "en": "to pay"
     },
     {
-      "jp": "見える（みえる）",
-      "romaji": "mieru",
-      "en": "to come into view / be visible"
+      "jp": "急ぐ（いそぐ）",
+      "romaji": "isogu",
+      "en": "to hurry"
     },
     {
-      "jp": "押す（おす）",
-      "romaji": "osu",
-      "en": "to push, to press"
+      "jp": "並ぶ（ならぶ）",
+      "romaji": "narabu",
+      "en": "to line up / queue"
     }
   ],
   "examples": [
     {
-      "jp": "まっすぐ 行くと、右に えきが 見えます。",
-      "romaji": "Massugu iku to, migi ni eki ga miemasu.",
-      "en": "If you go straight, the station comes into view on the right."
+      "jp": "空港でパスポートを見せなければなりません。",
+      "romaji": "Kuukou de pasupooto o misenakereba narimasen.",
+      "en": "At the airport, you have to show your passport."
     },
     {
-      "jp": "この ボタンを 押すと、きっぷが 出ます。",
-      "romaji": "Kono botan o osu to, kippu ga demasu.",
-      "en": "When you press this button, a ticket comes out."
+      "jp": "今日は予約しなくてもいいですよ。",
+      "romaji": "Kyou wa yoyaku shinakute mo ii desu yo.",
+      "en": "You don't have to make a reservation today."
     }
   ],
-  "note": "〜と is your go-to for directions (\"turn at the corner and you'll see…\") and how things work. It also fits natural truths: 春になると、さくらが さきます。(When spring comes, the cherry blossoms bloom.) If you want a request or wish after it, switch to 〜たら.",
+  "note": "One machine, two settings, both from ～ない: MUST = drop い + ければならない (or casual ～なきゃ); DON'T HAVE TO = drop い + くてもいい.",
   "selfCheck": {
-    "q": "How would you say: \"If you turn left at the traffic light, the hotel is on the right\"?",
-    "a": "信号を 左に 曲がると、ホテルが 右に あります。(Shingō o hidari ni magaru to, hoteru ga migi ni arimasu.)"
+    "q": "How would you say 'I have to hurry' politely, using 急ぐ（いそぐ）?",
+    "a": "急がなければなりません。(Isoganakereba narimasen.) Casual: 急がなきゃ！(Isoganakya!)"
   }
 }
