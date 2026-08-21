@@ -1,71 +1,71 @@
 {
   "date": "Thursday, August 20, 2026",
-  "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "A quiet day around Mike's surgery, closing on a call to Tokyo.",
-  "greeting": "Most of today has been logistics around Mike's oral surgery in Portland, Dan. The one thing still ahead is the 9 PM call with Chie and Mike on the next stage of the IMC research.",
+  "generatedAt": "Morning brief · 10:06 PM ET",
+  "theme": "A calm day built around Mike's surgery and recovery.",
+  "greeting": "A quiet one, Dan — a morning haircut, the day given over to getting Mike through his oral surgery up in Portland, and a nine o'clock call with Chie in Tokyo to close it out.",
   "needsAttention": [
     {
-      "tag": "Tonight 9 PM",
-      "title": "IMC research call with Chie and Mike",
-      "detail": "The Teams call on the next stage of the IMC research is at 9 PM your time, Friday morning for Chie in Tokyo. Worth arriving with a view on her idea to widen the conversation beyond asset managers and owners."
+      "tag": "Reply owed",
+      "title": "Amra wants to meet in New York",
+      "detail": "Amra Balic wrote back that she is in New York Sept 5-11 and would love to catch up in person; the thread is waiting on your reply."
     },
     {
-      "tag": "Tomorrow",
-      "title": "Early start, then the boat to Vinalhaven",
-      "detail": "Tomorrow keeps Mike's recovery light but still runs long: Juliano at 9:30, clothes in the mail by 11, then the noon drive to Rockland for the ferry. The calendar's own note: bring the Forester keys."
+      "tag": "Job search",
+      "title": "PRI intro never reached Conor",
+      "detail": "Your July introduction to Conor Kehoe at the PRI bounced on a wrong address and was resent to the corrected one, so writing him is now on you."
+    },
+    {
+      "tag": "Tomorrow prep",
+      "title": "Rockland drive needs the Forester keys",
+      "detail": "Tomorrow's calendar has a midday drive to Rockland with a note to bring the Forester keys, so it is worth setting them out tonight."
     }
   ],
   "schedule": [
     {
       "time": "All day",
       "title": "Mike's oral surgery",
-      "detail": "Portland; he can't drive after sedation",
-      "tag": "Personal"
+      "detail": "Portland, ME; he can't drive after sedation",
+      "tag": "care"
     },
     {
       "time": "10:00 AM",
       "title": "Haircut",
-      "detail": "Portland",
-      "tag": "Personal"
+      "detail": "",
+      "tag": "personal"
     },
     {
       "time": "9:00 PM",
       "title": "IMC research call",
-      "detail": "Teams; Chie (NRI) and Mike",
-      "tag": "Call"
+      "detail": "With Chie Mitsui and Mike, on Teams",
+      "tag": "work"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Amra Balic wants to meet in NYC",
-        "detail": "On the Sustainalytics thread she's in New York Sept 5-11 and asked to catch up in person; awaiting your reply."
-      },
-      {
-        "tag": "Job search",
-        "title": "NACD New England reception, Sept 15",
-        "detail": "An RSVP request for the Sept 15 appreciation reception, a governance-network room worth being in."
-      },
-      {
-        "tag": "Job search",
-        "title": "Mastercard policy chief wants to connect",
-        "detail": "A LinkedIn invite from Mastercard's Chief Government Affairs & Policy Officer, a useful contact for the search."
-      },
-      {
         "tag": "Health",
-        "title": "MaineHealth updated your Sep 3 estimate",
-        "detail": "The cost estimate for your Sep 3 visit changed after an insurance update."
+        "title": "MaineHealth revised your Sept 3 estimate",
+        "detail": "The cost estimate for your Sept 3 visit was updated after new insurance benefit information came in."
+      },
+      {
+        "tag": "Job search",
+        "title": "Chainalysis posted a policy lead role",
+        "detail": "A LinkedIn alert flagged a Head of Policy, North America opening at Chainalysis."
+      },
+      {
+        "tag": "FYI",
+        "title": "NACD New England reception Sept 15",
+        "detail": "An invitation to the NACD New England Appreciation Reception on Sept 15, asking for an RSVP."
       }
     ],
-    "noise": "The rest is LinkedIn job alerts and message nudges, an Evite thread, a flight confirmation, and promotions.",
+    "noise": "The rest is loyalty points, Google family-group setup, an Evite thread, and your own daily Japanese lesson.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Portland, Maine",
+    "location": "Maine (Portland)",
     "confidence": "high",
     "asOf": "Thursday Aug 20"
   },
@@ -76,35 +76,35 @@
   },
   "tasks": [
     {
-      "title": "Organize small bags for travel",
-      "project": "Inbox",
-      "due": "Overdue Aug 17",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
       "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
+    },
+    {
+      "title": "Organize small bags for travel",
+      "project": "Inbox",
+      "due": "Overdue Aug 17",
+      "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/4",
+    "morning": "6/10",
     "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A haircut at 10, with Mike's oral surgery in Portland anchoring the day."
+      "line": "A ten o'clock haircut, then the day bends around Mike's surgery up in Portland."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon bent around getting Mike home from Portland after the sedation."
+      "line": "The afternoon stays open while Mike comes out of sedation, soft food and ice and nothing pressing."
     },
     {
       "time": "Evening",
-      "line": "It closes on a call to Tokyo, Chie and Mike at 9 for the IMC research."
+      "line": "The day closes on the IMC research call with Chie in Tokyo and Mike at nine."
     }
   ],
   "japanese": {
