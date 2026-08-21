@@ -1,76 +1,62 @@
 {
   "date": "Friday, August 21, 2026",
-  "generatedAt": "Morning brief · 12:04 PM ET",
-  "theme": "A clear day around Mike's recovery — a few errands, then the coast.",
-  "greeting": "The day's been kept deliberately light while Mike recovers, Dan — a couple of errands this morning, then the drive up to Rockland. Nothing on the calendar is pulling at you, so the open stretch is yours.",
+  "generatedAt": "Morning brief · 12:07 PM ET",
+  "theme": "An open day in midcoast Maine.",
+  "greeting": "A quiet Friday, Dan — a morning visitor, a couple of errands, then the drive up to Rockland. Mike's on a recovery day, so the calendar is clear by design.",
   "needsAttention": [
     {
-      "tag": "Book today",
-      "title": "Reserve Sunday's NYC dinner",
-      "detail": "Sunday's dinner for two in NYC is confirmed but still unbooked — call for a bar or counter seat today while a 48-hour table for two is still an easy ask."
+      "tag": "Blocked · gear",
+      "title": "Croatia gear order is stuck",
+      "detail": "The gear checkout can't close until Mike sends the duffel color, boat-shoe model, and both your sizes — it's his P1 on the Mike + Dan board today."
     },
     {
-      "tag": "Reply owed",
-      "title": "Reply to Amra on a NYC catch-up",
-      "detail": "Amra Balic at BlackRock is in New York Sept 5–11 and asked to meet in person; her note is still awaiting your reply."
-    },
-    {
-      "tag": "Blocked",
-      "title": "Croatia gear order is stalled",
-      "detail": "The boat-shoe order can't go through until Mike sends his sizes and model pick — a p1 that's due today on your shared board."
+      "tag": "Books today",
+      "title": "NYC dinner for Sunday",
+      "detail": "Sunday's dinner for two is confirmed but unbooked; a 48-hour bar or counter seat is an easy direct call. P1 on the board, due today."
     }
   ],
   "schedule": [
     {
+      "time": "All day",
+      "title": "Mike's recovery day",
+      "detail": "Soft food, keep it light",
+      "tag": "note"
+    },
+    {
       "time": "9:30 AM",
       "title": "Juliano comes by",
-      "detail": "Morning stop-in",
-      "tag": "Personal"
+      "detail": "",
+      "tag": "visit"
     },
     {
       "time": "11:00 AM",
       "title": "Mail clothes",
-      "detail": "Quick errand",
-      "tag": "Errand"
+      "detail": "",
+      "tag": "errand"
     },
     {
       "time": "12:00 PM",
       "title": "Drive to Rockland",
       "detail": "Bring the Forester keys",
-      "tag": "Travel"
+      "tag": "drive"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Health",
-        "title": "MaineHealth estimate updated",
-        "detail": "Your cost estimate for the Sep 3 visit changed after an insurance-benefit update."
-      },
-      {
-        "tag": "Job search",
-        "title": "NACD New England reception RSVP",
-        "detail": "NACD New England asked you to RSVP for their Sept 15 appreciation reception."
-      },
-      {
-        "tag": "FYI",
-        "title": "Nautilus needs a shipping address",
-        "detail": "Amy is waiting on your Florida address before she can dispatch the sailing textbooks."
+        "tag": "Security",
+        "title": "New-PC note on your Google account",
+        "detail": "Google sent a 'welcome to your new PC' setup message — worth a glance if you didn't just set one up."
       }
     ],
-    "noise": "A LinkedIn job digest, Google account and family-group setup notices, and an Evite reunion thread.",
-    "clear": ""
+    "noise": "The usual: a LinkedIn job alert, a BBYO reunion note, and your own Japanese lesson.",
+    "clear": "Nothing else is waiting on your reply."
   },
   "resolved": [
     {
       "tag": "Scheduled",
-      "title": "Valoris call is on the books",
-      "detail": "Martin Steindl confirmed Thursday Aug 27 at noon EST and sent the invite — nothing owed."
-    },
-    {
-      "tag": "Locked in",
-      "title": "IMC research call is set",
-      "detail": "Mike Lubrano sent the invite for the Chie/Dan/Mike discussion; the time is settled."
+      "title": "Call with Martin is set",
+      "detail": "Martin confirmed Thursday the 27th at 12:00 EST and sent the invite — nothing owed."
     }
   ],
   "context": {
@@ -87,19 +73,13 @@
   },
   "tasks": [
     {
-      "title": "Call 5 therapist practices for the older girls",
-      "project": "Mike + Dan — Board",
-      "due": "Due today",
-      "overdue": false
-    },
-    {
-      "title": "Finish the destination edit work",
+      "title": "Destination edit work",
       "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     },
     {
-      "title": "Organize the small travel bags",
+      "title": "Organize small bags for travel",
       "project": "Inbox",
       "due": "Overdue Aug 17",
       "overdue": true
@@ -113,15 +93,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Juliano comes by at 9:30 and clothes go out in the mail at 11 — light errands while Mike recovers."
+      "line": "Juliano at 9:30, then the clothes in the mail by eleven."
     },
     {
       "time": "Afternoon",
-      "line": "At noon, the drive up to Rockland with the Forester keys in hand."
+      "line": "The noon drive up to Rockland — Forester keys on the way out."
     },
     {
       "time": "Evening",
-      "line": "Nothing on the calendar; the evening stays as clear as the recovery day asks for."
+      "line": "Girls are with Jen and Mike's resting, so the evening is genuinely yours."
     }
   ],
   "japanese": {
