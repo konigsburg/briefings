@@ -1,62 +1,73 @@
 {
   "date": "Friday, August 21, 2026",
   "generatedAt": "Morning brief · 6:03 PM ET",
-  "theme": "Errands, then the drive north.",
-  "greeting": "A short, personal list today, Dan — Juliano by mid-morning, clothes in the mail, and the drive to Rockland at noon with the Forester keys. Mike's recovering from surgery, so the evening stays soft and quiet.",
+  "theme": "A light day in Maine while Mike mends.",
+  "greeting": "The girls are with Jen this stretch, and the day was kept deliberately clear while Mike recovers from oral surgery. A visitor, a couple of errands, then the drive up to Rockland — the evening is unclaimed.",
   "needsAttention": [
     {
-      "tag": "Blocked on Mike",
-      "title": "Croatia gear order is stuck",
-      "detail": "The sailing-gear checkout can't go through until Mike sends his sizes and picks — duffel color, boat-shoe model, and both your shoe sizes. Flagged P1 on your shared board."
+      "tag": "Networking",
+      "title": "Amra wants to see you in New York",
+      "detail": "On the Sustainalytics thread, Amra Balic asked to catch up in person while she's in NYC from Sep 5-11; your reply hasn't gone back yet."
     },
     {
-      "tag": "Closing today",
-      "title": "Sunday's NYC dinner has no table yet",
-      "detail": "Sunday's dinner for two is confirmed but the reservation isn't — a direct call for bar or counter seats still lands easily at 48 hours out. P1 on your board."
+      "tag": "Due today",
+      "title": "Book the Sunday NYC dinner",
+      "detail": "Mike flagged this p1 for today on the board: a table for two on Aug 23. Two people at 48 hours usually means calling for bar or counter seats rather than refreshing an app."
     }
   ],
   "schedule": [
     {
       "time": "All day",
       "title": "Mike recovering",
-      "detail": "Rest day after oral surgery; keep it light",
-      "tag": "Home"
+      "detail": "Soft food, day kept clear after oral surgery",
+      "tag": "Care"
     },
     {
       "time": "9:30 AM",
       "title": "Juliano comes by",
-      "detail": "Morning visit",
-      "tag": "Personal"
+      "detail": "At the house",
+      "tag": "Home"
     },
     {
       "time": "11:00 AM",
       "title": "Mail clothes",
-      "detail": "Errand before noon",
+      "detail": "Errand before the drive",
       "tag": "Errand"
     },
     {
       "time": "12:00 PM",
       "title": "Drive to Rockland",
       "detail": "Bring the Forester keys",
-      "tag": "Travel"
+      "tag": "Drive"
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "The rest is promotions, a LinkedIn job digest, and an Evite reunion note — nothing that needs a reply.",
-    "clear": "Inbox is quiet, and the Valoris call is already on the books."
+    "flagged": [
+      {
+        "tag": "Health",
+        "title": "MaineHealth revised your Sep 3 estimate",
+        "detail": "The cost estimate for the Sep 3 visit changed after your insurer updated benefit information."
+      },
+      {
+        "tag": "Job search",
+        "title": "Two policy-lead roles in the alerts",
+        "detail": "LinkedIn surfaced Head of Policy openings at Chainalysis and Stedi this week."
+      }
+    ],
+    "noise": "The rest is UPS tracking, evites, and a family-group welcome.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Networking",
-      "title": "Valoris call is set",
-      "detail": "Martin Steindl confirmed and sent the invite — your catch-up with the group is booked for Thursday the 27th at 12:00 EST."
+      "tag": "Scheduled",
+      "title": "Valoris call is on the calendar",
+      "detail": "Martin Steindl confirmed Thursday Aug 27 at 12:00 EST and sent the invite, so that thread is closed."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Rockland / Vinalhaven, ME",
+    "location": "Rockland, Maine",
     "confidence": "high",
     "asOf": "Friday Aug 21"
   },
@@ -80,22 +91,22 @@
     }
   ],
   "routines": {
-    "morning": "5/10",
-    "day": "0/3",
-    "evening": "1/4"
+    "morning": "0/5",
+    "day": "0/6",
+    "evening": "0/3"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Juliano stops by around 9:30, and the clothes go in the mail before noon."
+      "line": "A visitor and a couple of errands to clear before the road."
     },
     {
       "time": "Afternoon",
-      "line": "The drive to Rockland leaves at noon, Forester keys in hand, pointing you toward the island."
+      "line": "The midday drive up to Rockland and the ferry country beyond it."
     },
     {
       "time": "Evening",
-      "line": "Nothing on the calendar; with Mike recovering, it's a soft, low-key night."
+      "line": "Open and unclaimed — a soft-food supper and roast peaches would suit it."
     }
   ],
   "japanese": {
