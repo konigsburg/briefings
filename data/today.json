@@ -1,55 +1,47 @@
 {
   "date": "Saturday, August 22, 2026",
-  "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "An open Saturday before tomorrow's travel.",
-  "greeting": "The calendar's clear today, Dan — the girls are at Jen's and nothing is booked. Tomorrow starts early, though: the flight to New York, the 9 AM review with Mike, and dinner at Misi.",
+  "generatedAt": "Morning brief · 2:06 PM ET",
+  "theme": "An open Saturday, with Croatia coming into focus",
+  "greeting": "Nothing sits on the calendar today, Dan — a rare open Saturday. What is quietly pulling at the edges is the Croatia trip prep, and tomorrow you fly down to New York.",
   "needsAttention": [
     {
-      "tag": "Tomorrow · travel",
-      "title": "Check in for the New York flight",
-      "detail": "Delta opened check-in for tomorrow's Sunday flight (confirmation HOQ7NK) — the window's open now, so a seat is settled before the early start."
+      "tag": "Passport packet",
+      "title": "Printer paper for Mike's passport packet",
+      "detail": "Mike's p1 board task lands today. The one real print sitting is Tuesday the 25th — DS-11s, ID copies, birth-certificate copies — ahead of the packet's Wednesday deadline and Friday appointment, so the paper needs to be in hand before then."
     },
     {
-      "tag": "Tomorrow · prep",
-      "title": "Skim the board before Sunday's review",
-      "detail": "Mike's 15-minute review runs at 9 AM tomorrow off the shared 'Mike + Dan — Board' — a quick look now means you arrive knowing what's active and what's still waiting on you."
+      "tag": "Tomorrow 9 AM",
+      "title": "Sunday board review with Mike",
+      "detail": "Tomorrow's 15-minute review is the weekly triage of the Mike + Dan board; it moves fast if the new items already carry owners and dates. It sits right before your flight to New York."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Two Head of Policy roles surfaced",
-        "detail": "LinkedIn flagged Head of Policy openings at Chainalysis and Stedi this week — both worth a look for the search."
-      },
-      {
         "tag": "Financial",
-        "title": "Plumbing invoice Mike forwarded",
-        "detail": "Mike forwarded a Forest City Plumbing invoice for $852.94; it's awaiting a decision on payment."
+        "title": "Plumbing invoice, $852.94",
+        "detail": "Mike forwarded Forest City Plumbing's Invoice 4483; it is due and still unpaid in your inbox."
       },
       {
-        "tag": "Health",
-        "title": "Neurology appointment Monday in NYC",
-        "detail": "Dr. Erin Manning at HSS Belaire — the invite asks you to arrive by 1:45 PM Monday."
-      },
-      {
-        "tag": "Security",
-        "title": "New-PC sign-in on your Google account",
-        "detail": "Google flagged a new PC on your account — worth a glance to confirm it was you."
+        "tag": "Job search",
+        "title": "A Head of Policy role in your alerts",
+        "detail": "A LinkedIn alert surfaced a Stedi Head of Policy / SVP-level posting — worth a glance given the search."
       }
     ],
-    "noise": "The rest is newsletters — NYT Cooking, Bloomberg, Duolingo, a campaign blast, and Duke lifelong learning.",
-    "clear": ""
+    "noise": "Mostly retail and newsletter drift today — Company Store, Bloomberg, Duke, Pip Decks.",
+    "clear": "Mike's Friday print request and the Nautilus crew thread are both handled."
   },
   "resolved": [
     {
-      "title": "NYC dinner is booked",
-      "detail": "The Misi reservation came through today for 6:45 PM Sunday, closing out the board's 'book NYC dinner' task."
+      "tag": "Booked",
+      "title": "Sunday's New York dinner is set",
+      "detail": "Misi at 6:45 PM Sunday is confirmed on Resy and on your calendar — the board task closes out."
     },
     {
-      "title": "Call with Martin set for the 27th",
-      "detail": "You replied and Martin sent a Teams invite for Thursday the 27th at 18:00 CET — that thread is settled."
+      "tag": "Scheduled",
+      "title": "Valoris call with Martin is on the books",
+      "detail": "You replied and locked Thursday the 27th at 12:00 EST; Martin has sent the invite."
     }
   ],
   "context": {
@@ -66,6 +58,18 @@
   },
   "tasks": [
     {
+      "title": "Get printer paper",
+      "project": "Mike + Dan — Board",
+      "due": "Today",
+      "overdue": false
+    },
+    {
+      "title": "Pack the European plug adapters tonight",
+      "project": "Mike + Dan — Board",
+      "due": "Today",
+      "overdue": false
+    },
+    {
       "title": "Destination edit work",
       "project": "Professional Projects",
       "due": "Overdue Aug 15",
@@ -80,15 +84,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning in Portland with the girls at Jen's — the first fully open Saturday in a while."
+      "line": "No meetings on the books — a genuinely open Saturday."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing booked through the afternoon; the day is yours to rest or to clear the one thing that's been waiting."
+      "line": "The trip list wants a little attention: printer paper for the passport packet before Tuesday's one print sitting."
     },
     {
       "time": "Evening",
-      "line": "An easy evening to pack — tomorrow opens early with the flight south to New York."
+      "line": "Pack tonight, plug adapters in the bag, ahead of tomorrow's flight to New York."
     }
   ],
   "japanese": {
