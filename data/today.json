@@ -1,63 +1,61 @@
 {
   "date": "Saturday, August 22, 2026",
-  "generatedAt": "Morning brief · 12:03 PM ET",
-  "theme": "An open Saturday before tomorrow's run to New York.",
-  "greeting": "A wide-open Saturday, Dan — the calendar is empty until tomorrow's Sunday review and the flight to New York. Good hours to pack and to skim the board before you and Mike sit down at nine.",
+  "generatedAt": "Morning brief · 12:07 PM ET",
+  "theme": "An open Saturday before tomorrow's travel.",
+  "greeting": "The calendar's clear today, Dan — the girls are at Jen's and nothing is booked. Tomorrow starts early, though: the flight to New York, the 9 AM review with Mike, and dinner at Misi.",
   "needsAttention": [
     {
-      "tag": "Prep · tomorrow",
-      "title": "Skim the board before the 9 AM sync",
-      "detail": "Tomorrow's Sunday review with Mike opens at 9, and the agenda is to give every board item an owner and a date. Worth a look at the Mike + Dan board tonight so nothing is cold in the morning."
+      "tag": "Tomorrow · travel",
+      "title": "Check in for the New York flight",
+      "detail": "Delta opened check-in for tomorrow's Sunday flight (confirmation HOQ7NK) — the window's open now, so a seat is settled before the early start."
     },
     {
-      "tag": "Prep · travel",
-      "title": "Pack for tomorrow's New York trip",
-      "detail": "You fly to New York tomorrow with a 6:45 dinner at Misi, and Delta check-in is already open. The 'organize small bags for travel' task has sat since the 17th — today is the day to clear it."
+      "tag": "Tomorrow · prep",
+      "title": "Skim the board before Sunday's review",
+      "detail": "Mike's 15-minute review runs at 9 AM tomorrow off the shared 'Mike + Dan — Board' — a quick look now means you arrive knowing what's active and what's still waiting on you."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "Google flagged a new-device sign-in",
-        "detail": "A 'review your account settings' note tied to a new PC arrived yesterday — worth a glance to confirm it was you."
-      },
-      {
         "tag": "Job search",
-        "title": "New LinkedIn connection request",
-        "detail": "Dr. Romeo, founder and CEO at Lumorus, is waiting on a response to a connection request."
+        "title": "Two Head of Policy roles surfaced",
+        "detail": "LinkedIn flagged Head of Policy openings at Chainalysis and Stedi this week — both worth a look for the search."
       },
       {
         "tag": "Financial",
-        "title": "Chase Sapphire payment posted",
-        "detail": "Chase confirmed your Sapphire card payment went through — informational, nothing owed."
+        "title": "Plumbing invoice Mike forwarded",
+        "detail": "Mike forwarded a Forest City Plumbing invoice for $852.94; it's awaiting a decision on payment."
       },
       {
         "tag": "Health",
-        "title": "New bulletin from Sarasota Memorial",
-        "detail": "A news bulletin landed in your FollowMyHealth account; sign in when you have a moment to view it."
+        "title": "Neurology appointment Monday in NYC",
+        "detail": "Dr. Erin Manning at HSS Belaire — the invite asks you to arrive by 1:45 PM Monday."
+      },
+      {
+        "tag": "Security",
+        "title": "New-PC sign-in on your Google account",
+        "detail": "Google flagged a new PC on your account — worth a glance to confirm it was you."
       }
     ],
-    "noise": "The rest is retail and travel promos — Company Store, Breeze, Mattress Firm, Airbnb, olive oil tins.",
-    "clear": "Newsletters (FT, Bloomberg, Daily Italian) can wait for downtime."
+    "noise": "The rest is newsletters — NYT Cooking, Bloomberg, Duolingo, a campaign blast, and Duke lifelong learning.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Booked",
-      "title": "NYC dinner is set",
-      "detail": "The Sunday reservation at Misi is on the calendar for 6:45 — the P1 board task is effectively done."
+      "title": "NYC dinner is booked",
+      "detail": "The Misi reservation came through today for 6:45 PM Sunday, closing out the board's 'book NYC dinner' task."
     },
     {
-      "tag": "Networking",
-      "title": "Call with Martin Steindl locked in",
-      "detail": "You replied and Martin confirmed; the call is set for Thursday the 27th at noon Eastern."
+      "title": "Call with Martin set for the 27th",
+      "detail": "You replied and Martin sent a Teams invite for Thursday the 27th at 18:00 CET — that thread is settled."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Coastal Maine",
+    "location": "Portland, Maine",
     "confidence": "low",
     "asOf": "Saturday Aug 22"
   },
@@ -68,38 +66,29 @@
   },
   "tasks": [
     {
-      "title": "Organize small bags for travel",
-      "project": "Personal",
-      "due": "Overdue Aug 17",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
+    "morning": "0/4",
+    "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — a genuinely open start.",
-      "tag": "open"
+      "line": "A clear morning in Portland with the girls at Jen's — the first fully open Saturday in a while."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear; good hours to pack the small bags that have waited since the 17th.",
-      "tag": "open"
+      "line": "Nothing booked through the afternoon; the day is yours to rest or to clear the one thing that's been waiting."
     },
     {
       "time": "Evening",
-      "line": "A quiet close before tomorrow's board review and the flight to New York.",
-      "tag": "quiet"
+      "line": "An easy evening to pack — tomorrow opens early with the flight south to New York."
     }
   ],
   "japanese": {
