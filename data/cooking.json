@@ -1,88 +1,96 @@
 {
-  "date": "Sat, Aug 15",
-  "generatedAt": "Weekly · Aug 15",
-  "theme": "Late-summer seafood, built on a jar of confit tomatoes and a quick fumet — a 2-adult, technique-forward week",
+  "date": "Sat, Aug 22",
+  "generatedAt": "Weekly · Aug 22",
+  "theme": "Peak-summer tomatoes: a big-batch fresh sugo and a jar of sweet peperonata to carry the full-house week",
   "components": [
     {
-      "name": "Confit cherry tomatoes (olive-oil conserva)",
+      "name": "Late-Summer Tomato Sugo (big batch)",
       "time": "~75 min, mostly hands-off",
-      "ingredients": "2 lb cherry/Sungold tomatoes, 6 garlic cloves, thyme + a strip of orange peel, chili flake, ~1.5 cups olive oil, flaky salt",
-      "method": "Heat oven to 300°F. Nestle whole tomatoes, smashed garlic, thyme and orange peel in a small baking dish and pour olive oil until they're half-submerged. Salt lightly. Bake 60–75 min until slumped and jammy but not broken down. Cool and store submerged in their oil; they keep 1–2 weeks fridge and turn any pan into dinner."
+      "ingredients": "5-6 lb ripe tomatoes (+ 2 cans San Marzano as backstop), 1 head garlic, big bunch basil, generous extra-virgin olive oil, salt, pinch sugar if needed",
+      "method": "Score and blanch the tomatoes 30 sec, ice-bath, and slip off the skins (or halve and grate on a box grater, discarding skins). Warm a real glug of olive oil over medium-low and cook 6-8 smashed garlic cloves until soft and fragrant but not browned. Add the tomatoes and their juice plus the canned tomatoes crushed by hand, salt well, and simmer gently 45-60 min, stirring now and then, until jammy and glossy. Off heat, stir in torn basil and a final drizzle of oil. Cool. Makes ~7 cups; keeps 5 days fridge, freezes beautifully."
     },
     {
-      "name": "Quick fish fumet",
-      "time": "~45 min",
-      "ingredients": "1.5 lb white-fish bones/heads (or shrimp shells), 1 leek, 1 fennel stalk, 1 celery rib, 1 cup dry white wine, parsley stems, bay",
-      "method": "Rinse bones well to keep the stock clean. Sweat the sliced aromatics in olive oil with no color, 6–8 min. Add bones, wine, cover with cold water. Bring just to a bare simmer, skim the gray foam, and hold 20 min — no longer or it turns bitter. Strain, cool, chill. Freeze half in a jar for later weeks."
+      "name": "Sweet Peperonata (stewed peppers and onions)",
+      "time": "~45 min, mostly hands-off",
+      "ingredients": "5 red/yellow bell peppers, 2 onions, 3 garlic cloves, 2 tomatoes (or a ladle of the sugo), splash red wine vinegar, olive oil, salt",
+      "method": "Slice peppers and onions into strips. Sweat the onions low and slow in plenty of olive oil ~10 min without browning. Add peppers, garlic, and salt; cover and cook ~15 min to soften, then uncover and let it jam down another 15-20 min. Stir in chopped tomato (or a ladle of sugo) and finish with a splash of red wine vinegar to brighten. Cool. Delicious warm or at room temp; keeps ~5 days."
     }
   ],
   "dinners": [
     {
-      "name": "Crisp-skin branzino with confit tomatoes & basil",
+      "name": "Spaghetti al Pomodoro (the mantecatura night)",
       "time": "20 min",
-      "ingredients": "2 branzino fillets (or sea bass), confit tomatoes + a spoon of their oil, basil, lemon",
+      "ingredients": "sugo, spaghetti, reserved pasta water, extra-virgin olive oil, basil, Parmigiano",
       "steps": [
-        "Pat fillets bone-dry; salt the skin. Lay skin-down in a cold nonstick pan, then bring heat to medium-high.",
-        "Press gently 30 sec so it stays flat; cook 3–4 min until skin is crackling and the flesh has gone opaque up the sides.",
-        "Flip for just 30–45 sec, then rest skin-up.",
-        "Warm a few confit tomatoes in their oil, spoon around the fish, finish with basil and lemon."
+        "Boil spaghetti in well-salted water; pull it a minute shy of al dente and save a mug of pasta water.",
+        "Warm sugo in a wide pan with a splash of olive oil.",
+        "Add the pasta and a splash of pasta water; toss hard over the heat, then off heat, adding water bit by bit until the sauce turns glossy and clings.",
+        "Finish with torn basil, grated Parmigiano, and a last drizzle of oil.",
+        "Serve kids' portions milder with extra cheese on top."
       ]
     },
     {
-      "name": "Seafood brodetto on the fumet",
+      "name": "Baked Gnocchi al Forno",
       "time": "35 min",
-      "ingredients": "fumet, confit tomatoes, mixed fish + shrimp, clams or mussels, garlic, grilled bread",
+      "ingredients": "gnocchi (or short pasta), sugo, fresh mozzarella, Parmigiano, basil, olive oil",
       "steps": [
-        "Bloom garlic and chili in olive oil, add a few confit tomatoes and crush lightly.",
-        "Add the fumet and a splash of wine; simmer 10 min to a light broth.",
-        "Slide in firm fish first, then shrimp and shellfish; cover until the shells open and fish is just set.",
-        "Ladle over garlic-rubbed grilled bread, big drizzle of raw olive oil."
+        "Heat oven to 425F. Boil gnocchi 2 min until they float, drain.",
+        "Toss gnocchi with plenty of warm sugo and half the torn mozzarella.",
+        "Spread in an oiled baking dish, top with remaining mozzarella and a shower of Parmigiano.",
+        "Bake 15-20 min until bubbling and browned in spots; rest 5 min.",
+        "Finish with basil and a drizzle of oil. A total kid magnet."
       ]
     },
     {
-      "name": "Spaghetti al pomodoro confit with anchovy",
-      "time": "20 min",
-      "ingredients": "spaghetti, confit tomatoes + oil, 3 anchovies, garlic, parmigiano or toasted breadcrumbs",
-      "steps": [
-        "Melt anchovies and garlic in the confit oil until dissolved.",
-        "Add a ladle of pasta water and the confit tomatoes; smash into a loose sauce.",
-        "Toss just-shy-of-done spaghetti in the pan and mantecare with more pasta water until glossy.",
-        "Finish with cheese or crunchy breadcrumbs."
-      ]
-    },
-    {
-      "name": "Clams in fumet-tomato broth with fennel",
+      "name": "Pan-Seared Cod with Peperonata",
       "time": "25 min",
-      "ingredients": "littleneck clams, fumet, confit tomatoes, shaved fennel, white wine, parsley",
+      "ingredients": "6 cod (or branzino) fillets, peperonata, lemon, olive oil, crusty bread, parsley",
       "steps": [
-        "Sweat shaved fennel in olive oil until soft.",
-        "Add wine and reduce, then fumet and a spoon of confit tomatoes.",
-        "Add clams, cover, and steam 4–6 min until they open; discard any that stay shut.",
-        "Shower with parsley and serve with more grilled bread for the broth."
+        "Pat fish very dry, salt it, and let sit 10 min while peperonata warms in a pan.",
+        "Sear fish skin-side or presentation-side down in hot olive oil, undisturbed, until golden; flip and finish gently.",
+        "Spoon warm peperonata onto plates and set the fish on top.",
+        "Squeeze lemon over, scatter parsley, drizzle oil, and serve with bread to mop up.",
+        "For the girls, break fish into flakes over buttered bread or plain peperonata."
+      ]
+    },
+    {
+      "name": "Chicken Thighs Braised in Sugo (cacciatora-style)",
+      "time": "40 min",
+      "ingredients": "bone-in chicken thighs, sugo, peperonata, olive oil, polenta or crusty bread, Parmigiano",
+      "steps": [
+        "Season thighs and brown well in olive oil, skin-side down, until crisp; remove.",
+        "Add sugo and a scoop of peperonata to the pan, nestle the thighs back in skin-up.",
+        "Simmer partially covered ~25 min until the chicken is tender and the sauce has reduced.",
+        "Meanwhile cook soft polenta (or warm bread).",
+        "Spoon chicken and sauce over polenta with grated Parmigiano; kid portions off the bone."
       ]
     }
   ],
   "technique": {
-    "name": "Cold-pan crisp fish skin",
-    "tiedTo": "The branzino — starting skin-down in a cold pan and coming up to heat renders the skin evenly so it shatters instead of curling; the same trick carries every seared-fish dinner all week."
+    "name": "Mantecatura (emulsifying pasta with its sauce)",
+    "tiedTo": "Spaghetti al Pomodoro - finish the pasta in the pan with sugo and starchy pasta water, tossing hard off the heat so the fat and starch emulsify into a glossy sauce that clings to every strand instead of sliding off."
   },
   "shopping": [
     {
       "section": "Produce",
-      "items": "2 lb cherry/Sungold tomatoes, 2 heads garlic, 1 leek, 1 fennel bulb (+stalk), 1 celery rib, basil, parsley, thyme, 1 orange, 2 lemons"
+      "items": "5-6 lb ripe tomatoes, 5 red/yellow bell peppers, 3 onions, 2 heads garlic, 2 big bunches basil, flat-leaf parsley, 2 lemons"
     },
     {
       "section": "Seafood",
-      "items": "2 branzino fillets, ~1.5 lb white-fish bones or shrimp shells, mixed fish for brodetto, shrimp, littleneck clams, mussels"
+      "items": "6 cod or branzino fillets"
+    },
+    {
+      "section": "Protein",
+      "items": "6-8 bone-in, skin-on chicken thighs (~3 lb)"
     },
     {
       "section": "Dairy",
-      "items": "parmigiano-reggiano"
+      "items": "2 balls fresh mozzarella, wedge Parmigiano-Reggiano, butter"
     },
     {
       "section": "Pantry",
-      "items": "good olive oil (large bottle), anchovies, spaghetti, dry white wine, chili flake, bay, flaky salt, rustic bread for grilling"
+      "items": "2 cans San Marzano tomatoes, 1.5 lb spaghetti, 2 lb gnocchi (or short pasta), polenta, red wine vinegar, extra-virgin olive oil, crusty bread, salt, black pepper"
     }
   ],
-  "scaleNote": "This is a 2-adult, technique week (girls with Jen through Aug 23). For a full-house week later, double the confit tomatoes and make a full 750ml fumet; anchor the kids on the spaghetti al pomodoro (pull anchovies for the wary) and serve the branzino as simply pan-seared fillets. For 6, plan ~2 branzino fillets per 2 kids sharing, 3 lb clams, and 1.25 lb spaghetti."
+  "scaleNote": "This week is the full house (2 adults + 4 girls under 10), so all quantities above are sized for 6. Both components are kid-friendly workhorses: serve the sugo and peperonata a touch milder and put cheese, bread, and plain components on the side so the girls can customize. On the two-adult weeks, halve the batch (or freeze half the sugo), lean more technique-forward, and let the peperonata shine as a room-temp antipasto with the seared fish."
 }
