@@ -1,37 +1,32 @@
 {
   "date": "Friday, August 21, 2026",
   "generatedAt": "Morning brief · 8:03 PM ET",
-  "theme": "A light day in Maine while Mike mends.",
-  "greeting": "The girls are with Jen this stretch, and the day was kept deliberately clear while Mike recovers from oral surgery. A visitor, a couple of errands, then the drive up to Rockland — the evening is unclaimed.",
+  "theme": "Keep today gentle — a few errands, a drive north, and rest for Mike.",
+  "greeting": "A light Friday, Dan. A couple of errands and the midday run up to Rockland, with the evening kept clear while Mike recovers from oral surgery.",
   "needsAttention": [
     {
-      "tag": "Networking",
-      "title": "Amra wants to see you in New York",
-      "detail": "On the Sustainalytics thread, Amra Balic asked to catch up in person while she's in NYC from Sep 5-11; your reply hasn't gone back yet."
-    },
-    {
       "tag": "Due today",
-      "title": "Book the Sunday NYC dinner",
-      "detail": "Mike flagged this p1 for today on the board: a table for two on Aug 23. Two people at 48 hours usually means calling for bar or counter seats rather than refreshing an app."
+      "title": "Book Sunday's NYC dinner",
+      "detail": "Michael's P1 on the Mike + Dan board is due today — reserve dinner for two on Sunday the 23rd. A direct call for bar or counter seats should land it at 48 hours out."
     }
   ],
   "schedule": [
     {
       "time": "All day",
-      "title": "Mike recovering",
-      "detail": "Soft food, day kept clear after oral surgery",
-      "tag": "Care"
+      "title": "Keep it light for Mike",
+      "detail": "Recovering from oral surgery — soft food, easy pace",
+      "tag": "Rest"
     },
     {
       "time": "9:30 AM",
       "title": "Juliano comes by",
-      "detail": "At the house",
+      "detail": "",
       "tag": "Home"
     },
     {
       "time": "11:00 AM",
       "title": "Mail clothes",
-      "detail": "Errand before the drive",
+      "detail": "",
       "tag": "Errand"
     },
     {
@@ -44,30 +39,25 @@
   "inbox": {
     "flagged": [
       {
-        "tag": "Health",
-        "title": "MaineHealth revised your Sep 3 estimate",
-        "detail": "The cost estimate for the Sep 3 visit changed after your insurer updated benefit information."
-      },
-      {
         "tag": "Job search",
-        "title": "Two policy-lead roles in the alerts",
-        "detail": "LinkedIn surfaced Head of Policy openings at Chainalysis and Stedi this week."
+        "title": "New policy & regulatory roles",
+        "detail": "LinkedIn flagged roles like Head of Policy and Regulatory Affairs – US at Elliptic — worth a two-minute scan."
       }
     ],
-    "noise": "The rest is UPS tracking, evites, and a family-group welcome.",
-    "clear": ""
+    "noise": "Everything else is delivery notices, newsletters, and shop promos — UPS, the Press Herald, a couple of coffee and wine lists.",
+    "clear": "Nothing is waiting on your reply."
   },
   "resolved": [
     {
       "tag": "Scheduled",
-      "title": "Valoris call is on the calendar",
-      "detail": "Martin Steindl confirmed Thursday Aug 27 at 12:00 EST and sent the invite, so that thread is closed."
+      "title": "Call with Martin Steindl is set",
+      "detail": "You replied and Martin confirmed Thursday the 27th at 12:00 EST and sent the invite — the thread's closed."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Rockland, Maine",
+    "location": "Coastal Maine",
     "confidence": "high",
     "asOf": "Friday Aug 21"
   },
@@ -91,22 +81,22 @@
     }
   ],
   "routines": {
-    "morning": "0/5",
-    "day": "0/6",
-    "evening": "0/3"
+    "morning": "5/10",
+    "day": "0/3",
+    "evening": "1/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A visitor and a couple of errands to clear before the road."
+      "line": "Juliano stops by at 9:30, then clothes to mail before the late-morning errands wrap."
     },
     {
       "time": "Afternoon",
-      "line": "The midday drive up to Rockland and the ferry country beyond it."
+      "line": "The noon drive to Rockland anchors the middle of the day — Forester keys in hand."
     },
     {
       "time": "Evening",
-      "line": "Open and unclaimed — a soft-food supper and roast peaches would suit it."
+      "line": "Nothing on the calendar tonight — keep it soft and slow while Mike heals."
     }
   ],
   "japanese": {
