@@ -1,54 +1,54 @@
 {
   "date": "Saturday, August 22, 2026",
   "generatedAt": "Morning brief · 4:03 PM ET",
-  "theme": "An open Saturday, with Croatia coming into focus",
-  "greeting": "Nothing sits on the calendar today, Dan — a rare open Saturday. What is quietly pulling at the edges is the Croatia trip prep, and tomorrow you fly down to New York.",
+  "theme": "A clear Saturday, with tomorrow's travel on the horizon.",
+  "greeting": "The whole day is open, Dan — not a thing on the calendar. It's a prep day: the passport packet is the week's real clock, and there's a bag to pack before Sunday's flight to New York.",
   "needsAttention": [
     {
       "tag": "Passport packet",
-      "title": "Printer paper for Mike's passport packet",
-      "detail": "Mike's p1 board task lands today. The one real print sitting is Tuesday the 25th — DS-11s, ID copies, birth-certificate copies — ahead of the packet's Wednesday deadline and Friday appointment, so the paper needs to be in hand before then."
+      "title": "The passport packet is the week's one hard deadline",
+      "detail": "Mike carries the documents through New York on Sunday and lands in Tampa Monday night, so Tuesday the 25th is the only real day to print the DS-11s and copies before the packet is due Wednesday the 26th and the appointment Friday the 28th."
     },
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Sunday board review with Mike",
-      "detail": "Tomorrow's 15-minute review is the weekly triage of the Mike + Dan board; it moves fast if the new items already carry owners and dates. It sits right before your flight to New York."
+      "tag": "Tomorrow, 9 AM",
+      "title": "The Sunday review with Mike is meant to clear the board",
+      "detail": "The 15-minute call puts an owner and a date on everything and kills whatever has slipped three Sundays running — worth arriving knowing which board items are yours."
+    },
+    {
+      "tag": "Overdue a week",
+      "title": "The destination edit work has been sitting since the 15th",
+      "detail": "In Professional Projects, due August 15 and still open — the only overdue item that isn't a daily habit."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Plumbing invoice, $852.94",
-        "detail": "Mike forwarded Forest City Plumbing's Invoice 4483; it is due and still unpaid in your inbox."
+        "tag": "Job search",
+        "title": "Jo Iwasaki's LinkedIn message has been waiting three days",
+        "detail": "A note that came through LinkedIn and hasn't been answered yet."
       },
       {
-        "tag": "Job search",
-        "title": "A Head of Policy role in your alerts",
-        "detail": "A LinkedIn alert surfaced a Stedi Head of Policy / SVP-level posting — worth a glance given the search."
+        "tag": "FYI",
+        "title": "Delta check-in is open for tomorrow's flight",
+        "detail": "Check-in opened for Sunday's flight to New York."
       }
     ],
-    "noise": "Mostly retail and newsletter drift today — Company Store, Bloomberg, Duke, Pip Decks.",
-    "clear": "Mike's Friday print request and the Nautilus crew thread are both handled."
+    "noise": "The rest is routine — a LinkedIn digest, an Evite thread, retreat marketing, a UPS pickup receipt, and the Mike + Dan board notifications.",
+    "clear": "Nothing else is waiting on your reply."
   },
   "resolved": [
     {
       "tag": "Booked",
-      "title": "Sunday's New York dinner is set",
-      "detail": "Misi at 6:45 PM Sunday is confirmed on Resy and on your calendar — the board task closes out."
-    },
-    {
-      "tag": "Scheduled",
-      "title": "Valoris call with Martin is on the books",
-      "detail": "You replied and locked Thursday the 27th at 12:00 EST; Martin has sent the invite."
+      "title": "Sunday's New York dinner is set at Misi",
+      "detail": "You booked it this afternoon; it is on the calendar for 6:45 PM Sunday."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Portland, Maine",
-    "confidence": "low",
+    "confidence": "high",
     "asOf": "Saturday Aug 22"
   },
   "recipe": {
@@ -58,22 +58,16 @@
   },
   "tasks": [
     {
-      "title": "Get printer paper",
-      "project": "Mike + Dan — Board",
-      "due": "Today",
-      "overdue": false
-    },
-    {
       "title": "Pack the European plug adapters tonight",
       "project": "Mike + Dan — Board",
       "due": "Today",
       "overdue": false
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
-      "overdue": true
+      "title": "Get printer paper before the passport print sitting",
+      "project": "Mike + Dan — Board",
+      "due": "Today",
+      "overdue": false
     }
   ],
   "routines": {
@@ -84,15 +78,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the books — a genuinely open Saturday."
+      "line": "An open Portland Saturday — the calendar is empty top to bottom."
     },
     {
       "time": "Afternoon",
-      "line": "The trip list wants a little attention: printer paper for the passport packet before Tuesday's one print sitting."
+      "line": "Still nothing scheduled; the day stays yours to steer."
     },
     {
       "time": "Evening",
-      "line": "Pack tonight, plug adapters in the bag, ahead of tomorrow's flight to New York."
+      "line": "A quiet night ahead of an early Sunday start."
     }
   ],
   "japanese": {
