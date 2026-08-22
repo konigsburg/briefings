@@ -1,21 +1,21 @@
 {
   "date": "Friday, August 21, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "Keep today gentle — a few errands, a drive north, and rest for Mike.",
-  "greeting": "A light Friday, Dan. A couple of errands and the midday run up to Rockland, with the evening kept clear while Mike recovers from oral surgery.",
+  "theme": "A quiet coast evening while Mike mends.",
+  "greeting": "The morning errands and the noon drive to Rockland are behind you, Dan, and the girls are with Jen this stretch. What's left of the night is open, with the house kept light while Mike recovers.",
   "needsAttention": [
     {
       "tag": "Due today",
       "title": "Book Sunday's NYC dinner",
-      "detail": "Michael's P1 on the Mike + Dan board is due today — reserve dinner for two on Sunday the 23rd. A direct call for bar or counter seats should land it at 48 hours out."
+      "detail": "The p1 on the Mike + Dan board is due today. The table for two on Sunday the 23rd is already confirmed as a plan, so this is a 15-minute call for bar or counter seats, not an app refresh."
     }
   ],
   "schedule": [
     {
       "time": "All day",
-      "title": "Keep it light for Mike",
-      "detail": "Recovering from oral surgery — soft food, easy pace",
-      "tag": "Rest"
+      "title": "Mike recovering",
+      "detail": "Soft food, day kept clear after oral surgery",
+      "tag": "Care"
     },
     {
       "time": "9:30 AM",
@@ -33,31 +33,31 @@
       "time": "12:00 PM",
       "title": "Drive to Rockland",
       "detail": "Bring the Forester keys",
-      "tag": "Drive"
+      "tag": "Travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "New policy & regulatory roles",
-        "detail": "LinkedIn flagged roles like Head of Policy and Regulatory Affairs – US at Elliptic — worth a two-minute scan."
+        "tag": "Security",
+        "title": "New-device note on your Google account",
+        "detail": "Google sent a 'welcome on your new PC' and account-review message early this morning — worth a glance to confirm the sign-in was you."
       }
     ],
-    "noise": "Everything else is delivery notices, newsletters, and shop promos — UPS, the Press Herald, a couple of coffee and wine lists.",
-    "clear": "Nothing is waiting on your reply."
+    "noise": "A daily Japanese lesson to yourself and a BBYO reunion Evite thread.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Scheduled",
-      "title": "Call with Martin Steindl is set",
-      "detail": "You replied and Martin confirmed Thursday the 27th at 12:00 EST and sent the invite — the thread's closed."
+      "tag": "Networking",
+      "title": "Call with Martin Steindl locked in",
+      "detail": "You replied and he sent the invite — you're set for Thursday the 27th at 12:00 EST on the Valoris group conversation."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Coastal Maine",
+    "location": "Rockland / Vinalhaven, Maine",
     "confidence": "high",
     "asOf": "Friday Aug 21"
   },
@@ -81,22 +81,22 @@
     }
   ],
   "routines": {
-    "morning": "5/10",
-    "day": "0/3",
-    "evening": "1/4"
+    "morning": "0/5",
+    "day": "0/6",
+    "evening": "0/3"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Juliano stops by at 9:30, then clothes to mail before the late-morning errands wrap."
+      "line": "Juliano stopped by at 9:30 and the clothes went in the mail — the front of the day was errands."
     },
     {
       "time": "Afternoon",
-      "line": "The noon drive to Rockland anchors the middle of the day — Forester keys in hand."
+      "line": "The noon drive to Rockland put you back near the ferry and Vinalhaven."
     },
     {
       "time": "Evening",
-      "line": "Nothing on the calendar tonight — keep it soft and slow while Mike heals."
+      "line": "Nothing on the calendar — a light night, with Mike taking it easy and the house quiet."
     }
   ],
   "japanese": {
