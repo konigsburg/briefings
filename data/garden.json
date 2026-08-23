@@ -1,38 +1,38 @@
 {
-  "date": "Sun, Aug 16",
+  "date": "Sun, Aug 23",
   "region": "NH Seacoast · zone 6a",
-  "generatedAt": "Weekly · Aug 16",
-  "headline": "Last good window to direct-sow fast fall greens — get spinach, lettuce, arugula, radishes, and kale in now for an October harvest.",
+  "generatedAt": "Weekly · Aug 23",
+  "headline": "It's prime fall-planting week: direct-sow spinach, lettuce, radishes, and kale now so they mature before the mid-October frost.",
   "tasks": [
     {
       "tag": "Sow now",
-      "title": "Direct-sow fall greens",
-      "detail": "With ~8-9 weeks to first frost (mid-Oct), sow quick 40-60 day crops now: spinach, lettuce, arugula, radishes, kale, cilantro, and Asian greens. Water the seedbed daily until they germinate in the late-summer heat."
+      "title": "Direct-sow fall greens and roots",
+      "detail": "Sow spinach, lettuce, arugula, radishes, and kale straight into the bed this week. There's still time to mature before your ~mid-October frost, and the cooler nights ahead make these cool-season crops sweeter and more tender."
     },
     {
       "tag": "Harvest",
-      "title": "Keep picking summer crops",
-      "detail": "Tomatoes, zucchini, cucumbers, beans, and peppers are peaking. Harvest every day or two — picking regularly keeps plants producing and stops zucchini from turning to baseball bats."
-    },
-    {
-      "tag": "Pest watch",
-      "title": "Late blight & powdery mildew",
-      "detail": "Humid coastal air makes this prime time for late blight on tomatoes (brown greasy spots, fast spread) and white powdery mildew on squash and cucumbers. Remove affected leaves, improve airflow, and never compost blighted foliage."
+      "title": "Keep picking every day or two",
+      "detail": "Pick tomatoes, zucchini, cucumbers, and beans frequently to keep the plants producing. Snip basil tips before they flower so the plant keeps pushing new leaves instead of setting seed."
     },
     {
       "tag": "Water",
-      "title": "Water deep and steady",
-      "detail": "Give beds about 1 inch per week, watering at the base in the morning. Consistent moisture prevents tomato cracking and blossom-end rot during the August heat."
+      "title": "Water new seedbeds daily",
+      "detail": "Late-summer dry spells stall germination and stress plants. Keep the top inch of any newly sown fall bed moist every day until sprouts are up, and give established beds a deep soak once or twice a week."
+    },
+    {
+      "tag": "Pest watch",
+      "title": "Late blight and powdery mildew",
+      "detail": "Coastal humidity favors late blight on tomatoes and powdery mildew on squash and cucumbers. Remove spotted or yellowing leaves, water at the soil line rather than overhead, and throw badly infected foliage in the trash, not the compost."
     },
     {
       "tag": "Prune",
-      "title": "Open up tomato plants",
-      "detail": "Strip the lower 12 inches of leaves off tomatoes and thin dense growth to boost airflow and sunlight to ripening fruit. Stop topping/feeding heavily so plants ripen what they've set before frost."
+      "title": "Top your indeterminate tomatoes",
+      "detail": "Pinch out the growing tips of tall (indeterminate) tomatoes now. With roughly seven to eight weeks to frost, this steers energy into ripening the fruit already on the vine instead of new growth that won't finish in time."
     },
     {
       "tag": "Prep",
-      "title": "Order garlic for October",
-      "detail": "Buy seed garlic now while supply is good — you'll plant cloves in mid-to-late October, a few weeks before the ground freezes, for a bigger harvest next summer."
+      "title": "Order seed garlic for October",
+      "detail": "Order your seed garlic now for planting next month. Hardneck varieties overwinter best in NH, and the good ones sell out early in the season."
     }
   ]
 }
