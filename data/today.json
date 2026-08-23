@@ -1,66 +1,66 @@
 {
   "date": "Sunday, August 23, 2026",
   "generatedAt": "Morning brief · 12:03 PM ET",
-  "theme": "An open Sunday, one dinner at the end.",
-  "greeting": "A quiet Sunday with plenty of open space, Dan. The 15-minute review with Mike is behind you and the calendar's clear until dinner — good room to close out the last trip booking.",
+  "theme": "A light Sunday with one deadline and dinner to close it.",
+  "greeting": "A quiet Sunday, Dan — the 15-minute review with Mike is behind you and dinner at Misi is the only other thing set, so the day is largely yours. Booking the last Dubrovnik night is the one item with a clock on it today.",
   "needsAttention": [
     {
-      "tag": "Trip booking",
+      "tag": "Due today",
       "title": "Book the last Dubrovnik night",
-      "detail": "In Todoist, due today (p1): the single night of Sat Sep 19 in Cavtat near the airport, after the charter disembarks and before the 7:30 AM Sunday flight home. The first three nights are already confirmed."
+      "detail": "A p1 task in Todoist is due today: reserve a room in Cavtat for Sat Sept 19 — after the charter disembarks by 8am and before the 7:30am Sunday flight from DBV."
     },
     {
       "tag": "Tomorrow",
-      "title": "Neurology appointment in the city",
-      "detail": "On your calendar for tomorrow, Mon Aug 24, at HSS with Dr. Erin Manning — plan to arrive by 1:45 PM."
+      "title": "Neurology at HSS tomorrow",
+      "detail": "Dr. Erin Manning at the HSS Belaire building, 525 E 71st St; the invite asks you to arrive by 1:45 PM."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board sweep",
-      "tag": "work"
+      "detail": "15-minute board sweep",
+      "tag": "Meeting"
     },
     {
       "time": "6:45 PM",
       "title": "Dinner at Misi",
-      "detail": "Williamsburg",
-      "tag": "dinner"
+      "detail": "Reservation for the evening",
+      "tag": "Personal"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Head of Policy role posted",
-        "detail": "A LinkedIn alert flagged an SVP / Head of Policy opening at Stedi — worth a glance given the search."
-      },
-      {
         "tag": "Financial",
         "title": "Plumbing invoice forwarded",
-        "detail": "Mike forwarded a Forest City Plumbing invoice (#4483) for $852.94."
+        "detail": "Mike forwarded Forest City Plumbing invoice #4483 for $852.94."
+      },
+      {
+        "tag": "Job search",
+        "title": "Head of Policy role posted",
+        "detail": "A LinkedIn alert flagged a Stedi Head of Policy / SVP Global posting from Aug 20."
       },
       {
         "tag": "FYI",
-        "title": "Sailing books shipping to Florida",
-        "detail": "Amy at Nautilus asked for a Florida address to send the course textbooks ahead of Sep 12."
+        "title": "Sailing textbooks delayed",
+        "detail": "Nautilus is waiting on an ASA restock; Amy asked for a Florida shipping address for the course books."
       }
     ],
-    "noise": "The rest is retail and promos — Fog Linen, Folio Society, a BBYO reunion RSVP, and a couple of LinkedIn pings.",
+    "noise": "The rest is newsletters and promos — NYT Cooking, WSJ, Folio Society, and retail.",
     "clear": ""
   },
   "resolved": [
     {
       "tag": "Scheduled",
-      "title": "Valoris call is locked in",
-      "detail": "You confirmed Thursday, Aug 27 at 12:00 EST with Martin Steindl, and the invite is on your calendar."
+      "title": "Valoris call locked for Thursday",
+      "detail": "Martin Steindl sent the Teams invite; you're set for Thu Aug 27 at 12:00 EST."
     }
   ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "New York",
+    "location": "New York City",
     "confidence": "high",
     "asOf": "Sunday Aug 23"
   },
@@ -72,7 +72,7 @@
   "tasks": [
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -85,15 +85,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The 15-minute Sunday review with Mike is done — the morning opens up from here."
+      "line": "A 15-minute review with Mike at nine was the only thing on the calendar."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar, a clear stretch to yourself."
+      "line": "Nothing scheduled — the afternoon is entirely open."
     },
     {
       "time": "Evening",
-      "line": "A dinner reservation in the city rounds off the day."
+      "line": "Dinner at Misi at 6:45 closes the day."
     }
   ],
   "japanese": {
