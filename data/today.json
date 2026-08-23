@@ -1,74 +1,66 @@
 {
   "date": "Sunday, August 23, 2026",
   "generatedAt": "Morning brief · 10:03 AM ET",
-  "theme": "A light travel Sunday — reset, fly north, dinner in Brooklyn.",
-  "greeting": "A light, mobile day, Dan: fifteen minutes with Mike to reset the board, a flight up to New York, and a table at Misi tonight. The girls rotate back to you and Mike this evening.",
+  "theme": "An open Sunday, one dinner at the end.",
+  "greeting": "A quiet Sunday with plenty of open space, Dan. The 15-minute review with Mike is behind you and the calendar's clear until dinner — good room to close out the last trip booking.",
   "needsAttention": [
     {
-      "tag": "Booking · today",
+      "tag": "Trip booking",
       "title": "Book the last Dubrovnik night",
-      "detail": "The p1 task on the Mike + Dan board is due today: one room in Cavtat, near the airport, for Sat Sept 19 — after the charter disembarks and before the 7:30 AM Sunday flight home."
+      "detail": "In Todoist, due today (p1): the single night of Sat Sep 19 in Cavtat near the airport, after the charter disembarks and before the 7:30 AM Sunday flight home. The first three nights are already confirmed."
     },
     {
-      "tag": "Overdue",
-      "title": "Destination edit work",
-      "detail": "In Professional Projects, due Aug 15 and now eight days overdue — either it moves today or it's worth deciding whether it's still live."
-    },
-    {
-      "tag": "Tomorrow · NYC",
-      "title": "Neurology appointment",
-      "detail": "Dr. Erin Manning at HSS on East 71st, on tomorrow's calendar with Mike — arrive by 1:45 PM, so today's travel wants to land with room to spare."
+      "tag": "Tomorrow",
+      "title": "Neurology appointment in the city",
+      "detail": "On your calendar for tomorrow, Mon Aug 24, at HSS with Dr. Erin Manning — plan to arrive by 1:45 PM."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
-      "title": "Sunday review — Mike + Dan",
-      "detail": "Fifteen-minute board reset on Google Meet.",
-      "tag": "review"
+      "title": "Sunday review with Mike",
+      "detail": "15-min board sweep",
+      "tag": "work"
     },
     {
       "time": "6:45 PM",
       "title": "Dinner at Misi",
-      "detail": "Table in Brooklyn.",
+      "detail": "Williamsburg",
       "tag": "dinner"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Airbnb charge for Dubrovnik",
-        "detail": "PayPal shows $940.42 authorized to Airbnb on Aug 22, and your Sept 9–12 stay receipt arrived."
+        "tag": "Job search",
+        "title": "Head of Policy role posted",
+        "detail": "A LinkedIn alert flagged an SVP / Head of Policy opening at Stedi — worth a glance given the search."
       },
       {
         "tag": "Financial",
-        "title": "Card & internet payments cleared",
-        "detail": "Chase Sapphire and Fidium both confirmed payments received over the weekend."
+        "title": "Plumbing invoice forwarded",
+        "detail": "Mike forwarded a Forest City Plumbing invoice (#4483) for $852.94."
       },
       {
-        "tag": "Health",
-        "title": "Sarasota Memorial bulletin",
-        "detail": "A FollowMyHealth news bulletin is waiting behind a secure login."
-      },
-      {
-        "tag": "Security",
-        "title": "Meta & UPS account codes",
-        "detail": "Automated login and verification codes from Meta and UPS — expected if you were signing in."
+        "tag": "FYI",
+        "title": "Sailing books shipping to Florida",
+        "detail": "Amy at Nautilus asked for a Florida address to send the course textbooks ahead of Sep 12."
       }
     ],
-    "noise": "Otherwise the usual newsletters (FT, NYT Cooking, Daily Italian, Responsible Investor, Press Herald) and shop promos.",
-    "clear": "No mail awaiting a personal reply, and nothing job-search today."
+    "noise": "The rest is retail and promos — Fog Linen, Folio Society, a BBYO reunion RSVP, and a couple of LinkedIn pings.",
+    "clear": ""
   },
   "resolved": [
-    "Dubrovnik Sept 9–12 stay confirmed — Airbnb receipt in; only the Sept 19 night remains.",
-    "Tonight's Misi table booked — the board's 'book NYC dinner' is closed out.",
-    "Chase and Fidium payments both cleared."
+    {
+      "tag": "Scheduled",
+      "title": "Valoris call is locked in",
+      "detail": "You confirmed Thursday, Aug 27 at 12:00 EST with Martin Steindl, and the invite is on your calendar."
+    }
   ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "New York, NY",
+    "location": "New York",
     "confidence": "high",
     "asOf": "Sunday Aug 23"
   },
@@ -79,29 +71,29 @@
   },
   "tasks": [
     {
-      "title": "Clear the superseded travel task",
-      "project": "Mike + Dan — Board",
-      "due": "Today",
-      "overdue": false
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
+      "overdue": true
     }
   ],
   "routines": {
-    "morning": "6/10",
-    "day": "0/3",
+    "morning": "0/4",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "9:00 AM — the 15-minute Sunday reset with Mike; empty the board and date what's live."
+      "line": "The 15-minute Sunday review with Mike is done — the morning opens up from here."
     },
     {
       "time": "Afternoon",
-      "line": "Open — a good window to lock the Cavtat hotel night."
+      "line": "Nothing on the calendar, a clear stretch to yourself."
     },
     {
       "time": "Evening",
-      "line": "6:45 dinner at Misi."
+      "line": "A dinner reservation in the city rounds off the day."
     }
   ],
   "japanese": {
