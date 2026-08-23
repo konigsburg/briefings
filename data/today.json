@@ -1,96 +1,93 @@
 {
   "date": "Sunday, August 23, 2026",
   "generatedAt": "Morning brief · 8:12 AM ET",
-  "theme": "A quiet Sunday in the city — the weekly reset with Mike, then dinner out.",
-  "greeting": "An easy Sunday, Dan — a 15-minute reset with Mike at 9, the day open after, and dinner at Misi tonight. The one thing due today is locking the last Dubrovnik night.",
+  "theme": "A light travel Sunday — reset, fly north, dinner in Brooklyn.",
+  "greeting": "A light, mobile day, Dan: fifteen minutes with Mike to reset the board, a flight up to New York, and a table at Misi tonight. The girls rotate back to you and Mike this evening.",
   "needsAttention": [
     {
-      "tag": "Due today · P1",
-      "title": "Book the last Dubrovnik night — Sept 19, in Cavtat",
-      "detail": "Priority task due today: the charter disembarks by 8 AM Sat Sept 19 and you fly out 7:30 AM Sunday, so you need the night of the 19th. Mike wants Cavtat (by the airport), not Old Town; the other three nights are already booked."
+      "tag": "Booking · today",
+      "title": "Book the last Dubrovnik night",
+      "detail": "The p1 task on the Mike + Dan board is due today: one room in Cavtat, near the airport, for Sat Sept 19 — after the charter disembarks and before the 7:30 AM Sunday flight home."
     },
     {
-      "tag": "Prep · tomorrow",
-      "title": "Neurology with Dr. Manning tomorrow, 1:45 PM",
-      "detail": "Mike's appointment at HSS (Belaire, E 71st, NYC) — arrive by 1:45. Worth sorting the ride and any pre-visit paperwork today."
+      "tag": "Overdue",
+      "title": "Destination edit work",
+      "detail": "In Professional Projects, due Aug 15 and now eight days overdue — either it moves today or it's worth deciding whether it's still live."
+    },
+    {
+      "tag": "Tomorrow · NYC",
+      "title": "Neurology appointment",
+      "detail": "Dr. Erin Manning at HSS on East 71st, on tomorrow's calendar with Mike — arrive by 1:45 PM, so today's travel wants to land with room to spare."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
-      "title": "Sunday review with Mike",
-      "detail": "15 min on Meet — clear the board, owners + dates, kill what's stalled.",
+      "title": "Sunday review — Mike + Dan",
+      "detail": "Fifteen-minute board reset on Google Meet.",
       "tag": "review"
     },
     {
       "time": "6:45 PM",
       "title": "Dinner at Misi",
-      "detail": "Reservation in the city.",
+      "detail": "Table in Brooklyn.",
       "tag": "dinner"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Call set with Martin Steindl (Valoris)",
-        "detail": "You've agreed Thursday the 27th at 12 PM EST and he's sent the invite — nothing more needed now."
+        "tag": "Financial",
+        "title": "Airbnb charge for Dubrovnik",
+        "detail": "PayPal shows $940.42 authorized to Airbnb on Aug 22, and your Sept 9–12 stay receipt arrived."
       },
       {
-        "tag": "FYI",
-        "title": "Dubrovnik apartment confirmed (Sep 9–12)",
-        "detail": "The Airbnb reservation for the Old Port apartment is confirmed."
+        "tag": "Financial",
+        "title": "Card & internet payments cleared",
+        "detail": "Chase Sapphire and Fidium both confirmed payments received over the weekend."
+      },
+      {
+        "tag": "Health",
+        "title": "Sarasota Memorial bulletin",
+        "detail": "A FollowMyHealth news bulletin is waiting behind a secure login."
+      },
+      {
+        "tag": "Security",
+        "title": "Meta & UPS account codes",
+        "detail": "Automated login and verification codes from Meta and UPS — expected if you were signing in."
       }
     ],
-    "noise": "Otherwise quiet — a few receipts and the usual digests.",
-    "clear": ""
+    "noise": "Otherwise the usual newsletters (FT, NYT Cooking, Daily Italian, Responsible Investor, Press Herald) and shop promos.",
+    "clear": "No mail awaiting a personal reply, and nothing job-search today."
   },
   "resolved": [
-    {
-      "tag": "Booked",
-      "title": "Sunday NYC dinner is set",
-      "detail": "The Misi reservation for tomorrow at 6:45 is on the calendar - the 'book NYC dinner' item is done."
-    },
-    {
-      "tag": "Scheduled",
-      "title": "Valoris call locked with Martin",
-      "detail": "You confirmed Thursday the 27th at 12 EST with Martin Steindl, and he sent the invite - nothing more to do until then."
-    },
-    {
-      "tag": "Handled",
-      "title": "Mike's print job is done",
-      "detail": "You printed the files Mike sent Friday and replied that they were done."
-    }
+    "Dubrovnik Sept 9–12 stay confirmed — Airbnb receipt in; only the Sept 19 night remains.",
+    "Tonight's Misi table booked — the board's 'book NYC dinner' is closed out.",
+    "Chase and Fidium payments both cleared."
   ],
   "context": {
-    "kids": false,
-    "phase": "green",
+    "kids": true,
+    "phase": "blue",
     "location": "New York, NY",
-    "confidence": "low",
-    "asOf": "Sun Aug 23"
+    "confidence": "high",
+    "asOf": "Sunday Aug 23"
   },
   "recipe": {
     "title": "Poached Peaches",
     "book": "How to Eat",
-    "why": "Peak-summer peaches are everywhere right now, and a gentle poach is the kind of unhurried, from-scratch dessert that suits a Sunday evening back with the girls."
+    "why": "Peaches are at their late-August peak — one to file away for when you're back at your own stove, since tonight's dinner is already handled at Misi."
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
-      "overdue": true
-    },
-    {
-      "title": "Kill the superseded Dubrovnik task",
-      "project": "Travel",
-      "due": "Today — at the review",
+      "title": "Clear the superseded travel task",
+      "project": "Mike + Dan — Board",
+      "due": "Today",
       "overdue": false
     }
   ],
   "routines": {
-    "morning": "0/4",
-    "day": "0/6",
+    "morning": "6/10",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
