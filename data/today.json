@@ -1,62 +1,51 @@
 {
   "date": "Sunday, August 23, 2026",
-  "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "A light Sunday with one deadline and dinner to close it.",
-  "greeting": "A quiet Sunday, Dan — the 15-minute review with Mike is behind you and dinner at Misi is the only other thing set, so the day is largely yours. Booking the last Dubrovnik night is the one item with a clock on it today.",
+  "generatedAt": "Morning brief · 2:06 PM ET",
+  "theme": "An open Sunday, dinner at Misi, travel tomorrow.",
+  "greeting": "The board's already cleared and the afternoon is yours, Dan — one booking to lock in, then dinner at Misi to close things out. Tomorrow you're on the move: a neurology appointment in the city, then down to the St. Pete house with the girls.",
   "needsAttention": [
     {
-      "tag": "Due today",
+      "tag": "Due today · p1",
       "title": "Book the last Dubrovnik night",
-      "detail": "A p1 task in Todoist is due today: reserve a room in Cavtat for Sat Sept 19 — after the charter disembarks by 8am and before the 7:30am Sunday flight from DBV."
+      "detail": "On the Mike + Dan board: reserve a room in Cavtat for Sat Sept 19 — after the charter disembarks by 8 AM and before the 7:30 AM Sunday flight from DBV. Mike wants Cavtat, not Old Town, for the early airport run."
     },
     {
-      "tag": "Tomorrow",
-      "title": "Neurology at HSS tomorrow",
-      "detail": "Dr. Erin Manning at the HSS Belaire building, 525 E 71st St; the invite asks you to arrive by 1:45 PM."
+      "tag": "Overdue",
+      "title": "Destination edit work",
+      "detail": "In Professional Projects, dated Aug 15 and now eight days overdue — the one non-routine item still sitting on the list."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-minute board sweep",
-      "tag": "Meeting"
+      "detail": "15-min board reset",
+      "tag": "review"
     },
     {
       "time": "6:45 PM",
       "title": "Dinner at Misi",
-      "detail": "Reservation for the evening",
-      "tag": "Personal"
+      "detail": "table until 7:45",
+      "tag": "dinner"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Plumbing invoice forwarded",
-        "detail": "Mike forwarded Forest City Plumbing invoice #4483 for $852.94."
+        "tag": "FYI",
+        "title": "St. Pete house check-in details",
+        "detail": "The Heart of Kenwood host sent the smart-lock code, parking, and wifi — check-in is Monday at 4 PM."
       },
       {
         "tag": "Job search",
-        "title": "Head of Policy role posted",
-        "detail": "A LinkedIn alert flagged a Stedi Head of Policy / SVP Global posting from Aug 20."
-      },
-      {
-        "tag": "FYI",
-        "title": "Sailing textbooks delayed",
-        "detail": "Nautilus is waiting on an ASA restock; Amy asked for a Florida shipping address for the course books."
+        "title": "KPMG partner wants to connect",
+        "detail": "A LinkedIn invite from a forensic partner at KPMG Deutschland — worth a look given the board search."
       }
     ],
-    "noise": "The rest is newsletters and promos — NYT Cooking, WSJ, Folio Society, and retail.",
-    "clear": ""
+    "noise": "Otherwise it's newsletters and sales — WSJ, NYT Cooking, and a handful of promos.",
+    "clear": "Nothing is waiting on your reply."
   },
-  "resolved": [
-    {
-      "tag": "Scheduled",
-      "title": "Valoris call locked for Thursday",
-      "detail": "Martin Steindl sent the Teams invite; you're set for Thu Aug 27 at 12:00 EST."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -69,14 +58,7 @@
     "book": "How to Eat",
     "why": "High summer means peaches at their ripest, so let them shine with the gentlest cooking."
   },
-  "tasks": [
-    {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
-      "overdue": true
-    }
-  ],
+  "tasks": [],
   "routines": {
     "morning": "0/4",
     "day": "0/6",
@@ -85,15 +67,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A 15-minute review with Mike at nine was the only thing on the calendar."
+      "line": "The 15-minute board review with Mike wrapped before nine."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled — the afternoon is entirely open."
+      "line": "The afternoon runs open — nothing on the calendar until dinner."
     },
     {
       "time": "Evening",
-      "line": "Dinner at Misi at 6:45 closes the day."
+      "line": "Dinner at Misi at 6:45, then an early night before tomorrow's travel."
     }
   ],
   "japanese": {
