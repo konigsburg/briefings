@@ -1,18 +1,18 @@
 {
   "date": "Sunday, August 23, 2026",
   "generatedAt": "Morning brief · 6:04 PM ET",
-  "theme": "An open Sunday, dinner at Misi, travel tomorrow.",
-  "greeting": "The board's already cleared and the afternoon is yours, Dan — one booking to lock in, then dinner at Misi to close things out. Tomorrow you're on the move: a neurology appointment in the city, then down to the St. Pete house with the girls.",
+  "theme": "A quiet Sunday in the city — one booking to close, then dinner.",
+  "greeting": "The board review is behind you and the evening opens at Misi, Dan. The one open thread is the last Dubrovnik night — Mike is waiting on the Cavtat booking before it slips.",
   "needsAttention": [
     {
-      "tag": "Due today · p1",
-      "title": "Book the last Dubrovnik night",
-      "detail": "On the Mike + Dan board: reserve a room in Cavtat for Sat Sept 19 — after the charter disembarks by 8 AM and before the 7:30 AM Sunday flight from DBV. Mike wants Cavtat, not Old Town, for the early airport run."
+      "tag": "Blocked · travel",
+      "title": "Last Dubrovnik night still unbooked",
+      "detail": "On the Mike + Dan board, flagged p1 and due today: book the single night of Sept 19 in Cavtat near the airport, after the charter disembarks and before the 7:30am flight out. Mike is waiting on this one."
     },
     {
-      "tag": "Overdue",
-      "title": "Destination edit work",
-      "detail": "In Professional Projects, dated Aug 15 and now eight days overdue — the one non-routine item still sitting on the list."
+      "tag": "Tomorrow · prep",
+      "title": "Appointment with Mike, arrive by 1:45",
+      "detail": "Tomorrow's 1:45 PM appointment with Mike at HSS on the Upper East Side needs a firm arrival time — leave enough runway from wherever the morning starts."
     }
   ],
   "schedule": [
@@ -20,35 +20,24 @@
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
       "detail": "15-min board reset",
-      "tag": "review"
+      "tag": "Done"
     },
     {
       "time": "6:45 PM",
       "title": "Dinner at Misi",
-      "detail": "table until 7:45",
-      "tag": "dinner"
+      "detail": "Table booked for tonight",
+      "tag": "Dinner"
     }
   ],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "FYI",
-        "title": "St. Pete house check-in details",
-        "detail": "The Heart of Kenwood host sent the smart-lock code, parking, and wifi — check-in is Monday at 4 PM."
-      },
-      {
-        "tag": "Job search",
-        "title": "KPMG partner wants to connect",
-        "detail": "A LinkedIn invite from a forensic partner at KPMG Deutschland — worth a look given the board search."
-      }
-    ],
-    "noise": "Otherwise it's newsletters and sales — WSJ, NYT Cooking, and a handful of promos.",
-    "clear": "Nothing is waiting on your reply."
+    "flagged": [],
+    "noise": "",
+    "clear": ""
   },
   "resolved": [],
   "context": {
-    "kids": true,
-    "phase": "blue",
+    "kids": false,
+    "phase": "green",
     "location": "New York City",
     "confidence": "high",
     "asOf": "Sunday Aug 23"
@@ -58,24 +47,31 @@
     "book": "How to Eat",
     "why": "Peaches are at their late-summer peak right now, so poach the ripest and let the season carry the dish."
   },
-  "tasks": [],
+  "tasks": [
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
+      "overdue": true
+    }
+  ],
   "routines": {
     "morning": "0/4",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The 15-minute board review with Mike wrapped before nine."
+      "line": "The 15-minute board review with Mike squared away the week."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon runs open — nothing on the calendar until dinner."
+      "line": "An open stretch in the city with nothing on the calendar."
     },
     {
       "time": "Evening",
-      "line": "Dinner at Misi at 6:45, then an early night before tomorrow's travel."
+      "line": "Dinner at Misi at 6:45 closes the day."
     }
   ],
   "japanese": {
