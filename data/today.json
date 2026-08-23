@@ -1,46 +1,49 @@
 {
   "date": "Sunday, August 23, 2026",
-  "generatedAt": "Morning brief · 6:02 AM ET",
-  "theme": "An open day, with travel and a passport deadline on the horizon.",
-  "greeting": "Good evening, Dan. A wide-open Saturday with the girls at Jen's until tomorrow's handoff - the weight is all in what comes next: the Sunday review at nine, the run to New York, and dinner at Misi.",
+  "generatedAt": "Morning brief · 8:04 AM ET",
+  "theme": "A quiet Sunday in the city — the weekly reset with Mike, then dinner out.",
+  "greeting": "An easy Sunday, Dan — a 15-minute reset with Mike at 9, the day open after, and dinner at Misi tonight. The one thing due today is locking the last Dubrovnik night.",
   "needsAttention": [
     {
-      "tag": "Passport packet",
-      "title": "Mike's passport packet is on the clock",
-      "detail": "Nothing prints today - Mike carries the birth certificates and expired passports through Sunday and Monday travel, landing in Tampa Monday night. The one real print window is Tuesday the 25th: four DS-11s, front-and-back ID copies, and birth-certificate copies in a single sitting, ahead of the Wednesday deadline and Friday's appointment. The State Dept fee (~$400) is check or money order only."
+      "tag": "Due today · P1",
+      "title": "Book the last Dubrovnik night — Sept 19, in Cavtat",
+      "detail": "Priority task due today: the charter disembarks by 8 AM Sat Sept 19 and you fly out 7:30 AM Sunday, so you need the night of the 19th. Mike wants Cavtat (by the airport), not Old Town; the other three nights are already booked."
     },
     {
-      "tag": "Tomorrow prep",
-      "title": "Walk the board before the 9 AM review",
-      "detail": "Mike runs the 15-minute Sunday review tomorrow morning, and it only works if the board is clean going in. Arrive holding the live items: the passport packet, the St. Pete car rental due the 28th, and the Halloween call (St Pete or Maine) due Sept 5."
+      "tag": "Prep · tomorrow",
+      "title": "Neurology with Dr. Manning tomorrow, 1:45 PM",
+      "detail": "Mike's appointment at HSS (Belaire, E 71st, NYC) — arrive by 1:45. Worth sorting the ride and any pre-visit paperwork today."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "title": "Sunday review with Mike",
+      "detail": "15 min on Meet — clear the board, owners + dates, kill what's stalled.",
+      "tag": "review"
+    },
+    {
+      "time": "6:45 PM",
+      "title": "Dinner at Misi",
+      "detail": "Reservation in the city.",
+      "tag": "dinner"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Amra Balic wants to meet in NYC",
-        "detail": "Following your Sustainalytics note, Amra (BlackRock) says she's in New York Sep 5-11 and would love to catch up in person - a warm reply is owed and worth locking a slot while you're in the city."
+        "title": "Call set with Martin Steindl (Valoris)",
+        "detail": "You've agreed Thursday the 27th at 12 PM EST and he's sent the invite — nothing more needed now."
       },
       {
-        "tag": "Financial",
-        "title": "Plumbing invoice forwarded by Mike",
-        "detail": "Mike passed along Forest City Plumbing invoice 4483 for $852.94 - a bill to pay or route, not a promo."
-      },
-      {
-        "tag": "Health",
-        "title": "MaineHealth updated your Sep 3 estimate",
-        "detail": "The cost estimate for your Sep 3 visit changed after your insurer sent modified benefit info - worth a glance before the appointment."
-      },
-      {
-        "tag": "Security",
-        "title": "New PC signed in to your Google account",
-        "detail": "Google sent a new-device welcome and a nudge to review your account settings - confirm it was you."
+        "tag": "FYI",
+        "title": "Dubrovnik apartment confirmed (Sep 9–12)",
+        "detail": "The Airbnb reservation for the Old Port apartment is confirmed."
       }
     ],
-    "noise": "The rest is promotions and social - Underpricer, DocHub, a Menla retreat pitch, and the BBYO reunion evite.",
-    "clear": "Beyond Amra, nothing else is waiting on your reply."
+    "noise": "Otherwise quiet — a few receipts and the usual digests.",
+    "clear": ""
   },
   "resolved": [
     {
@@ -62,9 +65,9 @@
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Portland, Maine",
-    "confidence": "high",
-    "asOf": "Sat Aug 22"
+    "location": "New York, NY",
+    "confidence": "low",
+    "asOf": "Sun Aug 23"
   },
   "recipe": {
     "title": "Poached Peaches",
@@ -73,41 +76,35 @@
   },
   "tasks": [
     {
-      "title": "Get printer paper for the passport print",
-      "project": "Mike + Dan - Board",
-      "due": "Today",
-      "overdue": false
-    },
-    {
-      "title": "Pack the European plug adapters",
-      "project": "Mike + Dan - Board",
-      "due": "Tonight",
-      "overdue": false
-    },
-    {
       "title": "Destination edit work",
       "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
+    },
+    {
+      "title": "Kill the superseded Dubrovnik task",
+      "project": "Travel",
+      "due": "Today — at the review",
+      "overdue": false
     }
   ],
   "routines": {
     "morning": "0/4",
-    "day": "0/5",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the books - a genuinely open Saturday with the girls at Jen's."
+      "line": "9:00 AM — the 15-minute Sunday reset with Mike; empty the board and date what's live."
     },
     {
       "time": "Afternoon",
-      "line": "Still nothing scheduled; a clear stretch to map the passport print run before Tuesday."
+      "line": "Open — a good window to lock the Cavtat hotel night."
     },
     {
       "time": "Evening",
-      "line": "The small pre-travel jobs - printer paper and the plug adapters in the bag - before tomorrow's early review and the drive to New York."
+      "line": "6:45 dinner at Misi."
     }
   ],
   "japanese": {
