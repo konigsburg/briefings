@@ -1,65 +1,50 @@
 {
   "date": "Saturday, August 22, 2026",
-  "generatedAt": "Morning brief · 8:02 PM ET",
-  "theme": "An open Saturday before the New York run.",
-  "greeting": "The whole day is open, Dan — Portland is quiet before tomorrow's early trip down to New York. The passport packet for Mike's girls is the one thread worth keeping in view.",
+  "generatedAt": "Morning brief · 8:06 PM ET",
+  "theme": "Open Saturday, then an early run to New York.",
+  "greeting": "A wide-open Saturday in Portland, Dan - no meetings, the girls at Jen's. Tonight's only real moves are small: printer paper and the plug adapters in the bag before tomorrow's 9 a.m. review with Mike and the trip down to New York.",
   "needsAttention": [
     {
-      "tag": "Passport deadline",
-      "title": "Print the girls' passport packet",
-      "detail": "Flagged p1 for today: the DS-11s, ID copies, and birth-certificate copies still need printing before the Aug 26 packet deadline and the Fri Aug 28 appointment. Mike carries the original documents to New York tomorrow, so Tuesday the 25th is the one clear work day left."
+      "tag": "Passport packet",
+      "title": "Mike's passport packet is on the clock",
+      "detail": "Nothing to print today - Mike carries the birth certificates and expired passports through Sunday and Monday travel. The one real print window is Tuesday the 25th: four DS-11s, the ID copies, birth-certificate copies, ahead of the Wednesday deadline and Friday's appointment. State Dept fee (~$400) is check or money order only."
+    },
+    {
+      "tag": "Tomorrow prep",
+      "title": "Sunday review with Mike at 9",
+      "detail": "Mike runs the 15-minute board review tomorrow morning. Arrive holding the three live items: the passport packet, the St. Pete car rental due the 28th, and the Halloween call (St Pete or Maine) due Sept 5."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Amra Balic wants to meet in NYC",
-        "detail": "BlackRock's Amra is in New York Sep 5-11 and asked to catch up in person; a reply is owed."
-      },
-      {
-        "tag": "Financial",
-        "title": "Plumbing bill for the Portland house",
-        "detail": "Mike forwarded a Forest City Plumbing invoice for $852.94 — worth settling who pays."
-      },
-      {
-        "tag": "Health",
-        "title": "MaineHealth estimate updated",
-        "detail": "The cost estimate for your Sep 3 visit changed after an insurance update; no action needed."
+        "tag": "Security",
+        "title": "New PC signed in to your Google account",
+        "detail": "Google sent a new-device welcome and a nudge to review your account settings - worth a glance to confirm it was you."
       },
       {
         "tag": "FYI",
-        "title": "Two Head of Policy roles surfaced",
-        "detail": "LinkedIn flagged Head of Policy openings at Stedi and Chainalysis against your searches."
+        "title": "New message in the BBYO reunion thread",
+        "detail": "Lauren Misrahi left a message on the B'Yachad BBYO reunion invite - personal, no rush."
       }
     ],
-    "noise": "The rest is shipping updates, an autopay reminder, and Google account and family-group setup notices.",
-    "clear": ""
+    "noise": "The rest is promotions - Underpricer, DocHub, and a Menla retreat pitch.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [
     {
       "tag": "Booked",
-      "title": "Sunday's New York dinner is set",
-      "detail": "A Misi reservation for tomorrow evening now shows on your calendar, closing the board's 'book NYC dinner' task."
-    },
-    {
-      "tag": "Scheduled",
-      "title": "Valoris call locked in",
-      "detail": "Martin Steindl sent the invite for Thursday the 27th at 12:00 EST after you proposed the time."
-    },
-    {
-      "tag": "Done",
-      "title": "Printing for Mike handled",
-      "detail": "You replied 'done and printed' to Mike's Friday print request."
+      "title": "Sunday NYC dinner is set",
+      "detail": "The Misi reservation for tomorrow at 6:45 is on the calendar - the 'book NYC dinner' item is done."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Portland, ME",
+    "location": "Portland, Maine",
     "confidence": "high",
-    "asOf": "Saturday Aug 22"
+    "asOf": "Sat Aug 22"
   },
   "recipe": {
     "title": "Tomatoes all dressed up for summer",
@@ -68,15 +53,15 @@
   },
   "tasks": [
     {
-      "title": "Get printer paper before the passport print sitting",
+      "title": "Get printer paper for the passport print",
       "project": "Mike + Dan - Board",
       "due": "Today",
       "overdue": false
     },
     {
-      "title": "Pack the European plug adapters tonight",
+      "title": "Pack the European plug adapters",
       "project": "Mike + Dan - Board",
-      "due": "Today",
+      "due": "Tonight",
       "overdue": false
     },
     {
@@ -87,22 +72,22 @@
     }
   ],
   "routines": {
-    "morning": "6/10",
-    "day": "1/3",
+    "morning": "0/4",
+    "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear Saturday in Portland — nothing at all on the calendar."
+      "line": "No meetings on the books - a genuinely open Saturday with the girls at Jen's."
     },
     {
       "time": "Afternoon",
-      "line": "Open, with the passport-packet prep and a printer-paper run to fit in before Mike leaves."
+      "line": "Still nothing scheduled; the day stayed yours."
     },
     {
       "time": "Evening",
-      "line": "Pack the plug adapters and turn in early ahead of the run down to New York."
+      "line": "The small pre-travel jobs - printer paper and the plug adapters in the bag - before tomorrow's early review and the drive to New York."
     }
   ],
   "japanese": {
