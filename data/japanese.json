@@ -1,78 +1,78 @@
 {
-  "lessonNo": 230,
-  "date": "Friday, Aug 21",
-  "generatedAt": "Lesson #230 · Aug 21",
-  "theme": "Obligation — must (～なければならない) vs. don't have to (～なくてもいい)",
-  "intro": "Two patterns built off the plain ～ない form for saying what you must do and what you don't have to — great for airports and travel rules.",
+  "lessonNo": 231,
+  "date": "Monday, Aug 24",
+  "generatedAt": "Lesson #231 · Aug 24",
+  "theme": "Permission & prohibition — may I? (～てもいい) vs. you must not (～てはいけない)",
+  "intro": "Two te-form patterns for asking if something's allowed and saying what's off-limits — exactly what you need in museums, temples, trains and shops.",
   "grammar": {
-    "title": "Obligation: ～なければならない / ～なくてもいい",
+    "title": "Permission & prohibition: ～てもいい / ～てはいけない",
     "rules": [
       {
-        "label": "Must / have to (～なければならない)",
-        "detail": "Take the ～ない form, drop the final い, add ければ ならない (polite: なりません). Casual: ～なきゃ.",
+        "label": "May / it's okay to (～てもいい)",
+        "detail": "Take the て-form and add もいい(です). Ask permission with ～てもいいですか. A quick 'yes' is はい、いいですよ; 'no' is すみません、ちょっと….",
         "examples": [
-          "行く → 行かない → 行かなければならない (must go)",
-          "食べる → 食べない → 食べなければならない (must eat)"
+          "座る → 座って → 座ってもいいですか (May I sit down?)",
+          "使う → 使って → 使ってもいいです (You may use it)"
         ]
       },
       {
-        "label": "Don't have to (～なくてもいい)",
-        "detail": "Take the ～ない form, drop the final い, add くてもいい.",
+        "label": "Must not (～てはいけない)",
+        "detail": "Take the て-form and add はいけない (polite: はいけません). はだめ is more casual. In speech は often shrinks: ～ちゃいけない / ～ちゃだめ.",
         "examples": [
-          "行かない → 行かなくてもいい (don't have to go)",
-          "予約しない → 予約しなくてもいい (don't have to reserve)"
+          "撮る → 撮って → 撮ってはいけません (You mustn't take photos)",
+          "入る → 入って → 入ってはだめ (Don't go in)"
         ]
       }
     ],
-    "bigPoint": "行かなければならない is literally a double negative: 'if I don't go, it won't do.' That mouthful is exactly why casual ～なきゃ exists."
+    "bigPoint": "Don't confuse ～てはいけない (must NOT do it — prohibited) with last week's ～なくてもいい (you DON'T HAVE to do it — optional). One forbids, the other excuses."
   },
   "vocab": [
     {
-      "jp": "パスポート",
-      "romaji": "pasupooto",
-      "en": "passport"
+      "jp": "写真（しゃしん）を撮る（とる）",
+      "romaji": "shashin o toru",
+      "en": "to take a photo"
     },
     {
-      "jp": "予約（よやく）",
-      "romaji": "yoyaku",
-      "en": "reservation, booking"
+      "jp": "入る（はいる）",
+      "romaji": "hairu",
+      "en": "to enter, to go in"
     },
     {
-      "jp": "見せる（みせる）",
-      "romaji": "miseru",
-      "en": "to show"
+      "jp": "触る（さわる）",
+      "romaji": "sawaru",
+      "en": "to touch"
     },
     {
-      "jp": "払う（はらう）",
-      "romaji": "harau",
-      "en": "to pay"
+      "jp": "吸う（すう）",
+      "romaji": "suu",
+      "en": "to smoke / to inhale (タバコを吸う = to smoke)"
     },
     {
-      "jp": "急ぐ（いそぐ）",
-      "romaji": "isogu",
-      "en": "to hurry"
+      "jp": "座る（すわる）",
+      "romaji": "suwaru",
+      "en": "to sit down"
     },
     {
-      "jp": "並ぶ（ならぶ）",
-      "romaji": "narabu",
-      "en": "to line up / queue"
+      "jp": "使う（つかう）",
+      "romaji": "tsukau",
+      "en": "to use"
     }
   ],
   "examples": [
     {
-      "jp": "空港でパスポートを見せなければなりません。",
-      "romaji": "Kuukou de pasupooto o misenakereba narimasen.",
-      "en": "At the airport, you have to show your passport."
+      "jp": "すみません、ここに座ってもいいですか。",
+      "romaji": "Sumimasen, koko ni suwatte mo ii desu ka.",
+      "en": "Excuse me, may I sit here?"
     },
     {
-      "jp": "今日は予約しなくてもいいですよ。",
-      "romaji": "Kyou wa yoyaku shinakute mo ii desu yo.",
-      "en": "You don't have to make a reservation today."
+      "jp": "美術館（びじゅつかん）の中で写真を撮ってはいけません。",
+      "romaji": "Bijutsukan no naka de shashin o totte wa ikemasen.",
+      "en": "You must not take photos inside the museum."
     }
   ],
-  "note": "One machine, two settings, both from ～ない: MUST = drop い + ければならない (or casual ～なきゃ); DON'T HAVE TO = drop い + くてもいい.",
+  "note": "Both patterns start from the て-form you already know. Permission = て + もいい(です) (question: ～てもいいですか). Prohibition = て + はいけません (softer/casual: ～てはだめ, ～ちゃだめ). Notice all six of today's verbs are u-verbs whose て-form is ～って — good drill for that sound.",
   "selfCheck": {
-    "q": "How would you say 'I have to hurry' politely, using 急ぐ（いそぐ）?",
-    "a": "急がなければなりません。(Isoganakereba narimasen.) Casual: 急がなきゃ！(Isoganakya!)"
+    "q": "You're in a shop and want to ask 'May I touch this?' Use 触る（さわる）.",
+    "a": "触ってもいいですか。(Sawatte mo ii desu ka.)"
   }
 }
