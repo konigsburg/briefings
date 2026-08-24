@@ -1,26 +1,26 @@
 {
   "date": "Monday, August 24, 2026",
   "generatedAt": "Morning brief · 10:05 AM ET",
-  "theme": "New York by day, home to Florida by night.",
-  "greeting": "Morning, Dan. The day is open until an afternoon neurology appointment with Mike at HSS, then an evening flight home to St. Pete — where your stay at the Heart of Kenwood begins tonight.",
+  "theme": "The city, an appointment, then the flight home.",
+  "greeting": "Good morning, Dan. The morning's open before an afternoon appointment in the city, then the evening flight carries you back to St. Pete.",
   "needsAttention": [
     {
-      "tag": "Trip booking",
-      "title": "Book the last Croatia night in Cavtat",
-      "detail": "The Sept 19 room still isn't booked — a night in Cavtat near Dubrovnik airport, after the charter disembarks and before the 7:30 AM flight out. It was due yesterday."
+      "tag": "Croatia trip",
+      "title": "Book the last Croatia hotel night",
+      "detail": "The one still-open night — Saturday, Sept 19 in Cavtat near the Dubrovnik airport, after the charter disembarks — isn't booked yet, though the first three nights are set. On the Mike + Dan board, a day overdue."
     }
   ],
   "schedule": [
     {
       "time": "1:45 PM",
-      "title": "Neurology — Dr. Erin Manning",
-      "detail": "With Mike at HSS Belaire; arrive by 1:45.",
+      "title": "Neurology — Dr. Manning",
+      "detail": "HSS Belaire, NYC; arrive by 1:45, with Mike",
       "tag": "health"
     },
     {
       "time": "6:30 PM",
-      "title": "Flight home (DL 2433)",
-      "detail": "LaGuardia to Florida, landing about 9:50 PM.",
+      "title": "Flight to St. Petersburg",
+      "detail": "DL 2433 from LaGuardia, landing about 9:50 PM",
       "tag": "travel"
     }
   ],
@@ -33,7 +33,7 @@
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "New York → St. Petersburg, FL",
+    "location": "New York → St. Petersburg",
     "confidence": "high",
     "asOf": "Monday Aug 24"
   },
@@ -44,7 +44,7 @@
   },
   "tasks": [
     {
-      "title": "Confirm the Croatia sailing gear all lands before Sept 3",
+      "title": "Confirm Croatia gear delivery lands before Sept 3",
       "project": "Mike + Dan — Board",
       "due": "Due today",
       "overdue": false
@@ -63,16 +63,16 @@
   },
   "acts": [
     {
-      "time": "Until 1:45 PM",
-      "line": "An open morning in the city — nothing fixed until early afternoon."
+      "time": "Morning",
+      "line": "The morning's open — nothing on the calendar before the early-afternoon appointment."
     },
     {
-      "time": "1:45 – 3 PM",
-      "line": "An afternoon at HSS with Mike for the neurology appointment."
+      "time": "Afternoon",
+      "line": "The neurology appointment with Dr. Manning at HSS anchors the middle of the day in the city."
     },
     {
-      "time": "6:30 PM onward",
-      "line": "An evening flight out of LaGuardia carries you home to St. Pete."
+      "time": "Evening",
+      "line": "An early-evening flight out of LaGuardia lands you back in St. Pete, the Kenwood place waiting."
     }
   ],
   "japanese": {
