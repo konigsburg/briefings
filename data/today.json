@@ -1,32 +1,27 @@
 {
   "date": "Monday, August 24, 2026",
-  "generatedAt": "Morning brief · 6:04 AM ET",
-  "theme": "A light Sunday before a travel day.",
-  "greeting": "A quiet Sunday, Dan — the board reset with Mike this morning and dinner at Misi to close it out. Tomorrow leans busy: neurology at HSS in the early afternoon, then the evening flight back to Florida.",
+  "generatedAt": "Morning brief · 6:07 AM ET",
+  "theme": "A hospital visit in the city, then the flight home.",
+  "greeting": "You're in New York this morning, Dan, with an open stretch before the afternoon fills. Mike's neurology appointment is at 1:45, then you're on the evening flight back to St. Pete.",
   "needsAttention": [
     {
-      "tag": "Due today",
+      "tag": "Trip window",
       "title": "Book the last Dubrovnik night",
-      "detail": "The final charter night, Sat Sept 19 in Cavtat near the airport, ahead of the 7:30 AM Sunday flight out. Flagged p1 on the Mike + Dan board, due today."
-    },
-    {
-      "tag": "Tomorrow prep",
-      "title": "Neurology, then the flight home",
-      "detail": "Arrive by 1:45 PM for Dr. Manning at HSS Belaire in Manhattan, then the 6:30 PM flight (DL 2433) out of LaGuardia to Florida. Worth staging bags before you leave."
+      "detail": "The Sept 19 room after the charter is still open, and Mike wants Cavtat near the airport for the early Sunday flight out. On the Mike + Dan board, overdue since Aug 23 — the open morning is a good window to lock it."
     }
   ],
   "schedule": [
     {
-      "time": "9:00 AM",
-      "title": "Sunday review with Mike",
-      "detail": "15-min board reset",
-      "tag": "Review"
+      "time": "1:45 PM",
+      "title": "Neurology with Dr. Manning",
+      "detail": "With Mike at HSS Belaire, Upper East Side. Arrive by 1:45.",
+      "tag": "health"
     },
     {
-      "time": "6:45 PM",
-      "title": "Dinner at Misi",
-      "detail": "Reservation",
-      "tag": "Dinner"
+      "time": "6:30 PM",
+      "title": "Flight home to St. Pete",
+      "detail": "DL 2433 out of LaGuardia, lands around 9:50 PM.",
+      "tag": "travel"
     }
   ],
   "inbox": {
@@ -38,9 +33,9 @@
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "New York",
+    "location": "New York, heading to St. Pete tonight",
     "confidence": "low",
-    "asOf": "Sunday Aug 23"
+    "asOf": "Monday Aug 24"
   },
   "recipe": {
     "title": "Olive oil-poached zucchini & raw tomatoes",
@@ -49,6 +44,12 @@
   },
   "tasks": [
     {
+      "title": "Confirm the Croatia sailing gear lands before Sept 3",
+      "project": "Mike + Dan — Board",
+      "due": "Today",
+      "overdue": false
+    },
+    {
       "title": "Destination edit work",
       "project": "Professional Projects",
       "due": "Overdue Aug 15",
@@ -56,22 +57,22 @@
     }
   ],
   "routines": {
-    "morning": "0/4",
+    "morning": "0/10",
     "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "The 9 AM board reset with Mike is the one fixed point before noon."
+      "time": "Before 1:45 PM",
+      "line": "Nothing scheduled all morning — an open run that's yours, and enough of it to clear the two Croatia bookings."
     },
     {
-      "time": "Afternoon",
-      "line": "Open on the calendar, nothing scheduled."
+      "time": "1:45 - 3 PM",
+      "line": "Across town for Mike's neurology at HSS on the Upper East Side."
     },
     {
-      "time": "Evening",
-      "line": "Dinner at Misi at 6:45 closes the day."
+      "time": "6:30 PM onward",
+      "line": "The flight out of LaGuardia carries you back to St. Pete and the Kenwood stay by late evening."
     }
   ],
   "japanese": {
