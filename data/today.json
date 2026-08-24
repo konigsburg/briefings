@@ -1,39 +1,39 @@
 {
   "date": "Monday, August 24, 2026",
   "generatedAt": "Morning brief · 2:03 PM ET",
-  "theme": "One appointment uptown, then a flight south.",
-  "greeting": "A quiet stretch in the city until an early-afternoon appointment, Dan, then an evening flight carries you back to St. Petersburg and the girls.",
+  "theme": "A clinic visit in the city, then home to Florida.",
+  "greeting": "Morning, Dan. The day stays open until an early-afternoon neurology visit with Mike at HSS, then you're wheels-up from LaGuardia tonight for Florida and the St. Petersburg stay. One thing's slipped past due: the last Dubrovnik night still needs a room.",
   "needsAttention": [
     {
-      "tag": "Travel · overdue",
-      "title": "Book the last Croatia night",
-      "detail": "The single post-charter night — Sept 19 in Cavtat, near the Dubrovnik airport — is still unbooked; the first three nights are confirmed. It came due yesterday on the Mike + Dan board."
+      "tag": "Booking overdue",
+      "title": "Lock the last Dubrovnik night",
+      "detail": "Your p1 travel task went a day past due (Aug 23). It's the single Sept 19 room in Cavtat near the airport, after the charter disembarks and before the 7:30am Sept 20 flight — the first three nights are already confirmed."
     }
   ],
   "schedule": [
     {
       "time": "1:45 PM",
-      "title": "Neurology — Dr. Manning",
-      "detail": "HSS Belaire, uptown; arrive by 1:45",
-      "tag": "health"
+      "title": "Neurology with Dr. Manning",
+      "detail": "HSS Belaire, NYC, with Mike — arrive by 1:45.",
+      "tag": "clinic"
     },
     {
       "time": "6:30 PM",
-      "title": "Flight to St. Petersburg",
-      "detail": "DL 2433 out of LaGuardia, lands ~9:50 PM",
+      "title": "Flight to Florida (DL 2433)",
+      "detail": "LaGuardia out, landing around 9:50 PM.",
       "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [],
-    "noise": "No email connected to this brief — calendar and tasks only.",
+    "noise": "",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "New York → St. Petersburg",
+    "location": "New York, flying to Florida tonight",
     "confidence": "high",
     "asOf": "Monday Aug 24"
   },
@@ -44,14 +44,8 @@
   },
   "tasks": [
     {
-      "title": "Confirm Croatia gear delivery before Sept 3",
-      "project": "Mike + Dan — Board",
-      "due": "Today",
-      "overdue": false
-    },
-    {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "To-do",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -64,15 +58,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The morning is yours in the city before you need to be uptown by 1:45."
+      "line": "A clear stretch of your own before the two anchored commitments land."
     },
     {
       "time": "Afternoon",
-      "line": "Neurology with Dr. Manning at HSS holds the middle of the afternoon."
+      "line": "Neurology with Mike at 1:45 at HSS, then open time until the airport."
     },
     {
       "time": "Evening",
-      "line": "An evening flight out of LaGuardia lands you in St. Petersburg by ten."
+      "line": "Out of LaGuardia at 6:30 for Florida and the start of the St. Petersburg stay."
     }
   ],
   "japanese": {
