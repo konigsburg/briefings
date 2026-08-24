@@ -1,32 +1,37 @@
 {
   "date": "Sunday, August 23, 2026",
   "generatedAt": "Morning brief · 8:05 PM ET",
-  "theme": "A quiet Sunday in the city — one booking to close, then dinner.",
-  "greeting": "The board review is behind you and the evening opens at Misi, Dan. The one open thread is the last Dubrovnik night — Mike is waiting on the Cavtat booking before it slips.",
+  "theme": "A quiet Sunday before a travel day.",
+  "greeting": "The week's board reset is behind you and the middle of the day was your own, Dan. The real push is tomorrow: a NYC appointment, then an evening flight south.",
   "needsAttention": [
     {
-      "tag": "Blocked · travel",
-      "title": "Last Dubrovnik night still unbooked",
-      "detail": "On the Mike + Dan board, flagged p1 and due today: book the single night of Sept 19 in Cavtat near the airport, after the charter disembarks and before the 7:30am flight out. Mike is waiting on this one."
+      "tag": "Travel booking",
+      "title": "Lock the last Dubrovnik night",
+      "detail": "The one room still open is Sat Sept 19 in Cavtat, near the airport, after the charter disembarks and before the 7:30 AM Sunday flight; the first three nights are already confirmed. It is the p1 on the Mike + Dan board, due today."
     },
     {
-      "tag": "Tomorrow · prep",
-      "title": "Appointment with Mike, arrive by 1:45",
-      "detail": "Tomorrow's 1:45 PM appointment with Mike at HSS on the Upper East Side needs a firm arrival time — leave enough runway from wherever the morning starts."
+      "tag": "Tomorrow / health",
+      "title": "Neurology at HSS, arrive 1:45",
+      "detail": "Tomorrow's visit with Dr. Erin Manning at the HSS Belaire Building asks for a 1:45 PM arrival, and it sits right before the afternoon flight out of LaGuardia."
+    },
+    {
+      "tag": "Tomorrow / travel",
+      "title": "Pack for the flight to Florida",
+      "detail": "DL 2433 leaves LGA at 6:30 PM tomorrow after the appointment, and the Kenwood stay in St. Petersburg begins on arrival, so anything you need packed is best done tonight."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board reset",
-      "tag": "Done"
+      "detail": "15-minute board reset",
+      "tag": "review"
     },
     {
       "time": "6:45 PM",
       "title": "Dinner at Misi",
-      "detail": "Table booked for tonight",
-      "tag": "Dinner"
+      "detail": "Reservation held",
+      "tag": "personal"
     }
   ],
   "inbox": {
@@ -36,9 +41,9 @@
   },
   "resolved": [],
   "context": {
-    "kids": false,
-    "phase": "green",
-    "location": "New York City",
+    "kids": true,
+    "phase": "blue",
+    "location": "New York",
     "confidence": "high",
     "asOf": "Sunday Aug 23"
   },
@@ -57,21 +62,21 @@
   ],
   "routines": {
     "morning": "0/4",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The 15-minute board review with Mike squared away the week."
+      "line": "One short review with Mike, and then the day loosened its grip."
     },
     {
       "time": "Afternoon",
-      "line": "An open stretch in the city with nothing on the calendar."
+      "line": "Nothing on the calendar through the middle of the day, a genuinely open stretch."
     },
     {
       "time": "Evening",
-      "line": "Dinner at Misi at 6:45 closes the day."
+      "line": "A dinner out closes a quiet Sunday; the travel day is tomorrow."
     }
   ],
   "japanese": {
