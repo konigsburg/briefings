@@ -1,32 +1,32 @@
 {
   "date": "Monday, August 24, 2026",
   "generatedAt": "Morning brief · 12:03 PM ET",
-  "theme": "The city, an appointment, then the flight home.",
-  "greeting": "Good morning, Dan. The morning's open before an afternoon appointment in the city, then the evening flight carries you back to St. Pete.",
+  "theme": "One appointment uptown, then a flight south.",
+  "greeting": "A quiet stretch in the city until an early-afternoon appointment, Dan, then an evening flight carries you back to St. Petersburg and the girls.",
   "needsAttention": [
     {
-      "tag": "Croatia trip",
-      "title": "Book the last Croatia hotel night",
-      "detail": "The one still-open night — Saturday, Sept 19 in Cavtat near the Dubrovnik airport, after the charter disembarks — isn't booked yet, though the first three nights are set. On the Mike + Dan board, a day overdue."
+      "tag": "Travel · overdue",
+      "title": "Book the last Croatia night",
+      "detail": "The single post-charter night — Sept 19 in Cavtat, near the Dubrovnik airport — is still unbooked; the first three nights are confirmed. It came due yesterday on the Mike + Dan board."
     }
   ],
   "schedule": [
     {
       "time": "1:45 PM",
       "title": "Neurology — Dr. Manning",
-      "detail": "HSS Belaire, NYC; arrive by 1:45, with Mike",
+      "detail": "HSS Belaire, uptown; arrive by 1:45",
       "tag": "health"
     },
     {
       "time": "6:30 PM",
       "title": "Flight to St. Petersburg",
-      "detail": "DL 2433 from LaGuardia, landing about 9:50 PM",
+      "detail": "DL 2433 out of LaGuardia, lands ~9:50 PM",
       "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [],
-    "noise": "",
+    "noise": "No email connected to this brief — calendar and tasks only.",
     "clear": ""
   },
   "resolved": [],
@@ -44,9 +44,9 @@
   },
   "tasks": [
     {
-      "title": "Confirm Croatia gear delivery lands before Sept 3",
+      "title": "Confirm Croatia gear delivery before Sept 3",
       "project": "Mike + Dan — Board",
-      "due": "Due today",
+      "due": "Today",
       "overdue": false
     },
     {
@@ -64,15 +64,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The morning's open — nothing on the calendar before the early-afternoon appointment."
+      "line": "The morning is yours in the city before you need to be uptown by 1:45."
     },
     {
       "time": "Afternoon",
-      "line": "The neurology appointment with Dr. Manning at HSS anchors the middle of the day in the city."
+      "line": "Neurology with Dr. Manning at HSS holds the middle of the afternoon."
     },
     {
       "time": "Evening",
-      "line": "An early-evening flight out of LaGuardia lands you back in St. Pete, the Kenwood place waiting."
+      "line": "An evening flight out of LaGuardia lands you in St. Petersburg by ten."
     }
   ],
   "japanese": {
