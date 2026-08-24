@@ -1,26 +1,26 @@
 {
   "date": "Monday, August 24, 2026",
   "generatedAt": "Morning brief · 4:10 PM ET",
-  "theme": "A clinic visit in the city, then home to Florida.",
-  "greeting": "Morning, Dan. The day stays open until an early-afternoon neurology visit with Mike at HSS, then you're wheels-up from LaGuardia tonight for Florida and the St. Petersburg stay. One thing's slipped past due: the last Dubrovnik night still needs a room.",
+  "theme": "A hinge day: an afternoon in New York, then the flight home to Florida.",
+  "greeting": "The morning is open before a 1:45 neurology appointment at HSS with Mike, then the 6:30 flight out of LaGuardia carries you home to Florida tonight.",
   "needsAttention": [
     {
-      "tag": "Booking overdue",
-      "title": "Lock the last Dubrovnik night",
-      "detail": "Your p1 travel task went a day past due (Aug 23). It's the single Sept 19 room in Cavtat near the airport, after the charter disembarks and before the 7:30am Sept 20 flight — the first three nights are already confirmed."
+      "tag": "Booking window",
+      "title": "Last Dubrovnik night still open",
+      "detail": "The one unbooked night of the Croatia trip: a Cavtat room for Sat Sept 19, after the charter disembarks by 8 AM and before the 7:30 AM Sunday flight from DBV. Marked p1 on the Mike + Dan board, due yesterday."
     }
   ],
   "schedule": [
     {
       "time": "1:45 PM",
-      "title": "Neurology with Dr. Manning",
-      "detail": "HSS Belaire, NYC, with Mike — arrive by 1:45.",
-      "tag": "clinic"
+      "title": "Neurology, Dr. Erin Manning",
+      "detail": "HSS Belaire, Upper East Side; arrive by 1:45, with Mike",
+      "tag": "appt"
     },
     {
       "time": "6:30 PM",
-      "title": "Flight to Florida (DL 2433)",
-      "detail": "LaGuardia out, landing around 9:50 PM.",
+      "title": "Flight home to Florida (DL 2433)",
+      "detail": "Out of LaGuardia, lands ~9:50 PM",
       "tag": "travel"
     }
   ],
@@ -33,7 +33,7 @@
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "New York, flying to Florida tonight",
+    "location": "New York -> St. Petersburg, FL",
     "confidence": "high",
     "asOf": "Monday Aug 24"
   },
@@ -45,28 +45,28 @@
   "tasks": [
     {
       "title": "Destination edit work",
-      "project": "To-do",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear stretch of your own before the two anchored commitments land."
+      "line": "Open until the early-afternoon appointment, the one clear stretch of a travel day."
     },
     {
-      "time": "Afternoon",
-      "line": "Neurology with Mike at 1:45 at HSS, then open time until the airport."
+      "time": "1:45 - 3 PM",
+      "line": "Neurology with Dr. Manning at HSS on the Upper East Side, Mike along."
     },
     {
-      "time": "Evening",
-      "line": "Out of LaGuardia at 6:30 for Florida and the start of the St. Petersburg stay."
+      "time": "6:30 PM onward",
+      "line": "The DL 2433 out of LaGuardia points you back toward St. Petersburg."
     }
   ],
   "japanese": {
