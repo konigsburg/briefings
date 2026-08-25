@@ -1,39 +1,39 @@
 {
   "date": "Monday, August 24, 2026",
-  "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "New York to Florida, a travel day winding down.",
-  "greeting": "Neurology at HSS this afternoon, then wheels-up from LaGuardia to Florida this evening. You land in St. Pete tonight, and the Kenwood place is yours through Labor Day week.",
+  "generatedAt": "Morning brief · 10:06 PM ET",
+  "theme": "Back down to Florida.",
+  "greeting": "A travel day, Dan — a neurology appointment in the city this afternoon, then the evening flight home. The girls are back with you and Mike in St. Pete.",
   "needsAttention": [
     {
-      "tag": "Book hotel",
-      "title": "Book the final Dubrovnik night",
-      "detail": "The Sept 19 room in Cavtat, near DBV airport, is still open (p1, due yesterday). You disembark the charter by 8 AM Saturday and fly out 7:30 AM Sunday, so book close to the airport."
+      "tag": "Blocked · travel",
+      "title": "Book the last Dubrovnik night",
+      "detail": "The single Sept 19 room is still the open gap on the Mike + Dan board — first three nights are confirmed. Mike wants Cavtat, near the airport, ahead of the 7:30am Sept 20 flight. Marked p1 and now a day overdue."
     }
   ],
   "schedule": [
     {
       "time": "1:45 PM",
-      "title": "Neurology, Dr. Manning",
-      "detail": "HSS Belaire, New York",
-      "tag": "health"
+      "title": "Neurology — Dr. Erin Manning",
+      "detail": "HSS Belaire, NYC; with Mike, arrive by 1:45.",
+      "tag": "appt"
     },
     {
       "time": "6:30 PM",
       "title": "Flight to Florida (DL 2433)",
-      "detail": "LaGuardia, lands ~9:50 PM",
+      "detail": "LaGuardia to St. Pete, lands ~9:50.",
       "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [],
     "noise": "",
-    "clear": ""
+    "clear": "No mail connector is linked, so the inbox stays quiet here."
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, Florida",
+    "location": "St. Petersburg, FL",
     "confidence": "high",
     "asOf": "Monday Aug 24"
   },
@@ -52,21 +52,21 @@
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet start with nothing on the calendar before midday."
+      "line": "The morning is open before the day tilts toward the airport."
     },
     {
       "time": "Afternoon",
-      "line": "Neurology with Dr. Manning at HSS, arriving by 1:45."
+      "line": "Midday belongs to the appointment uptown at HSS."
     },
     {
       "time": "Evening",
-      "line": "DL 2433 out of LaGuardia at 6:30, into Florida by 9:50."
+      "line": "Wheels-up at 6:30, and the day lands where it started — Florida."
     }
   ],
   "japanese": {
