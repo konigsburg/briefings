@@ -1,33 +1,30 @@
 {
   "date": "Tuesday, August 25, 2026",
   "generatedAt": "Morning brief · 6:04 AM ET",
-  "theme": "Back down to Florida.",
-  "greeting": "A travel day, Dan — a neurology appointment in the city this afternoon, then the evening flight home. The girls are back with you and Mike in St. Pete.",
+  "theme": "An open day to close out the Croatia trip.",
+  "greeting": "Good morning, Dan. The calendar is clear today, which leaves room to lock the last Croatia bookings, two of them due today, with the girls back with you and Mike in St. Pete.",
   "needsAttention": [
     {
-      "tag": "Blocked · travel",
-      "title": "Book the last Dubrovnik night",
-      "detail": "The single Sept 19 room is still the open gap on the Mike + Dan board — first three nights are confirmed. Mike wants Cavtat, near the airport, ahead of the 7:30am Sept 20 flight. Marked p1 and now a day overdue."
-    }
-  ],
-  "schedule": [
-    {
-      "time": "1:45 PM",
-      "title": "Neurology — Dr. Erin Manning",
-      "detail": "HSS Belaire, NYC; with Mike, arrive by 1:45.",
-      "tag": "appt"
+      "tag": "Travel · due today",
+      "title": "Lock the St. Pete landing-gap nights",
+      "detail": "You land TPA from Croatia Sept 20 but the girls aren't picked up until Sept 22, leaving Sept 20-21 still unbooked near St. Pete. Also worth a glance that the Sept 27 Airbnb converted from pending to confirmed."
     },
     {
-      "time": "6:30 PM",
-      "title": "Flight to Florida (DL 2433)",
-      "detail": "LaGuardia to St. Pete, lands ~9:50.",
-      "tag": "travel"
+      "tag": "Travel · due today",
+      "title": "Get the Croatia checked bags in writing",
+      "detail": "The issued ticket shows zero checked bags on Basic Economy, both legs on Eurowings Discover. Confirm the allowance on the operating carrier's site with the record locator and pre-buy bags, since two 55L duffels won't pass as carry-on."
+    },
+    {
+      "tag": "Travel · overdue",
+      "title": "Book the last Dubrovnik night",
+      "detail": "The Sept 19 night in Cavtat, after the charter disembarks and before the 7:30am Sunday flight, is the only unbooked night on the trip and was due Aug 23."
     }
   ],
+  "schedule": [],
   "inbox": {
     "flagged": [],
     "noise": "",
-    "clear": "No mail connector is linked, so the inbox stays quiet here."
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -35,7 +32,7 @@
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Monday Aug 24"
+    "asOf": "Tuesday Aug 25"
   },
   "recipe": {
     "title": "Salmon Baked in Foil",
@@ -58,15 +55,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The morning is open before the day tilts toward the airport."
+      "line": "No meetings on the calendar, so the morning is open to settle the two travel items due today before their windows tighten."
     },
     {
       "time": "Afternoon",
-      "line": "Midday belongs to the appointment uptown at HSS."
+      "line": "The girls are back with you and Mike in St. Pete through early September, an unscheduled afternoon to spend with them."
     },
     {
       "time": "Evening",
-      "line": "Wheels-up at 6:30, and the day lands where it started — Florida."
+      "line": "Nothing booked tonight, a quiet close to the first day of the stretch with the kids."
     }
   ],
   "japanese": {
