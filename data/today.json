@@ -1,27 +1,27 @@
 {
   "date": "Monday, August 24, 2026",
   "generatedAt": "Morning brief · 8:04 PM ET",
-  "theme": "New York to Florida, and the girls are back home",
-  "greeting": "A New York day that ends in Florida: the neurology appointment with Mike this afternoon, then the evening flight home to St. Pete and into the Kenwood stay. The girls are back with you and Mike this week.",
+  "theme": "New York to Florida, a travel day winding down.",
+  "greeting": "Neurology at HSS this afternoon, then wheels-up from LaGuardia to Florida this evening. You land in St. Pete tonight, and the Kenwood place is yours through Labor Day week.",
   "needsAttention": [
     {
-      "tag": "Overdue p1",
-      "title": "Book the last Dubrovnik hotel night",
-      "detail": "The Mike + Dan board task for the single night of Sat Sept 19 is a day overdue. Mike wants Cavtat, near DBV airport, after the charter disembarks by 8am and before the 7:30am Sunday flight."
+      "tag": "Book hotel",
+      "title": "Book the final Dubrovnik night",
+      "detail": "The Sept 19 room in Cavtat, near DBV airport, is still open (p1, due yesterday). You disembark the charter by 8 AM Saturday and fly out 7:30 AM Sunday, so book close to the airport."
     }
   ],
   "schedule": [
     {
       "time": "1:45 PM",
-      "title": "Neurology, Dr. Erin Manning",
-      "detail": "HSS Belaire, New York, with Mike",
-      "tag": "Health"
+      "title": "Neurology, Dr. Manning",
+      "detail": "HSS Belaire, New York",
+      "tag": "health"
     },
     {
       "time": "6:30 PM",
       "title": "Flight to Florida (DL 2433)",
-      "detail": "LaGuardia, landing St. Pete tonight",
-      "tag": "Travel"
+      "detail": "LaGuardia, lands ~9:50 PM",
+      "tag": "travel"
     }
   ],
   "inbox": {
@@ -33,9 +33,9 @@
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "St. Petersburg, Florida",
     "confidence": "high",
-    "asOf": "Mon Aug 24"
+    "asOf": "Monday Aug 24"
   },
   "recipe": {
     "title": "Olive oil-poached zucchini & raw tomatoes",
@@ -52,21 +52,21 @@
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet New York morning before the day's two fixed points."
+      "line": "A quiet start with nothing on the calendar before midday."
     },
     {
       "time": "Afternoon",
-      "line": "Neurology with Dr. Manning at HSS at 1:45, alongside Mike."
+      "line": "Neurology with Dr. Manning at HSS, arriving by 1:45."
     },
     {
       "time": "Evening",
-      "line": "The 6:30 flight out of LaGuardia lands you back in St. Pete and into the Kenwood stay."
+      "line": "DL 2433 out of LaGuardia at 6:30, into Florida by 9:50."
     }
   ],
   "japanese": {
