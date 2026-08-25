@@ -1,23 +1,23 @@
 {
   "date": "Tuesday, August 25, 2026",
-  "generatedAt": "Morning brief · 2:03 PM ET",
-  "theme": "An open day in St. Pete.",
-  "greeting": "The calendar's clear today, Dan — nothing scheduled to bookend it. The girls are with you, and a short stack of Croatia-trip bookings are about the only things pulling at the day.",
+  "generatedAt": "Morning brief · 2:06 PM ET",
+  "theme": "An open day, with Croatia logistics to close out.",
+  "greeting": "The calendar is empty today, Dan — no meetings to make. The one live thread is the Croatia trip: a couple of booking windows close today, with the girls home in St. Pete.",
   "needsAttention": [
     {
+      "tag": "Travel · due today",
+      "title": "St. Pete landing-gap nights",
+      "detail": "Sept 20-22 is still open: you land TPA Sunday the 20th but the girls aren't picked up until Tuesday the 22nd, so two St. Pete nights need booking. The Sept 27-Oct 5 Airbnb is only pending confirmation, so it's worth a glance to see it converted."
+    },
+    {
+      "tag": "Travel · due today",
+      "title": "Croatia checked bags in writing",
+      "detail": "The issued Basic Economy ticket shows zero checked bags. Confirm the allowance on Eurowings Discover's own site using the record locator and buy bags now if they aren't included — European counter fees run well above the online price."
+    },
+    {
       "tag": "Travel · overdue",
-      "title": "Book the Sept 19 Cavtat hotel night",
-      "detail": "The last open night of the Dubrovnik trip — a room in Cavtat near the airport for Sat Sept 19, after the charter disembarks and before the 7:30am Sunday flight out. In Todoist on the Mike + Dan board, p1, two days overdue."
-    },
-    {
-      "tag": "Travel · due today",
-      "title": "Cover the St Pete landing gap, Sept 20–22",
-      "detail": "Two nights near St Pete between the TPA landing and the Tuesday 3pm kid pickup. Worth also glancing whether the Orlando-window Airbnb flipped from pending to confirmed. In Todoist, due today."
-    },
-    {
-      "tag": "Travel · due today",
-      "title": "Confirm checked bags on the Croatia ticket",
-      "detail": "The issued ticket shows zero checked bags on the Eurowings Discover legs — cheap to fix online now, costly at the counter. Confirm the allowance on the operating carrier's own site. In Todoist, due today."
+      "title": "Last Dubrovnik night, Sept 19",
+      "detail": "Overdue since Aug 23 on the Mike + Dan board: one room in Cavtat near the airport for the night after disembarking, ahead of the 7:30am Sunday flight from DBV."
     }
   ],
   "schedule": [],
@@ -25,16 +25,16 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "An SVP Global Public Policy 'interview update'",
-        "detail": "A recruiter mail asks you to confirm work authorization through a link before naming the employer — verify the sender is real before acting on it."
+        "title": "SVP, Global Public Policy application",
+        "detail": "A SourceHire note asks you to confirm work authorization to keep the application moving; the employer shows only as Confidential, so worth verifying the sender before sharing anything."
       },
       {
-        "tag": "Security",
-        "title": "Google flagged new Gmail access",
-        "detail": "Two alerts confirm Claude for Gmail was granted access to your account — expected if that was you, worth a glance to be sure."
+        "tag": "FYI",
+        "title": "Kuala Lumpur invite from CGI",
+        "detail": "K. Waring at CGI writes that speaker slots are filled but it would be good for you to meet the corporate audience; they depart for Tokyo Sep 26 and are waiting to hear if you're interested."
       }
     ],
-    "noise": "About a dozen newsletters and promos — Responsible Investor, Monocle, NYT Cooking, plus a few sailing and baking lists.",
+    "noise": "The rest is airline check-in reminders, an Airbnb thank-you the host already hearted, and a MaineHealth survey.",
     "clear": ""
   },
   "resolved": [],
@@ -53,28 +53,28 @@
   "tasks": [
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/4",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar's empty — a rare open morning to spend on something that's been waiting."
+      "line": "No meetings on the calendar — an open stretch, with the girls home in St. Pete."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled through the afternoon; the shape of the day is yours to set."
+      "line": "The Croatia trip is the live thread: two booking windows close today and one is already overdue."
     },
     {
       "time": "Evening",
-      "line": "A quiet evening at home in Kenwood with the girls around."
+      "line": "Nothing scheduled — a quiet close at the Kenwood place."
     }
   ],
   "japanese": {
