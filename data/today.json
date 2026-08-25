@@ -1,23 +1,23 @@
 {
   "date": "Tuesday, August 25, 2026",
   "generatedAt": "Morning brief · 10:07 AM ET",
-  "theme": "An open day to close out the last travel bookings.",
-  "greeting": "Good morning, Dan. Nothing sits on the calendar today, which is exactly the room you need to lock down the final Croatia and St. Pete bookings before those windows tighten.",
+  "theme": "An open day with a few trip threads to tie off.",
+  "greeting": "Good morning, Dan. The calendar is wide open today — no meetings on it — so the day is yours to spend on what's been waiting.",
   "needsAttention": [
     {
-      "tag": "Travel · overdue",
-      "title": "Book the Sept 19 night in Cavtat",
-      "detail": "On the Mike + Dan board since Aug 23 — one night after the charter disembarks and before your 7:30 AM DBV flight. Mike wants Cavtat by the airport, not Old Town."
+      "tag": "Trip · overdue",
+      "title": "Last Dubrovnik night still unbooked",
+      "detail": "The single Sept 19 night in Cavtat, near the airport before your 7:30am flight out, is the one gap left in the Croatia lodging — open since Aug 23. The first three nights are already confirmed."
     },
     {
-      "tag": "Travel · due today",
-      "title": "Confirm the Croatia bags in writing",
-      "detail": "Due today on the board — the issued ticket shows zero checked bags on Eurowings Discover. Verify the allowance on the operating carrier's own site and buy bags now if they aren't included; counter fees run far higher."
+      "tag": "Trip · today",
+      "title": "Confirm checked bags on the Croatia ticket",
+      "detail": "The issued ticket shows zero checked bags on Basic Economy, and both legs run on Eurowings Discover. Worth confirming the allowance on the operating carrier's own site and buying bags online now, before airport-counter fees."
     },
     {
-      "tag": "Travel · due today",
-      "title": "Book the St. Pete landing gap",
-      "detail": "Due today — two nights (Sept 20–21) in St. Pete after you land TPA and before the Tue kid pickup. Also worth a glance that the pending St. Pete Airbnb converted to confirmed."
+      "tag": "Trip · today",
+      "title": "St Pete landing-gap nights, Sept 20-21",
+      "detail": "Two nights after you land TPA and before the Tue Sept 22 pickup still need a room. The pending Sept 27 St Pete Airbnb is also worth a glance to confirm it converted rather than expiring."
     }
   ],
   "schedule": [],
@@ -42,28 +42,28 @@
   "tasks": [
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings anywhere on the calendar this morning — the day starts entirely open."
+      "line": "The day opens empty on the calendar — nothing to climb toward."
     },
     {
       "time": "Afternoon",
-      "line": "The open stretch runs straight through the afternoon, with nothing scheduled to break it."
+      "line": "A rare unbroken stretch, yours to point at whatever's been circling."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you and Mike in St. Pete, so the evening lands close to home."
+      "line": "The girls are home with you and Mike — an evening that lands in the kitchen."
     }
   ],
   "japanese": {
