@@ -1,36 +1,30 @@
 {
   "date": "Tuesday, August 25, 2026",
   "generatedAt": "Morning brief · 6:04 PM ET",
-  "theme": "An open day with three trip deadlines to clear.",
-  "greeting": "The calendar's empty today, Dan — no meetings to work around. The day's real work is the Croatia trip: two bookings are due today and the last Dubrovnik night is still open.",
+  "theme": "An open day — clear the Adriatic bookings while the calendar's quiet.",
+  "greeting": "The whole day is open, Dan — no meetings, just the St. Pete stay running in the background. The real pull is the September Croatia trip: three bookings that each close a gap, two of them due today.",
   "needsAttention": [
     {
-      "tag": "Travel · today",
-      "title": "Close the St. Pete landing-night gap",
-      "detail": "Sept 20-21, the two nights between your TPA landing and the kids' Sept 22 pickup, are still unbooked. The p1 task is due today. Also glance that the St Pete Airbnb request converted from pending to confirmed."
+      "tag": "Trip · due today",
+      "title": "Confirm Croatia checked bags",
+      "detail": "The issued ticket shows zero checked bags on both Eurowings Discover legs. Pull the booking up on the operating carrier's site and buy bags online now — two 55L duffels won't pass as carry-on, and counter fees run far higher."
     },
     {
-      "tag": "Travel · today",
-      "title": "Confirm Croatia checked bags in writing",
-      "detail": "The issued ticket shows zero checked bags on Basic Economy. The p1 due today is to verify baggage on Eurowings Discover's own site with the record locator and pre-buy now — airport fees run well above the online price."
+      "tag": "Trip · due today",
+      "title": "Book the St. Pete landing gap",
+      "detail": "You land TPA Sept 20 but the kids aren't picked up until Sept 22 — the nights of Sept 20–21 in St. Pete are still unbooked. Also glance at whether the Sept 27 Airbnb converted from pending to confirmed."
     },
     {
-      "tag": "Travel · overdue",
-      "title": "Book the last Dubrovnik night, Sept 19",
-      "detail": "The single night after disembarking the charter, near the airport in Cavtat, is still open. P1, due Aug 23."
+      "tag": "Trip · overdue",
+      "title": "Book the last Dubrovnik night",
+      "detail": "One night on Sept 19 in Cavtat near the airport, after the charter disembarks and before the 7:30am Sept 20 flight. It's the only unbooked night on the Croatia leg, and it was due Aug 23."
     }
   ],
   "schedule": [],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "Health",
-        "title": "New MyChart message",
-        "detail": "MaineHealth posted a new secure message to your MyChart portal; it's a notification only, so the message itself sits behind the portal login."
-      }
-    ],
-    "noise": "The rest is newsletters, receipts (Apple, Curb), a LinkedIn job digest, and a Maine sourdough order.",
-    "clear": ""
+    "flagged": [],
+    "noise": "Four unread, all promotional or account-notice noise — nothing awaiting a reply.",
+    "clear": "Inbox is otherwise clear."
   },
   "resolved": [],
   "context": {
@@ -48,7 +42,7 @@
   "tasks": [
     {
       "title": "Destination edit work",
-      "project": "Projects",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -61,15 +55,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the open stretch is the moment to clear the two trip bookings due today."
+      "line": "No meetings on the books — the open stretch is best spent on the three Croatia bookings before anything else fills it."
     },
     {
       "time": "Afternoon",
-      "line": "The girls are with you and Mike in St. Pete; the afternoon is unclaimed beyond the Croatia prep."
+      "line": "Clear through the afternoon, with the Kenwood stay in St. Pete running quietly in the background."
     },
     {
       "time": "Evening",
-      "line": "A quiet evening at the Kenwood place, with nothing scheduled to bump against."
+      "line": "The evening's yours and the kids are home — an early dinner and the wind-down routine."
     }
   ],
   "japanese": {
