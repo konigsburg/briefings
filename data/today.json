@@ -1,29 +1,40 @@
 {
   "date": "Tuesday, August 25, 2026",
   "generatedAt": "Morning brief · 12:06 PM ET",
-  "theme": "An open day with a few trip threads to tie off.",
-  "greeting": "Good morning, Dan. The calendar is wide open today — no meetings on it — so the day is yours to spend on what's been waiting.",
+  "theme": "An open day in St. Pete.",
+  "greeting": "The calendar's clear today, Dan — nothing scheduled to bookend it. The girls are with you, and a short stack of Croatia-trip bookings are about the only things pulling at the day.",
   "needsAttention": [
     {
-      "tag": "Trip · overdue",
-      "title": "Last Dubrovnik night still unbooked",
-      "detail": "The single Sept 19 night in Cavtat, near the airport before your 7:30am flight out, is the one gap left in the Croatia lodging — open since Aug 23. The first three nights are already confirmed."
+      "tag": "Travel · overdue",
+      "title": "Book the Sept 19 Cavtat hotel night",
+      "detail": "The last open night of the Dubrovnik trip — a room in Cavtat near the airport for Sat Sept 19, after the charter disembarks and before the 7:30am Sunday flight out. In Todoist on the Mike + Dan board, p1, two days overdue."
     },
     {
-      "tag": "Trip · today",
+      "tag": "Travel · due today",
+      "title": "Cover the St Pete landing gap, Sept 20–22",
+      "detail": "Two nights near St Pete between the TPA landing and the Tuesday 3pm kid pickup. Worth also glancing whether the Orlando-window Airbnb flipped from pending to confirmed. In Todoist, due today."
+    },
+    {
+      "tag": "Travel · due today",
       "title": "Confirm checked bags on the Croatia ticket",
-      "detail": "The issued ticket shows zero checked bags on Basic Economy, and both legs run on Eurowings Discover. Worth confirming the allowance on the operating carrier's own site and buying bags online now, before airport-counter fees."
-    },
-    {
-      "tag": "Trip · today",
-      "title": "St Pete landing-gap nights, Sept 20-21",
-      "detail": "Two nights after you land TPA and before the Tue Sept 22 pickup still need a room. The pending Sept 27 St Pete Airbnb is also worth a glance to confirm it converted rather than expiring."
+      "detail": "The issued ticket shows zero checked bags on the Eurowings Discover legs — cheap to fix online now, costly at the counter. Confirm the allowance on the operating carrier's own site. In Todoist, due today."
     }
   ],
   "schedule": [],
   "inbox": {
-    "flagged": [],
-    "noise": "",
+    "flagged": [
+      {
+        "tag": "Job search",
+        "title": "An SVP Global Public Policy 'interview update'",
+        "detail": "A recruiter mail asks you to confirm work authorization through a link before naming the employer — verify the sender is real before acting on it."
+      },
+      {
+        "tag": "Security",
+        "title": "Google flagged new Gmail access",
+        "detail": "Two alerts confirm Claude for Gmail was granted access to your account — expected if that was you, worth a glance to be sure."
+      }
+    ],
+    "noise": "About a dozen newsletters and promos — Responsible Investor, Monocle, NYT Cooking, plus a few sailing and baking lists.",
     "clear": ""
   },
   "resolved": [],
@@ -42,28 +53,28 @@
   "tasks": [
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The day opens empty on the calendar — nothing to climb toward."
+      "line": "The calendar's empty — a rare open morning to spend on something that's been waiting."
     },
     {
       "time": "Afternoon",
-      "line": "A rare unbroken stretch, yours to point at whatever's been circling."
+      "line": "Nothing scheduled through the afternoon; the shape of the day is yours to set."
     },
     {
       "time": "Evening",
-      "line": "The girls are home with you and Mike — an evening that lands in the kitchen."
+      "line": "A quiet evening at home in Kenwood with the girls around."
     }
   ],
   "japanese": {
