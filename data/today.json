@@ -1,23 +1,23 @@
 {
   "date": "Tuesday, August 25, 2026",
   "generatedAt": "Morning brief · 7:26 AM ET",
-  "theme": "An open day to close out the Croatia trip.",
-  "greeting": "Good morning, Dan. The calendar is clear today, which leaves room to lock the last Croatia bookings, two of them due today, with the girls back with you and Mike in St. Pete.",
+  "theme": "An open day to close out the last travel bookings.",
+  "greeting": "Good morning, Dan. Nothing sits on the calendar today, which is exactly the room you need to lock down the final Croatia and St. Pete bookings before those windows tighten.",
   "needsAttention": [
     {
-      "tag": "Travel · due today",
-      "title": "Lock the St. Pete landing-gap nights",
-      "detail": "You land TPA from Croatia Sept 20 but the girls aren't picked up until Sept 22, leaving Sept 20-21 still unbooked near St. Pete. Also worth a glance that the Sept 27 Airbnb converted from pending to confirmed."
-    },
-    {
-      "tag": "Travel · due today",
-      "title": "Get the Croatia checked bags in writing",
-      "detail": "The issued ticket shows zero checked bags on Basic Economy, both legs on Eurowings Discover. Confirm the allowance on the operating carrier's site with the record locator and pre-buy bags, since two 55L duffels won't pass as carry-on."
-    },
-    {
       "tag": "Travel · overdue",
-      "title": "Book the last Dubrovnik night",
-      "detail": "The Sept 19 night in Cavtat, after the charter disembarks and before the 7:30am Sunday flight, is the only unbooked night on the trip and was due Aug 23."
+      "title": "Book the Sept 19 night in Cavtat",
+      "detail": "On the Mike + Dan board since Aug 23 — one night after the charter disembarks and before your 7:30 AM DBV flight. Mike wants Cavtat by the airport, not Old Town."
+    },
+    {
+      "tag": "Travel · due today",
+      "title": "Confirm the Croatia bags in writing",
+      "detail": "Due today on the board — the issued ticket shows zero checked bags on Eurowings Discover. Verify the allowance on the operating carrier's own site and buy bags now if they aren't included; counter fees run far higher."
+    },
+    {
+      "tag": "Travel · due today",
+      "title": "Book the St. Pete landing gap",
+      "detail": "Due today — two nights (Sept 20–21) in St. Pete after you land TPA and before the Tue kid pickup. Also worth a glance that the pending St. Pete Airbnb converted to confirmed."
     }
   ],
   "schedule": [],
@@ -48,22 +48,22 @@
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar, so the morning is open to settle the two travel items due today before their windows tighten."
+      "line": "No meetings anywhere on the calendar this morning — the day starts entirely open."
     },
     {
       "time": "Afternoon",
-      "line": "The girls are back with you and Mike in St. Pete through early September, an unscheduled afternoon to spend with them."
+      "line": "The open stretch runs straight through the afternoon, with nothing scheduled to break it."
     },
     {
       "time": "Evening",
-      "line": "Nothing booked tonight, a quiet close to the first day of the stretch with the kids."
+      "line": "The girls are with you and Mike in St. Pete, so the evening lands close to home."
     }
   ],
   "japanese": {
