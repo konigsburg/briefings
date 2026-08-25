@@ -1,40 +1,35 @@
 {
   "date": "Tuesday, August 25, 2026",
   "generatedAt": "Morning brief · 4:04 PM ET",
-  "theme": "An open day, with Croatia logistics to close out.",
-  "greeting": "The calendar is empty today, Dan — no meetings to make. The one live thread is the Croatia trip: a couple of booking windows close today, with the girls home in St. Pete.",
+  "theme": "An open day with three trip deadlines to clear.",
+  "greeting": "The calendar's empty today, Dan — no meetings to work around. The day's real work is the Croatia trip: two bookings are due today and the last Dubrovnik night is still open.",
   "needsAttention": [
     {
-      "tag": "Travel · due today",
-      "title": "St. Pete landing-gap nights",
-      "detail": "Sept 20-22 is still open: you land TPA Sunday the 20th but the girls aren't picked up until Tuesday the 22nd, so two St. Pete nights need booking. The Sept 27-Oct 5 Airbnb is only pending confirmation, so it's worth a glance to see it converted."
+      "tag": "Travel · today",
+      "title": "Close the St. Pete landing-night gap",
+      "detail": "Sept 20-21, the two nights between your TPA landing and the kids' Sept 22 pickup, are still unbooked. The p1 task is due today. Also glance that the St Pete Airbnb request converted from pending to confirmed."
     },
     {
-      "tag": "Travel · due today",
-      "title": "Croatia checked bags in writing",
-      "detail": "The issued Basic Economy ticket shows zero checked bags. Confirm the allowance on Eurowings Discover's own site using the record locator and buy bags now if they aren't included — European counter fees run well above the online price."
+      "tag": "Travel · today",
+      "title": "Confirm Croatia checked bags in writing",
+      "detail": "The issued ticket shows zero checked bags on Basic Economy. The p1 due today is to verify baggage on Eurowings Discover's own site with the record locator and pre-buy now — airport fees run well above the online price."
     },
     {
       "tag": "Travel · overdue",
-      "title": "Last Dubrovnik night, Sept 19",
-      "detail": "Overdue since Aug 23 on the Mike + Dan board: one room in Cavtat near the airport for the night after disembarking, ahead of the 7:30am Sunday flight from DBV."
+      "title": "Book the last Dubrovnik night, Sept 19",
+      "detail": "The single night after disembarking the charter, near the airport in Cavtat, is still open. P1, due Aug 23."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "SVP, Global Public Policy application",
-        "detail": "A SourceHire note asks you to confirm work authorization to keep the application moving; the employer shows only as Confidential, so worth verifying the sender before sharing anything."
-      },
-      {
-        "tag": "FYI",
-        "title": "Kuala Lumpur invite from CGI",
-        "detail": "K. Waring at CGI writes that speaker slots are filled but it would be good for you to meet the corporate audience; they depart for Tokyo Sep 26 and are waiting to hear if you're interested."
+        "tag": "Health",
+        "title": "New MyChart message",
+        "detail": "MaineHealth posted a new secure message to your MyChart portal; it's a notification only, so the message itself sits behind the portal login."
       }
     ],
-    "noise": "The rest is airline check-in reminders, an Airbnb thank-you the host already hearted, and a MaineHealth survey.",
+    "noise": "The rest is newsletters, receipts (Apple, Curb), a LinkedIn job digest, and a Maine sourdough order.",
     "clear": ""
   },
   "resolved": [],
@@ -53,7 +48,7 @@
   "tasks": [
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -66,15 +61,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar — an open stretch, with the girls home in St. Pete."
+      "line": "Nothing on the calendar — the open stretch is the moment to clear the two trip bookings due today."
     },
     {
       "time": "Afternoon",
-      "line": "The Croatia trip is the live thread: two booking windows close today and one is already overdue."
+      "line": "The girls are with you and Mike in St. Pete; the afternoon is unclaimed beyond the Croatia prep."
     },
     {
       "time": "Evening",
-      "line": "Nothing scheduled — a quiet close at the Kenwood place."
+      "line": "A quiet evening at the Kenwood place, with nothing scheduled to bump against."
     }
   ],
   "japanese": {
