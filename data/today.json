@@ -1,33 +1,23 @@
 {
   "date": "Wednesday, August 26, 2026",
-  "generatedAt": "Morning brief · 6:04 PM ET",
-  "theme": "An open day in St. Pete, with a Croatia backlog to clear before you fly.",
-  "greeting": "The calendar's clear today, Dan — a rare open stretch, girls with you and Mike in St. Pete. The one real pull is the pile of past-due Croatia bookings before you leave on the 8th.",
+  "generatedAt": "Morning brief · 6:08 PM ET",
+  "theme": "An open day sitting under a stack of trip prep.",
+  "greeting": "The calendar is clear today, Dan — nothing scheduled between you and the Croatia to-do list. The girls are with you and Mike in St. Pete, and tomorrow's passport window is the thing quietly setting the clock.",
   "needsAttention": [
     {
-      "tag": "Tomorrow's prep",
-      "title": "Prep for the Valoris call",
-      "detail": "Martin Steindl's Teams call sits at noon tomorrow. Skim Valoris Catalysts and arrive holding your read on the fit rather than working it out live."
+      "tag": "Passport packet",
+      "title": "Passport packet due before Thursday",
+      "detail": "The four girls' passport appointment is Thursday. The DS-11s still need printing and get signed at the counter, and it takes two separate payments — a State Dept check (~$400, no cards) and USPS (~$200). One missing document sends all four applications home."
     },
     {
-      "tag": "Due today",
-      "title": "The girls' passport packet",
-      "detail": "Due today on the Mike + Dan board: print and assemble the DS-11s and birth-certificate copies for all four girls before Friday's appointment. One missing document sends four applications home, and State Department fees are check or money order only."
+      "tag": "Croatia bags",
+      "title": "Checked bags on the Croatia ticket aren't confirmed",
+      "detail": "The issued ticket shows zero checked bags on a codeshare operated by Eurowings Discover. Pull the booking up on the operating carrier's own site with the record locator and confirm the allowance before airport-counter fees. Overdue since Monday."
     },
     {
-      "tag": "Booking overdue",
-      "title": "Cavtat night, Sept 19",
-      "detail": "Overdue since Aug 23 on the board: one refundable night in Cavtat for Sat Sept 19, plus the Komolac-to-Cavtat transfer at noon. The real deadline is Sept 8 — the charter has no connectivity to book from once aboard."
-    },
-    {
-      "tag": "Booking overdue",
-      "title": "St. Pete landing gap",
-      "detail": "Overdue since Aug 25: two nights, Sept 20-21, in the St. Pete area after you land TPA and before the Tuesday kid pickup. The Orlando villa and the later Airbnb are already handled."
-    },
-    {
-      "tag": "Overdue check",
-      "title": "Croatia checked bags",
-      "detail": "Overdue since Aug 25: the issued ticket shows zero checked bags. Confirm the allowance on Eurowings Discover's own site with the record locator and buy online now — two 55L duffels won't pass as carry-on."
+      "tag": "St Pete gap",
+      "title": "Two St. Pete nights are still open",
+      "detail": "Sept 20–21 — the gap between landing from Croatia and Tuesday's kid pickup — still needs a room before the Orlando villa. Overdue since Monday; a car rental already spans the whole run."
     }
   ],
   "schedule": [],
@@ -35,21 +25,21 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Kuala Lumpur governance event",
-        "detail": "Kevin Waring at CGI asks whether you'd like to come along to meet a new corporate audience; speaker slots are full but he flags it as worth the room. He leaves for Tokyo Sept 26 and no reply has gone back yet."
+        "title": "Tokyo board contacts wrote back",
+        "detail": "Furuta at JOMON and Sakai's office at ProNed both replied warmly to your possible week-of-Sept-30 Tokyo visit — no ask, they'll flag introductions if any come up."
       },
       {
         "tag": "Financial",
-        "title": "Nautilus sailing balance",
-        "detail": "Invoice 2170 shows a $6,475 balance for the September course, and Amy sent a separate final-payment nudge — due ahead of the Sept 12 start."
+        "title": "Nautilus final payment is due",
+        "detail": "The sailing school invoiced the $6,475 balance for the September course; payment is due."
       },
       {
         "tag": "FYI",
-        "title": "Liberty Mutual renewal",
-        "detail": "Your home policy renewal notice arrived this morning; worth a look before it auto-renews."
+        "title": "Kuala Lumpur invite from CGI",
+        "detail": "Kerrie Waring asked if you'd like to come along to meet a new corporate audience — speaker slots are filled, but the room may be worth it."
       }
     ],
-    "noise": "The rest is promotions and travel confirmations — Airbnb, Enterprise, a couple of newsletters.",
+    "noise": "The rest is travel confirmations — the St. Pete Airbnb, the Enterprise rental, sailing materials shipped — plus a home-policy renewal notice.",
     "clear": ""
   },
   "resolved": [],
@@ -58,7 +48,7 @@
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Wed Aug 26"
+    "asOf": "Wednesday Aug 26"
   },
   "recipe": {
     "title": "Sautéed zucchini with scallions & fresh mozzarella",
@@ -66,6 +56,12 @@
     "why": "High summer means the zucchini are still coming in fast — a quick sauté is the kindest thing to do with them."
   },
   "tasks": [
+    {
+      "title": "Book the Cavtat hotel and noon transfer for Sept 19",
+      "project": "Mike + Dan — Board",
+      "due": "Due today",
+      "overdue": false
+    },
     {
       "title": "Destination edit work",
       "project": "Professional Projects",
@@ -75,21 +71,21 @@
   ],
   "routines": {
     "morning": "0/5",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A rare open morning — nothing on the calendar to answer to."
+      "line": "Nothing on the calendar — the morning is entirely yours."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon is yours, settled in St. Pete with the girls."
+      "line": "Still open; the overdue Croatia bookings are the only thing pulling at the day."
     },
     {
       "time": "Evening",
-      "line": "Quiet tonight, then tomorrow's first commitment is a midday call."
+      "line": "Tomorrow brings the passport window before Thursday and a noon call with Martin at Valoris."
     }
   ],
   "japanese": {
