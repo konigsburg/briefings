@@ -1,60 +1,49 @@
 {
   "date": "Wednesday, August 26, 2026",
-  "generatedAt": "Morning brief · 6:07 AM ET",
-  "theme": "An open day, with the Croatia trip down to the wire.",
-  "greeting": "The calendar is clear today, Dan — no meetings to work around. The real pull is the September Croatia trip: a couple of bookings and a baggage check have hit their deadline.",
+  "generatedAt": "Morning brief · 6:10 AM ET",
+  "theme": "An open day in St. Pete — clear the Croatia bookings before the window shuts.",
+  "greeting": "The calendar is empty today, Dan, so the day is yours — and the overdue Croatia bookings are what it is best spent on. The girls are with you and Mike in St. Pete, and tomorrow noon brings the Valoris call with Martin.",
   "needsAttention": [
     {
-      "tag": "Trip booking",
-      "title": "Book the Sept 19 Cavtat night",
-      "detail": "The single night after the charter disembarks is still open. Mike wants Cavtat by the airport, not Old Town, for the 5am DBV run the next morning. Overdue since Aug 23."
+      "tag": "Travel · overdue",
+      "title": "Book the Cavtat hotel and transfer for Sept 19",
+      "detail": "The last night of the Croatia trip is still unbooked: Cavtat near the airport, one night Sat Sept 19, plus the noon transfer from ACI Komolac. It has to be locked from land before you sail on Sept 8, and it has sat open since Aug 23."
     },
     {
-      "tag": "Trip booking",
-      "title": "Close the St. Pete landing gap",
-      "detail": "Sept 20 and 21 still need a room between the TPA landing and the Tue Sept 22 kid pickup, before the Orlando villa. Due today."
+      "tag": "Travel · overdue",
+      "title": "Confirm checked bags are on the Croatia ticket",
+      "detail": "The issued ticket shows zero checked bags on both Eurowings Discover legs. Pull it up on the operating carrier's site by record locator and buy the bags now — two 55L duffels get refused at the gate otherwise."
     },
     {
-      "tag": "Trip logistics",
-      "title": "Confirm the Croatia checked bags in writing",
-      "detail": "The issued ticket shows zero checked bags on Basic Economy. Verify the allowance on Eurowings Discover's own site with the record locator and buy online now — two 55L duffels will not fly as carry-on. Due today."
+      "tag": "Travel · overdue",
+      "title": "Close the St. Pete landing-gap nights",
+      "detail": "The two nights in St. Pete after you land TPA on Sept 20, before the Sept 22 pickup, are still open. While you are at it, check that the Sept 27–Oct 5 Airbnb converted from pending to confirmed."
+    },
+    {
+      "tag": "Prep · tomorrow",
+      "title": "Bring a country view to the Valoris call",
+      "detail": "Tomorrow at noon you are back with Martin Steindl to continue the Valoris conversation. Arrive holding your take on Davit's Priority One country list and where you would want to focus."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Governance event invite in Kuala Lumpur",
-        "detail": "Kevin at CGI Global asks if you'd come meet a new corporate audience; speaker slots are filled but it's a networking door."
-      },
-      {
-        "tag": "FYI",
-        "title": "Sailing course books shipped",
-        "detail": "Nautilus sent tracking for the textbooks, headed to Dubrovnik for the Sept 12 course."
-      },
-      {
-        "tag": "FYI",
-        "title": "Tampa rental agreement is in",
-        "detail": "Enterprise sent the car rental agreement for the trip out of TPA."
+        "tag": "Financial",
+        "title": "Nautilus final sailing-course payment due",
+        "detail": "Invoice 2170 from Nautilus shows a $6,475 balance due ahead of the September charter."
       }
     ],
-    "noise": "The rest is the usual confirmations and receipts.",
+    "noise": "The rest is promotions and receipts — a Chase statement (auto-pay is on), Todoist digests, and language-app and shopping mail.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Scheduled",
-      "title": "Valoris catch-up is booked",
-      "detail": "You and Martin Steindl set the call for Thursday the 27th at 12:00 EST; the invite is in."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Tuesday Aug 25"
+    "asOf": "Wednesday Aug 26"
   },
   "recipe": {
     "title": "Sautéed zucchini with scallions & fresh mozzarella",
@@ -63,47 +52,35 @@
   },
   "tasks": [
     {
-      "title": "Book the Sept 19 Cavtat night near DBV airport",
-      "project": "Croatia trip",
-      "due": "Overdue Aug 23",
-      "overdue": true
-    },
-    {
-      "title": "Book St. Pete lodging for the Sept 20-21 landing gap",
-      "project": "Croatia trip",
-      "due": "Due today",
-      "overdue": false
-    },
-    {
-      "title": "Confirm checked bags on the Croatia ticket, in writing",
-      "project": "Croatia trip",
-      "due": "Due today",
+      "title": "Passport packet for the four girls (Mike's to assemble)",
+      "project": "Croatia / Travel",
+      "due": "Due today · appt Aug 28",
       "overdue": false
     },
     {
       "title": "Destination edit work",
-      "project": "Travel",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/4",
-    "day": "0/3",
+    "morning": "0/10",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar — the morning is yours for the trip bookings."
+      "line": "No meetings on the calendar — the clear morning is the time to knock out the overdue Croatia bookings."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear, a good window to pin down the Croatia baggage before counter fees."
+      "line": "Still open all afternoon, room to sort the flight bags and the St. Pete gap before tomorrow's call."
     },
     {
       "time": "Evening",
-      "line": "Home in St. Pete with the girls — an easy close to the day."
+      "line": "The girls are with you and Mike in St. Pete — an easy evening, with the Valoris call to think through for the morning."
     }
   ],
   "japanese": {
