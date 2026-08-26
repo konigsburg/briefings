@@ -1,48 +1,54 @@
 {
   "date": "Tuesday, August 25, 2026",
-  "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "An open day in St. Pete.",
-  "greeting": "Nothing on the calendar today, Dan, and the girls are around — a genuinely open day in Kenwood. The three Croatia bookings on the board are the one thing worth closing before they harden.",
+  "generatedAt": "Morning brief · 10:05 PM ET",
+  "theme": "An open day, with the Croatia trip down to the wire.",
+  "greeting": "The calendar is clear today, Dan — no meetings to work around. The real pull is the September Croatia trip: a couple of bookings and a baggage check have hit their deadline.",
   "needsAttention": [
     {
-      "tag": "Board · overdue",
-      "title": "Book the last Dubrovnik night",
-      "detail": "A Cavtat room for Sept 19 — the only night still open after the charter disembarks and before the 7:30am flight out of DBV. Mike assigned it on the board; overdue since Aug 23."
+      "tag": "Trip booking",
+      "title": "Book the Sept 19 Cavtat night",
+      "detail": "The single night after the charter disembarks is still open. Mike wants Cavtat by the airport, not Old Town, for the 5am DBV run the next morning. Overdue since Aug 23."
     },
     {
-      "tag": "Board · due today",
+      "tag": "Trip booking",
       "title": "Close the St. Pete landing gap",
-      "detail": "Two nights, Sept 20 and 21, between the TPA landing from Croatia and the Tuesday school pickup — the last gap before the Orlando villa."
+      "detail": "Sept 20 and 21 still need a room between the TPA landing and the Tue Sept 22 kid pickup, before the Orlando villa. Due today."
     },
     {
-      "tag": "Board · due today",
-      "title": "Pin down the Croatia baggage",
-      "detail": "The issued ticket shows zero checked bags. Confirm the allowance on Eurowings Discover's own site with the record locator and buy bags now if they are missing, before airport-counter fees kick in."
+      "tag": "Trip logistics",
+      "title": "Confirm the Croatia checked bags in writing",
+      "detail": "The issued ticket shows zero checked bags on Basic Economy. Verify the allowance on Eurowings Discover's own site with the record locator and buy online now — two 55L duffels will not fly as carry-on. Due today."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Health",
-        "title": "A new MyChart message",
-        "detail": "MaineHealth left a secure message in MyChart; the note itself only lands inside the portal."
-      },
-      {
-        "tag": "Security",
-        "title": "New account access to review",
-        "detail": "Google logged fresh app grants and sign-ins today — OpenAI and Claude for Gmail among them. Worth a glance to confirm each was you."
+        "tag": "Job search",
+        "title": "Governance event invite in Kuala Lumpur",
+        "detail": "Kevin at CGI Global asks if you'd come meet a new corporate audience; speaker slots are filled but it's a networking door."
       },
       {
         "tag": "FYI",
-        "title": "Anna's sourdough this week",
-        "detail": "The bread baker in Maine asked, asap, whether you want in on this week's Everyday sourdough."
+        "title": "Sailing course books shipped",
+        "detail": "Nautilus sent tracking for the textbooks, headed to Dubrovnik for the Sept 12 course."
+      },
+      {
+        "tag": "FYI",
+        "title": "Tampa rental agreement is in",
+        "detail": "Enterprise sent the car rental agreement for the trip out of TPA."
       }
     ],
-    "noise": "The rest is receipts (Apple, Curb), governance newsletters, and the usual promotions.",
+    "noise": "The rest is the usual confirmations and receipts.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Scheduled",
+      "title": "Valoris catch-up is booked",
+      "detail": "You and Martin Steindl set the call for Thursday the 27th at 12:00 EST; the invite is in."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -57,29 +63,47 @@
   },
   "tasks": [
     {
+      "title": "Book the Sept 19 Cavtat night near DBV airport",
+      "project": "Croatia trip",
+      "due": "Overdue Aug 23",
+      "overdue": true
+    },
+    {
+      "title": "Book St. Pete lodging for the Sept 20-21 landing gap",
+      "project": "Croatia trip",
+      "due": "Due today",
+      "overdue": false
+    },
+    {
+      "title": "Confirm checked bags on the Croatia ticket, in writing",
+      "project": "Croatia trip",
+      "due": "Due today",
+      "overdue": false
+    },
+    {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Travel",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/4",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is clear straight through the morning."
+      "line": "No meetings on the calendar — the morning is yours for the trip bookings."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled, so the afternoon holds whatever you give it."
+      "line": "Still clear, a good window to pin down the Croatia baggage before counter fees."
     },
     {
       "time": "Evening",
-      "line": "You are settled in Kenwood for the stretch — a calm evening at home."
+      "line": "Home in St. Pete with the girls — an easy close to the day."
     }
   ],
   "japanese": {
