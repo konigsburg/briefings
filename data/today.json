@@ -1,43 +1,64 @@
 {
   "date": "Wednesday, August 26, 2026",
   "generatedAt": "Morning brief · 7:37 AM ET",
-  "theme": "An open day in St. Pete — clear the Croatia bookings before the window shuts.",
-  "greeting": "The calendar is empty today, Dan, so the day is yours — and the overdue Croatia bookings are what it is best spent on. The girls are with you and Mike in St. Pete, and tomorrow noon brings the Valoris call with Martin.",
+  "theme": "An open day, then a busy tomorrow.",
+  "greeting": "Good morning, Dan. Nothing sits on the calendar today, which leaves the morning for the Croatia bookings that keep slipping and a little prep before tomorrow's Valoris call.",
   "needsAttention": [
     {
-      "tag": "Travel · overdue",
-      "title": "Book the Cavtat hotel and transfer for Sept 19",
-      "detail": "The last night of the Croatia trip is still unbooked: Cavtat near the airport, one night Sat Sept 19, plus the noon transfer from ACI Komolac. It has to be locked from land before you sail on Sept 8, and it has sat open since Aug 23."
+      "tag": "Tomorrow prep",
+      "title": "Prep for the Valoris call with Martin",
+      "detail": "Martin Steindl has you on a Teams call tomorrow at noon ET. Skim Davit's country-level opportunities note and your reply so you can pick up the Priority One shortlist where the group left it."
     },
     {
-      "tag": "Travel · overdue",
-      "title": "Confirm checked bags are on the Croatia ticket",
-      "detail": "The issued ticket shows zero checked bags on both Eurowings Discover legs. Pull it up on the operating carrier's site by record locator and buy the bags now — two 55L duffels get refused at the gate otherwise."
+      "tag": "Job search",
+      "title": "Public Policy SVP wants work authorization",
+      "detail": "A recruiter note from yesterday for the SVP, Global Public Policy role asks you to confirm work authorization to keep the application moving. Worth a look — and a careful eye, since the sender and employer are unnamed."
     },
     {
-      "tag": "Travel · overdue",
-      "title": "Close the St. Pete landing-gap nights",
-      "detail": "The two nights in St. Pete after you land TPA on Sept 20, before the Sept 22 pickup, are still open. While you are at it, check that the Sept 27–Oct 5 Airbnb converted from pending to confirmed."
-    },
-    {
-      "tag": "Prep · tomorrow",
-      "title": "Bring a country view to the Valoris call",
-      "detail": "Tomorrow at noon you are back with Martin Steindl to continue the Valoris conversation. Arrive holding your take on Davit's Priority One country list and where you would want to focus."
+      "tag": "Travel deadline",
+      "title": "Two Croatia bookings open before you sail",
+      "detail": "The Cavtat night for Sept 19 and written proof that checked bags are on the Croatia ticket are both p1 and past due — and both have to be settled from shore before the Sept 8 departure."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "SVP Global Public Policy — work-auth ask",
+        "detail": "SourceHire note (Aug 25) wants your work authorization confirmed to keep the application moving. Verify it's genuine before replying."
+      },
+      {
         "tag": "Financial",
-        "title": "Nautilus final sailing-course payment due",
-        "detail": "Invoice 2170 from Nautilus shows a $6,475 balance due ahead of the September charter."
+        "title": "Liberty Mutual home policy renewal",
+        "detail": "Renewal notice arrived this morning — worth checking the new premium before it auto-renews."
+      },
+      {
+        "tag": "Financial",
+        "title": "$9.99 PayPal charge to Whitepages",
+        "detail": "A small PayPal payment to Whitepages posted today; confirm it was you."
+      },
+      {
+        "tag": "FYI",
+        "title": "'Urgent' alert on the 369 Danforth system",
+        "detail": "Two Carrier/Infinity notices about the Portland system came in (addressed to Andrew Ross) — could be a real fault at the Danforth Street place."
       }
     ],
-    "noise": "The rest is promotions and receipts — a Chase statement (auto-pay is on), Todoist digests, and language-app and shopping mail.",
+    "noise": "Underneath: LinkedIn digests, a Microsoft terms-of-use update, Todoist summaries, and a Bubby's receipt.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Sorted",
+      "title": "Wayfinder order canceled and refunded",
+      "detail": "You asked to cancel the sailing shoes on Aug 24; Wayfinder confirmed the cancellation and refund the same day."
+    },
+    {
+      "tag": "Scheduled",
+      "title": "Valoris call locked for tomorrow",
+      "detail": "Martin sent the invite and it's on your calendar for noon ET Thursday."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -52,9 +73,27 @@
   },
   "tasks": [
     {
-      "title": "Passport packet for the four girls (Mike's to assemble)",
-      "project": "Croatia / Travel",
-      "due": "Due today · appt Aug 28",
+      "title": "Book the Cavtat hotel night — Sat Sept 19, airport side",
+      "project": "Travel",
+      "due": "Due today",
+      "overdue": false
+    },
+    {
+      "title": "Confirm checked bags are on the Croatia ticket, in writing",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Book St Pete lodging for the landing gap, Sept 20-22",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Passport packet for the 4 girls (Mike's, before Aug 28)",
+      "project": "Travel",
+      "due": "Due today",
       "overdue": false
     },
     {
@@ -72,15 +111,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar — the clear morning is the time to knock out the overdue Croatia bookings."
+      "line": "No meetings on the calendar — the clearest stretch to close out the Croatia bookings that are already past due."
     },
     {
       "time": "Afternoon",
-      "line": "Still open all afternoon, room to sort the flight bags and the St. Pete gap before tomorrow's call."
+      "line": "Still open; a good window to reread Davit's country note before tomorrow's noon call with Martin."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you and Mike in St. Pete — an easy evening, with the Valoris call to think through for the morning."
+      "line": "A quiet close in St. Pete — tomorrow opens with Nolan's birthday and the Valoris call at noon."
     }
   ],
   "japanese": {
