@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-08-26",
+    "kind": "Morning brief",
+    "label": "Wednesday, Aug 26 · 6:10 AM ET",
+    "summary": "Open day in St. Pete with the girls; overdue Croatia bookings and flight-bag confirmation lead, plus prep for tomorrow's noon Valoris call.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-08-25",
     "kind": "Morning brief",
     "label": "Tuesday, Aug 25 · 10:05 PM ET",
@@ -201,12 +208,5 @@
     "label": "Sun, Aug 9 · in transit",
     "summary": "Quiet inbox — quip renews Aug 12 (financial); a GitHub token notice; nothing urgent, no job-search or security mail.",
     "ref": "today"
-  },
-  {
-    "id": "brief-2026-08-09",
-    "kind": "Morning brief",
-    "label": "Sun, Aug 9 · 8:00 AM",
-    "summary": "Travel day to Portland. Open question on whether tonight's flights were on; tight 51-minute Charlotte connection.",
-    "ref": null
   }
 ]
