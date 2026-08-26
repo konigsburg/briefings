@@ -1,28 +1,28 @@
 {
   "date": "Wednesday, August 26, 2026",
-  "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "An open day, and a stack of Croatia bookings past due.",
-  "greeting": "Morning, Dan — nothing's on the calendar today, which is exactly the opening you need. A cluster of p1 trip bookings has gone overdue and the window to lock them closes with your Sept 8 departure. Kids are with you and Mike in St. Pete.",
+  "generatedAt": "Morning brief · 2:07 PM ET",
+  "theme": "An open calendar, and a short stack of trip logistics that have waited long enough.",
+  "greeting": "A clear day, Dan - no meetings, and the girls home with you in St. Pete. The only thing on the horizon is tomorrow's noon call with Valoris; everything else is Croatia trip logistics that have been piling up.",
   "needsAttention": [
     {
-      "tag": "Trip prep",
-      "title": "Confirm Croatia bags are on the ticket",
-      "detail": "Travel p1, overdue since Aug 25. The issued fare shows 0 checked bags — verify the allowance on Eurowings Discover's own site with the record locator and buy bags now, before airport-counter fees. Two 55L duffels won't pass as carry-on."
+      "tag": "Tomorrow · prep",
+      "title": "Prep for the Valoris call",
+      "detail": "Martin's call is tomorrow at noon ET. Come with a view on continuing 'as a group' after your talks with Mike and Davit."
     },
     {
-      "tag": "Trip prep",
+      "tag": "Due today",
       "title": "Book the Cavtat night for Sept 19",
-      "detail": "Travel p1, due today. One night in Cavtat after the charter disembarks at noon, airport-side for the 7:30 AM Sept 20 flight — plus the noon transfer from ACI Komolac. Book refundable; it has to be done from dry land before Sept 8."
+      "detail": "The last night of the Croatia trip, near the Dubrovnik airport - and it has to be booked from dry land before you sail on the 8th."
     },
     {
-      "tag": "Trip prep",
-      "title": "Close the St. Pete landing gap",
-      "detail": "Travel p1, overdue since Aug 25. Sept 20–22 is still open — you land TPA the 20th, kids aren't picked up until the 22nd. Also glance at whether the pending Sept 27 St. Pete Airbnb converted from requested to confirmed."
+      "tag": "Overdue · p1",
+      "title": "Get the Croatia checked bags in writing",
+      "detail": "The issued ticket shows zero checked bags. Confirm the allowance on Eurowings Discover's own site now, not at the counter."
     },
     {
-      "tag": "Tomorrow",
-      "title": "Valoris call with Martin at noon",
-      "detail": "Tomorrow's one fixed point, a Teams call with Martin Steindl. Worth arriving with a clear read on what you want from Valoris and a couple of talking points."
+      "tag": "Overdue · p1",
+      "title": "Book the St Pete landing-gap nights",
+      "detail": "Sept 20-21, between landing at TPA and the Tuesday kid pickup, before the drive to the Orlando villa."
     }
   ],
   "schedule": [],
@@ -30,25 +30,46 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two roles from the job boards",
-        "detail": "LinkedIn and Nexxt flagged a Viasat VP of Government Relations and a Hillel executive director posting — automated alerts, nothing owed in reply."
+        "title": "CGI Global's invitation to KL",
+        "detail": "Kerrie Waring asks if you'd like to come along to meet a new corporate audience; she leaves for Tokyo Sept 26."
       },
       {
-        "tag": "FYI",
-        "title": "Mike's sailing-center options",
-        "detail": "Mike forwarded St. Pete Sailing Center membership details for getting on the water before the Croatia course — shared, no ask attached."
+        "tag": "Financial",
+        "title": "Nautilus sailing balance due",
+        "detail": "The $6,475 final payment for the sailing course, due before the September trip."
+      },
+      {
+        "tag": "Financial",
+        "title": "Home policy renewal notice",
+        "detail": "Liberty Mutual homeowner's renewal landed - worth a look before it renews on its own."
       }
     ],
-    "noise": "The rest is newsletters — Responsible Investor, NYT Cooking, and the Midcoast Villager.",
-    "clear": ""
+    "noise": "Newsletters, a shipping notice, the Enterprise rental agreement, and a couple of trip confirmations.",
+    "clear": "Nothing else is waiting on your reply."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Scheduled",
+      "title": "The Valoris call is on the calendar",
+      "detail": "Martin sent the invite for Thursday noon ET and you confirmed - nothing more to arrange."
+    },
+    {
+      "tag": "Job search",
+      "title": "Japan board introduction handled",
+      "detail": "You replied to the JOMON team; scheduling the meeting now sits with Furuta-san's office."
+    },
+    {
+      "tag": "Booked",
+      "title": "Dubrovnik Old Port stay confirmed",
+      "detail": "The Airbnb for Sept 9-12 came through - the front end of the trip is set."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Wednesday Aug 26"
+    "asOf": "Wed Aug 26"
   },
   "recipe": {
     "title": "Sautéed zucchini with scallions & fresh mozzarella",
@@ -57,29 +78,35 @@
   },
   "tasks": [
     {
+      "title": "Assemble the passport packet for the four girls",
+      "project": "Croatia Trip",
+      "due": "Due today",
+      "overdue": false
+    },
+    {
       "title": "Destination edit work",
-      "project": "Destinations",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/5",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar — the whole open morning is yours for the trip bookings that have slipped past due."
+      "line": "The calendar opened empty - no meetings to answer to."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear; a good stretch to lock the Cavtat night and confirm the ticket's baggage before the fees climb."
+      "line": "A rare uninterrupted stretch, good for the things that need real focus."
     },
     {
       "time": "Evening",
-      "line": "Kids are with you and Mike in St. Pete; tomorrow's only fixed point is the noon Valoris call."
+      "line": "A full house with the girls here, and one call waiting at noon tomorrow."
     }
   ],
   "japanese": {
