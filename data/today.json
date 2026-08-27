@@ -1,35 +1,30 @@
 {
   "date": "Thursday, August 27, 2026",
   "generatedAt": "Morning brief · 10:07 AM ET",
-  "theme": "One noon call, an open day, Croatia prep still on the clock.",
-  "greeting": "Good morning, Dan. Just the Valoris call at noon anchors today, and the rest is yours. A single St Pete errand run can retire several Croatia to-dos in one trip.",
+  "theme": "One call, wide margins",
+  "greeting": "An open Thursday in St. Pete with the girls around, and just a noon call to anchor it. The kind of quiet day that's good for the bookings that have been sliding.",
   "needsAttention": [
     {
-      "tag": "Due today",
-      "title": "Deck shoes before Croatia",
-      "detail": "The Helly Hansen order was cancelled, so both non-marking pairs (Mike 11, Dan 9.5) still need buying in person in St Pete. The online backup closes today if the store trip falls through."
+      "tag": "Croatia · overdue",
+      "title": "Croatia lodging still unbooked",
+      "detail": "Two p1 tasks are past due: the Cavtat night of Sept 19 and the St. Pete landing gap Sept 20-22. The charter departs Sept 8 with poor connectivity aboard, so both need booking from dry land beforehand."
     },
     {
-      "tag": "Overdue p1",
-      "title": "Lock the Sept 19 Cavtat night",
-      "detail": "The last night after the charter, over by Dubrovnik airport, has been open since Aug 23. It has to be booked before you sail Sept 8, when connectivity drops."
+      "tag": "Travel · overdue",
+      "title": "Confirm the Croatia checked bags",
+      "detail": "A p1 task flags the issued ticket as 0 checked bags on the Eurowings Discover legs. Confirm the allowance on the operating carrier's site and buy bags online now, before the higher airport-counter fees."
     },
     {
-      "tag": "Overdue p1",
-      "title": "Confirm Croatia checked bags",
-      "detail": "The issued ticket shows zero checked bags, and two 55L duffels won't pass as carry-on. Verify the allowance on Eurowings Discover's own site and buy bags now if needed."
-    },
-    {
-      "tag": "Overdue p1",
-      "title": "St Pete landing-gap lodging",
-      "detail": "The two nights (Sept 20-21) between the TPA landing and Tuesday's kid pickup still aren't booked, overdue since Aug 25."
+      "tag": "Passports · tomorrow",
+      "title": "Kids' passport packet due before Aug 28",
+      "detail": "Mike's p1 task to assemble the four girls' passport packet closes before tomorrow: unsigned DS-11s, birth-certificate copies, and two separate payments (a State Dept check, USPS by card). Worth a check it's on track."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
-      "title": "Call with Martin, Valoris",
-      "detail": "Teams call with Martin Steindl",
+      "title": "Call with Martin Steindl (Valoris)",
+      "detail": "Teams call, Martin organizing",
       "tag": "call"
     }
   ],
@@ -37,12 +32,12 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Conor Kehoe intro was recalled",
-        "detail": "Conor Kehoe's office recalled Eugenia Jackson's PGIM introduction this morning, on the PRI networking thread you'd already replied to."
+        "title": "Google Cloud gov-affairs role",
+        "detail": "A LinkedIn alert surfaced a Regional Lead, Market Development & Government Affairs opening at Google Cloud, squarely in your public-affairs lane."
       }
     ],
-    "noise": "Promos from Qatar Airways, Breeze, and a yard-service pitch.",
-    "clear": "Nothing else is awaiting your reply."
+    "noise": "The rest of the unread inbox is retail sales, travel promos, and newsletters.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -50,7 +45,7 @@
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Thu Aug 27"
+    "asOf": "Thursday Aug 27"
   },
   "recipe": {
     "title": "Chambéry Trout",
@@ -60,40 +55,34 @@
   "tasks": [
     {
       "title": "Buy EU plug adapters and a US power strip",
-      "project": "Mike + Dan Board",
-      "due": "Today",
-      "overdue": false
-    },
-    {
-      "title": "St Pete supplies run, shampoo and hand soap",
-      "project": "Mike + Dan Board",
-      "due": "Today",
+      "project": "Croatia trip",
+      "due": "Due today",
       "overdue": false
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/4",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning with nothing booked before noon, the real working block of the day."
+      "line": "A clear run until noon, the longest uninterrupted stretch of the day."
     },
     {
-      "time": "12 PM",
-      "line": "Martin Steindl from Valoris on Teams, the day's only fixed point."
+      "time": "Afternoon",
+      "line": "One call at noon with Martin at Valoris, then the afternoon reopens."
     },
     {
       "time": "Evening",
-      "line": "No evening commitments; the girls are home with you and Mike in St Pete."
+      "line": "Nothing on the calendar, and the girls are with you in St. Pete."
     }
   ],
   "japanese": {
