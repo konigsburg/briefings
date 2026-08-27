@@ -1,30 +1,30 @@
 {
   "date": "Thursday, August 27, 2026",
-  "generatedAt": "Morning brief · 12:03 PM ET",
-  "theme": "One call, wide margins",
-  "greeting": "An open Thursday in St. Pete with the girls around, and just a noon call to anchor it. The kind of quiet day that's good for the bookings that have been sliding.",
+  "generatedAt": "Morning brief · 12:07 PM ET",
+  "theme": "An open day with a single call at its center.",
+  "greeting": "Morning, Dan. The calendar is nearly empty today — one Teams call at noon and otherwise clear, with the girls home this week in St. Pete. A good runway to close out the Croatia bookings that have been sitting.",
   "needsAttention": [
     {
-      "tag": "Croatia · overdue",
-      "title": "Croatia lodging still unbooked",
-      "detail": "Two p1 tasks are past due: the Cavtat night of Sept 19 and the St. Pete landing gap Sept 20-22. The charter departs Sept 8 with poor connectivity aboard, so both need booking from dry land beforehand."
+      "tag": "Trip · overdue",
+      "title": "Book the Sept 19 Cavtat night and transfer",
+      "detail": "P1 on the Mike + Dan board, past due since Aug 26. It's the last night after the charter — book Cavtat on the airport side (refundable), plus the noon transfer from ACI Komolac. It has to be booked from dry land before the Sept 8 departure, and mid-September is still shoulder-peak on that coast."
     },
     {
-      "tag": "Travel · overdue",
-      "title": "Confirm the Croatia checked bags",
-      "detail": "A p1 task flags the issued ticket as 0 checked bags on the Eurowings Discover legs. Confirm the allowance on the operating carrier's site and buy bags online now, before the higher airport-counter fees."
+      "tag": "Trip · overdue",
+      "title": "Confirm checked bags are on the Croatia ticket",
+      "detail": "P1, past due since Aug 25. The issued Basic Economy ticket shows zero checked bags — confirm the allowance on the Eurowings Discover record and buy bags online now if they're not included, before airport-counter prices hit."
     },
     {
-      "tag": "Passports · tomorrow",
-      "title": "Kids' passport packet due before Aug 28",
-      "detail": "Mike's p1 task to assemble the four girls' passport packet closes before tomorrow: unsigned DS-11s, birth-certificate copies, and two separate payments (a State Dept check, USPS by card). Worth a check it's on track."
+      "tag": "Trip · overdue",
+      "title": "Fill the St Pete landing gap, Sept 20-21",
+      "detail": "P1, past due since Aug 25 — two nights near St Pete after you land TPA and before the Tuesday kid pickup. Worth a glance too that the Sept 27-Oct 5 Airbnb converted from pending to confirmed."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
       "title": "Call with Martin Steindl (Valoris)",
-      "detail": "Teams call, Martin organizing",
+      "detail": "One-hour Teams call, Martin organizing.",
       "tag": "call"
     }
   ],
@@ -32,11 +32,26 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Google Cloud gov-affairs role",
-        "detail": "A LinkedIn alert surfaced a Regional Lead, Market Development & Government Affairs opening at Google Cloud, squarely in your public-affairs lane."
+        "title": "OpenAI acknowledged your application",
+        "detail": "Automated confirmation your application is in and will be reviewed for that role and similar ones."
+      },
+      {
+        "tag": "Health",
+        "title": "New MyChart message from MaineHealth",
+        "detail": "A message is waiting in your MaineHealth MyChart portal — sign in to read it."
+      },
+      {
+        "tag": "Financial",
+        "title": "Chase card statement is ready",
+        "detail": "Statement balance $64.57, minimum $40, due Sept 22 — autopay is already on."
+      },
+      {
+        "tag": "Security",
+        "title": "New account-access grants logged",
+        "detail": "Google logged OpenAI and Claude for Gmail being granted access, plus new sign-ins on Aug 25 — expected if that was you."
       }
     ],
-    "noise": "The rest of the unread inbox is retail sales, travel promos, and newsletters.",
+    "noise": "The usual newsletters and receipts — New Yorker, NYT Cooking, Press Herald, a Paris receipt, and a couple of Todoist digests.",
     "clear": ""
   },
   "resolved": [],
@@ -55,34 +70,28 @@
   "tasks": [
     {
       "title": "Buy EU plug adapters and a US power strip",
-      "project": "Croatia trip",
+      "project": "Mike + Dan — Board",
       "due": "Due today",
       "overdue": false
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
-      "overdue": true
     }
   ],
   "routines": {
     "morning": "0/4",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear run until noon, the longest uninterrupted stretch of the day."
+      "line": "A clear stretch until noon — the first genuinely open morning in a full week."
     },
     {
       "time": "Afternoon",
-      "line": "One call at noon with Martin at Valoris, then the afternoon reopens."
+      "line": "A single Teams call with Martin at midday, and the afternoon reopens once it's done."
     },
     {
       "time": "Evening",
-      "line": "Nothing on the calendar, and the girls are with you in St. Pete."
+      "line": "Nothing on the calendar tonight — an evening at home with the girls in St. Pete."
     }
   ],
   "japanese": {
