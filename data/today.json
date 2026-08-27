@@ -1,60 +1,56 @@
 {
   "date": "Thursday, August 27, 2026",
   "generatedAt": "Morning brief · 7:30 AM ET",
-  "theme": "A clear day before travel season kicks in",
-  "greeting": "The whole day is open, Dan — nothing on the calendar until Martin's noon call tomorrow. Good, quiet room to close out the Croatia and St. Pete bookings while the kids are settled here.",
+  "theme": "One noon call, an open day, Croatia prep still on the clock.",
+  "greeting": "Good morning, Dan. Just the Valoris call at noon anchors today, and the rest is yours. A single St Pete errand run can retire several Croatia to-dos in one trip.",
   "needsAttention": [
     {
-      "tag": "Financial",
-      "title": "Nautilus sailing balance is due",
-      "detail": "Invoice 2170 in your inbox shows a $6,475 balance for the Croatia course, and Amy's note flags the final-payment window is closing with the trip about two months out."
+      "tag": "Due today",
+      "title": "Deck shoes before Croatia",
+      "detail": "The Helly Hansen order was cancelled, so both non-marking pairs (Mike 11, Dan 9.5) still need buying in person in St Pete. The online backup closes today if the store trip falls through."
     },
     {
-      "tag": "Travel overdue",
-      "title": "Croatia bookings still hanging",
-      "detail": "Two p1 items in Todoist are past due — confirm the checked bags are actually on the Eurowings ticket (due Aug 25), and lock the single Cavtat night for Sept 19. Both have to be settled from dry land before you fly Sept 8."
+      "tag": "Overdue p1",
+      "title": "Lock the Sept 19 Cavtat night",
+      "detail": "The last night after the charter, over by Dubrovnik airport, has been open since Aug 23. It has to be booked before you sail Sept 8, when connectivity drops."
     },
     {
-      "tag": "Travel overdue",
-      "title": "St. Pete landing-gap nights",
-      "detail": "The Sept 20-21 gap — after you land at TPA and before the girls' Sept 22 pickup — still has no lodging. p1, due Aug 25 in Todoist."
+      "tag": "Overdue p1",
+      "title": "Confirm Croatia checked bags",
+      "detail": "The issued ticket shows zero checked bags, and two 55L duffels won't pass as carry-on. Verify the allowance on Eurowings Discover's own site and buy bags now if needed."
     },
     {
-      "tag": "Prep tomorrow",
-      "title": "Martin's Valoris call at noon",
-      "detail": "Your one meeting tomorrow is the noon Teams call with Martin Steindl of Valoris Catalysts. Worth deciding tonight what you want out of it and the two or three points to open with."
+      "tag": "Overdue p1",
+      "title": "St Pete landing-gap lodging",
+      "detail": "The two nights (Sept 20-21) between the TPA landing and Tuesday's kid pickup still aren't booked, overdue since Aug 25."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "12:00 PM",
+      "title": "Call with Martin, Valoris",
+      "detail": "Teams call with Martin Steindl",
+      "tag": "call"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Kuala Lumpur governance invite",
-        "detail": "Kerrie Waring at CGI wrote Aug 24 asking if you'd come meet a new corporate-governance audience in KL — speaking slots are filled, but she'd value you in the room. Awaiting your yes or no."
-      },
-      {
-        "tag": "Financial",
-        "title": "Home policy up for renewal",
-        "detail": "Liberty Mutual sent your home-policy renewal notice yesterday — a quick look before it renews on its own."
+        "title": "Conor Kehoe intro was recalled",
+        "detail": "Conor Kehoe's office recalled Eugenia Jackson's PGIM introduction this morning, on the PRI networking thread you'd already replied to."
       }
     ],
-    "noise": "The rest is travel confirmations — Airbnb, Enterprise, the sailing-materials shipment.",
-    "clear": ""
+    "noise": "Promos from Qatar Airways, Breeze, and a yard-service pitch.",
+    "clear": "Nothing else is awaiting your reply."
   },
-  "resolved": [
-    {
-      "tag": "Job search",
-      "title": "Japan board intro is on their side",
-      "detail": "You replied to Furuta-san and JOMON in July to set up a call; it's been in their court since, with nothing owed from you."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Wednesday Aug 26"
+    "asOf": "Thu Aug 27"
   },
   "recipe": {
     "title": "Chambery Trout",
@@ -63,29 +59,41 @@
   },
   "tasks": [
     {
+      "title": "Buy EU plug adapters and a US power strip",
+      "project": "Mike + Dan Board",
+      "due": "Today",
+      "overdue": false
+    },
+    {
+      "title": "St Pete supplies run, shampoo and hand soap",
+      "project": "Mike + Dan Board",
+      "due": "Today",
+      "overdue": false
+    },
+    {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/5",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar straight through — no meetings to break the morning up."
+      "line": "A clear morning with nothing booked before noon, the real working block of the day."
     },
     {
-      "time": "Afternoon",
-      "line": "The open stretch runs right into the afternoon, the rare kind before travel season starts."
+      "time": "12 PM",
+      "line": "Martin Steindl from Valoris on Teams, the day's only fixed point."
     },
     {
       "time": "Evening",
-      "line": "A quiet evening with the girls in St. Pete before tomorrow opens with the Valoris call."
+      "line": "No evening commitments; the girls are home with you and Mike in St Pete."
     }
   ],
   "japanese": {
