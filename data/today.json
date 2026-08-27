@@ -1,57 +1,63 @@
 {
   "date": "Thursday, August 27, 2026",
   "generatedAt": "Morning brief · 2:03 PM ET",
-  "theme": "An open day with a single call at its center.",
-  "greeting": "Morning, Dan. The calendar is nearly empty today — one Teams call at noon and otherwise clear, with the girls home this week in St. Pete. A good runway to close out the Croatia bookings that have been sitting.",
+  "theme": "An open day, with Croatia logistics closing in.",
+  "greeting": "The girls are with you and Mike in St. Pete and the calendar is nearly bare, just the Valoris call at midday. The real pull today is the Croatia trip: a handful of bookings have slipped past their dates and are ready to close.",
   "needsAttention": [
     {
-      "tag": "Trip · overdue",
-      "title": "Book the Sept 19 Cavtat night and transfer",
-      "detail": "P1 on the Mike + Dan board, past due since Aug 26. It's the last night after the charter — book Cavtat on the airport side (refundable), plus the noon transfer from ACI Komolac. It has to be booked from dry land before the Sept 8 departure, and mid-September is still shoulder-peak on that coast."
+      "tag": "Trip · blocked",
+      "title": "Confirm the Croatia bags are on the ticket",
+      "detail": "The issued fare shows zero checked bags, Basic Economy, both legs on Eurowings Discover. Pull the booking up on the operating carrier's site and buy the two duffels' allowance now, before airport-counter prices."
     },
     {
-      "tag": "Trip · overdue",
-      "title": "Confirm checked bags are on the Croatia ticket",
-      "detail": "P1, past due since Aug 25. The issued Basic Economy ticket shows zero checked bags — confirm the allowance on the Eurowings Discover record and buy bags online now if they're not included, before airport-counter prices hit."
+      "tag": "Trip · window",
+      "title": "Lock the last night in Cavtat",
+      "detail": "One night on Sept 19, airport-side, after the charter ends at ACI Komolac around noon. It has to be booked from dry land before you sail on Sept 8, and it is already past its date."
     },
     {
-      "tag": "Trip · overdue",
-      "title": "Fill the St Pete landing gap, Sept 20-21",
-      "detail": "P1, past due since Aug 25 — two nights near St Pete after you land TPA and before the Tuesday kid pickup. Worth a glance too that the Sept 27-Oct 5 Airbnb converted from pending to confirmed."
+      "tag": "Trip · window",
+      "title": "Book the St. Pete landing-gap nights",
+      "detail": "Sept 20 and 21, between the TPA landing and the Tuesday kid pickup and before the Orlando villa. Two nights still open."
+    },
+    {
+      "tag": "Family · tomorrow",
+      "title": "Passport packet is due tomorrow",
+      "detail": "Mike is assembling the four kids' applications for the Aug 28 appointment; the DS-11s still need printing and signing and State takes a check or money order only. Worth a glance that nothing is missing."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
-      "title": "Call with Martin Steindl (Valoris)",
-      "detail": "One-hour Teams call, Martin organizing.",
+      "title": "Call with Martin, Valoris",
+      "detail": "Teams call, midday",
       "tag": "call"
+    },
+    {
+      "time": "All day",
+      "title": "Nolan Haskovec's birthday",
+      "detail": "A note on your calendar",
+      "tag": "birthday"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "OpenAI acknowledged your application",
-        "detail": "Automated confirmation your application is in and will be reviewed for that role and similar ones."
-      },
-      {
-        "tag": "Health",
-        "title": "New MyChart message from MaineHealth",
-        "detail": "A message is waiting in your MaineHealth MyChart portal — sign in to read it."
+        "tag": "Financial",
+        "title": "Nautilus course balance is due",
+        "detail": "Invoice 2170 shows a $6,475 balance for the September sailing course, and Amy's follow-up flags the final-payment window closing."
       },
       {
         "tag": "Financial",
-        "title": "Chase card statement is ready",
-        "detail": "Statement balance $64.57, minimum $40, due Sept 22 — autopay is already on."
+        "title": "Home policy renewal landed",
+        "detail": "Liberty Mutual sent your home policy renewal notice, worth a look before it renews on its own."
       },
       {
-        "tag": "Security",
-        "title": "New account-access grants logged",
-        "detail": "Google logged OpenAI and Claude for Gmail being granted access, plus new sign-ins on Aug 25 — expected if that was you."
+        "tag": "Job search",
+        "title": "A US board-seat posting came through",
+        "detail": "LinkedIn surfaced a non-executive director opening at ClickCore Strategies, the kind of NED seat you are tracking."
       }
     ],
-    "noise": "The usual newsletters and receipts — New Yorker, NYT Cooking, Press Herald, a Paris receipt, and a couple of Todoist digests.",
+    "noise": "The usual retail and newsletter drift: Li-Lac, Chairish, NYT Cooking, a Kickstarter pitch.",
     "clear": ""
   },
   "resolved": [],
@@ -70,28 +76,34 @@
   "tasks": [
     {
       "title": "Buy EU plug adapters and a US power strip",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan Board",
       "due": "Due today",
       "overdue": false
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
+      "overdue": true
     }
   ],
   "routines": {
     "morning": "0/4",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear stretch until noon — the first genuinely open morning in a full week."
+      "line": "Nothing sat on the calendar before noon."
     },
     {
       "time": "Afternoon",
-      "line": "A single Teams call with Martin at midday, and the afternoon reopens once it's done."
+      "line": "The Valoris call was the one fixed point at midday; the rest of the afternoon is open for the trip bookings."
     },
     {
       "time": "Evening",
-      "line": "Nothing on the calendar tonight — an evening at home with the girls in St. Pete."
+      "line": "The girls are home with you and Mike in St. Pete, a quiet evening in."
     }
   ],
   "japanese": {
