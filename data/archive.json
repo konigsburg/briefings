@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-08-27",
+    "kind": "Morning brief",
+    "label": "Thursday, Aug 27 · 7:30 AM ET",
+    "summary": "An open day with one noon Valoris call, several overdue Croatia-trip bookings, and the girls home in St Pete.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-08-26",
     "kind": "Morning brief",
     "label": "Wednesday, Aug 26 · 10:06 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Inbox summary",
     "label": "Sunday, Aug 9 · 6:42 PM ET",
     "summary": "Very quiet inbox: no job-search mail; only flags were two GitHub personal-access-token creation alerts tied to your briefings app. No financial or health items.",
-    "ref": "today"
-  },
-  {
-    "id": "inbox-2026-08-09-1801",
-    "kind": "Inbox summary",
-    "label": "Sun, Aug 9 · in transit",
-    "summary": "Quiet inbox — quip renews Aug 12 (financial); a GitHub token notice; nothing urgent, no job-search or security mail.",
     "ref": "today"
   }
 ]
