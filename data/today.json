@@ -1,66 +1,61 @@
 {
   "date": "Thursday, August 27, 2026",
-  "generatedAt": "Morning brief · 4:04 PM ET",
-  "theme": "An open day, with Croatia logistics closing in.",
-  "greeting": "The girls are with you and Mike in St. Pete and the calendar is nearly bare, just the Valoris call at midday. The real pull today is the Croatia trip: a handful of bookings have slipped past their dates and are ready to close.",
+  "generatedAt": "Morning brief · 4:08 PM ET",
+  "theme": "An open day, with the pressure sitting off-calendar.",
+  "greeting": "The calendar's nearly empty today, Dan — one midday call and the rest is yours. What actually needs you is off-calendar: a governance call to lock in and a stack of Croatia bookings that have to close before you sail.",
   "needsAttention": [
     {
-      "tag": "Trip · blocked",
-      "title": "Confirm the Croatia bags are on the ticket",
-      "detail": "The issued fare shows zero checked bags, Basic Economy, both legs on Eurowings Discover. Pull the booking up on the operating carrier's site and buy the two duffels' allowance now, before airport-counter prices."
+      "tag": "Job search",
+      "title": "Pick a time with Conor Kehoe",
+      "detail": "Conor's assistant Kate wrote this morning with slots for the PRI governance chat — Wed Sep 2, 10:00–11:30 EDT, or Thu Sep 3 around 09:30 EDT. She's waiting on you to choose one."
     },
     {
-      "tag": "Trip · window",
-      "title": "Lock the last night in Cavtat",
-      "detail": "One night on Sept 19, airport-side, after the charter ends at ACI Komolac around noon. It has to be booked from dry land before you sail on Sept 8, and it is already past its date."
+      "tag": "Travel · p1",
+      "title": "Confirm checked bags on the Croatia ticket",
+      "detail": "Your issued ticket shows zero checked bags on both Eurowings Discover legs; confirm the allowance on the operating carrier's site and buy bags now, before counter fees. In Todoist, p1 and overdue since Aug 25."
     },
     {
-      "tag": "Trip · window",
-      "title": "Book the St. Pete landing-gap nights",
-      "detail": "Sept 20 and 21, between the TPA landing and the Tuesday kid pickup and before the Orlando villa. Two nights still open."
-    },
-    {
-      "tag": "Family · tomorrow",
-      "title": "Passport packet is due tomorrow",
-      "detail": "Mike is assembling the four kids' applications for the Aug 28 appointment; the DS-11s still need printing and signing and State takes a check or money order only. Worth a glance that nothing is missing."
+      "tag": "Travel · p1",
+      "title": "Book the last Croatia and St Pete nights",
+      "detail": "Cavtat for Sat Sep 19 after the charter, plus the St Pete landing gap Sep 20–21 — both need locking before you fly out Sep 8, when boat connectivity disappears. In Todoist, p1 and several days overdue."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
-      "title": "Call with Martin, Valoris",
-      "detail": "Teams call, midday",
+      "title": "Call with Martin Steindl (Valoris)",
+      "detail": "One-hour Teams call",
       "tag": "call"
-    },
-    {
-      "time": "All day",
-      "title": "Nolan Haskovec's birthday",
-      "detail": "A note on your calendar",
-      "tag": "birthday"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Nautilus course balance is due",
-        "detail": "Invoice 2170 shows a $6,475 balance for the September sailing course, and Amy's follow-up flags the final-payment window closing."
+        "title": "Nautilus sailing balance due",
+        "detail": "QuickBooks invoice 2170 shows a $6,475 balance for the course, and Amy at Nautilus flagged the final payment on Aug 26."
       },
       {
         "tag": "Financial",
-        "title": "Home policy renewal landed",
-        "detail": "Liberty Mutual sent your home policy renewal notice, worth a look before it renews on its own."
-      },
-      {
-        "tag": "Job search",
-        "title": "A US board-seat posting came through",
-        "detail": "LinkedIn surfaced a non-executive director opening at ClickCore Strategies, the kind of NED seat you are tracking."
+        "title": "Liberty Mutual home renewal",
+        "detail": "Your home policy renewal notice landed Aug 26 — worth a look before it auto-renews."
       }
     ],
-    "noise": "The usual retail and newsletter drift: Li-Lac, Chairish, NYT Cooking, a Kickstarter pitch.",
+    "noise": "The rest is receipts and reminders — Airbnb and Enterprise confirmations, a neighborhood newsletter.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Job search",
+      "title": "Tokyo board contacts wrote back",
+      "detail": "Furuta-san and Sakai's office both replied Aug 26, noting your possible Tokyo visit the week of Sep 30 — nothing owed for now."
+    },
+    {
+      "tag": "Travel",
+      "title": "Sailing textbooks shipped",
+      "detail": "Nautilus confirmed your course materials are on the way to Dubrovnik; tracking arrived Aug 25."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -75,14 +70,14 @@
   },
   "tasks": [
     {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Mike + Dan Board",
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Travel",
       "due": "Due today",
       "overdue": false
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -94,16 +89,16 @@
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "Nothing sat on the calendar before noon."
+      "time": "Until 12 PM",
+      "line": "The morning stayed open — nothing on the calendar before noon."
     },
     {
-      "time": "Afternoon",
-      "line": "The Valoris call was the one fixed point at midday; the rest of the afternoon is open for the trip bookings."
+      "time": "12 – 1 PM",
+      "line": "A single call with Martin Steindl of Valoris Catalysts."
     },
     {
-      "time": "Evening",
-      "line": "The girls are home with you and Mike in St. Pete, a quiet evening in."
+      "time": "1 PM onward",
+      "line": "The afternoon is clear; the Croatia bookings are what's waiting."
     }
   ],
   "japanese": {
