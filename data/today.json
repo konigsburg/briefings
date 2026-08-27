@@ -1,6 +1,6 @@
 {
   "date": "Thursday, August 27, 2026",
-  "generatedAt": "Morning brief · 6:03 PM ET",
+  "generatedAt": "Morning brief · 6:07 PM ET",
   "theme": "An open day, with the pressure sitting off-calendar.",
   "greeting": "The calendar's nearly empty today, Dan — one midday call and the rest is yours. What actually needs you is off-calendar: a governance call to lock in and a stack of Croatia bookings that have to close before you sail.",
   "needsAttention": [
@@ -18,6 +18,11 @@
       "tag": "Travel · p1",
       "title": "Book the last Croatia and St Pete nights",
       "detail": "Cavtat for Sat Sep 19 after the charter, plus the St Pete landing gap Sep 20–21 — both need locking before you fly out Sep 8, when boat connectivity disappears. In Todoist, p1 and several days overdue."
+    },
+    {
+      "tag": "Deadline · Aug 28",
+      "title": "Passport packet has to be counter-ready",
+      "detail": "Mike's four kids' DS-11s still need printing and signing, plus State Dept checks (~$400) and USPS $200 — one missing document sends all four applications home. Due before Aug 28."
     }
   ],
   "schedule": [
@@ -48,7 +53,7 @@
     {
       "tag": "Job search",
       "title": "Tokyo board contacts wrote back",
-      "detail": "Furuta-san and Sakai's office both replied Aug 26, noting your possible Tokyo visit the week of Sep 30 — nothing owed for now."
+      "detail": "Furuta-san and his office replied earlier this month on a possible Tokyo visit — nothing owed for now."
     },
     {
       "tag": "Travel",
