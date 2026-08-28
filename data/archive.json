@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-08-28",
+    "kind": "Morning brief",
+    "label": "Friday, Aug 28 · 7:06 AM ET",
+    "summary": "Open day anchored by the 9:30 passport appointment, with the Croatia and Orlando booking backlog the real work.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-08-27",
     "kind": "Morning brief",
     "label": "Thursday, Aug 27 · 10:02 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Inbox summary",
     "label": "Sunday, Aug 9 · 6:43 PM ET",
     "summary": "Manual verification run — pipeline confirmed end to end. Inbox unchanged: no job-search mail; only flags are two GitHub personal-access-token alerts tied to your briefings app. No financial or health items.",
-    "ref": "today"
-  },
-  {
-    "id": "inbox-2026-08-09-1842",
-    "kind": "Inbox summary",
-    "label": "Sunday, Aug 9 · 6:42 PM ET",
-    "summary": "Very quiet inbox: no job-search mail; only flags were two GitHub personal-access-token creation alerts tied to your briefings app. No financial or health items.",
     "ref": "today"
   }
 ]
