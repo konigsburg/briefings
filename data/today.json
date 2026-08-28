@@ -1,35 +1,40 @@
 {
   "date": "Thursday, August 27, 2026",
-  "generatedAt": "Morning brief · 8:05 PM ET",
-  "theme": "An open day, with the pressure sitting off-calendar.",
-  "greeting": "The calendar's nearly empty today, Dan — one midday call and the rest is yours. What actually needs you is off-calendar: a governance call to lock in and a stack of Croatia bookings that have to close before you sail.",
+  "generatedAt": "Morning brief · 8:08 PM ET",
+  "theme": "An open day, Croatia prep stacking up.",
+  "greeting": "An open day in St. Petersburg, Dan — one midday call and otherwise yours. The real pull is Croatia: a stack of p1 bookings has slipped past due with the September 8 departure now closing in.",
   "needsAttention": [
     {
-      "tag": "Job search",
-      "title": "Pick a time with Conor Kehoe",
-      "detail": "Conor's assistant Kate wrote this morning with slots for the PRI governance chat — Wed Sep 2, 10:00–11:30 EDT, or Thu Sep 3 around 09:30 EDT. She's waiting on you to choose one."
+      "tag": "Payment due",
+      "title": "Nautilus Sailing balance",
+      "detail": "QuickBooks flags invoice 2170 for $6,475 to Nautilus Sailing as unpaid, and Amy's note calls the final course payment due soon. Worth clearing before it drifts."
     },
     {
-      "tag": "Travel · p1",
-      "title": "Confirm checked bags on the Croatia ticket",
-      "detail": "Your issued ticket shows zero checked bags on both Eurowings Discover legs; confirm the allowance on the operating carrier's site and buy bags now, before counter fees. In Todoist, p1 and overdue since Aug 25."
+      "tag": "Overdue travel",
+      "title": "Confirm Croatia checked bags",
+      "detail": "The issued Eurowings Discover ticket shows 0 checked bags. Verify baggage on the operating carrier's own site and buy it now — p1, five days overdue, and counter fees run far higher."
     },
     {
-      "tag": "Travel · p1",
-      "title": "Book the last Croatia and St Pete nights",
-      "detail": "Cavtat for Sat Sep 19 after the charter, plus the St Pete landing gap Sep 20–21 — both need locking before you fly out Sep 8, when boat connectivity disappears. In Todoist, p1 and several days overdue."
+      "tag": "Overdue travel",
+      "title": "Book the Cavtat night, Sept 19",
+      "detail": "One night in Cavtat after the charter, plus the Komolac transfer. This has to be booked from dry land before the Sept 8 departure — p1 and past due."
     },
     {
-      "tag": "Deadline · Aug 28",
-      "title": "Passport packet has to be counter-ready",
-      "detail": "Mike's four kids' DS-11s still need printing and signing, plus State Dept checks (~$400) and USPS $200 — one missing document sends all four applications home. Due before Aug 28."
+      "tag": "Overdue travel",
+      "title": "Book the St. Pete landing gap",
+      "detail": "Two nights, Sept 20-21, between the TPA landing and the Tuesday kid pickup. P1, past due Aug 25; the rest of that leg is already locked."
+    },
+    {
+      "tag": "Deadline tomorrow",
+      "title": "Passport packet for the girls",
+      "detail": "Mike's p1 to assemble four DS-11 packets ahead of the Aug 28 appointment — the linchpin of the trip. Worth a check tonight that the printer and checkbook items are done."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
-      "title": "Call with Martin Steindl (Valoris)",
-      "detail": "One-hour Teams call",
+      "title": "Call with Martin (Valoris)",
+      "detail": "Teams - Martin Steindl",
       "tag": "call"
     }
   ],
@@ -37,30 +42,14 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Nautilus sailing balance due",
-        "detail": "QuickBooks invoice 2170 shows a $6,475 balance for the course, and Amy at Nautilus flagged the final payment on Aug 26."
-      },
-      {
-        "tag": "Financial",
-        "title": "Liberty Mutual home renewal",
-        "detail": "Your home policy renewal notice landed Aug 26 — worth a look before it auto-renews."
+        "title": "Nautilus Sailing balance due",
+        "detail": "Invoice 2170 for $6,475 flagged unpaid, plus a final course-payment reminder from Amy."
       }
     ],
-    "noise": "The rest is receipts and reminders — Airbnb and Enterprise confirmations, a neighborhood newsletter.",
-    "clear": ""
+    "noise": "Kick and Midcoast Villager newsletters and the usual promos.",
+    "clear": "Airbnb, Enterprise, and Liberty Mutual notices are FYI - travel confirmations and a home-policy renewal, nothing owed."
   },
-  "resolved": [
-    {
-      "tag": "Job search",
-      "title": "Tokyo board contacts wrote back",
-      "detail": "Furuta-san and his office replied earlier this month on a possible Tokyo visit — nothing owed for now."
-    },
-    {
-      "tag": "Travel",
-      "title": "Sailing textbooks shipped",
-      "detail": "Nautilus confirmed your course materials are on the way to Dubrovnik; tracking arrived Aug 25."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -75,8 +64,8 @@
   },
   "tasks": [
     {
-      "title": "Buy EU plug adapters + a US power strip",
-      "project": "Travel",
+      "title": "Buy EU plug adapters + US power strip",
+      "project": "Croatia Trip",
       "due": "Due today",
       "overdue": false
     },
@@ -94,16 +83,16 @@
   },
   "acts": [
     {
-      "time": "Until 12 PM",
-      "line": "The morning stayed open — nothing on the calendar before noon."
+      "time": "Morning",
+      "line": "The morning is clear - nothing on the calendar before midday."
     },
     {
-      "time": "12 – 1 PM",
-      "line": "A single call with Martin Steindl of Valoris Catalysts."
+      "time": "Afternoon",
+      "line": "Only the noon Valoris call with Martin, then the afternoon opens back up."
     },
     {
-      "time": "1 PM onward",
-      "line": "The afternoon is clear; the Croatia bookings are what's waiting."
+      "time": "Evening",
+      "line": "The girls are with you in St. Pete; Croatia logistics are the evening's real work."
     }
   ],
   "japanese": {
