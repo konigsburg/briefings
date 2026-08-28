@@ -1,55 +1,72 @@
 {
   "date": "Thursday, August 27, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "An open day, Croatia prep stacking up.",
-  "greeting": "An open day in St. Petersburg, Dan — one midday call and otherwise yours. The real pull is Croatia: a stack of p1 bookings has slipped past due with the September 8 departure now closing in.",
+  "theme": "A quiet Thursday, most of it already behind you.",
+  "greeting": "Most of today is done, Dan — a domestic morning, one midday call, an open evening. What's left is the Croatia prep quietly stacking up before you sail on the 8th.",
   "needsAttention": [
     {
-      "tag": "Payment due",
-      "title": "Nautilus Sailing balance",
-      "detail": "QuickBooks flags invoice 2170 for $6,475 to Nautilus Sailing as unpaid, and Amy's note calls the final course payment due soon. Worth clearing before it drifts."
+      "tag": "Trip · overdue",
+      "title": "Confirm Croatia checked bags in writing",
+      "detail": "The issued ticket shows zero checked bags on the Eurowings Discover legs; the p1 to verify the allowance on the operating carrier's site is days overdue. Two 55L duffels won't pass as carry-on, and airport-counter fees run far higher than pre-purchase."
     },
     {
-      "tag": "Overdue travel",
-      "title": "Confirm Croatia checked bags",
-      "detail": "The issued Eurowings Discover ticket shows 0 checked bags. Verify baggage on the operating carrier's own site and buy it now — p1, five days overdue, and counter fees run far higher."
-    },
-    {
-      "tag": "Overdue travel",
+      "tag": "Trip · overdue",
       "title": "Book the Cavtat night, Sept 19",
-      "detail": "One night in Cavtat after the charter, plus the Komolac transfer. This has to be booked from dry land before the Sept 8 departure — p1 and past due."
+      "detail": "Still open and overdue: one refundable Cavtat room plus a noon marina transfer for the last night off the charter, before the 7:30 AM Sunday flight. It has to be booked from dry land before you leave on the 8th."
     },
     {
-      "tag": "Overdue travel",
-      "title": "Book the St. Pete landing gap",
-      "detail": "Two nights, Sept 20-21, between the TPA landing and the Tuesday kid pickup. P1, past due Aug 25; the rest of that leg is already locked."
+      "tag": "Trip · overdue",
+      "title": "St Pete landing-gap lodging",
+      "detail": "Two nights, Sept 20-21, between landing at TPA and the Tuesday kid pickup, are still unbooked. Everything else across that stretch is locked."
     },
     {
-      "tag": "Deadline tomorrow",
-      "title": "Passport packet for the girls",
-      "detail": "Mike's p1 to assemble four DS-11 packets ahead of the Aug 28 appointment — the linchpin of the trip. Worth a check tonight that the printer and checkbook items are done."
+      "tag": "Money · due",
+      "title": "Nautilus final sailing payment",
+      "detail": "Amy at Nautilus and a QuickBooks reminder both flag the final course payment (invoice 2170, $6,475) as due ahead of the September charter."
+    },
+    {
+      "tag": "Tomorrow · passports",
+      "title": "Passport packet counter-ready",
+      "detail": "The four girls' passport appointment lands tomorrow. Mike's packet still needs the DS-11s printed and a State Dept check written — one missing document sends all four applications home."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
-      "title": "Call with Martin (Valoris)",
-      "detail": "Teams - Martin Steindl",
+      "title": "Call with Martin, Valoris",
+      "detail": "Midday Teams call",
       "tag": "call"
+    },
+    {
+      "time": "All day",
+      "title": "Nolan Haskovec's birthday",
+      "detail": "A note if you have a moment",
+      "tag": "personal"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Nautilus Sailing balance due",
-        "detail": "Invoice 2170 for $6,475 flagged unpaid, plus a final course-payment reminder from Amy."
+        "title": "Liberty Mutual home renewal",
+        "detail": "Your home policy renewal notice arrived Tuesday — worth a look before it auto-renews."
+      },
+      {
+        "tag": "FYI",
+        "title": "A sitter applied on Care.com",
+        "detail": "Filia F. responded to the sitter job you posted."
       }
     ],
-    "noise": "Kick and Midcoast Villager newsletters and the usual promos.",
-    "clear": "Airbnb, Enterprise, and Liberty Mutual notices are FYI - travel confirmations and a home-policy renewal, nothing owed."
+    "noise": "The rest is receipts, a rental agreement, and newsletters.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Done today",
+      "title": "Sailing deck shoes sorted",
+      "detail": "You closed the reopened p1 shoe reorder in person in St Pete, alongside the house-supplies run."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -64,35 +81,35 @@
   },
   "tasks": [
     {
-      "title": "Buy EU plug adapters + US power strip",
-      "project": "Croatia Trip",
+      "title": "Buy EU plug adapters and a US power strip",
+      "project": "Mike + Dan Board",
       "due": "Due today",
       "overdue": false
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/4",
-    "day": "0/6",
+    "morning": "6/10",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The morning is clear - nothing on the calendar before midday."
+      "line": "An early domestic start — kids fed, garden tended, the in-person St Pete errands run."
     },
     {
       "time": "Afternoon",
-      "line": "Only the noon Valoris call with Martin, then the afternoon opens back up."
+      "line": "A single midday call breaks up an otherwise clear stretch."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you in St. Pete; Croatia logistics are the evening's real work."
+      "line": "The day winds down open, with nothing new on the calendar tonight."
     }
   ],
   "japanese": {
