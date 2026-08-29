@@ -1,28 +1,33 @@
 {
   "date": "Saturday, August 29, 2026",
   "generatedAt": "Morning brief · 8:12 AM ET",
-  "theme": "An open Saturday with a full house.",
-  "greeting": "The calendar's clear today, Dan, and the four girls are with you and Mike in St. Pete. The only fixed point is tomorrow's early board review, so today is a good chance to close the Croatia bookings that keep sliding before you fly on the 8th.",
+  "theme": "An open Saturday in St. Pete — the trip is what's waiting.",
+  "greeting": "No meetings today, Dan, and the girls are with you and Mike. The whole day is yours — the best use of it is closing the Croatia bookings that have slipped past due before tomorrow's 9 AM review pulls them up.",
   "needsAttention": [
     {
-      "tag": "Prep · tomorrow",
-      "title": "Sunday board review with Mike at 9 AM",
-      "detail": "Tomorrow opens with the 15-minute review on your shared board with Mike, where everything gets an owner and a date and anything stalled three weeks gets cut. A quick skim of the open travel items tonight makes it move fast."
+      "tag": "Prep for tomorrow",
+      "title": "Sunday review lands at 9 AM",
+      "detail": "Your 15-minute board-clear with Mike is tomorrow morning. Everything below is what it will chase — walk in having booked or decided a few of these, not relitigating them live."
     },
     {
-      "tag": "Payment open",
-      "title": "Nautilus charter balance still unpaid",
-      "detail": "QuickBooks shows invoice 2170 to Nautilus Sailing open with a balance due, which is the Croatia charter. Worth clearing before departure, since connectivity aboard is poor."
+      "tag": "Travel · P1 overdue",
+      "title": "Last Croatia night in Cavtat isn't booked",
+      "detail": "The Sept 19 room + noon transfer from ACI Komolac is a P1 that's been open since Aug 23. Charter connectivity is poor, so it has to be booked from dry land before you fly Sept 8 — book refundable."
     },
     {
-      "tag": "Overdue · P1",
-      "title": "Book the Cavtat night for Sept 19",
-      "detail": "Your P1 task to book the last Croatia night in Cavtat plus the noon transfer from ACI Komolac is overdue since Aug 26. It has to be booked from land before you fly Sept 8."
+      "tag": "Travel · P1 overdue",
+      "title": "St Pete landing-gap nights are open",
+      "detail": "Sept 20–22, the two nights between your TPA landing and the Tuesday kid pickup, still have no lodging (P1, due Aug 25). The Sept 27–Oct 5 Airbnb is only pending — worth confirming it converted."
     },
     {
-      "tag": "Overdue · P1",
-      "title": "Book the St Pete landing gap, Sept 20-22",
-      "detail": "The two nights in St Pete after you land from Croatia and before the kids' Tuesday pickup are still unbooked, overdue since Aug 25. The same Sept 8 wall applies."
+      "tag": "Travel · P1 overdue",
+      "title": "Croatia checked bags unconfirmed",
+      "detail": "The issued ticket shows 0 checked bags on Eurowings Discover; two 55L duffels won't fly as carry-on. Confirm the allowance on the operating carrier's site and buy bags online now — counter fees run far higher (P1, due Aug 25)."
+    },
+    {
+      "tag": "Financial",
+      "title": "Nautilus charter payment unfinished",
+      "detail": "A QuickBooks reminder shows the Nautilus Sailing invoice still has a $6,475 balance due, and the charter is Sept 12 — worth closing before departure week."
     }
   ],
   "schedule": [],
@@ -30,25 +35,24 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Nautilus charter invoice open",
-        "detail": "QuickBooks flags invoice 2170 to Nautilus Sailing as not yet paid, the Croatia charter balance."
+        "title": "Nautilus Sailing invoice — $6,475 due",
+        "detail": "QuickBooks says the payment for invoice 2170 isn't finished. Charter is Sept 12."
       },
       {
-        "tag": "FYI",
-        "title": "Care.com sitter, message waiting",
-        "detail": "A caregiver messaged through Care.com and is waiting to hear back, alongside several new applicants to your posting."
+        "tag": "Health",
+        "title": "Care.com — new message + applicants",
+        "detail": "A new message plus several caregivers applied to your posted job (Stephany Q., Valerie R., Sakhene M., Wadlyne A.)."
+      },
+      {
+        "tag": "Financial",
+        "title": "AMEX balance-increase alerts",
+        "detail": "Two myFICO alerts (Experian + Equifax) on a higher reported AMEX balance; Chase BA Visa autopay is scheduled. FYI, no action."
       }
     ],
-    "noise": "The rest is newsletters and promos, FT, Breeze, Filorga, and your Italian word of the week.",
-    "clear": ""
+    "noise": "The usual newsletters and receipts — FT, NYT Cooking, Rancho Gordo, Italian word-of-the-day, plus Venmo, Square and Apple receipts.",
+    "clear": "No security alerts or job-search mail today."
   },
-  "resolved": [
-    {
-      "tag": "Networking",
-      "title": "Tim Soley accepted your invite",
-      "detail": "Your LinkedIn invitation to Tim Soley was accepted, so that connection is now open."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -59,38 +63,32 @@
   "recipe": {
     "title": "Squid with Chili and Clams",
     "book": "How to Eat",
-    "why": "A bright, briny plate of late-summer seafood — exactly the kind of quick-searing, chili-warm cooking that suits a hot August evening."
+    "why": "A quick, chili-bright plate of late-summer seafood — right at home on a hot St. Pete evening with the girls, and fast enough to cook between the beach and bedtime."
   },
   "tasks": [
     {
-      "title": "Confirm checked bags are on the Croatia ticket, in writing",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Book refundable backup car, Sept 20 - Oct 5 (TPA)",
-      "project": "Mike + Dan Board",
+      "title": "Book Sept 20–Oct 5 backup car (refundable)",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Mike + Dan Board",
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
-    "evening": "0/4"
+    "morning": "10/10",
+    "day": "6/6",
+    "evening": "4/4"
   },
   "acts": [
     {
