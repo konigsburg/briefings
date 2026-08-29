@@ -1,52 +1,57 @@
 {
   "date": "Friday, August 28, 2026",
   "generatedAt": "Morning brief · 8:03 PM ET",
-  "theme": "An open calendar, and a trip to pin down.",
-  "greeting": "The calendar is nearly empty today, Dan — the four girls' passport appointment this morning was the one fixed point. What's left of the day belongs to the Croatia bookings stacking up ahead of the Sept 8 flight.",
+  "theme": "Calendar's open — the trip list is what's loud.",
+  "greeting": "Good evening, Dan. No meetings on the books today; the day's weight is the Croatia countdown and a morning of errands with the girls in town.",
   "needsAttention": [
     {
-      "tag": "Booking · closes Sept 8",
-      "title": "Croatia's last night is still open",
-      "detail": "The Sept 19 Cavtat room and the noon marina transfer from ACI Komolac can only be booked from dry land before you fly Sept 8. Overdue since Aug 23."
+      "tag": "Trip · today",
+      "title": "Disney tickets are the hard wall",
+      "detail": "The Orlando/Disney weekend task (Sept 26-27) is due today. Rooms are handled via the villa, but tickets for your six still need buying, plus a check on whether your ticket type needs park reservations."
     },
     {
-      "tag": "Booking · landing gap",
-      "title": "Two St. Pete nights before the villa",
-      "detail": "You land TPA Sun Sept 20 from Croatia but the kids aren't picked up until Tue Sept 22 — the nights of the 20th and 21st still need a place. Overdue since Aug 25."
+      "tag": "Croatia prep",
+      "title": "Get the checked bags in writing",
+      "detail": "The issued Croatia ticket shows zero checked bags. Confirm the allowance on Eurowings Discover's own site with the record locator and buy bags now if needed, before the Sept 8 departure. Two 55L duffels will not pass as carry-on."
     },
     {
-      "tag": "Verify · airline",
-      "title": "Checked bags on the Croatia ticket",
-      "detail": "The issued ticket shows 0 checked bags, carry-on only; confirm the allowance on Eurowings Discover's own site and pre-buy if needed — two 55L duffels won't fly as carry-on and counter fees run high. Overdue since Aug 25."
+      "tag": "Croatia lodging",
+      "title": "Book the Sept 19 Cavtat night",
+      "detail": "The last night after the charter still needs a refundable Cavtat room plus a Komolac transfer. Charter connectivity is poor, so this has to be locked from dry land before you fly out Sept 8."
     },
     {
-      "tag": "Hedge · due today",
-      "title": "Refundable SUV as the backup",
-      "detail": "Book a refundable Full-Size SUV for Sept 20 – Oct 5 at TPA unless Mike's car is confirmed en route south. Decision point is Sept 7; a rental cancels free, a missing car on the 22nd costs the Orlando trip."
+      "tag": "Landing gap",
+      "title": "Two St Pete nights, Sept 20-22",
+      "detail": "You land TPA on Sunday Sept 20 but the girls aren't picked up until Tuesday. The nights of the 20th and 21st near St Pete are still unbooked; the Sept 27-Oct 5 Airbnb is separately pending host confirmation."
     }
   ],
   "schedule": [
     {
       "time": "9:30 AM",
-      "title": "Passport appointments — 4 kids",
-      "detail": "Gateway Mall post office, St. Petersburg; ~1 hour",
-      "tag": "family"
+      "title": "Passport appointment, four girls",
+      "detail": "Gateway Mall post office; then the stacked phone sitting",
+      "tag": "Family"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Croatia crew introductions",
-        "detail": "Your instructor Paul and a crewmate have introduced themselves on the Nautilus thread ahead of the Sept 12 course — a self-intro back would be courteous."
+        "tag": "Financial",
+        "title": "Nautilus final payment due",
+        "detail": "QuickBooks reminder on invoice 2170 for $6,475, the final sailing-course payment Amy also flagged. The last money item before the trip."
       },
       {
         "tag": "FYI",
-        "title": "TPA rental agreement arrived",
-        "detail": "Enterprise sent the full rental agreement for the Tampa pickup — worth filing against the trip's car plan."
+        "title": "Five nanny applicants on Care.com",
+        "detail": "Five people applied to your posted childcare job in the last day."
+      },
+      {
+        "tag": "Job search",
+        "title": "Tim Soley accepted your LinkedIn invite",
+        "detail": "A networking connection went through, worth a note while board outreach is active."
       }
     ],
-    "noise": "Five Care.com caregiver-applicant alerts and a LinkedIn connection notice.",
+    "noise": "Otherwise mostly newsletters and account notices: NYT Cooking, the Midcoast Villager, a CMP bill guide, a Carrier system notice, and a Liberty Mutual renewal.",
     "clear": ""
   },
   "resolved": [],
@@ -64,15 +69,27 @@
   },
   "tasks": [
     {
-      "title": "Buy EU plug adapters + a US power strip",
-      "project": "Croatia trip",
-      "due": "Overdue Aug 27",
-      "overdue": true
+      "title": "Book refundable backup SUV, Sept 20-Oct 5",
+      "project": "Travel",
+      "due": "Today, p2",
+      "overdue": false
+    },
+    {
+      "title": "Call dermatologist to book wart removal",
+      "project": "Travel",
+      "due": "Today, p2",
+      "overdue": false
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Work",
       "due": "Overdue Aug 15",
+      "overdue": true
+    },
+    {
+      "title": "Buy EU plug adapters + US power strip",
+      "project": "Travel",
+      "due": "Overdue Aug 27",
       "overdue": true
     }
   ],
@@ -84,15 +101,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The four girls' passport appointment at 9:30 was the morning's one fixed point."
+      "line": "Errands cluster early: the passport appointment and a run of phone calls to make."
     },
     {
       "time": "Afternoon",
-      "line": "An open calendar, and a stack of Croatia bookings waiting before the Sept 8 flight."
+      "line": "The calendar's clear, which is exactly the room the Croatia bookings need."
     },
     {
       "time": "Evening",
-      "line": "Kids are with you in St. Pete — garden, dinner, a quiet close."
+      "line": "Home with the girls in St Pete as the Sept 8 departure tightens the trip list."
     }
   ],
   "japanese": {
