@@ -1,96 +1,88 @@
 {
-  "date": "Sat, Aug 22",
-  "generatedAt": "Weekly · Aug 22",
-  "theme": "Peak-summer tomatoes: a big-batch fresh sugo and a jar of sweet peperonata to carry the full-house week",
+  "date": "Sat, Aug 29",
+  "generatedAt": "Weekly · Aug 29",
+  "theme": "Late-summer harvest: two big building blocks — a roasted tomato sugo and a pot of brothy cannellini — that carry a full-house week (2 adults + 4 girls).",
   "components": [
     {
-      "name": "Late-Summer Tomato Sugo (big batch)",
+      "name": "Roasted Summer Tomato Sugo",
       "time": "~75 min, mostly hands-off",
-      "ingredients": "5-6 lb ripe tomatoes (+ 2 cans San Marzano as backstop), 1 head garlic, big bunch basil, generous extra-virgin olive oil, salt, pinch sugar if needed",
-      "method": "Score and blanch the tomatoes 30 sec, ice-bath, and slip off the skins (or halve and grate on a box grater, discarding skins). Warm a real glug of olive oil over medium-low and cook 6-8 smashed garlic cloves until soft and fragrant but not browned. Add the tomatoes and their juice plus the canned tomatoes crushed by hand, salt well, and simmer gently 45-60 min, stirring now and then, until jammy and glossy. Off heat, stir in torn basil and a final drizzle of oil. Cool. Makes ~7 cups; keeps 5 days fridge, freezes beautifully."
+      "ingredients": "3 lb ripe summer tomatoes + two 28-oz cans San Marzano, 1 head garlic, 2 onions, 1 red pepper, generous olive oil, basil, salt",
+      "method": "Halve fresh tomatoes and pepper, scatter with sliced onion and smashed garlic on two sheet pans, drown in olive oil and salt, roast at 425F for 45 min until charred and collapsed. Scrape everything (juices too) into a pot with the crushed canned tomatoes, simmer 20-25 min, then hit with a stick blender for a few pulses so it stays rustic. Stir in torn basil off the heat. Makes ~8 cups — enough for three dinners with a container to freeze."
     },
     {
-      "name": "Sweet Peperonata (stewed peppers and onions)",
-      "time": "~45 min, mostly hands-off",
-      "ingredients": "5 red/yellow bell peppers, 2 onions, 3 garlic cloves, 2 tomatoes (or a ladle of the sugo), splash red wine vinegar, olive oil, salt",
-      "method": "Slice peppers and onions into strips. Sweat the onions low and slow in plenty of olive oil ~10 min without browning. Add peppers, garlic, and salt; cover and cook ~15 min to soften, then uncover and let it jam down another 15-20 min. Stir in chopped tomato (or a ladle of sugo) and finish with a splash of red wine vinegar to brighten. Cool. Delicious warm or at room temp; keeps ~5 days."
+      "name": "Brothy Cannellini Beans",
+      "time": "~90 min, mostly hands-off",
+      "ingredients": "1 lb dried cannellini (soaked overnight), 6 garlic cloves, a few sage leaves, 1 halved onion, olive oil, salt, parmesan rind if you have one",
+      "method": "Drain the soaked beans into a heavy pot, cover by two inches with fresh water, add garlic, sage, onion, parmesan rind and a long glug of olive oil. Bring to a bare simmer and cook 60-80 min until creamy but intact — salt only in the last 20 min. Let them cool in their own broth (this is your best kid-friendly bean liquid). Keep beans IN the liquid; makes ~6 cups."
     }
   ],
   "dinners": [
     {
-      "name": "Spaghetti al Pomodoro (the mantecatura night)",
-      "time": "20 min",
-      "ingredients": "sugo, spaghetti, reserved pasta water, extra-virgin olive oil, basil, Parmigiano",
-      "steps": [
-        "Boil spaghetti in well-salted water; pull it a minute shy of al dente and save a mug of pasta water.",
-        "Warm sugo in a wide pan with a splash of olive oil.",
-        "Add the pasta and a splash of pasta water; toss hard over the heat, then off heat, adding water bit by bit until the sauce turns glossy and clings.",
-        "Finish with torn basil, grated Parmigiano, and a last drizzle of oil.",
-        "Serve kids' portions milder with extra cheese on top."
-      ]
-    },
-    {
-      "name": "Baked Gnocchi al Forno",
+      "name": "Rigatoni al Forno",
       "time": "35 min",
-      "ingredients": "gnocchi (or short pasta), sugo, fresh mozzarella, Parmigiano, basil, olive oil",
+      "ingredients": "1.5 lb rigatoni, 4 cups sugo, 12 oz fresh mozzarella, parmesan, basil",
       "steps": [
-        "Heat oven to 425F. Boil gnocchi 2 min until they float, drain.",
-        "Toss gnocchi with plenty of warm sugo and half the torn mozzarella.",
-        "Spread in an oiled baking dish, top with remaining mozzarella and a shower of Parmigiano.",
-        "Bake 15-20 min until bubbling and browned in spots; rest 5 min.",
-        "Finish with basil and a drizzle of oil. A total kid magnet."
+        "Boil rigatoni 2 min shy of al dente, drain.",
+        "Toss pasta with 4 cups sugo and half the torn mozzarella in a big baking dish.",
+        "Top with the rest of the mozzarella and a heavy shower of parmesan.",
+        "Bake at 425F for 18-20 min until bubbling and browned; rest 5 min before serving. The crowd-pleaser for the girls."
       ]
     },
     {
-      "name": "Pan-Seared Cod with Peperonata",
+      "name": "Pan-Seared Cod over Beans & Greens",
       "time": "25 min",
-      "ingredients": "6 cod (or branzino) fillets, peperonata, lemon, olive oil, crusty bread, parsley",
+      "ingredients": "4-6 cod or hake fillets, 3 cups cannellini + broth, 1 bunch escarole or spinach, garlic, lemon, olive oil",
       "steps": [
-        "Pat fish very dry, salt it, and let sit 10 min while peperonata warms in a pan.",
-        "Sear fish skin-side or presentation-side down in hot olive oil, undisturbed, until golden; flip and finish gently.",
-        "Spoon warm peperonata onto plates and set the fish on top.",
-        "Squeeze lemon over, scatter parsley, drizzle oil, and serve with bread to mop up.",
-        "For the girls, break fish into flakes over buttered bread or plain peperonata."
+        "Warm beans with a ladle of their broth and a splash of olive oil; wilt in chopped greens and a smashed garlic clove.",
+        "Pat cod dry, salt well, sear in a hot olive-oiled pan 3-4 min per side until golden.",
+        "Spoon beans and greens into bowls, set cod on top, finish with lemon and raw olive oil.",
+        "For the girls: serve their cod plain with beans on the side, greens optional."
       ]
     },
     {
-      "name": "Chicken Thighs Braised in Sugo (cacciatora-style)",
-      "time": "40 min",
-      "ingredients": "bone-in chicken thighs, sugo, peperonata, olive oil, polenta or crusty bread, Parmigiano",
+      "name": "Skillet Spaghetti al Pomodoro",
+      "time": "20 min",
+      "ingredients": "1.25 lb spaghetti, 3 cups sugo, butter, parmesan, basil, reserved pasta water",
       "steps": [
-        "Season thighs and brown well in olive oil, skin-side down, until crisp; remove.",
-        "Add sugo and a scoop of peperonata to the pan, nestle the thighs back in skin-up.",
-        "Simmer partially covered ~25 min until the chicken is tender and the sauce has reduced.",
-        "Meanwhile cook soft polenta (or warm bread).",
-        "Spoon chicken and sauce over polenta with grated Parmigiano; kid portions off the bone."
+        "Boil spaghetti in well-salted water; pull it a minute early and save a mug of pasta water.",
+        "Warm sugo in a wide skillet, drop the pasta straight in with a splash of pasta water.",
+        "Toss hard over the heat with a knob of butter and a fistful of parmesan until the sauce turns glossy and clings — that's the mantecatura.",
+        "Finish with basil and olive oil; the kids get theirs first, less garlicky."
+      ]
+    },
+    {
+      "name": "White Bean & Tomato Minestra",
+      "time": "30 min",
+      "ingredients": "2 cups sugo, 2 cups beans + broth, small pasta or ditalini, 1 zucchini, carrot, parmesan rind, olive oil",
+      "steps": [
+        "Sweat diced carrot and zucchini in olive oil until soft.",
+        "Add sugo, beans with their broth, a parmesan rind and enough water for a brothy soup; simmer 15 min.",
+        "Stir in a handful of small pasta and cook until tender.",
+        "Ladle out, top with parmesan and raw olive oil — mild and cozy for a full table."
       ]
     }
   ],
   "technique": {
-    "name": "Mantecatura (emulsifying pasta with its sauce)",
-    "tiedTo": "Spaghetti al Pomodoro - finish the pasta in the pan with sugo and starchy pasta water, tossing hard off the heat so the fat and starch emulsify into a glossy sauce that clings to every strand instead of sliding off."
+    "name": "Mantecatura (finishing pasta in the pan)",
+    "tiedTo": "Skillet Spaghetti al Pomodoro — pull the pasta early, marry it to the sugo with pasta water, butter and parmesan, and toss vigorously off-heat so the starch emulsifies the sauce into a glossy coat instead of a puddle. This is the move that separates restaurant pasta from home pasta."
   },
   "shopping": [
     {
       "section": "Produce",
-      "items": "5-6 lb ripe tomatoes, 5 red/yellow bell peppers, 3 onions, 2 heads garlic, 2 big bunches basil, flat-leaf parsley, 2 lemons"
+      "items": "3 lb ripe summer tomatoes, 1 red pepper, 3 onions, 2 heads garlic, 1 bunch escarole or spinach, 1 zucchini, 1 carrot, fresh basil, sage, lemons"
     },
     {
       "section": "Seafood",
-      "items": "6 cod or branzino fillets"
-    },
-    {
-      "section": "Protein",
-      "items": "6-8 bone-in, skin-on chicken thighs (~3 lb)"
+      "items": "4-6 cod or hake fillets (about 2 lb for the full house)"
     },
     {
       "section": "Dairy",
-      "items": "2 balls fresh mozzarella, wedge Parmigiano-Reggiano, butter"
+      "items": "12 oz fresh mozzarella, wedge of parmesan (plus a rind if available), butter"
     },
     {
       "section": "Pantry",
-      "items": "2 cans San Marzano tomatoes, 1.5 lb spaghetti, 2 lb gnocchi (or short pasta), polenta, red wine vinegar, extra-virgin olive oil, crusty bread, salt, black pepper"
+      "items": "1 lb dried cannellini, two 28-oz cans San Marzano tomatoes, 1.5 lb rigatoni, 1.25 lb spaghetti, small pasta/ditalini, good olive oil, salt"
     }
   ],
-  "scaleNote": "This week is the full house (2 adults + 4 girls under 10), so all quantities above are sized for 6. Both components are kid-friendly workhorses: serve the sugo and peperonata a touch milder and put cheese, bread, and plain components on the side so the girls can customize. On the two-adult weeks, halve the batch (or freeze half the sugo), lean more technique-forward, and let the peperonata shine as a room-temp antipasto with the seared fish."
+  "scaleNote": "This is a FULL-HOUSE week (2 adults + 4 girls under 10, 6 at the table). Quantities above already serve 6 — keep the sugo and bean batches as written since both dinners lean on them heavily. For the girls: serve the rigatoni and the mild minestra as-is, plate their cod plain with beans on the side, and give them the skillet pasta before you add extra garlic or chili. If it's ever just you and Mike, halve the fresh pasta and fish but still make the full component batches — you'll want the leftover sugo and beans for lunches and the freezer."
 }
