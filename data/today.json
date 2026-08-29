@@ -1,30 +1,40 @@
 {
   "date": "Saturday, August 29, 2026",
-  "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "An open Saturday, with Croatia logistics the only clock.",
-  "greeting": "The calendar's clear today, Dan - a full open Saturday with the girls in St. Pete. The one thing worth touching before the trip is the stack of Croatia bookings still sitting open.",
+  "generatedAt": "Morning brief · 4:05 PM ET",
+  "theme": "An open Saturday, with the trip clock ticking.",
+  "greeting": "A quiet Saturday in St. Pete with the girls, Dan — the calendar's clear. The one thing pulling on the day is the pile of Croatia bookings, and tomorrow's 9 AM review with Mike is where they come due.",
   "needsAttention": [
     {
-      "tag": "Prep - Sun review",
-      "title": "Sunday review with Mike, 9 AM tomorrow",
-      "detail": "Mike runs the 15-minute board review. Walk in with the open Croatia and St. Pete bookings decided so nothing carries another week."
-    },
-    {
-      "tag": "Closes Sept 8",
-      "title": "Croatia bookings still open",
-      "detail": "Three p1 items are overdue: the Cavtat hotel night Sept 19, the St. Pete landing gap Sept 20-22, and written proof checked bags are on the ticket. All need locking before you fly Sept 8 - no booking from the boat."
-    },
-    {
       "tag": "Payment due",
-      "title": "Nautilus charter balance",
-      "detail": "Invoice 2170 shows $6,475 outstanding, with a second reminder this week ahead of the Sept 12 course."
+      "title": "Nautilus Sailing balance still open",
+      "detail": "QuickBooks has sent invoice 2170 twice in three days — the Croatia course balance is marked unpaid. Payment options are in the reminder."
+    },
+    {
+      "tag": "Prep for tomorrow",
+      "title": "Sunday review with Mike, 9 AM",
+      "detail": "Tomorrow's 15-minute board pass with Mike. Several Croatia bookings are sitting overdue — worth arriving knowing which you've closed and which still need an owner."
+    },
+    {
+      "tag": "Travel booking",
+      "title": "Last Croatia night still unbooked",
+      "detail": "The single Sept 19 night in Cavtat, before the 7:30 AM flight home, has to be booked from dry land before you sail Sept 8. Marked p1 and past due in the trip project."
+    },
+    {
+      "tag": "Travel booking",
+      "title": "St Pete landing gap, Sept 20-22",
+      "detail": "Two nights in St Pete between the flight back from Croatia and the Tuesday kid pickup are still open — p1, past due."
+    },
+    {
+      "tag": "Travel check",
+      "title": "Checked bags on the Croatia ticket",
+      "detail": "The issued ticket shows zero checked bags. Confirm the allowance on Eurowings Discover's own site before Sept 8 — two 55L duffels won't fly as carry-on, and counter fees run high."
     }
   ],
   "schedule": [
     {
-      "time": "10 AM - 8 PM",
-      "title": "FloridaRAMA admission",
-      "detail": "Immersive art in St. Pete - pass valid all day",
+      "time": "10:00 AM",
+      "title": "FloridaRAMA",
+      "detail": "Admission valid 10 AM - 8 PM",
       "tag": "outing"
     }
   ],
@@ -32,26 +42,21 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Nautilus charter balance unpaid",
-        "detail": "Invoice 2170, $6,475 due - second QuickBooks reminder in two days."
-      },
-      {
-        "tag": "Job search",
-        "title": "Tim Soley accepted your LinkedIn invite",
-        "detail": "New connection open - a quick note now keeps it warm."
+        "title": "Venmo request for mowing",
+        "detail": "Joshua Weaver requests $50 for the 8/20 mow."
       },
       {
         "tag": "FYI",
-        "title": "Caregiver applicants stacking on Care.com",
-        "detail": "Five have applied and one is waiting to hear back if you're still hiring."
+        "title": "Sitter applications on Care.com",
+        "detail": "Several caregivers applied to your posting and one sent a message over the last two days."
       },
       {
         "tag": "FYI",
-        "title": "Venmo request from Joshua Weaver",
-        "detail": "$50 for mowing (8-20) awaiting payment."
+        "title": "Croatia crew intro thread",
+        "detail": "Paul, your Nautilus instructor, introduced himself; Mike and another crewmate have already replied."
       }
     ],
-    "noise": "The rest is newsletters, FloridaRAMA and Airbnb confirmations, and booking receipts.",
+    "noise": "The rest is newsletters and receipts — NYT Cooking, FloridaRAMA confirmations.",
     "clear": ""
   },
   "resolved": [],
@@ -69,59 +74,53 @@
   },
   "tasks": [
     {
-      "title": "Book Cavtat hotel + transfer for Sept 19",
-      "project": "Travel",
-      "due": "Overdue Aug 26",
+      "title": "Book refundable backup car, Sept 20 - Oct 5 (TPA)",
+      "project": "Trip logistics",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Book St. Pete lodging for the Sept 20-22 gap",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
+      "title": "Disney tickets for the six of you, Sept 26-27",
+      "project": "Trip logistics",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Confirm checked bags are on the Croatia ticket",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Book refundable backup car, Sept 20 - Oct 5",
-      "project": "Travel",
+      "title": "Call dermatologist to book removal",
+      "project": "Trip logistics",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
       "title": "Buy EU plug adapters + a US power strip",
-      "project": "Travel",
+      "project": "Trip logistics",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet start - nothing on the calendar before noon."
+      "line": "An open Saturday morning in St. Pete with the girls and nothing on the calendar."
     },
     {
-      "time": "10 AM - 8 PM",
-      "line": "The FloridaRAMA pass is open all day if you take the girls out."
+      "time": "Afternoon",
+      "line": "FloridaRAMA whenever you head over — the pass is good from 10 to 8."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow starts at 9 with the Sunday review, so a light night sets it up."
+      "line": "Tomorrow's 9 AM review with Mike is the only thing on rails; a few overdue Croatia bookings would be good to close before it."
     }
   ],
   "japanese": {
