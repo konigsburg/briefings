@@ -1,18 +1,28 @@
 {
   "date": "Saturday, August 29, 2026",
   "generatedAt": "Morning brief · 12:02 PM ET",
-  "theme": "An open day, with the trip clock ticking.",
-  "greeting": "A clear calendar today, Dan — no meetings from now until tomorrow. The pressure that's building is quieter: a run of Croatia bookings has slipped past due, and Mike's Sunday review lands at nine tomorrow.",
+  "theme": "An open Saturday to clear the Croatia backlog.",
+  "greeting": "Nothing's on your calendar today, Dan, which makes it the day to close out the pre-trip bookings before they follow you to the airport. Tomorrow opens with your 9 AM review with Mike.",
   "needsAttention": [
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Sunday review with Mike",
-      "detail": "On your calendar tomorrow at nine — the 15-minute board triage. Worth arriving having put an owner and a date on the open travel items so nothing slips a fourth Sunday."
+      "tag": "Tomorrow prep",
+      "title": "Sunday review with Mike at 9 AM",
+      "detail": "Mike's 15-minute review opens tomorrow on your calendar. Triage the 'Dan & Mike Stuff' board today so nothing gets chased cold: owners and dates on the open items, kill what's slipped three Sundays running."
     },
     {
-      "tag": "Overdue · travel",
-      "title": "Croatia bookings past due",
-      "detail": "Three P1 tasks are overdue and all hit a wall on Sept 8, when you fly: the Sept 19 Cavtat night and transfer, the Sept 20–22 St Pete landing gap, and getting checked bags confirmed in writing on the ticket. The charter has no connectivity, so these have to be settled from dry land."
+      "tag": "Closing window",
+      "title": "Croatia last night in Cavtat, Sept 19",
+      "detail": "The one-night Cavtat stay and the noon marina transfer have to be booked from shore before you fly out Sept 8, and both are past due in Todoist. Book refundable."
+    },
+    {
+      "tag": "Financial",
+      "title": "Nautilus charter balance still open",
+      "detail": "A QuickBooks notice shows invoice 2170 for the sailing charter with a $6,475 balance due. Worth closing before the trip rather than at the last minute."
+    },
+    {
+      "tag": "Closing window",
+      "title": "St Pete landing gap, Sept 20-22",
+      "detail": "You land TPA Sept 20 from Croatia but the kids aren't picked up until the 22nd. Two nights near St Pete for the 20th and 21st are still unbooked, per Todoist."
     }
   ],
   "schedule": [],
@@ -20,21 +30,21 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Nautilus charter balance due",
-        "detail": "A QuickBooks invoice for Nautilus Sailing shows a balance due with payment unfinished — worth closing before the Sept 12 charter."
-      },
-      {
-        "tag": "Job search",
-        "title": "LinkedIn: connection + job alert",
-        "detail": "Tim Soley accepted your connection, and a saved search surfaced a Microsoft regional managing director role."
+        "title": "Nautilus charter invoice unpaid",
+        "detail": "QuickBooks: invoice 2170 for the sailing charter, $6,475 balance due."
       },
       {
         "tag": "FYI",
-        "title": "Care.com applicants waiting",
-        "detail": "Several caregiver candidates applied to your posting and at least one is waiting to hear back."
+        "title": "Five sitter applications on Care.com",
+        "detail": "Several caregivers applied and one is flagged as waiting to hear back from you."
+      },
+      {
+        "tag": "Job search",
+        "title": "Tim Soley accepted your LinkedIn invite",
+        "detail": "A new connection is live if you want to open the door to a conversation."
       }
     ],
-    "noise": "The rest is newsletters and promos — Folio Society, Monocle, Bloomberg, Indochino, Nextdoor.",
+    "noise": "The rest is receipts and newsletters — a Venmo mowing payment, NYT Cooking, and Duolingo's guilt trip.",
     "clear": ""
   },
   "resolved": [],
@@ -52,38 +62,26 @@
   },
   "tasks": [
     {
-      "title": "Book the Sept 19 Cavtat night + noon transfer",
-      "project": "Croatia trip",
-      "due": "Overdue Aug 23",
-      "overdue": true
-    },
-    {
-      "title": "Book St Pete lodging for the Sept 20–22 landing gap",
-      "project": "Croatia trip",
+      "title": "Confirm checked bags are on the Croatia ticket, in writing",
+      "project": "Travel",
       "due": "Overdue Aug 25",
       "overdue": true
     },
     {
-      "title": "Confirm checked bags are on the Croatia ticket in writing",
-      "project": "Croatia trip",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Book a refundable backup car, Sept 20–Oct 5 (TPA)",
-      "project": "Croatia trip",
+      "title": "Book the refundable Sept 20-Oct 5 car as a backup",
+      "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
       "title": "Buy EU plug adapters and a US power strip",
-      "project": "Croatia trip",
+      "project": "Travel",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Work",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -96,15 +94,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the first genuinely clear morning in a while."
+      "line": "No meetings on the calendar, so the pre-trip list is the real work of the day."
     },
     {
       "time": "Afternoon",
-      "line": "An open stretch, the kind that's easy to lose if nothing claims it."
+      "line": "The Croatia bookings that must clear from dry land before Sept 8 are the ones to knock down first."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens early with the 15-minute Sunday review with Mike at nine."
+      "line": "Tee up tomorrow's 9 AM review by triaging the shared board so the 15 minutes with Mike land clean."
     }
   ],
   "japanese": {
