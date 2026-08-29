@@ -1,33 +1,18 @@
 {
   "date": "Saturday, August 29, 2026",
   "generatedAt": "Morning brief · 10:02 AM ET",
-  "theme": "An open Saturday in St. Pete — the trip is what's waiting.",
-  "greeting": "No meetings today, Dan, and the girls are with you and Mike. The whole day is yours — the best use of it is closing the Croatia bookings that have slipped past due before tomorrow's 9 AM review pulls them up.",
+  "theme": "An open day, with the trip clock ticking.",
+  "greeting": "A clear calendar today, Dan — no meetings from now until tomorrow. The pressure that's building is quieter: a run of Croatia bookings has slipped past due, and Mike's Sunday review lands at nine tomorrow.",
   "needsAttention": [
     {
-      "tag": "Prep for tomorrow",
-      "title": "Sunday review lands at 9 AM",
-      "detail": "Your 15-minute board-clear with Mike is tomorrow morning. Everything below is what it will chase — walk in having booked or decided a few of these, not relitigating them live."
+      "tag": "Tomorrow 9 AM",
+      "title": "Sunday review with Mike",
+      "detail": "On your calendar tomorrow at nine — the 15-minute board triage. Worth arriving having put an owner and a date on the open travel items so nothing slips a fourth Sunday."
     },
     {
-      "tag": "Travel · P1 overdue",
-      "title": "Last Croatia night in Cavtat isn't booked",
-      "detail": "The Sept 19 room + noon transfer from ACI Komolac is a P1 that's been open since Aug 23. Charter connectivity is poor, so it has to be booked from dry land before you fly Sept 8 — book refundable."
-    },
-    {
-      "tag": "Travel · P1 overdue",
-      "title": "St Pete landing-gap nights are open",
-      "detail": "Sept 20–22, the two nights between your TPA landing and the Tuesday kid pickup, still have no lodging (P1, due Aug 25). The Sept 27–Oct 5 Airbnb is only pending — worth confirming it converted."
-    },
-    {
-      "tag": "Travel · P1 overdue",
-      "title": "Croatia checked bags unconfirmed",
-      "detail": "The issued ticket shows 0 checked bags on Eurowings Discover; two 55L duffels won't fly as carry-on. Confirm the allowance on the operating carrier's site and buy bags online now — counter fees run far higher (P1, due Aug 25)."
-    },
-    {
-      "tag": "Financial",
-      "title": "Nautilus charter payment unfinished",
-      "detail": "A QuickBooks reminder shows the Nautilus Sailing invoice still has a $6,475 balance due, and the charter is Sept 12 — worth closing before departure week."
+      "tag": "Overdue · travel",
+      "title": "Croatia bookings past due",
+      "detail": "Three P1 tasks are overdue and all hit a wall on Sept 8, when you fly: the Sept 19 Cavtat night and transfer, the Sept 20–22 St Pete landing gap, and getting checked bags confirmed in writing on the ticket. The charter has no connectivity, so these have to be settled from dry land."
     }
   ],
   "schedule": [],
@@ -35,22 +20,22 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Nautilus Sailing invoice — $6,475 due",
-        "detail": "QuickBooks says the payment for invoice 2170 isn't finished. Charter is Sept 12."
+        "title": "Nautilus charter balance due",
+        "detail": "A QuickBooks invoice for Nautilus Sailing shows a balance due with payment unfinished — worth closing before the Sept 12 charter."
       },
       {
-        "tag": "Health",
-        "title": "Care.com — new message + applicants",
-        "detail": "A new message plus several caregivers applied to your posted job (Stephany Q., Valerie R., Sakhene M., Wadlyne A.)."
+        "tag": "Job search",
+        "title": "LinkedIn: connection + job alert",
+        "detail": "Tim Soley accepted your connection, and a saved search surfaced a Microsoft regional managing director role."
       },
       {
-        "tag": "Financial",
-        "title": "AMEX balance-increase alerts",
-        "detail": "Two myFICO alerts (Experian + Equifax) on a higher reported AMEX balance; Chase BA Visa autopay is scheduled. FYI, no action."
+        "tag": "FYI",
+        "title": "Care.com applicants waiting",
+        "detail": "Several caregiver candidates applied to your posting and at least one is waiting to hear back."
       }
     ],
-    "noise": "The usual newsletters and receipts — FT, NYT Cooking, Rancho Gordo, Italian word-of-the-day, plus Venmo, Square and Apple receipts.",
-    "clear": "No security alerts or job-search mail today."
+    "noise": "The rest is newsletters and promos — Folio Society, Monocle, Bloomberg, Indochino, Nextdoor.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -67,14 +52,32 @@
   },
   "tasks": [
     {
-      "title": "Book Sept 20–Oct 5 backup car (refundable)",
-      "project": "Dan & Mike Stuff",
+      "title": "Book the Sept 19 Cavtat night + noon transfer",
+      "project": "Croatia trip",
+      "due": "Overdue Aug 23",
+      "overdue": true
+    },
+    {
+      "title": "Book St Pete lodging for the Sept 20–22 landing gap",
+      "project": "Croatia trip",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Confirm checked bags are on the Croatia ticket in writing",
+      "project": "Croatia trip",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Book a refundable backup car, Sept 20–Oct 5 (TPA)",
+      "project": "Croatia trip",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters + a US power strip",
-      "project": "Dan & Mike Stuff",
+      "title": "Buy EU plug adapters and a US power strip",
+      "project": "Croatia trip",
       "due": "Overdue Aug 27",
       "overdue": true
     },
@@ -86,22 +89,22 @@
     }
   ],
   "routines": {
-    "morning": "10/10",
-    "day": "6/6",
-    "evening": "4/4"
+    "morning": "0/10",
+    "day": "0/6",
+    "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A full house this weekend, with the four girls at yours and Mike's in St. Pete and nothing on the calendar to break the morning."
+      "line": "Nothing on the calendar — the first genuinely clear morning in a while."
     },
     {
       "time": "Afternoon",
-      "line": "No meetings hold the middle of the day, so it is open for the Croatia bookings still sitting overdue on the board."
+      "line": "An open stretch, the kind that's easy to lose if nothing claims it."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow starts early with the 9 AM board review, one quiet thing worth teeing up tonight."
+      "line": "Tomorrow opens early with the 15-minute Sunday review with Mike at nine."
     }
   ],
   "japanese": {
