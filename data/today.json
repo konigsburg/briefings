@@ -1,43 +1,53 @@
 {
   "date": "Sunday, August 30, 2026",
-  "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "An open Sunday, with the Croatia clock ticking",
-  "greeting": "The day is wide open, Dan — one 15-minute review with Mike this morning and nothing else on the calendar. What it surfaced, though, is a short stack of Croatia bookings that all have to clear before you fly out Sept 8.",
+  "generatedAt": "Morning brief · 2:05 PM ET",
+  "theme": "A quiet St Pete Sunday under a loud Croatia countdown.",
+  "greeting": "The girls are home in St Pete and the calendar's nearly empty, Dan. The real story is the trip clock: Croatia leaves in nine days, and the bookings that can only be done from dry land are still open.",
   "needsAttention": [
     {
-      "tag": "Trip - Croatia",
-      "title": "Book the Cavtat night and the transfer",
-      "detail": "The single night of Sept 19 in Cavtat and the noon Komolac-to-Cavtat transfer are still open (P1, was due Aug 26). Charter connectivity is poor, so both have to be booked from dry land before you leave on the 8th."
+      "tag": "Trip · overdue",
+      "title": "Confirm Croatia checked bags in writing",
+      "detail": "The issued Eurowings Discover ticket shows 0 checked bags. Confirm the allowance on the operating carrier's own site and screenshot it before Sept 8 — European counter fees run well above pre-purchase. Overdue since Aug 25 on the Board."
     },
     {
-      "tag": "Trip - Croatia",
-      "title": "Lock the St Pete landing gap",
-      "detail": "Sept 20-22 still has no lodging (P1, was due Aug 25) — you land TPA that Sunday but the kids aren't picked up until Tuesday. Close it before the trip takes you offline."
+      "tag": "Trip · overdue",
+      "title": "Book the Sept 19 Cavtat night and transfer",
+      "detail": "The last night before the DBV flight, airport-side in Cavtat, plus the Komolac transfer. Two Board tasks cover the same booking; it has to be locked from land before you sail Sept 8. Overdue since Aug 26."
     },
     {
-      "tag": "Trip - Croatia",
-      "title": "Confirm the checked bags in writing",
-      "detail": "The issued ticket shows 0 checked bags. Pull the booking up on Eurowings Discover's site with the record locator, confirm the allowance there, and buy bags now if they aren't included — cheap now, costly at the counter (P1, was due Aug 25)."
+      "tag": "Trip · overdue",
+      "title": "Fill the Sept 20–22 St Pete landing gap",
+      "detail": "Two nights in St Pete after the Croatia flight and before the Tue kid pickup and Orlando villa. Still open on the Board, overdue since Aug 25."
+    },
+    {
+      "tag": "Financial",
+      "title": "Nautilus charter balance is due",
+      "detail": "QuickBooks flags invoice #2170 for the sailing charter as unfinished, with a balance still owed. Worth clearing before departure — it landed in your inbox Aug 29."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board triage — done",
-      "tag": "review"
+      "detail": "15-min board reset — already behind you",
+      "tag": "Done"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Nautilus Sailing balance due",
-        "detail": "Invoice 2170, $6,475 for the Croatia course — a payment reminder landed Aug 29, and the course starts Sept 12."
+        "title": "Nautilus charter invoice unpaid",
+        "detail": "QuickBooks says invoice #2170 for the charter isn't finished — balance still due before the trip."
+      },
+      {
+        "tag": "FYI",
+        "title": "Care.com applicants stacking up",
+        "detail": "Four caregivers applied and a message is waiting on the job you posted — worth one review pass."
       }
     ],
-    "noise": "The usual NYT Cooking and WSJ digests, a Campo Grande promo, and a run of care.com sitter applications.",
-    "clear": "The Nautilus course intro thread is friendly chatter — nobody's waiting on your reply."
+    "noise": "The rest is promos and digests — Chairish, a Dex weekly, a triple-monitor pitch, a Substack receipt.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -54,20 +64,20 @@
   },
   "tasks": [
     {
-      "title": "Book a refundable backup SUV, Sept 20 - Oct 5",
-      "project": "Dan & Mike Stuff",
+      "title": "Book the Sept 20–Oct 5 backup rental car (refundable)",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Dan & Mike Stuff",
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Work",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -80,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The 9 AM board review with Mike is behind you — the Croatia list it surfaced is the day's real work."
+      "line": "The 15-minute Sunday review with Mike is done, so the Board's set for the week ahead."
     },
     {
       "time": "Afternoon",
-      "line": "A wide-open afternoon in St. Pete, best spent clearing the overdue bookings before the trip pulls you offline."
+      "line": "An open stretch — the best window all week to close the Croatia bookings that can't wait for the boat."
     },
     {
       "time": "Evening",
-      "line": "Room to cook and set a simple plan for tomorrow."
+      "line": "Nothing on the calendar; a normal night at home with the four girls."
     }
   ],
   "japanese": {
