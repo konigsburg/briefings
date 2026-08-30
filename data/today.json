@@ -1,57 +1,47 @@
 {
   "date": "Saturday, August 29, 2026",
   "generatedAt": "Morning brief · 8:02 PM ET",
-  "theme": "An open Saturday, with Croatia pulling closer.",
-  "greeting": "The calendar's nearly clear today, Dan — a free Saturday in St. Pete with the girls. The one thing worth a look before the day ends is the stack of Croatia bookings piling up against the Sept 8 wall.",
+  "theme": "An open Saturday, with the board to tidy before Sunday.",
+  "greeting": "The calendar's clear today, Dan — the FloridaRAMA outing with the girls is the one fixed point. The bigger thread is the Croatia countdown: a handful of bookings still have to close before you sail Sept 8.",
   "needsAttention": [
     {
-      "tag": "Charter payment",
-      "title": "Nautilus balance still owed",
-      "detail": "QuickBooks shows invoice 2170 unpaid — a $6,475 balance due to Nautilus Sailing for the Croatia charter, which sails Sept 12."
+      "tag": "Sunday review",
+      "title": "Board cleanup with Mike at 9 AM",
+      "detail": "Tomorrow's 15-minute Sunday review is on the calendar for 9 AM — every open item gets an owner and a date, and anything stalled three weeks running gets cut. A quick tidy tonight makes it painless."
     },
     {
-      "tag": "Croatia booking",
-      "title": "Cavtat night + transfers still open",
-      "detail": "The Sept 19 post-charter night in Cavtat, the noon transfer from ACI Komolac, and the ~5 AM airport run are all still unbooked (p1). They have to be locked before you fly Sept 8 — the boat has no connectivity."
+      "tag": "Trip balance",
+      "title": "Nautilus sailing balance still open",
+      "detail": "QuickBooks shows invoice 2170 for the Croatia charter unpaid at $6,475, and the latest reminder says the payment isn't finished. Worth closing well before you fly on the 8th."
     },
     {
-      "tag": "Croatia booking",
-      "title": "St Pete gap nights, Sept 20–22",
-      "detail": "Two nights between landing Sun Sept 20 and the Tue Sept 22 kid pickup are still open (p1); the Sept 27–Oct 5 Airbnb is only pending the host's confirmation."
-    },
-    {
-      "tag": "Flight bags",
-      "title": "Confirm checked bags on the ticket",
-      "detail": "The issued Basic Economy fare shows 0 checked bags. Verify on Eurowings Discover's site with the record locator and buy bags online before the counter — today's Underpricer flight reminder is the nudge."
-    },
-    {
-      "tag": "Tomorrow 9 AM",
-      "title": "Prep for the Sunday review",
-      "detail": "Mike runs the 15-min review at 9 AM; a glance at the \"Dan & Mike Stuff\" board tonight means the overdue Croatia items get owners and dates instead of chasing you another week."
+      "tag": "Croatia · Sept 8",
+      "title": "Last lodging gaps before you sail",
+      "detail": "The Sept 19 Cavtat night after the charter and the Sept 20–22 St Pete landing gap are both still unbooked — and the boat has no signal, so they have to be handled from dry land before departure."
     }
   ],
   "schedule": [
     {
       "time": "10 AM – 8 PM",
-      "title": "FloridaRAMA outing",
-      "detail": "Admission valid all day; searchlight hunt with the girls",
-      "tag": "family"
+      "title": "FloridaRAMA searchlight hunt",
+      "detail": "St. Petersburg outing with the girls",
+      "tag": "Family"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Charter invoice unpaid",
-        "detail": "QuickBooks: invoice 2170 to Nautilus Sailing, $6,475 balance still due."
+        "tag": "FYI",
+        "title": "Caregiver applicants waiting",
+        "detail": "Several people applied to your posted job on Care.com and one is flagged as waiting to hear back."
       },
       {
-        "tag": "FYI",
-        "title": "Care.com applicants waiting",
-        "detail": "Several caregiver applicants came in this week and one, Filia, is flagged as waiting to hear back on the job you posted."
+        "tag": "Financial",
+        "title": "Venmo request for mowing",
+        "detail": "Joshua Weaver requested $50 for the Aug 20 mow."
       }
     ],
-    "noise": "Promos and a campaign fundraising blast (West Marine, Tom's Studio, Talarico), a LinkedIn accept from Tim Soley, and routine trip confirmations.",
+    "noise": "The rest is retail and list mail — Chairish, West Marine, Nextdoor, NYT Cooking, a campaign ask.",
     "clear": ""
   },
   "resolved": [],
@@ -60,7 +50,7 @@
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Sat Aug 29"
+    "asOf": "Saturday Aug 29"
   },
   "recipe": {
     "title": "Squid with Chili and Clams",
@@ -69,41 +59,47 @@
   },
   "tasks": [
     {
-      "title": "Book the refundable backup SUV, Sept 20–Oct 5",
-      "project": "Travel",
+      "title": "Confirm checked bags are on the Croatia ticket",
+      "project": "Croatia trip",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Book refundable Tampa SUV backup (Sept 20–Oct 5)",
+      "project": "Croatia trip",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Travel",
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Croatia trip",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar to open the day — a rare unstructured Saturday with the girls in St. Pete."
+      "line": "An open Saturday with nothing on the calendar to answer to."
     },
     {
       "time": "Afternoon",
-      "line": "FloridaRAMA's admission holds from 10 to 8, the day's one fixed point."
+      "line": "The FloridaRAMA searchlight hunt runs till eight — a St. Pete afternoon with the girls."
     },
     {
       "time": "Evening",
-      "line": "Nothing scheduled after the outing — the evening's yours."
+      "line": "Tomorrow opens with the 15-minute Sunday review, so a quick board tidy tonight pays off."
     }
   ],
   "japanese": {
