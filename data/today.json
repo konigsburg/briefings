@@ -1,43 +1,58 @@
 {
   "date": "Sunday, August 30, 2026",
   "generatedAt": "Morning brief · 7:03 AM ET",
-  "theme": "Quiet Saturday, loud countdown to Croatia.",
-  "greeting": "Nothing on the calendar today but the FloridaRAMA searchlight hunt whenever the mood strikes, Dan, and the girls are with you and Mike in St. Pete. The pressure is all in the Croatia countdown: several bookings are past due with the Sept 8 flight closing in.",
+  "theme": "An open Sunday, with the trip clock running.",
+  "greeting": "Morning, Dan. Only the 9 o'clock sweep with Mike is fixed today, so the rest is open, and the overdue Croatia bookings are what it's quietly asking for before the Sept 8 departure.",
   "needsAttention": [
     {
-      "tag": "Croatia · overdue",
-      "title": "Croatia bookings still open before Sept 8",
-      "detail": "Three p1 travel items are past due in Todoist: the Sept 19 Cavtat night after the charter, the Sept 20-22 St Pete landing gap, and confirming checked bags are on the Eurowings Discover ticket. All need settling before you fly Sept 8 and lose boat connectivity."
+      "tag": "Trip booking",
+      "title": "Book the Sept 19 Cavtat night",
+      "detail": "The last night after the charter, in Cavtat near the airport, is p1 and now a week overdue. It has to be booked from dry land before you fly out Sept 8, since connectivity aboard is poor to none."
     },
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Sunday board review with Mike",
-      "detail": "Mike's weekly 15-minute triage is at 9 AM. A glance at the 'Dan & Mike Stuff' board tonight means you arrive with the inbox already sorted."
+      "tag": "Trip booking",
+      "title": "Cover the Sept 20-22 St Pete gap",
+      "detail": "You land TPA Sunday Sept 20 but the kids aren't picked up until Tuesday Sept 22 at 3pm, and those two St Pete nights are still unbooked. p1, five days overdue."
+    },
+    {
+      "tag": "Trip logistics",
+      "title": "Confirm checked bags on the Croatia ticket",
+      "detail": "The issued Basic Economy ticket shows zero checked bags. Verify the allowance on Eurowings Discover's own site with the record locator and buy bags now rather than at the counter. p1, five days overdue."
+    },
+    {
+      "tag": "Trip booking",
+      "title": "Hedge the Sept 20 rental car",
+      "detail": "Book a refundable Full Size SUV at TPA unless Mike's car is confirmed heading south; the decision point is Sept 7. p2, overdue since Aug 28."
     }
   ],
   "schedule": [
     {
-      "time": "10 AM - 8 PM",
-      "title": "FloridaRAMA searchlight hunt",
-      "detail": "Admission valid through 8 PM",
-      "tag": "outing"
+      "time": "9:00 AM",
+      "title": "Sunday review with Mike",
+      "detail": "The weekly 15-minute board sweep over Meet",
+      "tag": "meeting"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Nautilus charter balance due",
-        "detail": "QuickBooks shows invoice 2170 for Nautilus Sailing with $6,475 still outstanding."
+        "title": "Nautilus balance due",
+        "detail": "Second QuickBooks reminder on the $6,475 sailing-course invoice (2170); the course begins Sept 12."
+      },
+      {
+        "tag": "Financial",
+        "title": "Venmo request for mowing",
+        "detail": "Joshua Weaver requested $50 for mowing done Aug 20."
       },
       {
         "tag": "FYI",
-        "title": "Caregiver applicants waiting",
-        "detail": "Several care.com applicants applied to your posting and are nudging for a reply."
+        "title": "Caregivers applied to your posting",
+        "detail": "Several new applicants came in through Care.com over the last two days."
       }
     ],
-    "noise": "Mostly promotions today, Chairish, Nextdoor, West Marine, and Tom's Studio.",
-    "clear": "Nothing else needs a reply tonight."
+    "noise": "Newsletters plus FloridaRAMA and Underpricer confirmations, nothing that needs you.",
+    "clear": "Nothing is waiting on your reply this morning."
   },
   "resolved": [],
   "context": {
@@ -45,7 +60,7 @@
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Saturday Aug 29"
+    "asOf": "Sunday Aug 30"
   },
   "recipe": {
     "title": "Canal House year-round caprese salad",
@@ -54,38 +69,14 @@
   },
   "tasks": [
     {
-      "title": "Book the Cavtat hotel for the Sept 19 night",
-      "project": "Travel",
-      "due": "Overdue Aug 26",
-      "overdue": true
-    },
-    {
-      "title": "Book St Pete lodging for the Sept 20-22 gap",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Confirm checked bags on the Croatia ticket",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Book refundable backup car, Sept 20-Oct 5",
-      "project": "Travel",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
       "title": "Buy EU plug adapters and a US power strip",
-      "project": "Travel",
+      "project": "Croatia trip",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Editing",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -98,15 +89,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing scheduled, so the morning is yours until you decide to head out."
+      "line": "A single fixed point at 9, the 15-minute Sunday sweep with Mike that keeps the board honest."
     },
     {
       "time": "Afternoon",
-      "line": "FloridaRAMA's searchlight hunt stays open until 8, good for whenever the light turns."
+      "line": "Wide open, with the overdue Croatia bookings the natural thing to spend it on before the Sept 8 wall."
     },
     {
       "time": "Evening",
-      "line": "An open night at the Kenwood place, the kind that rewards a slow dinner."
+      "line": "Nothing on the calendar, a quiet St. Petersburg evening with the girls."
     }
   ],
   "japanese": {
