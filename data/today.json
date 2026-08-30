@@ -1,28 +1,28 @@
 {
   "date": "Sunday, August 30, 2026",
   "generatedAt": "Morning brief · 6:05 PM ET",
-  "theme": "An open Sunday before the season turns",
-  "greeting": "A wide-open Sunday in St. Pete with the girls, Dan — just the 15-minute review with Mike this morning and nothing fixed since. It's the clearest runway you'll get before the travel weeks start.",
+  "theme": "Open Sunday, travel list closing in",
+  "greeting": "A quiet Sunday on the calendar, Dan — just the morning sync with Mike. The real work is the stack of overdue Croatia and Florida bookings, all with a Sept 8 departure bearing down.",
   "needsAttention": [
     {
-      "tag": "Trip · p1",
-      "title": "Book the Sept 19 Cavtat night",
-      "detail": "On the trip board since Aug 26 and still open — the charter ends at ACI Komolac around noon Sept 19 and you need a Cavtat room plus a transfer. It has to be booked from dry land before you fly out Sept 8."
+      "tag": "Croatia · overdue",
+      "title": "Book the last Croatia night in Cavtat",
+      "detail": "One room for Sat Sept 19 near the airport, before the Sept 20 flight home. It has to be booked from dry land before you sail Sept 8 — overdue since Aug 26."
     },
     {
-      "tag": "Trip · p1",
-      "title": "Confirm Croatia checked bags in writing",
-      "detail": "Overdue since Aug 25 — the issued ticket shows zero checked bags on Eurowings Discover. Verify the allowance on the operating carrier's site and buy bags online before counter rates hit."
+      "tag": "Croatia · overdue",
+      "title": "Confirm checked bags on the Croatia ticket",
+      "detail": "The issued ticket shows 0 checked bags. Verify the allowance on Eurowings Discover's own site and pre-buy if needed — counter fees run far higher. Overdue since Aug 25."
     },
     {
-      "tag": "Trip · p1",
-      "title": "Close the Sept 20–22 St Pete gap",
-      "detail": "Overdue since Aug 25 — you land TPA Sept 20 but the girls aren't picked up until Sept 22, so two nights near St Pete are still unbooked."
+      "tag": "Florida · overdue",
+      "title": "Book St Pete nights Sept 20–22",
+      "detail": "You land TPA Sept 20 but the kids aren't picked up until Sept 22 — those two nights are still unbooked. Also glance that the Sept 27–Oct 5 Airbnb converted from pending."
     },
     {
-      "tag": "Financial",
-      "title": "Nautilus Sailing invoice unpaid",
-      "detail": "QuickBooks flagged invoice 2170 for $6,475 as unfinished — it's the Croatia course balance, worth clearing before the Sept 12 start."
+      "tag": "Finance · deadline",
+      "title": "Finish the Nautilus charter payment",
+      "detail": "QuickBooks shows invoice 2170 for the Croatia charter still unpaid — clear it before the Sept 12 course starts."
     }
   ],
   "schedule": [
@@ -30,23 +30,23 @@
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
       "detail": "15-min board sweep",
-      "tag": "Meeting"
+      "tag": "sync"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Croatia crew intros are rolling in",
-        "detail": "Instructor Paul and the two other sailors have introduced themselves ahead of the Sept 12 course; you haven't chimed in yet."
+        "tag": "Job search",
+        "title": "KPMG Poland connection request",
+        "detail": "Agnieszka, Head of People at KPMG Poland, sent a LinkedIn connect request."
       },
       {
         "tag": "FYI",
-        "title": "Caregiver applicants waiting on Care.com",
-        "detail": "A handful of new applications to your posted job over the past two days."
+        "title": "Sitter applicants on Care.com",
+        "detail": "Several candidates applied to your posting; one, Filia, is waiting to hear back."
       }
     ],
-    "noise": "The rest is newsletters — WSJ, NYT Cooking, a Dex digest, a Substack receipt.",
+    "noise": "The usual newsletters and shopping alerts — WSJ, NYT Cooking, Substack receipts, Chairish, Kickstarter.",
     "clear": ""
   },
   "resolved": [],
@@ -64,41 +64,41 @@
   },
   "tasks": [
     {
-      "title": "Book refundable backup SUV, Sept 20–Oct 5",
-      "project": "Trip board",
+      "title": "Book refundable backup SUV, Sept 20–Oct 5 (TPA)",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters + US power strip",
-      "project": "Trip board",
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Foundations",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A single 15-minute Sunday review with Mike, then the day opened up."
+      "line": "The 9 AM sync with Mike was the day's one fixed point."
     },
     {
       "time": "Afternoon",
-      "line": "Wide open in St. Pete — the rare unbroken stretch before the travel weeks begin."
+      "line": "No meetings — open time, with the overdue Croatia and Florida bookings waiting."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you and Mike; tomorrow reads empty too."
+      "line": "Kids are home with you and Mike in St. Pete; an easy close to a Sunday."
     }
   ],
   "japanese": {
