@@ -1,35 +1,50 @@
 {
   "date": "Monday, August 31, 2026",
-  "generatedAt": "Morning brief · 10:23 AM ET",
-  "theme": "An open day, with Croatia on the clock.",
-  "greeting": "Good morning, Dan. The calendar is genuinely empty today — a rare open stretch with the girls in St. Petersburg — so the real pull is the stack of Croatia bookings that has to close before you fly the 8th.",
+  "generatedAt": "Morning brief · 10:26 AM ET",
+  "theme": "An open day before the travel week begins.",
+  "greeting": "Nothing's on the calendar today, Dan — the day is yours. It's the last clear stretch before the Croatia countdown, so a good one to knock down the trip logistics that are stacking up.",
   "needsAttention": [
     {
-      "tag": "Tomorrow prep",
-      "title": "NACD New England call at noon",
-      "detail": "Your one commitment this week is tomorrow at 12 PM ET with the NACD New England chapter. Worth arriving with two or three board-fit talking points and the specific seats you're targeting."
-    },
-    {
-      "tag": "Closing Sept 8",
-      "title": "Croatia bookings still open",
-      "detail": "Several P1 travel items are overdue and have to be locked before you fly Sept 8, since the charter has no connectivity: the Sept 19 Cavtat night and transfer, the Sept 20-22 St Pete landing gap, and written proof that checked bags are on the ticket."
+      "tag": "Tomorrow · prep",
+      "title": "NACD New England intro call at noon",
+      "detail": "Larissa's Zoom reminder landed this morning; the NACD New England call sits on your calendar tomorrow 12–1. Worth arriving with two or three board-search threads to raise while you have the room."
     },
     {
       "tag": "Due today",
-      "title": "Pack the travel larder bin",
-      "detail": "Due today so it's built before the Sept 3 house changeover — the first migration is meant to be a test run while there's still time to fix what's missing."
+      "title": "Build and pack the travel larder bin",
+      "detail": "The Sept 3 House 1 to House 2 move is the first migration — packing the bin today makes that first run a test while there's still time to fix what doesn't work."
+    },
+    {
+      "tag": "Croatia · closing",
+      "title": "Book the Sept 19 Cavtat night",
+      "detail": "The last open night of the charter trip: off the boat at ACI Komolac around noon Sept 19, flight out 7:30 AM the 20th. Charter connectivity is poor, so it has to be booked from dry land before you fly Sept 8. Todoist, P1, overdue."
+    },
+    {
+      "tag": "Croatia · closing",
+      "title": "Confirm checked bags on the Croatia ticket",
+      "detail": "The issued ticket shows zero checked bags; verify the allowance on Eurowings Discover's own site with the record locator and buy online before the counter charges more. Todoist, P1, overdue Aug 25."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "Public policy lead role at Block",
+        "detail": "A LinkedIn alert matched your saved search — Head of US Public Policy and Government Relations, posted Aug 29."
+      },
+      {
         "tag": "Financial",
-        "title": "Nautilus Sailing invoice still open",
-        "detail": "QuickBooks shows invoice 2170 for the Croatia charter unpaid with a balance due — worth clearing before departure."
+        "title": "Nautilus Sailing charter balance due",
+        "detail": "A QuickBooks notice says invoice 2170 isn't fully paid — worth settling before you sail Sept 12."
+      },
+      {
+        "tag": "FYI",
+        "title": "Care.com sitters awaiting a reply",
+        "detail": "A few applicants applied to your posting over the last two days and are waiting to hear back."
       }
     ],
-    "noise": "A run of Care.com applicants and reminders on your caregiver post; nothing there needs a reply.",
+    "noise": "The rest is retail and newsletters — Indochino, Schoolhouse, MOO, Bloomberg, a campaign ask.",
     "clear": ""
   },
   "resolved": [],
@@ -47,38 +62,20 @@
   },
   "tasks": [
     {
-      "title": "Book Cavtat hotel + noon transfer for Sept 19",
-      "project": "Croatia",
-      "due": "Overdue Aug 26",
-      "overdue": true
-    },
-    {
-      "title": "Book St Pete landing-gap lodging (Sept 20-22)",
-      "project": "Croatia",
+      "title": "Book St Pete lodging for the Sept 20–22 landing gap",
+      "project": "Travel prep",
       "due": "Overdue Aug 25",
       "overdue": true
     },
     {
-      "title": "Confirm checked bags are on the Croatia ticket",
-      "project": "Croatia",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Book refundable backup SUV, Sept 20 - Oct 5",
-      "project": "Travel",
+      "title": "Book a refundable backup car, Sept 20 – Oct 5",
+      "project": "Travel prep",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Book Orlando + Disney tickets, Sept 26-27",
-      "project": "Travel",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Buy EU plug adapters + a US power strip",
-      "project": "Travel",
+      "title": "Buy EU plug adapters and a US power strip",
+      "project": "Travel prep",
       "due": "Overdue Aug 27",
       "overdue": true
     },
@@ -90,22 +87,22 @@
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/6",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A rare fully open morning — still water on the calendar, nothing scheduled to pull you off course."
+      "line": "The whole calendar is clear today — no meetings to work around."
     },
     {
       "time": "Afternoon",
-      "line": "The clear stretch holds; the girls are with you and Mike in St. Pete, no handoff this week."
+      "line": "An uninterrupted stretch, the kind better spent on one big thing than a dozen small ones."
     },
     {
       "time": "Evening",
-      "line": "The week's single commitment sits just over the horizon at noon tomorrow."
+      "line": "A quiet close, with tomorrow's first commitment not until midday."
     }
   ],
   "japanese": {
