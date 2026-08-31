@@ -1,41 +1,51 @@
 {
   "lessonNo": 231,
-  "date": "Monday, Aug 24",
-  "generatedAt": "Lesson #231 · Aug 24",
-  "theme": "Permission & prohibition — may I? (～てもいい) vs. you must not (～てはいけない)",
-  "intro": "Two te-form patterns for asking if something's allowed and saying what's off-limits — exactly what you need in museums, temples, trains and shops.",
+  "date": "Monday, Aug 31",
+  "generatedAt": "Lesson #231 · Aug 31",
+  "theme": "Permission & prohibition — ～てもいい (may) and ～てはいけない (must not)",
+  "intro": "Two everyday patterns built on the て-form: asking 'Can I…?' and reading the 'you must not…' rules while you travel and shop.",
   "grammar": {
-    "title": "Permission & prohibition: ～てもいい / ～てはいけない",
+    "title": "～てもいい / ～てはいけない",
     "rules": [
       {
-        "label": "May / it's okay to (～てもいい)",
-        "detail": "Take the て-form and add もいい(です). Ask permission with ～てもいいですか. A quick 'yes' is はい、いいですよ; 'no' is すみません、ちょっと….",
+        "label": "～てもいい(です) = may / it's OK to",
+        "detail": "て-form + もいい(です). Ask permission with ～てもいいですか = 'May I…?'",
         "examples": [
-          "座る → 座って → 座ってもいいですか (May I sit down?)",
-          "使う → 使って → 使ってもいいです (You may use it)"
+          "食べて（たべて）→ 食べてもいいです → 'you may eat'"
         ]
       },
       {
-        "label": "Must not (～てはいけない)",
-        "detail": "Take the て-form and add はいけない (polite: はいけません). はだめ is more casual. In speech は often shrinks: ～ちゃいけない / ～ちゃだめ.",
+        "label": "～てはいけません = must not / may not",
+        "detail": "て-form + はいけません. Note て+は is read 'te wa', not 'ha'.",
         "examples": [
-          "撮る → 撮って → 撮ってはいけません (You mustn't take photos)",
-          "入る → 入って → 入ってはだめ (Don't go in)"
+          "吸って（すって）→ 吸ってはいけません → 'you must not smoke'"
+        ]
+      },
+      {
+        "label": "Casual contraction",
+        "detail": "～ては shortens to ～ちゃ; soft refusal is すみません、ちょっと…",
+        "examples": [
+          "行ってはだめ → 行っちゃだめ (itcha dame) → 'don't go!'"
         ]
       }
     ],
-    "bigPoint": "Don't confuse ～てはいけない (must NOT do it — prohibited) with last week's ～なくてもいい (you DON'T HAVE to do it — optional). One forbids, the other excuses."
+    "bigPoint": "Both patterns just bolt onto the て-form you already build — the only new work is +もいい (allowed) vs. +はいけない (forbidden)."
   },
   "vocab": [
     {
-      "jp": "写真（しゃしん）を撮る（とる）",
+      "jp": "写真を撮る（しゃしんをとる）",
       "romaji": "shashin o toru",
       "en": "to take a photo"
     },
     {
+      "jp": "座る（すわる）",
+      "romaji": "suwaru",
+      "en": "to sit"
+    },
+    {
       "jp": "入る（はいる）",
       "romaji": "hairu",
-      "en": "to enter, to go in"
+      "en": "to enter"
     },
     {
       "jp": "触る（さわる）",
@@ -43,36 +53,31 @@
       "en": "to touch"
     },
     {
-      "jp": "吸う（すう）",
-      "romaji": "suu",
-      "en": "to smoke / to inhale (タバコを吸う = to smoke)"
+      "jp": "試着する（しちゃくする）",
+      "romaji": "shichaku suru",
+      "en": "to try on (clothes)"
     },
     {
-      "jp": "座る（すわる）",
-      "romaji": "suwaru",
-      "en": "to sit down"
-    },
-    {
-      "jp": "使う（つかう）",
-      "romaji": "tsukau",
-      "en": "to use"
+      "jp": "禁止（きんし）",
+      "romaji": "kinshi",
+      "en": "forbidden (seen on signs, e.g. 撮影禁止 = no photography)"
     }
   ],
   "examples": [
     {
-      "jp": "すみません、ここに座ってもいいですか。",
-      "romaji": "Sumimasen, koko ni suwatte mo ii desu ka.",
-      "en": "Excuse me, may I sit here?"
+      "jp": "ここに座ってもいいですか。",
+      "romaji": "Koko ni suwatte mo ii desu ka.",
+      "en": "May I sit here?"
     },
     {
-      "jp": "美術館（びじゅつかん）の中で写真を撮ってはいけません。",
-      "romaji": "Bijutsukan no naka de shashin o totte wa ikemasen.",
-      "en": "You must not take photos inside the museum."
+      "jp": "すみません、ここでたばこを吸ってはいけません。",
+      "romaji": "Sumimasen, koko de tabako o sutte wa ikemasen.",
+      "en": "Excuse me, you must not smoke here."
     }
   ],
-  "note": "Both patterns start from the て-form you already know. Permission = て + もいい(です) (question: ～てもいいですか). Prohibition = て + はいけません (softer/casual: ～てはだめ, ～ちゃだめ). Notice all six of today's verbs are u-verbs whose て-form is ～って — good drill for that sound.",
+  "note": "A natural 'yes' to ～てもいいですか is はい、どうぞ or はい、いいですよ. Japanese rarely gives a hard 'no' — a trailing すみません、ちょっと… does the job. Watch the reading: 吸っては is 'sutte wa', not 'sutte ha'.",
   "selfCheck": {
-    "q": "You're in a shop and want to ask 'May I touch this?' Use 触る（さわる）.",
-    "a": "触ってもいいですか。(Sawatte mo ii desu ka.)"
+    "q": "Using 入る（はいる）, how do you ask 'May I enter here?'",
+    "a": "ここに入ってもいいですか。 (Koko ni haitte mo ii desu ka.) — 入る → て-form 入って → ＋もいいですか"
   }
 }
