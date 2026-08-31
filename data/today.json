@@ -1,55 +1,56 @@
 {
   "date": "Sunday, August 30, 2026",
-  "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "An open Sunday against a hard Croatia deadline.",
-  "greeting": "Almost nothing on the calendar today, Dan - just a 15-minute sync with Mike. The weight is all on the Croatia trip, where several bookings have slipped overdue against a hard wall: you fly Sept 8, and the boat has no connectivity.",
+  "generatedAt": "Morning brief · 10:06 PM ET",
+  "theme": "A quiet Sunday, Croatia on the clock",
+  "greeting": "A wide-open Sunday with the girls home in St. Pete, and only the 15-minute review with Mike on the calendar. The real weight this week is Croatia: departure is nine days out and several P1 bookings are still open on the board.",
   "needsAttention": [
     {
-      "tag": "Trip - blocked",
-      "title": "Croatia bags aren't on the ticket",
-      "detail": "Your issued fare shows zero checked bags. Pull the booking up on Eurowings Discover's own site with the record locator, confirm the allowance there, and buy the two bags online now - European counter fees run well above the pre-purchase price. In Todoist, p1, overdue since Aug 25."
+      "tag": "Sept 8 wall",
+      "title": "Cavtat night still unbooked",
+      "detail": "The Sept 19 post-charter night in Cavtat, plus the noon transfer from Komolac, has to be booked from dry land before you fly on Sept 8 since connectivity aboard is nil. It is P1 and overdue since Aug 26 on the Mike + Dan board."
     },
     {
-      "tag": "Trip - booking",
-      "title": "The last Croatia night is still unbooked",
-      "detail": "The Sept 19 room in Cavtat and the noon transfer from Komolac have to be locked from dry land before you fly Sept 8 - once you're aboard, connectivity is gone. In Todoist, p1, overdue since Aug 23."
+      "tag": "Sept 8 wall",
+      "title": "St. Pete landing-gap nights",
+      "detail": "The Sept 20-22 gap between your TPA landing and the Tuesday kid pickup still needs lodging, and the Sept 27-Oct 5 Airbnb should be confirmed as converted from pending. P1, overdue since Aug 25."
     },
     {
-      "tag": "Trip - booking",
-      "title": "St Pete landing gap has no bed",
-      "detail": "Sept 20-22, between the Croatia flight and the Tuesday kid pickup, still needs lodging - and while you're in there, check that the pending Sept 27-Oct 5 Airbnb actually converted from pending. In Todoist, p1, overdue since Aug 25."
+      "tag": "Before you fly",
+      "title": "Confirm Croatia checked bags",
+      "detail": "The issued ticket shows zero checked bags; verify baggage on the Eurowings Discover record locator and pre-buy if needed, since airport-counter fees run far higher. P1, overdue since Aug 25."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-minute board reset - owners and dates on everything",
-      "tag": "Sync"
+      "detail": "15-minute board reset: clear the inbox, put an owner and date on everything.",
+      "tag": "meeting"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Nautilus invoice still open",
-        "detail": "QuickBooks shows invoice 2170 to Nautilus Sailing not fully paid - worth clearing before the Sept 12 course."
+        "title": "Nautilus Sailing balance due",
+        "detail": "QuickBooks says invoice 2170 for the Croatia course isn't finished, with $6,475 still outstanding."
       },
       {
         "tag": "FYI",
-        "title": "Care.com applicants stacking up",
-        "detail": "Five sitters have applied to your job and there's a new message waiting in the inbox."
-      },
-      {
-        "tag": "FYI",
-        "title": "Croatia crew introductions",
-        "detail": "Paul, your instructor, and the other sailors have introduced themselves on the course thread; you haven't chimed in yet."
+        "title": "Care.com replies waiting",
+        "detail": "A caregiver message and several new applicants to your posted job are sitting unread."
       }
     ],
-    "noise": "The usual WSJ and NYT Cooking digests.",
+    "noise": "The rest is WSJ, NYT Cooking, and Care.com applicant alerts.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Sorted",
+      "title": "Croatia instructor confirmed",
+      "detail": "Paul at Nautilus introduced himself for the Sept 12 course and the crew intro thread is rolling; nothing is owed from you."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -64,41 +65,35 @@
   },
   "tasks": [
     {
-      "title": "Book the Sept 20-Oct 5 rental car as a refundable backup",
-      "project": "Mike + Dan - Board",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Mike + Dan - Board",
-      "due": "Overdue Aug 27",
-      "overdue": true
-    },
-    {
-      "title": "Finish the Destination edit work",
+      "title": "Destination edit work",
       "project": "Professional Projects",
       "due": "Overdue Aug 15",
+      "overdue": true
+    },
+    {
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 27",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "One thing on the calendar all day: the 15-minute Sunday review with Mike at nine to reset the board."
+      "line": "The 15-minute Sunday review with Mike was the only thing on the calendar."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled - the afternoon is open in St Pete with the girls in the house."
+      "line": "Open, with the four girls home in St. Pete."
     },
     {
       "time": "Evening",
-      "line": "Also clear, the Kenwood stay running through the week and Croatia now ten days out."
+      "line": "Winding down; the Croatia bookings are what is still waiting."
     }
   ],
   "japanese": {
