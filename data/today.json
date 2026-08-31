@@ -1,51 +1,41 @@
 {
   "date": "Monday, August 31, 2026",
   "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "An open day to clear the trip logistics.",
-  "greeting": "A clear calendar today, Dan - no meetings until tomorrow's NACD New England call at noon. It's the kind of open stretch to knock out the overdue Croatia bookings before you fly on the 8th.",
+  "theme": "Open day, with the trip clock ticking.",
+  "greeting": "Clear calendar today, Dan — nothing scheduled until tomorrow's NACD New England call at noon. That leaves the whole open day for the Croatia prep stacking up before you fly on the 8th.",
   "needsAttention": [
     {
-      "tag": "Board network",
-      "title": "Prep for tomorrow's NACD New England call",
-      "detail": "Larissa Ravetto's chapter meeting is tomorrow at noon on Zoom. Worth arriving clear on what you want from NACDNE for the board search - and you haven't RSV'd the invite yet."
+      "tag": "Prep · tomorrow",
+      "title": "NACD New England intro call at noon",
+      "detail": "Larissa Ravetto's chapter call sits on tomorrow's calendar at 12 PM ET, with Ellen Richstone and Deb Rosenthal on it. Arrive with a short read on what you want from the chapter — board-seat pipeline and where you'd contribute."
     },
     {
       "tag": "Due today",
-      "title": "Build and pack the travel larder bin",
-      "detail": "Due today in Todoist so it's a test run before the Sept 3 House 1 to House 2 move. Get the pantry tote packed while there's still time to fix what doesn't work."
+      "title": "Pack the travel larder bin",
+      "detail": "The rolling pantry bin is due today, built and packed before Wednesday's House 1 to House 2 move so the first migration is a test run while there's still time to fix it."
     },
     {
-      "tag": "Trip booking",
-      "title": "Book the Cavtat night, Sept 19",
-      "detail": "The post-charter night near Dubrovnik is still open (p1, overdue since Aug 23). The real wall is Sept 8 - book it and the noon transfer from dry land before the charter."
+      "tag": "Book before Sept 8",
+      "title": "Two Croatia lodging gaps still open",
+      "detail": "The Cavtat night of Sept 19 and the St. Pete landing gap of Sept 20-22 are both unbooked P1s. Charter connectivity is poor, so they have to be booked from dry land before you leave on the 8th."
     },
     {
-      "tag": "Trip booking",
-      "title": "Confirm Croatia checked bags in writing",
-      "detail": "p1, overdue since Aug 25. The issued ticket shows 0 checked bags; verify the allowance on Eurowings Discover's own site and buy bags now if they aren't included."
+      "tag": "Verify",
+      "title": "Confirm checked bags on the Croatia ticket",
+      "detail": "The issued Basic Economy fare shows zero checked bags. Confirm the allowance on Eurowings Discover's own site and buy bags now if they aren't included, before airport-counter rates apply."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "NACD New England meeting reminder",
-        "detail": "Larissa Ravetto confirmed tomorrow's noon Zoom and resent the link."
-      },
-      {
-        "tag": "Security",
-        "title": "Amazon sign-in on your iPhone",
-        "detail": "An Aug 30 8:54 PM sign-in near Florida - looks like you; disregard if so."
-      },
-      {
-        "tag": "Job search",
-        "title": "CareerMinds nudge on your options",
-        "detail": "Cynthia Martin flagged the Advantage Plus entrepreneurial and retirement track. No reply needed."
+        "tag": "Financial",
+        "title": "Nautilus Sailing invoice unfinished",
+        "detail": "A QuickBooks invoice for the Croatia charter is still marked unpaid — worth closing before the Sept 8 departure."
       }
     ],
-    "noise": "The rest is newsletters - NYT Cooking, Bloomberg, Responsible Investor, Italian Word of the Day - plus Croatia travel confirmations and a LinkedIn invite.",
-    "clear": ""
+    "noise": "Labor Day sales and newsletters filled the rest — West Marine, Whisker, Campo Grande, a St. Pete realtor, a markets digest.",
+    "clear": "Nothing else is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -53,7 +43,7 @@
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Monday Aug 31"
+    "asOf": "Mon Aug 31"
   },
   "recipe": {
     "title": "Green Salad with Green Beans",
@@ -62,26 +52,20 @@
   },
   "tasks": [
     {
-      "title": "Book St Pete landing-gap nights (Sept 20-22)",
-      "project": "Croatia + Florida",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Book refundable backup car, Sept 20 - Oct 5",
-      "project": "Croatia + Florida",
+      "title": "Book refundable backup rental car, Sept 20-Oct 5",
+      "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters + a US power strip",
-      "project": "Croatia + Florida",
+      "title": "Buy EU plug adapters and a US power strip",
+      "project": "Travel",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -94,15 +78,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar - the morning is entirely yours."
+      "line": "Nothing on the calendar this morning — the first commitment isn't until midday tomorrow."
     },
     {
       "time": "Afternoon",
-      "line": "Still open; a good stretch to clear the overdue p1 Croatia bookings before the trip."
+      "line": "An open afternoon at the Kenwood stay in St. Petersburg, room to clear the trip backlog."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow's NACD New England call at noon is the one fixed point ahead - a few minutes of prep goes a long way."
+      "line": "The day ends unhurried, the girls in residence and no evening plans on the books."
     }
   ],
   "japanese": {
