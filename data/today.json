@@ -1,62 +1,44 @@
 {
   "date": "Monday, August 31, 2026",
-  "generatedAt": "Morning brief · 7:28 AM ET",
-  "theme": "A quiet Sunday, Croatia on the clock",
-  "greeting": "A wide-open Sunday with the girls home in St. Pete, and only the 15-minute review with Mike on the calendar. The real weight this week is Croatia: departure is nine days out and several P1 bookings are still open on the board.",
+  "generatedAt": "Morning brief · 7:30 AM ET",
+  "theme": "An open day, with Croatia on the clock.",
+  "greeting": "Good morning, Dan. The calendar is genuinely empty today — a rare open stretch with the girls in St. Petersburg — so the real pull is the stack of Croatia bookings that has to close before you fly the 8th.",
   "needsAttention": [
     {
-      "tag": "Sept 8 wall",
-      "title": "Cavtat night still unbooked",
-      "detail": "The Sept 19 post-charter night in Cavtat, plus the noon transfer from Komolac, has to be booked from dry land before you fly on Sept 8 since connectivity aboard is nil. It is P1 and overdue since Aug 26 on the Mike + Dan board."
+      "tag": "Tomorrow prep",
+      "title": "NACD New England call at noon",
+      "detail": "Your one commitment this week is tomorrow at 12 PM ET with the NACD New England chapter. Worth arriving with two or three board-fit talking points and the specific seats you're targeting."
     },
     {
-      "tag": "Sept 8 wall",
-      "title": "St. Pete landing-gap nights",
-      "detail": "The Sept 20-22 gap between your TPA landing and the Tuesday kid pickup still needs lodging, and the Sept 27-Oct 5 Airbnb should be confirmed as converted from pending. P1, overdue since Aug 25."
+      "tag": "Closing Sept 8",
+      "title": "Croatia bookings still open",
+      "detail": "Several P1 travel items are overdue and have to be locked before you fly Sept 8, since the charter has no connectivity: the Sept 19 Cavtat night and transfer, the Sept 20-22 St Pete landing gap, and written proof that checked bags are on the ticket."
     },
     {
-      "tag": "Before you fly",
-      "title": "Confirm Croatia checked bags",
-      "detail": "The issued ticket shows zero checked bags; verify baggage on the Eurowings Discover record locator and pre-buy if needed, since airport-counter fees run far higher. P1, overdue since Aug 25."
+      "tag": "Due today",
+      "title": "Pack the travel larder bin",
+      "detail": "Due today so it's built before the Sept 3 house changeover — the first migration is meant to be a test run while there's still time to fix what's missing."
     }
   ],
-  "schedule": [
-    {
-      "time": "9:00 AM",
-      "title": "Sunday review with Mike",
-      "detail": "15-minute board reset: clear the inbox, put an owner and date on everything.",
-      "tag": "meeting"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Nautilus Sailing balance due",
-        "detail": "QuickBooks says invoice 2170 for the Croatia course isn't finished, with $6,475 still outstanding."
-      },
-      {
-        "tag": "FYI",
-        "title": "Care.com replies waiting",
-        "detail": "A caregiver message and several new applicants to your posted job are sitting unread."
+        "title": "Nautilus Sailing invoice still open",
+        "detail": "QuickBooks shows invoice 2170 for the Croatia charter unpaid with a balance due — worth clearing before departure."
       }
     ],
-    "noise": "The rest is WSJ, NYT Cooking, and Care.com applicant alerts.",
+    "noise": "A run of Care.com applicants and reminders on your caregiver post; nothing there needs a reply.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Sorted",
-      "title": "Croatia instructor confirmed",
-      "detail": "Paul at Nautilus introduced himself for the Sept 12 course and the crew intro thread is rolling; nothing is owed from you."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Sunday Aug 30"
+    "asOf": "Monday Aug 31"
   },
   "recipe": {
     "title": "Green Salad with Green Beans",
@@ -65,35 +47,65 @@
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Book Cavtat hotel + noon transfer for Sept 19",
+      "project": "Croatia",
+      "due": "Overdue Aug 26",
+      "overdue": true
+    },
+    {
+      "title": "Book St Pete landing-gap lodging (Sept 20-22)",
+      "project": "Croatia",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Confirm checked bags are on the Croatia ticket",
+      "project": "Croatia",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Book refundable backup SUV, Sept 20 - Oct 5",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Book Orlando + Disney tickets, Sept 26-27",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
       "title": "Buy EU plug adapters + a US power strip",
-      "project": "Mike + Dan Board",
+      "project": "Travel",
       "due": "Overdue Aug 27",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Work",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The 15-minute Sunday review with Mike was the only thing on the calendar."
+      "line": "A rare fully open morning — still water on the calendar, nothing scheduled to pull you off course."
     },
     {
       "time": "Afternoon",
-      "line": "Open, with the four girls home in St. Pete."
+      "line": "The clear stretch holds; the girls are with you and Mike in St. Pete, no handoff this week."
     },
     {
       "time": "Evening",
-      "line": "Winding down; the Croatia bookings are what is still waiting."
+      "line": "The week's single commitment sits just over the horizon at noon tomorrow."
     }
   ],
   "japanese": {
