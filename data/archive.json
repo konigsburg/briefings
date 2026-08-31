@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-08-31",
+    "kind": "Morning brief",
+    "label": "Monday, Aug 31 · 7:30 AM ET",
+    "summary": "An open, meeting-free day in St. Pete with the girls; the pressing work is closing the overdue Croatia bookings before the Sept 8 flight, with tomorrow's noon NACD New England call the week's one commitment.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-08-30",
     "kind": "Morning brief",
     "label": "Sunday, Aug 30 · 10:06 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Inbox summary",
     "label": "Monday, Aug 10 · 10 AM ET",
     "summary": "Quiet inbox overnight; the one job-search email (sourcehire.app 'interview update' for an SVP Global Public Policy role) is a likely phishing attempt asking to confirm work authorization — do not click. Also 3 new GitHub deploy tokens (matches briefings app) and an Uber $19.97 charge; rest is newsletters/promos.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-08-10",
-    "kind": "Morning brief",
-    "label": "Monday, Aug 10 · 8:00 AM",
-    "summary": "An open travel day — the 1 PM ferry north to the Hamptons, calm water around it; kids with Jen this fortnight.",
     "ref": "today"
   }
 ]
