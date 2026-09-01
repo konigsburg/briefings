@@ -1,71 +1,72 @@
 {
   "date": "Tuesday, September 1, 2026",
   "generatedAt": "Morning brief · 10:05 AM ET",
-  "theme": "An open day, one week out from Croatia.",
-  "greeting": "Just one thing on the calendar today, Dan — the NACD New England call at noon — so the morning is yours. With Croatia a week out, this is the day to close the overdue bookings before you're offline on the water.",
+  "theme": "One noon call, otherwise open — a day to close the travel bookings.",
+  "greeting": "Mostly open water today, Dan — a single Zoom at noon and room on either side. The girls are with you in St. Pete, so it's a clean stretch to lock the last Croatia and landing-gap bookings before the Sept 8 wall.",
   "needsAttention": [
     {
-      "tag": "Croatia · Sept 19",
-      "title": "Book the Cavtat night and transfer",
-      "detail": "Overdue P1. The last night after the charter (Sat Sept 19) plus the noon Komolac→Cavtat transfer have to be booked from shore before you fly Sept 8 — the boat has no connectivity. Book refundable."
+      "tag": "Books by Sept 8",
+      "title": "Lock the Cavtat night for Sept 19",
+      "detail": "The last Croatia night still isn't booked, and the charter has no connectivity — it has to be done from dry land before you fly Sept 8. Cavtat, refundable, plus the noon transfer from ACI Komolac."
     },
     {
-      "tag": "Croatia · baggage",
-      "title": "Confirm checked bags are on the ticket",
-      "detail": "Overdue P1. The issued ticket shows 0 checked bags on Eurowings Discover. Verify on the operating carrier's site with the record locator and buy bags online now, before airport-counter rates."
+      "tag": "P1 overdue",
+      "title": "Two St Pete nights, Sept 20–21",
+      "detail": "You land TPA Sept 20 but the girls' pickup isn't until the 22nd — still no lodging for those two nights before the Orlando villa."
     },
     {
-      "tag": "Landing gap",
-      "title": "Book St Pete nights Sept 20–22",
-      "detail": "Overdue P1. You land TPA Sun Sept 20 from Croatia, but the girls aren't picked up until Tue Sept 22 — the two nights before the Orlando villa are still unbooked."
+      "tag": "Window closing",
+      "title": "Build and pack the travel larder bin",
+      "detail": "The House 1 → House 2 move is Sept 3; the bin needs building first so the first migration is a test run while there's still time to fix it."
     },
     {
-      "tag": "Job search",
-      "title": "Reply to Conor Kehoe on the PRI",
-      "detail": "He thought he'd lost your July note and copied his assistant Kate to set a time — a stewardship conversation worth reopening while you're between roles."
-    },
-    {
-      "tag": "Household",
-      "title": "Build the travel larder bin",
-      "detail": "Due yesterday. Pack the car tote before the Sept 3 house move so the first migration is a test run with time to fix what breaks."
+      "tag": "Cheap to fix now",
+      "title": "Confirm bags are on the Croatia ticket",
+      "detail": "The issued ticket shows zero checked bags on Basic Economy — verify on Eurowings Discover's site with the record locator and buy them online before airport-counter rates hit."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
-      "title": "NACD New England – intro call",
-      "detail": "Zoom with Larissa Ravetto, Ellen Richstone and Deb Rosenthal",
-      "tag": "Board"
+      "title": "NACD New England",
+      "detail": "Zoom with Larissa Ravetto and board colleagues",
+      "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Conor Kehoe — PRI stewardship chat",
-        "detail": "His assistant Kate will organize a time; a reply reopens it."
+        "title": "Conor Kehoe call confirmed for Friday",
+        "detail": "His assistant sent the Zoom for Fri Sept 4, 10 AM EDT — PRI sustainability and stewardship."
       },
       {
         "tag": "Financial",
-        "title": "Nautilus Sailing charter paid",
-        "detail": "$6,475 to Nautilus Sailing confirmed — the Croatia charter."
+        "title": "Morgan Stanley payment review",
+        "detail": "An automated payment flagged for review — worth confirming you recognize it."
       },
       {
-        "tag": "FYI",
-        "title": "New sitter applied on Care.com",
-        "detail": "Maleah S. responded to your job posting."
+        "tag": "Job search",
+        "title": "LinkedIn: Block public policy role",
+        "detail": "Head of US Public Policy & Government Relations, posted Aug 29."
       }
     ],
-    "noise": "The rest is routine — a QuickBooks payment-method notice and your daily Japanese lesson.",
-    "clear": ""
+    "noise": "The usual travel confirmations — Nautilus payment received, an Airbnb reminder, a Care.com applicant.",
+    "clear": "Nothing else is waiting on a reply from you."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Replied",
+      "title": "NACD New England reminder",
+      "detail": "You confirmed yesterday you'll be on today's noon call."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Tue Sep 1"
+    "asOf": "Tuesday Sep 1"
   },
   "recipe": {
     "title": "Onion Tart",
@@ -74,7 +75,7 @@
   },
   "tasks": [
     {
-      "title": "Book Sept 20–Oct 5 backup car (refundable)",
+      "title": "Book refundable Sept 20 – Oct 5 backup car",
       "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
@@ -87,28 +88,28 @@
     },
     {
       "title": "Destination edit work",
-      "project": "Work",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
+    "morning": "0/5",
+    "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear stretch before noon — the best window this week to knock out the overdue Croatia bookings."
+      "line": "Open until noon — the clearest stretch to knock out the Croatia and St Pete bookings before they harden."
     },
     {
-      "time": "Afternoon",
-      "line": "The NACD New England call at noon, then the day reopens."
+      "time": "12 – 1 PM",
+      "line": "One Zoom with NACD New England, then the afternoon reopens."
     },
     {
       "time": "Evening",
-      "line": "The girls are in the house in St. Pete; an onion tart is a good slow-oven anchor for the night."
+      "line": "Nothing scheduled; the girls are with you, so it's a home evening in St. Pete."
     }
   ],
   "japanese": {
