@@ -1,66 +1,45 @@
 {
   "date": "Tuesday, September 1, 2026",
-  "generatedAt": "Morning brief · 12:03 PM ET",
-  "theme": "One noon call, otherwise open — a day to close the travel bookings.",
-  "greeting": "Mostly open water today, Dan — a single Zoom at noon and room on either side. The girls are with you in St. Pete, so it's a clean stretch to lock the last Croatia and landing-gap bookings before the Sept 8 wall.",
+  "generatedAt": "Morning brief · 12:06 PM ET",
+  "theme": "An open day with the girls, one call at noon, a week to Croatia.",
+  "greeting": "Good morning, Dan. Almost the whole day is yours: a single governance call at midday, the girls in the house, and the Croatia countdown now inside a week.",
   "needsAttention": [
     {
-      "tag": "Books by Sept 8",
-      "title": "Lock the Cavtat night for Sept 19",
-      "detail": "The last Croatia night still isn't booked, and the charter has no connectivity — it has to be done from dry land before you fly Sept 8. Cavtat, refundable, plus the noon transfer from ACI Komolac."
+      "tag": "Reply owed",
+      "title": "Lock the PRI call with Conor Kehoe",
+      "detail": "Conor's office sent a Zoom invite to continue the PRI conversation Eugenia Jackson introduced back in July; it is still unread, and his assistant Kate will hold a time once you confirm. Worth a same-day reply while you are between roles."
     },
     {
-      "tag": "P1 overdue",
-      "title": "Two St Pete nights, Sept 20–21",
-      "detail": "You land TPA Sept 20 but the girls' pickup isn't until the 22nd — still no lodging for those two nights before the Orlando villa."
+      "tag": "Before Sept 3",
+      "title": "Pack the travel larder bin",
+      "detail": "The Household task is a day overdue and the House 1 to House 2 move is Wednesday. Packing it now makes the first migration the test run while there is still time to fix what does not travel well."
     },
     {
-      "tag": "Window closing",
-      "title": "Build and pack the travel larder bin",
-      "detail": "The House 1 → House 2 move is Sept 3; the bin needs building first so the first migration is a test run while there's still time to fix it."
-    },
-    {
-      "tag": "Cheap to fix now",
-      "title": "Confirm bags are on the Croatia ticket",
-      "detail": "The issued ticket shows zero checked bags on Basic Economy — verify on Eurowings Discover's site with the record locator and buy them online before airport-counter rates hit."
+      "tag": "Before Sept 8",
+      "title": "Close the last Croatia bookings",
+      "detail": "Two p1 travel items are still open: the single Sept 19 Cavtat night after the charter, and written confirmation that checked bags are actually on the Eurowings ticket. Both have to be settled from shore, before a week aboard with almost no connectivity."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
-      "title": "NACD New England",
-      "detail": "Zoom with Larissa Ravetto and board colleagues",
+      "title": "NACD New England call",
+      "detail": "Zoom with Larissa Ravetto and the NACDNE chapter",
       "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Conor Kehoe call confirmed for Friday",
-        "detail": "His assistant sent the Zoom for Fri Sept 4, 10 AM EDT — PRI sustainability and stewardship."
-      },
-      {
-        "tag": "Financial",
-        "title": "Morgan Stanley payment review",
-        "detail": "An automated payment flagged for review — worth confirming you recognize it."
-      },
-      {
-        "tag": "Job search",
-        "title": "LinkedIn: Block public policy role",
-        "detail": "Head of US Public Policy & Government Relations, posted Aug 29."
+        "tag": "FYI",
+        "title": "New Care.com applicant",
+        "detail": "Maleah S. applied to your childcare posting overnight."
       }
     ],
-    "noise": "The usual travel confirmations — Nautilus payment received, an Airbnb reminder, a Care.com applicant.",
-    "clear": "Nothing else is waiting on a reply from you."
+    "noise": "Only two unread threads worth a look this morning; the rest of the inbox is quiet.",
+    "clear": "Nothing else is waiting on a reply."
   },
-  "resolved": [
-    {
-      "tag": "Replied",
-      "title": "NACD New England reminder",
-      "detail": "You confirmed yesterday you'll be on today's noon call."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -75,21 +54,33 @@
   },
   "tasks": [
     {
-      "title": "Book refundable Sept 20 – Oct 5 backup car",
+      "title": "Book St Pete lodging for the Sept 20-22 landing gap",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Book Orlando + Disney tickets for the Sept 26-27 weekend",
       "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters + a US power strip",
+      "title": "Book the refundable Sept 20-Oct 5 SUV backup",
       "project": "Travel",
-      "due": "Overdue Aug 27",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
+      "title": "Call the dermatologist to book the removal appt",
+      "project": "Health",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Buy EU plug adapters and a US power strip",
+      "project": "Travel",
+      "due": "Overdue Aug 27",
       "overdue": true
     }
   ],
@@ -101,15 +92,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Open until noon — the clearest stretch to knock out the Croatia and St Pete bookings before they harden."
+      "line": "A slow start in the Kenwood house with the girls, nothing on the calendar until midday."
     },
     {
-      "time": "12 – 1 PM",
-      "line": "One Zoom with NACD New England, then the afternoon reopens."
+      "time": "Afternoon",
+      "line": "After the noon call the calendar clears to a long open stretch, the only real room this week for the Croatia list."
     },
     {
       "time": "Evening",
-      "line": "Nothing scheduled; the girls are with you, so it's a home evening in St. Pete."
+      "line": "Home with the girls, with Wednesday's House 1 to House 2 changeover now two days out."
     }
   ],
   "japanese": {
