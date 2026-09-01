@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-01",
+    "kind": "Morning brief",
+    "label": "Tuesday, Sep 1 · 7:42 AM ET",
+    "summary": "An open day with the NACD New England call at noon; a week out from Croatia, several overdue P1 bookings and a PRI networking reply need closing.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-08-31",
     "kind": "Morning brief",
     "label": "Monday, Aug 31 · 10:02 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Inbox summary",
     "label": "Monday, Aug 10 · 10 PM ET",
     "summary": "No job-search mail; Talkiatry moved your appt from Aug 13 (canceled) to a confirmed Aug 18 10 AM visit; an Apple iCloud sign-in alert and a 'Cloud Storage' phishing email are the only flags in an otherwise all-promo inbox.",
-    "ref": "today"
-  },
-  {
-    "id": "inbox-2026-08-10-1035",
-    "kind": "Inbox summary",
-    "label": "Monday, Aug 10 · 10 AM ET",
-    "summary": "Quiet inbox overnight; the one job-search email (sourcehire.app 'interview update' for an SVP Global Public Policy role) is a likely phishing attempt asking to confirm work authorization — do not click. Also 3 new GitHub deploy tokens (matches briefings app) and an Uber $19.97 charge; rest is newsletters/promos.",
     "ref": "today"
   }
 ]
