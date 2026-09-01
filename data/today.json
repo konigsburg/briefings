@@ -1,28 +1,23 @@
 {
   "date": "Monday, August 31, 2026",
   "generatedAt": "Morning brief · 8:05 PM ET",
-  "theme": "A quiet day at home, Croatia on the horizon.",
-  "greeting": "The girls are with you in St. Pete and the calendar is clear, Dan. The real pressure today is the Croatia list, which has to close from dry land before you fly on the 8th.",
+  "theme": "An open day, with tomorrow's first fixture at noon.",
+  "greeting": "A clear Monday in St. Pete with the girls, Dan — nothing scheduled today and just one call tomorrow. The open hours are best spent on the Croatia bookings still hanging before the Sept 8 wall.",
   "needsAttention": [
     {
-      "tag": "Prep for tomorrow",
-      "title": "NACD New England call at noon tomorrow",
-      "detail": "Larissa Ravetto hosts a Zoom intro with the NACD New England chapter (Ellen Richstone, Deb Rosenthal) at 12:00 PM Tuesday. Arrive with two or three thoughts on what you want from the chapter's board network."
-    },
-    {
-      "tag": "Deadline closing",
-      "title": "Two Croatia lodging nights still unbooked",
-      "detail": "The Sept 19 Cavtat night after the charter and the Sept 20-22 St. Pete landing gap are both open p1s. Charter connectivity is poor, so both must be booked before you leave on the 8th."
-    },
-    {
-      "tag": "Cheap to fix now",
-      "title": "Confirm checked bags on the Croatia ticket",
-      "detail": "The issued Eurowings Discover ticket shows zero checked bags. Verify the allowance on the operating carrier's site and buy bags online now rather than at a European counter."
+      "tag": "Tomorrow · prep",
+      "title": "NACD New England call at noon",
+      "detail": "Zoom with Larissa Ravetto and the chapter tomorrow at 12. Worth arriving with what you want out of NACD NE — board visibility and a couple of intros — rather than just attending."
     },
     {
       "tag": "Due today",
       "title": "Build and pack the travel larder bin",
-      "detail": "The one lidded tote that keeps your from-scratch cooking portable needs to be built before the Sept 3 house move, so the first migration is a test run while there is still time to fix it."
+      "detail": "The from-scratch pantry tote needs building before the Sept 3 house move, so the first migration is a real test run — Todoist, due today."
+    },
+    {
+      "tag": "Past due · window",
+      "title": "Confirm checked bags on the Croatia ticket",
+      "detail": "The issued ticket shows zero checked bags. Verify on Eurowings Discover's own site and buy them online before Sept 8, when charter connectivity disappears."
     }
   ],
   "schedule": [],
@@ -30,24 +25,30 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Warm intro from Brunswick's Josh Pasichow",
-        "detail": "He connected you to Lauren Nadig at Brunswick and cc'd you; worth a short reply to Lauren."
+        "title": "Block public-policy role in your alerts",
+        "detail": "LinkedIn flagged 'Head of US Public Policy and Government Relations' at Block, posted Aug 29 — squarely your public-affairs lane."
       },
       {
         "tag": "Financial",
-        "title": "Nautilus Sailing charter invoice unpaid",
-        "detail": "A QuickBooks invoice for the Croatia charter shows a balance due and is not marked finished."
+        "title": "Morgan Stanley wants a payment reviewed",
+        "detail": "An automated payment posted to your account with a note to confirm you recognize it."
       },
       {
-        "tag": "Security",
-        "title": "Morgan Stanley payment flagged for review",
-        "detail": "An automated payment on your account was flagged for review; confirm you recognize it."
+        "tag": "Financial",
+        "title": "Nautilus Sailing invoice still open",
+        "detail": "QuickBooks shows invoice 2170 for $6,475 not yet completed — the Croatia charter."
       }
     ],
-    "noise": "The usual LinkedIn job alerts, a Care.com ping, and your daily Japanese lesson.",
-    "clear": "Nothing else is awaiting your reply."
+    "noise": "Promotions, a PayPal receipt, two care.com alerts, and your own daily Japanese lesson.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Replied",
+      "title": "NACD New England reminder",
+      "detail": "You confirmed last night you're on for tomorrow's noon call — nothing owed there."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -62,32 +63,32 @@
   },
   "tasks": [
     {
-      "title": "Book refundable backup SUV rental, Sept 20-Oct 5",
-      "project": "Fall logistics",
+      "title": "Book the Cavtat hotel — Sept 19 night",
+      "project": "Travel",
+      "due": "Overdue Aug 26",
+      "overdue": true
+    },
+    {
+      "title": "Book St Pete lodging — Sept 20-22 gap",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Book refundable backup car — Sept 20-Oct 5",
+      "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy Orlando / Disney park tickets for six",
-      "project": "Fall logistics",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist to book wart removal",
-      "project": "Fall logistics",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Fall logistics",
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Travel",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Work",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -100,15 +101,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning at home in St. Pete with the girls and nothing on the calendar."
+      "line": "The calendar is clear from open — a rare unscheduled Monday."
     },
     {
       "time": "Afternoon",
-      "line": "Still wide open, which is the natural window to close the Croatia bookings before they harden."
+      "line": "Nothing on the board; the day's shape is yours to set."
     },
     {
       "time": "Evening",
-      "line": "Pack the larder bin before Wednesday's move; tomorrow opens with the NACD New England call at noon."
+      "line": "Tomorrow stays light — one midday call and nothing tonight."
     }
   ],
   "japanese": {
