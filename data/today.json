@@ -1,61 +1,70 @@
 {
   "date": "Wednesday, September 2, 2026",
-  "generatedAt": "Morning brief · 7:22 AM ET",
-  "theme": "An open day, with the Croatia countdown running under it.",
-  "greeting": "Quiet day in St. Pete with the girls, and the grocery run is already done. What's left is a short stack of overdue trip bookings to clear before Monday's flight.",
+  "generatedAt": "Morning brief · 7:26 AM ET",
+  "theme": "An open day before tomorrow's house move.",
+  "greeting": "No meetings on the calendar today, Dan — the day is yours before tomorrow's changeover to the second St. Pete house. The girls are with you and Mike, so it's an errands-and-kitchen day with Croatia now a week out.",
   "needsAttention": [
     {
-      "tag": "Job search",
-      "title": "Send your bio to Ellen and Deb",
-      "detail": "You flagged this to yourself today. Get your board bio and contact over to the two NACD New England directors while the intro is still warm."
+      "tag": "Networking reply",
+      "title": "Lauren at Brunswick is waiting on a time",
+      "detail": "After Josh's introduction, Lauren Nadig sent Teams availability yesterday and asked you to pick a slot so she can send a scheduler. A reply moves it forward."
     },
     {
-      "tag": "Trip prep",
-      "title": "Book the Sept 19 Cavtat night",
-      "detail": "Overdue since Aug 23 (p1). The charter ends in Cavtat and this has to be booked from dry land before you fly out Sept 8."
+      "tag": "Closes tomorrow",
+      "title": "Build the travel larder bin before the move",
+      "detail": "Tomorrow is the House 1 → House 2 changeover. Pack the portable larder bin today so the first migration is a test run while there's still time to fix what doesn't work."
     },
     {
-      "tag": "Trip prep",
-      "title": "Confirm Croatia checked bags",
-      "detail": "Overdue Aug 25 (p1). The issued ticket shows zero checked bags — far cheaper to fix online now than at a Eurowings counter."
-    },
-    {
-      "tag": "Trip prep",
-      "title": "Cover the Sept 20-22 landing gap",
-      "detail": "Overdue Aug 25 (p1). The two St Pete nights between the Croatia landing and Tuesday's kid pickup are still unbooked."
-    },
-    {
-      "tag": "Household",
-      "title": "Pack the travel larder bin",
-      "detail": "Overdue Aug 31 (p2). The House 1 to House 2 move is Sept 3 — the bin needs building before the first migration."
+      "tag": "Trip window",
+      "title": "Two Croatia bookings still open",
+      "detail": "The Sept 19 Cavtat hotel night and the Sept 20–22 St. Pete landing gap are still unbooked, with a hard wall of your Sept 8 departure — charter connectivity is poor, so these have to be set from dry land."
     }
   ],
-  "schedule": [
-    {
-      "time": "12:00 PM",
-      "title": "NACD New England intro",
-      "detail": "Zoom with Larissa Ravetto",
-      "tag": "call"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Conor Kehoe call on PRI",
-        "detail": "An unopened Zoom invite from Conor Kehoe's office on PRI sustainability and stewardship."
+        "title": "Send your bio to Ellen and Deb",
+        "detail": "Your own Sept 1 note to self — send your email address and bio for board outreach."
+      },
+      {
+        "tag": "Security",
+        "title": "GitHub token expires in 7 days",
+        "detail": "The briefings-deploy access token lapses in a week; renew it before it does."
+      },
+      {
+        "tag": "Financial",
+        "title": "September statements posted",
+        "detail": "Morgan Stanley and the Tampa Gardens (your mom's) statements are available; Nautilus's $6,475 course payment cleared."
+      },
+      {
+        "tag": "FYI",
+        "title": "PRI Zoom with Conor Kehoe set for Friday",
+        "detail": "Confirmed for Fri Sept 4, 10:00 EDT, on sustainability and stewardship — worth a prep read beforehand."
       }
     ],
-    "noise": "One 'urgent' language-app promo — safe to skip.",
-    "clear": "Nothing else new in the inbox."
+    "noise": "The usual Labor Day sales, newsletters, and recruiter job-alert digests.",
+    "clear": "Nothing else is waiting on your reply."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Sorted",
+      "title": "Sailing logbook can wait",
+      "detail": "Amy at Nautilus confirmed you can handle the ASA logbook later; all textbooks arrived."
+    },
+    {
+      "tag": "Confirmed",
+      "title": "Croatia course paid in full",
+      "detail": "Nautilus confirmed the final $6,475 payment received for the Sept 12–19 charter."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Tuesday Sep 1"
+    "asOf": "Wed Sep 2"
   },
   "recipe": {
     "title": "Fricassée of chanterelles",
@@ -64,41 +73,53 @@
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
+      "title": "Book the Sept 19 Cavtat hotel night + noon transfer",
+      "project": "Travel",
+      "due": "Overdue Aug 26",
       "overdue": true
     },
     {
-      "title": "Book refundable backup SUV, Sept 20-Oct 5",
+      "title": "Book St. Pete landing-gap lodging (Sept 20–22)",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Book refundable backup SUV (Sept 20 – Oct 5)",
       "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters + US power strip",
+      "title": "Confirm checked bags are on the Croatia ticket",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Buy EU plug adapters + a US power strip",
       "project": "Travel",
       "due": "Overdue Aug 27",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/5",
-    "day": "0/5",
+    "morning": "0/10",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A grocery run and an otherwise open calendar."
+      "line": "No meetings on the books — a clear stretch to build and pack the travel larder bin before the move."
     },
     {
       "time": "Afternoon",
-      "line": "One meeting on the books: the NACD New England intro at noon."
+      "line": "A good window to lock the last two Croatia bookings and reply to Lauren about a time."
     },
     {
       "time": "Evening",
-      "line": "Girls in residence, and a week of overdue trip bookings to clear before Sept 8."
+      "line": "Last night at the Kenwood house with the girls — an easy from-scratch dinner before packing up."
     }
   ],
   "japanese": {
