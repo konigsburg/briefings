@@ -1,51 +1,41 @@
 {
   "date": "Wednesday, September 2, 2026",
   "generatedAt": "Morning brief · 12:02 PM ET",
-  "theme": "An open day, poised before tomorrow's move.",
-  "greeting": "The calendar's clear today, Dan — nothing between you and the work you choose. Tomorrow brings the house changeover and a 3:30 intro call, so today is the day to get ahead of both.",
+  "theme": "A wide-open day — good for closing loops.",
+  "greeting": "No meetings on the calendar today, Dan, so the whole day is yours. Two board-search conversations are warming up, and the Croatia trip still has a handful of bookings waiting on you before the 8th.",
   "needsAttention": [
     {
-      "tag": "Reply owed",
-      "title": "Lauren Nadig is ready to lock tomorrow's call",
-      "detail": "She replied this morning asking whether to send the Teams invite for the 3:30 intro call tomorrow. A quick yes closes it before the day fills — the connection came through Josh Pasichow at Brunswick."
+      "tag": "Prep · tomorrow",
+      "title": "Brunswick call lands tomorrow at 3:30",
+      "detail": "Lauren Nadig's Teams call is confirmed for 3:30 PM ET tomorrow. Worth arriving with a clear read on where Brunswick fits your next chapter and what you want out of the conversation."
     },
     {
-      "tag": "Before the move",
-      "title": "Build and pack the travel larder bin",
-      "detail": "Tomorrow is the House 1 to House 2 changeover. Packing the bin today makes the first migration a test run while there's still time to fix what doesn't work."
+      "tag": "Job search",
+      "title": "Lock a time with Conor Kehoe at the PRI",
+      "detail": "Conor reopened the thread after the summer and his assistant Kate will set a slot — the PRI intro from Eugenia Jackson is still live and now waiting on you to say a time works."
     },
     {
-      "tag": "Book on land",
-      "title": "Lock the Sept 19 Cavtat night and transfer",
-      "detail": "Charter connectivity is poor to none, so the post-sail Cavtat hotel and the Komolac airport transfer have to be booked before you fly Sept 8. It's a P1 that's been open since late August."
+      "tag": "Job search",
+      "title": "Send your bio to Ellen and Deb",
+      "detail": "Your own note from yesterday: get your email address and board bio over to Ellen and Deb. It's the kind of intro that stalls if it sits."
+    },
+    {
+      "tag": "Deadline · Sept 8",
+      "title": "Croatia bookings still open before you fly",
+      "detail": "Several past-due P1 items share a hard wall at your Sept 8 departure: the Sept 19 Cavtat hotel and transfer, the Sept 20–22 St Pete landing gap, and confirming checked bags are actually on the Eurowings ticket. Charter connectivity is poor, so these have to be locked from dry land."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "PRI intro call still to be scheduled",
-        "detail": "Conor Kehoe's office sent a Zoom invite for the PRI sustainability and stewardship conversation Eugenia Jackson set up — it isn't on your calendar yet."
-      },
-      {
-        "tag": "Job search",
-        "title": "Bio still owed to Ellen and Deb",
-        "detail": "Your own reminder to send your email address and bio to Ellen and Deb is sitting unactioned."
-      },
-      {
         "tag": "Financial",
-        "title": "Morgan Stanley flagged a payment",
-        "detail": "An automated payment posted that they're asking you to review and confirm you recognize."
-      },
-      {
-        "tag": "FYI",
-        "title": "Care.com applicants waiting",
-        "detail": "Three sitters have applied to your job post, and one is flagged as waiting to hear back."
+        "title": "Morgan Stanley statement posted",
+        "detail": "Your latest statement is available online across several accounts — nothing owed, just a heads-up."
       }
     ],
-    "noise": "The rest is Labor Day retail, travel-loyalty mail, and language-app newsletters.",
-    "clear": "Your Nautilus sailing balance is paid and confirmed — nothing owed there."
+    "noise": "The rest of the unread is newsletters and shop sales — NYT Cooking, Responsible Investor, Yale Alumni, SoPo Seafood, a few Labor Day promos.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -62,27 +52,27 @@
   },
   "tasks": [
     {
-      "title": "Book St. Pete lodging for the Sept 20–22 landing gap",
-      "project": "Croatia/Travel",
-      "due": "Overdue Aug 25",
+      "title": "Build the travel larder bin before the House 2 move",
+      "project": "Travel prep",
+      "due": "Overdue Aug 31",
       "overdue": true
     },
     {
-      "title": "Confirm checked bags are on the Croatia ticket, in writing",
-      "project": "Croatia/Travel",
-      "due": "Overdue Aug 25",
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Travel prep",
+      "due": "Overdue Aug 27",
       "overdue": true
     },
     {
-      "title": "Book a refundable Sept 20–Oct 5 rental as the car backup",
-      "project": "Croatia/Travel",
+      "title": "Book the Sept 20–Oct 5 backup rental car (refundable)",
+      "project": "Travel prep",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Croatia/Travel",
-      "due": "Overdue Aug 27",
+      "title": "Destination edit work",
+      "project": "Work",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -94,15 +84,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the morning is entirely unclaimed."
+      "line": "Nothing on the books — the clearest run at the Croatia bookings that close on the 8th."
     },
     {
       "time": "Afternoon",
-      "line": "An open runway, the last clear stretch before tomorrow's house changeover."
+      "line": "Still wide open; a natural window to pin a time with Conor Kehoe and send the bio to Ellen and Deb."
     },
     {
       "time": "Evening",
-      "line": "Your final night at the Kenwood house before the move to the St. Pete ranch."
+      "line": "The girls are with you and Mike in St. Pete tonight — room for a proper from-scratch dinner."
     }
   ],
   "japanese": {
