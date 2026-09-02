@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-02",
+    "kind": "Morning brief",
+    "label": "Wednesday, Sep 2 · 7:26 AM ET",
+    "summary": "Open day before tomorrow's house move — reply to Lauren at Brunswick, pack the larder bin, and close the last Croatia bookings before Sept 8.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-01",
     "kind": "Morning brief",
     "label": "Tuesday, Sep 1 · 10:02 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Inbox summary",
     "label": "Tuesday, Aug 11 · 10 AM ET",
     "summary": "Quiet inbox — top item is a SourceHire email asking to add a cover letter + references to your SVP Global Public Policy application, but the sender looks like a low-quality aggregator; also a Todoist new-login alert to verify. Rest is promos/newsletters.",
-    "ref": "today"
-  },
-  {
-    "id": "inbox-2026-08-10-2203",
-    "kind": "Inbox summary",
-    "label": "Monday, Aug 10 · 10 PM ET",
-    "summary": "No job-search mail; Talkiatry moved your appt from Aug 13 (canceled) to a confirmed Aug 18 10 AM visit; an Apple iCloud sign-in alert and a 'Cloud Storage' phishing email are the only flags in an otherwise all-promo inbox.",
     "ref": "today"
   }
 ]
