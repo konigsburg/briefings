@@ -1,43 +1,53 @@
 {
   "date": "Tuesday, September 1, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "An open day, with Croatia one week out.",
-  "greeting": "The calendar is nearly bare, Dan — just the NACD New England call at midday. The real weight is off-screen: you fly to Croatia in a week and a handful of bookings are still open.",
+  "theme": "An open day, with the Croatia countdown running under it.",
+  "greeting": "Quiet day in St. Pete with the girls, and the grocery run is already done. What's left is a short stack of overdue trip bookings to clear before Monday's flight.",
   "needsAttention": [
     {
       "tag": "Job search",
       "title": "Send your bio to Ellen and Deb",
-      "detail": "Your own note flags the NACD New England follow-up. Get your email and board bio to Ellen Richstone and Deb Rosenthal now that today's call has happened."
+      "detail": "You flagged this to yourself today. Get your board bio and contact over to the two NACD New England directors while the intro is still warm."
     },
     {
-      "tag": "Window closing",
-      "title": "Croatia bookings still open",
-      "detail": "Two P1 items are past due against a hard wall at your Sept 8 departure: the last Dubrovnik night in Cavtat on Sept 19, and written confirmation that checked bags are actually on the ticket."
+      "tag": "Trip prep",
+      "title": "Book the Sept 19 Cavtat night",
+      "detail": "Overdue since Aug 23 (p1). The charter ends in Cavtat and this has to be booked from dry land before you fly out Sept 8."
     },
     {
-      "tag": "Landing gap",
-      "title": "St Pete nights, Sept 20-22",
-      "detail": "You land TPA Sept 20 but the girls aren't picked up until the 22nd. The two-night gap before the Orlando villa still needs a room."
+      "tag": "Trip prep",
+      "title": "Confirm Croatia checked bags",
+      "detail": "Overdue Aug 25 (p1). The issued ticket shows zero checked bags — far cheaper to fix online now than at a Eurowings counter."
+    },
+    {
+      "tag": "Trip prep",
+      "title": "Cover the Sept 20-22 landing gap",
+      "detail": "Overdue Aug 25 (p1). The two St Pete nights between the Croatia landing and Tuesday's kid pickup are still unbooked."
+    },
+    {
+      "tag": "Household",
+      "title": "Pack the travel larder bin",
+      "detail": "Overdue Aug 31 (p2). The House 1 to House 2 move is Sept 3 — the bin needs building before the first migration."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
-      "title": "NACD New England call",
-      "detail": "Zoom with Larissa Ravetto, Ellen Richstone, and Deb Rosenthal",
-      "tag": "Zoom"
+      "title": "NACD New England intro",
+      "detail": "Zoom with Larissa Ravetto",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Conor Kehoe wants a call",
-        "detail": "A Zoom invite about PRI sustainability and stewardship, sent this morning. Worth a reply to lock a time."
+        "title": "Conor Kehoe call on PRI",
+        "detail": "An unopened Zoom invite from Conor Kehoe's office on PRI sustainability and stewardship."
       }
     ],
-    "noise": "The rest is promotional -- Doublelist and Care.com reminders.",
-    "clear": ""
+    "noise": "One 'urgent' language-app promo — safe to skip.",
+    "clear": "Nothing else new in the inbox."
   },
   "resolved": [],
   "context": {
@@ -54,27 +64,21 @@
   },
   "tasks": [
     {
-      "title": "Book refundable backup car, Sept 20-Oct 5",
-      "project": "Croatia trip",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
+      "overdue": true
+    },
+    {
+      "title": "Book refundable backup SUV, Sept 20-Oct 5",
+      "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Build the travel larder bin",
-      "project": "Household",
-      "due": "Overdue Aug 31",
-      "overdue": true
-    },
-    {
       "title": "Buy EU plug adapters + US power strip",
-      "project": "Croatia trip",
+      "project": "Travel",
       "due": "Overdue Aug 27",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -86,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear runway before noon, with nothing on the calendar until midday."
+      "line": "A grocery run and an otherwise open calendar."
     },
     {
       "time": "Afternoon",
-      "line": "A single hour holds the day: the NACD New England Zoom at noon."
+      "line": "One meeting on the books: the NACD New England intro at noon."
     },
     {
       "time": "Evening",
-      "line": "The rest opens up, and with the girls in residence it bends toward home."
+      "line": "Girls in residence, and a week of overdue trip bookings to clear before Sept 8."
     }
   ],
   "japanese": {
