@@ -1,30 +1,30 @@
 {
   "date": "Tuesday, September 1, 2026",
   "generatedAt": "Morning brief · 8:03 PM ET",
-  "theme": "An open day in St. Pete, with the trip clock ticking",
-  "greeting": "A quiet calendar today, Dan — one call at noon and the rest of the day your own, with the girls in the house. The open stretch is good cover for the networking replies and the Croatia bookings that are stacking up before the 8th.",
+  "theme": "An open day, with Croatia one week out.",
+  "greeting": "The calendar is nearly bare, Dan — just the NACD New England call at midday. The real weight is off-screen: you fly to Croatia in a week and a handful of bookings are still open.",
   "needsAttention": [
     {
       "tag": "Job search",
-      "title": "Pick a time with Lauren at Brunswick",
-      "detail": "Lauren Nadig came back with three Teams windows -- Thu Sept 3 (3:30-5:30 ET), Tue Sept 8 (1-5), and Wed Sept 9 -- and is waiting on you to choose one before she sends a scheduler."
-    },
-    {
-      "tag": "Job search",
       "title": "Send your bio to Ellen and Deb",
-      "detail": "Your own note today is to send your email and bio to Ellen Richstone and Deb Rosenthal after the NACD New England call; the Oct 28 event prep session is now set for Oct 8 at 1pm ET."
+      "detail": "Your own note flags the NACD New England follow-up. Get your email and board bio to Ellen Richstone and Deb Rosenthal now that today's call has happened."
     },
     {
-      "tag": "Trip prep",
-      "title": "Croatia bookings before you fly Sept 8",
-      "detail": "Two past-due p1 items hit a hard wall at departure: the Cavtat hotel night for Sept 19 and the St Pete landing-gap nights of Sept 20-21. Charter Wi-Fi is unreliable, so both need locking from shore first."
+      "tag": "Window closing",
+      "title": "Croatia bookings still open",
+      "detail": "Two P1 items are past due against a hard wall at your Sept 8 departure: the last Dubrovnik night in Cavtat on Sept 19, and written confirmation that checked bags are actually on the ticket."
+    },
+    {
+      "tag": "Landing gap",
+      "title": "St Pete nights, Sept 20-22",
+      "detail": "You land TPA Sept 20 but the girls aren't picked up until the 22nd. The two-night gap before the Orlando villa still needs a room."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
       "title": "NACD New England call",
-      "detail": "Zoom with Larissa Ravetto and the chapter",
+      "detail": "Zoom with Larissa Ravetto, Ellen Richstone, and Deb Rosenthal",
       "tag": "Zoom"
     }
   ],
@@ -32,16 +32,11 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Conor Kehoe -- PRI stewardship call",
-        "detail": "A Zoom invite to talk PRI sustainability and stewardship."
-      },
-      {
-        "tag": "FYI",
-        "title": "NACD Oct 28 event -- prep session set",
-        "detail": "Larissa Ravetto forwarded the prep session, now on for Oct 8 at 1pm ET."
+        "title": "Conor Kehoe wants a call",
+        "detail": "A Zoom invite about PRI sustainability and stewardship, sent this morning. Worth a reply to lock a time."
       }
     ],
-    "noise": "Airbnb, Hyatt, and DocHub promotions rounded out the inbox.",
+    "noise": "The rest is promotional -- Doublelist and Care.com reminders.",
     "clear": ""
   },
   "resolved": [],
@@ -59,44 +54,26 @@
   },
   "tasks": [
     {
-      "title": "Book the Cavtat hotel night for Sept 19",
-      "project": "Mike + Dan -- Board",
-      "due": "Overdue Aug 26",
-      "overdue": true
-    },
-    {
-      "title": "Book St Pete landing-gap lodging (Sept 20-22)",
-      "project": "Mike + Dan -- Board",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Confirm checked bags are on the Croatia ticket",
-      "project": "Mike + Dan -- Board",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Build the travel larder bin before the Sept 3 move",
-      "project": "Mike + Dan -- Board",
-      "due": "Overdue Aug 31",
-      "overdue": true
-    },
-    {
-      "title": "Book a refundable backup car, Sept 20-Oct 5",
-      "project": "Mike + Dan -- Board",
+      "title": "Book refundable backup car, Sept 20-Oct 5",
+      "project": "Croatia trip",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Mike + Dan -- Board",
+      "title": "Build the travel larder bin",
+      "project": "Household",
+      "due": "Overdue Aug 31",
+      "overdue": true
+    },
+    {
+      "title": "Buy EU plug adapters + US power strip",
+      "project": "Croatia trip",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -109,15 +86,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open morning -- nothing on the calendar before noon."
+      "line": "A clear runway before noon, with nothing on the calendar until midday."
     },
     {
       "time": "Afternoon",
-      "line": "A single hour at midday for the NACD New England call, then the day clears."
+      "line": "A single hour holds the day: the NACD New England Zoom at noon."
     },
     {
       "time": "Evening",
-      "line": "The evening is yours in St. Petersburg, with the four girls at home."
+      "line": "The rest opens up, and with the girls in residence it bends toward home."
     }
   ],
   "japanese": {
