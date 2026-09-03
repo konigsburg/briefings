@@ -1,74 +1,64 @@
 {
   "date": "Thursday, September 3, 2026",
   "generatedAt": "Morning brief · 6:03 PM ET",
-  "theme": "An open day, with Croatia five days out.",
-  "greeting": "A quiet calendar today, Dan - one call with Brunswick and the rest of the day your own. The real pull is Croatia, now five days off, with a handful of bookings still hanging.",
+  "theme": "Trip prep in the foreground, girls at home.",
+  "greeting": "You're settled into the St. Pete ranch with the girls, and Croatia is five days out. The evening opens up once the larder bin is packed for the changeover.",
   "needsAttention": [
     {
-      "tag": "Tomorrow prep",
-      "title": "Conor Kehoe call on PRI, 10 AM",
-      "detail": "Tomorrow's Zoom is on PRI sustainability and stewardship - a networking conversation, so it goes better if you arrive holding two or three clear thoughts on where stewardship is heading."
+      "tag": "Reply owed",
+      "title": "Pick a Monday time with Conor Kehoe",
+      "detail": "You asked to move Friday's PRI call; his office came back with Mon Sept 7, 9:00-12:30 EDT. Monday is the only window before Croatia - Tuesday is your departure day."
     },
     {
-      "tag": "Closing window",
+      "tag": "Trip prep",
       "title": "Croatia bookings still open",
-      "detail": "The last night in Cavtat (Sept 19) and the St Pete landing gap (Sept 20-22) are both still unbooked and flagged p1. You fly Sept 8 and charter connectivity is poor - these want locking from dry land this week."
+      "detail": "The Sept 19 Cavtat hotel and transfer, the Sept 20-22 St. Pete landing nights, and the checked-bag confirmation are all P1 and past due. The real wall is Sept 8, before you fly."
     },
     {
-      "tag": "Cheap now",
-      "title": "Confirm checked bags on the Croatia ticket",
-      "detail": "The issued Basic Economy fare shows zero checked bags, and two 55L duffels won't pass as carry-on. Confirming on the operating carrier's site now beats airport-counter rates."
-    },
-    {
-      "tag": "Awaiting reply",
-      "title": "Andrew Kaufmann's reconnect note",
-      "detail": "He wrote via LinkedIn after a bounced KPMG address, asking whether you're still there and open to picking the thread back up. A short reply keeps it warm."
-    },
-    {
-      "tag": "Due today",
-      "title": "Travel larder bin before the changeover",
-      "detail": "Today is the House 1 to House 2 move, and the bin was meant to be packed before it - the first migration is the test run while there's still time to fix it."
+      "tag": "Today",
+      "title": "Pack the travel larder bin",
+      "detail": "It's meant to be built before today's changeover into the new place, so the first migration is a test run while there's still time to fix what breaks."
     }
   ],
   "schedule": [
     {
       "time": "3:30 PM",
-      "title": "Brunswick: Lauren + Dan",
-      "detail": "Intro call with Lauren Nadig, Brunswick Group",
-      "tag": "call"
+      "title": "Brunswick: Lauren connect",
+      "detail": "Intro call, CV sent right after",
+      "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "NACD New England panel prep",
-        "detail": "Larissa Ravetto sent the Oct 8 Zoom prep session for the Oct 28 New England event, with you on the invite alongside the panel."
+        "title": "SWF policy role flagged",
+        "detail": "Delta Executive Search surfaced a Head of Government Relations & Policy at a global top-10 sovereign wealth fund."
+      },
+      {
+        "tag": "Job search",
+        "title": "NACD New England prep session",
+        "detail": "Larissa Ravetto looped you into a prep session for the Oct 28 board event."
       },
       {
         "tag": "Financial",
-        "title": "C&C Sprayfoam estimate, $12,450",
-        "detail": "New QuickBooks estimate, due end of year - a review when you have a moment."
+        "title": "Sprayfoam estimate to review",
+        "detail": "C&C Sprayfoam sent a $12,450 QuickBooks estimate, marked due end of year."
       },
       {
         "tag": "FYI",
-        "title": "ICGN Autumn Conference, Toronto",
-        "detail": "Bookings are open for the November governance conference."
+        "title": "Care.com applicant",
+        "detail": "Gabriella R. applied to your caregiver posting."
       }
     ],
-    "noise": "The rest is retail and digests - Union Square Wines, Lumosity, Chairish, LinkedIn job alerts.",
-    "clear": "Nothing else is waiting on a reply."
+    "noise": "Airbnb reminders and the Nautilus sailing intro thread - nothing there needs you.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Scheduled",
-      "title": "PRI call with Conor Kehoe booked",
-      "detail": "After a couple of reschedules, the Zoom settled on tomorrow at 10 AM - nothing left to arrange."
-    },
-    {
-      "tag": "Confirmed",
-      "title": "Brunswick intro set with Lauren Nadig",
-      "detail": "You confirmed and the Teams call went onto today's calendar."
+      "tag": "Closed",
+      "title": "Brunswick intro call",
+      "detail": "Spoke with Lauren Nadig at 3:30 and sent your CV right after."
     }
   ],
   "context": {
@@ -85,15 +75,21 @@
   },
   "tasks": [
     {
-      "title": "Book refundable backup car, Sept 20-Oct 5 (TPA)",
-      "project": "Croatia trip",
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Croatia",
+      "due": "Overdue Aug 27",
+      "overdue": true
+    },
+    {
+      "title": "Book refundable backup car, Sept 20-Oct 5",
+      "project": "Fall travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters + a US power strip",
-      "project": "Croatia trip",
-      "due": "Overdue Aug 27",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -105,15 +101,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Open all morning - the kind of stretch that quietly swallows the Croatia to-do list if you let it."
+      "line": "A quiet start given over to trip logistics and the move into the new place."
     },
     {
       "time": "Afternoon",
-      "line": "A single call breaks the afternoon; on either side, the time is yours."
+      "line": "The Brunswick intro call at 3:30, with your CV sent right after."
     },
     {
       "time": "Evening",
-      "line": "Moving houses to the St Pete ranch tonight - settle in and cook something from scratch."
+      "line": "Girls home and the ranch kitchen - pack the larder bin before the changeover."
     }
   ],
   "japanese": {
