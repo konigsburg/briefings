@@ -1,60 +1,74 @@
 {
   "date": "Thursday, September 3, 2026",
   "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "Open day, one call, and Croatia a week out.",
-  "greeting": "Good afternoon, Dan. The calendar's nearly clear — the move into the St. Pete Ranch house and a 3:30 call with Brunswick — which leaves real open hours to close out the Croatia list before you fly on the 8th.",
+  "theme": "An open day, with Croatia five days out.",
+  "greeting": "A quiet calendar today, Dan - one call with Brunswick and the rest of the day your own. The real pull is Croatia, now five days off, with a handful of bookings still hanging.",
   "needsAttention": [
     {
-      "tag": "Reply owed",
-      "title": "Pick a time with Conor Kehoe",
-      "detail": "Conor's EA offered Monday Sep 7 or Tuesday Sep 8 for the PRI intro and is waiting on you to confirm. Monday is the safer pick, since you fly to Croatia on the 8th."
+      "tag": "Tomorrow prep",
+      "title": "Conor Kehoe call on PRI, 10 AM",
+      "detail": "Tomorrow's Zoom is on PRI sustainability and stewardship - a networking conversation, so it goes better if you arrive holding two or three clear thoughts on where stewardship is heading."
     },
     {
-      "tag": "Book by Sep 8",
+      "tag": "Closing window",
       "title": "Croatia bookings still open",
-      "detail": "The last Cavtat night (Sep 19) and the St. Pete landing gap (Sep 20-22) are both P1 and still unbooked. Charter wifi is poor, so both have to be locked from dry land before you leave on the 8th."
+      "detail": "The last night in Cavtat (Sept 19) and the St Pete landing gap (Sept 20-22) are both still unbooked and flagged p1. You fly Sept 8 and charter connectivity is poor - these want locking from dry land this week."
     },
     {
-      "tag": "Today's move",
-      "title": "Pack the travel larder bin",
-      "detail": "Today is the House 1 to House 2 changeover and the first test run for the rotating pantry bin. Worth building before you move so the first migration surfaces any gaps while there's still time to fix them."
+      "tag": "Cheap now",
+      "title": "Confirm checked bags on the Croatia ticket",
+      "detail": "The issued Basic Economy fare shows zero checked bags, and two 55L duffels won't pass as carry-on. Confirming on the operating carrier's site now beats airport-counter rates."
+    },
+    {
+      "tag": "Awaiting reply",
+      "title": "Andrew Kaufmann's reconnect note",
+      "detail": "He wrote via LinkedIn after a bounced KPMG address, asking whether you're still there and open to picking the thread back up. A short reply keeps it warm."
+    },
+    {
+      "tag": "Due today",
+      "title": "Travel larder bin before the changeover",
+      "detail": "Today is the House 1 to House 2 move, and the bin was meant to be packed before it - the first migration is the test run while there's still time to fix it."
     }
   ],
   "schedule": [
     {
-      "time": "All day",
-      "title": "St. Pete Ranch house (Sep 3-8)",
-      "detail": "Changeover from the Kenwood place today",
-      "tag": "Move"
-    },
-    {
       "time": "3:30 PM",
-      "title": "Call with Brunswick — Lauren Nadig",
-      "detail": "Intro and connect call, 30 min",
-      "tag": "Call"
+      "title": "Brunswick: Lauren + Dan",
+      "detail": "Intro call with Lauren Nadig, Brunswick Group",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "NACD New England panel prep",
+        "detail": "Larissa Ravetto sent the Oct 8 Zoom prep session for the Oct 28 New England event, with you on the invite alongside the panel."
+      },
+      {
+        "tag": "Financial",
+        "title": "C&C Sprayfoam estimate, $12,450",
+        "detail": "New QuickBooks estimate, due end of year - a review when you have a moment."
+      },
+      {
         "tag": "FYI",
-        "title": "Stewardship Digest, issue one",
-        "detail": "The first edition of a new sustainability-and-stewardship newsletter landed — a quick skim for your field."
+        "title": "ICGN Autumn Conference, Toronto",
+        "detail": "Bookings are open for the November governance conference."
       }
     ],
-    "noise": "Otherwise it's airline-miles offers, retail promos, and a LinkedIn invite.",
-    "clear": ""
+    "noise": "The rest is retail and digests - Union Square Wines, Lumosity, Chairish, LinkedIn job alerts.",
+    "clear": "Nothing else is waiting on a reply."
   },
   "resolved": [
     {
-      "tag": "Sailing",
-      "title": "Logbook question answered",
-      "detail": "Amy at Nautilus confirmed your ASA logbook comes after the course — nothing owed."
+      "tag": "Scheduled",
+      "title": "PRI call with Conor Kehoe booked",
+      "detail": "After a couple of reschedules, the Zoom settled on tomorrow at 10 AM - nothing left to arrange."
     },
     {
-      "tag": "Lodging",
-      "title": "St. Pete Ranch check-in confirmed",
-      "detail": "The host confirmed check-in for Sep 3-8; no reply needed."
+      "tag": "Confirmed",
+      "title": "Brunswick intro set with Lauren Nadig",
+      "detail": "You confirmed and the Teams call went onto today's calendar."
     }
   ],
   "context": {
@@ -71,41 +85,35 @@
   },
   "tasks": [
     {
-      "title": "Confirm checked bags are on the Croatia ticket — get it in writing",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Book refundable backup SUV, Sep 20-Oct 5 (TPA)",
-      "project": "Travel",
+      "title": "Book refundable backup car, Sept 20-Oct 5 (TPA)",
+      "project": "Croatia trip",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Travel",
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Croatia trip",
       "due": "Overdue Aug 27",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/3",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning with nothing on the calendar — the open hours before the afternoon."
+      "line": "Open all morning - the kind of stretch that quietly swallows the Croatia to-do list if you let it."
     },
     {
       "time": "Afternoon",
-      "line": "The move into the St. Pete Ranch house, then a 3:30 call with Brunswick."
+      "line": "A single call breaks the afternoon; on either side, the time is yours."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you and Mike — a new kitchen to break in and dinner from scratch."
+      "line": "Moving houses to the St Pete ranch tonight - settle in and cook something from scratch."
     }
   ],
   "japanese": {
