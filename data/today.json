@@ -1,69 +1,48 @@
 {
   "date": "Thursday, September 3, 2026",
   "generatedAt": "Morning brief · 10:17 AM ET",
-  "theme": "Changeover day, one call, and Croatia five days out.",
-  "greeting": "Moving day, Dan: out of Kenwood and into the St. Pete Ranch, with just the Brunswick call on the books. The girls are with you, and Croatia is now five days off, so most of the open week belongs to the trip list.",
+  "theme": "An open day in St. Pete — the Croatia countdown is the real work.",
+  "greeting": "Good morning, Dan. Just one call on the books today; the day's real work is clearing the last Croatia bookings before you fly next week, and giving Conor Kehoe's office a new time.",
   "needsAttention": [
     {
       "tag": "Reply owed",
-      "title": "Pick a time for the Conor Kehoe call",
-      "detail": "After you moved Friday, Conor's EA Kate offered Mon Sep 7 or Tue Sep 8 (9:00-12:30 EDT) and is holding the invite until you choose. This is the PRI intro Eugenia Jackson made for you."
+      "title": "Give Conor Kehoe's office a new time",
+      "detail": "You moved Friday's PRI stewardship call (the intro Eugenia Jackson set up), and Kate Tilley is holding the invite for your pick: Mon Sept 7, 9:00-12:30 ET, or Tue Sept 8, 9:00-11:30 ET. Monday sits cleaner — Tuesday is your Croatia departure."
     },
     {
-      "tag": "Closes today",
-      "title": "Pack the travel larder bin",
-      "detail": "Today is the Kenwood-to-Ranch changeover the bin was meant to be built before; it is the flavor spine for cooking across the rotating houses. Travel project, overdue since Aug 31."
+      "tag": "Croatia prep",
+      "title": "Lock the last Dubrovnik night before you fly",
+      "detail": "The Sept 19 Cavtat hotel night and the noon Komolac-to-Cavtat transfer are both still open and both p1. Charter connectivity is poor once aboard, so these have to be booked from dry land before the Sept 8 departure."
     },
     {
-      "tag": "Before Croatia",
-      "title": "Book the Sept 19 Cavtat night and transfer",
-      "detail": "The last night after the charter, near Dubrovnik airport, has to be booked from land before the Sept 8 departure since the boat has no connectivity. Travel, P1, overdue."
-    },
-    {
-      "tag": "Before Croatia",
-      "title": "Confirm checked bags in writing",
-      "detail": "The issued Croatia ticket shows 0 checked bags; verify the allowance on Eurowings Discover and buy them online now if needed. Travel, P1, overdue."
-    },
-    {
-      "tag": "Before Croatia",
-      "title": "Book the Sept 20-22 St. Pete gap",
-      "detail": "You land TPA Sept 20 but the girls are not picked up until Sept 22, and those two nights are still unbooked. Travel, P1, overdue."
+      "tag": "Croatia prep",
+      "title": "Confirm the checked bags are actually on the ticket",
+      "detail": "The issued Basic Economy fare shows zero checked bags and you're carrying two 55L duffels. Verify the allowance on Eurowings Discover's own site and buy bags now if they aren't there — European counter fees run well above the online price."
     }
   ],
   "schedule": [
     {
-      "time": "Daytime",
-      "title": "Kenwood to St. Pete Ranch",
-      "detail": "Check out of House 1; move into House 2 through Sept 9",
-      "tag": "move"
-    },
-    {
       "time": "3:30 PM",
-      "title": "Brunswick: Lauren + Dan connect",
-      "detail": "30-minute Teams call with Lauren Nadig",
-      "tag": "call"
+      "title": "Brunswick: Lauren Nadig connect",
+      "detail": "30-min intro call over Teams",
+      "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "NACD New England prep session",
-        "detail": "Larissa Ravetto sent the Oct 8 Zoom prep for the Oct 28 New England event, the director community you are leaning on."
-      },
-      {
-        "tag": "Financial",
-        "title": "C&C Sprayfoam estimate",
-        "detail": "A $12,450 estimate came through QuickBooks to review and approve."
+        "tag": "FYI",
+        "title": "A caregiver applied on Care.com",
+        "detail": "Gabriella R. applied to your posted job; a couple of Care.com nudges are also sitting in the inbox."
       },
       {
         "tag": "FYI",
-        "title": "A sitter applied on Care.com",
-        "detail": "Gabriella R. applied to your job posting."
+        "title": "First Stewardship Digest issue landed",
+        "detail": "A new sustainability and stewardship newsletter launched this morning — timely reading ahead of the Conor Kehoe call."
       }
     ],
-    "noise": "The rest is newsletters and sale promos: Litter-Robot, Breeze, Mandarin Oriental, and the language digests.",
-    "clear": ""
+    "noise": "Otherwise it's Labor Day sales, LinkedIn and newsletter digests, and a Carrier HVAC alert misaddressed to an 'Andrew Ross.'",
+    "clear": "Nothing else is waiting on a reply."
   },
   "resolved": [],
   "context": {
@@ -80,41 +59,53 @@
   },
   "tasks": [
     {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Travel",
-      "due": "Overdue Aug 27",
+      "title": "Book St. Pete landing-gap lodging (Sept 20-22)",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 25",
       "overdue": true
     },
     {
-      "title": "Book refundable Sept 20-Oct 5 car (decide by Sept 7)",
-      "project": "Travel",
+      "title": "Book Sept 20-Oct 5 backup rental car (refundable)",
+      "project": "Mike + Dan Board",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
+      "title": "Build the travel larder bin",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 31",
+      "overdue": true
+    },
+    {
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 27",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Check out of Kenwood and move to the St. Pete Ranch, larder bin riding along."
+      "line": "The morning is open — the clear runway for the Croatia bookings that have to be locked from dry land before you fly."
     },
     {
-      "time": "3:30 PM",
-      "line": "A half-hour Teams connect with Lauren Nadig at Brunswick."
+      "time": "Afternoon",
+      "line": "One call at 3:30, Lauren Nadig at Brunswick, sitting alone in an otherwise quiet afternoon."
     },
     {
       "time": "Evening",
-      "line": "Settle the girls into House 2, with Croatia now five days out."
+      "line": "Settling into the new place on Central Ave with the girls for the week's stay."
     }
   ],
   "japanese": {
