@@ -1,60 +1,57 @@
 {
   "date": "Wednesday, September 2, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "A quiet evening before a busy 48 hours.",
-  "greeting": "The girls are home and today stayed open, Dan. The next two days do the heavy lifting: tomorrow's move to House 2 and the Brunswick call, with Croatia's Sept 8 booking wall closing in behind them.",
+  "theme": "An open runway before tomorrow's move and a new introduction.",
+  "greeting": "A clear day, Dan — nothing sits on the calendar. Tomorrow brings the changeover to the St. Pete ranch and a first call with Brunswick, with Croatia now a week out and a few bookings still open.",
   "needsAttention": [
     {
-      "tag": "Closes today",
-      "title": "Build the larder bin before tomorrow's move",
-      "detail": "House 1 checks out and the St. Pete Ranch stay begins tomorrow (Sept 3). The travel larder bin was meant to be packed before this first changeover so the migration is the test run while there's still time to fix it."
+      "tag": "Prep · tomorrow",
+      "title": "First call with Brunswick",
+      "detail": "Lauren Nadig set a Teams call for tomorrow at 3:30 PM ET. It's a networking connect — worth arriving clear on what you're after (board seats, advisory) and how Brunswick's governance and comms work maps to it."
     },
     {
-      "tag": "Booking wall",
-      "title": "Lock the Croatia bookings before you fly",
-      "detail": "The single Cavtat night on Sept 19, the Sept 20-22 St. Pete landing gap, and confirming checked bags are actually on the ticket all have to be done from dry land before the Sept 8 departure. All three are past due in Todoist."
+      "tag": "Trip · closing",
+      "title": "Get the Croatia bags in writing",
+      "detail": "The issued ticket shows zero checked bags on the Eurowings Discover legs. Confirm the allowance on the operating carrier's own site and buy bags now if needed — European counter fees run well above pre-purchase. Overdue since Aug 25, and the wall is Sept 8."
     },
     {
-      "tag": "Prep for tomorrow",
-      "title": "Tighten your board narrative for Brunswick",
-      "detail": "Lauren Nadig's connect call is tomorrow at 3:30 PM ET and you've already accepted. Arrive with your board-search story sharp and a read on where Brunswick's corporate-affairs work meets governance."
+      "tag": "Trip · book now",
+      "title": "Cavtat room for the last night",
+      "detail": "The Sept 19 room and the noon Komolac transfer have to be booked from dry land before you sail Sept 8 — charter connectivity is thin. Book refundable. P1, overdue since Aug 26."
+    },
+    {
+      "tag": "Prep · tomorrow",
+      "title": "Pack the travel larder bin",
+      "detail": "The from-scratch kit is meant to be built and packed before tomorrow's House 1 to House 2 move, so the first migration is the test run while there's still time to fix it. Overdue since Aug 31."
     }
   ],
-  "schedule": [
-    {
-      "time": "Now",
-      "title": "Heart of Kenwood, St. Pete",
-      "detail": "Last night here before checkout tomorrow",
-      "tag": "Stay"
-    },
-    {
-      "time": "Tomorrow 3:30 PM",
-      "title": "Brunswick: Lauren + Dan connect",
-      "detail": "30-min Teams call, job-search networking",
-      "tag": "Call"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Morgan Stanley statement posted",
-        "detail": "A new account statement is available on Morgan Stanley Online. No action, just there when you want it."
+        "tag": "Job search",
+        "title": "PRI chat with Conor Kehoe",
+        "detail": "His office sent a Zoom invite to set the stewardship conversation Eugenia Jackson introduced — still waiting on you to lock a time."
       },
       {
-        "tag": "Financial",
-        "title": "FICO Advanced cancellation confirmed",
-        "detail": "The cancellation you requested went through; it ends when the billing cycle closes on Oct 2."
+        "tag": "Job search",
+        "title": "Bio still to go to Ellen and Deb",
+        "detail": "Your own note to send your address and board bio to Ellen and Deb is sitting unsent in the inbox."
+      },
+      {
+        "tag": "FYI",
+        "title": "A sitter applied on Care.com",
+        "detail": "Gabriella R. applied to your childcare posting — a glance when you have a minute."
       }
     ],
-    "noise": "The rest is newsletters and promotions: NYT Cooking, Responsible Investor, Yale alumni, Amex, Nextdoor, a LinkedIn invite.",
+    "noise": "The rest is retail and listing alerts (Chairish, Airbnb receipts).",
     "clear": ""
   },
   "resolved": [
     {
-      "tag": "Locked in",
-      "title": "Brunswick call is set",
-      "detail": "You replied to Lauren Nadig and accepted the Teams invite, so tomorrow's 3:30 PM connect is confirmed with nothing left owed."
+      "tag": "Scheduled",
+      "title": "Brunswick call is on the books",
+      "detail": "Lauren Nadig sent the Teams invite for tomorrow 3:30 PM after you confirmed — nothing owed until then."
     }
   ],
   "context": {
@@ -71,41 +68,41 @@
   },
   "tasks": [
     {
-      "title": "Book a refundable backup SUV (Sept 20-Oct 5)",
-      "project": "Croatia + custody",
-      "due": "Decision by Sept 7",
-      "overdue": false
-    },
-    {
-      "title": "Buy EU plug adapters + a US power strip",
-      "project": "Croatia trip",
-      "due": "Overdue Aug 27",
+      "title": "Book the St. Pete landing nights, Sept 20–22",
+      "project": "Croatia / Florida trip",
+      "due": "Overdue Aug 25",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
+      "title": "Hold a refundable backup SUV, Sept 20–Oct 5",
+      "project": "Croatia / Florida trip",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Croatia / Florida trip",
+      "due": "Overdue Aug 27",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "-/9",
-    "day": "-/6",
-    "evening": "-/4"
+    "morning": "0/10",
+    "day": "0/6",
+    "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The four girls are in the house, so the day starts on their clock."
+      "line": "The day opened clear — nothing on the calendar to hold you."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar today, a rare clear stretch."
+      "line": "No meetings booked either side of noon; a rare open stretch with the trip still to lock down."
     },
     {
       "time": "Evening",
-      "line": "Cooking for the girls, the last night at House 1 before the changeover."
+      "line": "Last night at the Kenwood place before tomorrow's move to the St. Pete ranch."
     }
   ],
   "japanese": {
