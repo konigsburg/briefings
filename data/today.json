@@ -1,44 +1,43 @@
 {
   "date": "Friday, September 4, 2026",
   "generatedAt": "Morning brief · 6:02 PM ET",
-  "theme": "One clear day before the week tightens.",
-  "greeting": "Good afternoon, Dan. The calendar is open end to end, which almost never happens four days out from Croatia. Marc has looped back on the Nomura idea and the reply is yours now, and the pre-trip bookings are the one thing with a real clock on them.",
+  "theme": "An open day, with the trip clock ticking.",
+  "greeting": "Nothing on the calendar today, Dan — the day is yours. The real pull this week is the pre-Croatia booking list, and several of its pieces close before Monday's departure.",
   "needsAttention": [
     {
-      "tag": "Reply owed",
-      "title": "Marc is back on the Nomura project",
-      "detail": "In the Valoris thread, Marc Lubrano circled back this afternoon after your note wanting a call on the books, and floats proposing \"a real project for Nomura\" while doubting Chie has the budget. The next move is yours."
+      "tag": "Croatia · overdue",
+      "title": "Confirm checked bags are on the ticket",
+      "detail": "P1 in your travel list, due Aug 25 — the issued Basic Economy ticket shows zero checked bags. Verify it on the operating carrier's site and buy bags online before the Sept 8 departure, not at the airport counter."
     },
     {
-      "tag": "Books before boat",
-      "title": "Lock the Sept 19 Cavtat night before you fly",
-      "detail": "The last Dubrovnik-side night and its noon marina transfer have to be booked from land before the Sept 8 departure, since charter connectivity won't let you do it aboard. It has been an open P1 since late August."
+      "tag": "Croatia · overdue",
+      "title": "Book the Sept 19 Cavtat night",
+      "detail": "P1, due Aug 26 — the last night after the charter, airport-side in Cavtat. Charter connectivity is poor, so this has to be booked from dry land before you fly out Monday."
     },
     {
-      "tag": "Overdue P1",
-      "title": "Confirm the Croatia bags are actually ticketed",
-      "detail": "The issued Basic Economy fare shows zero checked bags. Verify the allowance on Eurowings Discover's own site and buy online before counter rates, because two 55L duffels won't pass as carry-on."
+      "tag": "Croatia · overdue",
+      "title": "Book the St Pete landing gap, Sept 20 to 22",
+      "detail": "P1, due Aug 25 — two nights between the Croatia landing and Tuesday's school pickup, before the Orlando villa starts."
+    },
+    {
+      "tag": "Decision · Sept 7",
+      "title": "Lock or drop the car-rental hedge",
+      "detail": "P2, due Aug 28 — a refundable Full-Size SUV backup unless Mike's car is confirmed en route. The call locks Sept 7, the day before Croatia."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "A sitter applied on Care.com",
-        "detail": "Carly M. applied to the job you posted, worth a glance when you line up help around the trip."
+        "tag": "Financial",
+        "title": "Experian monthly statement",
+        "detail": "Your September credit statement posted — routine, nothing new flagged."
       }
     ],
-    "noise": "Everything else is Labor Day promos, industry newsletters, and campaign mail.",
-    "clear": ""
+    "noise": "~40 unread, nearly all promotions and newsletters — Labor Day sales, Airbnb, campaign mail.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
-  "resolved": [
-    {
-      "tag": "Meeting off",
-      "title": "Kehoe PRI call was canceled",
-      "detail": "Conor Kehoe's office canceled today's 10 AM EDT Zoom on PRI sustainability and stewardship, so it is off your plate with nothing to reschedule unless you want to."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -53,53 +52,41 @@
   },
   "tasks": [
     {
-      "title": "Book the St Pete landing-gap nights (Sept 20-21)",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Book a refundable backup SUV, Sept 20 to Oct 5",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Build and pack the travel larder bin",
-      "project": "Mike + Dan Board",
+      "title": "Build the travel larder bin",
+      "project": "Travel",
       "due": "Overdue Aug 31",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Mike + Dan Board",
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Travel",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "7/10",
-    "day": "0/3",
+    "morning": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is empty end to end, a genuinely open day and a rare one this close to a departure."
+      "line": "The calendar is clear — no meetings today or tomorrow."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing is booked to pull you anywhere, so the hours bend to whatever you point them at."
+      "line": "A wide-open stretch, four days out from the Croatia departure."
     },
     {
       "time": "Evening",
-      "line": "One of the last St Pete evenings with the girls home before the boat, and nothing on the books."
+      "line": "Home in St. Pete with the girls in residence."
     }
   ],
   "japanese": {
