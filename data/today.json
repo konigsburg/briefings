@@ -1,70 +1,52 @@
 {
   "date": "Friday, September 4, 2026",
   "generatedAt": "Morning brief · 7:22 AM ET",
-  "theme": "Changeover day, Croatia five days out.",
-  "greeting": "Moving houses today with the St. Pete Ranch ahead and one Brunswick call in the middle. The real weight sits five days out: Croatia, and a handful of P1s still open before you fly.",
+  "theme": "An open calendar, Croatia four days out.",
+  "greeting": "No meetings today, Dan, and the girls are with you in St. Pete — a genuinely open Friday. It lands well, because the Croatia countdown is down to four days and a handful of bookings are still on the board.",
   "needsAttention": [
     {
-      "tag": "Tomorrow · prep",
-      "title": "Conor Kehoe call on PRI stewardship",
-      "detail": "10 AM Zoom with Conor Kehoe on PRI sustainability and stewardship. A governance networking conversation worth arriving at with two or three current thoughts on where the PRI's stewardship agenda is heading."
+      "tag": "Croatia · overdue",
+      "title": "Confirm the checked bags are actually on your ticket",
+      "detail": "The issued ticket shows zero checked bags on the Eurowings Discover legs. Pull the booking up on the operating carrier's site, and buy bags now if they aren't included — European counter fees run well above the online price, and two 55L duffels won't pass as carry-on. Overdue since Aug 25."
     },
     {
-      "tag": "Deadline · Sept 8",
-      "title": "Confirm checked bags on the Croatia ticket",
-      "detail": "The issued ticket shows zero checked bags. It is cheap to fix online now and costly at a Eurowings counter, so confirm on the operating carrier's site and buy bags if needed before you fly the 8th."
+      "tag": "Croatia · overdue",
+      "title": "Lock the Sept 19 Cavtat night and the marina transfer",
+      "detail": "The last night before the Sept 20 flight home has to be booked from dry land — charter connectivity dies once you sail on the 8th. That's the Cavtat hotel, the noon transfer from ACI Komolac, and the ~5 AM airport run. Overdue since Aug 26."
     },
     {
-      "tag": "Deadline · Sept 8",
-      "title": "Book the Cavtat night and transfer for Sept 19",
-      "detail": "The last Dubrovnik night in Cavtat plus the Komolac transfer have to be booked from dry land. Charter connectivity is poor, so this closes before the Sept 8 departure, not on the 19th."
-    },
-    {
-      "tag": "Decision · Sept 7",
-      "title": "Hold or book the Sept 20 rental car",
-      "detail": "A refundable Full Size SUV for TPA Sept 20 to Oct 5 is a hedge unless Mike's car is confirmed en route. The call lands Sept 7, the day before Croatia."
-    },
-    {
-      "tag": "Today · changeover",
-      "title": "Pack the travel larder bin for the move",
-      "detail": "Today is the House 1 to House 2 changeover, and the larder bin was meant to be built before it so the first migration is a test run while there is still time to fix it."
+      "tag": "Florida · overdue",
+      "title": "Fill the Sept 20–22 St Pete landing gap",
+      "detail": "You land TPA Sunday the 20th but the girls aren't picked up until Tuesday the 22nd — two nights near St Pete are still unbooked ahead of the Orlando villa. Overdue since Aug 25."
     }
   ],
-  "schedule": [
-    {
-      "time": "All day",
-      "title": "House 1 to House 2 changeover",
-      "detail": "Kenwood checkout, St. Pete Ranch check-in",
-      "tag": "Move"
-    },
-    {
-      "time": "3:30 PM",
-      "title": "Brunswick: Lauren + Dan",
-      "detail": "Teams call with Lauren Nadig",
-      "tag": "Call"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Mastercard exec wants to connect",
-        "detail": "A LinkedIn invite from Mastercard's head of government engagement is sitting unanswered."
+        "title": "Mastercard government-affairs lead wants to connect",
+        "detail": "A LinkedIn invitation from Prashanth, VP of Government Engagement & Chief of Staff at Mastercard, is waiting on your response."
       },
       {
         "tag": "FYI",
-        "title": "Caregiver applied on Care.com",
-        "detail": "Gabriella R. applied to your posted job."
+        "title": "A caregiver applied on Care.com",
+        "detail": "Gabriella R. applied to the job you posted."
+      },
+      {
+        "tag": "Financial",
+        "title": "Apple subscription set to expire",
+        "detail": "Your Apple Creator Studio monthly ($12.99) is flagged as expiring soon — renew or let it lapse."
       }
     ],
-    "noise": "The rest is newsletters, promotions, and Airbnb host chatter.",
-    "clear": "The Kenwood reservation thread has wrapped up, nothing owed there."
+    "noise": "The rest is newsletters and Labor Day sales — Italian Word of the Day, a language app or two, a home-insurance pitch, and the Todoist digest.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Closed",
-      "title": "Kenwood stay wrapped up",
-      "detail": "The Airbnb host closed out the Kenwood reservation thread and reacted to your last message; nothing owed."
+      "tag": "Cancelled",
+      "title": "The PRI stewardship call with Conor Kehoe is off",
+      "detail": "Conor Kehoe cancelled the 10 AM EDT Zoom on PRI sustainability and stewardship — it's off your calendar, no action needed."
     }
   ],
   "context": {
@@ -72,7 +54,7 @@
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Thursday Sep 3"
+    "asOf": "Friday Sep 4"
   },
   "recipe": {
     "title": "Roasted kabocha squash",
@@ -81,41 +63,59 @@
   },
   "tasks": [
     {
-      "title": "Book St. Pete lodging for the Sept 20 to 22 landing gap",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 25",
+      "title": "Book Orlando + Disney tickets — 6 of you, Sept 26–27",
+      "project": "Florida trip",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Hold a refundable backup SUV for Sept 20 (decide by Sept 7)",
+      "project": "Florida trip",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Mike + Dan Board",
+      "title": "Build and pack the travel larder bin",
+      "project": "Household",
+      "due": "Overdue Aug 31",
+      "overdue": true
+    },
+    {
+      "title": "Call the dermatologist to book wart removal",
+      "project": "Florida trip",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Croatia",
       "due": "Overdue Aug 27",
+      "overdue": true
+    },
+    {
+      "title": "Book Mike's haircut before Croatia",
+      "project": "Personal",
+      "due": "Overdue Sep 3",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/3",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Checkout at Kenwood, then the move to the St. Pete Ranch with the larder bin riding along."
+      "line": "Nothing on the calendar — a rare, fully open stretch to spend on what's been waiting."
     },
     {
       "time": "Afternoon",
-      "line": "One real block: the 3:30 Brunswick call with Lauren, tucked inside the changeover."
+      "line": "The day stays clear straight through; no meeting bookends it."
     },
     {
       "time": "Evening",
-      "line": "Settling the new place, with Conor Kehoe's PRI call waiting at 10 tomorrow."
+      "line": "The girls are home with you in St. Pete — an easy evening in."
     }
   ],
   "japanese": {
