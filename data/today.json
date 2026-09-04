@@ -1,53 +1,54 @@
 {
   "date": "Friday, September 4, 2026",
   "generatedAt": "Morning brief · 8:21 AM ET",
-  "theme": "An open calendar, Croatia four days out.",
-  "greeting": "No meetings today, Dan, and the girls are with you in St. Pete — a genuinely open Friday. It lands well, because the Croatia countdown is down to four days and a handful of bookings are still on the board.",
+  "theme": "An open day with the girls in St. Pete — the last clear runway before Croatia.",
+  "greeting": "No meetings on the calendar today; Conor Kehoe's PRI call came off. The girls are with you and Mike in St. Pete, and Croatia is four days out with a stack of P1 bookings still open — this is the day to close them.",
   "needsAttention": [
     {
-      "tag": "Croatia · overdue",
-      "title": "Confirm the checked bags are actually on your ticket",
-      "detail": "The issued ticket shows zero checked bags on the Eurowings Discover legs. Pull the booking up on the operating carrier's site, and buy bags now if they aren't included — European counter fees run well above the online price, and two 55L duffels won't pass as carry-on. Overdue since Aug 25."
+      "tag": "Croatia · P1",
+      "title": "Book the last Croatia night in Cavtat",
+      "detail": "Open on your Mike + Dan board since Aug 23: the Sept 19 hotel and the noon marina transfer from ACI Komolac — bookable only from dry land, so it has to happen before you fly Sept 8."
     },
     {
-      "tag": "Croatia · overdue",
-      "title": "Lock the Sept 19 Cavtat night and the marina transfer",
-      "detail": "The last night before the Sept 20 flight home has to be booked from dry land — charter connectivity dies once you sail on the 8th. That's the Cavtat hotel, the noon transfer from ACI Komolac, and the ~5 AM airport run. Overdue since Aug 26."
+      "tag": "Croatia · P1",
+      "title": "Confirm checked bags in writing",
+      "detail": "The issued ticket shows zero checked bags on both Eurowings Discover legs. Confirm the allowance on the operating carrier's site now, not at a European counter."
     },
     {
-      "tag": "Florida · overdue",
-      "title": "Fill the Sept 20–22 St Pete landing gap",
-      "detail": "You land TPA Sunday the 20th but the girls aren't picked up until Tuesday the 22nd — two nights near St Pete are still unbooked ahead of the Orlando villa. Overdue since Aug 25."
+      "tag": "Croatia · P1",
+      "title": "Lock the St. Pete landing-gap nights",
+      "detail": "You land TPA Sept 20 but the girls aren't picked up until the 22nd — the nights of Sept 20 and 21 still have no room."
+    },
+    {
+      "tag": "Decision · Sept 7",
+      "title": "Decide the Sept 20–Oct 5 rental car",
+      "detail": "A P2 with a Sept 7 decision point: hold a refundable full-size SUV as backup unless Mike's car is confirmed heading south."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Mastercard government-affairs lead wants to connect",
-        "detail": "A LinkedIn invitation from Prashanth, VP of Government Engagement & Chief of Staff at Mastercard, is waiting on your response."
+        "tag": "Financial",
+        "title": "New Morgan Stanley payee added",
+        "detail": "At 8:14 AM, Morgan Stanley says a payee — 'J&B Drywall' — was added to your Payments service. Verify you did that; if not, act on it today."
+      },
+      {
+        "tag": "Security",
+        "title": "New Google + OpenAI sign-ins",
+        "detail": "New sign-ins to your Google and OpenAI accounts from St. Petersburg on Sept 3 — they look like you, so dismiss if so."
       },
       {
         "tag": "FYI",
-        "title": "A caregiver applied on Care.com",
-        "detail": "Gabriella R. applied to the job you posted."
-      },
-      {
-        "tag": "Financial",
-        "title": "Apple subscription set to expire",
-        "detail": "Your Apple Creator Studio monthly ($12.99) is flagged as expiring soon — renew or let it lapse."
+        "title": "Two caregivers applied on Care.com",
+        "detail": "Gabriella R. and Megan T. applied to the caregiver job you posted."
       }
     ],
-    "noise": "The rest is newsletters and Labor Day sales — Italian Word of the Day, a language app or two, a home-insurance pitch, and the Todoist digest.",
-    "clear": ""
+    "noise": "The rest is newsletters and promos — NYT Cooking, Responsible Investor, Italian Word of the Day, Amex, Starbucks, and the usual retail.",
+    "clear": "No recruiter or board mail today, and nothing awaiting your reply."
   },
   "resolved": [
-    {
-      "tag": "Cancelled",
-      "title": "The PRI stewardship call with Conor Kehoe is off",
-      "detail": "Conor Kehoe cancelled the 10 AM EDT Zoom on PRI sustainability and stewardship — it's off your calendar, no action needed."
-    }
+    "Conor Kehoe's office cancelled today's 10 AM EDT Zoom on PRI sustainability and stewardship — the calendar reads clear as a result."
   ],
   "context": {
     "kids": true,
@@ -59,49 +60,31 @@
   "recipe": {
     "title": "Roasted kabocha squash",
     "book": "Canal House Cooks Every Day",
-    "why": "The first true week of autumn is squash weather — kabocha's dense sweetness caramelizes beautifully in a hot oven and rewards patience more than fuss."
+    "why": "The first real week of autumn is squash weather — kabocha's dense sweetness caramelizes beautifully in a hot oven and rewards patience more than fuss on an unhurried evening with the girls."
   },
   "tasks": [
     {
-      "title": "Book Orlando + Disney tickets — 6 of you, Sept 26–27",
-      "project": "Florida trip",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Hold a refundable backup SUV for Sept 20 (decide by Sept 7)",
-      "project": "Florida trip",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Build and pack the travel larder bin",
-      "project": "Household",
+      "title": "Build the travel larder bin",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Aug 31",
       "overdue": true
     },
     {
-      "title": "Call the dermatologist to book wart removal",
-      "project": "Florida trip",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Buy EU plug adapters + a US power strip",
-      "project": "Croatia",
+      "title": "Buy EU plug adapters and a power strip",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
-      "title": "Book Mike's haircut before Croatia",
-      "project": "Personal",
-      "due": "Overdue Sep 3",
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
-    "day": "0/6",
+    "morning": "0/10",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
