@@ -1,54 +1,63 @@
 {
   "date": "Friday, September 4, 2026",
-  "generatedAt": "Morning brief · 10:16 AM ET",
-  "theme": "An open day with the girls in St. Pete — the last clear runway before Croatia.",
-  "greeting": "No meetings on the calendar today; Conor Kehoe's PRI call came off. The girls are with you and Mike in St. Pete, and Croatia is four days out with a stack of P1 bookings still open — this is the day to close them.",
+  "generatedAt": "Morning brief · 10:19 AM ET",
+  "theme": "An open day, Croatia four days out.",
+  "greeting": "Clear calendar today, Dan, and the girls are with you in St. Pete — a good day to lock the last Croatia bookings before Tuesday's flight.",
   "needsAttention": [
     {
       "tag": "Croatia · P1",
-      "title": "Book the last Croatia night in Cavtat",
-      "detail": "Open on your Mike + Dan board since Aug 23: the Sept 19 hotel and the noon marina transfer from ACI Komolac — bookable only from dry land, so it has to happen before you fly Sept 8."
+      "title": "Confirm checked bags are on the Croatia ticket",
+      "detail": "The issued ticket shows zero checked bags, Basic Economy on Eurowings Discover. Two 55L duffels won't pass as carry-on — verify baggage on the operating carrier's site and buy it online before counter rates hit."
     },
     {
       "tag": "Croatia · P1",
-      "title": "Confirm checked bags in writing",
-      "detail": "The issued ticket shows zero checked bags on both Eurowings Discover legs. Confirm the allowance on the operating carrier's site now, not at a European counter."
+      "title": "Book the Sept 19 Cavtat night and transfer",
+      "detail": "The charter ends noon Sept 19 at ACI Komolac; you need one refundable night in Cavtat plus a pre-booked marina transfer before the 7:30 AM Sunday flight. Connectivity aboard is poor, so this has to be booked from dry land before Tuesday."
     },
     {
       "tag": "Croatia · P1",
-      "title": "Lock the St. Pete landing-gap nights",
-      "detail": "You land TPA Sept 20 but the girls aren't picked up until the 22nd — the nights of Sept 20 and 21 still have no room."
+      "title": "Book the St. Pete landing-gap nights, Sept 20-22",
+      "detail": "You land TPA Sunday Sept 20 from Croatia, but the girls aren't picked up until Tuesday the 22nd — two St. Pete nights are still open before the Orlando villa starts."
     },
     {
-      "tag": "Decision · Sept 7",
-      "title": "Decide the Sept 20–Oct 5 rental car",
-      "detail": "A P2 with a Sept 7 decision point: hold a refundable full-size SUV as backup unless Mike's car is confirmed heading south."
+      "tag": "Board search",
+      "title": "Send your bio to Ellen and Deb",
+      "detail": "Your Sept 1 note to self: send your bio and email to Ellen Richstone and Deb Rosenthal at NACD New England. They're organizing the Oct 28 event you're part of, with the prep call set for Oct 8."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "New Morgan Stanley payee added",
-        "detail": "At 8:14 AM, Morgan Stanley says a payee — 'J&B Drywall' — was added to your Payments service. Verify you did that; if not, act on it today."
+        "tag": "Job search",
+        "title": "VP, State Government Affairs role posted",
+        "detail": "A LinkedIn alert flagged a remote VP of State Government Affairs opening in Maryland — worth a look for the search."
       },
       {
-        "tag": "Security",
-        "title": "New Google + OpenAI sign-ins",
-        "detail": "New sign-ins to your Google and OpenAI accounts from St. Petersburg on Sept 3 — they look like you, so dismiss if so."
+        "tag": "Job search",
+        "title": "NACD New England prep session",
+        "detail": "Larissa Ravetto scheduled the prep Zoom for the Oct 28 event on Thursday Oct 8, 1 PM ET."
+      },
+      {
+        "tag": "Financial",
+        "title": "C&C Sprayfoam estimate, $12,450",
+        "detail": "A QuickBooks estimate arrived via Intuit, marked due Dec 31 — review when you have a moment."
       },
       {
         "tag": "FYI",
-        "title": "Two caregivers applied on Care.com",
-        "detail": "Gabriella R. and Megan T. applied to the caregiver job you posted."
+        "title": "ICGN Autumn Conference, Toronto",
+        "detail": "Bookings are open for the November ICGN governance conference."
       }
     ],
-    "noise": "The rest is newsletters and promos — NYT Cooking, Responsible Investor, Italian Word of the Day, Amex, Starbucks, and the usual retail.",
-    "clear": "No recruiter or board mail today, and nothing awaiting your reply."
+    "noise": "The rest is retail and newsletter promos — Slightly Foxed, Sailing Virgins, MOO, OXO, The Key.",
+    "clear": "The sailing-course intros and the St. Pete Airbnb are settled — nothing owed there."
   },
   "resolved": [
-    "Conor Kehoe's office cancelled today's 10 AM EDT Zoom on PRI sustainability and stewardship — the calendar reads clear as a result."
+    {
+      "tag": "Sailing",
+      "title": "Croatia course intros wrapped up",
+      "detail": "You sent your intro Aug 31; instructor Paul and the crew all replied — the thread's complete."
+    }
   ],
   "context": {
     "kids": true,
@@ -64,41 +73,53 @@
   },
   "tasks": [
     {
-      "title": "Build the travel larder bin",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Aug 31",
+      "title": "Book refundable backup car, Sept 20-Oct 5 (TPA)",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters and a power strip",
-      "project": "Mike + Dan — Board",
+      "title": "Buy EU plug adapters + US power strip before Sept 8",
+      "project": "Travel",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Build the travel larder bin",
+      "project": "Household",
+      "due": "Overdue Aug 31",
+      "overdue": true
+    },
+    {
+      "title": "Orlando + Disney tickets, Sept 26-27 (Mike)",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist for wart removal (Mike)",
+      "project": "Health",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — a rare, fully open stretch to spend on what's been waiting."
+      "line": "Nothing on the calendar to answer to this morning."
     },
     {
       "time": "Afternoon",
-      "line": "The day stays clear straight through; no meeting bookends it."
+      "line": "A wide, unscheduled middle — the kind of open block that's been rare lately."
     },
     {
       "time": "Evening",
-      "line": "The girls are home with you in St. Pete — an easy evening in."
+      "line": "Girls with you in St. Pete, and four days until the flight; an easy home night."
     }
   ],
   "japanese": {
