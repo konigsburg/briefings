@@ -1,52 +1,20 @@
 {
   "date": "Friday, September 4, 2026",
-  "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "An open day, four out from Croatia.",
-  "greeting": "Nothing's on the calendar today, Dan, and the girls are with you in St. Pete, so the day is yours to spend. The pull is the September 8 departure: a few trip loops are still open while you've got dry-land wifi to close them.",
-  "needsAttention": [
-    {
-      "tag": "Reply owed",
-      "title": "Mike Lubrano wants that call on Nomura",
-      "detail": "In your Valoris thread, Mike says you two 'still need to have a call' and wants to propose a real project for Nomura, though he doubts Chie has the budget. The next move is yours."
-    },
-    {
-      "tag": "Board bio",
-      "title": "Send your bio to Ellen and Deb",
-      "detail": "Your Sept 1 note to yourself is still open: Ellen Richstone and Deb Rosenthal need your email and bio for the NACD New England Oct 28 panel. Worth clearing before you fly."
-    },
-    {
-      "tag": "Trip p1",
-      "title": "Book the Cavtat night and the St Pete landing gap",
-      "detail": "Two p1 lodging tasks on the board are overdue: the Sept 19 night in Cavtat after the charter, and the Sept 20-22 gap in St Pete before the kids' pickup. Both have to be booked from shore."
-    },
-    {
-      "tag": "Trip p1",
-      "title": "Confirm bags are on the Croatia ticket",
-      "detail": "The issued Basic Economy fare shows zero checked bags. The board task (overdue Aug 25) is to verify the allowance on Eurowings Discover's own site and buy bags online before airport rates hit."
-    }
-  ],
+  "generatedAt": "Morning brief · 2:05 PM ET",
+  "theme": "A wide-open Friday before the long weekend.",
+  "greeting": "The calendar is clear straight through, Dan, with nothing scheduled today or tomorrow. The girls are with you and Mike in St. Pete for the holiday weekend.",
+  "needsAttention": [],
   "schedule": [],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "Job search",
-        "title": "VP, State Government Affairs (remote)",
-        "detail": "A Ladders/LinkedIn alert for a remote VP of State Government Affairs role in Maryland came in this morning."
-      },
-      {
-        "tag": "Financial",
-        "title": "C&C Sprayfoam estimate to review",
-        "detail": "A QuickBooks estimate from C&C Sprayfoam is sitting in your inbox, marked due end of December -- worth a look, not a rush."
-      }
-    ],
-    "noise": "Newsletters and promos -- NYT Cooking, Responsible Investor, BoatUS, Slightly Foxed -- plus Airbnb trip confirmations.",
-    "clear": "Nothing else is waiting on a reply from you today."
+    "flagged": [],
+    "noise": "The inbox is all newsletters and holiday-weekend sale mail today, nothing asking for you.",
+    "clear": "No replies owed."
   },
   "resolved": [
     {
-      "tag": "Parked",
-      "title": "PRI stewardship call held till you're back",
-      "detail": "You told Kate Ehoe's office it isn't urgent; she replied to pick the diary back up when you return from the trip."
+      "tag": "Scheduling",
+      "title": "UN PRI call with Conor Kehoe parked until you're back",
+      "detail": "You replied that it isn't urgent and you're heading off on a trip; Kate confirmed she'll revisit the diary when you return."
     }
   ],
   "context": {
@@ -61,32 +29,7 @@
     "book": "Canal House Cooks Every Day",
     "why": "Early autumn brings the first winter squash to the market, sweet and dense enough to caramelize under high heat."
   },
-  "tasks": [
-    {
-      "title": "Book refundable backup car, Sept 20-Oct 5",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Build and pack the travel larder bin",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 31",
-      "overdue": true
-    },
-    {
-      "title": "Buy EU plug adapters + a US power strip",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 27",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
-      "overdue": true
-    }
-  ],
+  "tasks": [],
   "routines": {
     "morning": "0/10",
     "day": "0/6",
@@ -95,15 +38,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the books and the girls are with you, so the morning belongs to the house."
+      "line": "Nothing was on the books, an easy lead-in to the long weekend."
     },
     {
       "time": "Afternoon",
-      "line": "An open runway to close the p1 trip bookings while there's still dry-land wifi to do it."
+      "line": "The afternoon is yours; the St. Pete rental is home base through Tuesday."
     },
     {
       "time": "Evening",
-      "line": "Nothing scheduled in St. Pete; the Croatia flight is four days out."
+      "line": "A quiet night in with the girls, no evening commitments to work around."
     }
   ],
   "japanese": {
