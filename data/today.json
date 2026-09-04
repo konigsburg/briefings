@@ -1,20 +1,42 @@
 {
   "date": "Friday, September 4, 2026",
-  "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "A wide-open Friday before the long weekend.",
-  "greeting": "The calendar is clear straight through, Dan, with nothing scheduled today or tomorrow. The girls are with you and Mike in St. Pete for the holiday weekend.",
-  "needsAttention": [],
+  "generatedAt": "Morning brief · 4:07 PM ET",
+  "theme": "One clear day before the week tightens.",
+  "greeting": "Good afternoon, Dan. The calendar is open end to end, which almost never happens four days out from Croatia. Marc has looped back on the Nomura idea and the reply is yours now, and the pre-trip bookings are the one thing with a real clock on them.",
+  "needsAttention": [
+    {
+      "tag": "Reply owed",
+      "title": "Marc is back on the Nomura project",
+      "detail": "In the Valoris thread, Marc Lubrano circled back this afternoon after your note wanting a call on the books, and floats proposing \"a real project for Nomura\" while doubting Chie has the budget. The next move is yours."
+    },
+    {
+      "tag": "Books before boat",
+      "title": "Lock the Sept 19 Cavtat night before you fly",
+      "detail": "The last Dubrovnik-side night and its noon marina transfer have to be booked from land before the Sept 8 departure, since charter connectivity won't let you do it aboard. It has been an open P1 since late August."
+    },
+    {
+      "tag": "Overdue P1",
+      "title": "Confirm the Croatia bags are actually ticketed",
+      "detail": "The issued Basic Economy fare shows zero checked bags. Verify the allowance on Eurowings Discover's own site and buy online before counter rates, because two 55L duffels won't pass as carry-on."
+    }
+  ],
   "schedule": [],
   "inbox": {
-    "flagged": [],
-    "noise": "The inbox is all newsletters and holiday-weekend sale mail today, nothing asking for you.",
-    "clear": "No replies owed."
+    "flagged": [
+      {
+        "tag": "FYI",
+        "title": "A sitter applied on Care.com",
+        "detail": "Carly M. applied to the job you posted, worth a glance when you line up help around the trip."
+      }
+    ],
+    "noise": "Everything else is Labor Day promos, industry newsletters, and campaign mail.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Scheduling",
-      "title": "UN PRI call with Conor Kehoe parked until you're back",
-      "detail": "You replied that it isn't urgent and you're heading off on a trip; Kate confirmed she'll revisit the diary when you return."
+      "tag": "Meeting off",
+      "title": "Kehoe PRI call was canceled",
+      "detail": "Conor Kehoe's office canceled today's 10 AM EDT Zoom on PRI sustainability and stewardship, so it is off your plate with nothing to reschedule unless you want to."
     }
   ],
   "context": {
@@ -29,24 +51,55 @@
     "book": "Canal House Cooks Every Day",
     "why": "Early autumn brings the first winter squash to the market, sweet and ready for a hot oven."
   },
-  "tasks": [],
+  "tasks": [
+    {
+      "title": "Book the St Pete landing-gap nights (Sept 20-21)",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Book a refundable backup SUV, Sept 20 to Oct 5",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Build and pack the travel larder bin",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 31",
+      "overdue": true
+    },
+    {
+      "title": "Buy EU plug adapters and a US power strip",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 27",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
+      "overdue": true
+    }
+  ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
+    "morning": "7/10",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing was on the books, an easy lead-in to the long weekend."
+      "line": "The calendar is empty end to end, a genuinely open day and a rare one this close to a departure."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon is yours; the St. Pete rental is home base through Tuesday."
+      "line": "Nothing is booked to pull you anywhere, so the hours bend to whatever you point them at."
     },
     {
       "time": "Evening",
-      "line": "A quiet night in with the girls, no evening commitments to work around."
+      "line": "One of the last St Pete evenings with the girls home before the boat, and nothing on the books."
     }
   ],
   "japanese": {
