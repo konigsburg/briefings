@@ -1,88 +1,88 @@
 {
-  "date": "Sat, Aug 29",
-  "generatedAt": "Weekly · Aug 29",
-  "theme": "Late-summer harvest: two big building blocks — a roasted tomato sugo and a pot of brothy cannellini — that carry a full-house week (2 adults + 4 girls).",
+  "date": "Sat, Sep 5",
+  "generatedAt": "Weekly · Sep 5",
+  "theme": "Late-summer dispensa — fresh borlotti beans + tomato confit as the week's two building blocks (2 adults, technique week)",
   "components": [
     {
-      "name": "Roasted Summer Tomato Sugo",
-      "time": "~75 min, mostly hands-off",
-      "ingredients": "3 lb ripe summer tomatoes + two 28-oz cans San Marzano, 1 head garlic, 2 onions, 1 red pepper, generous olive oil, basil, salt",
-      "method": "Halve fresh tomatoes and pepper, scatter with sliced onion and smashed garlic on two sheet pans, drown in olive oil and salt, roast at 425F for 45 min until charred and collapsed. Scrape everything (juices too) into a pot with the crushed canned tomatoes, simmer 20-25 min, then hit with a stick blender for a few pulses so it stays rustic. Stir in torn basil off the heat. Makes ~8 cups — enough for three dinners with a container to freeze."
+      "name": "Fresh borlotti (cranberry) bean conserva",
+      "time": "~70 min, mostly hands-off",
+      "ingredients": "2 lb fresh borlotti/cranberry beans in pod (or 1 lb dried cannellini soaked), soffritto (onion, carrot, celery), 4 garlic cloves, Parmesan rind, 3 anchovies, sage, bay, small piece kombu, olive oil",
+      "method": "Shell the fresh beans. Sweat a fine soffritto in a generous pour of olive oil until sweet, melt in the anchovies, add garlic and sage. Add beans, Parmesan rind, bay, kombu, and water to cover by two fingers. Barely simmer 45–60 min until creamy but intact (dried cannellini ~75–90 min). Season at the end; keep them brothy — that pot liquor is a sauce. Cool in the liquid; refrigerate up to 5 days."
     },
     {
-      "name": "Brothy Cannellini Beans",
-      "time": "~90 min, mostly hands-off",
-      "ingredients": "1 lb dried cannellini (soaked overnight), 6 garlic cloves, a few sage leaves, 1 halved onion, olive oil, salt, parmesan rind if you have one",
-      "method": "Drain the soaked beans into a heavy pot, cover by two inches with fresh water, add garlic, sage, onion, parmesan rind and a long glug of olive oil. Bring to a bare simmer and cook 60-80 min until creamy but intact — salt only in the last 20 min. Let them cool in their own broth (this is your best kid-friendly bean liquid). Keep beans IN the liquid; makes ~6 cups."
+      "name": "Cherry tomato & garlic confit",
+      "time": "~60 min, mostly hands-off",
+      "ingredients": "3 pints cherry/grape tomatoes, 1 head garlic (cloves peeled), rosemary + thyme sprigs, chili flakes, 2–3 cups olive oil, flaky salt",
+      "method": "Nestle tomatoes and whole garlic cloves in a small baking dish with herbs and chili, cover completely with olive oil. Confit at 300°F for ~50 min until the tomatoes slump and burst and the garlic is jammy. Cool in the oil. You now have sweet tomatoes, soft garlic, and a spectacular infused oil — all three get used all week. Keeps 1 week submerged."
     }
   ],
   "dinners": [
     {
-      "name": "Rigatoni al Forno",
-      "time": "35 min",
-      "ingredients": "1.5 lb rigatoni, 4 cups sugo, 12 oz fresh mozzarella, parmesan, basil",
-      "steps": [
-        "Boil rigatoni 2 min shy of al dente, drain.",
-        "Toss pasta with 4 cups sugo and half the torn mozzarella in a big baking dish.",
-        "Top with the rest of the mozzarella and a heavy shower of parmesan.",
-        "Bake at 425F for 18-20 min until bubbling and browned; rest 5 min before serving. The crowd-pleaser for the girls."
-      ]
-    },
-    {
-      "name": "Pan-Seared Cod over Beans & Greens",
-      "time": "25 min",
-      "ingredients": "4-6 cod or hake fillets, 3 cups cannellini + broth, 1 bunch escarole or spinach, garlic, lemon, olive oil",
-      "steps": [
-        "Warm beans with a ladle of their broth and a splash of olive oil; wilt in chopped greens and a smashed garlic clove.",
-        "Pat cod dry, salt well, sear in a hot olive-oiled pan 3-4 min per side until golden.",
-        "Spoon beans and greens into bowls, set cod on top, finish with lemon and raw olive oil.",
-        "For the girls: serve their cod plain with beans on the side, greens optional."
-      ]
-    },
-    {
-      "name": "Skillet Spaghetti al Pomodoro",
+      "name": "Spaghetti al pomodoro confit",
       "time": "20 min",
-      "ingredients": "1.25 lb spaghetti, 3 cups sugo, butter, parmesan, basil, reserved pasta water",
+      "ingredients": "Spaghetti, tomato confit + its oil, confit garlic, basil, Parmesan",
       "steps": [
-        "Boil spaghetti in well-salted water; pull it a minute early and save a mug of pasta water.",
-        "Warm sugo in a wide skillet, drop the pasta straight in with a splash of pasta water.",
-        "Toss hard over the heat with a knob of butter and a fistful of parmesan until the sauce turns glossy and clings — that's the mantecatura.",
-        "Finish with basil and olive oil; the kids get theirs first, less garlicky."
+        "Boil spaghetti in well-salted water; reserve a mug of pasta water.",
+        "Warm a big spoonful of confit tomatoes, smashed confit garlic, and a few tbsp of the tomato oil in a wide pan.",
+        "Drag in the drained pasta with a splash of pasta water; toss hard to emulsify into a glossy sauce.",
+        "Off heat, add torn basil and grated Parmesan; finish with more tomato oil."
       ]
     },
     {
-      "name": "White Bean & Tomato Minestra",
+      "name": "Olive-oil-poached cod over brothy borlotti",
       "time": "30 min",
-      "ingredients": "2 cups sugo, 2 cups beans + broth, small pasta or ditalini, 1 zucchini, carrot, parmesan rind, olive oil",
+      "ingredients": "2 cod or halibut fillets, tomato confit oil, borlotti beans + their broth, lemon, parsley",
       "steps": [
-        "Sweat diced carrot and zucchini in olive oil until soft.",
-        "Add sugo, beans with their broth, a parmesan rind and enough water for a brothy soup; simmer 15 min.",
-        "Stir in a handful of small pasta and cook until tender.",
-        "Ladle out, top with parmesan and raw olive oil — mild and cozy for a full table."
+        "Warm the beans in their broth with a ladle of confit tomatoes; keep at a bare simmer.",
+        "Submerge cod fillets in warm confit oil (about 130–140°F) in a small pan; poach gently 10–12 min until just flaking.",
+        "Spoon brothy beans into bowls; lift the fish on top.",
+        "Finish with lemon, parsley, flaky salt, and a spoon of the poaching oil."
+      ]
+    },
+    {
+      "name": "Clams with borlotti in tomato-confit brodo",
+      "time": "30 min",
+      "ingredients": "1.5 lb littleneck clams, borlotti beans + broth, tomato confit, white wine, confit garlic, crusty bread",
+      "steps": [
+        "Sizzle smashed confit garlic and confit tomatoes in a little tomato oil in a deep pan.",
+        "Add a splash of white wine and the bean broth; bring to a simmer.",
+        "Add clams, cover, and steam 4–6 min until they open (discard any that don't).",
+        "Stir in the beans to warm through; serve in bowls with grilled bread rubbed in confit oil."
+      ]
+    },
+    {
+      "name": "Chard & borlotti with a fried egg",
+      "time": "20 min",
+      "ingredients": "2 bunches Swiss chard, borlotti beans + broth, confit garlic, eggs, Parmesan, chili flakes",
+      "steps": [
+        "Wilt chopped chard in confit oil with smashed confit garlic and chili flakes.",
+        "Add the beans with a little broth; simmer until saucy and glossy.",
+        "Fry eggs in confit oil until edges are crisp, yolks runny.",
+        "Plate the beans and greens, set an egg on each, shower with Parmesan and a drizzle of oil."
       ]
     }
   ],
   "technique": {
-    "name": "Mantecatura (finishing pasta in the pan)",
-    "tiedTo": "Skillet Spaghetti al Pomodoro — pull the pasta early, marry it to the sugo with pasta water, butter and parmesan, and toss vigorously off-heat so the starch emulsifies the sauce into a glossy coat instead of a puddle. This is the move that separates restaurant pasta from home pasta."
+    "name": "Olive-oil confit / low-temperature oil poaching",
+    "tiedTo": "The cherry tomato & garlic confit, then carried into the poached-cod dinner. The skill is holding the oil low and steady (300°F in the oven for the tomatoes; ~130–140°F on the stove for the fish) so ingredients cook through gently without frying — silky texture and a reusable infused oil as the payoff."
   },
   "shopping": [
     {
       "section": "Produce",
-      "items": "3 lb ripe summer tomatoes, 1 red pepper, 3 onions, 2 heads garlic, 1 bunch escarole or spinach, 1 zucchini, 1 carrot, fresh basil, sage, lemons"
+      "items": "2 lb fresh borlotti/cranberry beans in pod, 3 pints cherry/grape tomatoes, 2 bunches Swiss chard, 2 heads garlic, 1 onion, 1 carrot, 1 celery stalk, basil, parsley, lemons, rosemary, thyme, sage"
     },
     {
       "section": "Seafood",
-      "items": "4-6 cod or hake fillets (about 2 lb for the full house)"
+      "items": "2 cod or halibut fillets (~3/4 lb), 1.5 lb littleneck clams"
     },
     {
       "section": "Dairy",
-      "items": "12 oz fresh mozzarella, wedge of parmesan (plus a rind if available), butter"
+      "items": "Eggs, Parmesan wedge (with rind)"
     },
     {
       "section": "Pantry",
-      "items": "1 lb dried cannellini, two 28-oz cans San Marzano tomatoes, 1.5 lb rigatoni, 1.25 lb spaghetti, small pasta/ditalini, good olive oil, salt"
+      "items": "Spaghetti, anchovies, kombu, chili flakes, bay leaves, crusty bread, dry white wine, large bottle good olive oil (you'll go through 3–4 cups this week)"
     }
   ],
-  "scaleNote": "This is a FULL-HOUSE week (2 adults + 4 girls under 10, 6 at the table). Quantities above already serve 6 — keep the sugo and bean batches as written since both dinners lean on them heavily. For the girls: serve the rigatoni and the mild minestra as-is, plate their cod plain with beans on the side, and give them the skillet pasta before you add extra garlic or chili. If it's ever just you and Mike, halve the fresh pasta and fish but still make the full component batches — you'll want the leftover sugo and beans for lunches and the freezer."
+  "scaleNote": "This is a 2-adult week (girls with Jen Sep 8–21), so quantities above serve Dan + Mike. For a full-house week (6, four girls under 10): double both components — 4 lb beans, 6 pints tomatoes, ~5–6 cups oil. Lean on the kid-friendly dishes: double the spaghetti al pomodoro (kids love the sweet confit tomatoes), and turn the chard-and-egg into a bigger skillet with eggs cooked to each kid's liking. For the fish night, poach a larger cod fillet and flake it into the beans so it's forkable and mild; serve clams mainly for the adults with plenty of bread for dunking."
 }
