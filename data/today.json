@@ -1,57 +1,72 @@
 {
   "date": "Saturday, September 5, 2026",
-  "generatedAt": "Morning brief · 10:02 AM ET",
-  "theme": "An open Saturday, three days out from Croatia.",
-  "greeting": "Nothing's on the calendar today, Dan, and the girls are with you in St. Pete. It's the day the Halloween call comes due and the last Croatia bookings can finally close before the trip swallows the week.",
+  "generatedAt": "Morning brief · 10:04 AM ET",
+  "theme": "The last open Saturday before Croatia.",
+  "greeting": "Good morning, Dan. Nothing's on the calendar today, so it's the last clear Saturday before you sail — with the Halloween call due and a short stack of trip bookings still open.",
   "needsAttention": [
     {
       "tag": "Due today",
       "title": "Halloween: St Pete or Maine",
-      "detail": "The decision is due today and it's a blocker — the Oct 18–Nov 1 St Pete rental and car both cover Halloween, and that booking fires while you're at sea in Croatia."
+      "detail": "The call is due today. The Oct 18-Nov 1 St Pete house and car both cover Halloween, and that booking fires while you're in Croatia -- so it can't wait for the boat."
     },
     {
-      "tag": "Before Croatia",
-      "title": "Close the open lodging gaps",
-      "detail": "Still open: the Sept 19 night in Cavtat after the charter, and the Sept 20–22 St Pete nights before the kids' pickup. Both have to be booked from land before you sail Sept 8."
+      "tag": "Tomorrow 9 AM",
+      "title": "Sunday review with Mike",
+      "detail": "Fifteen minutes at 9 to work the board -- clear the inbox, put an owner and date on everything, chase what you're waiting on. You haven't accepted the invite yet."
     },
     {
-      "tag": "Before Croatia",
-      "title": "Confirm checked bags on the ticket",
-      "detail": "The issued ticket shows 0 checked bags, and two 55L duffels won't pass as carry-on. Verify on Eurowings Discover with the record locator and buy bags online before counter rates."
+      "tag": "Before Sept 8",
+      "title": "Croatia bags, in writing",
+      "detail": "The issued ticket shows 0 checked bags on Eurowings Discover, and two 55L duffels won't pass as carry-on. Confirm the allowance on the operating carrier's site and buy bags now -- counter fees run far higher."
+    },
+    {
+      "tag": "Before Sept 8",
+      "title": "Last Croatia nights unbooked",
+      "detail": "The Cavtat hotel for Sept 19 and the St Pete landing gap of Sept 20-22 are both still open. Connectivity aboard is poor, so lock them from dry land before you leave."
     },
     {
       "tag": "Due today",
-      "title": "Lock sailing boarding + transfer",
-      "detail": "Nautilus wants the Sept 12 boarding details and the Sept 19 airport transfer settled before the course week — it's on the board for today."
+      "title": "Confirm boarding with Paul",
+      "detail": "Reach the Nautilus instructor to pin Saturday's boarding time and, more importantly, the return transfer to the airport -- easier to arrange now than once underway."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "Care.com password reset",
-        "detail": "A reset email landed yesterday — worth a glance to confirm you started it, not someone else."
-      },
-      {
-        "tag": "FYI",
-        "title": "Nomura project — Lubrano wants a call",
-        "detail": "He thinks a real Nomura project is worth proposing but doubts Chie's budget, and is waiting to schedule with you."
+        "tag": "Job search",
+        "title": "SVP, Government Affairs -- True Anomaly",
+        "detail": "A LinkedIn alert surfaced a senior government-affairs role posted Sept 4, squarely in your lane."
       },
       {
         "tag": "Financial",
-        "title": "C&C Sprayfoam estimate — $12,450",
-        "detail": "A QuickBooks estimate for the Maine insulation, due Dec 31; sitting in the inbox to review, no rush."
+        "title": "Sprayfoam estimate -- $12,450",
+        "detail": "C&C Sprayfoam sent a QuickBooks estimate for the Maine house, marked due end of year."
+      },
+      {
+        "tag": "Financial",
+        "title": "AMEX balance alert",
+        "detail": "myFICO flags your reported AMEX balance ticked up. A glance item, no action implied."
+      },
+      {
+        "tag": "FYI",
+        "title": "Nomura call still pending",
+        "detail": "Mike Lubrano at Valoris wants to set a call and floats a real Nomura project, though he doubts the budget. Awaiting your reply."
       }
     ],
-    "noise": "The rest is newsletters and Labor Day promos — FT, NYT Cooking, Responsible Investor, boat insurance.",
-    "clear": ""
+    "noise": "The rest is newsletters and booking chatter -- Bloomberg, Slightly Foxed, the Airbnb host thread.",
+    "clear": "Nothing else is sitting on your reply this morning."
   },
   "resolved": [
     {
-      "tag": "Closed",
-      "title": "UN PRI call pushed past your trip",
-      "detail": "You asked to reschedule the Conor Kehoe conversation; Kate confirmed and said to reconnect when you're back."
+      "tag": "Parked",
+      "title": "PRI call with Conor Kehoe",
+      "detail": "You asked to push it past your trip and Kate agreed to reopen the diary when you're back. Nothing owed now."
+    },
+    {
+      "tag": "Confirmed",
+      "title": "St Pete house checked in",
+      "detail": "The Sep 3-8 Airbnb host confirmed access and you're in -- that thread is closed."
     }
   ],
   "context": {
@@ -68,44 +83,47 @@
   },
   "tasks": [
     {
-      "title": "Book the refundable backup car, Sept 20–Oct 5",
-      "project": "Mike + Dan — Board",
+      "title": "Book Sept 20-Oct 5 rental as a refundable backup",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Build and pack the travel larder bin",
-      "project": "Mike + Dan — Board",
+      "title": "Build the travel larder bin",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Aug 31",
       "overdue": true
     },
     {
       "title": "Buy EU plug adapters + a US power strip",
-      "project": "Mike + Dan — Board",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Aug 27",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/4",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear, unbooked start — room to close the decision that's been circling for weeks.",
-      "tag": "open"
+      "line": "No meetings on the calendar -- the clearest stretch of the week to close the open trip bookings."
     },
     {
       "time": "Afternoon",
-      "line": "The girls are with you in St. Pete through tomorrow's handoff; the day bends around them.",
-      "tag": "kids"
+      "line": "The Halloween decision is due today, and the October booking is waiting on it."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens at 9 with the 15-minute Sunday review, so a look at the board tonight pays off.",
-      "tag": "prep"
+      "line": "The girls are in St Pete with you tonight, and Mike's 15-minute review lands at 9 tomorrow."
     }
   ],
   "japanese": {
