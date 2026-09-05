@@ -1,72 +1,54 @@
 {
   "date": "Friday, September 4, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "An open day, with Croatia four days out.",
-  "greeting": "A wide-open Friday, Dan — nothing on the calendar to steer around. The real pressure is the Croatia trip: a handful of P1 bookings that have to be locked from dry land before you fly on the 8th.",
+  "theme": "An open day, four days out from Croatia.",
+  "greeting": "A wide-open Friday in St. Pete, the girls home with you and Mike. Nothing is on the calendar anywhere — which is exactly the room the pre-Croatia list has been waiting for, before you lose signal aboard next week.",
   "needsAttention": [
     {
-      "tag": "Croatia · P1",
-      "title": "Confirm the Croatia bags in writing",
-      "detail": "Your issued ticket shows 0 checked bags on Eurowings Discover. Verify the allowance on the operating carrier's own site and pre-buy if it isn't there — airport fees run far higher. Close it before Sept 8."
+      "tag": "Sept 7 decision",
+      "title": "Refundable SUV as backup",
+      "detail": "The Sept 20–Oct 5 rental hedge reaches its decision point Monday: book a refundable Full-Size SUV at TPA unless Mike's car is confirmed en route to Florida. Mike + Dan Board, overdue Aug 28."
     },
     {
-      "tag": "Croatia · P1",
-      "title": "Book the Sept 19 Cavtat night + transfer",
-      "detail": "The last night after the charter. Book a refundable Cavtat room and the noon Komolac-to-Cavtat transfer now, while you still have connectivity ashore."
+      "tag": "Before Sept 8",
+      "title": "Confirm bags on the Croatia ticket",
+      "detail": "The issued ticket shows zero checked bags. Verify the allowance on Eurowings Discover's own site with the record locator and buy bags online before Monday's departure — counter fees run far higher. Overdue Aug 25."
     },
     {
-      "tag": "Croatia · P1",
-      "title": "Cover the Sept 20-22 St Pete gap",
-      "detail": "You land TPA Sun the 20th; the girls aren't picked up until Tue the 22nd. Book two St Pete nights — and confirm the Sept 27-Oct 5 Airbnb flipped from pending to confirmed."
+      "tag": "Before Sept 8",
+      "title": "Book the last Cavtat night",
+      "detail": "The Sat Sept 19 Cavtat hotel and the noon marina transfer from ACI Komolac have to be locked from dry land before you board Monday, when connectivity drops. Overdue Aug 26."
     },
     {
-      "tag": "Decision · P2",
-      "title": "Sept 20 car — refundable backup",
-      "detail": "Hold a refundable Full-Size SUV (TPA, Sept 20-Oct 5) unless Mike's car is confirmed en route. The decision point is Sept 7 — the day before you fly."
+      "tag": "Before Sept 8",
+      "title": "St Pete landing gap, Sept 20–22",
+      "detail": "Two nights in St Pete between the Croatia landing and Tuesday's 3 PM kid pickup are still unbooked. Overdue Aug 25."
     }
   ],
-  "schedule": [
-    {
-      "time": "All day",
-      "title": "St. Pete Ranch stay",
-      "detail": "Airbnb through Sept 8",
-      "tag": "Home"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "New OpenAI sign-in",
-        "detail": "A ChatGPT web sign-in from St. Petersburg on Sept 3 — likely you, worth a glance."
-      },
-      {
         "tag": "Financial",
-        "title": "Experian statement posted",
-        "detail": "Your monthly Experian account statement is available."
+        "title": "Experian monthly statement",
+        "detail": "Your September credit statement is available — routine, worth a glance."
       },
       {
-        "tag": "FYI",
-        "title": "Apple subscription expiring",
-        "detail": "Apple Creator Studio monthly is set to expire soon — renew or drop it."
+        "tag": "Security",
+        "title": "care.com password reset",
+        "detail": "A password-reset email arrived from care.com; open it only if you requested it."
       }
     ],
-    "noise": "The rest is newsletters, retail, and Labor Day sales.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "Everything else is newsletters and promos — Press Herald, HBO Max, Airbnb, MINI, and political fundraising.",
+    "clear": "Nothing is waiting on your reply."
   },
-  "resolved": [
-    {
-      "tag": "Networking",
-      "title": "PRI call pushed to after the trip",
-      "detail": "Kate confirmed you'll pick the UN PRI stewardship conversation back up once you're back — nothing owed now."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Friday Sep 4"
+    "asOf": "Fri Sep 4"
   },
   "recipe": {
     "title": "Roasted kabocha squash",
@@ -75,21 +57,39 @@
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Work",
-      "due": "Overdue Aug 15",
+      "title": "Book Orlando + Disney tickets (6 people)",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
       "title": "Build the travel larder bin",
-      "project": "Travel",
+      "project": "Mike + Dan Board",
       "due": "Overdue Aug 31",
       "overdue": true
     },
     {
       "title": "Buy EU plug adapters + a US power strip",
-      "project": "Travel",
+      "project": "Mike + Dan Board",
       "due": "Overdue Aug 27",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist to book removal",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Book haircut before Croatia",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sept 3",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -101,15 +101,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar — the morning is entirely yours."
+      "line": "The calendar is empty from the first coffee — no meetings, no calls."
     },
     {
       "time": "Afternoon",
-      "line": "Still nothing scheduled; the Croatia bookings are the work that's actually waiting."
+      "line": "Still nothing on the books; a rare uninterrupted stretch to spend as you choose."
     },
     {
       "time": "Evening",
-      "line": "Home in St. Pete with the girls, four days out from the Sept 8 flight."
+      "line": "A quiet night in St. Pete with the four girls at home."
     }
   ],
   "japanese": {
