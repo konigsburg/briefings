@@ -1,47 +1,47 @@
 {
   "date": "Saturday, September 5, 2026",
   "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "A wide-open day with a departure on the horizon.",
-  "greeting": "No meetings on the calendar today, Dan — a rare open stretch. But Croatia is three days out and one decision has a clock on it, so the quiet is the calendar's, not the to-do list's.",
+  "theme": "An open Saturday in St. Pete — one call due, Croatia three days out.",
+  "greeting": "The calendar is clear today and the girls are with you in St. Pete. But one decision comes due before you fly Tuesday, and the Croatia checklist still has open p1s on it.",
   "needsAttention": [
     {
-      "tag": "Decide today",
+      "tag": "Due today",
       "title": "Halloween: St. Pete or Maine",
-      "detail": "Your board set today as the call, and it is a real fork: the Oct 18-Nov 1 St. Pete rental and car both already cover Halloween, so choosing Maine unwinds bookings and puts a deadline on the Portland house. You are offline on the boat Sept 8-20, so it cannot wait for the trip to be over."
-    },
-    {
-      "tag": "Before Croatia",
-      "title": "Close the last Croatia bookings",
-      "detail": "You fly Tuesday and lose signal on the charter, so anything left has to be booked from dry land now. Still open and marked P1: the Sept 19 Cavtat night plus the noon Komolac transfer, and the Sept 20-22 St. Pete landing gap before the girls' Tuesday pickup."
-    },
-    {
-      "tag": "Before Croatia",
-      "title": "Confirm checked bags are on the ticket",
-      "detail": "The issued ticket shows 0 checked bags, and two 55L duffels will not fly as carry-on on Eurowings Discover. Pull it up on the operating carrier's site and buy the bags online if needed — far cheaper than the airport counter."
+      "detail": "This call is due today and gates the Oct 18–Nov 1 Airbnb and car rental — both book while you're in Croatia. It's a decision better made from dry land than from the boat, so settle it before Tuesday."
     },
     {
       "tag": "Due today",
-      "title": "Lock the Nautilus boarding details",
-      "detail": "Reach the instructor to confirm the Sept 12 boarding time and place and to arrange the Sept 19 return transfer to the airport — the packet asks you to sort the transfer early, before bandwidth drops underway."
+      "title": "Confirm the Nautilus boarding",
+      "detail": "Reach the sailing instructor to lock the Sat Sept 12 boarding time and the Sept 19 return transfer. Charter connectivity is poor once aboard, so it has to be arranged from shore this week."
+    },
+    {
+      "tag": "Croatia prep",
+      "title": "Open trip bookings before Sept 8",
+      "detail": "Several p1 items are still past due against the hard Sept 8 departure: the one Cavtat night of Sept 19, the Sept 20–22 St. Pete landing gap, and written confirmation that checked bags are on the Eurowings ticket."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Valoris wants to set the Nomura call",
-        "detail": "Mike Lubrano at Valoris wrote Friday that you two still need to talk and floated a real project for Nomura, though he doubts Chie has the budget — the call is yours to schedule."
+        "tag": "Security",
+        "title": "Amex added to Apple Pay",
+        "detail": "American Express confirmed a card was added to Apple Pay — worth a glance to be sure it was you."
+      },
+      {
+        "tag": "FYI",
+        "title": "A caregiver applied on Care.com",
+        "detail": "Carly M. applied to your posting and sent a message through Care.com."
       }
     ],
-    "noise": "The rest is newsletters, a Dex keep-in-touch digest, and the St. Pete Airbnb host — nothing that needs you.",
-    "clear": "The UN PRI call with Conor's office is parked until you're back; Kate confirmed no rush."
+    "noise": "The rest is newsletters and Labor Day promos — FT, Bloomberg, NYT Cooking, Kayak, market roundups.",
+    "clear": ""
   },
   "resolved": [
     {
       "tag": "Parked",
-      "title": "UN PRI call deferred to post-trip",
-      "detail": "You asked Conor Kehoe's office to reschedule the sustainability and stewardship call after your trip; Kate confirmed no rush and to reconnect when you're back."
+      "title": "UN PRI call with Conor is on hold",
+      "detail": "Kate replied to close the loop — nothing owed now; she'll re-open the diary when you're back from the trip."
     }
   ],
   "context": {
@@ -58,27 +58,21 @@
   },
   "tasks": [
     {
-      "title": "Book the refundable backup car, Sept 20-Oct 5 (TPA)",
-      "project": "Florida Logistics",
-      "due": "Decision point Sept 7",
+      "title": "Book refundable Sept 20–Oct 5 rental car as a hedge",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
       "title": "Build and pack the travel larder bin",
-      "project": "Household",
+      "project": "Travel",
       "due": "Overdue Aug 31",
       "overdue": true
     },
     {
       "title": "Buy EU plug adapters + a US power strip",
       "project": "Travel",
-      "due": "Before Sept 8",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Projects",
-      "due": "Overdue Aug 15",
+      "due": "Overdue Aug 27",
       "overdue": true
     }
   ],
@@ -90,15 +84,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar today — the only thing wearing a clock is the Halloween decision, due before Croatia takes it out of your hands."
+      "line": "The day opens with nothing on the calendar — a rare fully clear Saturday."
     },
     {
       "time": "Afternoon",
-      "line": "Croatia is three days out; the last open P1 bookings all have to close from dry land before Tuesday's flight."
+      "line": "A wide, unscheduled afternoon in St. Pete with the four girls, the last full weekend before you travel."
     },
     {
       "time": "Evening",
-      "line": "The girls are in residence with you and Mike in St. Pete, and Mike's Sunday review opens the day at nine tomorrow."
+      "line": "The only fixed point on the horizon is tomorrow's 9 AM Sunday review with Mike."
     }
   ],
   "japanese": {
