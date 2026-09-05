@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-05",
+    "kind": "Morning brief",
+    "label": "Saturday, Sep 5 · 7:02 AM ET",
+    "summary": "Open Saturday in St. Pete with the girls; Halloween decision due and the last Croatia bookings still open before Sept 8.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-04",
     "kind": "Morning brief",
     "label": "Friday, Sep 4 · 10:02 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Inbox summary",
     "label": "Tuesday, Aug 11 · 10 PM ET",
     "summary": "Only job-search email is a likely phishing recruiter (jobs@sourcehire.app) pressing for visa/work-authorization details — verify before replying; otherwise a Talkiatry visit confirmed for Aug 18, a routine Amex income prompt, a Disney+ receipt, and a failed briefings build.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-08-11",
-    "kind": "Morning brief",
-    "label": "Tuesday, Aug 11 · 9:07 PM ET",
-    "summary": "A light day in Westhampton — lunch at Flora, the girls with Jen, and one job-search reply waiting.",
     "ref": "today"
   }
 ]
