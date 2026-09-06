@@ -1,64 +1,72 @@
 {
   "date": "Sunday, September 6, 2026",
   "generatedAt": "Morning brief · 7:02 AM ET",
-  "theme": "An open Saturday, Croatia three days out.",
-  "greeting": "Nothing on the calendar today, Dan, with the girls in residence and the St. Pete stay holding through the weekend. The quiet is the opening to close the last Croatia pieces before Tuesday's flight.",
+  "theme": "Two days to Croatia — the last open Sunday to clear the board.",
+  "greeting": "Morning, Dan — an open Sunday in St. Pete with the girls, and the last clear one before you fly. The 15-minute review with Mike at nine is the natural place to knock the pre-trip board down toward zero.",
   "needsAttention": [
     {
-      "tag": "Decide today",
-      "title": "Halloween: St. Pete or Maine",
-      "detail": "The Sept 5 deadline is today. The Oct 18-Nov 1 Airbnb and car both cover Halloween, so a Maine call changes three bookings at once, and the Portland house picks up a real deadline. Deciding from Croatia means deciding badly."
+      "tag": "Decision due",
+      "title": "Halloween: St Pete or Maine",
+      "detail": "This was due yesterday and it's the real blocker — the Oct 18–Nov 1 St Pete house and car both cover Halloween, and that rotation books while you're on the boat. Settle it before you fly, not from Croatia."
     },
     {
-      "tag": "Croatia P1",
-      "title": "Confirm checked bags are on the ticket",
-      "detail": "The issued Basic Economy fare shows zero checked bags; two 55L duffels won't fly as carry-on. Verify on Eurowings Discover's own site and buy bags now before European counter rates. Overdue since Aug 25."
+      "tag": "Books by Thu",
+      "title": "The Sept 19 Cavtat night still isn't booked",
+      "detail": "Charter ends noon Saturday the 19th at ACI Komolac; you need a Cavtat room plus a pre-booked transfer before the 7:30 AM Sunday flight. Connectivity's gone once you're aboard, so this has to close before Sept 8 — not on the 19th."
     },
     {
-      "tag": "Croatia P1",
-      "title": "Book the Sept 19 Cavtat night + transfer",
-      "detail": "The charter ends noon Sept 19 at ACI Komolac; you need a refundable Cavtat room and a pre-booked marina transfer locked before Tuesday, since the boat has no connectivity. Overdue since Aug 26."
+      "tag": "Books by Thu",
+      "title": "St Pete landing gap, Sept 20–22",
+      "detail": "You land TPA Sunday the 20th but the kids aren't picked up until Tuesday the 22nd — two nights near St Pete are still open before the Orlando villa starts."
     },
     {
-      "tag": "Croatia P1",
-      "title": "Book the St. Pete landing-gap nights",
-      "detail": "You land TPA Sept 20 but the girls aren't picked up until Sept 22, leaving the nights of the 20th and 21st still without a room near St. Pete. Overdue since Aug 25."
+      "tag": "Before you fly",
+      "title": "Get the Croatia bags confirmed in writing",
+      "detail": "The issued ticket shows zero checked bags on Eurowings Discover; pull it up on the operating carrier's own site and buy the two duffels online now, before airport-counter rates Thursday."
     },
     {
-      "tag": "Due today",
-      "title": "Reach the Nautilus instructor",
-      "detail": "Confirm the Sept 12 boarding time and arrange the Sept 19 return transfer; the packet asks for this before the course week, and bandwidth drops once underway."
+      "tag": "Call today",
+      "title": "Nail down Nautilus boarding + return transfer",
+      "detail": "The instructor's contact is already in your inbox — confirm the Saturday Sept 12 boarding time and place and arrange the airport transfer for after you disembark the 19th, while you still have signal."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "title": "Sunday review with Mike",
+      "detail": "15 min on Meet — empty the board, owner and date on everything",
+      "tag": "sync"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "SVP, Government Affairs at True Anomaly",
-        "detail": "A LinkedIn alert surfaced the True Anomaly SVP, Government Affairs posting from Sept 4, close to your governance and public-affairs lane."
-      },
-      {
         "tag": "Financial",
-        "title": "Amex balance rose this cycle",
-        "detail": "myFICO flagged an increase on the Amex account and Experian's monthly statement also landed; both are informational, no action forced."
+        "title": "Amex reported balance ticked up",
+        "detail": "myFICO flagged a higher reported balance on the card — a heads-up worth a glance, not an action."
       },
       {
-        "tag": "Security",
-        "title": "care.com password reset",
-        "detail": "A reset email arrived from care.com alongside a new caregiver application, worth a glance if you didn't request it."
+        "tag": "Job search",
+        "title": "ICGN Toronto conference now open",
+        "detail": "The governance network's November conference in Toronto is taking bookings — one for the board-search calendar once the trip's behind you."
       }
     ],
-    "noise": "The rest is newsletters, travel promos, and receipts.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "The rest is newsletters and promos — Breeze, West Marine, Mattress Firm, and your Italian and Japanese dailies.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Handled",
+      "title": "UN PRI intro with Conor Kehoe — parked till you're back",
+      "detail": "You replied Thursday that it's no rush and you're traveling; Kate is holding the diary open for your return, so nothing is owed until then."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Saturday Sep 5"
+    "asOf": "Sunday Sep 6"
   },
   "recipe": {
     "title": "Kabocha squash, yukon gold potatoes & cipolline",
@@ -67,41 +75,47 @@
   },
   "tasks": [
     {
-      "title": "Book the refundable backup car, Sept 20-Oct 5",
-      "project": "Travel",
-      "due": "Overdue Aug 28",
+      "title": "Book the refundable Sept 20–Oct 5 SUV as a backup",
+      "project": "Dan & Mike · travel",
+      "due": "Decide by Sept 7",
       "overdue": true
+    },
+    {
+      "title": "Buy EU plug adapters + a US power strip",
+      "project": "Dan & Mike · travel",
+      "due": "Overdue Aug 27",
+      "overdue": true
+    },
+    {
+      "title": "Finish the Nautilus Masterclass videos (~68%)",
+      "project": "Dan & Mike · travel",
+      "due": "Due today",
+      "overdue": false
     },
     {
       "title": "Build the travel larder bin",
       "project": "Household",
       "due": "Overdue Aug 31",
       "overdue": true
-    },
-    {
-      "title": "Buy EU plug adapters + a US power strip",
-      "project": "Travel",
-      "due": "Overdue Aug 27",
-      "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/4",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is empty and the St. Pete stay runs quiet with the four girls in residence."
+      "line": "One 15-minute review with Mike at nine, then the morning is clear."
     },
     {
       "time": "Afternoon",
-      "line": "An open stretch, rare this month, with Croatia's unbooked pieces sitting as the day's gravity."
+      "line": "Nothing on the calendar — a rare open stretch two days before twelve away."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow's 9 AM Sunday review with Mike is the one fixed point ahead; the shared board gets cleared then."
+      "line": "The girls are in the house in St. Pete; kabocha squash is tonight's from-scratch supper."
     }
   ],
   "japanese": {
