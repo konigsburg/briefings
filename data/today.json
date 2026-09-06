@@ -1,33 +1,28 @@
 {
   "date": "Sunday, September 6, 2026",
   "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "The last dry-land window before Croatia.",
-  "greeting": "Two days from Tuesday's flight to Dubrovnik, with just the one short review on the calendar — the open hours are the last dry-land runway for the pre-departure bookings. The girls are with you and Mike in St. Pete.",
+  "theme": "Two days to Croatia — clear the runway.",
+  "greeting": "A quiet Sunday at the St Pete house with the girls, and the last full day before the trip swallows the week. The calendar is empty; the to-do list is not.",
   "needsAttention": [
     {
-      "tag": "Before Croatia",
-      "title": "Confirm checked bags are on the Croatia ticket",
-      "detail": "The issued ticket shows zero checked bags on Eurowings Discover. Pull it up on the operating carrier's site with the record locator, confirm the allowance there, and buy bags online before Tuesday — two 55L duffels won't pass as carry-on and counter fees run far higher."
-    },
-    {
-      "tag": "Books close Sept 8",
-      "title": "Book the Cavtat night and the marina transfer",
-      "detail": "The single night of Sept 19 after the charter and the Komolac → Cavtat transfer still aren't booked. Onboard connectivity is poor, so both have to be locked from dry land before you fly."
-    },
-    {
-      "tag": "Books close Sept 8",
-      "title": "Book the St Pete landing-gap nights",
-      "detail": "Sept 20–22 has no lodging — you land TPA from Croatia on the 20th and the kids aren't picked up until Tuesday the 22nd, so you need two nights near St Pete before the Orlando drive."
+      "tag": "Overdue · decide",
+      "title": "Halloween: St Pete or Maine",
+      "detail": "This was due yesterday and it isn't just a preference — it unlocks or cancels the Oct 18–Nov 1 St Pete Airbnb and car, both of which book while you're in Croatia. If Maine wins, flights and cold-weather gear for six all book this month. Decide before you fly, not from the boat."
     },
     {
       "tag": "Decision Sept 7",
       "title": "Settle the Sept 20–Oct 5 rental hedge",
-      "detail": "Tomorrow is the decision point: book the refundable Full Size SUV backup unless Mike's car is confirmed en route with a written delivery window. Deciding it here beats finding out jet-lagged at a Sunday airport counter."
+      "detail": "Tomorrow is your own decision point: keep the refundable Full Size SUV backup at TPA unless Mike's car has a written delivery window by then. The day before Croatia is the last clean moment to settle it."
     },
     {
-      "tag": "Overdue decision",
-      "title": "Call Halloween — St Pete or Maine",
-      "detail": "Due Sept 5 and now a day past. The Oct 18–Nov 1 St Pete Airbnb and car both cover Halloween and the rotation booking fires while you're away, so a call before Tuesday keeps three downstream items from drifting."
+      "tag": "Before Croatia",
+      "title": "Confirm checked bags are on the ticket",
+      "detail": "The issued Eurowings Discover ticket shows zero checked bags. Pull it up on the operating carrier's site with the record locator, confirm the allowance there, and buy bags online before Tuesday — two 55L duffels won't pass as carry-on and counter fees run far higher."
+    },
+    {
+      "tag": "Books close Sept 8",
+      "title": "Book the Cavtat night and the marina transfer",
+      "detail": "The Sept 19 night after the charter and the Komolac → Cavtat transfer still aren't booked, and the St Pete landing-gap nights of Sept 20–22 have no lodging either. Onboard connectivity is poor, so all of it has to be locked from dry land before you fly."
     }
   ],
   "schedule": [
@@ -46,7 +41,7 @@
         "detail": "A LinkedIn InMail this morning after a bounced email — he's checking whether you're still at KPMG and hoping to pick the thread back up. A short reply before the trip keeps the networking line warm."
       }
     ],
-    "noise": "The rest is newsletters and Labor Day sales — NYT Cooking, WSJ, Bloomberg, Foreign Affairs, and retail promos.",
+    "noise": "The rest is newsletters and promotions — a Nautilus Cannes Festival note among them.",
     "clear": ""
   },
   "resolved": [
@@ -112,7 +107,7 @@
     },
     {
       "time": "Afternoon",
-      "line": "Nothing else is on the calendar; the afternoon runs open all the way through."
+      "line": "Nothing else is on the calendar; the day is yours to close out the Croatia bookings while there's still dry land under you."
     },
     {
       "time": "Evening",
