@@ -1,38 +1,38 @@
 {
-  "date": "Sun, Aug 30",
+  "date": "Sun, Sep 6",
   "region": "NH Seacoast · zone 6a",
-  "generatedAt": "Weekly · Aug 30",
-  "headline": "Direct-sow fast fall greens now — spinach, arugula, radishes and lettuce still have time to mature before the mid-October frost.",
+  "generatedAt": "Weekly · Sep 6",
+  "headline": "Direct-sow fast fall greens now — spinach, arugula, lettuce and radishes still have time to mature before the mid-October frost.",
   "tasks": [
     {
       "tag": "Sow now",
-      "title": "Fast fall greens",
-      "detail": "Direct-sow spinach, arugula, radishes, and leaf lettuce this week. With ~6 weeks to first frost they'll mature in time, and cool nights make them sweeter. Keep the seedbed watered daily until seedlings emerge."
+      "title": "Quick fall greens",
+      "detail": "Direct-sow spinach, arugula, leaf lettuce, radishes and mustard greens this week. They mature in 25-45 days, beating the ~Oct 15 frost, and spinach can overwinter under cover for an early spring cut."
     },
     {
       "tag": "Harvest",
-      "title": "Pick summer crops at peak",
-      "detail": "Harvest tomatoes, zucchini, cucumbers, and beans every day or two. Frequent picking keeps plants setting more fruit before the season ends."
+      "title": "Pick every couple of days",
+      "detail": "Tomatoes, peppers, beans, cukes and summer squash are at peak. Frequent picking keeps plants setting new fruit right up until frost; grab peppers before nights dip near 40F."
     },
     {
-      "tag": "Pest watch",
-      "title": "Late blight & powdery mildew",
-      "detail": "Warm, humid late-summer days favor both. Remove affected leaves, water at the base rather than overhead, and thin crowded growth for better airflow."
+      "tag": "Prune",
+      "title": "Top your tomatoes",
+      "detail": "Snip the growing tips off indeterminate tomatoes so the plant ripens the fruit it already has instead of starting new ones it won't finish before frost."
     },
     {
       "tag": "Prep",
-      "title": "Order seed garlic",
-      "detail": "Buy hardneck seed garlic now while varieties are in stock. You'll plant the cloves in mid-to-late October for harvest next summer."
+      "title": "Order garlic now",
+      "detail": "Buy seed garlic this week for planting in mid-to-late October. Hardneck varieties handle NH winters best; ordering early beats the sell-outs."
+    },
+    {
+      "tag": "Pest watch",
+      "title": "Late blight & mildew",
+      "detail": "Scout tomatoes for brown, greasy blotches (late blight) and squash leaves for white powdery mildew. Remove affected leaves and trash them — do not compost."
     },
     {
       "tag": "Water",
-      "title": "Deep, consistent watering",
-      "detail": "Fruiting crops need about 1 inch of water per week. Water deeply in the morning so foliage dries fast and roots stay strong through late-summer heat."
-    },
-    {
-      "tag": "Feed",
-      "title": "Side-dress fall greens",
-      "detail": "Give newly sown greens and any leafy crops a light feeding of compost or balanced fertilizer. Ease off nitrogen on tomatoes and squash you want to ripen down."
+      "title": "Keep new seedbeds moist",
+      "detail": "Newly sown greens need steady moisture to germinate as the soil dries. Water deeply in the morning; cooler nights mean less evaporation but seedbeds still dry fast on top."
     }
   ]
 }
