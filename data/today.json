@@ -1,57 +1,57 @@
 {
   "date": "Saturday, September 5, 2026",
-  "generatedAt": "Morning brief · 8:02 PM ET",
-  "theme": "An open Saturday, with Croatia three days out.",
-  "greeting": "The calendar's clear today, Dan — an open Saturday in St. Pete with the girls. The weight is all pre-Croatia: a Halloween call due today, and a handful of P1 bookings that have to close before you fly Tuesday.",
+  "generatedAt": "Morning brief · 8:05 PM ET",
+  "theme": "An open Saturday with a pre-Croatia list underneath it.",
+  "greeting": "The calendar's clear today, Dan, and the girls are still in the house. Croatia is three days out, so a short stack of pre-departure bookings is really what this open Saturday is for.",
   "needsAttention": [
     {
       "tag": "Due today",
-      "title": "Decide Halloween: St. Pete or Maine",
-      "detail": "The decision is due today, before Croatia. The Oct 18-Nov 1 St. Pete house and car both cover Halloween and re-book while you're away, so a clear 'no' to Maine now is what saves the most work."
+      "title": "Call the Halloween trip",
+      "detail": "St Pete or Maine is meant to be decided today. The Oct 18-Nov 1 Airbnb and car both cover Halloween and rebook while you're on the water, so one call settles three bookings."
+    },
+    {
+      "tag": "Due today",
+      "title": "Reach the Nautilus instructor",
+      "detail": "Confirm the Sept 12 boarding time and place and arrange the Sept 19 return transfer. It has to be settled from shore before the charter, where there's no signal."
     },
     {
       "tag": "Before Croatia",
-      "title": "Confirm Nautilus boarding and return transfer",
-      "detail": "Due today: pin the Sept 12 boarding time and arrange the Sept 19 airport transfer while you're still on land — charter connectivity won't let you sort it once underway."
+      "title": "Get the baggage in writing",
+      "detail": "The issued ticket shows zero checked bags. Confirm the allowance on Eurowings Discover's own site and buy bags online now, before airport rates. Two 55L duffels won't pass as carry-on."
     },
     {
       "tag": "Before Croatia",
-      "title": "Get the checked-bag allowance in writing",
-      "detail": "The issued ticket shows zero checked bags. Confirm the allowance on Eurowings Discover's own site before Tuesday, or two 55L duffels get gate-checked or refused."
+      "title": "Two lodging gaps still open",
+      "detail": "Unbooked: the Sept 19 Cavtat night after the charter, and the Sept 20-21 St Pete nights before Tuesday's pickup. Both need booking from dry land before Sept 8."
     },
     {
-      "tag": "Before Croatia",
-      "title": "Book the Cavtat night and transfers",
-      "detail": "Still open for Sat Sept 19 after the charter — a Cavtat room plus the Komolac transfer and the early Sunday airport run, all bookable only from land before you fly."
-    },
-    {
-      "tag": "Before Croatia",
-      "title": "Cover the St. Pete landing gap",
-      "detail": "Two nights, Sept 20-21, between landing from Croatia and the Tuesday kid pickup, are still unbooked."
-    },
-    {
-      "tag": "Prep for tomorrow",
-      "title": "Skim the board before Mike's review",
-      "detail": "The Sunday review with Mike is at 9 AM tomorrow. Arrive having glanced at the Dan & Mike board so the 15 minutes actually clears the inbox instead of filling it."
+      "tag": "Tomorrow 9 AM",
+      "title": "Sunday review with Mike",
+      "detail": "The 15-minute board sweep at nine. A glance tonight at the Croatia P1s means they get an owner and a date tomorrow, not another week's slip."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
+        "tag": "Security",
+        "title": "A card was added to Apple Pay",
+        "detail": "American Express flagged your card ending 3003 added to Apple Pay. Worth a glance if that wasn't you."
+      },
+      {
         "tag": "FYI",
-        "title": "ICGN Toronto conference open for booking",
-        "detail": "The ICGN Autumn Conference runs in November in Toronto and registration's now open — worth a look for the governance network."
+        "title": "A sitter applied on Care.com",
+        "detail": "Carly M. applied to the job you posted, waiting for a look whenever you're back at it."
       }
     ],
-    "noise": "The rest is newsletters and promos — Nautilus, Airbnb, West Marine.",
-    "clear": ""
+    "noise": "The rest is newsletters and promotions: FT, Bloomberg, Responsible Investor, NYT Cooking, a few Labor Day sales, and the daily Todoist digest.",
+    "clear": "Nothing personal is waiting on your reply this morning."
   },
   "resolved": [
     {
-      "tag": "Parked",
-      "title": "UN PRI call parked until you're back",
-      "detail": "You replied Friday asking to push the Conor Kehoe conversation past your trip, and his office confirmed they'll revisit the diary when you return — nothing owed now."
+      "tag": "Cancelled",
+      "title": "The PRI stewardship call is off",
+      "detail": "Conor Kehoe's assistant cancelled the Zoom on PRI sustainability and stewardship, so there's nothing to prep for it."
     }
   ],
   "context": {
@@ -68,21 +68,27 @@
   },
   "tasks": [
     {
-      "title": "Book refundable backup car, or confirm Mike's is en route",
-      "project": "Travel",
-      "due": "Decision Sept 7",
+      "title": "Book the Croatia backup rental car, refundable",
+      "project": "Family Travel",
+      "due": "Overdue Aug 28 · decide by Sept 7",
       "overdue": true
     },
     {
-      "title": "Build the travel larder bin",
-      "project": "Household",
+      "title": "Build and pack the travel larder bin",
+      "project": "Family Travel",
       "due": "Overdue Aug 31",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters + a power strip",
-      "project": "Travel",
+      "title": "Buy EU plug adapters and a US power strip",
+      "project": "Family Travel",
       "due": "Overdue Aug 27",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -94,15 +100,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet Saturday start — the calendar holds only the St. Pete stay."
+      "line": "The calendar is clear, a rare open Saturday with all four girls still in the house."
     },
     {
       "time": "Afternoon",
-      "line": "Wide open through the middle of the day, three days out from the boat."
+      "line": "Nothing scheduled, so the day bends to whatever you point it at."
     },
     {
       "time": "Evening",
-      "line": "The day winds down toward an early week and a long trip ahead."
+      "line": "Croatia is three days out; the quiet now is the last of it before the trip."
     }
   ],
   "japanese": {
