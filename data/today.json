@@ -1,66 +1,55 @@
 {
   "date": "Sunday, September 6, 2026",
-  "generatedAt": "Morning brief · 10:02 AM ET",
-  "theme": "Two days to Croatia — the last open Sunday to clear the board.",
-  "greeting": "Morning, Dan — an open Sunday in St. Pete with the girls, and the last clear one before you fly. The 15-minute review with Mike at nine is the natural place to knock the pre-trip board down toward zero.",
+  "generatedAt": "Morning brief · 10:05 AM ET",
+  "theme": "The last open day before Croatia.",
+  "greeting": "A quiet Sunday in St. Pete with the girls, Dan — one short review with Mike, then the day opens up. The Croatia bookings that close when you fly Tuesday are the one thing worth carving time for.",
   "needsAttention": [
     {
-      "tag": "Decision due",
-      "title": "Halloween: St Pete or Maine",
-      "detail": "This was due yesterday and it's the real blocker — the Oct 18–Nov 1 St Pete house and car both cover Halloween, and that rotation books while you're on the boat. Settle it before you fly, not from Croatia."
+      "tag": "Books before you fly",
+      "title": "Croatia's last bookings close Tuesday",
+      "detail": "The Sept 19 Cavtat hotel and the noon marina transfer, plus written proof the checked bags are on the Eurowings ticket — all p1, all only doable from dry land before you board. Charter connectivity won't save you underway."
     },
     {
-      "tag": "Books by Thu",
-      "title": "The Sept 19 Cavtat night still isn't booked",
-      "detail": "Charter ends noon Saturday the 19th at ACI Komolac; you need a Cavtat room plus a pre-booked transfer before the 7:30 AM Sunday flight. Connectivity's gone once you're aboard, so this has to close before Sept 8 — not on the 19th."
+      "tag": "Landing gap",
+      "title": "St Pete nights Sept 20-22 still open",
+      "detail": "The two nights between the Croatia landing and the Tuesday school pickup aren't booked yet. The Sept 27-Oct 5 Airbnb is also still pending host confirmation and worth a glance."
     },
     {
-      "tag": "Books by Thu",
-      "title": "St Pete landing gap, Sept 20–22",
-      "detail": "You land TPA Sunday the 20th but the kids aren't picked up until Tuesday the 22nd — two nights near St Pete are still open before the Orlando villa starts."
+      "tag": "Two Sept-7 calls",
+      "title": "Halloween and the backup rental decide tomorrow",
+      "detail": "Both are overdue and both were meant to be settled before Croatia. The Oct 18-Nov 1 St Pete booking and the refundable Sept 20-Oct 5 SUV both fire while you're at sea, so tomorrow is the last clean day to choose."
     },
     {
-      "tag": "Before you fly",
-      "title": "Get the Croatia bags confirmed in writing",
-      "detail": "The issued ticket shows zero checked bags on Eurowings Discover; pull it up on the operating carrier's own site and buy the two duffels online now, before airport-counter rates Thursday."
+      "tag": "Before onboard",
+      "title": "Confirm boarding with the Nautilus instructor",
+      "detail": "Nail down the Sat Sept 12 boarding time and the Sept 19 return transfer now — the packet says arrange the transfer early, and bandwidth drops once you're underway."
     },
     {
-      "tag": "Call today",
-      "title": "Nail down Nautilus boarding + return transfer",
-      "detail": "The instructor's contact is already in your inbox — confirm the Saturday Sept 12 boarding time and place and arrange the airport transfer for after you disembark the 19th, while you still have signal."
+      "tag": "Job search",
+      "title": "Andrew Kaufmann wants to reconnect",
+      "detail": "A LinkedIn note this morning — he thinks you may have left KPMG and would welcome the chance to reconnect. A quick reply keeps a warm networking thread alive."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15 min on Meet — empty the board, owner and date on everything",
-      "tag": "sync"
+      "detail": "15-min board sweep over Meet",
+      "tag": "Sync"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Amex reported balance ticked up",
-        "detail": "myFICO flagged a higher reported balance on the card — a heads-up worth a glance, not an action."
-      },
-      {
-        "tag": "Job search",
-        "title": "ICGN Toronto conference now open",
-        "detail": "The governance network's November conference in Toronto is taking bookings — one for the board-search calendar once the trip's behind you."
+        "title": "Amex balance rose",
+        "detail": "A myFICO alert flagged your American Express monthly balance ticking up — automated, no action needed unless it's a surprise."
       }
     ],
-    "noise": "The rest is newsletters and promos — Breeze, West Marine, Mattress Firm, and your Italian and Japanese dailies.",
-    "clear": ""
+    "noise": "The rest is Labor Day sales, shop promos, and newsletters — Bloomberg, NYT Cooking, NativShark, The Company Store and a couple dozen more.",
+    "clear": "Nothing else is waiting on a reply."
   },
-  "resolved": [
-    {
-      "tag": "Handled",
-      "title": "UN PRI intro with Conor Kehoe — parked till you're back",
-      "detail": "You replied Thursday that it's no rush and you're traveling; Kate is holding the diary open for your return, so nothing is owed until then."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -75,27 +64,27 @@
   },
   "tasks": [
     {
-      "title": "Book the refundable Sept 20–Oct 5 SUV as a backup",
-      "project": "Dan & Mike · travel",
-      "due": "Decide by Sept 7",
+      "title": "Build the travel larder bin",
+      "project": "Household",
+      "due": "Overdue Aug 31",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters + a US power strip",
-      "project": "Dan & Mike · travel",
+      "title": "Buy EU plug adapters + power strip",
+      "project": "Travel",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
       "title": "Finish the Nautilus Masterclass videos (~68%)",
-      "project": "Dan & Mike · travel",
+      "project": "Travel",
       "due": "Due today",
       "overdue": false
     },
     {
-      "title": "Build the travel larder bin",
-      "project": "Household",
-      "due": "Overdue Aug 31",
+      "title": "Destination edit work",
+      "project": "Work",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -107,15 +96,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "One 15-minute review with Mike at nine, then the morning is clear."
+      "line": "The 9 AM review with Mike wraps by 9:15 — the rest of the morning is yours."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar — a rare open stretch two days before twelve away."
+      "line": "An open Labor Day-weekend afternoon in St. Pete with the four girls."
     },
     {
       "time": "Evening",
-      "line": "The girls are in the house in St. Pete; kabocha squash is tonight's from-scratch supper."
+      "line": "Tomorrow is the last dry-land day before Tuesday's flight, so the Cavtat and baggage bookings are worth an hour tonight."
     }
   ],
   "japanese": {
