@@ -1,33 +1,28 @@
 {
   "date": "Monday, September 7, 2026",
   "generatedAt": "Morning brief · 12:03 PM ET",
-  "theme": "The last day on dry land before Croatia.",
-  "greeting": "It's Labor Day and the calendar is wide open, Dan — but this is your last full day with signal before twelve days in the Adriatic. The girls are with you and Mike today; tomorrow they go to Jen and you fly out at 5:55.",
+  "theme": "The last open day before Croatia.",
+  "greeting": "A clear Labor Day, Dan, and the last open stretch before you and Mike fly out tomorrow evening. Nearly everything still on the board is trip prep, and the parts that matter most can only be closed from dry land today.",
   "needsAttention": [
     {
       "tag": "Before you fly",
       "title": "Confirm the Croatia bags before the counter",
-      "detail": "The issued ticket shows zero checked bags on the Eurowings Discover legs. Pull the booking up on the operating carrier's site, confirm the allowance there, and buy bags online today — the fix is cheap now and expensive at the airport, and two 55L duffels won't pass as carry-on."
+      "detail": "Your Todoist p1 flags the issued ticket as zero checked bags on the Eurowings Discover legs. Verify the allowance on the operating carrier's own site and buy bags online now, before the airport counter charges European walk-up rates for two 55L duffels."
     },
     {
-      "tag": "Books close today",
-      "title": "Lock the Cavtat night and the landing gap",
-      "detail": "Two bookings are still open and both have to be made from land: the Sept 19 post-charter night in Cavtat, and the St Pete room for Sept 20-21 before the kids' Tuesday pickup. Charter connectivity dies once you're aboard."
+      "tag": "Closes today",
+      "title": "Lock the Cavtat night for the 19th",
+      "detail": "The single night after the charter is still unbooked, and the real deadline is departure, not the 19th. Charter connectivity is poor, so this and the marina transfer have to be booked from dry land before you leave tomorrow."
     },
     {
-      "tag": "Decide today",
-      "title": "Call the car-rental hedge",
-      "detail": "The task's own decision point is today. Book a refundable Full Size SUV for Sept 20 - Oct 5 unless Mike's car has a written delivery window into Florida — otherwise you're finding a walk-up rental jet-lagged on a Sunday."
+      "tag": "From dry land",
+      "title": "Reach the Nautilus instructor",
+      "detail": "The p2 travel task wants Saturday's exact boarding time and location confirmed, plus the return airport transfer for the 19th arranged now, while you still have signal to do it."
     },
     {
-      "tag": "Blocker",
-      "title": "Settle Halloween: St Pete or Maine",
-      "detail": "This was due Sept 5 and the Oct 18 rotation booking fires while you're at sea. One call decides three downstream items, and it shouldn't be made from a boat — close it before you fly."
-    },
-    {
-      "tag": "Job search",
-      "title": "Reply to Andrew Kaufmann's reconnect",
-      "detail": "He messaged on LinkedIn to reconnect and asks whether you're still at KPMG — a warm networking thread from someone you last spoke to in December. A short reply today beats going quiet for two weeks."
+      "tag": "Decision open",
+      "title": "Call Halloween, St Pete or Maine",
+      "detail": "The Sept 5 deadline has passed and the Oct 18 rotation booking fires while you are away at sea. One call settles the St Pete Airbnb, the car, and the Portland house, so it is better made today than from a boat."
     }
   ],
   "schedule": [],
@@ -35,16 +30,16 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "OCHIN SVP, State Affairs posted",
-        "detail": "A LinkedIn alert for a senior state-affairs executive role — squarely in your public-affairs lane if you want a look before you go dark."
+        "title": "Andrew Kaufmann's reconnect note",
+        "detail": "He wrote on LinkedIn checking whether you are still at KPMG and would welcome a conversation, a warm networking thread worth a short reply while you are job searching."
       },
       {
         "tag": "FYI",
         "title": "Dubrovnik host is waiting on you",
-        "detail": "Damjan, your Sept 9-12 Old Port host, replied again today with a question — worth closing before the flight."
+        "detail": "Damjan replied about the Sep 9 to 12 Old Port apartment and needs an answer before you arrive Wednesday."
       }
     ],
-    "noise": "The usual Labor Day promos — Pottery Barn rewards, a couple of retail discounts, and some overseas spam.",
+    "noise": "The rest is Labor Day sales, cookware and menswear promos, newsletters, and loyalty-tier notices.",
     "clear": ""
   },
   "resolved": [],
@@ -62,26 +57,32 @@
   },
   "tasks": [
     {
-      "title": "Contact the Nautilus instructor — confirm boarding and the return transfer",
-      "project": "Mike + Dan - Board",
-      "due": "Overdue Sep 5",
-      "overdue": true
-    },
-    {
-      "title": "Watch the rest of the Nautilus Masterclass videos (~68% done)",
-      "project": "Mike + Dan - Board",
-      "due": "Overdue Sep 6",
-      "overdue": true
-    },
-    {
       "title": "Buy EU plug adapters and a US power strip",
-      "project": "Mike + Dan - Board",
+      "project": "Croatia trip",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
+      "title": "Book the St Pete landing-gap lodging (Sep 20 to 22)",
+      "project": "Croatia trip",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Book the Sep 20 to Oct 5 backup rental car",
+      "project": "Croatia trip",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Finish the Nautilus Masterclass videos (~68%)",
+      "project": "Croatia trip",
+      "due": "Due Sep 6",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -94,18 +95,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear Labor Day morning — no meetings and no handoff yet, the calendar entirely yours.",
-      "tag": "open"
+      "line": "A clear Labor Day with nothing on the calendar, the last open day before the boat."
     },
     {
       "time": "Afternoon",
-      "line": "The day tilts into packing and loose ends, everything that has to be settled from dry land before the boat takes your signal.",
-      "tag": "prep"
+      "line": "What is left of the Croatia prep is mostly p1: the bag allowance, the Cavtat night, the instructor."
     },
     {
       "time": "Evening",
-      "line": "A last night with all four girls in the St Pete house before tomorrow's handoff and the flight to Frankfurt.",
-      "tag": "home"
+      "line": "The last evening with the girls in St. Pete before tomorrow's handoff and the 5:55 flight out."
     }
   ],
   "japanese": {
