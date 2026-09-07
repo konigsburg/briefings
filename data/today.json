@@ -1,45 +1,30 @@
 {
   "date": "Sunday, September 6, 2026",
   "generatedAt": "Morning brief · 8:11 PM ET",
-  "theme": "Two days to Croatia — close the open loops before Tuesday.",
-  "greeting": "The calendar's nearly empty today, Dan, but the list isn't. This is the last clear runway before the Tuesday flight and the kid handoff, and a handful of trip bookings are still best closed from dry land.",
+  "theme": "Two days to Croatia -- a clear calendar, a full pre-flight list.",
+  "greeting": "The calendar was nearly empty today, Dan, with the girls in residence in St. Pete. But Croatia is two days out, and the last few bookings are the kind that have to happen from dry land before you lose signal on the water.",
   "needsAttention": [
     {
-      "tag": "Decide now",
-      "title": "Halloween: St Pete or Maine",
-      "detail": "The call was due yesterday and it's a genuine blocker — the Oct 18–Nov 1 rotation booking fires while you're in Croatia. One decision, three downstream bookings; settle it before Tuesday rather than from the boat."
+      "tag": "Decision overdue",
+      "title": "Halloween -- St Pete or Maine",
+      "detail": "Due yesterday and still open. Three bookings hang on it: the Oct 18-Nov 1 St Pete Airbnb and car both cover Halloween, so a Maine answer changes or cancels them. Best decided before Croatia, not from the boat."
     },
     {
-      "tag": "Before Tuesday",
-      "title": "Confirm Croatia checked bags in writing",
-      "detail": "The issued ticket shows zero checked bags on the Eurowings Discover legs. Pull it up on the operating carrier's site with the record locator and buy bags online now — counter fees run far higher, and two 55L duffels won't pass as carry-on."
+      "tag": "Decide tomorrow",
+      "title": "Croatia return car -- keep the hedge or drop it",
+      "detail": "Tomorrow, Sept 7, is the call: unless Mike's car is confirmed en route to Florida with a written delivery window, hold the refundable TPA SUV. You land jet-lagged Sept 20 and the kids' pickup is the 22nd."
     },
     {
-      "tag": "Book from land",
-      "title": "Cavtat night + transfer, Sept 19",
-      "detail": "Still unbooked: one night in Cavtat after the charter ends at Komolac, plus the noon transfer over. Onboard connectivity is poor, so this has to happen before you fly Tuesday."
-    },
-    {
-      "tag": "Landing gap",
-      "title": "St Pete lodging, Sept 20–22",
-      "detail": "Two nights are still open between the TPA landing and the Tuesday kid pickup. Book it before you leave so it isn't a jet-lagged scramble."
-    },
-    {
-      "tag": "Reach out",
-      "title": "Message the Nautilus instructor",
-      "detail": "Confirm the Saturday boarding time and location and line up the Sept 19 return transfer now — bandwidth drops sharply once you're underway."
-    },
-    {
-      "tag": "Job search",
-      "title": "Reply to Andrew Kaufmann",
-      "detail": "A LinkedIn InMail landed today: his email to you bounced, he's checking whether you're still at KPMG, and he'd welcome the chance to reconnect. New and awaiting a reply."
+      "tag": "Closes Sept 8",
+      "title": "Last Croatia bookings before you fly",
+      "detail": "The Cavtat hotel for Sept 19 and written confirmation that checked bags are on the ticket both have to be settled before the Sept 8 departure. The Nautilus instructor still needs your boarding time and return transfer nailed down."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "The weekly 15-minute board sweep",
+      "detail": "15-min board sweep",
       "tag": "Sync"
     }
   ],
@@ -47,18 +32,18 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Andrew Kaufmann InMail",
-        "detail": "Networking reconnect via LinkedIn — asking if you're still at KPMG, welcomes the opportunity."
+        "title": "Andrew Kaufmann reached out on LinkedIn",
+        "detail": "A contact from your KPMG network sent an InMail hoping to reconnect and share an update -- it's marked awaiting your reply."
       }
     ],
-    "noise": "The rest is Airbnb check-in back-and-forth for the St Pete stay.",
-    "clear": "Inbox is otherwise quiet — nothing else awaiting your reply."
+    "noise": "A campaign fundraising push, a Facebook friend suggestion, and NYPL event listings.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Parked",
-      "title": "UN PRI call with Conor Kehoe",
-      "detail": "You replied Sept 4 to push it past your trip and Kate confirmed she'll reopen the diary when you're back — nothing owed now."
+      "tag": "Handled",
+      "title": "St Pete Airbnb host thread wrapped",
+      "detail": "Mike closed out the Sep 27-Oct 5 reservation exchange with the host today -- nothing there needs you."
     }
   ],
   "context": {
@@ -75,28 +60,22 @@
   },
   "tasks": [
     {
-      "title": "Finish the remaining Nautilus Masterclass videos",
-      "project": "Croatia prep",
-      "due": "Due today (~68% done)",
-      "overdue": false
-    },
-    {
-      "title": "Car hedge — keep the refundable SUV unless Mike's car is confirmed en route",
-      "project": "Croatia / FL travel",
-      "due": "Decide tomorrow, Sept 7",
-      "overdue": false
-    },
-    {
-      "title": "Build & pack the travel larder bin",
-      "project": "Household",
-      "due": "Overdue Aug 31",
+      "title": "Book St Pete landing-gap lodging, Sept 20-22",
+      "project": "Croatia logistics",
+      "due": "Overdue Aug 25",
       "overdue": true
     },
     {
       "title": "Buy EU plug adapters + a US power strip",
-      "project": "Croatia prep",
-      "due": "Overdue Aug 27",
+      "project": "Croatia logistics",
+      "due": "Before Sept 8",
       "overdue": true
+    },
+    {
+      "title": "Finish the Nautilus Masterclass videos (~68% done)",
+      "project": "Sailing course",
+      "due": "Today",
+      "overdue": false
     }
   ],
   "routines": {
@@ -107,15 +86,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The 9 AM Sunday review with Mike was the only thing on the calendar — a fifteen-minute board sweep."
+      "line": "The 9 AM sweep with Mike cleared the board; nothing else was fixed."
     },
     {
       "time": "Afternoon",
-      "line": "Open time, and the last real runway to close the Croatia bookings before Tuesday's flight."
+      "line": "An open afternoon in St. Pete with the girls around -- rare white space."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you and Mike tonight; both the handoff to Jen and your flight land on Tuesday."
+      "line": "Tuesday's flight pulls the evening toward packing and last calls."
     }
   ],
   "japanese": {
