@@ -1,23 +1,33 @@
 {
   "date": "Monday, September 7, 2026",
-  "generatedAt": "Morning brief · 6:02 PM ET",
-  "theme": "Last open day before Croatia.",
-  "greeting": "The last day before twelve days at sea, Dan. The calendar's empty, so it's yours to pack, close the open Croatia bookings, and make the car call before it makes itself.",
+  "generatedAt": "Morning brief · 6:06 PM ET",
+  "theme": "The last day before Croatia.",
+  "greeting": "Your last full day before the flight, and the girls' last day with you before tomorrow's handoff to Jen. Today is for closing the loops that can't be fixed once you're on the water.",
   "needsAttention": [
     {
-      "tag": "Decide today",
-      "title": "Make the Orlando-cycle car call",
-      "detail": "Today is the Sept 7 decision point you set: if Mike's car isn't booked south with a written delivery window, keep the refundable TPA SUV and stop hedging. Deciding this from the boat next week goes badly."
+      "tag": "Croatia · P1",
+      "title": "Confirm checked bags are on the ticket",
+      "detail": "The issued fare shows 0 checked bags on the Eurowings Discover legs. Confirm the allowance on the operating carrier's site and buy bags online now if needed — two 55L duffels won't fly as carry-on and counter fees tomorrow run far higher."
     },
     {
-      "tag": "Before you fly",
-      "title": "Close the last Croatia bookings",
-      "detail": "The Sept 19 Cavtat night and the Sept 20-22 St. Pete landing gap both have to be booked from dry land -- charter connectivity is poor and you're wheels-up at 5:55 tomorrow."
+      "tag": "Croatia · P1",
+      "title": "Book the Sept 19 Cavtat night + transfer",
+      "detail": "The single night after the charter, on the airport side rather than Old Town. Book it from dry land today — connectivity aboard is poor — and include the noon Komolac→Cavtat transfer."
     },
     {
-      "tag": "Overdue call",
-      "title": "Halloween: St. Pete or Maine",
-      "detail": "This was due Sept 5, and the Oct 18-Nov 1 rental and Airbnb book while you're away. Make the call before Croatia, not from it."
+      "tag": "Croatia · P1",
+      "title": "Cover the Sept 20–22 St Pete landing gap",
+      "detail": "You land TPA Sun Sept 20; the girls aren't picked up until Tue the 22nd. Those two nights are still unbooked, and the Sept 27–Oct 5 Airbnb is only pending host confirmation."
+    },
+    {
+      "tag": "Decision · today",
+      "title": "Car hedge — decide before you fly",
+      "detail": "Sept 7 is the decision point you set: unless Mike's car is confirmed en route with a written delivery window, book the refundable Full-Size SUV for Sept 20–Oct 5 rather than sorting it jet-lagged at the counter."
+    },
+    {
+      "tag": "Decision · overdue",
+      "title": "Halloween: St Pete or Maine",
+      "detail": "Overdue since Sept 5. The Oct 18–Nov 1 rotation booking fires while you're away, so deciding after you land is deciding too late — one call with three bookings hanging off it."
     }
   ],
   "schedule": [],
@@ -25,24 +35,25 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Andrew Kaufmann reconnecting",
-        "detail": "A LinkedIn InMail Saturday: he got a bounce, asked if you're still at KPMG, and would welcome picking the conversation back up."
-      },
-      {
-        "tag": "Job search",
-        "title": "Yvonne's LinkedIn message",
-        "detail": "A new LinkedIn message landed this morning, waiting on your reply."
+        "title": "Andrew Kaufmann wants to reconnect",
+        "detail": "LinkedIn InMail — he thought you might have left KPMG and would still welcome the chance to talk. Awaiting your reply."
       },
       {
         "tag": "FYI",
-        "title": "Portland Airbnb host waiting",
-        "detail": "Damjan replied about the Sep 9-12 Old Port stay and is waiting on you -- worth clearing before you lose signal."
+        "title": "Check-in is open for the Frankfurt flight",
+        "detail": "Kayak nudge that online check-in for tomorrow's Tampa→Frankfurt flight is available."
       }
     ],
-    "noise": "The rest is receipts and alerts -- Square, ParkMobile, a Care.com applicant, a LinkedIn digest.",
-    "clear": ""
+    "noise": "A Labor Day sale, two card receipts, a parking receipt, a review request, and a care.com applicant alert.",
+    "clear": "Nothing else in the inbox needs you today."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Scheduled",
+      "title": "UN PRI call with Conor parked until you're back",
+      "detail": "You replied Sept 4 asking to push it past your trip; Kate confirmed and will revisit the diary when you return — nothing owed today."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -57,44 +68,44 @@
   },
   "tasks": [
     {
-      "title": "Confirm checked bags are on the Croatia ticket",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Contact the Nautilus instructor to confirm boarding",
-      "project": "Travel",
+      "title": "Contact the Nautilus instructor — boarding time + return transfer",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 5",
       "overdue": true
     },
     {
-      "title": "Buy EU plug adapters and a power strip",
-      "project": "Travel",
-      "due": "Overdue Aug 27",
+      "title": "Finish the Nautilus Masterclass videos (~68% done)",
+      "project": "Mike + Dan — Board",
+      "due": "Due Sep 6",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/5",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar's clear -- pack, and knock out the open Croatia bookings while you still have real internet.",
+      "line": "No meetings on the calendar — the morning is yours for packing and the pre-flight loose ends.",
       "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "Settle the car hedge and the Halloween call; both book themselves badly if left for the boat.",
-      "tag": "decide"
+      "line": "Nothing scheduled; the open window to lock the bookings that can't wait until you're aboard.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "A quiet last night in St. Pete before tomorrow's 5:55 flight to Frankfurt -- bank the sleep.",
-      "tag": "rest"
+      "line": "A last night with the girls before tomorrow's handoff and the 5:55 PM flight to Frankfurt.",
+      "tag": "family"
     }
   ],
   "japanese": {
