@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-07",
+    "kind": "Morning brief",
+    "label": "Monday, Sep 7 · 7:24 AM ET",
+    "summary": "Clear calendar, but the last day before a twelve-day Croatia trip — a wall of pre-departure bookings to close before the charter cuts off signal.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-06",
     "kind": "Morning brief",
     "label": "Sunday, Sep 6 · 10:06 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Inbox summary",
     "label": "Wednesday, Aug 12 · 3 PM ET",
     "summary": "Quiet inbox, mostly promos — but a 'SVP Global Public Policy' recruiter email (sourcehire.app) asking you to confirm visa/work authorization looks like a scam; also a new iOS sign-in to your Gmail and an updated Amtrak ticket for tomorrow's trip.",
-    "ref": "today"
-  },
-  {
-    "id": "inbox-2026-08-12-1013",
-    "kind": "Inbox summary",
-    "label": "Wednesday, Aug 12 · 10 AM ET",
-    "summary": "Quiet inbox except one likely job-search scam (sourcehire.app 'Confidential SVP' asking to confirm work authorization) — flagged, do not act until verified. Otherwise routine: Amtrak trip tomorrow, Chase statement, Talkiatry visit 08/18.",
     "ref": "today"
   }
 ]
