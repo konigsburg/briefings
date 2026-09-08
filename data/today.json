@@ -1,64 +1,88 @@
 {
   "date": "Tuesday, September 8, 2026",
   "generatedAt": "Morning brief · 7:18 AM ET",
-  "theme": "The last day before Croatia.",
-  "greeting": "An open day, Dan — no meetings on the calendar, just the final runway before tomorrow evening's flight to Dubrovnik. The girls are with you and Mike through today, so the work is closing out the pre-departure list while you're still on dry land.",
+  "theme": "Wheels up tonight",
+  "greeting": "It's departure day, Dan — St. Pete this morning, Frankfurt tonight, Dubrovnik in the morning. Everything that needs solid ground and a signal gets closed out before 5:55.",
   "needsAttention": [
     {
-      "tag": "Decide today",
-      "title": "Croatia rental car — call the hedge",
-      "detail": "The Sept 20–Oct 5 SUV is a refundable backup unless Mike's car is confirmed heading south; today, the day before Croatia, is the decision point set on the Mike + Dan board."
-    },
-    {
-      "tag": "Before wheels-up",
-      "title": "Get the checked bags in writing",
-      "detail": "The issued Eurowings Discover ticket shows zero checked bags. Confirm the allowance on the operating carrier's own site and buy bags online before tomorrow's 5:55 PM flight, not at the counter."
+      "tag": "Before the counter",
+      "title": "Get the Croatia bags confirmed in writing",
+      "detail": "The issued Basic Economy fare shows 0 checked bags on Eurowings Discover, overdue since Aug 25. Pull the booking up on the operating carrier's site with the record locator and buy bags online today — two 55L duffels get refused at tonight's counter."
     },
     {
       "tag": "Book from land",
-      "title": "Last Dubrovnik night and transfer",
-      "detail": "The Sept 19 Cavtat room and the Komolac-to-Cavtat transfer both have to be booked before you sail — connectivity on the charter is nil once you're aboard."
+      "title": "Lock the Sept 19 Cavtat night and transfer",
+      "detail": "P1, overdue. The charter has no connectivity, so the post-sail night in Cavtat and the noon Komolac to Cavtat transfer both have to be booked before you board the 5:55."
     },
     {
-      "tag": "Landing gap",
-      "title": "St Pete nights, Sept 20–22",
-      "detail": "The two nights between the Croatia landing and Tuesday's school pickup are still open on the board."
+      "tag": "Before signal drops",
+      "title": "Book the St Pete landing gap, Sept 20 to 22",
+      "detail": "Travel P1. You land TPA Sunday the 20th but the kids aren't picked up until Tuesday the 22nd; the two nights before the Orlando villa need booking today, while you still have a signal."
     },
     {
-      "tag": "Before departure",
-      "title": "Reach the Nautilus instructor",
-      "detail": "Confirm Saturday's boarding time and place and line up the Sept 19 return transfer while you still have signal."
+      "tag": "Before you're aboard",
+      "title": "Confirm boarding and return transfer with Nautilus",
+      "detail": "Travel P2, overdue Sept 5. Nail down the Sat Sept 12 boarding time and location plus the Sept 19 airport transfer now, before bandwidth disappears at sea."
     },
     {
-      "tag": "Overdue call",
-      "title": "Halloween — St Pete or Maine",
-      "detail": "The Sept 5 decision is two days past, and the Oct 18 rotation booking fires while you're away — one call, three downstream bookings."
+      "tag": "Decide first",
+      "title": "Call Halloween: St Pete or Maine",
+      "detail": "Travel P2, overdue Sept 5. The Oct 18 to Nov 1 St Pete rental and car both cover Halloween and rebook while you're away, so this decides before the boat, not from it."
     },
     {
-      "tag": "Account",
-      "title": "GitHub token expires tomorrow",
-      "detail": "GitHub flagged the briefings-deploy access token as expiring in about a day; rotate it before it lapses."
+      "tag": "En route to TPA",
+      "title": "Drop the larder bin at Mom's on the way",
+      "detail": "Household. The bin lives at Mom's in Tampa through the gap; House 2 checks out at 10 and she's on the St Pete to TPA line, so set a 15-minute drop before noon rather than a visit."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "10:00 AM",
+      "title": "House 2 checkout",
+      "detail": "St. Pete ranch, bags in the car",
+      "tag": "move"
+    },
+    {
+      "time": "12:00 PM",
+      "title": "Rental car back at TPA",
+      "detail": "Larder bin to Mom en route",
+      "tag": "car"
+    },
+    {
+      "time": "5:55 PM",
+      "title": "UA9661 TPA to Frankfurt",
+      "detail": "Croatia trip begins; DBV tomorrow AM",
+      "tag": "flight"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Security",
+        "title": "GitHub token expires in 1 day",
+        "detail": "GitHub flagged the briefings-deploy access token as expiring tomorrow; renew it before it lapses."
+      },
+      {
+        "tag": "Security",
+        "title": "New Google sign-ins to review",
+        "detail": "Google flagged a new sign-in Sept 7 and account data shared with santosregroup.com; confirm both were you."
+      },
+      {
         "tag": "FYI",
-        "title": "Croatia flight check-in is open",
-        "detail": "Discover Airlines and the Kayak boarding pass both went live for tomorrow's Tampa departure."
+        "title": "Flight check-in is open",
+        "detail": "United and Kayak have the TPA to FRA boarding pass ready; check in before you leave for the airport."
       }
     ],
-    "noise": "The rest is receipts and sales — Apple Fitness+, Lumosity, ParkMobile, Square, and a Labor Day promo.",
+    "noise": "The rest is newsletters and receipts, America's Test Kitchen, NYT Cooking, Daily Italian, a few store promos.",
     "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
-    "kids": true,
-    "phase": "blue",
+    "kids": false,
+    "phase": "green",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Monday Sep 7"
+    "asOf": "Tue Sep 8"
   },
   "recipe": {
     "title": "Butternut squash & candied bacon on fresh pasta",
@@ -67,47 +91,47 @@
   },
   "tasks": [
     {
-      "title": "Buy EU plug adapters + a US power strip",
-      "project": "Mike + Dan board",
+      "title": "Buy EU plug adapters and a US power strip",
+      "project": "Travel",
       "due": "Overdue Aug 27",
       "overdue": true
     },
     {
-      "title": "Build the travel larder bin",
-      "project": "Mike + Dan board",
-      "due": "Overdue Aug 31",
+      "title": "Book the refundable backup car, Sept 20 to Oct 5",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Finish the Nautilus Masterclass videos (~68%)",
-      "project": "Mike + Dan board",
+      "title": "Finish the Nautilus Masterclass videos (~68% done)",
+      "project": "Travel",
       "due": "Overdue Sep 6",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/5",
-    "day": "0/3",
+    "morning": "0/10",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the whole day is open to burn down the pre-Croatia list."
+      "line": "Checkout at 10 and the rental back by noon make for a tight, moving morning before the airport."
     },
     {
       "time": "Afternoon",
-      "line": "The last bookings and the packing live here, while you still have dry land and a signal."
+      "line": "The stretch between noon and boarding is your last window on solid ground and good signal."
     },
     {
-      "time": "Evening",
-      "line": "A quiet last night in St. Pete before tomorrow evening's flight out of Tampa."
+      "time": "5:55 PM onward",
+      "line": "Wheels up for Frankfurt, then Dubrovnik in the morning; the sailing week starts here."
     }
   ],
   "japanese": {
