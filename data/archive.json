@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-08",
+    "kind": "Morning brief",
+    "label": "Tuesday, Sep 8 · 7:18 AM ET",
+    "summary": "Departure day: St. Pete checkout, then the 5:55 flight to Frankfurt for the Croatia sail, with pre-departure travel bookings and bag confirmation closing today.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-07",
     "kind": "Morning brief",
     "label": "Monday, Sep 7 · 10:02 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Wednesday, Aug 12 · 8:13 PM ET",
     "summary": "An open Wednesday with the girls at Jen's, winding toward tomorrow's afternoon train from New York to DC.",
-    "ref": "today"
-  },
-  {
-    "id": "inbox-2026-08-12-1509",
-    "kind": "Inbox summary",
-    "label": "Wednesday, Aug 12 · 3 PM ET",
-    "summary": "Quiet inbox, mostly promos — but a 'SVP Global Public Policy' recruiter email (sourcehire.app) asking you to confirm visa/work authorization looks like a scam; also a new iOS sign-in to your Gmail and an updated Amtrak ticket for tomorrow's trip.",
     "ref": "today"
   }
 ]
