@@ -1,68 +1,49 @@
 {
   "date": "Tuesday, September 8, 2026",
   "generatedAt": "Morning brief · 6:02 PM ET",
-  "theme": "Wheels up for Croatia tonight.",
-  "greeting": "Departure day, Dan. The trip you've staged for weeks finally casts off at 5:55, so this is the day to clear the dry-land to-dos before signal gets thin.",
+  "theme": "Wheels up for Croatia.",
+  "greeting": "You're wheels-up this evening for the Croatia sailing trip, Dan — a long night of flying, Frankfurt at dawn, and Dubrovnik by midday tomorrow. The girls are with Jen through the 21st, so the next two weeks are yours and Mike's.",
   "needsAttention": [
     {
-      "tag": "Decide today",
-      "title": "Halloween: St. Pete or Maine",
-      "detail": "Overdue since Sept 5, and the Oct 18 rotation booking fires while you're at sea with no signal. It's one decision with three bookings hanging off it. Call it before wheels-up."
-    },
-    {
-      "tag": "Closes today",
-      "title": "Grab EU adapters and a power strip",
-      "detail": "Type F / Schuko for Croatia, plus one US power strip so a single outlet charges the whole boat. This is the last errand that only works from a US store today."
+      "tag": "Awaiting reply",
+      "title": "Kerrie's waiting on the AI paper",
+      "detail": "Kerrie Waring replied to your whistleblower document asking for the AI paper you referred to. A two-minute send from the lounge closes it before you drop offline."
     },
     {
       "tag": "Book from land",
-      "title": "The Cavtat room for Sept 19",
-      "detail": "Your last night after the charter, near the airport, refundable, with the noon Komolac-to-Cavtat transfer. Poor signal aboard means booking it before you board Saturday."
+      "title": "Cavtat hotel for Sept 19 still open",
+      "detail": "The last night after the charter isn't booked, and you go dark once aboard on the 12th. Lock the Cavtat room and the noon transfer while you still have signal."
     },
     {
-      "tag": "Before you sail",
-      "title": "Confirm the Nautilus boarding details",
-      "detail": "You board the 12th. Confirm the meeting time and place with the instructor and lock the Sept 19 return transfer now, while you still have a reliable connection."
+      "tag": "Booking gap",
+      "title": "St Pete nights of Sept 20-21",
+      "detail": "You land back in Tampa Sept 20 but the girls' pickup isn't until the 22nd. The two-night landing-gap lodging is still pending."
     }
   ],
   "schedule": [
     {
       "time": "5:55 PM",
       "title": "Flight to Frankfurt",
-      "detail": "TPA to FRA, gate F88, UA 9661 / 4Y 65",
-      "tag": "travel"
+      "detail": "UA 9661, Tampa to Frankfurt, overnight",
+      "tag": "Travel"
     }
   ],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "Financial",
-        "title": "Appliance-repair invoice due",
-        "detail": "Clarke Customer Care billed you for the July 31 service call. Worth a look before you're offline for a week."
-      },
-      {
-        "tag": "Job search",
-        "title": "LinkedIn message from Yvonne",
-        "detail": "A note is sitting in your LinkedIn inbox awaiting a reply."
-      }
-    ],
-    "noise": "The rest is airline confirmations, boarding passes, baggage receipts, and Airbnb host logistics, all handled.",
+    "flagged": [],
+    "noise": "Just a Patreon teaser, a SiriusXM offer, an airline baggage receipt, and past Airbnb confirmations - nothing that needs you.",
     "clear": ""
   },
   "resolved": [
     {
-      "title": "Checked bags are on the Croatia ticket",
-      "detail": "The Discover Airlines baggage receipt for Tampa to Dubrovnik came through today, closing the p1 worry about carry-on-only limits."
-    },
-    {
-      "title": "Replied to Carol Hansell",
-      "detail": "You answered her note this morning and offered to talk today or after the 19th, so the ball's in her court now."
+      "tag": "Sorted",
+      "title": "Croatia bags checked through",
+      "detail": "Discover Airlines confirmed your baggage is checked in for the Tampa-Dubrovnik flight, so the allowance question is settled."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St. Petersburg, FL to Croatia",
+    "location": "En route to Croatia",
     "confidence": "high",
     "asOf": "Tuesday Sep 8"
   },
@@ -73,21 +54,27 @@
   },
   "tasks": [
     {
-      "title": "Book St. Pete lodging for the Sept 20-22 landing gap",
-      "project": "Croatia / Travel",
-      "due": "Overdue Aug 25",
+      "title": "Destination edit work",
+      "project": "Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     },
     {
-      "title": "Book refundable backup car, Sept 20 - Oct 5",
-      "project": "Croatia / Travel",
+      "title": "Book Sept 20-Oct 5 backup rental car",
+      "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
+      "title": "Decide Halloween - St Pete or Maine",
+      "project": "Travel",
+      "due": "Overdue Sep 5",
+      "overdue": true
+    },
+    {
+      "title": "Contact the Nautilus instructor",
+      "project": "Travel",
+      "due": "Overdue Sep 5",
       "overdue": true
     }
   ],
@@ -99,15 +86,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A last quiet morning in St. Pete for packing and the final US errands, with the larder bin to drop at your mom's on the way to Tampa."
+      "line": "The last quiet hours on the ground before a long day of flying."
     },
     {
       "time": "Afternoon",
-      "line": "Check out by ten, rental back at TPA around noon, then a few open hours at the gate before boarding."
+      "line": "Into Tampa for the 5:55 departure - the trip proper starts at the gate."
     },
     {
-      "time": "Evening",
-      "line": "Wheels up at 5:55 for Frankfurt, then the 9:15 hop lands you into Dubrovnik tomorrow morning."
+      "time": "Evening onward",
+      "line": "Overnight to Frankfurt, then the Dubrovnik connection lands you in Croatia by midday tomorrow."
     }
   ],
   "japanese": {
