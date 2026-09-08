@@ -1,88 +1,74 @@
 {
   "date": "Tuesday, September 8, 2026",
   "generatedAt": "Morning brief · 10:16 AM ET",
-  "theme": "Wheels up tonight",
-  "greeting": "It's departure day, Dan — St. Pete this morning, Frankfurt tonight, Dubrovnik in the morning. Everything that needs solid ground and a signal gets closed out before 5:55.",
+  "theme": "The trip begins: a Florida checkout, then wheels up for Croatia.",
+  "greeting": "The daylight is mostly yours, Dan, until 5:55 tonight when you fly to Frankfurt and the Croatia trip finally starts. Use the open hours to close the few things that go dark the moment you're aboard.",
   "needsAttention": [
     {
-      "tag": "Before the counter",
-      "title": "Get the Croatia bags confirmed in writing",
-      "detail": "The issued Basic Economy fare shows 0 checked bags on Eurowings Discover, overdue since Aug 25. Pull the booking up on the operating carrier's site with the record locator and buy bags online today — two 55L duffels get refused at tonight's counter."
+      "tag": "Before wheels up",
+      "title": "Confirm the Croatia bags in writing",
+      "detail": "The issued ticket shows zero checked bags for two 55L duffels. Pull the booking up on the operating carrier's site, confirm the allowance there, and buy it now before it becomes a European counter fee. P1, overdue since Aug 25."
     },
     {
-      "tag": "Book from land",
-      "title": "Lock the Sept 19 Cavtat night and transfer",
-      "detail": "P1, overdue. The charter has no connectivity, so the post-sail night in Cavtat and the noon Komolac to Cavtat transfer both have to be booked before you board the 5:55."
+      "tag": "Books from dry land",
+      "title": "Lock the Cavtat night and the transfer",
+      "detail": "The Sept 19 Cavtat room and the noon Komolac-to-Cavtat transfer have to be booked before you board; charter connectivity won't manage it once you're at sea. P1, overdue."
     },
     {
       "tag": "Before signal drops",
-      "title": "Book the St Pete landing gap, Sept 20 to 22",
-      "detail": "Travel P1. You land TPA Sunday the 20th but the kids aren't picked up until Tuesday the 22nd; the two nights before the Orlando villa need booking today, while you still have a signal."
+      "title": "Reach the Nautilus instructor",
+      "detail": "Confirm Saturday's boarding time and location and the return transfer to Dubrovnik while you still have reliable signal, not from the boat. P2, due Sept 5."
     },
     {
-      "tag": "Before you're aboard",
-      "title": "Confirm boarding and return transfer with Nautilus",
-      "detail": "Travel P2, overdue Sept 5. Nail down the Sat Sept 12 boarding time and location plus the Sept 19 airport transfer now, before bandwidth disappears at sea."
-    },
-    {
-      "tag": "Decide first",
-      "title": "Call Halloween: St Pete or Maine",
-      "detail": "Travel P2, overdue Sept 5. The Oct 18 to Nov 1 St Pete rental and car both cover Halloween and rebook while you're away, so this decides before the boat, not from it."
-    },
-    {
-      "tag": "En route to TPA",
-      "title": "Drop the larder bin at Mom's on the way",
-      "detail": "Household. The bin lives at Mom's in Tampa through the gap; House 2 checks out at 10 and she's on the St Pete to TPA line, so set a 15-minute drop before noon rather than a visit."
+      "tag": "Decision overdue",
+      "title": "Call Halloween: St. Pete or Maine",
+      "detail": "The Oct 18 to Nov 1 rotation booking fires while you're on the water. Decide before you're unreachable so it doesn't book on autopilot. P2, overdue Sept 5."
     }
   ],
   "schedule": [
     {
       "time": "10:00 AM",
-      "title": "House 2 checkout",
-      "detail": "St. Pete ranch, bags in the car",
-      "tag": "move"
+      "title": "Check out of the St. Pete house",
+      "detail": "The Sept 3-8 stay ends; clean handoff before the airport",
+      "tag": "Home"
     },
     {
       "time": "12:00 PM",
-      "title": "Rental car back at TPA",
-      "detail": "Larder bin to Mom en route",
-      "tag": "car"
+      "title": "Rental car back to TPA",
+      "detail": "Return on the way in; larder bin drops at Mom's en route",
+      "tag": "Travel"
     },
     {
       "time": "5:55 PM",
-      "title": "UA9661 TPA to Frankfurt",
-      "detail": "Croatia trip begins; DBV tomorrow AM",
-      "tag": "flight"
+      "title": "Flight to Frankfurt",
+      "detail": "UA9661 TPA to FRA; Dubrovnik connection tomorrow 9:15 AM",
+      "tag": "Flight"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "GitHub token expires in 1 day",
-        "detail": "GitHub flagged the briefings-deploy access token as expiring tomorrow; renew it before it lapses."
-      },
-      {
-        "tag": "Security",
-        "title": "New Google sign-ins to review",
-        "detail": "Google flagged a new sign-in Sept 7 and account data shared with santosregroup.com; confirm both were you."
-      },
-      {
         "tag": "FYI",
-        "title": "Flight check-in is open",
-        "detail": "United and Kayak have the TPA to FRA boarding pass ready; check in before you leave for the airport."
+        "title": "Shareholder Forum on voting vs. exchange of views",
+        "detail": "A governance thread on the proxy-contest / imitation-meeting debate landed this morning. No reply needed; worth reading for the board search when you have a plane's worth of time."
       }
     ],
-    "noise": "The rest is newsletters and receipts, America's Test Kitchen, NYT Cooking, Daily Italian, a few store promos.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "Everything else is sale season: Labor Day extensions, fall catalogs, and travel and language-app deals.",
+    "clear": "Check-in is done and boarding passes for both flights are already issued for you and Mike."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Handled",
+      "title": "Checked in for both flights",
+      "detail": "Boarding passes for Tampa to Frankfurt today and Frankfurt to Dubrovnik tomorrow are issued for you and Mike; one less thing for the counter."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Tue Sep 8"
+    "asOf": "Tuesday Sep 8"
   },
   "recipe": {
     "title": "Butternut squash & candied bacon on fresh pasta",
@@ -91,47 +77,53 @@
   },
   "tasks": [
     {
-      "title": "Buy EU plug adapters and a US power strip",
-      "project": "Travel",
-      "due": "Overdue Aug 27",
+      "title": "Drop the larder bin at Mom's en route to TPA",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 31",
       "overdue": true
     },
     {
-      "title": "Book the refundable backup car, Sept 20 to Oct 5",
-      "project": "Travel",
-      "due": "Overdue Aug 28",
+      "title": "Grab EU adapters and a US power strip",
+      "project": "Mike + Dan Board",
+      "due": "Before you fly",
       "overdue": true
     },
     {
-      "title": "Finish the Nautilus Masterclass videos (~68% done)",
-      "project": "Travel",
-      "due": "Overdue Sep 6",
+      "title": "Finish the Nautilus Masterclass videos",
+      "project": "Mike + Dan Board",
+      "due": "~68% done, Sept 6",
+      "overdue": true
+    },
+    {
+      "title": "Book the Sept 20-22 St. Pete landing nights",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 25",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Work",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
+    "morning": "0/5",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Checkout at 10 and the rental back by noon make for a tight, moving morning before the airport."
+      "line": "House checks out at 10 and the rental's due back at TPA by noon, with the larder bin dropping at Mom's on the way."
     },
     {
       "time": "Afternoon",
-      "line": "The stretch between noon and boarding is your last window on solid ground and good signal."
+      "line": "The open stretch is really a countdown: the bookings that need dry land close when the cabin door does."
     },
     {
       "time": "5:55 PM onward",
-      "line": "Wheels up for Frankfurt, then Dubrovnik in the morning; the sailing week starts here."
+      "line": "Wheels up for Frankfurt, and Croatia starts on the far side of the Atlantic."
     }
   ],
   "japanese": {
