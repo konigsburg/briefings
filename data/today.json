@@ -1,53 +1,68 @@
 {
   "date": "Tuesday, September 8, 2026",
   "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "The last day on land before two weeks away.",
-  "greeting": "Departure day, Dan. The St. Pete stay closes out this morning and you fly to Frankfurt tonight, Dubrovnik tomorrow, then a week of sailing. Anything that has to be booked from dry land closes with today's signal.",
+  "theme": "Wheels up for Croatia tonight.",
+  "greeting": "Departure day, Dan. The trip you've staged for weeks finally casts off at 5:55, so this is the day to clear the dry-land to-dos before signal gets thin.",
   "needsAttention": [
     {
-      "tag": "Before the counter",
-      "title": "Confirm the Croatia bags are on the ticket",
-      "detail": "The issued ticket shows 0 checked bags, Basic Economy on Eurowings Discover. Verify the allowance on the operating carrier's site and buy bags online before tonight's counter, where two 55L duffels won't pass as carry-on. Travel, p1, overdue since Aug 25."
+      "tag": "Decide today",
+      "title": "Halloween: St. Pete or Maine",
+      "detail": "Overdue since Sept 5, and the Oct 18 rotation booking fires while you're at sea with no signal. It's one decision with three bookings hanging off it. Call it before wheels-up."
+    },
+    {
+      "tag": "Closes today",
+      "title": "Grab EU adapters and a power strip",
+      "detail": "Type F / Schuko for Croatia, plus one US power strip so a single outlet charges the whole boat. This is the last errand that only works from a US store today."
     },
     {
       "tag": "Book from land",
-      "title": "Lock the Sept 19 Cavtat night and the transfer",
-      "detail": "The charter ends noon Sat Sept 19 at ACI Komolac. You need a refundable Cavtat room, a pre-booked Komolac to Cavtat transfer, and the ~5 AM airport run for the Sept 20 flight, all set before you board since charter signal is poor. Travel, p1, overdue since Aug 26."
-    },
-    {
-      "tag": "Fills a gap",
-      "title": "Close the Sept 20 to 22 St. Pete gap",
-      "detail": "You land TPA Sun Sept 20 but the kids aren't picked up until Tue the 22nd, and those two nights are still unbooked. Worth a glance that the pending Sept 27 to Oct 5 Airbnb converted from PENDING to confirmed. Travel, p1."
+      "title": "The Cavtat room for Sept 19",
+      "detail": "Your last night after the charter, near the airport, refundable, with the noon Komolac-to-Cavtat transfer. Poor signal aboard means booking it before you board Saturday."
     },
     {
       "tag": "Before you sail",
-      "title": "Confirm boarding time with the Nautilus instructor",
-      "detail": "The contact is in hand; still owed is confirming Saturday's boarding time and location and arranging the return airport transfer. Easier to settle now than once you're underway with less bandwidth. Travel, p2, due Sept 5."
-    },
-    {
-      "tag": "Decide on land",
-      "title": "Halloween: St. Pete or Maine",
-      "detail": "The call was due Sept 5, and the Oct 18 to Nov 1 rental books itself while you're offline. Decide before you lose signal so the downstream bookings move with the answer rather than after it. Travel, p2."
+      "title": "Confirm the Nautilus boarding details",
+      "detail": "You board the 12th. Confirm the meeting time and place with the instructor and lock the Sept 19 return transfer now, while you still have a reliable connection."
     }
   ],
   "schedule": [
     {
       "time": "5:55 PM",
       "title": "Flight to Frankfurt",
-      "detail": "UA9661 TPA to FRA, connecting to Dubrovnik tomorrow morning",
+      "detail": "TPA to FRA, gate F88, UA 9661 / 4Y 65",
       "tag": "travel"
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "Three unread, all promotional or transactional: a campaign donation ask, a gadget pitch, and the closed St. Pete Airbnb thread.",
-    "clear": "Nothing in the inbox is waiting on a reply."
+    "flagged": [
+      {
+        "tag": "Financial",
+        "title": "Appliance-repair invoice due",
+        "detail": "Clarke Customer Care billed you for the July 31 service call. Worth a look before you're offline for a week."
+      },
+      {
+        "tag": "Job search",
+        "title": "LinkedIn message from Yvonne",
+        "detail": "A note is sitting in your LinkedIn inbox awaiting a reply."
+      }
+    ],
+    "noise": "The rest is airline confirmations, boarding passes, baggage receipts, and Airbnb host logistics, all handled.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "title": "Checked bags are on the Croatia ticket",
+      "detail": "The Discover Airlines baggage receipt for Tampa to Dubrovnik came through today, closing the p1 worry about carry-on-only limits."
+    },
+    {
+      "title": "Replied to Carol Hansell",
+      "detail": "You answered her note this morning and offered to talk today or after the 19th, so the ball's in her court now."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St. Petersburg, FL (flying to Croatia tonight)",
+    "location": "St. Petersburg, FL to Croatia",
     "confidence": "high",
     "asOf": "Tuesday Sep 8"
   },
@@ -58,15 +73,21 @@
   },
   "tasks": [
     {
-      "title": "Finish the Nautilus Masterclass videos before the course",
-      "project": "Travel",
-      "due": "~68% done, due Sept 6",
+      "title": "Book St. Pete lodging for the Sept 20-22 landing gap",
+      "project": "Croatia / Travel",
+      "due": "Overdue Aug 25",
       "overdue": true
     },
     {
-      "title": "Hold the refundable Sept 20 to Oct 5 backup car unless Mike's car is confirmed en route",
-      "project": "Travel",
-      "due": "Decision point was Sept 7",
+      "title": "Book refundable backup car, Sept 20 - Oct 5",
+      "project": "Croatia / Travel",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -78,15 +99,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The St. Pete house checked out at 10 and the rental goes back at TPA around noon, so the day's logistics land well before the flight."
+      "line": "A last quiet morning in St. Pete for packing and the final US errands, with the larder bin to drop at your mom's on the way to Tampa."
     },
     {
       "time": "Afternoon",
-      "line": "An open stretch until the airport run, the last window with real signal before the boat."
+      "line": "Check out by ten, rental back at TPA around noon, then a few open hours at the gate before boarding."
     },
     {
       "time": "Evening",
-      "line": "Wheels up for Frankfurt at 5:55, Dubrovnik in the morning, and a week of sailing after that."
+      "line": "Wheels up at 5:55 for Frankfurt, then the 9:15 hop lands you into Dubrovnik tomorrow morning."
     }
   ],
   "japanese": {
