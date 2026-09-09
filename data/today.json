@@ -1,64 +1,53 @@
 {
   "date": "Wednesday, September 9, 2026",
   "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "Frankfurt to the Adriatic.",
-  "greeting": "You land in Dubrovnik this afternoon, Dan. Tonight, on solid ground with real wifi, is the window to lock the sailing logistics before the boat cuts you off Saturday.",
+  "theme": "On the ground in Dubrovnik",
+  "greeting": "You're in Dubrovnik, Dan — in after the overnight from Tampa and into the Old Port apartment. The calendar itself is open; the real work is tying down the last charter logistics before you lose signal on Saturday.",
   "needsAttention": [
     {
-      "tag": "Before Saturday",
-      "title": "Lock the Cavtat arrival logistics",
-      "detail": "The Sept 19 transfer from Komolac to Cavtat, the hotel bag-hold, and the early Sunday checkout all still need arranging, and all have to be done from dry land before you board Saturday."
+      "tag": "Before you sail",
+      "title": "Lock the Cavtat transfers",
+      "detail": "The Sept 19 Cavtat hotel is booked, but the marina-to-Cavtat transfer, the early bag hold, and the pre-dawn Sept 20 checkout are all still open — and they have to be arranged from dry land before you board Saturday."
     },
     {
-      "tag": "Overdue",
-      "title": "Reach the Nautilus instructor",
-      "detail": "Open since Sept 5: confirm Saturday's boarding time and place, and the Sept 19 return transfer to the airport, before connectivity drops aboard."
+      "tag": "Overdue · sail Sat",
+      "title": "Confirm the Nautilus boarding details",
+      "detail": "Still owed: the exact boarding time and place for Saturday's charter, plus the return transfer to the airport on the 19th. Overdue since Friday and hard to sort once you're underway with no signal."
     },
     {
       "tag": "Due today",
-      "title": "Book the Sept 20 to Oct 5 SUV",
-      "detail": "No longer a hedge. Book the full-size SUV out of TPA outright so you're not at walk-up rates, jet-lagged, on a Sunday."
-    },
-    {
-      "tag": "Still open",
-      "title": "Close the St Pete landing gap",
-      "detail": "The Sept 20 to 22 nights are still unbooked, and the pending St Pete Airbnb for Sept 27 to Oct 5 is worth a glance to confirm it converted."
+      "title": "Book the Sept 20–Oct 5 rental car",
+      "detail": "The full-size SUV out of Tampa for the Florida stretch is no longer a hedge — book it outright so you're not at a walk-up counter, jet-lagged, on a Sunday."
     }
   ],
   "schedule": [
     {
-      "time": "3:15 PM",
-      "title": "Fly Frankfurt to Dubrovnik",
-      "detail": "LH 4296, lands around 5:05 PM local",
+      "time": "Late morning",
+      "title": "Landed in Dubrovnik",
+      "detail": "FRA→DBV in, checked into the Old Port apartment",
       "tag": "Travel"
-    },
-    {
-      "time": "Evening",
-      "title": "Check in at the Old Port apartment",
-      "detail": "Kneza Damjana Jude, Dubrovnik, Sep 9 to 12",
-      "tag": "Stay"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Valoris still owes you a call",
-        "detail": "Mike Lubrano flagged that you two need to connect on the Nomura and Japan intermediaries work."
+        "tag": "Security",
+        "title": "New Google sign-ins flagged",
+        "detail": "Two new-sign-in alerts on your Google account Monday — expected if that's you logging in from Europe, worth a glance if not."
       },
       {
-        "tag": "FYI",
-        "title": "Dubrovnik check-in details arrived",
-        "detail": "The host sent the Old Port apartment address and welcome for tonight."
+        "tag": "Security",
+        "title": "Briefings deploy token expired",
+        "detail": "GitHub says the briefings-deploy access token lapsed overnight; renew it next time you're at a keyboard."
       },
       {
         "tag": "Financial",
-        "title": "BA Visa payment posted",
-        "detail": "Chase confirmed your British Airways card payment went through."
+        "title": "Two payments cleared",
+        "detail": "A Morgan Stanley ACH and a Chase BA Visa payment both posted this morning — routine, no action."
       }
     ],
-    "noise": "Otherwise travel receipts and promos: baggage, PayPal, Booking.com, a couple of newsletters.",
-    "clear": "Nothing in the inbox needs a reply today."
+    "noise": "The rest is travel confirmations, gate-change alerts, booking receipts, and newsletters.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -66,7 +55,7 @@
     "phase": "green",
     "location": "Dubrovnik, Croatia",
     "confidence": "high",
-    "asOf": "Wednesday Sep 9"
+    "asOf": "Wed Sep 9"
   },
   "recipe": {
     "title": "Apple Butterscotch Tart",
@@ -74,6 +63,12 @@
     "why": "Autumn's first apples are coming in — this is the tart to lean into as the season turns."
   },
   "tasks": [
+    {
+      "title": "Book St Pete lodging for the Sept 20–22 landing gap",
+      "project": "Trip logistics",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
     {
       "title": "Destination edit work",
       "project": "Personal",
@@ -89,15 +84,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A Frankfurt layover behind you, the napcabs cabin having done its job overnight."
+      "line": "In from the overnight Tampa–Frankfurt–Dubrovnik run and checked into the Old Port place."
     },
     {
       "time": "Afternoon",
-      "line": "One short hop to Dubrovnik, wheels down around five local time."
+      "line": "Nothing on the calendar — the day is yours in the old town."
     },
     {
       "time": "Evening",
-      "line": "Settle into the Old Port flat, then clear the sailing logistics while you still have signal."
+      "line": "A quiet stretch ahead; the sailing course doesn't board until Saturday."
     }
   ],
   "japanese": {
