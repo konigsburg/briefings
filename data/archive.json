@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-09",
+    "kind": "Morning brief",
+    "label": "Wednesday, Sep 9 · 7:18 AM ET",
+    "summary": "A travel day into Croatia — Frankfurt to Dubrovnik, with the last dry-land logistics before Saturday's charter.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-08",
     "kind": "Morning brief",
     "label": "Tuesday, Sep 8 · 10:05 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Inbox summary",
     "label": "Wednesday, Aug 12 · 10 PM ET",
     "summary": "Quiet inbox mostly promos/receipts; one job-search email (sourcehire.app asking to confirm work authorization) looks like possible phishing — verify before acting. Chase statement ready ($359.14) and Amtrak tickets for tomorrow's trip.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-08-12",
-    "kind": "Morning brief",
-    "label": "Wednesday, Aug 12 · 8:13 PM ET",
-    "summary": "An open Wednesday with the girls at Jen's, winding toward tomorrow's afternoon train from New York to DC.",
     "ref": "today"
   }
 ]
