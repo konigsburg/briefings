@@ -1,68 +1,55 @@
 {
   "date": "Tuesday, September 8, 2026",
-  "generatedAt": "Morning brief · 10:02 PM ET",
+  "generatedAt": "Morning brief · 10:05 PM ET",
   "theme": "Wheels up for Croatia.",
-  "greeting": "You're in the air to Frankfurt tonight, Dan, with Dubrovnik landing in the morning. The girls are with Jen, so this stretch is yours and Mike's -- sailing prep and a few bookings to lock before the charter takes your signal.",
+  "greeting": "You're airborne with Tampa behind you and the coast ahead — Frankfurt overnight, then the short hop into Dubrovnik in the morning. The girls are with Jen for this stretch, so the trip is yours and Mike's.",
   "needsAttention": [
     {
       "tag": "Awaiting reply",
-      "title": "Kerrie Waring wants the AI paper",
-      "detail": "She replied on your governance thread this evening asking for the AI paper you referred to -- a quick send closes it, and she's a contact worth keeping warm."
+      "title": "Kerrie's waiting on the AI paper",
+      "detail": "She replied to your governance docs asking for the AI paper you'd referred to. A quick send closes it before connectivity thins out on the water."
     },
     {
-      "tag": "Book from land",
-      "title": "Last Croatia night in Cavtat",
-      "detail": "The single Sept 19 room in Cavtat is still unbooked (p1). Charter Wi-Fi is thin, so lock it and the noon marina transfer before you board Sept 12."
+      "tag": "Book before boarding",
+      "title": "The Cavtat night for Sept 19 is still open",
+      "detail": "The disembark-day room and the noon transfer from Komolac need booking from dry land — charter connectivity all but disappears once you're aboard on the 12th, so the window is really these next three days in Dubrovnik."
     },
     {
-      "tag": "Book from land",
-      "title": "St Pete landing gap, Sept 20-22",
-      "detail": "Two nights in St Pete before the Tue school pickup are still open (p1). Book while you still have signal these next few days ashore."
-    },
-    {
-      "tag": "Decision overdue",
+      "tag": "Decision open",
       "title": "Halloween: St Pete or Maine",
-      "detail": "Due Sept 5 and now past it -- the Oct 18-Nov 1 St Pete rental and Airbnb both hang on this one call."
+      "detail": "It was due the 5th and it's still unmade, with the Oct 18 rotation booking set to fire while you're at sea. Better landed before the boat than from it, since three downstream bookings hang off the call."
     }
   ],
   "schedule": [
     {
       "time": "5:55 PM",
       "title": "Flight to Frankfurt",
-      "detail": "UA 9661, TPA to FRA; overnight, lands early tomorrow",
+      "detail": "UA 9661, Tampa to FRA, overnight; connects to Dubrovnik at 9:15 AM tomorrow",
       "tag": "Travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Kerrie Waring replied",
-        "detail": "Governance contact asking for the AI paper on your whistleblower thread."
-      },
-      {
-        "tag": "FYI",
-        "title": "Croatia bags checked in",
-        "detail": "Discover Airlines confirms your Tampa-Dubrovnik baggage is on -- that worry's closed."
+        "tag": "Security",
+        "title": "GitHub deploy token expired",
+        "detail": "Your briefings-deploy access token lapsed today, worth regenerating next time you are at a real keyboard."
       }
     ],
-    "noise": "The rest is newsletters and promos -- Ridgeline, Press Herald, Field, SiriusXM, HBO Max.",
-    "clear": ""
+    "noise": "Everything else is newsletters and promos: Ridgeline, the Press Herald, HBO Max, Field, SiriusXM, Patreon.",
+    "clear": "Nothing else in the inbox needs you tonight."
   },
   "resolved": [
     {
-      "title": "Croatia baggage confirmed",
-      "detail": "Discover Airlines checked your Tampa-Dubrovnik bags in this afternoon -- the p1 baggage worry is closed."
-    },
-    {
-      "title": "Whistleblower doc sent to Kerrie",
-      "detail": "You sent the re-cast 'The Organization' version this evening; only the AI paper she asked for is still owed."
+      "tag": "Closed",
+      "title": "Croatia bags confirmed on the ticket",
+      "detail": "Discover Airlines checked your two duffels through to Dubrovnik and sent the receipt, settling the checked-bag question that had been a P1 all week."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "In transit -- TPA to Frankfurt",
+    "location": "En route to Dubrovnik",
     "confidence": "high",
     "asOf": "Tuesday Sep 8"
   },
@@ -73,15 +60,21 @@
   },
   "tasks": [
     {
-      "title": "Contact the Nautilus instructor -- boarding time and return transfer",
-      "project": "Croatia trip",
+      "title": "Message the Nautilus instructor to confirm boarding time and the return transfer",
+      "project": "Travel",
       "due": "Overdue Sep 5",
       "overdue": true
     },
     {
-      "title": "Finish the Nautilus Masterclass videos (~68% done)",
-      "project": "Croatia trip",
-      "due": "Sep 6",
+      "title": "Book the St Pete landing-gap lodging, Sept 20 to 22",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Orlando and Disney tickets for the six of you",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -93,15 +86,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "St Pete checkout at 10 -- the last Airbnb of the Florida run is behind you."
+      "line": "Last checkout at the St Pete ranch, house cleared by ten and the rental back to Tampa around noon."
     },
     {
       "time": "Afternoon",
-      "line": "Tampa airport, then UA 9661 lifts off at 5:55 for the overnight to Frankfurt."
+      "line": "Bags checked straight through to Dubrovnik, the receipt landing in your inbox before you left the counter."
     },
     {
       "time": "Evening",
-      "line": "Somewhere over the Atlantic; Dubrovnik lands at 11 tomorrow and the apartment's booked."
+      "line": "Wheels up at 5:55 for the overnight to Frankfurt, then the short morning hop to the coast."
     }
   ],
   "japanese": {
