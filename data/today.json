@@ -1,56 +1,78 @@
 {
   "date": "Wednesday, September 9, 2026",
   "generatedAt": "Morning brief · 6:03 PM ET",
-  "theme": "Landed in Dubrovnik; the charter countdown begins.",
-  "greeting": "You're in Dubrovnik, Dan, keys in hand to the apartment above the Old Port. Everything still open points at one deadline: the Sept 12 sailing charter needs sorting from dry land, while connectivity is good.",
+  "theme": "Landed in Dubrovnik — the Adriatic leg begins.",
+  "greeting": "You made it to Dubrovnik, Dan. The Old Port apartment is yours for three nights, and the few loose ends worth closing are the ones that go dark once the boat swallows your signal on Saturday.",
   "needsAttention": [
     {
-      "tag": "Due today",
-      "title": "Lock the Sept 20-Oct 5 rental car",
-      "detail": "The p1 booking is due today: Full Size SUV out of TPA. No longer a hedge, since the Pathfinder can't reach Florida before Oct 18, so this cycle needs the rental. Don't land jet-lagged on a Sunday with no car."
-    },
-    {
-      "tag": "Before Sept 12",
-      "title": "Sort the Cavtat transfers",
-      "detail": "Hotel Epidaurus is booked, but the Komolac to Cavtat transfer, an early bag hold, and the ~5:15 AM Sept 20 checkout all need arranging from land before you board, when signal drops to nothing."
+      "tag": "Before the boat",
+      "title": "Lock the Cavtat arrangements",
+      "detail": "You board Saturday and charter connectivity is poor to none. The Komolac to Cavtat transfer, the bag hold before 3 PM check-in, and the early Sept 20 checkout all need arranging from dry land before Sept 12."
     },
     {
       "tag": "Overdue",
-      "title": "Confirm the Nautilus boarding details",
-      "detail": "Reach the sailing instructor to nail down Saturday Sept 12 boarding time and place, plus the return airport transfer after disembarking the 19th."
+      "title": "Confirm the Nautilus boarding",
+      "detail": "Reach the sailing instructor to pin Saturday's exact boarding time and place, and to set up the Sept 19 airport transfer. The packet says sort it early — easier now than once you are underway."
     },
     {
-      "tag": "Book the gap",
-      "title": "Close the Sept 20-22 St Pete nights",
-      "detail": "You land TPA Sept 20 but the kids aren't picked up until the 22nd; two nights near St Pete are still unbooked before the Orlando villa."
+      "tag": "Due today",
+      "title": "Book the Sept 20 to Oct 5 SUV",
+      "detail": "This one is no longer a hedge — the Pathfinder cannot be in Florida before Oct 18, so the rental is certain. Full-size SUV out of TPA, Sept 20 to Oct 5, ideally refundable."
+    },
+    {
+      "tag": "Awaiting reply",
+      "title": "Send Kerrie the AI paper",
+      "detail": "After you sent the whistleblower document, Kerrie Waring wrote back asking for the AI governance paper you had referenced. A quick send closes the loop."
     }
   ],
   "schedule": [
     {
-      "time": "11:05 AM",
+      "time": "5:05 PM",
       "title": "Landed in Dubrovnik",
-      "detail": "LH 4296 in from Frankfurt",
+      "detail": "LH4296 in from Frankfurt",
       "tag": "Travel"
     },
     {
-      "time": "Afternoon",
-      "title": "Apartment above the Old Port",
-      "detail": "Checked in through Sept 12",
+      "time": "Evening",
+      "title": "Into the Old Port apartment",
+      "detail": "Three nights before the charter",
       "tag": "Stay"
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "The rest is newsletters and promos: Delta, Foreign Affairs, NYT Cooking, ANA, and a dozen retailers.",
-    "clear": "Nothing in the inbox is waiting on your reply; the Dubrovnik host already sent the address and welcome."
+    "flagged": [
+      {
+        "tag": "Financial",
+        "title": "Clarke Customer Care invoice",
+        "detail": "An invoice for the July 31 appliance repair is marked due — worth a glance so it does not linger while you travel."
+      },
+      {
+        "tag": "Job search",
+        "title": "LinkedIn message from Yvonne",
+        "detail": "A new LinkedIn message is sitting unanswered — likely networking, worth a look when you have a moment."
+      },
+      {
+        "tag": "FYI",
+        "title": "Valoris and Nomura thread still live",
+        "detail": "Mike Lubrano is lining up Mercer contacts for Chie Mitsui and still wants a call with you when there is time."
+      }
+    ],
+    "noise": "The rest is travel plumbing — Airbnb and Booking.com confirmations, boarding passes, and card receipts.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Closed",
+      "title": "Carol Hansell call deferred",
+      "detail": "Carol reconnected wanting to talk; you offered today, and she replied to enjoy the sailing and pick it up once you are back after the 19th."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Dubrovnik, Croatia",
     "confidence": "high",
-    "asOf": "Wed Sep 9"
+    "asOf": "Wednesday Sep 9"
   },
   "recipe": {
     "title": "Apple Butterscotch Tart",
@@ -59,8 +81,14 @@
   },
   "tasks": [
     {
+      "title": "Book St Pete lodging for the Sept 20 to 22 landing gap",
+      "project": "Family Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
-      "project": "Destination",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -73,15 +101,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Overnight from Tampa through Frankfurt, you touched down in Dubrovnik just after 11."
+      "line": "Two flights carried you off the overnight from Tampa and down through Frankfurt to the coast."
     },
     {
       "time": "Afternoon",
-      "line": "Keys to the Old Port apartment; the city is yours through Friday."
+      "line": "You touched down in Dubrovnik and settled into the apartment above the Old Port."
     },
     {
       "time": "Evening",
-      "line": "A quiet evening in Dubrovnik, with the Saturday charter the only thing on the horizon."
+      "line": "The city is quiet and yours tonight; the Nautilus charter and Cavtat are still days out."
     }
   ],
   "japanese": {
