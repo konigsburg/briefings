@@ -1,57 +1,78 @@
 {
   "date": "Wednesday, September 9, 2026",
   "generatedAt": "Morning brief · 7:18 AM ET",
-  "theme": "Wheels up for Croatia.",
-  "greeting": "You're airborne with Tampa behind you and the coast ahead — Frankfurt overnight, then the short hop into Dubrovnik in the morning. The girls are with Jen for this stretch, so the trip is yours and Mike's.",
+  "theme": "A travel day into Croatia.",
+  "greeting": "You're between flights at Frankfurt this morning, Dan, with the Dubrovnik leg this afternoon and the charter three days out. The girls are with Jen through the 21st, so today is logistics and getting settled.",
   "needsAttention": [
     {
-      "tag": "Awaiting reply",
-      "title": "Kerrie's waiting on the AI paper",
-      "detail": "She replied to your governance docs asking for the AI paper you'd referred to. A quick send closes it before connectivity thins out on the water."
+      "tag": "Sailing prep",
+      "title": "Confirm Saturday's charter with the Nautilus instructor",
+      "detail": "Overdue since the 5th. Pin down the boarding time and place for Sat the 12th and arrange the return transfer to the airport — do it now, connectivity goes dark once you're underway."
     },
     {
-      "tag": "Book before boarding",
-      "title": "The Cavtat night for Sept 19 is still open",
-      "detail": "The disembark-day room and the noon transfer from Komolac need booking from dry land — charter connectivity all but disappears once you're aboard on the 12th, so the window is really these next three days in Dubrovnik."
+      "tag": "Croatia logistics",
+      "title": "Lock the Cavtat transfers and checkout",
+      "detail": "The hotel's booked, but the Komolac→Cavtat transfer, the bag hold, and the pre-dawn Sept 20 checkout all still need arranging from shore before you board Saturday."
     },
     {
-      "tag": "Decision open",
-      "title": "Halloween: St Pete or Maine",
-      "detail": "It was due the 5th and it's still unmade, with the Oct 18 rotation booking set to fire while you're at sea. Better landed before the boat than from it, since three downstream bookings hang off the call."
+      "tag": "Reply owed",
+      "title": "Send Kerrie Waring the AI paper",
+      "detail": "She wrote back yesterday asking for the AI governance paper you'd referred to after you sent her the whistleblower doc — a quick one to close out."
+    },
+    {
+      "tag": "Return trip",
+      "title": "Book the Sept 20–Oct 5 rental and close the St Pete gap",
+      "detail": "Both p1 and due — the full-size SUV from TPA and the Sept 20–22 landing nights. Worth clearing while you still have signal, and confirm the St Pete Airbnb converted from pending."
     }
   ],
   "schedule": [
     {
-      "time": "5:55 PM",
-      "title": "Flight to Frankfurt",
-      "detail": "UA 9661, Tampa to FRA, overnight; connects to Dubrovnik at 9:15 AM tomorrow",
+      "time": "3:15 PM",
+      "title": "Flight to Dubrovnik",
+      "detail": "LH4296, Frankfurt → DBV, on the ground by ~5 PM local",
+      "tag": "Flight"
+    },
+    {
+      "time": "Evening",
+      "title": "Old Port apartment",
+      "detail": "Check in, Dubrovnik through Saturday",
       "tag": "Travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "GitHub deploy token expired",
-        "detail": "Your briefings-deploy access token lapsed today, worth regenerating next time you are at a real keyboard."
+        "tag": "Job search",
+        "title": "Andrew Kaufmann wants to reconnect",
+        "detail": "InMail Saturday — his email to you bounced, he asks whether you're still at KPMG, and would welcome a conversation."
+      },
+      {
+        "tag": "Job search",
+        "title": "Mike Lubrano still wants that call",
+        "detail": "On the Nomura/Valoris thread he noted you two still need to talk; nothing owed yet, but it's sitting open."
+      },
+      {
+        "tag": "Financial",
+        "title": "Clarke Customer Care invoice due",
+        "detail": "For the July 31 appliance repair — an invoice, not a receipt, so it needs paying."
       }
     ],
-    "noise": "Everything else is newsletters and promos: Ridgeline, the Press Herald, HBO Max, Field, SiriusXM, Patreon.",
-    "clear": "Nothing else in the inbox needs you tonight."
+    "noise": "The rest is travel exhaust — boarding passes, booking receipts, and a napcabs invoice from your Frankfurt airport nap.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Closed",
-      "title": "Croatia bags confirmed on the ticket",
-      "detail": "Discover Airlines checked your two duffels through to Dubrovnik and sent the receipt, settling the checked-bag question that had been a P1 all week."
+      "tag": "Replied",
+      "title": "Answered Carol Hansell",
+      "detail": "She resurfaced with \"Still there?\"; you offered to talk today or after the 19th, so it's back in her court."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "En route to Dubrovnik",
+    "location": "Dubrovnik, Croatia",
     "confidence": "high",
-    "asOf": "Tuesday Sep 8"
+    "asOf": "Wednesday Sep 9"
   },
   "recipe": {
     "title": "Apple Butterscotch Tart",
@@ -60,41 +81,29 @@
   },
   "tasks": [
     {
-      "title": "Message the Nautilus instructor to confirm boarding time and the return transfer",
-      "project": "Travel",
-      "due": "Overdue Sep 5",
-      "overdue": true
-    },
-    {
-      "title": "Book the St Pete landing-gap lodging, Sept 20 to 22",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Orlando and Disney tickets for the six of you",
-      "project": "Travel",
-      "due": "Overdue Aug 28",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/5",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Last checkout at the St Pete ranch, house cleared by ten and the rental back to Tampa around noon."
+      "line": "A slow start at Frankfurt after the overnight from Tampa — airside at FRA with hours before the next leg."
     },
     {
       "time": "Afternoon",
-      "line": "Bags checked straight through to Dubrovnik, the receipt landing in your inbox before you left the counter."
+      "line": "The 3:15 to Dubrovnik takes you down over the Adriatic and onto the ground by early evening."
     },
     {
       "time": "Evening",
-      "line": "Wheels up at 5:55 for the overnight to Frankfurt, then the short morning hop to the coast."
+      "line": "Keys to the Old Port apartment, then the last dry-land logistics before Saturday's charter."
     }
   ],
   "japanese": {
