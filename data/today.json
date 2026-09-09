@@ -2,48 +2,67 @@
   "date": "Tuesday, September 8, 2026",
   "generatedAt": "Morning brief · 8:03 PM ET",
   "theme": "Wheels up for Croatia.",
-  "greeting": "You're wheels-up this evening for the Croatia sailing trip, Dan — a long night of flying, Frankfurt at dawn, and Dubrovnik by midday tomorrow. The girls are with Jen through the 21st, so the next two weeks are yours and Mike's.",
+  "greeting": "You're in the air to Frankfurt tonight, Dan, with Dubrovnik landing in the morning. The girls are with Jen, so this stretch is yours and Mike's -- sailing prep and a few bookings to lock before the charter takes your signal.",
   "needsAttention": [
     {
       "tag": "Awaiting reply",
-      "title": "Kerrie's waiting on the AI paper",
-      "detail": "Kerrie Waring replied to your whistleblower document asking for the AI paper you referred to. A two-minute send from the lounge closes it before you drop offline."
+      "title": "Kerrie Waring wants the AI paper",
+      "detail": "She replied on your governance thread this evening asking for the AI paper you referred to -- a quick send closes it, and she's a contact worth keeping warm."
     },
     {
       "tag": "Book from land",
-      "title": "Cavtat hotel for Sept 19 still open",
-      "detail": "The last night after the charter isn't booked, and you go dark once aboard on the 12th. Lock the Cavtat room and the noon transfer while you still have signal."
+      "title": "Last Croatia night in Cavtat",
+      "detail": "The single Sept 19 room in Cavtat is still unbooked (p1). Charter Wi-Fi is thin, so lock it and the noon marina transfer before you board Sept 12."
     },
     {
-      "tag": "Booking gap",
-      "title": "St Pete nights of Sept 20-21",
-      "detail": "You land back in Tampa Sept 20 but the girls' pickup isn't until the 22nd. The two-night landing-gap lodging is still pending."
+      "tag": "Book from land",
+      "title": "St Pete landing gap, Sept 20-22",
+      "detail": "Two nights in St Pete before the Tue school pickup are still open (p1). Book while you still have signal these next few days ashore."
+    },
+    {
+      "tag": "Decision overdue",
+      "title": "Halloween: St Pete or Maine",
+      "detail": "Due Sept 5 and now past it -- the Oct 18-Nov 1 St Pete rental and Airbnb both hang on this one call."
     }
   ],
   "schedule": [
     {
       "time": "5:55 PM",
       "title": "Flight to Frankfurt",
-      "detail": "UA 9661, Tampa to Frankfurt, overnight",
+      "detail": "UA 9661, TPA to FRA; overnight, lands early tomorrow",
       "tag": "Travel"
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "Just a Patreon teaser, a SiriusXM offer, an airline baggage receipt, and past Airbnb confirmations - nothing that needs you.",
+    "flagged": [
+      {
+        "tag": "Job search",
+        "title": "Kerrie Waring replied",
+        "detail": "Governance contact asking for the AI paper on your whistleblower thread."
+      },
+      {
+        "tag": "FYI",
+        "title": "Croatia bags checked in",
+        "detail": "Discover Airlines confirms your Tampa-Dubrovnik baggage is on -- that worry's closed."
+      }
+    ],
+    "noise": "The rest is newsletters and promos -- Ridgeline, Press Herald, Field, SiriusXM, HBO Max.",
     "clear": ""
   },
   "resolved": [
     {
-      "tag": "Sorted",
-      "title": "Croatia bags checked through",
-      "detail": "Discover Airlines confirmed your baggage is checked in for the Tampa-Dubrovnik flight, so the allowance question is settled."
+      "title": "Croatia baggage confirmed",
+      "detail": "Discover Airlines checked your Tampa-Dubrovnik bags in this afternoon -- the p1 baggage worry is closed."
+    },
+    {
+      "title": "Whistleblower doc sent to Kerrie",
+      "detail": "You sent the re-cast 'The Organization' version this evening; only the AI paper she asked for is still owed."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "En route to Croatia",
+    "location": "In transit -- TPA to Frankfurt",
     "confidence": "high",
     "asOf": "Tuesday Sep 8"
   },
@@ -54,27 +73,15 @@
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Projects",
-      "due": "Overdue Aug 15",
-      "overdue": true
-    },
-    {
-      "title": "Book Sept 20-Oct 5 backup rental car",
-      "project": "Travel",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Decide Halloween - St Pete or Maine",
-      "project": "Travel",
+      "title": "Contact the Nautilus instructor -- boarding time and return transfer",
+      "project": "Croatia trip",
       "due": "Overdue Sep 5",
       "overdue": true
     },
     {
-      "title": "Contact the Nautilus instructor",
-      "project": "Travel",
-      "due": "Overdue Sep 5",
+      "title": "Finish the Nautilus Masterclass videos (~68% done)",
+      "project": "Croatia trip",
+      "due": "Sep 6",
       "overdue": true
     }
   ],
@@ -86,15 +93,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The last quiet hours on the ground before a long day of flying."
+      "line": "St Pete checkout at 10 -- the last Airbnb of the Florida run is behind you."
     },
     {
       "time": "Afternoon",
-      "line": "Into Tampa for the 5:55 departure - the trip proper starts at the gate."
+      "line": "Tampa airport, then UA 9661 lifts off at 5:55 for the overnight to Frankfurt."
     },
     {
-      "time": "Evening onward",
-      "line": "Overnight to Frankfurt, then the Dubrovnik connection lands you in Croatia by midday tomorrow."
+      "time": "Evening",
+      "line": "Somewhere over the Atlantic; Dubrovnik lands at 11 tomorrow and the apartment's booked."
     }
   ],
   "japanese": {
