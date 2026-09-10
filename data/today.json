@@ -1,50 +1,47 @@
 {
   "date": "Thursday, September 10, 2026",
   "generatedAt": "Morning brief · 6:02 PM ET",
-  "theme": "In Dubrovnik, with a closing logistics window before the boat.",
-  "greeting": "You're in Dubrovnik with an open day and no meetings, Dan. The one thing worth spending it on: everything that has to be nailed down from dry land before you board Saturday and lose signal.",
+  "theme": "A free day in Dubrovnik before the charter.",
+  "greeting": "The calendar is wide open, Dan - you're in Dubrovnik with the day to yourself. Worth spending a little of it on the pieces that get harder once you're on the water Saturday.",
   "needsAttention": [
     {
-      "tag": "Window closing",
-      "title": "Confirm the sailing instructor before Saturday",
-      "detail": "Boarding is Sat Sept 12 (~5PM) and connectivity dies once you're underway. Confirm the exact meeting time and place, and lock the return transfer to the airport for disembark Sat Sept 19 by 8AM now, not mid-course."
+      "tag": "Before you board",
+      "title": "Confirm boarding with your instructor",
+      "detail": "The Nautilus charter boards Saturday and connectivity goes dark once underway - lock the meeting time and place, and arrange the Sept 19 return transfer to the airport, while you're still on land."
     },
     {
-      "tag": "Off-grid soon",
-      "title": "Close the three Cavtat loose ends",
-      "detail": "All three need doing from land before you board: the Komolac to Cavtat transfer (~noon Sat Sept 19), a bag hold at Remisens before 3PM check-in, and a ~5:15AM express checkout Sun Sept 20 for LH4297. The hotel's free-cancellation also ends Sept 15 while you're at sea."
+      "tag": "Land-side only",
+      "title": "Nail down the Cavtat pieces",
+      "detail": "Three things to arrange before Saturday: the Sept 19 transfer from Komolac to Cavtat, a bag hold ahead of the 3 PM check-in, and a 5:15 AM checkout on the 20th for the 7:30 flight."
     },
     {
-      "tag": "Awaiting reply",
-      "title": "Send Kerrie the AI paper she asked for",
-      "detail": "After you sent the whistleblower doc, Kerrie Waring at CGI replied asking for the AI paper you'd referenced. Worth firing off before you go dark for a week."
+      "tag": "Book outright",
+      "title": "Reserve the Sept 20 to Oct 5 rental car",
+      "detail": "No longer a hedge - book the Full Size SUV at TPA now, so you're not at a walk-up counter, jet-lagged, on a Sunday."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Clarke Customer Care invoice due",
-        "detail": "Appliance repair invoice from the July 31 visit is showing due. A quick one to clear before travel."
-      },
-      {
         "tag": "FYI",
-        "title": "Nomura intermediaries thread — call still pending",
-        "detail": "Mike Lubrano flagged you still owe each other a call on the Nomura / Chie Mitsui work; nothing time-critical, but it hasn't been scheduled."
+        "title": "The Nomura intro thread is still warm",
+        "detail": "Mike Lubrano wants a call about the Chie/Nomura work - nothing owed while you're at sea."
       }
     ],
-    "noise": "Language lessons, market and local newsletters, and a stack of booking and boarding-pass receipts.",
+    "noise": "Otherwise it's newsletters and receipts - Rancho Gordo, a Hilton statement, your language lessons.",
     "clear": ""
   },
   "resolved": [
     {
-      "title": "Cavtat hotel is booked",
-      "detail": "Remisens Hotel Epidaurus confirmed Sept 9 (conf 5547387205), sea-view family room, breakfast in — just the transfers left."
+      "tag": "Parked",
+      "title": "Carol Hansell reconnect",
+      "detail": "She replied 'let's talk when you're back' - set for after the 19th, nothing owed now."
     },
     {
-      "title": "Carol Hansell call is parked, not dropped",
-      "detail": "You two agreed to talk after you're back on the 19th; she wished you happy sailing, so nothing is owed right now."
+      "tag": "Booked",
+      "title": "Cavtat hotel confirmed",
+      "detail": "Remisens Epidaurus came through Sept 9 - booking 5547387205."
     }
   ],
   "context": {
@@ -61,20 +58,20 @@
   },
   "tasks": [
     {
-      "title": "Book the Sept 20 – Oct 5 rental car outright (Full Size SUV, TPA)",
-      "project": "Travel",
-      "due": "Overdue Sep 9",
-      "overdue": true
-    },
-    {
-      "title": "Book St Pete lodging for the Sept 20–22 landing gap",
+      "title": "Book St Pete lodging for the Sept 20-22 landing gap",
       "project": "Travel",
       "due": "Overdue Aug 25",
       "overdue": true
     },
     {
+      "title": "Pre-boarding provisions in Dubrovnik - cash, snacks, drinks",
+      "project": "Travel",
+      "due": "Due Sep 11",
+      "overdue": false
+    },
+    {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -87,15 +84,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open day in Dubrovnik with nothing on the calendar but your apartment stay."
+      "line": "No meetings on the calendar - an open morning in the Old Port apartment."
     },
     {
       "time": "Afternoon",
-      "line": "The logistics window: instructor, Cavtat transfers, and the return-leg bookings all want doing while you still have signal."
+      "line": "The land-side charter errands: instructor, transfers, and provisions before Saturday."
     },
     {
       "time": "Evening",
-      "line": "Two days out from boarding the Nautilus course; anything not settled now waits until you're back on land the 19th."
+      "line": "Dubrovnik is yours tonight; the boat boards Saturday at five."
     }
   ],
   "japanese": {
