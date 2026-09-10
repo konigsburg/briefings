@@ -1,28 +1,18 @@
 {
   "date": "Thursday, September 10, 2026",
   "generatedAt": "Morning brief · 12:02 PM ET",
-  "theme": "A dry-land day in Dubrovnik before the boat.",
-  "greeting": "The calendar is clear today, Dan — nothing between you and Dubrovnik. What matters is the short list of things that can only be done from shore before Saturday's charter.",
+  "theme": "An open day in Dubrovnik before Saturday's charter.",
+  "greeting": "The calendar is clear today, Dan — an open day in Dubrovnik before the sailing course begins Saturday. The only things carrying a clock are the last bits of shore-side logistics, best closed while you still have connectivity.",
   "needsAttention": [
     {
       "tag": "Before Saturday",
-      "title": "Lock the Cavtat transfers from shore",
-      "detail": "The Sept 19 hotel is booked, but the Komolac to Cavtat transfer, an afternoon bag hold, and a 5:15 AM Sept 20 checkout for the 7:30 flight all need arranging now — the charter has almost no signal once you board."
+      "title": "Sailing course boarding details",
+      "detail": "The Nautilus instructor still needs confirming — boarding time and place on the 12th, plus the return transfer to the airport on the 19th. Once the charter is underway connectivity is poor, so it is a dry-land item."
     },
     {
       "tag": "Before Saturday",
-      "title": "Confirm the charter boarding",
-      "detail": "Reach the Nautilus instructor while you are still on land to pin down Saturday's boarding time and place, and the Sept 19 return transfer to the airport."
-    },
-    {
-      "tag": "Overdue - p1",
-      "title": "Book the Sept 20 to Oct 5 car",
-      "detail": "This is no longer a hedge. Book the Full Size SUV at TPA outright for the landing and the Orlando run — a walk-up rate jet-lagged on a Sunday is the alternative."
-    },
-    {
-      "tag": "Awaiting reply",
-      "title": "Send Kerrie the AI paper",
-      "detail": "Kerrie Waring wrote back asking for the AI governance paper you mentioned. Worth answering before you lose signal for the week."
+      "title": "Cavtat wrap-up still open",
+      "detail": "Three things remain for Sept 19: the Komolac-to-Cavtat transfer, a bag hold before the 3 PM check-in, and an early checkout for the 5:15 AM airport run on the 20th. All need arranging before you board."
     }
   ],
   "schedule": [],
@@ -30,20 +20,14 @@
     "flagged": [
       {
         "tag": "FYI",
-        "title": "Valoris call still pending",
-        "detail": "Mike Lubrano flagged that you two still need a call about the Nomura/NRI project; no time is set yet."
+        "title": "Valoris–Nomura call still pending",
+        "detail": "Marc Lubrano flagged last week that you two still need to connect on the Nomura intermediaries project. Nothing owed today, and it will keep until you are back online."
       }
     ],
-    "noise": "The rest is booking receipts, Airbnb confirmations, and the daily language newsletters.",
+    "noise": "Otherwise it is newsletters and travel receipts — Responsible Investor, NYT Cooking, JetBlue, napcabs, and the flight and baggage confirmations for Dubrovnik.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Deferred",
-      "title": "Carol Hansell will reconnect after the 19th",
-      "detail": "Carol closed the loop — 'Happy sailing! Let's talk when you are back' — so the intro call moves to after your return."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -58,9 +42,21 @@
   },
   "tasks": [
     {
-      "title": "Close the St Pete landing-gap lodging",
-      "project": "Family Travel",
+      "title": "Book the St Pete landing-gap lodging (Sept 20–22)",
+      "project": "Travel",
       "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Book the Sept 20 – Oct 5 rental car outright",
+      "project": "Travel",
+      "due": "Overdue Sept 9",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -72,18 +68,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning in the Old Port apartment, with no meetings on the calendar anywhere in the Dubrovnik stay.",
-      "tag": "open"
+      "line": "Nothing on the calendar — the morning in Dubrovnik is entirely open."
     },
     {
       "time": "Afternoon",
-      "line": "The dry-land list comes due: transfers, the early checkout, and the charter instructor, all before Saturday.",
-      "tag": "logistics"
+      "line": "The last errands before you lose connectivity sit here, whenever you get to them."
     },
     {
       "time": "Evening",
-      "line": "One of the last quiet evenings ashore before a week at sea on the Nautilus.",
-      "tag": "quiet"
+      "line": "Two nights ashore remain before Saturday's boarding."
     }
   ],
   "japanese": {
