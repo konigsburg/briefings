@@ -1,31 +1,41 @@
 {
   "date": "Thursday, September 10, 2026",
   "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "An open day in Dubrovnik before Saturday's charter.",
-  "greeting": "The calendar is clear today, Dan — an open day in Dubrovnik before the sailing course begins Saturday. The only things carrying a clock are the last bits of shore-side logistics, best closed while you still have connectivity.",
+  "theme": "An open Dubrovnik day, with dry-land prep due before Saturday's charter.",
+  "greeting": "The calendar is empty in Dubrovnik, Dan, so the day is yours. The one thing worth spending it on is the prep that has to happen before you board the Nautilus Saturday, when connectivity goes dark.",
   "needsAttention": [
     {
       "tag": "Before Saturday",
-      "title": "Sailing course boarding details",
-      "detail": "The Nautilus instructor still needs confirming — boarding time and place on the 12th, plus the return transfer to the airport on the 19th. Once the charter is underway connectivity is poor, so it is a dry-land item."
+      "title": "Confirm Nautilus boarding and return transfer",
+      "detail": "You board Sat Sep 12 (~5 PM), but the instructor still needs to confirm the exact time and location, and the airport transfer for disembarking Sep 19 should be arranged now. Charter connectivity is poor once underway, so this is a dry-land job."
     },
     {
       "tag": "Before Saturday",
-      "title": "Cavtat wrap-up still open",
-      "detail": "Three things remain for Sept 19: the Komolac-to-Cavtat transfer, a bag hold before the 3 PM check-in, and an early checkout for the 5:15 AM airport run on the 20th. All need arranging before you board."
+      "title": "Close the Cavtat Sep 19 loose ends",
+      "detail": "Hotel Epidaurus is booked, but the Komolac-to-Cavtat transfer, an early-afternoon bag hold, and the ~5:15 AM Sep 20 checkout and airport taxi all still need arranging from shore before you board."
+    },
+    {
+      "tag": "Travel · overdue",
+      "title": "Book the Sep 20-Oct 5 rental car outright",
+      "detail": "No longer a hedge: the Pathfinder is being driven down later, so a Full Size SUV out of TPA for Sep 20-Oct 5 needs booking now, refundable if possible. You land TPA jet-lagged on a Sunday and shouldn't arrive without a car."
+    },
+    {
+      "tag": "Travel · overdue",
+      "title": "Cover the Sep 20-22 St Pete gap",
+      "detail": "You land TPA Sun Sep 20 but the kids aren't picked up until Tue Sep 22, leaving two unbooked nights near St Pete. Also worth confirming the Sep 27-Oct 5 St Pete Airbnb converted from pending to confirmed."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Valoris–Nomura call still pending",
-        "detail": "Marc Lubrano flagged last week that you two still need to connect on the Nomura intermediaries project. Nothing owed today, and it will keep until you are back online."
+        "tag": "Job search",
+        "title": "Nomura intro call still pending with Mike Lubrano",
+        "detail": "The Valoris/Nomura networking thread is warm: Mike wants to schedule a call and floated a real project for Nomura. Nothing owed today, but worth a reply once you're back on solid connectivity."
       }
     ],
-    "noise": "Otherwise it is newsletters and travel receipts — Responsible Investor, NYT Cooking, JetBlue, napcabs, and the flight and baggage confirmations for Dubrovnik.",
-    "clear": ""
+    "noise": "The rest of the inbox is retail and newsletters: Indochino, Chairish, NYT Cooking, Rocco Forte, Midcoast Villager.",
+    "clear": "Nothing security, account, or financial needs you this morning."
   },
   "resolved": [],
   "context": {
@@ -42,15 +52,27 @@
   },
   "tasks": [
     {
-      "title": "Book the St Pete landing-gap lodging (Sept 20–22)",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
+      "title": "Confirm Nautilus boarding time and return transfer",
+      "project": "Croatia trip",
+      "due": "Overdue Sep 5",
       "overdue": true
     },
     {
-      "title": "Book the Sept 20 – Oct 5 rental car outright",
-      "project": "Travel",
-      "due": "Overdue Sept 9",
+      "title": "Close Cavtat Sep 19 transfers and early checkout",
+      "project": "Croatia trip",
+      "due": "Overdue Sep 9",
+      "overdue": true
+    },
+    {
+      "title": "Book Sep 20-Oct 5 rental car (TPA)",
+      "project": "Fall trip",
+      "due": "Overdue Sep 9",
+      "overdue": true
+    },
+    {
+      "title": "Book St Pete lodging for the Sep 20-22 gap",
+      "project": "Fall trip",
+      "due": "Overdue Aug 25",
       "overdue": true
     },
     {
@@ -61,22 +83,22 @@
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the morning in Dubrovnik is entirely open."
+      "line": "Nothing on the calendar in Dubrovnik, so the morning is entirely open."
     },
     {
       "time": "Afternoon",
-      "line": "The last errands before you lose connectivity sit here, whenever you get to them."
+      "line": "Best spent on the shore prep: nail down the Nautilus boarding details and the Cavtat transfers while you still have signal."
     },
     {
       "time": "Evening",
-      "line": "Two nights ashore remain before Saturday's boarding."
+      "line": "An easy night before Saturday's charter, with the girls over with Jen this stretch."
     }
   ],
   "japanese": {
