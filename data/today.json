@@ -1,51 +1,48 @@
 {
   "date": "Thursday, September 10, 2026",
   "generatedAt": "Morning brief · 10:14 AM ET",
-  "theme": "An open day in Dubrovnik, before Saturday's boat.",
-  "greeting": "The whole day is yours, Dan — no meetings on the calendar. Spend the connected hours clearing charter prep before you board Saturday and lose signal.",
+  "theme": "A dry-land day in Dubrovnik before the boat.",
+  "greeting": "The calendar is clear today, Dan — nothing between you and Dubrovnik. What matters is the short list of things that can only be done from shore before Saturday's charter.",
   "needsAttention": [
     {
       "tag": "Before Saturday",
-      "title": "Clear the charter prep",
-      "detail": "Pre-book the Komolac→Cavtat transfer, confirm the hotel bag-hold and early Sept 20 checkout, and confirm your Nautilus boarding time and return transfer — all while you're on land, since you board Saturday and lose connectivity."
+      "title": "Lock the Cavtat transfers from shore",
+      "detail": "The Sept 19 hotel is booked, but the Komolac to Cavtat transfer, an afternoon bag hold, and a 5:15 AM Sept 20 checkout for the 7:30 flight all need arranging now — the charter has almost no signal once you board."
     },
     {
-      "tag": "Owed reply",
+      "tag": "Before Saturday",
+      "title": "Confirm the charter boarding",
+      "detail": "Reach the Nautilus instructor while you are still on land to pin down Saturday's boarding time and place, and the Sept 19 return transfer to the airport."
+    },
+    {
+      "tag": "Overdue - p1",
+      "title": "Book the Sept 20 to Oct 5 car",
+      "detail": "This is no longer a hedge. Book the Full Size SUV at TPA outright for the landing and the Orlando run — a walk-up rate jet-lagged on a Sunday is the alternative."
+    },
+    {
+      "tag": "Awaiting reply",
       "title": "Send Kerrie the AI paper",
-      "detail": "Kerrie Waring replied to your whistleblower document asking for the AI paper you referenced — a quick send while you have Dubrovnik wifi."
-    },
-    {
-      "tag": "Overdue · logistics",
-      "title": "Lock Florida arrival logistics",
-      "detail": "The Sept 20–Oct 5 Tampa SUV rental and the Sept 20–22 St Pete lodging gap are both overdue p1; settle now rather than mid-charter, and glance that the St Pete Airbnb flipped from pending to confirmed."
+      "detail": "Kerrie Waring wrote back asking for the AI governance paper you mentioned. Worth answering before you lose signal for the week."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Clarke Customer Care invoice due",
-        "detail": "Appliance-repair invoice from a 7/31 visit is open. (The BRT invoice #1091, $1,152.84, already shows paid Sept 8.)"
-      },
-      {
-        "tag": "Security",
-        "title": "Two Google sign-in alerts",
-        "detail": "New sign-in notices on Sept 7 and Sept 8, consistent with your travel logins — worth a glance to confirm they're yours."
-      },
-      {
-        "tag": "Job search",
-        "title": "LinkedIn messages awaiting reply",
-        "detail": "Agnieszka Dziewulska (a Chief People Officer) and 'Yvonne' are waiting on you; the rest are automated job alerts, not personal outreach."
+        "tag": "FYI",
+        "title": "Valoris call still pending",
+        "detail": "Mike Lubrano flagged that you two still need a call about the Nomura/NRI project; no time is set yet."
       }
     ],
-    "noise": "Mostly travel receipts (napcabs, Booking, ParkMobile, Square), Care.com applicant alerts, and newsletters (Lufthansa, NYPL, Yale Club of Maine).",
+    "noise": "The rest is booking receipts, Airbnb confirmations, and the daily language newsletters.",
     "clear": ""
   },
   "resolved": [
-    "BRT invoice #1091 to Brian Tucker paid Sept 8 ($1,152.84).",
-    "Cavtat hotel (Remisens Epidaurus, Sept 19) booked Sept 9 — sea-view family room, breakfast included.",
-    "Arrived in Dubrovnik — bags checked Tampa→Dubrovnik, apartment check-in smooth."
+    {
+      "tag": "Deferred",
+      "title": "Carol Hansell will reconnect after the 19th",
+      "detail": "Carol closed the loop — 'Happy sailing! Let's talk when you are back' — so the intro call moves to after your return."
+    }
   ],
   "context": {
     "kids": false,
@@ -61,9 +58,9 @@
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Work",
-      "due": "Overdue Aug 15",
+      "title": "Close the St Pete landing-gap lodging",
+      "project": "Family Travel",
+      "due": "Overdue Aug 25",
       "overdue": true
     }
   ],
@@ -75,15 +72,18 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open start in Dubrovnik, with the Old Port and a slow coffee before anything else."
+      "line": "A clear morning in the Old Port apartment, with no meetings on the calendar anywhere in the Dubrovnik stay.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "The last reliable stretch of signal before the boat, worth spending on whatever needs the internet."
+      "line": "The dry-land list comes due: transfers, the early checkout, and the charter instructor, all before Saturday.",
+      "tag": "logistics"
     },
     {
       "time": "Evening",
-      "line": "A calm last night ashore before Saturday's boarding."
+      "line": "One of the last quiet evenings ashore before a week at sea on the Nautilus.",
+      "tag": "quiet"
     }
   ],
   "japanese": {
