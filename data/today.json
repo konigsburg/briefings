@@ -1,72 +1,49 @@
 {
   "date": "Thursday, September 10, 2026",
   "generatedAt": "Morning brief · 7:15 AM ET",
-  "theme": "Landed in Dubrovnik — two days of shore before the boat.",
-  "greeting": "You're in Dubrovnik, checked into the apartment above the Old Port through Friday. Before the charter takes you offline Saturday, a short list wants dry land.",
+  "theme": "Clear the decks before Saturday's charter.",
+  "greeting": "An open day in Dubrovnik, Dan, with the girls at Jen's. Saturday you board the Nautilus charter and signal goes dark, so today is the day to tie off the transfers, the car, and the St Pete gap while you still can.",
   "needsAttention": [
     {
-      "tag": "Awaiting reply",
-      "title": "Kerrie's waiting on the AI paper",
-      "detail": "After you sent the whistleblower document, Kerrie Waring replied asking for the AI paper you'd referred to. A quick send closes it before the boat cuts your signal."
+      "tag": "Before Saturday",
+      "title": "Confirm the charter boarding and return",
+      "detail": "You board Saturday and connectivity drops to nothing on the water. Confirm the exact boarding time and location, and arrange the airport transfer for disembarkation on the 19th, while you're still ashore."
     },
     {
-      "tag": "Before Saturday",
-      "title": "Confirm the Nautilus charter details",
-      "detail": "Boarding time and location for Saturday, plus the return transfer to the airport on the 19th, still aren't confirmed with the instructor. Sort it from shore while you have connectivity."
+      "tag": "Window closing",
+      "title": "Cavtat hotel: transfers, bag hold, checkout",
+      "detail": "All three need sorting from dry land before you sail: the noon transfer Komolac to Cavtat on the 19th, an early-afternoon bag hold, and the ~5:15 AM checkout for LH4297. The hotel is free-cancel only until Sept 15."
     },
     {
-      "tag": "Before Saturday",
-      "title": "Cavtat transfers still open",
-      "detail": "The room's booked, but the Komolac to Cavtat transfer, the early bag hold, and the 5 AM Sunday checkout all need arranging from dry land before you board — and free cancellation ends Sept 15."
+      "tag": "Book it",
+      "title": "Lock the Sept 20 to Oct 5 rental car",
+      "detail": "No longer a hedge, since the Pathfinder can't reach Florida before Oct 18. Full-size SUV at TPA, Sept 20 to Oct 5, so you don't land jet-lagged on a Sunday to walk-up rates."
+    },
+    {
+      "tag": "Verify and book",
+      "title": "Close the St Pete lodging gap",
+      "detail": "Two nights still open Sept 20 to 22 before the Orlando villa. Also glance at whether the Sept 27 to Oct 5 St Pete Airbnb converted from pending to confirmed."
     }
   ],
-  "schedule": [
-    {
-      "time": "9:15 AM",
-      "title": "Flight to Dubrovnik",
-      "detail": "Frankfurt to Dubrovnik, LH 4296 — the last leg in.",
-      "tag": "Travel"
-    },
-    {
-      "time": "Afternoon",
-      "title": "Old Port apartment",
-      "detail": "Checked in, Sep 9-12.",
-      "tag": "Stay"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Clarke appliance invoice due",
-        "detail": "Clarke Customer Care sent the invoice for the July 31 repair."
-      },
-      {
         "tag": "Job search",
-        "title": "LinkedIn message from Yvonne",
-        "detail": "A LinkedIn message from Yvonne is sitting unanswered — worth a look for who it is."
-      },
-      {
-        "tag": "FYI",
-        "title": "Mike still wants a call on Nomura",
-        "detail": "The Valoris-Nomura intermediaries thread has gone quiet since last week; Mike Lubrano flagged that you two still need to talk."
+        "title": "Valoris / Nomura call still owed",
+        "detail": "Mike Lubrano wants to schedule the call and floated proposing a real project for Nomura; your reply has been sitting since last week."
       }
     ],
-    "noise": "The rest is travel logistics — Airbnb and Booking.com confirmations, boarding passes, a PayPal receipt, a Chase payment notice.",
+    "noise": "Everything else is travel confirmations and receipts: Airbnb, Chase, PayPal, a baggage receipt.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "title": "Carol Hansell call parked until after the trip",
-      "detail": "You offered to talk before leaving; Carol replied 'Happy sailing, let's talk when you're back,' so it's set for after the 19th."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Dubrovnik, Croatia",
     "confidence": "high",
-    "asOf": "Wed Sep 9"
+    "asOf": "Thursday Sep 10"
   },
   "recipe": {
     "title": "Grilled quail with braised chestnuts & kabocha squash",
@@ -75,41 +52,29 @@
   },
   "tasks": [
     {
-      "title": "Book the Sept 20-Oct 5 rental car outright",
-      "project": "Travel",
-      "due": "Due today",
-      "overdue": false
-    },
-    {
-      "title": "Book St Pete lodging for the Sept 20-22 landing gap",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
+      "title": "Sort Disney tickets for the Sept 26 to 27 weekend",
+      "project": "Family Travel",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The last leg out of Frankfurt, wheels down in Dubrovnik by early afternoon."
+      "line": "An open start in Dubrovnik, with the Old Port and a slow coffee before anything else."
     },
     {
       "time": "Afternoon",
-      "line": "Into the apartment above the Old Port, yours through Friday."
+      "line": "The last reliable stretch of signal before the boat, worth spending on whatever needs the internet."
     },
     {
       "time": "Evening",
-      "line": "Settle in — the charter boards Saturday, so the next two days belong to Dubrovnik."
+      "line": "A calm last night ashore before Saturday's boarding."
     }
   ],
   "japanese": {
