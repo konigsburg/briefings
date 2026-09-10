@@ -1,43 +1,52 @@
 {
   "date": "Thursday, September 10, 2026",
   "generatedAt": "Morning brief · 8:16 AM ET",
-  "theme": "Clear the decks before Saturday's charter.",
-  "greeting": "An open day in Dubrovnik, Dan, with the girls at Jen's. Saturday you board the Nautilus charter and signal goes dark, so today is the day to tie off the transfers, the car, and the St Pete gap while you still can.",
+  "theme": "An open day in Dubrovnik, before Saturday's boat.",
+  "greeting": "The whole day is yours, Dan — no meetings on the calendar. Spend the connected hours clearing charter prep before you board Saturday and lose signal.",
   "needsAttention": [
     {
       "tag": "Before Saturday",
-      "title": "Confirm the charter boarding and return",
-      "detail": "You board Saturday and connectivity drops to nothing on the water. Confirm the exact boarding time and location, and arrange the airport transfer for disembarkation on the 19th, while you're still ashore."
+      "title": "Clear the charter prep",
+      "detail": "Pre-book the Komolac→Cavtat transfer, confirm the hotel bag-hold and early Sept 20 checkout, and confirm your Nautilus boarding time and return transfer — all while you're on land, since you board Saturday and lose connectivity."
     },
     {
-      "tag": "Window closing",
-      "title": "Cavtat hotel: transfers, bag hold, checkout",
-      "detail": "All three need sorting from dry land before you sail: the noon transfer Komolac to Cavtat on the 19th, an early-afternoon bag hold, and the ~5:15 AM checkout for LH4297. The hotel is free-cancel only until Sept 15."
+      "tag": "Owed reply",
+      "title": "Send Kerrie the AI paper",
+      "detail": "Kerrie Waring replied to your whistleblower document asking for the AI paper you referenced — a quick send while you have Dubrovnik wifi."
     },
     {
-      "tag": "Book it",
-      "title": "Lock the Sept 20 to Oct 5 rental car",
-      "detail": "No longer a hedge, since the Pathfinder can't reach Florida before Oct 18. Full-size SUV at TPA, Sept 20 to Oct 5, so you don't land jet-lagged on a Sunday to walk-up rates."
-    },
-    {
-      "tag": "Verify and book",
-      "title": "Close the St Pete lodging gap",
-      "detail": "Two nights still open Sept 20 to 22 before the Orlando villa. Also glance at whether the Sept 27 to Oct 5 St Pete Airbnb converted from pending to confirmed."
+      "tag": "Overdue · logistics",
+      "title": "Lock Florida arrival logistics",
+      "detail": "The Sept 20–Oct 5 Tampa SUV rental and the Sept 20–22 St Pete lodging gap are both overdue p1; settle now rather than mid-charter, and glance that the St Pete Airbnb flipped from pending to confirmed."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
+        "tag": "Financial",
+        "title": "Clarke Customer Care invoice due",
+        "detail": "Appliance-repair invoice from a 7/31 visit is open. (The BRT invoice #1091, $1,152.84, already shows paid Sept 8.)"
+      },
+      {
+        "tag": "Security",
+        "title": "Two Google sign-in alerts",
+        "detail": "New sign-in notices on Sept 7 and Sept 8, consistent with your travel logins — worth a glance to confirm they're yours."
+      },
+      {
         "tag": "Job search",
-        "title": "Valoris / Nomura call still owed",
-        "detail": "Mike Lubrano wants to schedule the call and floated proposing a real project for Nomura; your reply has been sitting since last week."
+        "title": "LinkedIn messages awaiting reply",
+        "detail": "Agnieszka Dziewulska (a Chief People Officer) and 'Yvonne' are waiting on you; the rest are automated job alerts, not personal outreach."
       }
     ],
-    "noise": "Everything else is travel confirmations and receipts: Airbnb, Chase, PayPal, a baggage receipt.",
+    "noise": "Mostly travel receipts (napcabs, Booking, ParkMobile, Square), Care.com applicant alerts, and newsletters (Lufthansa, NYPL, Yale Club of Maine).",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    "BRT invoice #1091 to Brian Tucker paid Sept 8 ($1,152.84).",
+    "Cavtat hotel (Remisens Epidaurus, Sept 19) booked Sept 9 — sea-view family room, breakfast included.",
+    "Arrived in Dubrovnik — bags checked Tampa→Dubrovnik, apartment check-in smooth."
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -48,18 +57,18 @@
   "recipe": {
     "title": "Grilled quail with braised chestnuts & kabocha squash",
     "book": "Canal House Cooks Every Day",
-    "why": "The first real week of autumn calls for kabocha and chestnuts — a slow, technique-driven plate for a cooling evening."
+    "why": "The first real week of autumn calls for kabocha and chestnuts — a slow, technique-driven plate waiting for you back home once the charter's behind you."
   },
   "tasks": [
     {
-      "title": "Sort Disney tickets for the Sept 26 to 27 weekend",
-      "project": "Family Travel",
-      "due": "Overdue Aug 28",
+      "title": "Destination edit work",
+      "project": "Work",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
