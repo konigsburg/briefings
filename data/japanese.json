@@ -1,83 +1,88 @@
 {
-  "lessonNo": 231,
-  "date": "Monday, Aug 31",
-  "generatedAt": "Lesson #231 · Aug 31",
-  "theme": "Permission & prohibition — ～てもいい (may) and ～てはいけない (must not)",
-  "intro": "Two everyday patterns built on the て-form: asking 'Can I…?' and reading the 'you must not…' rules while you travel and shop.",
+  "lessonNo": 232,
+  "date": "Thursday, Sep 10",
+  "generatedAt": "Lesson #232 · Sep 10",
+  "theme": "Giving & receiving — あげる・くれる・もらう (which direction the gift flows)",
+  "intro": "Japanese picks the verb by who the gift moves toward — perfect for souvenirs and gifts on your travels.",
   "grammar": {
-    "title": "～てもいい / ～てはいけない",
+    "title": "Giving & receiving: あげる・くれる・もらう",
     "rules": [
       {
-        "label": "～てもいい(です) = may / it's OK to",
-        "detail": "て-form + もいい(です). Ask permission with ～てもいいですか = 'May I…?'",
+        "label": "あげる (ageru) — give outward",
+        "detail": "I→someone, or someone→someone else; never TO me. Giver は/が, receiver に.",
         "examples": [
-          "食べて（たべて）→ 食べてもいいです → 'you may eat'"
+          "友だちに おみやげを あげました → tomodachi ni omiyage o agemashita (I gave my friend a souvenir)"
         ]
       },
       {
-        "label": "～てはいけません = must not / may not",
-        "detail": "て-form + はいけません. Note て+は is read 'te wa', not 'ha'.",
+        "label": "くれる (kureru) — give toward me",
+        "detail": "Receiver is me / my in-group; 私に is usually dropped. Giver は/が, receiver に.",
         "examples": [
-          "吸って（すって）→ 吸ってはいけません → 'you must not smoke'"
+          "姉が 私に 本を くれました → ane ga watashi ni hon o kuremashita (My sister gave me a book)"
         ]
       },
       {
-        "label": "Casual contraction",
-        "detail": "～ては shortens to ～ちゃ; soft refusal is すみません、ちょっと…",
+        "label": "もらう (morau) — receive",
+        "detail": "Receiver is the topic; giver marked に or から.",
         "examples": [
-          "行ってはだめ → 行っちゃだめ (itcha dame) → 'don't go!'"
+          "田中さんに チョコを もらいました → Tanaka-san ni choko o moraimashita (I got chocolate from Mr. Tanaka)"
         ]
       }
     ],
-    "bigPoint": "Both patterns just bolt onto the て-form you already build — the only new work is +もいい (allowed) vs. +はいけない (forbidden)."
+    "bigPoint": "If the gift lands on YOU or your side, it must be くれる, never あげる. もらう tells the same event from the receiver's side."
   },
   "vocab": [
     {
-      "jp": "写真を撮る（しゃしんをとる）",
-      "romaji": "shashin o toru",
-      "en": "to take a photo"
+      "jp": "あげる",
+      "romaji": "ageru",
+      "en": "to give (to others)"
     },
     {
-      "jp": "座る（すわる）",
-      "romaji": "suwaru",
-      "en": "to sit"
+      "jp": "くれる",
+      "romaji": "kureru",
+      "en": "to give (to me / my side)"
     },
     {
-      "jp": "入る（はいる）",
-      "romaji": "hairu",
-      "en": "to enter"
+      "jp": "もらう",
+      "romaji": "morau",
+      "en": "to receive"
     },
     {
-      "jp": "触る（さわる）",
-      "romaji": "sawaru",
-      "en": "to touch"
+      "jp": "プレゼント",
+      "romaji": "purezento",
+      "en": "present, gift"
     },
     {
-      "jp": "試着する（しちゃくする）",
-      "romaji": "shichaku suru",
-      "en": "to try on (clothes)"
+      "jp": "おみやげ",
+      "romaji": "omiyage",
+      "en": "souvenir"
     },
     {
-      "jp": "禁止（きんし）",
-      "romaji": "kinshi",
-      "en": "forbidden (seen on signs, e.g. 撮影禁止 = no photography)"
+      "jp": "友だち",
+      "romaji": "tomodachi",
+      "en": "friend"
     }
   ],
   "examples": [
     {
-      "jp": "ここに座ってもいいですか。",
-      "romaji": "Koko ni suwatte mo ii desu ka.",
-      "en": "May I sit here?"
+      "jp": "友だちに おみやげを あげました。",
+      "romaji": "Tomodachi ni omiyage o agemashita.",
+      "en": "I gave my friend a souvenir."
     },
     {
-      "jp": "すみません、ここでたばこを吸ってはいけません。",
-      "romaji": "Sumimasen, koko de tabako o sutte wa ikemasen.",
-      "en": "Excuse me, you must not smoke here."
+      "jp": "姉が 私に 本を くれました。",
+      "romaji": "Ane ga watashi ni hon o kuremashita.",
+      "en": "My older sister gave me a book."
+    },
+    {
+      "jp": "田中さんに チョコを もらいました。",
+      "romaji": "Tanaka-san ni choko o moraimashita.",
+      "en": "I got chocolate from Mr. Tanaka."
     }
   ],
-  "note": "A natural 'yes' to ～てもいいですか is はい、どうぞ or はい、いいですよ. Japanese rarely gives a hard 'no' — a trailing すみません、ちょっと… does the job. Watch the reading: 吸っては is 'sutte wa', not 'sutte ha'.",
+  "note": "The trap is あげる vs くれる — both are 'give' in English, but Japanese forces you to mark direction. If the gift comes toward you or your side, use くれる (the 私に is usually dropped). もらう flips the camera onto the receiver: same event as くれる, told as 'I received' instead of 'they gave.' Handy travel line: これ、おみやげです。どうぞ。",
   "selfCheck": {
-    "q": "Using 入る（はいる）, how do you ask 'May I enter here?'",
-    "a": "ここに入ってもいいですか。 (Koko ni haitte mo ii desu ka.) — 入る → て-form 入って → ＋もいいですか"
+    "q": "Your friend gave YOU a present. Fill in the blank: 友だちが プレゼントを ______ました。(あげ or くれ?)",
+    "a": "くれました。The present came toward you, so use くれる, not あげる. You could also flip it: 友だちに プレゼントを もらいました。(I got a present from my friend.)"
   }
 }
