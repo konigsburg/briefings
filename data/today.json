@@ -1,28 +1,33 @@
 {
   "date": "Friday, September 11, 2026",
   "generatedAt": "Morning brief · 12:02 PM ET",
-  "theme": "Last day ashore before the charter",
-  "greeting": "You're in Dubrovnik with an open calendar, Dan — no meetings, just the pre-boarding checklist. Everything that needs a signal or dry land wants doing today, before tomorrow's 5 PM boarding takes you offline for the week.",
+  "theme": "Last day ashore before the charter.",
+  "greeting": "A quiet, open day in Dubrovnik, Dan — the girls are with Jen. It's your last full day on land before the Nautilus charter boards tomorrow afternoon, so the short list below is the handful of loops worth closing while you still have signal.",
   "needsAttention": [
     {
-      "tag": "Before you board",
-      "title": "Cavtat Sept 19 — transfers still open",
-      "detail": "The hotel is booked, but the Komolac to Cavtat transfer, a bag hold before the 3 PM check-in, and a ~5:15 AM checkout for your Sunday flight all need arranging from dry land — charter signal drops once you're out. The hotel's free-cancel window ends Sept 15."
+      "tag": "Before you sail",
+      "title": "Lock the Cavtat transfers before Saturday",
+      "detail": "The Sept 19 Komolac to Cavtat transfer, a bag hold at Remisens, and the early Sept 20 checkout all need arranging from dry land — charter connectivity is poor to nonexistent once you board tomorrow."
     },
     {
-      "tag": "Before you board",
-      "title": "Confirm boarding with the Nautilus instructor",
-      "detail": "You still owe the instructor a message to lock the Saturday ~5 PM meeting point and the Sept 19 airport transfer after you disembark. Far easier now than once you're underway."
+      "tag": "Before you sail",
+      "title": "Provision in Dubrovnik today",
+      "detail": "Cash, snacks, alcohol and any gluten-free items ahead of the ~5 PM Saturday boarding; Studenac, Tommy and Konzum are the closest stores."
     },
     {
-      "tag": "Due today",
-      "title": "Provision in Dubrovnik before Saturday",
-      "detail": "Cash (~200 EUR), snacks, wine for the week, and any gluten-free non-perishables — Studenac, Tommy, or Konzum. Last easy shop before the 5 PM boarding tomorrow."
+      "tag": "Before you sail",
+      "title": "Confirm boarding with the instructor",
+      "detail": "Nail down Saturday's meeting time and place plus the Sept 19 return transfer; Amy's 'Have a Great Sailing Trip' note landed this morning if you need her contact."
     },
     {
-      "tag": "Worth a glance",
-      "title": "Confirm the St Pete Airbnb converted",
-      "detail": "The Sept 27 to Oct 5 St Pete Airbnb was pending host confirmation on a 24-hour clock — worth checking it went to confirmed rather than expiring. The Sept 20–22 landing gap is still unbooked."
+      "tag": "Travel booking",
+      "title": "Book the Sept 20 to Oct 5 rental car",
+      "detail": "The full-size SUV out of TPA is now a firm booking rather than a hedge — do it while you have signal, not walk-up and jet-lagged on a Sunday."
+    },
+    {
+      "tag": "Reply owed",
+      "title": "Send Kerrie the AI paper",
+      "detail": "Kerrie Waring asked for the AI governance paper you'd mentioned; a quick send closes it before you go dark for the week."
     }
   ],
   "schedule": [],
@@ -30,19 +35,30 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "New Government Affairs roles in your alert",
-        "detail": "LinkedIn surfaced a VP, Government Affairs opening at The New York Times among similar roles — worth a look when you're back on shore."
+        "title": "New VP Government Affairs roles",
+        "detail": "LinkedIn flagged openings similar to the Macy's VP, Government Affairs posting."
       },
       {
         "tag": "FYI",
-        "title": "Apartment host checking in",
-        "detail": "Damjan, your Dubrovnik host, messaged asking if everything's fine with the apartment and awaits a quick reply."
+        "title": "Lubrano still wants a call",
+        "detail": "Mike Lubrano's Nomura / Japan intermediaries thread is waiting on a time from you."
       }
     ],
-    "noise": "The rest is newsletters, cooking digests, care.com applicants, and job-board blasts.",
-    "clear": ""
+    "noise": "The rest is newsletters and receipts — NYT Cooking, Monocle, Responsible Investor, Italian word of the day, booking confirmations.",
+    "clear": "Nothing else is waiting on a reply."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Handled",
+      "title": "Carol Hansell call parked until you're back",
+      "detail": "You replied and she wrote back 'happy sailing, let's talk when you're back' — nothing owed now."
+    },
+    {
+      "tag": "Booked",
+      "title": "Cavtat hotel confirmed",
+      "detail": "Remisens Hotel Epidaurus is booked and paid for Sept 19 (conf 5547387205)."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -57,20 +73,8 @@
   },
   "tasks": [
     {
-      "title": "Book the Sept 20–Oct 5 TPA rental outright",
-      "project": "Travel",
-      "due": "Overdue Sep 9",
-      "overdue": true
-    },
-    {
-      "title": "Close the Sept 20–22 St Pete landing gap",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -83,15 +87,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar — the whole day is yours for the pre-boarding list."
+      "line": "An open morning in the Old Town — nothing on the calendar."
     },
     {
       "time": "Afternoon",
-      "line": "Cash, provisions, and the last gluten-free items from Studenac or Tommy while the shops are still close."
+      "line": "The ashore errands cluster here: provisioning and the Cavtat transfers to lock before the boat."
     },
     {
       "time": "Evening",
-      "line": "Last night in the Old Port apartment; checkout and the 5 PM boarding land tomorrow."
+      "line": "Last night on land; the charter boards tomorrow afternoon and connectivity thins from there."
     }
   ],
   "japanese": {
