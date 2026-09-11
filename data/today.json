@@ -1,33 +1,28 @@
 {
   "date": "Friday, September 11, 2026",
-  "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "Last day ashore before the charter.",
-  "greeting": "A quiet, open day in Dubrovnik, Dan — the girls are with Jen. It's your last full day on land before the Nautilus charter boards tomorrow afternoon, so the short list below is the handful of loops worth closing while you still have signal.",
+  "generatedAt": "Morning brief · 2:05 PM ET",
+  "theme": "The last day ashore before the charter.",
+  "greeting": "You're on your last full day in Dubrovnik, Dan, and the calendar's clear — which is the point. Everything worth doing today is dry-land prep before tomorrow's boarding, when the signal goes quiet.",
   "needsAttention": [
     {
-      "tag": "Before you sail",
-      "title": "Lock the Cavtat transfers before Saturday",
-      "detail": "The Sept 19 Komolac to Cavtat transfer, a bag hold at Remisens, and the early Sept 20 checkout all need arranging from dry land — charter connectivity is poor to nonexistent once you board tomorrow."
+      "tag": "Boarding tomorrow",
+      "title": "Lock down the charter boarding details",
+      "detail": "Reach the Nautilus instructor today to confirm Saturday's ~5 PM boarding time and place and the return transfer — once you're aboard the signal all but disappears."
     },
     {
       "tag": "Before you sail",
-      "title": "Provision in Dubrovnik today",
-      "detail": "Cash, snacks, alcohol and any gluten-free items ahead of the ~5 PM Saturday boarding; Studenac, Tommy and Konzum are the closest stores."
+      "title": "Arrange the Cavtat transfers and checkout",
+      "detail": "Three dry-land jobs for Sept 19–20 — the marina-to-Cavtat transfer, an early bag hold, and the 5:15 AM checkout — all need booking before Saturday, and the hotel's free-cancellation window closes Sept 15."
     },
     {
-      "tag": "Before you sail",
-      "title": "Confirm boarding with the instructor",
-      "detail": "Nail down Saturday's meeting time and place plus the Sept 19 return transfer; Amy's 'Have a Great Sailing Trip' note landed this morning if you need her contact."
+      "tag": "Due today",
+      "title": "Provision before you board",
+      "detail": "Cash, snacks, wine, and any gluten-free staples from Studenac or Tommy while you're still in town — much harder once the boat's underway."
     },
     {
-      "tag": "Travel booking",
-      "title": "Book the Sept 20 to Oct 5 rental car",
-      "detail": "The full-size SUV out of TPA is now a firm booking rather than a hedge — do it while you have signal, not walk-up and jet-lagged on a Sunday."
-    },
-    {
-      "tag": "Reply owed",
-      "title": "Send Kerrie the AI paper",
-      "detail": "Kerrie Waring asked for the AI governance paper you'd mentioned; a quick send closes it before you go dark for the week."
+      "tag": "Overdue · p1",
+      "title": "Book the Florida SUV outright",
+      "detail": "The Sept 20–Oct 5 Tampa full-size SUV is no longer a hedge — book it now so you're not at a walk-up counter, jet-lagged, on a Sunday."
     }
   ],
   "schedule": [],
@@ -35,30 +30,24 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "New VP Government Affairs roles",
-        "detail": "LinkedIn flagged openings similar to the Macy's VP, Government Affairs posting."
+        "title": "New VP, Government Affairs roles",
+        "detail": "LinkedIn flagged fresh openings in your field, including a VP, Government Affairs role at The New York Times."
       },
       {
         "tag": "FYI",
-        "title": "Lubrano still wants a call",
-        "detail": "Mike Lubrano's Nomura / Japan intermediaries thread is waiting on a time from you."
+        "title": "ICGN Autumn Conference in Toronto",
+        "detail": "Registration is open for the November governance conference — worth a look given the board search."
+      },
+      {
+        "tag": "FYI",
+        "title": "Checkout is tomorrow at 10:30",
+        "detail": "Your Dubrovnik host asked you to leave the keys on the table and message him when you leave."
       }
     ],
-    "noise": "The rest is newsletters and receipts — NYT Cooking, Monocle, Responsible Investor, Italian word of the day, booking confirmations.",
-    "clear": "Nothing else is waiting on a reply."
+    "noise": "The rest is newsletters — NYT Cooking, Monocle, Alison Roman — plus retail sales and political fundraising.",
+    "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Handled",
-      "title": "Carol Hansell call parked until you're back",
-      "detail": "You replied and she wrote back 'happy sailing, let's talk when you're back' — nothing owed now."
-    },
-    {
-      "tag": "Booked",
-      "title": "Cavtat hotel confirmed",
-      "detail": "Remisens Hotel Epidaurus is booked and paid for Sept 19 (conf 5547387205)."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -73,8 +62,14 @@
   },
   "tasks": [
     {
+      "title": "Book St Pete lodging for the Sept 20–22 landing gap",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
-      "project": "Projects",
+      "project": "To-do",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -87,15 +82,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open morning in the Old Town — nothing on the calendar."
+      "line": "A clear calendar over the Old Port — today's real work is the errand list, not any meeting."
     },
     {
       "time": "Afternoon",
-      "line": "The ashore errands cluster here: provisioning and the Cavtat transfers to lock before the boat."
+      "line": "Provision and confirm the transfers while the shops are open and the wifi still holds."
     },
     {
       "time": "Evening",
-      "line": "Last night on land; the charter boards tomorrow afternoon and connectivity thins from there."
+      "line": "Last night ashore; checkout is 10:30 and you board the charter tomorrow at five."
     }
   ],
   "japanese": {
