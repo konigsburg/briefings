@@ -1,28 +1,23 @@
 {
   "date": "Thursday, September 10, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "An open day in Dubrovnik before Saturday's boarding.",
-  "greeting": "The calendar's clear, Dan — but this is the last real stretch of dry land before the charter, and a short list of trip-prep wants closing before you board Saturday and lose signal.",
+  "theme": "An open day in Dubrovnik before Saturday's charter.",
+  "greeting": "The calendar's clear today, Dan — no meetings, just Dubrovnik and two days until the boat. Good time to close the handful of things that get harder once you lose signal underway.",
   "needsAttention": [
     {
+      "tag": "Before Saturday",
+      "title": "Lock the Cavtat day-of logistics",
+      "detail": "The hotel's booked, but the Sept 19 marina transfer, an early-afternoon bag hold, and the pre-dawn Sept 20 checkout for a 7:30 flight all still need arranging — and all from shore before Saturday, since the charter has little signal."
+    },
+    {
       "tag": "Boarding prep",
-      "title": "Confirm boarding with the Nautilus instructor",
-      "detail": "You still need the exact time and place for Saturday's boarding and the return airport transfer, both far easier to pin down from shore than from the water. In Todoist since Sept 5."
+      "title": "Reach the Nautilus instructor",
+      "detail": "Still open: confirm Saturday's boarding time and place and set up the Sept 19 return airport transfer — better closed while you're ashore than once you're underway."
     },
     {
-      "tag": "Before you sail",
-      "title": "Lock the Cavtat transfers and checkout",
-      "detail": "The Sept 19 Komolac-to-Cavtat transfer, the early bag hold before 3 PM check-in, and the pre-dawn Sept 20 checkout all have to be arranged from land before Saturday. The hotel's booked; these three aren't."
-    },
-    {
-      "tag": "Book today",
-      "title": "Book the Sept 20-Oct 5 rental car",
-      "detail": "No longer a hedge in Todoist: the Pathfinder can't reach Florida before Oct 18, so this cycle needs the full-size SUV out of TPA. You land jet-lagged on a Sunday, so don't arrive without it booked."
-    },
-    {
-      "tag": "Still open",
-      "title": "Close the St Pete landing gap",
-      "detail": "Two nights, Sept 20-21, before the kids' Sept 22 pickup still need lodging, and the Sept 27-Oct 5 Airbnb was left pending host confirmation, worth checking it converted rather than quietly expired."
+      "tag": "Now certain",
+      "title": "Book the Florida rental car outright",
+      "detail": "No longer a hedge — a Full-Size SUV at Tampa for Sept 20 to Oct 5, so you're not stuck at walk-up rates jet-lagged on a Sunday landing."
     }
   ],
   "schedule": [],
@@ -30,12 +25,12 @@
     "flagged": [
       {
         "tag": "FYI",
-        "title": "A sitter applied on Care.com",
-        "detail": "Emily B. applied to your posted job, waiting whenever you want to look at candidates."
+        "title": "A personal note from EqualityMaine",
+        "detail": "A heartfelt message about a leadership transition and moving on, addressed to you directly — worth a warm reply when you're back on shore."
       }
     ],
-    "noise": "The rest is newsletters and promos: NYT Cooking, Responsible Investor, ExecThread's Labor Day sale, and a couple of keep-in-touch nudges.",
-    "clear": "Nothing personal is waiting on your reply."
+    "noise": "The rest is newsletters and promos — Expedia, HBO Max, Rancho Gordo, Nextdoor, a couple of campaign asks.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -43,7 +38,7 @@
     "phase": "green",
     "location": "Dubrovnik, Croatia",
     "confidence": "high",
-    "asOf": "Thursday Sep 10"
+    "asOf": "Thu Sep 10"
   },
   "recipe": {
     "title": "Grilled quail with braised chestnuts & kabocha squash",
@@ -52,27 +47,21 @@
   },
   "tasks": [
     {
-      "title": "Pre-boarding shopping in Dubrovnik: cash, snacks, alcohol, dietary items",
-      "project": "Croatia trip",
+      "title": "Book St Pete lodging for the Sept 20-22 landing gap",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Pre-boarding shopping in Dubrovnik - cash, snacks, provisions",
+      "project": "Travel",
       "due": "Due Sep 11",
       "overdue": false
     },
     {
-      "title": "Buy Disney tickets for the Sept 26-27 park days (party of 6)",
-      "project": "Florida trip",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Call the dermatologist to book the wart-removal appointment",
-      "project": "Florida trip",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Confirm the 4-kid passport packet is complete before the appointment",
-      "project": "Florida trip",
-      "due": "Overdue Aug 26",
+      "title": "Destination edit work",
+      "project": "Work",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -84,15 +73,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing scheduled, so a clear run at the cash, snacks, and provisions to lay in before the boat."
+      "line": "Nothing scheduled — a rare fully open day ashore in Dubrovnik."
     },
     {
       "time": "Afternoon",
-      "line": "Still open on the calendar; the hours belong to the Cavtat transfers and the boarding confirmation while you're on shore."
+      "line": "A good stretch for errands that get harder once you're underway."
     },
     {
       "time": "Evening",
-      "line": "One last quiet evening in Dubrovnik before the charter, with Saturday's 5 PM boarding the next fixed point."
+      "line": "The charter boards Saturday; tonight the shore still has good signal."
     }
   ],
   "japanese": {
