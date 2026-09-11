@@ -1,51 +1,36 @@
 {
   "date": "Friday, September 11, 2026",
   "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "The last day ashore before the charter.",
-  "greeting": "You're on your last full day in Dubrovnik, Dan, and the calendar's clear — which is the point. Everything worth doing today is dry-land prep before tomorrow's boarding, when the signal goes quiet.",
+  "theme": "Last full day ashore before the charter.",
+  "greeting": "Your last full day on dry land in Dubrovnik, Dan, and the calendar is clear — which is exactly the room today needs. Everything that has to happen before Saturday's 5 PM boarding wants doing now, while you still have signal and a shop within reach.",
   "needsAttention": [
     {
-      "tag": "Boarding tomorrow",
-      "title": "Lock down the charter boarding details",
-      "detail": "Reach the Nautilus instructor today to confirm Saturday's ~5 PM boarding time and place and the return transfer — once you're aboard the signal all but disappears."
+      "tag": "Before you board",
+      "title": "Cavtat transfers still hanging",
+      "detail": "The Sept 19 hotel in Cavtat is booked, but the Komolac-to-Cavtat transfer, the bag hold before 3 PM check-in, and the pre-dawn Sunday checkout all need arranging from dry land — charter connectivity is poor once you're underway."
     },
     {
-      "tag": "Before you sail",
-      "title": "Arrange the Cavtat transfers and checkout",
-      "detail": "Three dry-land jobs for Sept 19–20 — the marina-to-Cavtat transfer, an early bag hold, and the 5:15 AM checkout — all need booking before Saturday, and the hotel's free-cancellation window closes Sept 15."
+      "tag": "Trip prep",
+      "title": "Provision before Saturday",
+      "detail": "Cash (about 200 EUR), snacks, drinks for the week, and any gluten-free non-perishables are far easier to grab now from the downtown shops than once you're sailing; it's on today's list."
     },
     {
-      "tag": "Due today",
-      "title": "Provision before you board",
-      "detail": "Cash, snacks, wine, and any gluten-free staples from Studenac or Tommy while you're still in town — much harder once the boat's underway."
-    },
-    {
-      "tag": "Overdue · p1",
-      "title": "Book the Florida SUV outright",
-      "detail": "The Sept 20–Oct 5 Tampa full-size SUV is no longer a hedge — book it now so you're not at a walk-up counter, jet-lagged, on a Sunday."
+      "tag": "Reservations",
+      "title": "Confirm boarding with Nautilus",
+      "detail": "Instructor outreach is still open — pin down the exact time and place for Saturday's boarding and line up the return airport transfer for when you disembark the 19th."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "New VP, Government Affairs roles",
-        "detail": "LinkedIn flagged fresh openings in your field, including a VP, Government Affairs role at The New York Times."
-      },
-      {
         "tag": "FYI",
-        "title": "ICGN Autumn Conference in Toronto",
-        "detail": "Registration is open for the November governance conference — worth a look given the board search."
-      },
-      {
-        "tag": "FYI",
-        "title": "Checkout is tomorrow at 10:30",
-        "detail": "Your Dubrovnik host asked you to leave the keys on the table and message him when you leave."
+        "title": "ICGN Autumn Conference, Toronto",
+        "detail": "Bookings just opened for the November governance conference — worth a glance given your network and the search."
       }
     ],
-    "noise": "The rest is newsletters — NYT Cooking, Monocle, Alison Roman — plus retail sales and political fundraising.",
-    "clear": ""
+    "noise": "The rest is newsletters and shop promos — Booking.com, Monocle, Chairish, HBO Max, recipe digests.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -62,14 +47,20 @@
   },
   "tasks": [
     {
-      "title": "Book St Pete lodging for the Sept 20–22 landing gap",
+      "title": "Book the Sept 20 – Oct 5 rental SUV at TPA",
+      "project": "Travel",
+      "due": "Overdue Sep 9",
+      "overdue": true
+    },
+    {
+      "title": "Lock St Pete lodging for the Sept 20-22 gap",
       "project": "Travel",
       "due": "Overdue Aug 25",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "To-do",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -82,15 +73,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar over the Old Port — today's real work is the errand list, not any meeting."
+      "line": "The morning is open — the natural window to book the Cavtat transfers and reach the Nautilus instructor while you're easily online."
     },
     {
       "time": "Afternoon",
-      "line": "Provision and confirm the transfers while the shops are open and the wifi still holds."
+      "line": "Provision for the week from the downtown shops — Studenac, Tommy, Konzum — before they close on you."
     },
     {
       "time": "Evening",
-      "line": "Last night ashore; checkout is 10:30 and you board the charter tomorrow at five."
+      "line": "Nothing on the calendar; Mike is angling for a table for two in the old town tonight."
     }
   ],
   "japanese": {
