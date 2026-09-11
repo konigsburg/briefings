@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-11",
+    "kind": "Morning brief",
+    "label": "Friday, Sep 11 · 7:19 AM ET",
+    "summary": "Last day ashore in Dubrovnik before the charter boards tomorrow; the pressing items are the pre-boarding logistics best done while online.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-10",
     "kind": "Morning brief",
     "label": "Thursday, Sep 10 · 10:02 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Thursday, Aug 13 · 6:13 PM ET",
     "summary": "An open Thursday with an afternoon train to Washington, DC; inbox quiet, girls with Jen, Maine flight tomorrow night.",
-    "ref": "today"
-  },
-  {
-    "id": "inbox-2026-08-13-1111",
-    "kind": "Inbox summary",
-    "label": "Thursday, Aug 13 · 11 AM ET",
-    "summary": "Quiet inbox: no job-search mail, no urgent items; travel receipts (MTA/Amtrak for today's trip) and routine quip order charges. One MTA device-move notice, almost certainly Dan.",
     "ref": "today"
   }
 ]
