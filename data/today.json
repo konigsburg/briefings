@@ -1,65 +1,45 @@
 {
   "date": "Saturday, September 12, 2026",
   "generatedAt": "Morning brief · 6:02 PM ET",
-  "theme": "Last day ashore before a week at sea.",
-  "greeting": "Boarding day, Dan. The calendar is clear, so today is really about clearing the errands and trip logistics that need real connectivity before you cast off around five.",
+  "theme": "Last day ashore before a week under sail.",
+  "greeting": "Your last stretch of dry land in Dubrovnik, Dan. Square away the shore logistics while the connection still holds, then the charter takes over.",
   "needsAttention": [
     {
-      "tag": "Before 5 PM",
-      "title": "Confirm today's boarding, then the Sept 19 return",
-      "detail": "Nail down the exact meeting time and spot for the Nautilus course before you head to the marina, and lock the return airport transfer for the 19th now while you can. Amy at Nautilus already sent trip wishes but not the specifics."
+      "tag": "Closing today",
+      "title": "Cavtat shore logistics before you sail",
+      "detail": "The Cavtat hotel is booked, but the transfer on the 19th, the bag hold, and the pre-dawn Sept 20 checkout all need arranging from land. Connectivity thins once the charter is underway, and the hotel's free-cancellation window closes the 15th."
     },
     {
-      "tag": "Before 5 PM",
-      "title": "Last errands in Dubrovnik",
-      "detail": "Cash (~€200 for incidentals), snacks, drinks for the week, and any gluten-free non-perishables are all easier now than underway. Nearest stores are Studenac, Tommy, and Konzum."
+      "tag": "Before boarding",
+      "title": "Confirm boarding and the return transfer",
+      "detail": "Lock the exact Nautilus meeting spot and the Sept 19 airport transfer with the instructor while you are still ashore, rather than from the boat."
     },
     {
-      "tag": "Do from shore",
-      "title": "Set the Sept 19 Cavtat logistics",
-      "detail": "Pre-book the Komolac to Cavtat transfer, confirm the hotel will hold your bags before the 3 PM check-in, and arrange the ~5:15 AM checkout and taxi for the Sept 20 flight. Charter connectivity is poor, so settle all three before boarding."
-    },
-    {
-      "tag": "Before you go dark",
-      "title": "Lock the Sept 20 arrival",
-      "detail": "You go offline for a week and land in Tampa on the 20th, so book the full-size SUV (TPA, Sept 20–Oct 5) outright and confirm the St Pete Sept 20–22 gap converted before you lose signal."
+      "tag": "Tomorrow 9 AM",
+      "title": "Sunday review with Mike",
+      "detail": "Mike's 15-minute board sweep is on your calendar for 9 AM tomorrow. A glance at what's active in the shared board beforehand is the agenda you'll open with."
     }
   ],
   "schedule": [
     {
       "time": "5:00 PM",
-      "title": "Board the sailing charter",
-      "detail": "Nautilus course out of Dubrovnik — a week aboard begins",
+      "title": "Board the Nautilus charter",
+      "detail": "Dubrovnik marina - a week under sail begins",
       "tag": "Travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Provider bill ready to pay",
-        "detail": "A medical bill from an August visit is waiting whenever you're back on land — no rush today."
-      },
-      {
         "tag": "Job search",
-        "title": "VP Government Affairs alerts",
-        "detail": "LinkedIn surfaced new governance and public-affairs roles matching your searches."
-      },
-      {
-        "tag": "FYI",
-        "title": "ICGN Toronto conference is open",
-        "detail": "Bookings are live for the ICGN Autumn Conference in Toronto this November — a governance networking window."
+        "title": "NYT VP, Government Affairs surfaced",
+        "detail": "LinkedIn's alert flagged a Vice President, Government Affairs role at The New York Times among openings like your saved searches."
       }
     ],
-    "noise": "The rest is retail, newsletters, and travel promos — nothing that needs you.",
-    "clear": ""
+    "noise": "Otherwise just language-lesson digests, an Airbnb host review, and trip confirmations.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
-  "resolved": [
-    {
-      "title": "Cavtat hotel is booked",
-      "detail": "Remisens Epidaurus for the night of Sept 19 is confirmed and paid — only the transfers remain open."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -74,8 +54,26 @@
   },
   "tasks": [
     {
+      "title": "Pre-boarding shopping in Dubrovnik",
+      "project": "Travel",
+      "due": "Overdue Sep 11",
+      "overdue": true
+    },
+    {
+      "title": "Book Sept 20 - Oct 5 rental SUV at TPA",
+      "project": "Travel",
+      "due": "Overdue Sep 9",
+      "overdue": true
+    },
+    {
+      "title": "Confirm St Pete landing-gap lodging (Sep 20-22)",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
-      "project": "Inbox",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -88,15 +86,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet last morning ashore in Dubrovnik with nothing on the calendar."
+      "line": "A quiet morning in Dubrovnik with the Old Port apartment as your base - the last of the shore errands before you cast off."
     },
     {
       "time": "Afternoon",
-      "line": "Errands and provisioning, then to the marina to board around five."
+      "line": "Provision for the week: local cash, snacks, and any gluten-free items that won't be easy to find once at sea."
     },
     {
       "time": "Evening",
-      "line": "First night aboard; tomorrow's 15-minute Sunday review with Mike lands at 9 AM ET while you're likely already underway."
+      "line": "Board the charter around 5 and settle in; the wifi thins the moment you leave the marina."
     }
   ],
   "japanese": {
