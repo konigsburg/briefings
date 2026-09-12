@@ -1,88 +1,88 @@
 {
-  "date": "Sat, Sep 5",
-  "generatedAt": "Weekly · Sep 5",
-  "theme": "Late-summer dispensa — fresh borlotti beans + tomato confit as the week's two building blocks (2 adults, technique week)",
+  "date": "Sat, Sep 12",
+  "generatedAt": "Weekly · Sep 12",
+  "theme": "End-of-tomato-season Italian — one jar of confit and one pot of beans carry the whole week (2 adults; girls with Jen).",
   "components": [
     {
-      "name": "Fresh borlotti (cranberry) bean conserva",
-      "time": "~70 min, mostly hands-off",
-      "ingredients": "2 lb fresh borlotti/cranberry beans in pod (or 1 lb dried cannellini soaked), soffritto (onion, carrot, celery), 4 garlic cloves, Parmesan rind, 3 anchovies, sage, bay, small piece kombu, olive oil",
-      "method": "Shell the fresh beans. Sweat a fine soffritto in a generous pour of olive oil until sweet, melt in the anchovies, add garlic and sage. Add beans, Parmesan rind, bay, kombu, and water to cover by two fingers. Barely simmer 45–60 min until creamy but intact (dried cannellini ~75–90 min). Season at the end; keep them brothy — that pot liquor is a sauce. Cool in the liquid; refrigerate up to 5 days."
+      "name": "Slow-roasted tomato confit",
+      "time": "~75 min, mostly hands-off",
+      "ingredients": "2 lb ripe cherry/Campari or plum tomatoes, 1 cup good olive oil, 6 smashed garlic cloves, thyme + oregano sprigs, flaky salt, pinch chili",
+      "method": "Halve the tomatoes and nestle them cut-side up in a baking dish with the garlic and herbs. Pour in olive oil to come halfway up, season with flaky salt and a pinch of chili. Roast at 300°F for 60–75 min until collapsed and jammy. Cool and store submerged in the oil in a jar (fridge, up to 2 weeks). Save every drop of that oil — it's your searing and dressing gold all week."
     },
     {
-      "name": "Cherry tomato & garlic confit",
-      "time": "~60 min, mostly hands-off",
-      "ingredients": "3 pints cherry/grape tomatoes, 1 head garlic (cloves peeled), rosemary + thyme sprigs, chili flakes, 2–3 cups olive oil, flaky salt",
-      "method": "Nestle tomatoes and whole garlic cloves in a small baking dish with herbs and chili, cover completely with olive oil. Confit at 300°F for ~50 min until the tomatoes slump and burst and the garlic is jammy. Cool in the oil. You now have sweet tomatoes, soft garlic, and a spectacular infused oil — all three get used all week. Keeps 1 week submerged."
+      "name": "Brothy cannellini beans",
+      "time": "~75 min hands-off (plus overnight or quick soak)",
+      "ingredients": "1 lb dried cannellini (or 3 cans, drained), 1 onion halved, 1 carrot, 1 celery rib, 1 garlic head halved, bay, sage, parmesan rind, 1/4 cup olive oil, salt",
+      "method": "Combine soaked beans with the aromatics, parm rind, and olive oil; cover with water by 2 inches. Bring to a bare simmer and cook gently until creamy but still intact, about 60–90 min, salting only in the last 15 min. Pull the aromatics and keep the beans in their brodo — that liquid is the base for half the dinners below."
     }
   ],
   "dinners": [
     {
-      "name": "Spaghetti al pomodoro confit",
-      "time": "20 min",
-      "ingredients": "Spaghetti, tomato confit + its oil, confit garlic, basil, Parmesan",
+      "name": "Spoon-basted cod over brothy beans with salsa verde",
+      "time": "~25 min",
+      "ingredients": "2 cod (or hake/halibut) fillets, cannellini + brodo, tomato confit, parsley, capers, lemon, garlic, butter",
       "steps": [
-        "Boil spaghetti in well-salted water; reserve a mug of pasta water.",
-        "Warm a big spoonful of confit tomatoes, smashed confit garlic, and a few tbsp of the tomato oil in a wide pan.",
-        "Drag in the drained pasta with a splash of pasta water; toss hard to emulsify into a glossy sauce.",
-        "Off heat, add torn basil and grated Parmesan; finish with more tomato oil."
+        "Warm a ladleful of beans with their brodo and a few confit tomatoes; keep it loose and brothy.",
+        "Pat cod very dry and season. Sear presentation-side down in confit oil until deep golden.",
+        "Add a knob of butter, garlic and thyme; tilt the pan and spoon-baste the top until just opaque.",
+        "Spoon beans into shallow bowls, set the cod on top, finish with salsa verde and a squeeze of lemon."
       ]
     },
     {
-      "name": "Olive-oil-poached cod over brothy borlotti",
-      "time": "30 min",
-      "ingredients": "2 cod or halibut fillets, tomato confit oil, borlotti beans + their broth, lemon, parsley",
+      "name": "Orecchiette with tomato confit, cannellini & broccoli rabe",
+      "time": "~25 min",
+      "ingredients": "orecchiette, broccoli rabe (or broccolini), tomato confit + its oil, cannellini, garlic, chili flakes, pecorino",
       "steps": [
-        "Warm the beans in their broth with a ladle of confit tomatoes; keep at a bare simmer.",
-        "Submerge cod fillets in warm confit oil (about 130–140°F) in a small pan; poach gently 10–12 min until just flaking.",
-        "Spoon brothy beans into bowls; lift the fish on top.",
-        "Finish with lemon, parsley, flaky salt, and a spoon of the poaching oil."
+        "Boil the orecchiette; blanch the rabe in the same water, drain and roughly chop.",
+        "Sizzle garlic and chili in confit oil; add the rabe, a scoop of beans, and confit tomatoes, crushing them lightly.",
+        "Toss with the pasta and a splash of pasta water to emulsify.",
+        "Finish with pecorino and a thread of olive oil."
       ]
     },
     {
-      "name": "Clams with borlotti in tomato-confit brodo",
-      "time": "30 min",
-      "ingredients": "1.5 lb littleneck clams, borlotti beans + broth, tomato confit, white wine, confit garlic, crusty bread",
+      "name": "Mussels in white-bean & tomato brodo with grilled bread",
+      "time": "~30 min",
+      "ingredients": "2 lb mussels, cannellini brodo, tomato confit, white wine, shallot, garlic, parsley, crusty bread",
       "steps": [
-        "Sizzle smashed confit garlic and confit tomatoes in a little tomato oil in a deep pan.",
-        "Add a splash of white wine and the bean broth; bring to a simmer.",
-        "Add clams, cover, and steam 4–6 min until they open (discard any that don't).",
-        "Stir in the beans to warm through; serve in bowls with grilled bread rubbed in confit oil."
+        "Sweat shallot and garlic in confit oil; add white wine and reduce by half.",
+        "Add a ladle of beans with their brodo plus a few confit tomatoes; simmer to a light brodo.",
+        "Add mussels, cover, and steam until they open, 4–5 min; discard any that stay shut.",
+        "Finish with parsley and olive oil; serve with garlic-rubbed grilled bread."
       ]
     },
     {
-      "name": "Chard & borlotti with a fried egg",
-      "time": "20 min",
-      "ingredients": "2 bunches Swiss chard, borlotti beans + broth, confit garlic, eggs, Parmesan, chili flakes",
+      "name": "Tomato-confit & white bean gratin with fried egg + arugula",
+      "time": "~20 min",
+      "ingredients": "cannellini, tomato confit, breadcrumbs, parmesan, eggs, arugula, lemon",
       "steps": [
-        "Wilt chopped chard in confit oil with smashed confit garlic and chili flakes.",
-        "Add the beans with a little broth; simmer until saucy and glossy.",
-        "Fry eggs in confit oil until edges are crisp, yolks runny.",
-        "Plate the beans and greens, set an egg on each, shower with Parmesan and a drizzle of oil."
+        "Fold beans with confit tomatoes into a baking dish; top with parmesan breadcrumbs and a drizzle of confit oil.",
+        "Broil until bubbling and golden.",
+        "Fry the eggs in confit oil and set them over the gratin.",
+        "Pile on arugula dressed with lemon and confit oil."
       ]
     }
   ],
   "technique": {
-    "name": "Olive-oil confit / low-temperature oil poaching",
-    "tiedTo": "The cherry tomato & garlic confit, then carried into the poached-cod dinner. The skill is holding the oil low and steady (300°F in the oven for the tomatoes; ~130–140°F on the stove for the fish) so ingredients cook through gently without frying — silky texture and a reusable infused oil as the payoff."
+    "name": "Arroser (spoon-basting)",
+    "tiedTo": "The seared cod — once the crust sets, add butter, garlic and thyme, tilt the pan, and spoon the foaming fat over the top. It cooks the fish gently and evenly from above while the bottom stays crisp. The skill is reading the foam: keep it foaming and nutty, never browning to burnt."
   },
   "shopping": [
     {
       "section": "Produce",
-      "items": "2 lb fresh borlotti/cranberry beans in pod, 3 pints cherry/grape tomatoes, 2 bunches Swiss chard, 2 heads garlic, 1 onion, 1 carrot, 1 celery stalk, basil, parsley, lemons, rosemary, thyme, sage"
+      "items": "2 lb ripe cherry/Campari or plum tomatoes, broccoli rabe or broccolini, arugula, lemons, flat-leaf parsley, 2 heads garlic (plus extra), onion, carrot, celery, shallot, fresh thyme, sage, oregano"
     },
     {
       "section": "Seafood",
-      "items": "2 cod or halibut fillets (~3/4 lb), 1.5 lb littleneck clams"
+      "items": "2 cod/hake/halibut fillets, 2 lb mussels"
     },
     {
       "section": "Dairy",
-      "items": "Eggs, Parmesan wedge (with rind)"
+      "items": "butter, eggs, parmesan (plus a rind if you can), pecorino"
     },
     {
       "section": "Pantry",
-      "items": "Spaghetti, anchovies, kombu, chili flakes, bay leaves, crusty bread, dry white wine, large bottle good olive oil (you'll go through 3–4 cups this week)"
+      "items": "1 lb dried cannellini (or 3 cans), orecchiette, plenty of good olive oil, capers, dried chili flakes, bay leaves, white wine, breadcrumbs, flaky salt, crusty bread"
     }
   ],
-  "scaleNote": "This is a 2-adult week (girls with Jen Sep 8–21), so quantities above serve Dan + Mike. For a full-house week (6, four girls under 10): double both components — 4 lb beans, 6 pints tomatoes, ~5–6 cups oil. Lean on the kid-friendly dishes: double the spaghetti al pomodoro (kids love the sweet confit tomatoes), and turn the chard-and-egg into a bigger skillet with eggs cooked to each kid's liking. For the fish night, poach a larger cod fillet and flake it into the beans so it's forkable and mild; serve clams mainly for the adults with plenty of bread for dunking."
+  "scaleNote": "This week is 2 adults — girls are with Jen. To feed the full house of 6 on a girls week: double both components. Serve the cod flaked into the beans rather than plated whole and go easy on the chili. Make the orecchiette the centerpiece (about 1.5 lb pasta, rabe chopped fine). For the kids, skip mussels or serve just the tomato-bean brodo as a dunking soup with lots of bread. The gratin scales best — make it 1.5x with a couple of extra eggs."
 }
