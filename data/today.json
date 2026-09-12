@@ -1,48 +1,59 @@
 {
   "date": "Friday, September 11, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "Last day ashore before the charter",
-  "greeting": "Your last full day ashore in Dubrovnik before the charter, Dan. Everything worth doing today is about getting off dry land clean -- cash, provisions, and the transfers you can't arrange once you're sailing.",
+  "theme": "Last day ashore before the sail.",
+  "greeting": "An open day in Dubrovnik, Dan — nothing on the calendar, but it's your last full stretch of signal before you board tomorrow. Spend it closing the loops a week at sea would leave dangling.",
   "needsAttention": [
     {
-      "tag": "Closing today",
-      "title": "Lock the Cavtat transfers before you board",
-      "detail": "Three open items on the Cavtat hotel need arranging from dry land before Saturday: the ~noon Komolac-to-Cavtat transfer on Sept 19, an early bag hold, and a pre-5 AM checkout for your Sunday flight. Charter connectivity is poor once you're underway."
+      "tag": "Before you sail",
+      "title": "Lock the Cavtat transfers and checkout",
+      "detail": "The Sept 19 hotel is booked, but the Komolac-to-Cavtat transfer, early bag hold, and the ~5:15 AM checkout for your Sept 20 flight all have to be arranged from dry land — charter signal is poor, and the hotel's free cancellation lapses Sept 15 while you're aboard."
     },
     {
-      "tag": "Before boarding",
-      "title": "Confirm boarding and return transfer with Nautilus",
-      "detail": "Message the instructor to pin down tomorrow's ~5 PM meeting time and location, and arrange the Sept 19 airport transfer now while you still have signal."
+      "tag": "Boarding tomorrow",
+      "title": "Confirm boarding with the Nautilus instructor",
+      "detail": "You board around 5 PM Saturday and this is still open — confirm the exact meeting spot and time, and pin down the airport transfer for disembarkation on Sept 19."
     },
     {
       "tag": "Due today",
-      "title": "Provision in Dubrovnik before the 5 PM Saturday boarding",
-      "detail": "Withdraw ~200 EUR in cash and grab snacks, alcohol, and any gluten-free non-perishables before you board -- Studenac, Tommy, or Konzum downtown."
+      "title": "Provision in Dubrovnik before you board",
+      "detail": "Cash (~200 EUR), snacks, alcohol, and any gluten-free non-perishables are far easier to grab today than once underway — Studenac, Tommy, or Konzum are closest."
     },
     {
-      "tag": "Worth a glance",
-      "title": "Confirm the St Pete Airbnb converted",
-      "detail": "The Sept 27-Oct 5 St Pete booking was pending host acceptance; check it went to confirmed rather than expiring. The Sept 20-21 landing gap is still unbooked."
+      "tag": "Before offline",
+      "title": "Close the Florida bookings",
+      "detail": "Confirm the Sept 27-Oct 5 St Pete Airbnb actually converted from pending, book the Sept 20-22 landing-gap nights, and lock the Sept 20-Oct 5 full-size SUV before a week at sea takes you offline."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Synchrony statement ready",
-        "detail": "Your Mattress Firm / Synchrony Home monthly statement is available to view online."
+        "tag": "Job search",
+        "title": "New VP, Government Affairs listings",
+        "detail": "LinkedIn surfaced roles like the Macy's VP Government Affairs posting — a scan for when you're back onshore."
       },
       {
-        "tag": "Job search",
-        "title": "New governance and gov-affairs alerts",
-        "detail": "LinkedIn flagged VP Government Affairs roles similar to one at Macy's."
+        "tag": "FYI",
+        "title": "Farewell note from EqualityMaine",
+        "detail": "Gia Drew wrote to supporters about moving on from the organization."
       }
     ],
-    "noise": "The rest is newsletters and retail -- Chairish, Monocle, NYT Cooking, campaign asks, and travel promos.",
-    "clear": ""
+    "noise": "Everything else is newsletters and receipts — ICGN and Responsible Investor policy digests, NYT Cooking, PayPal and bank statements, a couple of care.com applicants.",
+    "clear": "Nothing in the inbox needs a reply before you sail."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Booked",
+      "title": "Cavtat hotel for Sept 19 is set",
+      "detail": "Remisens Hotel Epidaurus confirmed Sept 9 — sea-view family room, breakfast included, already paid."
+    },
+    {
+      "tag": "Decided",
+      "title": "Florida rental car settled",
+      "detail": "The Sept 20-Oct 5 SUV is no longer a hedge — with the Pathfinder driven down later, the rental is now a definite booking."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -57,20 +68,8 @@
   },
   "tasks": [
     {
-      "title": "Book the Sept 20-Oct 5 Tampa SUV rental outright",
-      "project": "Trip",
-      "due": "Overdue Sep 9",
-      "overdue": true
-    },
-    {
-      "title": "Book St Pete lodging for the Sept 20-21 landing gap",
-      "project": "Trip",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "To-do",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -83,15 +82,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open day in Dubrovnik's Old Town -- no meetings, your last full one ashore."
+      "line": "The calendar is empty end to end — a rare open morning in Dubrovnik, and the last one before the boat."
     },
     {
       "time": "Afternoon",
-      "line": "Run the pre-boarding errands: cash, provisions, and the Cavtat transfer calls that need dry land."
+      "line": "Still no meetings; the afternoon is unstructured time you control while you've got signal to spend."
     },
     {
       "time": "Evening",
-      "line": "Last night at the Old Port apartment; the Nautilus charter boards tomorrow at five."
+      "line": "Your last evening ashore — tomorrow at five you board and the week turns to open water."
     }
   ],
   "japanese": {
