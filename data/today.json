@@ -1,45 +1,45 @@
 {
   "date": "Friday, September 11, 2026",
   "generatedAt": "Morning brief · 8:02 PM ET",
-  "theme": "Last day ashore before the charter.",
-  "greeting": "Your final full day in Dubrovnik before Saturday's charter, Dan. The calendar's clear, but a short list of before-you-board errands wants clearing while you're still on dry land and connected.",
+  "theme": "Last day ashore before the charter",
+  "greeting": "Your last full day ashore in Dubrovnik before the charter, Dan. Everything worth doing today is about getting off dry land clean -- cash, provisions, and the transfers you can't arrange once you're sailing.",
   "needsAttention": [
     {
-      "tag": "Before Saturday",
-      "title": "Lock the Cavtat logistics before you board",
-      "detail": "Three things in Todoist need doing from dry land before Saturday: the Komolac to Cavtat transfer on the 19th, a bag-hold at the Remisens for the noon-to-3PM gap, and the pre-dawn Sept 20 checkout plus airport taxi. Charter signal is poor once you're underway."
+      "tag": "Closing today",
+      "title": "Lock the Cavtat transfers before you board",
+      "detail": "Three open items on the Cavtat hotel need arranging from dry land before Saturday: the ~noon Komolac-to-Cavtat transfer on Sept 19, an early bag hold, and a pre-5 AM checkout for your Sunday flight. Charter connectivity is poor once you're underway."
     },
     {
-      "tag": "Boarding prep",
-      "title": "Confirm the boarding time and return transfer",
-      "detail": "Reach the Nautilus instructor to nail down exactly when and where you board tomorrow, and arrange the Sept 19 airport transfer now, while you still have bandwidth and signal."
+      "tag": "Before boarding",
+      "title": "Confirm boarding and return transfer with Nautilus",
+      "detail": "Message the instructor to pin down tomorrow's ~5 PM meeting time and location, and arrange the Sept 19 airport transfer now while you still have signal."
     },
     {
-      "tag": "Overdue p1",
-      "title": "Book the Sept 20 to Oct 5 rental outright",
-      "detail": "No longer a hedge in Todoist: the Pathfinder can't reach Florida before Oct 18, so this cycle needs the rental. Full-size SUV at TPA to meet your 3:55 PM Sunday landing, so you don't arrive car-less and jet-lagged."
+      "tag": "Due today",
+      "title": "Provision in Dubrovnik before the 5 PM Saturday boarding",
+      "detail": "Withdraw ~200 EUR in cash and grab snacks, alcohol, and any gluten-free non-perishables before you board -- Studenac, Tommy, or Konzum downtown."
     },
     {
-      "tag": "Overdue p1",
-      "title": "Close the St Pete landing-gap lodging",
-      "detail": "The Sept 27 to Oct 5 St Pete stay was pending host confirmation, per Todoist. Verify it converted rather than expired, and the Sept 20-21 gap before the Tuesday kid pickup still needs a place to stay."
+      "tag": "Worth a glance",
+      "title": "Confirm the St Pete Airbnb converted",
+      "detail": "The Sept 27-Oct 5 St Pete booking was pending host acceptance; check it went to confirmed rather than expiring. The Sept 20-21 landing gap is still unbooked."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Nautilus sent a trip send-off",
-        "detail": "Amy at Nautilus Sailing wished you and Mike a good week and flagged good weather. No reply needed."
+        "tag": "Financial",
+        "title": "Synchrony statement ready",
+        "detail": "Your Mattress Firm / Synchrony Home monthly statement is available to view online."
       },
       {
-        "tag": "FYI",
-        "title": "ICGN conference in Toronto, November",
-        "detail": "ICGN's Autumn Conference booking is open. Worth a glance for governance networking while the board search is live."
+        "tag": "Job search",
+        "title": "New governance and gov-affairs alerts",
+        "detail": "LinkedIn flagged VP Government Affairs roles similar to one at Macy's."
       }
     ],
-    "noise": "The rest is retail and travel marketing (Expedia, Booking, VRBO, Chairish, HBO Max) plus food and finance newsletters.",
+    "noise": "The rest is newsletters and retail -- Chairish, Monocle, NYT Cooking, campaign asks, and travel promos.",
     "clear": ""
   },
   "resolved": [],
@@ -57,10 +57,16 @@
   },
   "tasks": [
     {
-      "title": "Pre-boarding provisioning in Dubrovnik: cash, snacks, alcohol, dietary items",
-      "project": "Travel",
-      "due": "Today",
-      "overdue": false
+      "title": "Book the Sept 20-Oct 5 Tampa SUV rental outright",
+      "project": "Trip",
+      "due": "Overdue Sep 9",
+      "overdue": true
+    },
+    {
+      "title": "Book St Pete lodging for the Sept 20-21 landing gap",
+      "project": "Trip",
+      "due": "Overdue Aug 25",
+      "overdue": true
     },
     {
       "title": "Destination edit work",
@@ -77,15 +83,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar. The last open morning in Dubrovnik is entirely yours."
+      "line": "An open day in Dubrovnik's Old Town -- no meetings, your last full one ashore."
     },
     {
       "time": "Afternoon",
-      "line": "Shore errands cluster here: provisioning, cash, and confirming Saturday's boarding and the Cavtat transfers while you still have signal."
+      "line": "Run the pre-boarding errands: cash, provisions, and the Cavtat transfer calls that need dry land."
     },
     {
       "time": "Evening",
-      "line": "A last night in the old town before you board the charter tomorrow at five."
+      "line": "Last night at the Old Port apartment; the Nautilus charter boards tomorrow at five."
     }
   ],
   "japanese": {
