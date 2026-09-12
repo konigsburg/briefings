@@ -1,56 +1,55 @@
 {
   "date": "Saturday, September 12, 2026",
   "generatedAt": "Morning brief · 10:02 AM ET",
-  "theme": "Last day ashore before a week at sea.",
-  "greeting": "Good morning, Dan. Today Dubrovnik's old town gives way to the water — a final run of dry-land errands, then you board the charter around five.",
+  "theme": "Last day ashore, then a week at sea.",
+  "greeting": "The whole day is open before you board this evening, Dan — Dubrovnik is yours until the lines come off around 5. The catch is that everything needing dry land and a signal has to happen today, because the boat goes quiet for the week.",
   "needsAttention": [
     {
-      "tag": "Before you sail",
-      "title": "Lock in the Sept 19 Cavtat arrivals day",
-      "detail": "The hotel is booked, but the Komolac-to-Cavtat transfer, an afternoon bag hold, and a ~5:15 AM checkout for your flight all need arranging from dry land. Charter connectivity is poor to none once you board at five."
+      "tag": "Before you board",
+      "title": "Lock the Cavtat transfers and early checkout",
+      "detail": "Three things can only be arranged from shore: the Komolac→Cavtat transfer on the 19th, a bag hold at the hotel before 3 PM check-in, and the ~5:15 AM checkout on Sun the 20th for your 7:30 flight. Charter connectivity is poor to nonexistent once you sail."
     },
     {
-      "tag": "Before you sail",
-      "title": "Confirm boarding with Nautilus",
-      "detail": "Amy from Nautilus wrote to wish you a good trip; still nail down the exact meeting time and place for this afternoon's boarding, and pre-arrange the Sept 19 return transfer to the airport while you can."
+      "tag": "Before you board",
+      "title": "Confirm boarding and the return transfer with Nautilus",
+      "detail": "Pin down the exact meeting time and place for tonight's ~5 PM boarding, and arrange the airport transfer for disembarking Sat the 19th — far easier now than once you're underway."
     },
     {
-      "tag": "Before you sail",
-      "title": "Provision in Dubrovnik",
-      "detail": "Cash (~200 EUR), snacks, wine, and any gluten-free items are far easier bought ashore than aboard. Studenac, Tommy, or Konzum, and fit it in before the 5 PM boarding."
+      "tag": "Before 5 PM",
+      "title": "Provision in Dubrovnik before boarding",
+      "detail": "Cash (~€200), snacks, the week's alcohol, and any gluten-free non-perishables are all easier ashore than aboard. Studenac, Tommy, or Konzum downtown."
+    },
+    {
+      "tag": "Book before off-grid",
+      "title": "Book the St Pete landing nights and the SUV",
+      "detail": "You land TPA on the 20th straight off a week dark at sea. The Sept 20–Oct 5 Full-Size SUV is now a firm book-it, and the Sept 20–21 St Pete gap is still open — both far easier from shore today."
     }
   ],
   "schedule": [
     {
       "time": "5:00 PM",
       "title": "Board the Nautilus charter",
-      "detail": "Dubrovnik / Komolac, local time — a week of sailing begins",
-      "tag": "Sail"
+      "detail": "Dubrovnik — week-long sailing course begins",
+      "tag": "Sailing"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "New governance and affairs roles from LinkedIn",
-        "detail": "Fresh alerts for a VP, Government Affairs opening and a Sr. Government Relations Manager posting — worth a scan when you're next online."
+        "title": "LinkedIn alert: Sr. Government Relations Manager",
+        "detail": "A new Government Relations role via Jobgether hit your alerts — worth a look when you're back ashore."
       },
       {
         "tag": "Financial",
-        "title": "Mattress Firm / Synchrony statement ready",
-        "detail": "The monthly statement on the account ending 5129 is available to view. A glance, no action."
+        "title": "Chase statement ready",
+        "detail": "Statement posted, $217.84 due Oct 8, auto-pay on — nothing owed before you go."
       }
     ],
-    "noise": "The rest is newsletters (FT, NYT Cooking, Responsible Investor, your Italian and Japanese drills), receipts, and automated notices.",
-    "clear": "Nothing else is waiting on your reply."
+    "noise": "Around 40 newsletters, promos, campaign asks, receipts, and Airbnb review pings — none need you.",
+    "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Networking",
-      "title": "Carol Hansell parked until you're back",
-      "detail": "Your reconnect thread closed itself — you offered to talk after the 19th and she wrote back, 'Happy sailing! Let's talk when you are back.'"
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -64,18 +63,6 @@
     "why": "Early-autumn apples and game birds are coming into their own now."
   },
   "tasks": [
-    {
-      "title": "Book the Sept 20-Oct 5 rental car (full-size SUV, TPA)",
-      "project": "Travel",
-      "due": "Overdue Sep 9",
-      "overdue": true
-    },
-    {
-      "title": "Book the St Pete Sept 20-21 gap and confirm the Sept 27-Oct 5 Airbnb converted",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
     {
       "title": "Destination edit work",
       "project": "Personal",
@@ -91,15 +78,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Your last morning ashore in Dubrovnik — errands are far easier now than they'll be once you're underway."
+      "line": "The morning is open — a good window for the Dubrovnik provisioning run before the shops fill up."
     },
     {
       "time": "Afternoon",
-      "line": "Everything for the Sept 19 return — the Cavtat transfer, bag hold, dawn checkout — wants sorting before you cast off."
+      "line": "Make the calls that can't happen at sea: Cavtat transfers, the Nautilus meet point, the return airport transfer."
     },
     {
       "time": "Evening",
-      "line": "By tonight you're aboard and largely offline; the boat sets the pace from here."
+      "line": "Lines off around 5, and a week on the water begins."
     }
   ],
   "japanese": {
