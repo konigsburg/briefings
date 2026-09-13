@@ -1,18 +1,18 @@
 {
   "date": "Sunday, September 13, 2026",
   "generatedAt": "Morning brief · 12:02 PM ET",
-  "theme": "An open Sunday, mid-charter.",
-  "greeting": "Good morning, Dan. A short review with Mike is the only thing holding today — beyond that, the calendar is open water and the Adriatic is right there.",
+  "theme": "A clear Sunday on the Adriatic.",
+  "greeting": "The calendar is nearly empty, Dan - just a short review with Mike, then an open Sunday. You're on day two of the Croatia charter, so the water sets today's pace.",
   "needsAttention": [
     {
-      "tag": "Charter logistics",
-      "title": "Lock the Cavtat disembarkation",
-      "detail": "The Sept 19 transfer from Komolac to Cavtat, the hotel bag hold, and the pre-dawn Sept 20 checkout still need arranging. Onboard signal thins fast, so it's easiest to settle while you're reachable."
+      "tag": "Croatia - Sat",
+      "title": "Saturday's Cavtat departure isn't fully set",
+      "detail": "The Komolac-to-Cavtat transfer, a bag hold, and a 5:15 AM checkout for the 7:30 flight are still open in Todoist - easiest to sort whenever you catch a signal."
     },
     {
-      "tag": "Florida landing",
-      "title": "Book the landing-week car and gap nights",
-      "detail": "You land TPA Sept 20 with no car booked and the Sept 20-22 St Pete nights still open. Both are marked overdue and worth handling before connectivity fades."
+      "tag": "TPA - Sep 20",
+      "title": "St Pete arrival still has open bookings",
+      "detail": "The Sept 20-Oct 5 full-size SUV (now a firm booking, not a hedge) and the Sept 20-22 landing-gap lodging are both open, and the Sept 27-Oct 5 Airbnb is still pending host confirmation - all before you land jet-lagged on a Sunday."
     }
   ],
   "schedule": [
@@ -20,30 +20,25 @@
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
       "detail": "15-min board sweep",
-      "tag": "sync"
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "New governance and AI-policy roles",
-        "detail": "LinkedIn flagged an EU AI Act SVP, Strategy and a NYT VP, Government Affairs among fresh alerts."
-      },
-      {
         "tag": "FYI",
-        "title": "ICGN Autumn Conference, Toronto",
-        "detail": "Registration is open for the November governance conference."
+        "title": "Childcare applicant on Care.com",
+        "detail": "Kristal R. applied to your posted job this morning."
       }
     ],
-    "noise": "The rest is newsletters and shop sales - Fog Linen, OXO, NYT Cooking, Mattress Firm and the like.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "Everything else is newsletters and promotions - NYT Cooking, WSJ, Delta, a Fidium payment receipt, retail sales, and two LinkedIn invites.",
+    "clear": "Nothing is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Adriatic coast, Croatia",
+    "location": "Croatia (sailing charter)",
     "confidence": "high",
     "asOf": "Sunday Sep 13"
   },
@@ -55,9 +50,15 @@
   "tasks": [
     {
       "title": "Destination edit work",
-      "project": "Todoist",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
+    },
+    {
+      "title": "Disney tickets for Sept 26-27 - the last open Orlando item",
+      "project": "Mike + Dan Board",
+      "due": "Trip Sept 26",
+      "overdue": false
     }
   ],
   "routines": {
@@ -68,15 +69,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A 15-minute review with Mike at 9, then the morning opens to still water."
+      "line": "One 15-minute review with Mike at 9, then the calendar goes quiet."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar holds the afternoon - day two of the charter is yours."
+      "line": "Nothing scheduled - day two of the Adriatic charter is the plan."
     },
     {
       "time": "Evening",
-      "line": "A clear evening ahead, with an equally open Monday behind it."
+      "line": "No events tonight; an easy end to a Sunday at sea."
     }
   ],
   "japanese": {
