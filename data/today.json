@@ -1,30 +1,35 @@
 {
   "date": "Saturday, September 12, 2026",
   "generatedAt": "Morning brief · 8:02 PM ET",
-  "theme": "Last day ashore before a week under sail.",
-  "greeting": "Your last stretch of dry land in Dubrovnik, Dan. Square away the shore logistics while the connection still holds, then the charter takes over.",
+  "theme": "A travel day — the charter week begins.",
+  "greeting": "You're ashore in Dubrovnik, Dan, with the sailing week ahead. A few travel bookings for the September return are still open — worth clearing while you have signal.",
   "needsAttention": [
     {
-      "tag": "Closing today",
-      "title": "Cavtat shore logistics before you sail",
-      "detail": "The Cavtat hotel is booked, but the transfer on the 19th, the bag hold, and the pre-dawn Sept 20 checkout all need arranging from land. Connectivity thins once the charter is underway, and the hotel's free-cancellation window closes the 15th."
+      "tag": "Prep · tomorrow",
+      "title": "Sunday review with Mike, 9 AM",
+      "detail": "Tomorrow's 15-minute board review clears the shared list. Arrive knowing the rental car and the St Pete landing gap are still the open p1s."
     },
     {
-      "tag": "Before boarding",
-      "title": "Confirm boarding and the return transfer",
-      "detail": "Lock the exact Nautilus meeting spot and the Sept 19 airport transfer with the instructor while you are still ashore, rather than from the boat."
+      "tag": "Travel · overdue",
+      "title": "Book the Sept 20–Oct 5 rental car",
+      "detail": "Full-size SUV at Tampa for the Florida return, now a firm booking rather than a hedge. Three days past its due date."
     },
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Sunday review with Mike",
-      "detail": "Mike's 15-minute board sweep is on your calendar for 9 AM tomorrow. A glance at what's active in the shared board beforehand is the agenda you'll open with."
+      "tag": "Travel · overdue",
+      "title": "Close the St Pete landing gap",
+      "detail": "Two nights (Sept 20–21) are still unbooked before the kids' Tuesday pickup, and the Sept 27–Oct 5 St Pete Airbnb was left pending host confirmation."
+    },
+    {
+      "tag": "Travel",
+      "title": "Sort the Sept 19 Cavtat logistics",
+      "detail": "The disembark transfer from Komolac, an early-afternoon bag hold, and the pre-dawn Sunday checkout and airport taxi all need arranging while you still have a connection."
     }
   ],
   "schedule": [
     {
       "time": "5:00 PM",
-      "title": "Board the Nautilus charter",
-      "detail": "Dubrovnik marina - a week under sail begins",
+      "title": "Board the charter",
+      "detail": "Nautilus course, Dubrovnik",
       "tag": "Travel"
     }
   ],
@@ -32,12 +37,12 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "NYT VP, Government Affairs surfaced",
-        "detail": "LinkedIn's alert flagged a Vice President, Government Affairs role at The New York Times among openings like your saved searches."
+        "title": "LinkedIn: VP Government Affairs roles",
+        "detail": "A jobs digest with public-affairs listings near the Macy's VP role — a browse, not an ask."
       }
     ],
-    "noise": "Otherwise just language-lesson digests, an Airbnb host review, and trip confirmations.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "The rest is newsletters, retail, and a political appeal.",
+    "clear": "Nothing is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -54,26 +59,14 @@
   },
   "tasks": [
     {
-      "title": "Pre-boarding shopping in Dubrovnik",
-      "project": "Travel",
-      "due": "Overdue Sep 11",
-      "overdue": true
-    },
-    {
-      "title": "Book Sept 20 - Oct 5 rental SUV at TPA",
-      "project": "Travel",
-      "due": "Overdue Sep 9",
-      "overdue": true
-    },
-    {
-      "title": "Confirm St Pete landing-gap lodging (Sep 20-22)",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
+      "title": "Pre-boarding provisioning in Dubrovnik",
+      "project": "Dan & Mike Stuff",
+      "due": "Overdue Sept 11",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Work",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -86,15 +79,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet morning in Dubrovnik with the Old Port apartment as your base - the last of the shore errands before you cast off."
+      "line": "Last errands in the old town — cash and provisions before a week with no shops."
     },
     {
       "time": "Afternoon",
-      "line": "Provision for the week: local cash, snacks, and any gluten-free items that won't be easy to find once at sea."
+      "line": "Boarding around five, and Dubrovnik slips astern."
     },
     {
       "time": "Evening",
-      "line": "Board the charter around 5 and settle in; the wifi thins the moment you leave the marina."
+      "line": "First night on the water; tomorrow's one fixed point is the 9 AM check-in with Mike."
     }
   ],
   "japanese": {
