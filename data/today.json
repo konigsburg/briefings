@@ -1,50 +1,55 @@
 {
   "date": "Sunday, September 13, 2026",
-  "generatedAt": "Morning brief · 6:02 PM ET",
-  "theme": "A quiet Sunday at sea, with the return coming into view",
-  "greeting": "Sunday on the water, Dan. The one thing on the calendar already ran this morning, so the day is yours between watches — with the tail end of the trip just starting to ask for a few decisions.",
+  "generatedAt": "Morning brief · 6:06 PM ET",
+  "theme": "A day at sea, a short list waiting ashore.",
+  "greeting": "You're mid-charter on the Dalmatian coast, Dan, and the day is genuinely open, with just a 15-minute check-in with Mike on the calendar. The only real weight is a handful of travel bookings that want dry land and a signal.",
   "needsAttention": [
     {
-      "tag": "Window closing",
-      "title": "Cavtat return-day logistics",
-      "detail": "The Sept 19 disembark still needs a Komolac to Cavtat transfer, a bag hold before the 3 PM check-in, and a roughly 5:15 AM checkout for the 7:30 flight. All three are far easier to lock from shore than from the boat."
+      "tag": "Due tomorrow",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "On the Mike + Dan board, the Portland full-size SUV for Christmas week is flagged book-this-week and comes due tomorrow. Holiday PWM inventory is thin and sells out, so a refundable hold now costs nothing and closes the risk."
     },
     {
-      "tag": "Booking open",
-      "title": "St Pete gap, Sept 20 to 22",
-      "detail": "You land TPA on the 20th from Croatia, but the kids are not picked up until the 22nd. The two nights near St Pete before the Orlando villa are still unbooked (p1, overdue)."
+      "tag": "Sept 20 landing",
+      "title": "Car and St Pete gap still open",
+      "detail": "You land TPA Sunday the 20th, but the Sept 20 to Oct 5 full-size SUV and the two-night St Pete stay before the Orlando villa are both still unbooked, both marked p1 on the board."
     },
     {
-      "tag": "Booking open",
-      "title": "Rental car, Sept 20 to Oct 5",
-      "detail": "No longer a hedge. With the Pathfinder being driven down later, the full-size SUV for the TPA landing needs booking outright (p1, overdue)."
+      "tag": "Croatia exit",
+      "title": "Lock the Sept 19-20 disembark",
+      "detail": "The charter ends Saturday noon at Komolac. The Cavtat transfer, a bag hold before the 3 PM check-in, express checkout for the 5:15 AM Sunday flight, and the airport taxi all still need arranging while you have signal ashore."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-minute board reset for the week",
+      "detail": "The weekly 15-minute board sweep.",
       "tag": "sync"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "A caregiver applied on Care.com",
-        "detail": "Kristal R. applied to the job you posted — worth a look once you are back on solid wifi."
+        "tag": "Job search",
+        "title": "Two governance roles in your alerts",
+        "detail": "LinkedIn surfaced an EU AI Act SVP, Strategy role and a NYT VP, Government Affairs, both squarely in your lane, waiting for whenever you are back online."
+      },
+      {
+        "tag": "Financial",
+        "title": "Fidium payment confirmed",
+        "detail": "Your Fidium bill went through, confirmation only, nothing owed."
       }
     ],
-    "noise": "The rest is newsletters and retail — Dwell, NYT Cooking, WSJ's AI roundup, and a run of fall sales.",
-    "clear": ""
+    "noise": "The rest is newsletters, NYT Cooking, WSJ, market and language digests, plus a Care.com applicant and an Airbnb review.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Adriatic coast, Croatia",
-    "confidence": "low",
+    "location": "Dalmatian coast, Croatia",
+    "confidence": "high",
     "asOf": "Sunday Sep 13"
   },
   "recipe": {
@@ -55,7 +60,7 @@
   "tasks": [
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -68,15 +73,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The 15-minute Sunday review with Mike ran at 9 — the week's board is set."
+      "line": "A 15-minute check-in with Mike at nine, then the water is yours."
     },
     {
       "time": "Afternoon",
-      "line": "Open water and nothing scheduled, so the middle of the day is entirely yours."
+      "line": "Nothing scheduled, so the charter has the afternoon end to end."
     },
     {
       "time": "Evening",
-      "line": "The Sept 19 disembark is close enough that the Cavtat transfers are worth sorting whenever a signal turns up."
+      "line": "An open evening aboard, with nothing on the calendar pulling at you."
     }
   ],
   "japanese": {
