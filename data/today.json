@@ -1,45 +1,45 @@
 {
   "date": "Sunday, September 13, 2026",
-  "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "A clear Sunday on the Adriatic.",
-  "greeting": "The calendar is nearly empty, Dan - just a short review with Mike, then an open Sunday. You're on day two of the Croatia charter, so the water sets today's pace.",
+  "generatedAt": "Morning brief · 2:04 PM ET",
+  "theme": "Mid-charter Sunday — the water has the day.",
+  "greeting": "One 15-minute sync this morning, then nothing on the calendar, Dan. You're mid-charter on the Adriatic and the girls are with Jen, so the day is genuinely yours — the one thing worth catching from dry land is the Cavtat wrap-up before connectivity thins out.",
   "needsAttention": [
     {
-      "tag": "Croatia - Sat",
-      "title": "Saturday's Cavtat departure isn't fully set",
-      "detail": "The Komolac-to-Cavtat transfer, a bag hold, and a 5:15 AM checkout for the 7:30 flight are still open in Todoist - easiest to sort whenever you catch a signal."
+      "tag": "Window closing",
+      "title": "Lock the Cavtat landing before the boat cuts off",
+      "detail": "Three things still need arranging from shore before you disembark Sat Sept 19: the Komolac-to-Cavtat transfer, a bag hold before the 3 PM check-in, and a ~5:15 AM express checkout for the Sept 20 flight. The hotel's free-cancellation window also closes Sept 15, so it locks in from the boat."
     },
     {
-      "tag": "TPA - Sep 20",
-      "title": "St Pete arrival still has open bookings",
-      "detail": "The Sept 20-Oct 5 full-size SUV (now a firm booking, not a hedge) and the Sept 20-22 landing-gap lodging are both open, and the Sept 27-Oct 5 Airbnb is still pending host confirmation - all before you land jet-lagged on a Sunday."
+      "tag": "Overdue - p1",
+      "title": "Book the Sept 20-Oct 5 rental car outright",
+      "detail": "In your travel board, marked p1 and overdue since Sept 9 - no longer a hedge. Full-size SUV out of TPA for the whole span; you land Sept 20 at 3:55 PM on a Sunday, so don't arrive without it booked."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board sweep",
-      "tag": "call"
+      "detail": "15-min board reset - owners and dates on everything",
+      "tag": "Sync"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Childcare applicant on Care.com",
-        "detail": "Kristal R. applied to your posted job this morning."
+        "tag": "Financial",
+        "title": "Fidium payment confirmed",
+        "detail": "A payment-confirmation receipt came through this morning - a record, nothing to act on."
       }
     ],
-    "noise": "Everything else is newsletters and promotions - NYT Cooking, WSJ, Delta, a Fidium payment receipt, retail sales, and two LinkedIn invites.",
-    "clear": "Nothing is waiting on your reply."
+    "noise": "Everything else is newsletters and sale flyers - NYT Cooking, WSJ, LinkedIn invites, retail promos.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia (sailing charter)",
-    "confidence": "high",
+    "location": "Adriatic (Croatia charter)",
+    "confidence": "low",
     "asOf": "Sunday Sep 13"
   },
   "recipe": {
@@ -49,16 +49,16 @@
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Book St Pete lodging for the Sept 20-22 landing gap",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
       "overdue": true
     },
     {
-      "title": "Disney tickets for Sept 26-27 - the last open Orlando item",
-      "project": "Mike + Dan Board",
-      "due": "Trip Sept 26",
-      "overdue": false
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
+      "overdue": true
     }
   ],
   "routines": {
@@ -69,15 +69,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "One 15-minute review with Mike at 9, then the calendar goes quiet."
+      "line": "The 15-minute Sunday board reset with Mike was the calendar's only fixed point."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled - day two of the Adriatic charter is the plan."
+      "line": "Nothing scheduled - you're mid-charter on the Adriatic, off the grid by design."
     },
     {
       "time": "Evening",
-      "line": "No events tonight; an easy end to a Sunday at sea."
+      "line": "The day stays open and the girls are with Jen this stretch, so the night is unclaimed."
     }
   ],
   "japanese": {
