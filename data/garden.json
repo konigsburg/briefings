@@ -1,38 +1,38 @@
 {
-  "date": "Sun, Sep 6",
+  "date": "Sun, Sep 13",
   "region": "NH Seacoast · zone 6a",
-  "generatedAt": "Weekly · Sep 6",
-  "headline": "Direct-sow fast fall greens now — spinach, arugula, lettuce and radishes still have time to mature before the mid-October frost.",
+  "generatedAt": "Weekly · Sep 13",
+  "headline": "Get your last fall greens sown this week — the window closes before mid-October frost.",
   "tasks": [
     {
       "tag": "Sow now",
-      "title": "Quick fall greens",
-      "detail": "Direct-sow spinach, arugula, leaf lettuce, radishes and mustard greens this week. They mature in 25-45 days, beating the ~Oct 15 frost, and spinach can overwinter under cover for an early spring cut."
+      "title": "Last-call fall greens",
+      "detail": "Direct-sow quick, cold-hardy crops now: spinach, arugula, radishes, leaf lettuce and mustard. With first frost ~4 weeks out, these still have time to mature, and spinach sown now can overwinter under cover for an early spring cut."
     },
     {
       "tag": "Harvest",
-      "title": "Pick every couple of days",
-      "detail": "Tomatoes, peppers, beans, cukes and summer squash are at peak. Frequent picking keeps plants setting new fruit right up until frost; grab peppers before nights dip near 40F."
+      "title": "Keep picking, and bring in winter squash",
+      "detail": "Harvest tomatoes, peppers, beans and summer squash regularly to keep plants producing. Pick winter squash and pumpkins once the rind is hard enough that a thumbnail won't dent it, leaving a bit of stem attached."
     },
     {
       "tag": "Prune",
-      "title": "Top your tomatoes",
-      "detail": "Snip the growing tips off indeterminate tomatoes so the plant ripens the fruit it already has instead of starting new ones it won't finish before frost."
-    },
-    {
-      "tag": "Prep",
-      "title": "Order garlic now",
-      "detail": "Buy seed garlic this week for planting in mid-to-late October. Hardneck varieties handle NH winters best; ordering early beats the sell-outs."
+      "title": "Pinch tomatoes to ripen what's on",
+      "detail": "Snip off new flowers and pea-sized fruit that won't ripen before frost. This redirects the plant's energy into finishing the fruit already set."
     },
     {
       "tag": "Pest watch",
-      "title": "Late blight & mildew",
-      "detail": "Scout tomatoes for brown, greasy blotches (late blight) and squash leaves for white powdery mildew. Remove affected leaves and trash them — do not compost."
+      "title": "Late blight & powdery mildew",
+      "detail": "Cool, damp nights fuel fungal disease. Watch tomatoes for late blight (brown blotches, white fuzz) and squash/cukes for powdery mildew. Remove affected leaves and trash them — don't compost."
     },
     {
-      "tag": "Water",
-      "title": "Keep new seedbeds moist",
-      "detail": "Newly sown greens need steady moisture to germinate as the soil dries. Water deeply in the morning; cooler nights mean less evaporation but seedbeds still dry fast on top."
+      "tag": "Prep",
+      "title": "Stage your frost protection",
+      "detail": "Have row cover or frost cloth ready now so a surprise early cold snap doesn't catch you off guard. First frost on the Seacoast typically lands mid-October, but it can arrive sooner some years."
+    },
+    {
+      "tag": "Prep",
+      "title": "Ready beds for October garlic",
+      "detail": "Clear and amend a bed with compost now so it's set for planting garlic next month. As beds empty out, sow a cover crop like winter rye or mulch bare soil to protect it over winter."
     }
   ]
 }
