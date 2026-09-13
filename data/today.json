@@ -1,44 +1,49 @@
 {
   "date": "Sunday, September 13, 2026",
   "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "Mid-charter Sunday — the water has the day.",
-  "greeting": "One 15-minute sync this morning, then nothing on the calendar, Dan. You're mid-charter on the Adriatic and the girls are with Jen, so the day is genuinely yours — the one thing worth catching from dry land is the Cavtat wrap-up before connectivity thins out.",
+  "theme": "A quiet Sunday at sea, with the return coming into view",
+  "greeting": "Sunday on the water, Dan. The one thing on the calendar already ran this morning, so the day is yours between watches — with the tail end of the trip just starting to ask for a few decisions.",
   "needsAttention": [
     {
       "tag": "Window closing",
-      "title": "Lock the Cavtat landing before the boat cuts off",
-      "detail": "Three things still need arranging from shore before you disembark Sat Sept 19: the Komolac-to-Cavtat transfer, a bag hold before the 3 PM check-in, and a ~5:15 AM express checkout for the Sept 20 flight. The hotel's free-cancellation window also closes Sept 15, so it locks in from the boat."
+      "title": "Cavtat return-day logistics",
+      "detail": "The Sept 19 disembark still needs a Komolac to Cavtat transfer, a bag hold before the 3 PM check-in, and a roughly 5:15 AM checkout for the 7:30 flight. All three are far easier to lock from shore than from the boat."
     },
     {
-      "tag": "Overdue - p1",
-      "title": "Book the Sept 20-Oct 5 rental car outright",
-      "detail": "In your travel board, marked p1 and overdue since Sept 9 - no longer a hedge. Full-size SUV out of TPA for the whole span; you land Sept 20 at 3:55 PM on a Sunday, so don't arrive without it booked."
+      "tag": "Booking open",
+      "title": "St Pete gap, Sept 20 to 22",
+      "detail": "You land TPA on the 20th from Croatia, but the kids are not picked up until the 22nd. The two nights near St Pete before the Orlando villa are still unbooked (p1, overdue)."
+    },
+    {
+      "tag": "Booking open",
+      "title": "Rental car, Sept 20 to Oct 5",
+      "detail": "No longer a hedge. With the Pathfinder being driven down later, the full-size SUV for the TPA landing needs booking outright (p1, overdue)."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board reset - owners and dates on everything",
-      "tag": "Sync"
+      "detail": "15-minute board reset for the week",
+      "tag": "sync"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Fidium payment confirmed",
-        "detail": "A payment-confirmation receipt came through this morning - a record, nothing to act on."
+        "tag": "FYI",
+        "title": "A caregiver applied on Care.com",
+        "detail": "Kristal R. applied to the job you posted — worth a look once you are back on solid wifi."
       }
     ],
-    "noise": "Everything else is newsletters and sale flyers - NYT Cooking, WSJ, LinkedIn invites, retail promos.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "The rest is newsletters and retail — Dwell, NYT Cooking, WSJ's AI roundup, and a run of fall sales.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Adriatic (Croatia charter)",
+    "location": "Adriatic coast, Croatia",
     "confidence": "low",
     "asOf": "Sunday Sep 13"
   },
@@ -48,12 +53,6 @@
     "why": "Autumn's first cool evenings are made for something slow-simmered and warmly spiced."
   },
   "tasks": [
-    {
-      "title": "Book St Pete lodging for the Sept 20-22 landing gap",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
     {
       "title": "Destination edit work",
       "project": "Personal",
@@ -69,15 +68,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The 15-minute Sunday board reset with Mike was the calendar's only fixed point."
+      "line": "The 15-minute Sunday review with Mike ran at 9 — the week's board is set."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled - you're mid-charter on the Adriatic, off the grid by design."
+      "line": "Open water and nothing scheduled, so the middle of the day is entirely yours."
     },
     {
       "time": "Evening",
-      "line": "The day stays open and the girls are with Jen this stretch, so the night is unclaimed."
+      "line": "The Sept 19 disembark is close enough that the Cavtat transfers are worth sorting whenever a signal turns up."
     }
   ],
   "japanese": {
