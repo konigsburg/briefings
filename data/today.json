@@ -1,48 +1,53 @@
 {
   "date": "Saturday, September 12, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "A travel day — the charter week begins.",
-  "greeting": "You're ashore in Dubrovnik, Dan, with the sailing week ahead. A few travel bookings for the September return are still open — worth clearing while you have signal.",
+  "theme": "Last day ashore before the charter.",
+  "greeting": "You're in Dubrovnik with the Nautilus charter boarding this afternoon, Dan. The girls are with Jen in Florida, so today is yours to close out the trip logistics while you still have a steady signal.",
   "needsAttention": [
     {
-      "tag": "Prep · tomorrow",
-      "title": "Sunday review with Mike, 9 AM",
-      "detail": "Tomorrow's 15-minute board review clears the shared list. Arrive knowing the rental car and the St Pete landing gap are still the open p1s."
+      "tag": "Before you sail",
+      "title": "Lock the Cavtat transfers",
+      "detail": "Three dry-land pieces for Sept 19 still open in Todoist: the Komolac to Cavtat transfer, a bag hold before the 3 PM check-in, and a pre-dawn checkout for the 7:30 flight. All need arranging before charter connectivity drops."
     },
     {
-      "tag": "Travel · overdue",
-      "title": "Book the Sept 20–Oct 5 rental car",
-      "detail": "Full-size SUV at Tampa for the Florida return, now a firm booking rather than a hedge. Three days past its due date."
+      "tag": "Closing window",
+      "title": "Confirm boarding with the instructor",
+      "detail": "The Nautilus boarding time and location, plus the Sept 19 return transfer to the airport, still need confirming in Todoist. Worth nailing down before you're aboard and offline."
     },
     {
-      "tag": "Travel · overdue",
-      "title": "Close the St Pete landing gap",
-      "detail": "Two nights (Sept 20–21) are still unbooked before the kids' Tuesday pickup, and the Sept 27–Oct 5 St Pete Airbnb was left pending host confirmation."
-    },
-    {
-      "tag": "Travel",
-      "title": "Sort the Sept 19 Cavtat logistics",
-      "detail": "The disembark transfer from Komolac, an early-afternoon bag hold, and the pre-dawn Sunday checkout and airport taxi all need arranging while you still have a connection."
+      "tag": "Trip logistics",
+      "title": "Book the Sept 20 to Oct 5 rental car",
+      "detail": "The full-size SUV at TPA is now a firm booking, not a hedge, since the Pathfinder is being driven down. Marked p1 and overdue in Todoist; do it while you have wifi."
     }
   ],
   "schedule": [
     {
       "time": "5:00 PM",
-      "title": "Board the charter",
-      "detail": "Nautilus course, Dubrovnik",
-      "tag": "Travel"
+      "title": "Board the Nautilus charter",
+      "detail": "Dubrovnik marina; a week on the water begins",
+      "tag": "sailing"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "LinkedIn: VP Government Affairs roles",
-        "detail": "A jobs digest with public-affairs listings near the Macy's VP role — a browse, not an ask."
+        "tag": "Financial",
+        "title": "Chase card statement ready",
+        "detail": "Statement balance $217.84, due Oct 8, auto-pay already on. No action needed beyond a glance."
+      },
+      {
+        "tag": "Health",
+        "title": "Talkiatry bill is ready",
+        "detail": "A bill for Aug 18 care is ready to pay whenever you have a moment."
+      },
+      {
+        "tag": "FYI",
+        "title": "ICGN policy newsletter landed",
+        "detail": "The governance policy roundup for early September is in your inbox, close to your field."
       }
     ],
-    "noise": "The rest is newsletters, retail, and a political appeal.",
-    "clear": "Nothing is waiting on your reply."
+    "noise": "The rest is newsletters, receipts, and promos: butternut squash recipes, iPhone 18 pre-orders, and chocolate at Fashion Week.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -59,9 +64,15 @@
   },
   "tasks": [
     {
-      "title": "Pre-boarding provisioning in Dubrovnik",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sept 11",
+      "title": "Book St Pete landing-gap stay (Sept 20 to 22)",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Pre-boarding shopping in Dubrovnik",
+      "project": "Travel",
+      "due": "Due Sept 11",
       "overdue": true
     },
     {
@@ -79,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Last errands in the old town — cash and provisions before a week with no shops."
+      "line": "A quiet last morning in Dubrovnik for provisioning ashore: cash, snacks, and any dietary items before the shops are behind you."
     },
     {
       "time": "Afternoon",
-      "line": "Boarding around five, and Dubrovnik slips astern."
+      "line": "The window to sort dry-land logistics: confirm boarding with the instructor and lock the Cavtat transfers while you still have signal."
     },
     {
       "time": "Evening",
-      "line": "First night on the water; tomorrow's one fixed point is the 9 AM check-in with Mike."
+      "line": "Board the charter around 5, and expect connectivity to thin out from here through the sailing week."
     }
   ],
   "japanese": {
