@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-13",
+    "kind": "Morning brief",
+    "label": "Sunday, Sep 13 · 7:02 AM ET",
+    "summary": "An open Sunday mid-charter on the Adriatic — one 15-min review with Mike, kids with Jen, and Florida-trip bookings waiting for shore.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-12",
     "kind": "Morning brief",
     "label": "Saturday, Sep 12 · 10:02 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Saturday, Aug 15 · 4:02 PM ET",
     "summary": "An open Saturday in coastal Maine with the girls at Jen's — Mike's surgery prep and a PRI reply to Eugenia are the two things worth touching.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-08-14",
-    "kind": "Evening update",
-    "label": "Friday, Aug 14 · 7:31 PM",
-    "summary": "Evening flight from DC to Bangor tonight (AA 3117); weekend in Maine begins.",
     "ref": "today"
   }
 ]
