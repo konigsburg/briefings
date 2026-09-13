@@ -1,54 +1,49 @@
 {
   "date": "Sunday, September 13, 2026",
   "generatedAt": "Morning brief · 10:02 AM ET",
-  "theme": "A quiet Sunday on the water.",
-  "greeting": "You're mid-charter on the Adriatic, Dan — an open Sunday with only a 15-minute check-in with Mike on the books. The Florida-trip logistics can wait until you're back on dry land.",
+  "theme": "An open Sunday, mid-charter.",
+  "greeting": "Good morning, Dan. A short review with Mike is the only thing holding today — beyond that, the calendar is open water and the Adriatic is right there.",
   "needsAttention": [
     {
-      "tag": "Trip booking",
-      "title": "Florida car still unbooked",
-      "detail": "The Sept 20–Oct 5 full-size SUV out of Tampa is now a firm need rather than a hedge — flagged p1 and past due. One to lock whenever you next get a solid signal ashore."
+      "tag": "Charter logistics",
+      "title": "Lock the Cavtat disembarkation",
+      "detail": "The Sept 19 transfer from Komolac to Cavtat, the hotel bag hold, and the pre-dawn Sept 20 checkout still need arranging. Onboard signal thins fast, so it's easiest to settle while you're reachable."
     },
     {
-      "tag": "Trip lodging",
-      "title": "St Pete landing nights open",
-      "detail": "You land Tampa Sept 20 but the kids aren't picked up until the 22nd, so the nights of Sept 20–21 near St Pete still need a room. p1, past due."
-    },
-    {
-      "tag": "Charter wind-down",
-      "title": "Cavtat transfer and early checkout",
-      "detail": "Disembark is noon Sept 19 at Komolac with a 5:15 AM airport run the next morning — the Cavtat transfer and express checkout are still open and best sorted from shore before connectivity thins out."
+      "tag": "Florida landing",
+      "title": "Book the landing-week car and gap nights",
+      "detail": "You land TPA Sept 20 with no car booked and the Sept 20-22 St Pete nights still open. Both are marked overdue and worth handling before connectivity fades."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min pass over the board — owners, dates, promote or kill. Meet link is on the invite.",
-      "tag": "Meeting"
+      "detail": "15-min board sweep",
+      "tag": "sync"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "VP Government Affairs roles surfaced",
-        "detail": "LinkedIn flagged a NYT VP, Government Affairs opening and an EU AI Act SVP, Strategy posting — both squarely in your lane."
+        "title": "New governance and AI-policy roles",
+        "detail": "LinkedIn flagged an EU AI Act SVP, Strategy and a NYT VP, Government Affairs among fresh alerts."
       },
       {
         "tag": "FYI",
-        "title": "ICGN Toronto conference booking open",
-        "detail": "Registration is underway for the ICGN Autumn Conference in Toronto this November — a governance-network fit worth a look."
+        "title": "ICGN Autumn Conference, Toronto",
+        "detail": "Registration is open for the November governance conference."
       }
     ],
-    "noise": "The rest is newsletters and retail — Breeze fares, Choosing Keeping, Slightly Foxed, a Patreon post, and the Valoris dispatch.",
+    "noise": "The rest is newsletters and shop sales - Fog Linen, OXO, NYT Cooking, Mattress Firm and the like.",
     "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Adriatic, Croatia",
+    "location": "Adriatic coast, Croatia",
     "confidence": "high",
     "asOf": "Sunday Sep 13"
   },
@@ -59,20 +54,8 @@
   },
   "tasks": [
     {
-      "title": "Confirm Nautilus return transfer to the airport",
-      "project": "Travel",
-      "due": "Overdue Sept 5",
-      "overdue": true
-    },
-    {
-      "title": "Sort Orlando Disney tickets for the six of you",
-      "project": "Travel",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
-      "project": "Destinations",
+      "project": "Todoist",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -85,15 +68,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A short board review with Mike at 9, and nothing else claims the hours after it."
+      "line": "A 15-minute review with Mike at 9, then the morning opens to still water."
     },
     {
       "time": "Afternoon",
-      "line": "Open water and open time — the charter is the only thing on the agenda."
+      "line": "Nothing on the calendar holds the afternoon - day two of the charter is yours."
     },
     {
       "time": "Evening",
-      "line": "No commitments on the books; the day closes whenever you want it to."
+      "line": "A clear evening ahead, with an equally open Monday behind it."
     }
   ],
   "japanese": {
