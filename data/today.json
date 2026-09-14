@@ -1,36 +1,52 @@
 {
   "date": "Monday, September 14, 2026",
   "generatedAt": "Morning brief · 10:13 AM ET",
-  "theme": "Open water, a few bookings to close before you dock.",
-  "greeting": "Good morning, Dan. You're mid-charter in the Adriatic with an open calendar — the only things asking for you are a handful of travel bookings closing this week, best handled from dry land before you're back offline.",
+  "theme": "A clear day on the charter.",
+  "greeting": "Nothing's on the calendar, Dan — the day belongs to the boat. A couple of booking windows ashore are the only things asking for you this week.",
   "needsAttention": [
     {
-      "tag": "Closing today",
+      "tag": "Window closing",
+      "title": "Cavtat hotel cancellation locks tomorrow",
+      "detail": "Free cancellation on the Remisens Epidaurus room ends Sept 15, 11:59 PM CEST; after that it's non-refundable. The Sept 19 transfer, bag hold, and early Sunday checkout are still unarranged."
+    },
+    {
+      "tag": "Due today",
       "title": "Book the Maine Christmas SUV",
-      "detail": "Due today in Todoist (p1). A full-size SUV out of Portland over Christmas week is the market's hardest rental and sells out early — book it refundable now and firm the dates later."
+      "detail": "This p1 Todoist item is due today. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early — book it refundable now, adjust dates later."
     },
     {
-      "tag": "Before you dock",
-      "title": "Lock the Cavtat handoff",
-      "detail": "Charter ends noon Sat Sept 19 at Komolac and the hotel is booked, but the transfer, an early bag hold, and the pre-dawn Sept 20 checkout and airport taxi are still open. Arrange them from shore before connectivity drops."
-    },
-    {
-      "tag": "Lands Sept 20",
-      "title": "Car and first nights in St Pete",
-      "detail": "You land TPA Sun Sept 20. The Sept 20–Oct 5 full-size SUV (p1) and the Sept 20–21 St Pete lodging gap are both still unbooked, and the Sept 27–Oct 5 Airbnb is pending host confirmation — worth a glance to make sure it converted."
+      "tag": "Overdue p1",
+      "title": "St Pete car and landing-gap lodging",
+      "detail": "The Sept 20-Oct 5 full-size SUV at TPA and the Sept 20-22 St Pete lodging are both still open. You land Sunday the 20th; the kids' pickup is Tuesday the 22nd, so don't arrive without the car booked."
     }
   ],
   "schedule": [],
   "inbox": {
-    "flagged": [],
-    "noise": "The overnight inbox is all newsletters, promos, LinkedIn invites, and routine billing notices — nothing job-search or time-sensitive.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "flagged": [
+      {
+        "tag": "Job search",
+        "title": "Megan messaged you on LinkedIn",
+        "detail": "A LinkedIn message is waiting for your response — worth a glance given the active search."
+      },
+      {
+        "tag": "Financial",
+        "title": "Provider bill ready to pay",
+        "detail": "A healthcare provider flagged a bill from an Aug 18 visit as ready; a separate $35 payment also cleared today."
+      },
+      {
+        "tag": "FYI",
+        "title": "Event invitation from Ellen Fries",
+        "detail": "An invite for Oct 2 at 2 PM — RSVP once you're back ashore."
+      }
+    ],
+    "noise": "The rest is newsletters — NYT Cooking, WSJ, Responsible Investor, and the usual language and travel digests.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Adriatic — Croatia charter",
+    "location": "Croatia (Adriatic charter)",
     "confidence": "low",
     "asOf": "Monday Sep 14"
   },
@@ -41,8 +57,20 @@
   },
   "tasks": [
     {
+      "title": "Confirm Nautilus return transfer for Sept 19",
+      "project": "Travel",
+      "due": "Overdue Sep 5",
+      "overdue": true
+    },
+    {
+      "title": "Disney tickets for Sept 26-27",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
-      "project": "To-do",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -55,15 +83,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar — the sailing course has the day, not your inbox."
+      "line": "The calendar is empty end to end — a rare open stretch with nothing to be anywhere for."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled; the one thing worth chasing ashore is the Sept 19 Cavtat handoff before you're offline again."
+      "line": "Nothing pulls at the afternoon; it's yours to spend on the water."
     },
     {
       "time": "Evening",
-      "line": "An easy close — the girls are with Jen this stretch, so the night is genuinely yours."
+      "line": "The evening is unscheduled — the only clock ashore is a booking window, not an appointment."
     }
   ],
   "japanese": {
