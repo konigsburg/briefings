@@ -1,23 +1,23 @@
 {
   "date": "Monday, September 14, 2026",
-  "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "Open water, open calendar — a few land-side bookings to close.",
-  "greeting": "You're mid-charter on the Adriatic, Dan, with nothing on the calendar. The only real pull today is dry-land logistics before the boat's signal thins — the Cavtat arrival, and a couple of bookings that don't want to wait.",
+  "generatedAt": "Morning brief · 2:05 PM ET",
+  "theme": "A day on the water, the errands on land",
+  "greeting": "Good day, Dan. You're mid-charter with the girls back with Jen, so the calendar is clear and the day belongs to the boat. The open items are all ashore, and none of them are on fire.",
   "needsAttention": [
-    {
-      "tag": "Closing today",
-      "title": "Lock the Cavtat arrival details",
-      "detail": "The Remisens hotel for the 19th is booked, but the Komolac-to-Cavtat transfer, an early bag hold, and the 5:15 AM checkout for your 7:30 flight are all still open. Free cancellation ends Sept 15, and these need doing from shore while you still have signal."
-    },
     {
       "tag": "Due today",
       "title": "Book the Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out. Book it refundable now while dates can still shift — this is the item most likely to bite if left."
+      "detail": "Todoist flags the full-size SUV out of Portland for Christmas week as due today. It's the hardest rental in that market over the holidays and it sells out early. A refundable hold now costs nothing and the dates can flex later."
     },
     {
-      "tag": "Overdue · Travel",
-      "title": "Book the Florida rental car",
-      "detail": "Full-size SUV, TPA, Sept 20 to Oct 5 — no longer a hedge now the Pathfinder is being driven down. You land jet-lagged on a Sunday; don't arrive without it. Overdue since Sept 9."
+      "tag": "Window closing",
+      "title": "Croatia disembark logistics",
+      "detail": "The Cavtat transfer, bag hold, and an early express checkout for the pre-dawn Sept 19 departure still need arranging from dry land. Charter connectivity is thin, so worth catching in a port window rather than leaving to the last morning."
+    },
+    {
+      "tag": "Florida re-entry",
+      "title": "Sept 20 landing stack",
+      "detail": "The Sept 20 to Oct 5 SUV and the two-night St Pete gap before Orlando are still open before you land TPA on the 20th. The St Pete Airbnb was left pending a host confirmation, worth a glance that it actually converted."
     }
   ],
   "schedule": [],
@@ -26,23 +26,28 @@
       {
         "tag": "FYI",
         "title": "Philip is checking in from Maine",
-        "detail": "An old friend wrote — summer got away from you both, and he leaves Saturday for two weeks in the Med, hoping to find a time to connect."
+        "detail": "An old friend wrote wondering where you've been and floating a get-together. He sails Saturday for two weeks in the Med, so a quick reply before then closes the window."
       },
       {
         "tag": "Job search",
-        "title": "Ethics & Boards connection request",
-        "detail": "David at the governance-data firm Ethics & Boards sent a LinkedIn invite — worth a glance given the board search."
+        "title": "A LinkedIn message is waiting",
+        "detail": "LinkedIn says Megan messaged you and it's still unanswered, worth opening given you're actively networking."
+      },
+      {
+        "tag": "Financial",
+        "title": "Card balance ticked down",
+        "detail": "A myFICO alert notes your JPMCB card balance decreased. Informational, nothing to act on."
       }
     ],
-    "noise": "The rest is newsletters and shop promos — Responsible Investor, ICGN policy, Folio Society, Maine seafood and cast iron.",
-    "clear": "Nothing else is waiting on your reply."
+    "noise": "The usual newsletters, Responsible Investor, the WSJ tech roundup, NYT Cooking and Daily Italian, plus a Conqueror sale and a Todoist digest.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Aboard, Adriatic (Croatia)",
-    "confidence": "high",
+    "location": "Croatia (sailing charter)",
+    "confidence": "low",
     "asOf": "Monday Sep 14"
   },
   "recipe": {
@@ -52,41 +57,29 @@
   },
   "tasks": [
     {
-      "title": "Book St Pete landing-gap nights (Sept 20-21)",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
+      "title": "Destination edit work",
+      "project": "Inbox",
+      "due": "Overdue Aug 15",
       "overdue": true
-    },
-    {
-      "title": "Confirm the Nautilus return transfer for the 19th",
-      "project": "Travel",
-      "due": "Overdue Sep 5",
-      "overdue": true
-    },
-    {
-      "title": "Check the St Pete Airbnb converted from pending",
-      "project": "Travel",
-      "due": "Today",
-      "overdue": false
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar and open water — nothing pulls at the morning."
+      "line": "An open, meeting-free day, rare and yours, somewhere off the Croatian coast."
     },
     {
       "time": "Afternoon",
-      "line": "The best window to clear the Cavtat transfers and the two bookings before the signal thins."
+      "line": "The only real pull is toward dry land and a signal, where the week's loose ends live."
     },
     {
       "time": "Evening",
-      "line": "Nothing scheduled tonight — an easy evening aboard before Cavtat on the 19th."
+      "line": "Nothing on the calendar tonight; the water sets the pace, not a clock."
     }
   ],
   "japanese": {
