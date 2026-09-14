@@ -1,23 +1,28 @@
 {
   "date": "Monday, September 14, 2026",
-  "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "A day on the water, the errands on land",
-  "greeting": "Good day, Dan. You're mid-charter with the girls back with Jen, so the calendar is clear and the day belongs to the boat. The open items are all ashore, and none of them are on fire.",
+  "generatedAt": "Morning brief · 4:05 PM ET",
+  "theme": "On the water in Croatia — an open calendar, and Florida-trip bookings that need a dry-land hour.",
+  "greeting": "You're mid-charter on the Adriatic with the girls back in Florida with Jen, so the calendar is clear. The real pull today is shore admin: a friend's note before he sails Saturday, and a stack of Florida-trip bookings that keep slipping.",
   "needsAttention": [
     {
-      "tag": "Due today",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Todoist flags the full-size SUV out of Portland for Christmas week as due today. It's the hardest rental in that market over the holidays and it sells out early. A refundable hold now costs nothing and the dates can flex later."
+      "tag": "Book today",
+      "title": "Maine Christmas SUV",
+      "detail": "The p1 rental for Portland at Christmas is due today. Book a refundable full-size SUV out of PWM now while holiday inventory holds — the Pathfinder is south by then and there's no six-seater in Maine for the trip."
     },
     {
-      "tag": "Window closing",
-      "title": "Croatia disembark logistics",
-      "detail": "The Cavtat transfer, bag hold, and an early express checkout for the pre-dawn Sept 19 departure still need arranging from dry land. Charter connectivity is thin, so worth catching in a port window rather than leaving to the last morning."
+      "tag": "Trip in a week",
+      "title": "Florida car + St Pete gap",
+      "detail": "The Sept 20–Oct 5 full-size SUV at TPA still isn't booked, and the Sept 20–21 landing nights before Orlando are open. Confirm the Sept 27–Oct 5 St Pete Airbnb actually converted from pending, too."
     },
     {
-      "tag": "Florida re-entry",
-      "title": "Sept 20 landing stack",
-      "detail": "The Sept 20 to Oct 5 SUV and the two-night St Pete gap before Orlando are still open before you land TPA on the 20th. The St Pete Airbnb was left pending a host confirmation, worth a glance that it actually converted."
+      "tag": "Cavtat Sept 19",
+      "title": "Disembark logistics",
+      "detail": "The Komolac→Cavtat transfer, a bag hold before 3 PM check-in, and the ~5:15 AM Sept 20 checkout for LH4297 all still need arranging from shore — much harder once you're back underway."
+    },
+    {
+      "tag": "Before Saturday",
+      "title": "Reply to Philip",
+      "detail": "Philip wrote wanting to get together and leaves Saturday for two weeks in the Med — a quick note back before he sails."
     }
   ],
   "schedule": [],
@@ -25,29 +30,19 @@
     "flagged": [
       {
         "tag": "FYI",
-        "title": "Philip is checking in from Maine",
-        "detail": "An old friend wrote wondering where you've been and floating a get-together. He sails Saturday for two weeks in the Med, so a quick reply before then closes the window."
-      },
-      {
-        "tag": "Job search",
-        "title": "A LinkedIn message is waiting",
-        "detail": "LinkedIn says Megan messaged you and it's still unanswered, worth opening given you're actively networking."
-      },
-      {
-        "tag": "Financial",
-        "title": "Card balance ticked down",
-        "detail": "A myFICO alert notes your JPMCB card balance decreased. Informational, nothing to act on."
+        "title": "Philip wants to reconnect",
+        "detail": "A personal note marked important; he leaves Saturday for a Med cruise, so a reply lands better before then."
       }
     ],
-    "noise": "The usual newsletters, Responsible Investor, the WSJ tech roundup, NYT Cooking and Daily Italian, plus a Conqueror sale and a Todoist digest.",
+    "noise": "Everything else is newsletters and shopping — chocolates, Maine seafood, market notes, cooking, and sailing tips.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia (sailing charter)",
-    "confidence": "low",
+    "location": "Dubrovnik, Croatia (charter)",
+    "confidence": "high",
     "asOf": "Monday Sep 14"
   },
   "recipe": {
@@ -58,28 +53,28 @@
   "tasks": [
     {
       "title": "Destination edit work",
-      "project": "Inbox",
+      "project": "To-do",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "An open, meeting-free day, rare and yours, somewhere off the Croatian coast."
+      "line": "A clear calendar on the water — the day is yours between legs of the charter."
     },
     {
       "time": "Afternoon",
-      "line": "The only real pull is toward dry land and a signal, where the week's loose ends live."
+      "line": "If a signal window opens ashore, the Cavtat transfers and the Florida car are the highest-leverage calls."
     },
     {
       "time": "Evening",
-      "line": "Nothing on the calendar tonight; the water sets the pace, not a clock."
+      "line": "A short reply to Philip closes the one personal thread before he sails Saturday."
     }
   ],
   "japanese": {
