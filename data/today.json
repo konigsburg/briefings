@@ -1,48 +1,53 @@
 {
   "date": "Monday, September 14, 2026",
   "generatedAt": "Morning brief · 6:02 PM ET",
-  "theme": "On the water in Croatia — an open calendar, and Florida-trip bookings that need a dry-land hour.",
-  "greeting": "You're mid-charter on the Adriatic with the girls back in Florida with Jen, so the calendar is clear. The real pull today is shore admin: a friend's note before he sails Saturday, and a stack of Florida-trip bookings that keep slipping.",
+  "theme": "An open day, mid-charter — the clocks are all on travel bookings.",
+  "greeting": "Your calendar is clear and the girls are with Jen, but you're mid-charter with the Adriatic between you and a stack of unbooked logistics. Two clocks are actually ticking today: the Cavtat leg and a Christmas rental.",
   "needsAttention": [
     {
-      "tag": "Book today",
-      "title": "Maine Christmas SUV",
-      "detail": "The p1 rental for Portland at Christmas is due today. Book a refundable full-size SUV out of PWM now while holiday inventory holds — the Pathfinder is south by then and there's no six-seater in Maine for the trip."
+      "tag": "Books today",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Due today in Todoist. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out; book it refundable now and fix the dates later once the trip firms up."
     },
     {
-      "tag": "Trip in a week",
-      "title": "Florida car + St Pete gap",
-      "detail": "The Sept 20–Oct 5 full-size SUV at TPA still isn't booked, and the Sept 20–21 landing nights before Orlando are open. Confirm the Sept 27–Oct 5 St Pete Airbnb actually converted from pending, too."
+      "tag": "Window closing",
+      "title": "Lock the Cavtat landing before you sail out of range",
+      "detail": "The charter ends Sept 19 at Komolac and the Remisens hotel's free cancellation ends tomorrow night; the noon transfer, an early bag hold, and a 5:15 AM checkout for the Sept 20 flight all still need arranging from dry land."
     },
     {
-      "tag": "Cavtat Sept 19",
-      "title": "Disembark logistics",
-      "detail": "The Komolac→Cavtat transfer, a bag hold before 3 PM check-in, and the ~5:15 AM Sept 20 checkout for LH4297 all still need arranging from shore — much harder once you're back underway."
-    },
-    {
-      "tag": "Before Saturday",
-      "title": "Reply to Philip",
-      "detail": "Philip wrote wanting to get together and leaves Saturday for two weeks in the Med — a quick note back before he sails."
+      "tag": "Before Sept 18",
+      "title": "St Pete Airbnb — switch or let it charge",
+      "detail": "The $2,331 St Pete booking charges Sept 18, so a better option can still be swapped in until then. The check task is due tomorrow."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "Governance intro through Valoris",
+        "detail": "Mike Lubrano looped you and Chie Mitsui into a Mercer/Marsh pension-advisory introduction; you're only cc, so nothing's owed from you yet."
+      },
+      {
+        "tag": "Job search",
+        "title": "Ethics & Boards connection request",
+        "detail": "A LinkedIn invite from the Ethics & Boards CEO — worth accepting to keep the governance network warm."
+      },
+      {
         "tag": "FYI",
-        "title": "Philip wants to reconnect",
-        "detail": "A personal note marked important; he leaves Saturday for a Med cruise, so a reply lands better before then."
+        "title": "Philip wants to reconnect before he sails",
+        "detail": "A Maine friend writing before he leaves Saturday for a two-week Med cruise; a short reply would keep the thread alive."
       }
     ],
-    "noise": "Everything else is newsletters and shopping — chocolates, Maine seafood, market notes, cooking, and sailing tips.",
+    "noise": "Everything else is newsletters and retail — NYT Cooking, Maine seafood, chocolate, book clubs, and the usual promos.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Dubrovnik, Croatia (charter)",
-    "confidence": "high",
+    "location": "Croatia (Adriatic charter)",
+    "confidence": "low",
     "asOf": "Monday Sep 14"
   },
   "recipe": {
@@ -52,9 +57,27 @@
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "To-do",
-      "due": "Overdue Aug 15",
+      "title": "Book the Sept 20–Oct 5 full-size SUV outright",
+      "project": "Travel",
+      "due": "Overdue Sept 9",
+      "overdue": true
+    },
+    {
+      "title": "Buy Disney tickets for the Sept 26–27 weekend",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "St Pete landing-gap lodging, Sept 20–22",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Finish the four kids' passport packet",
+      "project": "Travel",
+      "due": "Overdue Aug 26",
       "overdue": true
     }
   ],
@@ -66,15 +89,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar on the water — the day is yours between legs of the charter."
+      "line": "Nothing on the calendar — the whole day is open water."
     },
     {
       "time": "Afternoon",
-      "line": "If a signal window opens ashore, the Cavtat transfers and the Florida car are the highest-leverage calls."
+      "line": "No meetings to work around; the leverage today is in the travel bookings, not the inbox."
     },
     {
       "time": "Evening",
-      "line": "A short reply to Philip closes the one personal thread before he sails Saturday."
+      "line": "The girls are with Jen tonight, so it's a quiet one at anchor."
     }
   ],
   "japanese": {
