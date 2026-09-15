@@ -1,47 +1,41 @@
 {
   "date": "Tuesday, September 15, 2026",
   "generatedAt": "Morning brief · 6:02 PM ET",
-  "theme": "Open water, open calendar",
-  "greeting": "The calendar is clear today, Dan -- a rare open stretch mid-charter, with the girls in Florida. What is pulling on you is next week's travel logistics, not today.",
+  "theme": "An open day, with Florida logistics waiting to be locked.",
+  "greeting": "The calendar's clear today, Dan — nothing between you and the water. The only real pull is a small cluster of Florida-trip bookings that want settling before you land on the 20th.",
   "needsAttention": [
     {
-      "tag": "Trip logistics",
-      "title": "Cavtat departure still open",
-      "detail": "The Sept 19 marina transfer, bag hold, and the pre-dawn Sept 20 checkout all need arranging from shore before the charter ends Saturday -- connectivity is thin once underway."
-    },
-    {
-      "tag": "Travel booking",
-      "title": "St Pete gap and rental car",
-      "detail": "You land TPA Sept 20 with no lodging for the 20th-21st and the Sept 20 - Oct 5 full-size SUV still unbooked; both are flagged p1 and overdue in Todoist."
-    },
-    {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV",
-      "detail": "The refundable full-size SUV out of Portland for Christmas week is a p1 now a day past due -- holiday inventory there sells out early, so a refundable hold now costs nothing."
+      "title": "Maine Christmas SUV rental",
+      "detail": "The p1 Portland booking slipped a day past due. A full-size SUV over Christmas week is the hardest rental in that market and sells out early — a refundable hold now takes the whole risk off the table."
     },
     {
-      "tag": "Tomorrow",
+      "tag": "Before you land",
+      "title": "Rental car for the Florida arrival",
+      "detail": "Sept 20 - Oct 5 full-size SUV out of TPA is still unbooked. You land Sunday the 20th; better to have it locked than face walk-up rates jet-lagged on a Sunday."
+    },
+    {
+      "tag": "Two nights open",
+      "title": "St Pete landing-gap lodging",
+      "detail": "Sept 20-21 in the St Pete area is still unbooked, the gap before the kids' Tuesday pickup on the 22nd."
+    },
+    {
+      "tag": "Tomorrow 1 PM",
       "title": "NACD New England programming call",
-      "detail": "The programming committee meets tomorrow at 1 PM ET on Zoom; worth a look at the agenda beforehand since you are on the committee."
+      "detail": "The committee meets tomorrow at 1 PM ET on Zoom - worth arriving with a couple of thoughts on the fall program slate."
     }
   ],
   "schedule": [],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "Financial",
-        "title": "Credit report changes",
-        "detail": "myFICO flagged multiple changes to your TransUnion report and an updated score -- worth a login to confirm nothing looks off."
-      }
-    ],
-    "noise": "About 40 newsletters and promos -- Resy, Chairish, Monocle, Delta, plus sailing and cooking lists.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "flagged": [],
+    "noise": "The inbox is all newsletters and retail - AAdvantage, Resy, Folio, Responsible Investor, NYT Cooking.",
+    "clear": "Nothing is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia · sailing charter",
+    "location": "Croatia (sailing charter)",
     "confidence": "high",
     "asOf": "Tuesday Sep 15"
   },
@@ -52,20 +46,20 @@
   },
   "tasks": [
     {
-      "title": "Check for a better St Pete Airbnb before the Sept 18 charge",
-      "project": "Fall trip",
-      "due": "Due today",
-      "overdue": false
-    },
-    {
-      "title": "Disney park tickets, Sept 26-27",
-      "project": "Fall custody trip",
+      "title": "Lock Disney tickets for the Orlando weekend",
+      "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
+      "title": "Check for a better St Pete Airbnb before the charge",
+      "project": "Travel",
+      "due": "Due today",
+      "overdue": false
+    },
+    {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Tasks",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -78,15 +72,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is empty -- a rare open stretch while the charter works its way along the Adriatic."
+      "line": "Nothing on the calendar - the morning is entirely yours."
     },
     {
       "time": "Afternoon",
-      "line": "No meetings hold the afternoon; it is yours between ports."
+      "line": "Still clear; the Florida-trip bookings are the only thing tugging at the day."
     },
     {
       "time": "Evening",
-      "line": "A quiet close before the week's logistics gather toward Saturday's disembark."
+      "line": "Tomorrow opens with the NACD programming call at 1 - a few thoughts on the fall slate are worth carrying in."
     }
   ],
   "japanese": {
