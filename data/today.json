@@ -1,42 +1,47 @@
 {
   "date": "Monday, September 14, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "Open water, open day.",
-  "greeting": "You're mid-charter off the Dalmatian coast, Dan — nothing on the calendar and the boat keeping the pace. Only a couple of shore-side bookings still want you.",
+  "theme": "An open day at sea — a few bookings waiting on a signal.",
+  "greeting": "The whole day is yours on the water, Dan — no meetings, no calls. What's waiting isn't on the calendar: a short stack of travel bookings that just need a moment ashore with a signal.",
   "needsAttention": [
     {
-      "tag": "Due today",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Your p1 Todoist item is due today. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out — book it refundable now and adjust dates later."
+      "tag": "Book today",
+      "title": "Maine Christmas SUV, before it sells out",
+      "detail": "Due today: reserve a refundable full-size SUV out of Portland for Christmas week. It's the tightest rental in that market over the holidays, and there's no six-seater in Maine once the Pathfinder heads south — a refundable hold now costs nothing."
     },
     {
-      "tag": "Closes Sept 18",
-      "title": "Last look at St Pete lodging",
-      "detail": "The Sept 27–Oct 5 St Pete Airbnb charges on Sept 18; switching to a better option is only free until then, so this is the window to check."
+      "tag": "From shore",
+      "title": "Cavtat transfers need dry land",
+      "detail": "The charter ends noon Saturday at Komolac. Pre-book the transfer to the Remisens in Cavtat, confirm an early bag hold before the 3 PM check-in, and arrange a ~5:15 AM checkout and taxi for Sunday's 7:30 flight — all three want doing while you still have a signal, not from the boat."
     },
     {
-      "tag": "Do from shore",
-      "title": "Cavtat Sept 19 transfers",
-      "detail": "Charter connectivity is poor, so the Komolac→Cavtat transfer, the bag hold, and the early Sunday checkout still need arranging from dry land before Saturday's disembark."
+      "tag": "Landing gap",
+      "title": "Two unbooked nights when you land",
+      "detail": "You touch down at TPA Sunday the 20th but don't collect the kids until Tuesday — the nights of the 20th and 21st before the Orlando villa still have nowhere booked. Worth a glance too that the Sept 27–Oct 5 St Pete Airbnb converted from pending before its Sept 18 charge."
+    },
+    {
+      "tag": "Before you land",
+      "title": "Book the TPA car outright",
+      "detail": "This cycle always needed a rental — the Pathfinder can't be in Florida until it's driven down after Oct 18. Book the full-size SUV at TPA for Sept 20–Oct 5 so you're not at a walk-up counter, jet-lagged, on a Sunday."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Independent Managers Club intro",
-        "detail": "You're cc'd on a thread introducing a Mercer/Marsh pension-fund advisory lead to Chie Mitsui — worth a read; no reply is owed from you."
+        "tag": "FYI",
+        "title": "You're cc'd on a Mercer intro",
+        "detail": "Mike Lubrano looped Chie Mitsui toward Mercer/Marsh's asset-owner advisory lead — you're only copied and nothing's owed, but it's live in your governance-network orbit."
       }
     ],
-    "noise": "About 20 newsletters and shop promos — NYT Cooking, Press Herald, Responsible Investor, and the usual retail.",
+    "noise": "Everything else unread is newsletters and promotions — mattresses, market briefs, Maine seafood, a campaign ask.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia (charter)",
+    "location": "Croatia — mid-charter",
     "confidence": "low",
     "asOf": "Monday Sep 14"
   },
@@ -47,39 +52,15 @@
   },
   "tasks": [
     {
-      "title": "Book Maine Christmas SUV (PWM)",
-      "project": "Travel",
-      "due": "Due today",
-      "overdue": false
-    },
-    {
-      "title": "Check for a better St Pete Airbnb",
-      "project": "Travel",
-      "due": "Due tomorrow",
-      "overdue": false
-    },
-    {
-      "title": "Arrange Cavtat transfers & early checkout",
-      "project": "Travel",
-      "due": "Overdue Sept 9",
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     },
     {
-      "title": "Confirm Nautilus return transfer",
-      "project": "Travel",
-      "due": "Overdue Sept 5",
-      "overdue": true
-    },
-    {
-      "title": "Book Sept 20–Oct 5 rental car (TPA)",
-      "project": "Travel",
-      "due": "Overdue Sept 9",
-      "overdue": true
-    },
-    {
-      "title": "Lock St Pete landing-gap nights (Sept 20–22)",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
+      "title": "Confirm the Nautilus return transfer to the airport",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 5",
       "overdue": true
     }
   ],
@@ -91,15 +72,18 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing scheduled — the charter sets the rhythm."
+      "line": "The calendar's empty — you're mid-charter on the Adriatic, and the day belongs to the water.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "Open water; the only pull ashore is two bookings you can clear from your phone."
+      "line": "No meetings to break the sail; the only threads left are a handful of bookings waiting on a dry-land signal.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "A quiet night aboard, a few days still to sail."
+      "line": "A shore stop is the moment to close the Cavtat transfers and the Florida-arrival loose ends before connectivity thins again.",
+      "tag": "quiet"
     }
   ],
   "japanese": {
