@@ -1,43 +1,59 @@
 {
   "date": "Tuesday, September 15, 2026",
-  "generatedAt": "Morning brief · 12:03 PM ET",
-  "theme": "A clear day on the water, with next week's logistics to lock down.",
-  "greeting": "The calendar's empty today, Dan — you're mid-charter on the Adriatic. The pressing things are bookings and one bit of prep, all best knocked out while you have signal on dry land.",
+  "generatedAt": "Morning brief · 12:06 PM ET",
+  "theme": "A clear deck, a few lines to tie off ashore.",
+  "greeting": "Good afternoon, Dan — nothing on the calendar today, just the Adriatic and the last stretch of the charter. The only real pulls are a handful of shore-side bookings worth closing while you have signal, and a read for tomorrow's NACD call.",
   "needsAttention": [
     {
+      "tag": "Closing this week",
+      "title": "Lock Saturday's Cavtat ground moves",
+      "detail": "The Remisens hotel is booked, but the Komolac to Cavtat transfer, the early bag hold, and the 5:15 AM checkout for Sunday's flight all need arranging from shore before Saturday — charter connectivity thins out once you are underway."
+    },
+    {
       "tag": "Tomorrow 1 PM",
-      "title": "Skim the NACD programming report before the committee call",
-      "detail": "Larissa's reminder for tomorrow's 1:00 PM NACD New England programming committee call is in your inbox with the latest programming report attached — read it ahead so you arrive with a view."
+      "title": "NACD programming committee prep",
+      "detail": "Larissa's reminder for the 9/16 1:00 PM ET committee call carries the latest programming report — skim it beforehand so you arrive holding the agenda rather than opening it cold."
     },
     {
-      "tag": "Ashore only",
-      "title": "Arrange the Sept 19 disembark logistics",
-      "detail": "The charter ends at noon Saturday in Komolac. The transfer to the Remisens in Cavtat, an early Sunday checkout for the 7:30 AM flight, and a bag hold before 3 PM check-in all need arranging from land before Saturday, while connectivity holds."
+      "tag": "Overdue · Travel",
+      "title": "Florida arrival still has two gaps",
+      "detail": "Two p1 items are past due for your Sept 20 TPA landing: the Sept 20-22 St Pete lodging gap and the Sept 20-Oct 5 full-size SUV. Landing jet-lagged on a Sunday without both booked is the thing to avoid."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Sept 20 SUV and the St Pete gap nights",
-      "detail": "You land TPA Sunday Sept 20 at 3:55 PM; the full-size SUV rental and the Sept 20–21 St Pete nights before the Orlando villa are both still unbooked. Also glance that the Sept 27–Oct 5 St Pete Airbnb converted to confirmed before its Sept 18 charge."
-    },
-    {
-      "tag": "Book this week",
-      "title": "Hold a Christmas SUV out of Portland",
-      "detail": "A full-size SUV from PWM over Christmas week is the tightest rental in that market and sells out early; a refundable hold now costs nothing and closes the risk."
+      "tag": "Overdue · Travel",
+      "title": "Maine Christmas SUV, a day past due",
+      "detail": "The 'book this week' full-size SUV out of Portland for Christmas week slipped by one day; holiday inventory there sells out early, so a refundable hold now removes the whole risk at no cost."
     }
   ],
   "schedule": [],
   "inbox": {
-    "flagged": [],
-    "noise": "The rest is promotions — the NYT cookbook, an Expedia coupon, Indochino, a Freeport food truck, and the weekly no-bread note.",
-    "clear": "Nothing else is waiting on a reply."
+    "flagged": [
+      {
+        "tag": "Financial",
+        "title": "myFICO credit report alert",
+        "detail": "Multiple changes flagged to your TransUnion report with an updated score — a look once you are back on solid wifi."
+      },
+      {
+        "tag": "FYI",
+        "title": "Philip hoping to connect before Saturday",
+        "detail": "An old friend wrote wanting to get together; he leaves Saturday for two weeks in the Med, so a short reply closes the loop."
+      },
+      {
+        "tag": "FYI",
+        "title": "Independent Managers Club intro forming",
+        "detail": "Mike Lubrano is lining up a call with Mercer/Marsh's Ryan Moore and Chie Mitsui on the pension-advisory research — you are cc'd, nothing owed yet."
+      }
+    ],
+    "noise": "The rest is newsletters — NYT Cooking, Responsible Investor, Dex reminders, the Midcoast Villager, and a couple of subscription notices.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Adriatic coast, Croatia",
+    "location": "Aboard the charter, Croatia",
     "confidence": "low",
-    "asOf": "Tue Sep 15"
+    "asOf": "Tuesday Sep 15"
   },
   "recipe": {
     "title": "Borlotti beans with sautéed baby kale",
@@ -46,9 +62,21 @@
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Inbox",
-      "due": "Overdue Aug 15",
+      "title": "Check for a better St Pete Airbnb before the Sept 18 charge",
+      "project": "Travel",
+      "due": "Due today",
+      "overdue": false
+    },
+    {
+      "title": "Confirm the Nautilus return transfer to the airport",
+      "project": "Travel",
+      "due": "Overdue Sep 5",
+      "overdue": true
+    },
+    {
+      "title": "Disney tickets for the Sept 26-27 Orlando weekend",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -60,15 +88,18 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — you're out on the water in Croatia with the day your own."
+      "line": "An empty calendar and open water — no meetings anywhere on today.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "Time ashore is best spent on the Saturday disembark logistics while you still have a signal."
+      "line": "Worth spending any signal you catch on Saturday's Cavtat transfers before the charter's connectivity thins.",
+      "tag": "sail"
     },
     {
       "time": "Evening",
-      "line": "Tomorrow's 1 PM NACD programming call is the one fixed point — the report is in your inbox to read ahead."
+      "line": "The one fixed point ahead is tomorrow's NACD New England programming call at 1 — the report reads first.",
+      "tag": "prep"
     }
   ],
   "japanese": {
