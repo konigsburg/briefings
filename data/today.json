@@ -1,28 +1,28 @@
 {
   "date": "Tuesday, September 15, 2026",
   "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "An open day at sea, one meeting on tomorrow's horizon.",
-  "greeting": "A wide-open day, Dan — nothing on the calendar until tomorrow's NACD programming call. The main pull today is the trip's loose ends, and one of them closes at midnight local.",
+  "theme": "Open water, open calendar",
+  "greeting": "The calendar is clear today, Dan -- a rare open stretch mid-charter, with the girls in Florida. What is pulling on you is next week's travel logistics, not today.",
   "needsAttention": [
     {
-      "tag": "Closes today",
-      "title": "Lock the Cavtat arrival logistics",
-      "detail": "Free cancellation on the Sept 19 Cavtat room ends tonight, and the airport transfer, an early bag hold, and the ~5 AM Sunday checkout all need arranging from shore before Saturday — charter connectivity won't allow it later."
+      "tag": "Trip logistics",
+      "title": "Cavtat departure still open",
+      "detail": "The Sept 19 marina transfer, bag hold, and the pre-dawn Sept 20 checkout all need arranging from shore before the charter ends Saturday -- connectivity is thin once underway."
     },
     {
-      "tag": "Tomorrow 1 PM",
-      "title": "NACD New England programming call",
-      "detail": "The programming committee meets tomorrow at 1 PM ET on Zoom; a few concrete programming ideas to arrive holding would carry the hour."
+      "tag": "Travel booking",
+      "title": "St Pete gap and rental car",
+      "detail": "You land TPA Sept 20 with no lodging for the 20th-21st and the Sept 20 - Oct 5 full-size SUV still unbooked; both are flagged p1 and overdue in Todoist."
     },
     {
       "tag": "Book this week",
       "title": "Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early — a refundable hold now (p1, a day overdue) removes the whole risk."
+      "detail": "The refundable full-size SUV out of Portland for Christmas week is a p1 now a day past due -- holiday inventory there sells out early, so a refundable hold now costs nothing."
     },
     {
-      "tag": "Windows closing",
-      "title": "Florida car and the St Pete gap",
-      "detail": "The Sept 20–Oct 5 full-size SUV still needs booking before you land TPA on the 20th, and the check for a better St Pete Airbnb closes when the Sept 18 charge hits."
+      "tag": "Tomorrow",
+      "title": "NACD New England programming call",
+      "detail": "The programming committee meets tomorrow at 1 PM ET on Zoom; worth a look at the agenda beforehand since you are on the committee."
     }
   ],
   "schedule": [],
@@ -30,29 +30,19 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "AT&T autopay went through",
-        "detail": "Payment confirmed on the account ending 5042 via Amex — a record, no action."
-      },
-      {
-        "tag": "Financial",
-        "title": "FICO flagged a credit-report change",
-        "detail": "myFICO reports movement on your TransUnion score and balances; worth a look when you're back on shore."
-      },
-      {
-        "tag": "FYI",
-        "title": "ICGN Toronto conference is open",
-        "detail": "Registration invite for the autumn governance conference — on-point for the board search if the dates work."
+        "title": "Credit report changes",
+        "detail": "myFICO flagged multiple changes to your TransUnion report and an updated score -- worth a login to confirm nothing looks off."
       }
     ],
-    "noise": "The rest is newsletters and shopping — Resy, Chairish, Monocle, NYT Cooking, Folio Society, and a few Maine dispatches.",
+    "noise": "About 40 newsletters and promos -- Resy, Chairish, Monocle, Delta, plus sailing and cooking lists.",
     "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia · Adriatic charter",
-    "confidence": "low",
+    "location": "Croatia · sailing charter",
+    "confidence": "high",
     "asOf": "Tuesday Sep 15"
   },
   "recipe": {
@@ -62,14 +52,14 @@
   },
   "tasks": [
     {
-      "title": "Book the St Pete landing-gap lodging (Sept 20–22)",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
+      "title": "Check for a better St Pete Airbnb before the Sept 18 charge",
+      "project": "Fall trip",
+      "due": "Due today",
+      "overdue": false
     },
     {
-      "title": "Confirm the Orlando + Disney tickets",
-      "project": "Travel",
+      "title": "Disney park tickets, Sept 26-27",
+      "project": "Fall custody trip",
       "due": "Overdue Aug 28",
       "overdue": true
     },
@@ -88,15 +78,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is empty straight through — a genuinely open stretch, wherever the boat is."
+      "line": "The calendar is empty -- a rare open stretch while the charter works its way along the Adriatic."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled; the day's real weight is the trip logistics stacking up before the weekend."
+      "line": "No meetings hold the afternoon; it is yours between ports."
     },
     {
       "time": "Evening",
-      "line": "A quiet run-up to tomorrow's single meeting — good time to jot the programming notes."
+      "line": "A quiet close before the week's logistics gather toward Saturday's disembark."
     }
   ],
   "japanese": {
