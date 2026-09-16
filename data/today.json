@@ -1,44 +1,50 @@
 {
   "date": "Wednesday, September 16, 2026",
   "generatedAt": "Morning brief · 6:02 PM ET",
-  "theme": "A clear day at sea before the crossing home.",
-  "greeting": "The girls are with Jen and the calendar is nearly empty, Dan — just the NACD programming call bridging the afternoon. The charter runs to Saturday, so the week's real work is locking down the Cavtat transfers and the Florida landing.",
+  "theme": "Open water, one call, and Saturday's landing to settle",
+  "greeting": "An open day on the water, Dan, with just the NACD programming call breaking the afternoon. The real work is on dry land: the charter ends Saturday, so the Cavtat transfers and the Florida landing want locking in while you still have signal.",
   "needsAttention": [
     {
-      "tag": "Croatia · Sat",
-      "title": "Charter ends Saturday — transfers still open",
-      "detail": "The Cavtat hotel is booked, but the Komolac-to-Cavtat transfer, the bag hold before 3 PM check-in, and the ~5:15 AM checkout for the 7:30 flight all still need arranging from shore before charter connectivity drops."
+      "tag": "Closing Saturday",
+      "title": "Lock the Cavtat disembark logistics",
+      "detail": "The charter ends noon Saturday at Komolac. The transfer to Cavtat, a bag hold before 3 PM check-in, and a ~5:15 AM Sunday checkout for the 7:30 flight all need arranging from land before the boat's signal thins."
     },
     {
-      "tag": "Window closing",
-      "title": "St Pete Airbnb locks in Sept 18",
-      "detail": "The Sept 27 - Oct 5 St Pete booking charges the 18th. It's the last window to switch to a better rate or location before it's paid and switching costs more."
+      "tag": "Before Sunday",
+      "title": "Book the TPA rental car outright",
+      "detail": "Full-size SUV at Tampa, Sept 20 to Oct 5, to seat all six. You land Sunday at 3:55 PM, so this can't be a walk-up on a jet-lagged Sunday afternoon."
     },
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV",
-      "detail": "The Pathfinder heads south in October, so Christmas in Maine needs a full-size SUV out of Portland - the hardest rental in that market over the holiday. Hold a refundable one now while inventory lasts."
+      "tag": "Overdue · this week",
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "A refundable full-size SUV out of Portland for Christmas week is the thinnest rental in that market over the holiday and it sells out. The task was due Sept 14."
     }
   ],
   "schedule": [
     {
       "time": "1:00 PM",
       "title": "NACD New England Programming Committee",
-      "detail": "Zoom - you're the organizer",
-      "tag": "call"
+      "detail": "Zoom · you're the organizer",
+      "tag": "meeting"
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "Two-plus days of newsletters and shop promotions - Foreign Affairs, NYT Cooking, sailing schools, Maine seafood, furniture finds.",
-    "clear": "Nothing is waiting on your reply."
+    "flagged": [
+      {
+        "tag": "Financial",
+        "title": "myFICO alert: account balance decreased",
+        "detail": "Automated credit-monitoring ping on a SYNCB/NTWK account, informational only, nothing to act on."
+      }
+    ],
+    "noise": "The rest is newsletters and retail: Foreign Affairs, Responsible Investor, Midcoast Villager, NYT Cooking, and a stack of promos.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia (charter)",
-    "confidence": "high",
+    "location": "Croatia · sailing",
+    "confidence": "low",
     "asOf": "Wed Sep 16"
   },
   "recipe": {
@@ -48,33 +54,21 @@
   },
   "tasks": [
     {
-      "title": "Book Sept 20 - Oct 5 SUV at TPA (land Sun 3:55 PM)",
-      "project": "Travel",
-      "due": "Overdue Sep 9",
-      "overdue": true
-    },
-    {
       "title": "Book St Pete lodging for the Sept 20-22 landing gap",
       "project": "Travel",
       "due": "Overdue Aug 25",
       "overdue": true
     },
     {
-      "title": "Buy Disney tickets - Orlando Sept 26-27, all six",
+      "title": "Confirm the Nautilus return transfer to the airport",
       "project": "Travel",
-      "due": "Overdue Aug 28",
+      "due": "Overdue Sept 5",
       "overdue": true
     },
     {
-      "title": "Finish the 4-kid passport packet",
+      "title": "Check the St Pete Airbnb confirmed before the Sept 18 charge",
       "project": "Travel",
-      "due": "Overdue Aug 26",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
+      "due": "Due Sept 15",
       "overdue": true
     }
   ],
@@ -86,15 +80,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar before midday - the morning belongs to the boat."
+      "line": "Open water and nothing on the calendar, the last easy stretch of the charter is yours."
     },
     {
-      "time": "1 - 2 PM",
-      "line": "One hour for the NACD New England programming committee on Zoom, then the day reopens."
+      "time": "Afternoon",
+      "line": "One commitment breaks the day: the NACD New England programming call at one."
     },
     {
       "time": "Evening",
-      "line": "Clear ahead - Saturday's disembarkation at Komolac and the flight home are the next fixed points."
+      "line": "As the coast slips past, Saturday's move to dry land is the thing worth settling before the signal thins."
     }
   ],
   "japanese": {
