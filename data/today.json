@@ -1,30 +1,30 @@
 {
   "date": "Wednesday, September 16, 2026",
   "generatedAt": "Morning brief · 10:10 AM ET",
-  "theme": "One midday call, open water, and a stack of trip bookings to close from shore.",
-  "greeting": "Good morning, Dan. The calendar barely touches today — just the NACD New England programming call at 1. The real pressure is the trip itself: the Croatia wind-down and the Florida landing both need bookings locked before you lose signal.",
+  "theme": "A quiet day at sea, with Florida-trip bookings closing in.",
+  "greeting": "You're mid-charter on the Adriatic and the girls are home in Florida with Jen, so today's real cargo is a handful of travel bookings that don't wait well. One evening Zoom with the NACD New England committee, and otherwise the water is yours.",
   "needsAttention": [
     {
-      "tag": "Closes Saturday",
-      "title": "Lock Croatia's Saturday exit from shore",
-      "detail": "The Komolac-to-Cavtat transfer, a bag hold before 3 PM check-in, and the ~5:15 AM Sunday checkout for your 7:30 flight all still need arranging (Todoist p1) — and charter signal is poor, so do it while you can."
+      "tag": "Window closing",
+      "title": "St Pete Airbnb switch closes Sept 18",
+      "detail": "The Sept 27 - Oct 5 booking ($2,331) charges Sept 18; if a better option is going to replace it, the swap has to happen before then. After that it's paid."
     },
     {
-      "tag": "Lands Sunday",
-      "title": "Florida car and the Sept 20-21 gap nights",
-      "detail": "A full-size SUV at TPA for Sept 20-Oct 5 and two nights' St Pete lodging before the kids' Tue pickup are both still open (Todoist p1) — you arrive jet-lagged on a Sunday, so don't land without them."
+      "tag": "Saturday disembark",
+      "title": "Cavtat transfers for Sept 19 still open",
+      "detail": "The hotel is booked, but the Komolac to Cavtat transfer, the early checkout Sunday, and the midday bag hold all still need arranging - and all are hard to do once you're offline on the boat."
     },
     {
-      "tag": "Overdue p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week was flagged to book this week (Todoist, overdue Sept 14) — holiday inventory there sells out early."
+      "tag": "Book outright",
+      "title": "Sept 20 - Oct 5 rental car",
+      "detail": "No longer a hedge - a full-size SUV out of TPA for the Sept 20 landing needs booking outright so you're not at a walk-up counter jet-lagged on a Sunday."
     }
   ],
   "schedule": [
     {
-      "time": "1:00 PM",
+      "time": "1:00 PM ET",
       "title": "NACD New England Programming Committee",
-      "detail": "Zoom · 7 PM your time in Croatia",
+      "detail": "Zoom - 7 PM your time in Croatia",
       "tag": "call"
     }
   ],
@@ -33,17 +33,27 @@
       {
         "tag": "Job search",
         "title": "Brunswick passed your resume along",
-        "detail": "Lauren Nadig wrote this morning that she shared your CV with Brunswick recruitment and with Courtney in New York, and will follow up on who to connect with — no reply owed yet."
+        "detail": "Lauren Nadig shared your CV with recruitment and with Courtney in New York, and says she'll follow up with names."
+      },
+      {
+        "tag": "Job search",
+        "title": "Sr. Director, US Public Affairs posted",
+        "detail": "A LinkedIn alert flags an EPM Scientific public-affairs role squarely in your wheelhouse."
+      },
+      {
+        "tag": "FYI",
+        "title": "Philip wants to reconnect before his cruise",
+        "detail": "An old Maine friend writes that the summer got away from you both; he leaves Saturday for two weeks in the Med."
       }
     ],
-    "noise": "The rest is ICGN conference promos, a LinkedIn job alert, a Figma update, and Navionics boating notifications.",
-    "clear": "Nothing else is waiting on your reply."
+    "noise": "The rest is retail sales, newsletters, and boating-app location pings from Mike.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia (sailing charter)",
+    "location": "Adriatic coast, Croatia",
     "confidence": "high",
     "asOf": "Wednesday Sep 16"
   },
@@ -54,15 +64,21 @@
   },
   "tasks": [
     {
-      "title": "Confirm the Nautilus return transfer to the airport",
+      "title": "Book Maine Christmas rental - full-size SUV, PWM",
+      "project": "Travel",
+      "due": "Overdue Sep 14",
+      "overdue": true
+    },
+    {
+      "title": "Confirm the Nautilus return transfer for Sept 19",
       "project": "Travel",
       "due": "Overdue Sep 5",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Projects",
-      "due": "Overdue Aug 15",
+      "title": "Disney tickets for the Sept 26-27 Orlando weekend",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -74,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear stretch on the water before anything is owed to the calendar."
+      "line": "An unhurried Adriatic morning - nothing on the calendar and the girls with Jen back in Florida."
     },
     {
       "time": "Afternoon",
-      "line": "One fixed point midday — the NACD New England programming call — then the day reopens."
+      "line": "Open water and an open calendar; the only tether is a few travel bookings with windows starting to close."
     },
     {
       "time": "Evening",
-      "line": "Closing out Saturday's transfers and the Florida landing is the evening's real work, best done while you still have a signal."
+      "line": "The NACD New England programming committee meets at 1 PM ET, which lands at 7 in the evening where you are."
     }
   ],
   "japanese": {
