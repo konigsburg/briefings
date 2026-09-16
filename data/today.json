@@ -1,35 +1,25 @@
 {
   "date": "Wednesday, September 16, 2026",
-  "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "Open water, one call ashore.",
-  "greeting": "A wide-open day on the Croatian coast, Dan. The only fixed point is the NACD committee call at 1, and ten quiet minutes of wifi on the return logistics is the thing most worth doing before the boat cuts you off.",
+  "generatedAt": "Morning brief · 2:05 PM ET",
+  "theme": "A quiet day at sea, one committee call, and a weekend of moving parts ahead.",
+  "greeting": "You're mid-charter in the Adriatic, Dan, with an open day but for the NACD committee call. The warm thread this morning is Brunswick—Lauren has your CV moving through recruitment—while the real work is the runway home: Saturday's disembark and Sunday's Florida landing still have loose ends.",
   "needsAttention": [
     {
-      "tag": "Before Saturday",
-      "title": "Cavtat transfers still open",
-      "detail": "You are off the boat Saturday noon at Komolac, but the airport transfer, the hotel bag-hold, and a 5:15 AM Sunday checkout for the 7:30 flight all still need arranging from dry land while you still have signal."
+      "tag": "Trip logistics",
+      "title": "Croatia disembark still has open ends",
+      "detail": "Saturday's Cavtat transfer from Komolac, the midday bag hold, and the early Sunday checkout for the 7:30 flight all need arranging from shore—and signal aboard is thin, so it's worth doing while you have it."
     },
     {
-      "tag": "Lands Sept 20",
-      "title": "Book the TPA rental car outright",
-      "detail": "Full-size SUV, Tampa, Sept 20 to Oct 5 -- this p1 is now certain, not a hedge, since the Pathfinder is being driven south. Don't land jet-lagged on a Sunday to walk-up rates."
-    },
-    {
-      "tag": "Lands Sept 20",
-      "title": "St Pete landing-gap lodging",
-      "detail": "Two nights, Sept 20 and 21, are still unbooked between the Tampa landing and the Tuesday Orlando villa -- somewhere in the St Pete area for the first two nights back."
-    },
-    {
-      "tag": "Books out early",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out. Book it refundable now -- the Pathfinder is south until late May, so there's no six-seater in Maine otherwise."
+      "tag": "Book before landing",
+      "title": "No Florida car or St Pete beds for Sunday",
+      "detail": "You land TPA Sun Sept 20 at 3:55; the Sept 20–Oct 5 full-size SUV and the two St Pete nights (Sept 20–21) before the Orlando villa are both still unbooked."
     }
   ],
   "schedule": [
     {
       "time": "1:00 PM",
-      "title": "NACD New England programming committee",
-      "detail": "Zoom -- early evening where you are",
+      "title": "NACD New England Programming Committee",
+      "detail": "Zoom with Larissa Ravetto's committee—7 PM your time, if the boat's signal holds.",
       "tag": "call"
     }
   ],
@@ -37,24 +27,29 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Senior Director, US Public Affairs",
-        "detail": "LinkedIn alert for an EPM Scientific role, 300-320K -- worth a look when you're back at a desk."
+        "title": "Brunswick is circulating your resume",
+        "detail": "Lauren Nadig passed your CV to recruitment and to Courtney in New York, and will send names as soon as she has them."
       },
       {
-        "tag": "Job search",
-        "title": "Two LinkedIn connection requests",
-        "detail": "A Deloitte global public-policy lead and an executive-search partner are both waiting on a response."
+        "tag": "Security",
+        "title": "New Garmin sign-in flagged",
+        "detail": "A sign-in from a new location—consistent with you connecting Navionics from Croatia, so likely your own."
+      },
+      {
+        "tag": "Financial",
+        "title": "Two FICO balance alerts",
+        "detail": "Routine myFICO notices that a reported account balance went down; nothing to act on."
       }
     ],
-    "noise": "The rest is newsletters, retail sales, an ICGN Toronto invite, and a FICO balance alert -- nothing time-sensitive.",
-    "clear": "Nothing is awaiting your reply."
+    "noise": "The rest is newsletters and receipts—NYT Cooking, Responsible Investor, ICGN, Yale alumni, and airline and carrier notices.",
+    "clear": "Nothing else is waiting on your reply this morning."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia -- sailing charter",
-    "confidence": "low",
+    "location": "Croatia (Adriatic charter)",
+    "confidence": "high",
     "asOf": "Wed Sep 16"
   },
   "recipe": {
@@ -64,15 +59,15 @@
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
+      "title": "Book Maine Christmas SUV rental (refundable, PWM)",
+      "project": "Travel",
+      "due": "Overdue Sep 14",
       "overdue": true
     },
     {
-      "title": "Check for a better St Pete Airbnb before the Sept 18 charge",
-      "project": "Travel",
-      "due": "Overdue Sept 15",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -84,15 +79,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Open water and nothing on the calendar until the afternoon."
+      "line": "Open water and nothing on the calendar—the morning is yours before the one call."
     },
     {
-      "time": "1:00 PM",
-      "line": "The NACD New England programming committee meets by Zoom, early evening on the Adriatic."
+      "time": "Afternoon",
+      "line": "A single fixed point: the committee Zoom at 1, landing at 7 PM where you are."
     },
     {
       "time": "Evening",
-      "line": "The books are clear; the Cavtat handoff is the week's last errand ashore."
+      "line": "The charter's last full evening aboard before Saturday's return to land."
     }
   ],
   "japanese": {
