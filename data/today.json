@@ -1,30 +1,35 @@
 {
   "date": "Wednesday, September 16, 2026",
-  "generatedAt": "Morning brief · 12:02 PM ET",
-  "theme": "A quiet day at sea, with Florida-trip bookings closing in.",
-  "greeting": "You're mid-charter on the Adriatic and the girls are home in Florida with Jen, so today's real cargo is a handful of travel bookings that don't wait well. One evening Zoom with the NACD New England committee, and otherwise the water is yours.",
+  "generatedAt": "Morning brief · 12:05 PM ET",
+  "theme": "Open water, one call ashore.",
+  "greeting": "A wide-open day on the Croatian coast, Dan. The only fixed point is the NACD committee call at 1, and ten quiet minutes of wifi on the return logistics is the thing most worth doing before the boat cuts you off.",
   "needsAttention": [
     {
-      "tag": "Window closing",
-      "title": "St Pete Airbnb switch closes Sept 18",
-      "detail": "The Sept 27 - Oct 5 booking ($2,331) charges Sept 18; if a better option is going to replace it, the swap has to happen before then. After that it's paid."
+      "tag": "Before Saturday",
+      "title": "Cavtat transfers still open",
+      "detail": "You are off the boat Saturday noon at Komolac, but the airport transfer, the hotel bag-hold, and a 5:15 AM Sunday checkout for the 7:30 flight all still need arranging from dry land while you still have signal."
     },
     {
-      "tag": "Saturday disembark",
-      "title": "Cavtat transfers for Sept 19 still open",
-      "detail": "The hotel is booked, but the Komolac to Cavtat transfer, the early checkout Sunday, and the midday bag hold all still need arranging - and all are hard to do once you're offline on the boat."
+      "tag": "Lands Sept 20",
+      "title": "Book the TPA rental car outright",
+      "detail": "Full-size SUV, Tampa, Sept 20 to Oct 5 -- this p1 is now certain, not a hedge, since the Pathfinder is being driven south. Don't land jet-lagged on a Sunday to walk-up rates."
     },
     {
-      "tag": "Book outright",
-      "title": "Sept 20 - Oct 5 rental car",
-      "detail": "No longer a hedge - a full-size SUV out of TPA for the Sept 20 landing needs booking outright so you're not at a walk-up counter jet-lagged on a Sunday."
+      "tag": "Lands Sept 20",
+      "title": "St Pete landing-gap lodging",
+      "detail": "Two nights, Sept 20 and 21, are still unbooked between the Tampa landing and the Tuesday Orlando villa -- somewhere in the St Pete area for the first two nights back."
+    },
+    {
+      "tag": "Books out early",
+      "title": "Maine Christmas SUV rental",
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out. Book it refundable now -- the Pathfinder is south until late May, so there's no six-seater in Maine otherwise."
     }
   ],
   "schedule": [
     {
-      "time": "1:00 PM ET",
-      "title": "NACD New England Programming Committee",
-      "detail": "Zoom - 7 PM your time in Croatia",
+      "time": "1:00 PM",
+      "title": "NACD New England programming committee",
+      "detail": "Zoom -- early evening where you are",
       "tag": "call"
     }
   ],
@@ -32,30 +37,25 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Brunswick passed your resume along",
-        "detail": "Lauren Nadig shared your CV with recruitment and with Courtney in New York, and says she'll follow up with names."
+        "title": "Senior Director, US Public Affairs",
+        "detail": "LinkedIn alert for an EPM Scientific role, 300-320K -- worth a look when you're back at a desk."
       },
       {
         "tag": "Job search",
-        "title": "Sr. Director, US Public Affairs posted",
-        "detail": "A LinkedIn alert flags an EPM Scientific public-affairs role squarely in your wheelhouse."
-      },
-      {
-        "tag": "FYI",
-        "title": "Philip wants to reconnect before his cruise",
-        "detail": "An old Maine friend writes that the summer got away from you both; he leaves Saturday for two weeks in the Med."
+        "title": "Two LinkedIn connection requests",
+        "detail": "A Deloitte global public-policy lead and an executive-search partner are both waiting on a response."
       }
     ],
-    "noise": "The rest is retail sales, newsletters, and boating-app location pings from Mike.",
-    "clear": ""
+    "noise": "The rest is newsletters, retail sales, an ICGN Toronto invite, and a FICO balance alert -- nothing time-sensitive.",
+    "clear": "Nothing is awaiting your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Adriatic coast, Croatia",
-    "confidence": "high",
-    "asOf": "Wednesday Sep 16"
+    "location": "Croatia -- sailing charter",
+    "confidence": "low",
+    "asOf": "Wed Sep 16"
   },
   "recipe": {
     "title": "Apple galette",
@@ -64,21 +64,15 @@
   },
   "tasks": [
     {
-      "title": "Book Maine Christmas rental - full-size SUV, PWM",
-      "project": "Travel",
-      "due": "Overdue Sep 14",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     },
     {
-      "title": "Confirm the Nautilus return transfer for Sept 19",
+      "title": "Check for a better St Pete Airbnb before the Sept 18 charge",
       "project": "Travel",
-      "due": "Overdue Sep 5",
-      "overdue": true
-    },
-    {
-      "title": "Disney tickets for the Sept 26-27 Orlando weekend",
-      "project": "Travel",
-      "due": "Overdue Aug 28",
+      "due": "Overdue Sept 15",
       "overdue": true
     }
   ],
@@ -90,15 +84,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An unhurried Adriatic morning - nothing on the calendar and the girls with Jen back in Florida."
+      "line": "Open water and nothing on the calendar until the afternoon."
     },
     {
-      "time": "Afternoon",
-      "line": "Open water and an open calendar; the only tether is a few travel bookings with windows starting to close."
+      "time": "1:00 PM",
+      "line": "The NACD New England programming committee meets by Zoom, early evening on the Adriatic."
     },
     {
       "time": "Evening",
-      "line": "The NACD New England programming committee meets at 1 PM ET, which lands at 7 in the evening where you are."
+      "line": "The books are clear; the Cavtat handoff is the week's last errand ashore."
     }
   ],
   "japanese": {
