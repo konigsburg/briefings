@@ -1,43 +1,53 @@
 {
   "date": "Thursday, September 17, 2026",
-  "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "An open day at sea; the list waits for shore.",
-  "greeting": "No meetings on the calendar today, Dan. The trip home is the only real thread — a few travel bookings want closing from dry land before you land in Florida on Sunday.",
+  "generatedAt": "Morning brief · 4:05 PM ET",
+  "theme": "Last full day aboard.",
+  "greeting": "You're mid-charter off the Croatian coast with the whole day open on the water. The one thing worth catching before signal drops is Saturday's handoff back to dry land.",
   "needsAttention": [
     {
-      "tag": "Trip home",
-      "title": "Lock the Cavtat transfers before you're off the boat",
-      "detail": "On your travel list: the charter ends around noon Saturday at Komolac, and the transfer to Cavtat, the early Sunday checkout, and the airport taxi all need arranging from shore while you still have signal."
+      "tag": "Before Saturday",
+      "title": "Cavtat shore transfers still open",
+      "detail": "Three arrangements need doing from land before the charter ends Saturday noon: the Komolac to Cavtat transfer, a bag hold at the Remisens, and a pre-dawn checkout for the 7:30 AM flight. Signal is poor once underway, so lock them today."
     },
     {
-      "tag": "Window closing",
-      "title": "Last chance to swap the St Pete Airbnb",
-      "detail": "The Sept 27 – Oct 5 booking charges tomorrow, Sept 18. If a better option is going to turn up, today is the day to switch before it's paid."
+      "tag": "Lands Sunday",
+      "title": "St Pete landing gap, Sept 20-22",
+      "detail": "You land TPA Sunday at 3:55 PM but the kids aren't picked up until Tuesday. The nights of the 20th and 21st in St Pete still have nowhere booked."
     },
     {
-      "tag": "Before landing",
-      "title": "Book the rental SUV before you land TPA",
-      "detail": "You touch down in Tampa Sunday afternoon; the full-size SUV for Sept 20 – Oct 5 still needs booking so you're not at a walk-up counter jet-lagged."
+      "tag": "Book now",
+      "title": "Sept 20-Oct 5 rental car",
+      "detail": "You land Sunday with no car reserved. A full-size SUV out of TPA needs booking before you arrive, jet-lagged, to Sunday walk-up rates."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "SEC moves to scrap the shareholder-proposal rule",
-        "detail": "Responsible Investor leads with the SEC proposing to rescind the longstanding shareholder-proposal rule — squarely your governance beat if you want a skim."
+        "tag": "Job search",
+        "title": "LinkedIn message from Claudia Kruse",
+        "detail": "A message from three days ago you haven't opened - worth a look given the governance network."
+      },
+      {
+        "tag": "Financial",
+        "title": "Revolut account now active",
+        "detail": "Card ordered and verified, and a $366.63 payment to Mladen Franic went through - likely the Croatia transfer."
+      },
+      {
+        "tag": "Job search",
+        "title": "ICGN Toronto autumn conference",
+        "detail": "Registration invite for the governance conference - a networking fit worth a decision before it fills."
       }
     ],
-    "noise": "About 15 unread, all newsletters and shop promos — NYT Cooking, Bloomberg, retail.",
-    "clear": "Nothing in the inbox is waiting on a reply from you."
+    "noise": "The rest is newsletters and promotions - Bloomberg, NYT Cooking, Apple, GHA, a few retailers.",
+    "clear": "Nothing else is waiting on a reply from you."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Croatia (sailing charter)",
-    "confidence": "low",
+    "confidence": "high",
     "asOf": "Thursday Sep 17"
   },
   "recipe": {
@@ -47,22 +57,22 @@
   },
   "tasks": [
     {
-      "title": "Book St Pete landing-gap lodging (Sept 20-22)",
+      "title": "Book Maine Christmas SUV out of Portland (refundable)",
       "project": "Travel",
-      "due": "Overdue Aug 25",
+      "due": "Overdue Sept 14",
       "overdue": true
     },
     {
-      "title": "Sort Disney tickets for the Sept 26-27 park weekend",
+      "title": "Check for a better St Pete Airbnb before the charge hits",
       "project": "Travel",
-      "due": "Overdue Aug 28",
-      "overdue": true
+      "due": "Charges Sept 18",
+      "overdue": false
     },
     {
-      "title": "Book the Maine Christmas SUV out of Portland (refundable)",
+      "title": "Buy Disney tickets for the six of you",
       "project": "Travel",
-      "due": "Overdue Sep 14",
-      "overdue": true
+      "due": "Sept 26-27",
+      "overdue": false
     }
   ],
   "routines": {
@@ -73,15 +83,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the day is entirely open."
+      "line": "Nothing on the calendar - the last full morning of the charter is yours on the water."
     },
     {
       "time": "Afternoon",
-      "line": "Open water, not a schedule; the travel list is the only thing asking for you."
+      "line": "The practical window: sort Saturday's Cavtat transfers and the St Pete gap while you still have a signal."
     },
     {
       "time": "Evening",
-      "line": "Cavtat and the flight home are two days out — worth teeing up while you're still reachable."
+      "line": "Last night aboard before Saturday's noon disembark at Komolac."
     }
   ],
   "japanese": {
