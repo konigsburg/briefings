@@ -1,61 +1,59 @@
 {
   "date": "Thursday, September 17, 2026",
   "generatedAt": "Morning brief · 7:02 AM ET",
-  "theme": "Open water today; the trip home still needs tying down.",
-  "greeting": "The calendar's nearly clear, Dan -- one committee call this afternoon and otherwise open water. The weekend is where the work sits: the charter ends Saturday, and the route home from Cavtat through St Pete still has loose ends.",
+  "theme": "An open calendar, a stack of trip decisions to make from the boat.",
+  "greeting": "Nothing's on the calendar and the girls are with Jen, Dan — but the fall trip is piling up bookings, and you're deciding them from a charter with thin signal. Clear the shore errands while the connection holds.",
   "needsAttention": [
     {
-      "tag": "Sat handoff",
-      "title": "Cavtat departure still unarranged",
-      "detail": "The charter ends noon Saturday at Komolac. The transfer to Cavtat, the bag hold before the 3 PM check-in, and the pre-dawn checkout for Sunday's 7:30 AM flight are all still open -- and easiest to fix from shore while you have signal."
+      "tag": "Closing today",
+      "title": "Swap the St Pete Airbnb before it charges",
+      "detail": "The Sept 27–Oct 5 St Pete booking (~$2,331) charges tomorrow, Sept 18. Today is the last clean window to switch for a better price or spot before it's locked."
     },
     {
-      "tag": "Lands Sunday",
-      "title": "St Pete nights Sept 20-21 have no room",
-      "detail": "You land TPA Sunday from Croatia, but the two nights before the Tuesday school pickup still aren't booked anywhere in the St Pete area."
+      "tag": "On the water",
+      "title": "Cavtat transfers still open for Sept 19",
+      "detail": "The hotel's booked, but the Komolac–Cavtat transfer, an early bag hold, and a ~5:15 AM checkout for the Sept 20 flight all need arranging from shore before the charter's signal drops."
     },
     {
-      "tag": "Lands Sunday",
-      "title": "TPA rental not yet booked",
-      "detail": "The full-size SUV for Sept 20 - Oct 5 is still open. It's now certain rather than a hedge, since the Pathfinder can't reach Florida until mid-October."
+      "tag": "Book outright",
+      "title": "Rental car for the Sept 20 landing",
+      "detail": "You land TPA Sunday Sept 20 at 3:55 PM — the Sept 20–Oct 5 full-size SUV is no longer a hedge. Book it now so you're not at walk-up rates, jet-lagged, on a Sunday."
     },
     {
-      "tag": "Charges Sept 18",
-      "title": "St Pete Airbnb locks in two days",
-      "detail": "The $2,331 Sept 27 - Oct 5 booking charges Wednesday. A better price or location can still be swapped in until then; after that it's paid."
+      "tag": "Gap remains",
+      "title": "Two nights in St Pete, Sept 20–21",
+      "detail": "You land Sept 20 but the kids aren't picked up until Tue Sept 22 — the two landing nights before the Orlando villa are still unbooked."
     },
     {
-      "tag": "Inventory risk",
-      "title": "Maine Christmas SUV, book this week",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early. A refundable hold now costs nothing and closes the risk."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV out of Portland",
+      "detail": "A full-size SUV from PWM over Christmas week is the hardest rental in that market and sells out early. Hold a refundable one now and tune the dates later."
     }
   ],
-  "schedule": [
-    {
-      "time": "1:00 PM",
-      "title": "NACD New England programming committee",
-      "detail": "Committee Zoom (Larissa Ravetto's invite).",
-      "tag": "call"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn recruiter pings",
-        "detail": "Connection requests from an executive-search consultant and a Deloitte policy contact, plus a public-affairs role alert -- worth a glance when you're back on land."
+        "title": "Claudia Kruse messaged you on LinkedIn",
+        "detail": "A LinkedIn message from three days ago is still unread — worth a reply while the board search is active."
+      },
+      {
+        "tag": "FYI",
+        "title": "ICGN Toronto autumn conference",
+        "detail": "A registration reminder for the ICGN governance conference in Toronto landed Monday."
       }
     ],
-    "noise": "The rest is newsletters, campaign mail, and retail promos.",
-    "clear": "Nothing is awaiting your reply."
+    "noise": "The rest is promotions — Breeze and Virgin points, Mandarin Oriental, skincare, and the language-of-the-day newsletters.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia · Adriatic charter",
-    "confidence": "high",
-    "asOf": "Wednesday Sep 16"
+    "location": "Croatia (Adriatic charter)",
+    "confidence": "low",
+    "asOf": "Thursday Sep 17"
   },
   "recipe": {
     "title": "Kabocha squash pie",
@@ -64,41 +62,29 @@
   },
   "tasks": [
     {
-      "title": "Orlando + Disney tickets, Sept 26-27 (all four girls)",
-      "project": "Travel",
+      "title": "Buy the Disney tickets for the Sept 26–27 weekend",
+      "project": "Fall trip",
       "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Confirm Nautilus return transfer after disembarking",
-      "project": "Travel",
-      "due": "Overdue Sep 5",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing's on the calendar before the afternoon -- the morning is entirely open water."
+      "line": "An empty calendar to open the day — the shore hours are unclaimed."
     },
     {
       "time": "Afternoon",
-      "line": "One fixed point: the NACD New England programming committee at 1."
+      "line": "The open stretch holds; nothing is scheduled against you."
     },
     {
       "time": "Evening",
-      "line": "The charter ends Saturday, and the loose bookings for the trip home are what's left waiting."
+      "line": "A quiet close with the girls at Jen's — the evening is your own."
     }
   ],
   "japanese": {
