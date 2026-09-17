@@ -1,33 +1,23 @@
 {
   "date": "Thursday, September 17, 2026",
-  "generatedAt": "Morning brief · 10:09 AM ET",
-  "theme": "An open calendar, a stack of trip decisions to make from the boat.",
-  "greeting": "Nothing's on the calendar and the girls are with Jen, Dan — but the fall trip is piling up bookings, and you're deciding them from a charter with thin signal. Clear the shore errands while the connection holds.",
+  "generatedAt": "Morning brief · 10:12 AM ET",
+  "theme": "A day at sea, and the shore logistics that close before Saturday.",
+  "greeting": "You're on the water with an open calendar, Dan — nothing scheduled today. The thing worth catching while the boat still has signal is Saturday's disembark: everything after that gets harder to arrange from the water.",
   "needsAttention": [
     {
-      "tag": "Closing today",
-      "title": "Swap the St Pete Airbnb before it charges",
-      "detail": "The Sept 27–Oct 5 St Pete booking (~$2,331) charges tomorrow, Sept 18. Today is the last clean window to switch for a better price or spot before it's locked."
+      "tag": "Before Saturday",
+      "title": "Lock the Cavtat disembark logistics",
+      "detail": "You're off the boat around noon Saturday at Komolac — the transfer to Cavtat, a bag hold before the 3pm hotel check-in, and a pre-dawn checkout for Sunday's 7:30 flight all need arranging from land now, while you still have a connection."
     },
     {
-      "tag": "On the water",
-      "title": "Cavtat transfers still open for Sept 19",
-      "detail": "The hotel's booked, but the Komolac–Cavtat transfer, an early bag hold, and a ~5:15 AM checkout for the Sept 20 flight all need arranging from shore before the charter's signal drops."
+      "tag": "Charges tomorrow",
+      "title": "Confirm the St Pete Airbnb before it locks",
+      "detail": "The Sept 27–Oct 5 St Pete booking charges tomorrow and turns non-refundable. Worth confirming it converted from pending, and today is the last day to switch if a better option turned up."
     },
     {
-      "tag": "Book outright",
-      "title": "Rental car for the Sept 20 landing",
-      "detail": "You land TPA Sunday Sept 20 at 3:55 PM — the Sept 20–Oct 5 full-size SUV is no longer a hedge. Book it now so you're not at walk-up rates, jet-lagged, on a Sunday."
-    },
-    {
-      "tag": "Gap remains",
-      "title": "Two nights in St Pete, Sept 20–21",
-      "detail": "You land Sept 20 but the kids aren't picked up until Tue Sept 22 — the two landing nights before the Orlando villa are still unbooked."
-    },
-    {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV out of Portland",
-      "detail": "A full-size SUV from PWM over Christmas week is the hardest rental in that market and sells out early. Hold a refundable one now and tune the dates later."
+      "tag": "Book on landing",
+      "title": "Book the Sept 20–Oct 5 rental car",
+      "detail": "You land TPA Sunday at 3:55pm; the full-size SUV needs booking now so you're not paying walk-up rates, jet-lagged, on a Sunday. This cycle always needed a rental — it's no longer a hedge."
     }
   ],
   "schedule": [],
@@ -35,24 +25,24 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Claudia Kruse messaged you on LinkedIn",
-        "detail": "A LinkedIn message from three days ago is still unread — worth a reply while the board search is active."
+        "title": "Brunswick passed your CV to recruitment",
+        "detail": "Lauren Nadig wrote to say she shared your resume with Courtney and with recruitment, and will let you know who picks it up — a warm update, no action owed."
       },
       {
-        "tag": "FYI",
-        "title": "ICGN Toronto autumn conference",
-        "detail": "A registration reminder for the ICGN governance conference in Toronto landed Monday."
+        "tag": "Security",
+        "title": "Garmin sign-in from a new location",
+        "detail": "A new-location sign-in and a verify-account notice arrived — almost certainly you setting up Navionics for the charter, but worth a glance to be sure."
       }
     ],
-    "noise": "The rest is promotions — Breeze and Virgin points, Mandarin Oriental, skincare, and the language-of-the-day newsletters.",
-    "clear": ""
+    "noise": "About fifteen promos and digests — retailer sales, airline miles offers, LinkedIn job alerts, and routine FICO balance notices.",
+    "clear": "Nothing else is waiting on a reply from you."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia (Adriatic charter)",
-    "confidence": "low",
+    "location": "Croatian coast (sailing charter)",
+    "confidence": "high",
     "asOf": "Thursday Sep 17"
   },
   "recipe": {
@@ -62,29 +52,41 @@
   },
   "tasks": [
     {
-      "title": "Buy the Disney tickets for the Sept 26–27 weekend",
-      "project": "Fall trip",
+      "title": "Book the Maine Christmas SUV rental in Portland",
+      "project": "Travel",
+      "due": "Overdue Sep 14",
+      "overdue": true
+    },
+    {
+      "title": "Confirm the return airport transfer with Nautilus",
+      "project": "Travel",
+      "due": "Overdue Sep 5",
+      "overdue": true
+    },
+    {
+      "title": "Sort Disney tickets for the Orlando weekend",
+      "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "An empty calendar to open the day — the shore hours are unclaimed."
+      "line": "An open calendar and open water — the charter runs through Saturday's return to shore."
     },
     {
       "time": "Afternoon",
-      "line": "The open stretch holds; nothing is scheduled against you."
+      "line": "Nothing scheduled pulls at the afternoon, so it's a clean window to sort the shore logistics while you have signal."
     },
     {
       "time": "Evening",
-      "line": "A quiet close with the girls at Jen's — the evening is your own."
+      "line": "The girls are with Jen this cycle, so the evening stays quiet and yours."
     }
   ],
   "japanese": {
