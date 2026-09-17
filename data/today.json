@@ -1,49 +1,59 @@
 {
   "date": "Wednesday, September 16, 2026",
   "generatedAt": "Morning brief · 8:02 PM ET",
-  "theme": "Open water, one call, and Saturday's landing to settle",
-  "greeting": "An open day on the water, Dan, with just the NACD programming call breaking the afternoon. The real work is on dry land: the charter ends Saturday, so the Cavtat transfers and the Florida landing want locking in while you still have signal.",
+  "theme": "An open day, with travel windows closing fast.",
+  "greeting": "The calendar is nearly empty, Dan — just the NACD New England committee at 1. The weight today is the travel stack: Croatia transfers to lock in from land before the boat, and a cluster of Florida and Maine bookings whose windows are about to close.",
   "needsAttention": [
     {
-      "tag": "Closing Saturday",
-      "title": "Lock the Cavtat disembark logistics",
-      "detail": "The charter ends noon Saturday at Komolac. The transfer to Cavtat, a bag hold before 3 PM check-in, and a ~5:15 AM Sunday checkout for the 7:30 flight all need arranging from land before the boat's signal thins."
+      "tag": "Off the water",
+      "title": "Lock Croatia transfers before Saturday",
+      "detail": "The charter disembarks Cavtat Sat Sept 19 — the Komolac to Cavtat transfer, a hotel bag-hold, and a ~5:15 AM Sept 20 checkout for the 7:30 flight all need arranging from dry land, and connectivity on the boat is thin to none."
     },
     {
-      "tag": "Before Sunday",
-      "title": "Book the TPA rental car outright",
-      "detail": "Full-size SUV at Tampa, Sept 20 to Oct 5, to seat all six. You land Sunday at 3:55 PM, so this can't be a walk-up on a jet-lagged Sunday afternoon."
+      "tag": "Charge Sept 18",
+      "title": "Confirm the St Pete Airbnb before it charges",
+      "detail": "The Sept 27–Oct 5 St Pete booking (~$2,331) charges Sept 18 — verify the host accepted it rather than letting it expire, and switch to a better option now if one exists, since after the 18th it is paid."
     },
     {
-      "tag": "Overdue · this week",
-      "title": "Hold the Maine Christmas SUV",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week is the thinnest rental in that market over the holiday and it sells out. The task was due Sept 14."
+      "tag": "Book outright",
+      "title": "Sept 20–Oct 5 rental car at TPA",
+      "detail": "You land TPA Sun Sept 20 at 3:55 PM; the full-size SUV for Sept 20–Oct 5 is no longer a hedge. Book it now rather than facing walk-up rates jet-lagged on a Sunday."
+    },
+    {
+      "tag": "Landing gap",
+      "title": "Two St Pete nights, Sept 20–21",
+      "detail": "The nights between your Croatia landing and the Tue Sept 22 kid pickup are still unbooked — somewhere in St Pete for the 20th and 21st before the drive to the Orlando villa."
+    },
+    {
+      "tag": "Sells out",
+      "title": "Maine Christmas SUV out of Portland",
+      "detail": "A full-size SUV from PWM over Christmas week is the hardest rental in that market and it sells out. Book it refundable this week — it is the next time all four girls are up in Maine with no six-seater there."
     }
   ],
   "schedule": [
     {
       "time": "1:00 PM",
       "title": "NACD New England Programming Committee",
-      "detail": "Zoom · you're the organizer",
-      "tag": "meeting"
+      "detail": "Zoom · committee planning",
+      "tag": "Zoom"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Financial",
-        "title": "myFICO alert: account balance decreased",
-        "detail": "Automated credit-monitoring ping on a SYNCB/NTWK account, informational only, nothing to act on."
+        "title": "myFICO account alert",
+        "detail": "A monitored account balance decreased — informational only, nothing to action."
       }
     ],
-    "noise": "The rest is newsletters and retail: Foreign Affairs, Responsible Investor, Midcoast Villager, NYT Cooking, and a stack of promos.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "About 35 unread, nearly all newsletters and promotions — Maine papers, retail, Substacks, and travel deals.",
+    "clear": "Nothing is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia · sailing",
+    "location": "Adriatic coast, Croatia (sailing charter)",
     "confidence": "low",
     "asOf": "Wed Sep 16"
   },
@@ -54,21 +64,15 @@
   },
   "tasks": [
     {
-      "title": "Book St Pete lodging for the Sept 20-22 landing gap",
+      "title": "Buy 6 Disney tickets, Sept 26–27 — check park reservations and Halloween-party night",
       "project": "Travel",
-      "due": "Overdue Aug 25",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Confirm the Nautilus return transfer to the airport",
-      "project": "Travel",
-      "due": "Overdue Sept 5",
-      "overdue": true
-    },
-    {
-      "title": "Check the St Pete Airbnb confirmed before the Sept 18 charge",
-      "project": "Travel",
-      "due": "Due Sept 15",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -80,15 +84,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Open water and nothing on the calendar, the last easy stretch of the charter is yours."
+      "line": "Nothing on the calendar before midday — the morning is entirely yours."
     },
     {
       "time": "Afternoon",
-      "line": "One commitment breaks the day: the NACD New England programming call at one."
+      "line": "One hour with the NACD New England programming committee at 1, then the day reopens."
     },
     {
       "time": "Evening",
-      "line": "As the coast slips past, Saturday's move to dry land is the thing worth settling before the signal thins."
+      "line": "Clear again — no evening commitments on the books."
     }
   ],
   "japanese": {
