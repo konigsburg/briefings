@@ -1,52 +1,52 @@
 {
   "date": "Thursday, September 17, 2026",
   "generatedAt": "Morning brief · 8:04 PM ET",
-  "theme": "A quiet day at sea before the long haul home.",
-  "greeting": "The calendar is empty, Dan — open water on the Adriatic with the girls in Florida. The next few days are pure logistics: off the boat Saturday, fly Sunday, land in St. Pete.",
+  "theme": "An open day with the trip's loose ends to tie off.",
+  "greeting": "The calendar's wide open, Dan — nothing scheduled today or tomorrow. What's live is all trip logistics, and a couple of windows close in the next day or two.",
   "needsAttention": [
     {
-      "tag": "Book before Sun",
-      "title": "Rental car for the TPA landing",
-      "detail": "The Sept 20–Oct 5 full-size SUV (Trips, overdue Sept 9) still isn't booked. You land TPA Sunday at 3:55 PM — don't arrive jet-lagged to walk-up rates."
+      "tag": "Closes tomorrow",
+      "title": "St Pete stay locks in Sept 18",
+      "detail": "The Sept 27–Oct 5 St Pete Airbnb ($2,331) charges tomorrow — last day to swap for a better option, and worth confirming the pending booking actually converted rather than lapsing."
     },
     {
-      "tag": "Two nights open",
-      "title": "St. Pete beds for Sept 20–21",
-      "detail": "The landing-gap nights before the Tuesday kid pickup (Trips, overdue) are still unbooked — you need somewhere near St. Pete for Sunday and Monday."
+      "tag": "Trip handoff",
+      "title": "Lock the Cavtat transfers",
+      "detail": "The charter ends midday Sat Sept 19 at Komolac. The transfer to Cavtat, a bag hold before the 3 PM check-in, and the ~5:15 AM Sunday checkout for the 7:30 flight all still need arranging while you have signal."
     },
     {
-      "tag": "Charge tomorrow",
-      "title": "Confirm the St. Pete Airbnb",
-      "detail": "The Sept 27–Oct 5 Airbnb charges tomorrow, Sept 18. Worth a glance that it actually converted to confirmed rather than quietly expiring."
-    },
-    {
-      "tag": "Sunday dawn",
-      "title": "Cavtat checkout and airport taxi",
-      "detail": "Off the boat Saturday noon: lock the Komolac→Cavtat transfer, the bag hold, and a ~5:15 AM Sunday checkout and taxi for the 7:30 flight — while you still have shore signal."
+      "tag": "Book now",
+      "title": "Tampa car for the 20th",
+      "detail": "You land TPA Sun Sept 20 at 3:55 PM with no car booked yet — the full-size SUV for Sept 20–Oct 5 wants booking before you're at a Sunday walk-up counter."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "SEC moves to scrap the shareholder-proposal rule",
-        "detail": "Responsible Investor flags a proposal to rescind the longstanding rule — squarely your governance beat."
-      },
-      {
         "tag": "Financial",
         "title": "Revolut account is live",
-        "detail": "Verification, card order, and a $366 transfer all confirmed today — your travel-money setup went through."
+        "detail": "Your new Revolut account is verified, a card's on the way, and a $366.63 payment to Mladen Franic went through today."
+      },
+      {
+        "tag": "FYI",
+        "title": "Governance networking thread",
+        "detail": "Mike Lubrano and Chie Mitsui are lining up a Mercer/Marsh intro around the Independent Managers Club — you're cc'd, nothing owed yet."
+      },
+      {
+        "tag": "Job search",
+        "title": "LinkedIn role alerts",
+        "detail": "A batch of LinkedIn job alerts came through (a VP listing among them) — a quick scan when you have a minute."
       }
     ],
-    "noise": "The rest is newsletters, hotel promos, and retail — nothing awaiting a reply.",
+    "noise": "The rest is newsletters — Press Herald, NYT Veggie, St. Pete Local, Italian Word of the Day.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia (sailing)",
+    "location": "Croatia (Adriatic charter)",
     "confidence": "low",
     "asOf": "Thursday Sep 17"
   },
@@ -57,15 +57,21 @@
   },
   "tasks": [
     {
-      "title": "Book Maine Christmas SUV — refundable, PWM",
-      "project": "Trips",
-      "due": "Overdue Sept 14",
+      "title": "Book St Pete lodging for the Sept 20–22 landing gap",
+      "project": "Family Travel",
+      "due": "Overdue Aug 25",
       "overdue": true
     },
     {
-      "title": "Buy Disney tickets, Sept 26–27 (all six)",
-      "project": "Trips",
+      "title": "Sort Disney tickets for the Sept 26–27 Orlando weekend",
+      "project": "Family Travel",
       "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Book a refundable Christmas SUV out of Portland",
+      "project": "Family Travel",
+      "due": "Overdue Sept 14",
       "overdue": true
     }
   ],
@@ -77,15 +83,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing scheduled — sailing time on the Adriatic."
+      "line": "The calendar's empty — a rare open stretch with nothing scheduled."
     },
     {
       "time": "Afternoon",
-      "line": "The calendar stays clear straight through tomorrow."
+      "line": "No meetings claim the afternoon."
     },
     {
       "time": "Evening",
-      "line": "A good window to lock the car and the St. Pete gap nights before signal thins."
+      "line": "Clear straight through to tomorrow."
     }
   ],
   "japanese": {
