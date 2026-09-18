@@ -1,23 +1,23 @@
 {
   "date": "Friday, September 18, 2026",
-  "generatedAt": "Morning brief · 12:02 PM ET",
-  "theme": "One quiet day at sea before a long travel weekend.",
-  "greeting": "You're on the water, Dan, on the last full day of the charter before the crossing home begins. Nothing needs you at sea, but the disembark and the Florida landing both want arranging while you still have signal.",
+  "generatedAt": "Morning brief · 12:05 PM ET",
+  "theme": "Last day on the water; the trip home starts tomorrow.",
+  "greeting": "Your final morning of the Croatia charter, Dan — the calendar is empty and the water is yours. The one thing that really matters today is sorting the disembark logistics while you still have a signal.",
   "needsAttention": [
     {
-      "tag": "Tomorrow",
-      "title": "Disembark day is fully loaded",
-      "detail": "The charter ends around noon Saturday at Komolac; the transfer to the Cavtat hotel, a bag hold before the 3 PM check-in, and a ~5:15 AM Sunday departure for the 7:30 flight all need arranging from land before you sail out of range."
+      "tag": "Prep for tomorrow",
+      "title": "Lock the Cavtat disembark logistics from dry land",
+      "detail": "Charter connectivity goes once you cast off, so arrange today: the Komolac to Cavtat transfer for Saturday around noon, a bag hold ahead of the 3 PM check-in, and the roughly 5:15 AM Sunday checkout plus airport taxi for LH4297."
     },
     {
-      "tag": "Charges today",
-      "title": "St Pete stay was set to charge today",
-      "detail": "The Sept 27 to Oct 5 St Pete booking charged today after the host's 24-hour confirmation window; worth a glance that it converted to confirmed rather than expiring unaccepted."
+      "tag": "Window closing",
+      "title": "Confirm the St Pete Airbnb as its charge lands today",
+      "detail": "The Sept 27 to Oct 5 St Pete booking charges today; check it flipped from pending to confirmed, and this is the last day to swap for a better option before it is paid."
     },
     {
-      "tag": "Before Sunday",
-      "title": "Rental car for the landing",
-      "detail": "You land TPA Sunday afternoon with no car; the full-size SUV for Sept 20 to Oct 5 needs booking before you arrive jet-lagged to walk-up rates."
+      "tag": "Before you fly",
+      "title": "Book the Sunday landing car and the Sept 20 to 22 room",
+      "detail": "You land TPA Sunday at 3:55 PM with no full-size SUV reserved and nowhere to stay the nights of the 20th and 21st before Tuesday's pickup. Both are overdue and needed before you leave Croatia."
     }
   ],
   "schedule": [],
@@ -25,23 +25,18 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "VP, US Government Relations at Westinghouse",
-        "detail": "A LinkedIn job alert surfaced a VP of US Government Relations role at Westinghouse Electric."
-      },
-      {
-        "tag": "FYI",
-        "title": "ICGN Toronto conference push",
-        "detail": "ICGN is nudging you to register for its autumn governance conference in Toronto."
+        "title": "LinkedIn message from Claudia Kruse",
+        "detail": "She messaged you three days ago and it is still unread, worth a look while you are actively networking."
       }
     ],
-    "noise": "Everything else is retail and newsletters: Delta, Indochino, Monocle, Duolingo, and an Apple receipt.",
+    "noise": "The rest is newsletters and shop promos: VRBO, Monocle, Substack, Teddy Stratford, plus Dex keep-in-touch nudges.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Adriatic coast, Croatia",
+    "location": "Croatia (sailing charter)",
     "confidence": "high",
     "asOf": "Friday Sep 18"
   },
@@ -52,21 +47,21 @@
   },
   "tasks": [
     {
-      "title": "Book the St Pete gap nights, Sept 20 to 22",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Book Maine Christmas SUV, refundable",
+      "title": "Book Maine Christmas SUV out of Portland",
       "project": "Travel",
       "due": "Overdue Sep 14",
       "overdue": true
     },
     {
-      "title": "Sort Disney tickets for the six of you",
+      "title": "Buy Disney tickets for the Sept 26 to 27 weekend",
       "project": "Travel",
       "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -78,15 +73,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Last full day of the Croatia charter, with open water and nothing on the calendar."
+      "line": "Nothing on the calendar today, the last open morning of the Croatia trip."
     },
     {
       "time": "Afternoon",
-      "line": "The passage bends south toward Dubrovnik; only the sailing is scheduled."
+      "line": "The charter winds down and the water stays yours a little longer."
     },
     {
       "time": "Evening",
-      "line": "A last night aboard before you dock at Komolac and move to the Cavtat hotel tomorrow."
+      "line": "An early night ahead of tomorrow's move to Cavtat and Sunday's flight home."
     }
   ],
   "japanese": {
