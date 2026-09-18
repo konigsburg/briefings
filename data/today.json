@@ -1,41 +1,42 @@
 {
   "date": "Friday, September 18, 2026",
   "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "Last day sailing the Adriatic — the long trip home starts tomorrow.",
-  "greeting": "You're on the water for one more day off the Croatian coast, Dan. Tomorrow you disembark at Komolac and begin the journey back to Florida, so the loose ends worth closing now are all about landing smoothly.",
+  "theme": "Last day at sea before the trip turns homeward.",
+  "greeting": "Your final full day on the Adriatic, Dan. Tomorrow the charter ends at Komolac and the long route home to Tampa begins — a few arrival details are still loose.",
   "needsAttention": [
     {
-      "tag": "Book before you fly",
-      "title": "Rental car for Sunday's TPA landing",
-      "detail": "Full-size SUV, TPA, Sept 20–Oct 5 is still unbooked. You land Sunday at 3:55 PM — lock it in now rather than facing walk-up rates, jet-lagged, on a Sunday."
+      "tag": "Tomorrow's arrival",
+      "title": "Cavtat transfers still open",
+      "detail": "The charter ends at Komolac around noon tomorrow. The transfer to Cavtat, a bag hold before the 3 PM check-in, and a pre-dawn checkout for Sunday's flight are all still unbooked."
     },
     {
-      "tag": "Book before you fly",
-      "title": "St Pete nights, Sept 20–21",
-      "detail": "You land TPA Sunday but the kids aren't picked up until Tuesday. Two nights near St Pete before the Orlando villa are still open — the last gap in the trip."
+      "tag": "Landing Sunday",
+      "title": "TPA rental car not booked yet",
+      "detail": "You land Tampa Sunday at 3:55 PM and need the Sept 20 – Oct 5 full-size SUV booked before then — the alternative is a walk-up rate, jet-lagged, on a Sunday."
     },
     {
-      "tag": "Prep for tomorrow",
-      "title": "Cavtat disembark logistics",
-      "detail": "You're off the boat at noon tomorrow at Komolac. The transfer to Cavtat, a bag hold before the 3 PM check-in, and Sunday's ~5:15 AM early checkout all need arranging while you have signal ashore."
-    },
-    {
-      "tag": "Overdue · book this week",
-      "title": "Maine Christmas SUV",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week — thin holiday inventory that sells out, and the Pathfinder heads south in October so there's no six-seater up north otherwise."
+      "tag": "Landing gap",
+      "title": "St Pete nights Sept 20-21 unbooked",
+      "detail": "You land Sunday but the kids aren't picked up until Tuesday. The two nights in St Pete before the Orlando villa still need a room."
     }
   ],
   "schedule": [],
   "inbox": {
-    "flagged": [],
-    "noise": "A quiet inbox — no new primary mail in the last two days while you've been at sea.",
+    "flagged": [
+      {
+        "tag": "Job search",
+        "title": "LinkedIn message from Claudia Kruse",
+        "detail": "A note from Claudia Kruse has been sitting in your LinkedIn messages for a few days."
+      }
+    ],
+    "noise": "Otherwise it's newsletters and retail — Alison Roman, Field Company, a Duke tailgate, an Evite.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia (sailing, Adriatic)",
+    "location": "Croatia (sailing)",
     "confidence": "high",
     "asOf": "Friday Sep 18"
   },
@@ -46,9 +47,9 @@
   },
   "tasks": [
     {
-      "title": "Buy Disney park tickets for the Sept 26–27 weekend",
-      "project": "Family Travel",
-      "due": "Overdue Aug 28",
+      "title": "Book Maine Christmas SUV (refundable, PWM)",
+      "project": "Travel",
+      "due": "Overdue Sep 14",
       "overdue": true
     }
   ],
@@ -60,15 +61,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Your last morning aboard off the Dalmatian coast — no calls, no calendar, just the sail back toward Dubrovnik."
+      "line": "The final morning of the charter — open water, and nothing on the calendar."
     },
     {
       "time": "Afternoon",
-      "line": "The charter winds down with nothing scheduled ashore, so the day's real work is landing-day bookings, not meetings."
+      "line": "A quiet stretch offline; the day stays clear straight through."
     },
     {
       "time": "Evening",
-      "line": "Last night on the boat before an early disembark — worth confirming tomorrow's Cavtat transfer while you still have a connection."
+      "line": "Last night aboard before disembarking at Komolac around noon tomorrow."
     }
   ],
   "japanese": {
