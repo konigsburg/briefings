@@ -1,42 +1,41 @@
 {
   "date": "Friday, September 18, 2026",
-  "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "Last day on the water; the trip home starts tomorrow.",
-  "greeting": "Your final morning of the Croatia charter, Dan — the calendar is empty and the water is yours. The one thing that really matters today is sorting the disembark logistics while you still have a signal.",
+  "generatedAt": "Morning brief · 2:05 PM ET",
+  "theme": "Last day sailing the Adriatic — the long trip home starts tomorrow.",
+  "greeting": "You're on the water for one more day off the Croatian coast, Dan. Tomorrow you disembark at Komolac and begin the journey back to Florida, so the loose ends worth closing now are all about landing smoothly.",
   "needsAttention": [
     {
+      "tag": "Book before you fly",
+      "title": "Rental car for Sunday's TPA landing",
+      "detail": "Full-size SUV, TPA, Sept 20–Oct 5 is still unbooked. You land Sunday at 3:55 PM — lock it in now rather than facing walk-up rates, jet-lagged, on a Sunday."
+    },
+    {
+      "tag": "Book before you fly",
+      "title": "St Pete nights, Sept 20–21",
+      "detail": "You land TPA Sunday but the kids aren't picked up until Tuesday. Two nights near St Pete before the Orlando villa are still open — the last gap in the trip."
+    },
+    {
       "tag": "Prep for tomorrow",
-      "title": "Lock the Cavtat disembark logistics from dry land",
-      "detail": "Charter connectivity goes once you cast off, so arrange today: the Komolac to Cavtat transfer for Saturday around noon, a bag hold ahead of the 3 PM check-in, and the roughly 5:15 AM Sunday checkout plus airport taxi for LH4297."
+      "title": "Cavtat disembark logistics",
+      "detail": "You're off the boat at noon tomorrow at Komolac. The transfer to Cavtat, a bag hold before the 3 PM check-in, and Sunday's ~5:15 AM early checkout all need arranging while you have signal ashore."
     },
     {
-      "tag": "Window closing",
-      "title": "Confirm the St Pete Airbnb as its charge lands today",
-      "detail": "The Sept 27 to Oct 5 St Pete booking charges today; check it flipped from pending to confirmed, and this is the last day to swap for a better option before it is paid."
-    },
-    {
-      "tag": "Before you fly",
-      "title": "Book the Sunday landing car and the Sept 20 to 22 room",
-      "detail": "You land TPA Sunday at 3:55 PM with no full-size SUV reserved and nowhere to stay the nights of the 20th and 21st before Tuesday's pickup. Both are overdue and needed before you leave Croatia."
+      "tag": "Overdue · book this week",
+      "title": "Maine Christmas SUV",
+      "detail": "A refundable full-size SUV out of Portland for Christmas week — thin holiday inventory that sells out, and the Pathfinder heads south in October so there's no six-seater up north otherwise."
     }
   ],
   "schedule": [],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "Job search",
-        "title": "LinkedIn message from Claudia Kruse",
-        "detail": "She messaged you three days ago and it is still unread, worth a look while you are actively networking."
-      }
-    ],
-    "noise": "The rest is newsletters and shop promos: VRBO, Monocle, Substack, Teddy Stratford, plus Dex keep-in-touch nudges.",
+    "flagged": [],
+    "noise": "A quiet inbox — no new primary mail in the last two days while you've been at sea.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia (sailing charter)",
+    "location": "Croatia (sailing, Adriatic)",
     "confidence": "high",
     "asOf": "Friday Sep 18"
   },
@@ -47,21 +46,9 @@
   },
   "tasks": [
     {
-      "title": "Book Maine Christmas SUV out of Portland",
-      "project": "Travel",
-      "due": "Overdue Sep 14",
-      "overdue": true
-    },
-    {
-      "title": "Buy Disney tickets for the Sept 26 to 27 weekend",
-      "project": "Travel",
+      "title": "Buy Disney park tickets for the Sept 26–27 weekend",
+      "project": "Family Travel",
       "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -73,15 +60,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar today, the last open morning of the Croatia trip."
+      "line": "Your last morning aboard off the Dalmatian coast — no calls, no calendar, just the sail back toward Dubrovnik."
     },
     {
       "time": "Afternoon",
-      "line": "The charter winds down and the water stays yours a little longer."
+      "line": "The charter winds down with nothing scheduled ashore, so the day's real work is landing-day bookings, not meetings."
     },
     {
       "time": "Evening",
-      "line": "An early night ahead of tomorrow's move to Cavtat and Sunday's flight home."
+      "line": "Last night on the boat before an early disembark — worth confirming tomorrow's Cavtat transfer while you still have a connection."
     }
   ],
   "japanese": {
