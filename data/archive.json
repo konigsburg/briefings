@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-18",
+    "kind": "Morning brief",
+    "label": "Friday, Sep 18 · 7:14 AM ET",
+    "summary": "Last day of the Croatia sailing course with the girls at Jen's; tomorrow's Cavtat transfer, today's St Pete charge, and the Tampa rental are the open items.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-17",
     "kind": "Morning brief",
     "label": "Thursday, Sep 17 · 10:02 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Thursday, Aug 20 · 10:06 PM ET",
     "summary": "A quiet day around Mike's oral surgery and recovery, with a late IMC call to Tokyo and a networking reply owed to Amra.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-08-19",
-    "kind": "Morning brief",
-    "label": "Wednesday, Aug 19 · 10:02 PM ET",
-    "summary": "Two health appointments for Mike and surgery prep for tomorrow, a late Zoom to Tokyo, and a couple of job-search RSVPs waiting.",
     "ref": "today"
   }
 ]
