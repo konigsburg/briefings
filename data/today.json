@@ -1,87 +1,98 @@
 {
   "date": "Friday, September 18, 2026",
   "generatedAt": "Morning brief · 8:12 AM ET",
-  "theme": "Last day on the water",
-  "greeting": "Last full day of the Nautilus course off the Dalmatian coast, Dan — you come ashore at Komolac tomorrow. The girls are with Jen, so the day is entirely yours before the travel begins.",
+  "theme": "A clear calendar, but a loaded travel weekend begins",
+  "greeting": "Your last full day on the Croatia charter, Dan — the calendar's empty, but Saturday's disembark and Sunday's flight home leave real logistics still open.",
   "needsAttention": [
     {
-      "tag": "Prep for tomorrow",
-      "title": "Cavtat transfer and Sunday checkout",
-      "detail": "You disembark at Komolac around noon tomorrow. From ashore today, pre-book the transfer to Cavtat, confirm the hotel will hold bags before the 3 PM check-in, and lock the early-morning express checkout for Sunday's 7:30 flight. Charter signal is poor once underway."
+      "tag": "Booking · Sunday",
+      "title": "St Pete nights, Sept 20–21",
+      "detail": "You land TPA Sunday afternoon but the kids aren't picked up until Tuesday — the two nights before Orlando are still unbooked (p1 in Todoist)."
     },
     {
-      "tag": "Closing today",
-      "title": "St Pete Airbnb charge hits today",
-      "detail": "The Sept 27 to Oct 5 St Pete booking charges today. A quick glance confirms the pending reservation converted rather than expired, and any switch to a better option has to happen before the money moves."
+      "tag": "Booking · Sunday",
+      "title": "TPA rental car, Sept 20–Oct 5",
+      "detail": "Flagged 'book it outright' — a full-size SUV for the whole span, so you're not facing walk-up rates jet-lagged on a Sunday. Overdue in Todoist."
     },
     {
-      "tag": "Before Sunday",
-      "title": "Tampa rental car still unbooked",
-      "detail": "You land TPA Sunday at 3:55 PM with no car reserved. Booking the full-size SUV for Sept 20 to Oct 5 now avoids a jet-lagged, walk-up rate on a Sunday."
+      "tag": "Tomorrow",
+      "title": "Cavtat disembarkation",
+      "detail": "Charter ends ~noon Saturday at Komolac; the transfer to Cavtat, hotel bag hold, and a pre-dawn Sunday checkout for the 7:30 flight were all meant to be arranged from dry land."
     },
     {
-      "tag": "Overdue · Travel",
-      "title": "Maine Christmas SUV rental",
-      "detail": "An overdue p1 in Travel: a full-size SUV out of Portland over Christmas week is the tightest rental in that market and sells out. A refundable hold now removes the whole risk."
+      "tag": "Overdue · p1",
+      "title": "Maine Christmas SUV",
+      "detail": "Portland's hardest holiday rental to find; the note says book it refundable this week before inventory thins. Overdue since Sept 14."
+    },
+    {
+      "tag": "Verify today",
+      "title": "St Pete Airbnb charge",
+      "detail": "The Sept 27–Oct 5 stay ($2,331) was pending host confirmation and bills today — worth checking it converted rather than expired."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "All day",
+      "title": "Open on the calendar",
+      "detail": "Last full day aboard the charter",
+      "tag": "open"
+    },
+    {
+      "time": "Tomorrow ~12 PM",
+      "title": "Charter ends, Komolac",
+      "detail": "Disembark, then transfer to Cavtat",
+      "tag": "travel"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "VP, US Government Relations at Westinghouse",
-        "detail": "A LinkedIn job alert surfaced a VP Government Relations role at Westinghouse Electric, squarely in your governance and public-affairs lane."
-      },
-      {
-        "tag": "Job search",
-        "title": "Claudia Kruse messaged you on LinkedIn",
-        "detail": "A LinkedIn message from Claudia Kruse has sat three days, worth a reply given the governance network."
-      },
-      {
-        "tag": "FYI",
-        "title": "ICGN autumn conference, Toronto",
-        "detail": "ICGN is pushing registration for its Toronto global conference, a governance-crowd networking option."
+        "tag": "Security",
+        "title": "Garmin new-location sign-in",
+        "detail": "Garmin asked you to verify a sign-in from a new location (Sep 16) — likely just you abroad, but worth a look. Revolut also sent an email-verification request."
       },
       {
         "tag": "Financial",
-        "title": "Revolut card and payment activity",
-        "detail": "Revolut confirmed a new card order, account verification, and a $366.63 payment to Mladen Franic, likely the charter transfer, worth a glance to confirm."
+        "title": "New Revolut account + charter payment",
+        "detail": "Revolut came back verified with a card on the way, and $366.63 went out to Mladen Franic — all consistent with the Croatia trip."
+      },
+      {
+        "tag": "Job search",
+        "title": "Executive-search connection request",
+        "detail": "A global partner at an executive-search firm sent a LinkedIn invite; the rest of the job mail was auto-alerts (Westinghouse VP Gov Relations) and the ICGN Toronto conference push."
       }
     ],
-    "noise": "The rest is newsletters and offers: Noahpinion, Bloomberg, NYT, Duolingo, the St Pete local, plus travel and retail promotions.",
-    "clear": ""
+    "noise": "Otherwise all newsletters and promos — Noahpinion, NYT Cooking, St. Pete Local, Italian Word of the Day, plus airline and loan offers.",
+    "clear": "No personal email is awaiting your reply."
   },
-  "resolved": [],
+  "resolved": [
+    "Cavtat hotel locked in — Remisens Epidaurus, sea-view family room with breakfast, for tomorrow night.",
+    "Autopay cleared this week: Amex, AT&T, and Central Maine Power all processed.",
+    "Revolut account verified and card ordered ahead of the trip."
+  ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia (sailing charter)",
+    "location": "Croatian Adriatic (near Dubrovnik)",
     "confidence": "high",
     "asOf": "Friday Sep 18"
   },
   "recipe": {
     "title": "Pumpkin chiffon pie",
     "book": "Canal House Cooks Every Day",
-    "why": "The first real edge of autumn is here—this lighter, airier take on pumpkin pie is the perfect excuse to fire up the oven as the evenings cool."
+    "why": "A pointer for when you're back in your own kitchen — the first real edge of autumn is here, and this airy, lighter take on pumpkin pie is the perfect excuse to fire up the oven as the evenings cool."
   },
   "tasks": [
     {
-      "title": "Buy Disney tickets for the Sept 26-27 weekend (six people)",
-      "project": "Travel",
+      "title": "Disney tickets for the six of you (Sept 26–27)",
+      "project": "Konganaro / Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Book St Pete lodging for the Sept 20-22 landing gap",
-      "project": "Travel",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist to book the kids' wart removal",
-      "project": "Travel",
-      "due": "Overdue Aug 28",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
