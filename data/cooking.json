@@ -1,88 +1,92 @@
 {
-  "date": "Sat, Sep 12",
-  "generatedAt": "Weekly · Sep 12",
-  "theme": "End-of-tomato-season Italian — one jar of confit and one pot of beans carry the whole week (2 adults; girls with Jen).",
+  "date": "Sat, Sep 19",
+  "generatedAt": "Weekly · Sep 19",
+  "theme": "End-of-season tomato sugo + brothy white beans — two Saturday batches that carry a full-house week of rustic Italian dinners the girls will actually eat.",
   "components": [
     {
-      "name": "Slow-roasted tomato confit",
+      "name": "End-of-Season Tomato Sugo",
       "time": "~75 min, mostly hands-off",
-      "ingredients": "2 lb ripe cherry/Campari or plum tomatoes, 1 cup good olive oil, 6 smashed garlic cloves, thyme + oregano sprigs, flaky salt, pinch chili",
-      "method": "Halve the tomatoes and nestle them cut-side up in a baking dish with the garlic and herbs. Pour in olive oil to come halfway up, season with flaky salt and a pinch of chili. Roast at 300°F for 60–75 min until collapsed and jammy. Cool and store submerged in the oil in a jar (fridge, up to 2 weeks). Save every drop of that oil — it's your searing and dressing gold all week."
+      "ingredients": "5 lb ripe tomatoes (or 2x 28oz San Marzano if the fresh ones are past it), 1 large onion, 1 carrot, 1 celery rib, 4 garlic cloves, generous olive oil, basil stems, pinch chili, salt",
+      "method": "Build a slow soffritto: finely dice onion, carrot and celery and sweat gently in a good pour of olive oil over low heat 12-15 min until soft and sweet, not browned. Add sliced garlic for a minute, then the tomatoes (crush fresh by hand, or the canned ones), a few basil stems, salt and a pinch of chili. Simmer uncovered on low 45-60 min, stirring now and then, until glossy and thick. Fish out the basil stems. Cool and store ~3 qt in jars; keeps 5 days in the fridge, freezes well."
     },
     {
-      "name": "Brothy cannellini beans",
-      "time": "~75 min hands-off (plus overnight or quick soak)",
-      "ingredients": "1 lb dried cannellini (or 3 cans, drained), 1 onion halved, 1 carrot, 1 celery rib, 1 garlic head halved, bay, sage, parmesan rind, 1/4 cup olive oil, salt",
-      "method": "Combine soaked beans with the aromatics, parm rind, and olive oil; cover with water by 2 inches. Bring to a bare simmer and cook gently until creamy but still intact, about 60–90 min, salting only in the last 15 min. Pull the aromatics and keep the beans in their brodo — that liquid is the base for half the dinners below."
+      "name": "Brothy White Bean Conserva",
+      "time": "~90 min, unattended once simmering",
+      "ingredients": "1 lb dried cannellini or gigante beans (soaked overnight), 1 onion halved, 1 head garlic halved crosswise, 4 sage leaves, 2 bay, a wide strip of lemon peel, olive oil, salt",
+      "method": "Drain the soaked beans into a pot, cover by two inches with fresh water, add onion, garlic, sage, bay, lemon peel and a big glug of olive oil. Bring to a bare simmer and hold it there — never a hard boil, which splits the skins — for 60-90 min until completely creamy. Salt generously only in the last 15 min. Cool the beans IN their liquid; that starchy, olive-oiled broth is half the point. Store ~6 cups beans plus liquid; keeps 5 days."
     }
   ],
   "dinners": [
     {
-      "name": "Spoon-basted cod over brothy beans with salsa verde",
-      "time": "~25 min",
-      "ingredients": "2 cod (or hake/halibut) fillets, cannellini + brodo, tomato confit, parsley, capers, lemon, garlic, butter",
+      "name": "Rigatoni al Pomodoro",
+      "time": "20 min",
+      "ingredients": "1.5 lb rigatoni, ~1 qt tomato sugo, parmesan, basil, olive oil, splash pasta water",
       "steps": [
-        "Warm a ladleful of beans with their brodo and a few confit tomatoes; keep it loose and brothy.",
-        "Pat cod very dry and season. Sear presentation-side down in confit oil until deep golden.",
-        "Add a knob of butter, garlic and thyme; tilt the pan and spoon-baste the top until just opaque.",
-        "Spoon beans into shallow bowls, set the cod on top, finish with salsa verde and a squeeze of lemon."
+        "Boil rigatoni in well-salted water until just shy of al dente.",
+        "Warm the sugo in a wide pan with a little olive oil.",
+        "Drag the pasta straight into the sauce with a splash of pasta water; toss hard 1-2 min so it emulsifies and coats.",
+        "Off heat, fold in a handful of grated parm and torn basil. Serve with extra parm at the table for the girls."
       ]
     },
     {
-      "name": "Orecchiette with tomato confit, cannellini & broccoli rabe",
-      "time": "~25 min",
-      "ingredients": "orecchiette, broccoli rabe (or broccolini), tomato confit + its oil, cannellini, garlic, chili flakes, pecorino",
+      "name": "Seared Cod over White Beans",
+      "time": "25 min",
+      "ingredients": "6 cod or hake fillets (~2 lb), the white beans + their broth, a bunch of spinach or chard, lemon, garlic, olive oil",
       "steps": [
-        "Boil the orecchiette; blanch the rabe in the same water, drain and roughly chop.",
-        "Sizzle garlic and chili in confit oil; add the rabe, a scoop of beans, and confit tomatoes, crushing them lightly.",
-        "Toss with the pasta and a splash of pasta water to emulsify.",
-        "Finish with pecorino and a thread of olive oil."
+        "Warm the beans with a ladle of their broth and a clove of smashed garlic; wilt in the greens, keep loose and brothy. Spoon into shallow bowls.",
+        "Pat cod very dry, salt it. Heat olive oil in a nonstick or well-seasoned pan until shimmering.",
+        "Lay fillets in presentation-side down; don't move them 3-4 min until a golden crust releases cleanly.",
+        "Flip, cut the heat, and spoon the hot oil over the top (arroser) 1 min to finish. Set fish on the beans, finish with lemon and oil. Flake the girls' portions off the bone-free fillet."
       ]
     },
     {
-      "name": "Mussels in white-bean & tomato brodo with grilled bread",
-      "time": "~30 min",
-      "ingredients": "2 lb mussels, cannellini brodo, tomato confit, white wine, shallot, garlic, parsley, crusty bread",
+      "name": "Chicken Cacciatora over Soft Polenta",
+      "time": "40 min, mostly hands-off",
+      "ingredients": "8 bone-in chicken thighs, ~1 qt tomato sugo, 1 sliced bell pepper, splash white wine, rosemary, 1.5 cups polenta, butter/parm",
       "steps": [
-        "Sweat shallot and garlic in confit oil; add white wine and reduce by half.",
-        "Add a ladle of beans with their brodo plus a few confit tomatoes; simmer to a light brodo.",
-        "Add mussels, cover, and steam until they open, 4–5 min; discard any that stay shut.",
-        "Finish with parsley and olive oil; serve with garlic-rubbed grilled bread."
+        "Brown salted thighs skin-side down in olive oil until deeply golden; remove.",
+        "Soften the pepper in the fat, deglaze with wine, add the sugo and a rosemary sprig.",
+        "Nestle the thighs back in, cover partway and simmer gently 25-30 min until tender.",
+        "Meanwhile cook polenta soft and loose, finish with butter and parm. Spoon chicken and sauce over; kids get pulled chicken on polenta."
       ]
     },
     {
-      "name": "Tomato-confit & white bean gratin with fried egg + arugula",
-      "time": "~20 min",
-      "ingredients": "cannellini, tomato confit, breadcrumbs, parmesan, eggs, arugula, lemon",
+      "name": "Pasta e Fagioli",
+      "time": "25 min",
+      "ingredients": "the white beans + broth, ~1 cup tomato sugo, 1 cup small pasta (ditalini), escarole or kale, parm rind, olive oil, crusty bread",
       "steps": [
-        "Fold beans with confit tomatoes into a baking dish; top with parmesan breadcrumbs and a drizzle of confit oil.",
-        "Broil until bubbling and golden.",
-        "Fry the eggs in confit oil and set them over the gratin.",
-        "Pile on arugula dressed with lemon and confit oil."
+        "Warm the beans and their broth with the sugo, a parm rind and enough water to make it soupy.",
+        "Add a couple handfuls of chopped escarole or kale; simmer 8 min.",
+        "Stir in ditalini and cook right in the pot until tender, adding water as it drinks it up.",
+        "Mash a ladle of beans against the side for body. Big glug of raw olive oil per bowl, parm and bread alongside."
       ]
     }
   ],
   "technique": {
-    "name": "Arroser (spoon-basting)",
-    "tiedTo": "The seared cod — once the crust sets, add butter, garlic and thyme, tilt the pan, and spoon the foaming fat over the top. It cooks the fish gently and evenly from above while the bottom stays crisp. The skill is reading the foam: keep it foaming and nutty, never browning to burnt."
+    "name": "Pan-searing delicate fish + arroser (oil basting)",
+    "tiedTo": "The seared cod over white beans — dry the fillet hard, get the oil truly shimmering, and leave it undisturbed until the crust releases on its own; then cut the heat and spoon the hot oil over to finish gently instead of overcooking the second side. Nails the crisp-outside, just-set-inside fish that makes simple seafood feel restaurant-level."
   },
   "shopping": [
     {
       "section": "Produce",
-      "items": "2 lb ripe cherry/Campari or plum tomatoes, broccoli rabe or broccolini, arugula, lemons, flat-leaf parsley, 2 heads garlic (plus extra), onion, carrot, celery, shallot, fresh thyme, sage, oregano"
+      "items": "5 lb ripe tomatoes, 2 onions, 1 carrot, 1 celery rib, 2 heads garlic, 1 bell pepper, spinach or chard, escarole or kale, 2 lemons, basil, rosemary, sage, bay"
     },
     {
       "section": "Seafood",
-      "items": "2 cod/hake/halibut fillets, 2 lb mussels"
+      "items": "6 cod or hake fillets (~2 lb), skinless and boneless"
+    },
+    {
+      "section": "Protein",
+      "items": "8 bone-in, skin-on chicken thighs"
     },
     {
       "section": "Dairy",
-      "items": "butter, eggs, parmesan (plus a rind if you can), pecorino"
+      "items": "parmesan (a good wedge, keep the rind), butter"
     },
     {
       "section": "Pantry",
-      "items": "1 lb dried cannellini (or 3 cans), orecchiette, plenty of good olive oil, capers, dried chili flakes, bay leaves, white wine, breadcrumbs, flaky salt, crusty bread"
+      "items": "1 lb dried cannellini or gigante beans, 1.5 lb rigatoni, 1 cup ditalini, 1.5 cups polenta, 2x 28oz San Marzano tomatoes (backup), good olive oil, dried chili, white wine, salt"
     }
   ],
-  "scaleNote": "This week is 2 adults — girls are with Jen. To feed the full house of 6 on a girls week: double both components. Serve the cod flaked into the beans rather than plated whole and go easy on the chili. Make the orecchiette the centerpiece (about 1.5 lb pasta, rabe chopped fine). For the kids, skip mussels or serve just the tomato-bean brodo as a dunking soup with lots of bread. The gratin scales best — make it 1.5x with a couple of extra eggs."
+  "scaleNote": "This week is a FULL HOUSE (2 adults + 4 girls under 10), so the quantities above already feed 6 with mild, kid-friendly plates: sugo and beans are batched big (~3 qt sugo, ~6 cups beans) to cover all four dinners with a little to spare. For the girls, keep heat low (chili on the side), serve fish flaked and chicken pulled off the bone, and let them build their own bowls with extra parm. On the alternating 2-adult weeks, halve the pasta, fish and chicken but still make the full component batches — they freeze, and give you a head start on the quiet week's more technique-forward cooking."
 }
