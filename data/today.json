@@ -1,60 +1,64 @@
 {
   "date": "Saturday, September 19, 2026",
   "generatedAt": "Morning brief · 10:02 AM ET",
-  "theme": "A quiet last day in Croatia before the long haul home.",
-  "greeting": "The sailing course is behind you and today is yours in Cavtat, Dan — an easy day on the water before an early start and the flight back to Tampa tomorrow.",
+  "theme": "Last night in Croatia before the long way home.",
+  "greeting": "The sailing week is behind you, Dan — one quiet night in Cavtat, then a dawn start for the flights home to Tampa. Before you switch off, a few travel loose ends still need a hand while you're on dry land.",
   "needsAttention": [
     {
-      "tag": "Lands tomorrow",
-      "title": "No rental car booked for the Tampa landing",
-      "detail": "You land TPA Sunday at 3:55 PM and the Sept 20–Oct 5 full-size SUV is still unbooked — a walk-up on a Sunday, jet-lagged, is the exact thing to avoid. Flagged p1 in Todoist, overdue since Sept 9."
+      "tag": "Book today",
+      "title": "Rental car for the Tampa landing",
+      "detail": "You land TPA tomorrow at 3:55 PM with no car booked. Lock in the full-size SUV (Sept 20–Oct 5) now, not jet-lagged at a Sunday walk-up counter."
     },
     {
-      "tag": "Lands tomorrow",
-      "title": "St Pete gap nights still open",
-      "detail": "Somewhere near St Pete for the nights of Sept 20–21, before the kids' Tuesday pickup, is still an open p1 in Todoist. Worth locking before you're in the air."
+      "tag": "Still open",
+      "title": "St Pete beds for the 20th–21st",
+      "detail": "The Orlando villa doesn't start until Sept 22, so the two nights right after you land still need somewhere in the St Pete area."
     },
     {
-      "tag": "Window closing",
+      "tag": "Before dawn",
+      "title": "Cavtat early checkout + airport taxi",
+      "detail": "You leave around 5:15 AM for the 7:30 flight. Confirm express checkout and the taxi with the hotel tonight, while you still have signal."
+    },
+    {
+      "tag": "Overdue p1",
       "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week sells out early; the refundable booking is marked 'book this week' and is now five days overdue in Todoist."
+      "detail": "Refundable full-size SUV out of Portland for Christmas week — thin holiday inventory is exactly why this one was flagged to book early."
     }
   ],
   "schedule": [
     {
       "time": "Midday",
-      "title": "Charter ends, transfer to Cavtat",
-      "detail": "Off the boat at Komolac, short Uber to the Remisens",
-      "tag": "travel"
+      "title": "Off the boat at Komolac",
+      "detail": "Charter ends at ACI Marina Dubrovnik; transfer to Cavtat",
+      "tag": "Travel"
     },
     {
-      "time": "Afternoon",
-      "title": "Last day in Cavtat",
-      "detail": "Check in on the water; the week ashore settles",
-      "tag": "rest"
-    },
-    {
-      "time": "Tonight",
-      "title": "Pack for a first-light checkout",
-      "detail": "Leave ~5:15 AM for the 7:30 flight to Frankfurt",
-      "tag": "prep"
+      "time": "3:00 PM",
+      "title": "Check in — Hotel Epidaurus",
+      "detail": "Cavtat, sea-view family room (local time)",
+      "tag": "Hotel"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two networking pings on LinkedIn",
-        "detail": "Claudia Kruse messaged three days ago and a KPMG España general counsel sent a connection request — both worth a glance given the board search."
+        "title": "New gov-affairs VP roles in your alerts",
+        "detail": "LinkedIn surfaced a VP, US Government Relations posting and a match to the Macy's VP Government Affairs role."
       },
       {
-        "tag": "Job search",
-        "title": "VP, US Government Relations alert",
-        "detail": "LinkedIn surfaced a VP of US Government Relations role (Westinghouse / Laveer Engineering) that fits your public-affairs profile."
+        "tag": "Financial",
+        "title": "Venmo request — $50 for mowing",
+        "detail": "Joshua Weaver requested $50 for lawn mowing dated 9/17."
+      },
+      {
+        "tag": "Financial",
+        "title": "Amex Membership Rewards redeemed",
+        "detail": "Confirmation that points were redeemed on your card ending 3003."
       }
     ],
-    "noise": "Everything else is travel confirmations, newsletters, and promotions — nothing that needs you.",
-    "clear": ""
+    "noise": "Everything else is newsletters, receipts, and travel confirmations — Uber, Apple, Substacks, subscription renewals.",
+    "clear": "Nothing is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -69,20 +73,7 @@
     "book": "Canal House Cooks Every Day",
     "why": "Early autumn brings the first ripe pears, and slow-roasting them coaxes out that season's deep, mellow sweetness."
   },
-  "tasks": [
-    {
-      "title": "Book Disney tickets for the Orlando weekend",
-      "project": "Family travel",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Work",
-      "due": "Overdue Aug 15",
-      "overdue": true
-    }
-  ],
+  "tasks": [],
   "routines": {
     "morning": "0/10",
     "day": "0/6",
@@ -91,15 +82,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The charter wraps at the marina and a short Uber carries you into Cavtat."
+      "line": "The last morning of the course — off the boat at Komolac and the Adriatic left in the wake."
     },
     {
       "time": "Afternoon",
-      "line": "Check in at the Remisens on the water and let a week of sailing settle."
+      "line": "One sea-view night in Cavtat: check in, drop the two duffels, let the week settle."
     },
     {
       "time": "Evening",
-      "line": "Pack tonight — checkout comes at first light for the long flight home."
+      "line": "An early night — alarm near 5:15 AM, then Dubrovnik to Frankfurt to Tampa, landing 3:55 PM."
     }
   ],
   "japanese": {
