@@ -1,52 +1,32 @@
 {
   "date": "Friday, September 18, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "The boat winds down; the trip home begins.",
-  "greeting": "Your last full day on the water, Dan. The calendar's empty, but the weekend's handoffs and Sunday's Tampa landing are what actually need you.",
+  "theme": "Your last day on the water",
+  "greeting": "Your last full day aboard, Dan — the calendar's empty and the Adriatic is yours. The one thing worth handling while you still have signal is tomorrow's move ashore to Cavtat.",
   "needsAttention": [
     {
-      "tag": "Weekend logistics",
-      "title": "Cavtat handoff and the Sunday dawn checkout",
-      "detail": "You're off the boat at noon Saturday and out the door around 5:15 AM Sunday for the flight home. The Komolac transfer, an early bag hold, and an express checkout all still read as open on your travel list."
-    },
-    {
-      "tag": "Books Sunday",
-      "title": "No car booked for the Tampa landing",
-      "detail": "You land Tampa 3:55 PM Sunday and the Sept 20–Oct 5 full-size SUV is still flagged unbooked. A jet-lagged Sunday walk-up rate is exactly the thing this reservation avoids."
-    },
-    {
-      "tag": "Two nights open",
-      "title": "St Pete gap, Sunday and Monday nights",
-      "detail": "The kids aren't picked up until Tuesday, so you need somewhere in St Pete for the 20th and 21st before the Orlando villa. Still open on your list."
+      "tag": "Prep for tomorrow",
+      "title": "Lock tomorrow's move ashore before signal drops",
+      "detail": "You disembark at Komolac around midday Saturday and shift to the Cavtat hotel. Pre-book the transfer, confirm the hotel will hold bags before the 3 PM check-in, and arrange a pre-dawn Sunday checkout for the 7:30 flight home. All of it needs doing from shore signal while you still have it."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "A warm intro from Brunswick",
-        "detail": "You were connected with Brunswick's senior recruitment lead, who already has your resume—a reply is owed."
-      },
-      {
-        "tag": "Job search",
-        "title": "LinkedIn message from Claudia Kruse",
-        "detail": "She messaged you a few days ago; it's sitting unanswered."
-      },
-      {
         "tag": "Financial",
         "title": "Revolut card dispatched",
-        "detail": "Your new card is on its way, arriving Sept 23–25."
+        "detail": "On its way, arriving Sept 23-25 — activate when it lands."
       }
     ],
-    "noise": "Around a dozen newsletters and promos—Noah Smith, Alison Roman, two recipe shops, an Italian-word list, a Duke tailgate invite.",
-    "clear": ""
+    "noise": "The rest is newsletters, retail sales, and statement notices — nothing waiting on you.",
+    "clear": "No personal mail is waiting on a reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Cavtat, Croatia",
+    "location": "Dubrovnik, Croatia",
     "confidence": "high",
     "asOf": "Friday Sep 18"
   },
@@ -57,35 +37,47 @@
   },
   "tasks": [
     {
-      "title": "Book the Maine Christmas SUV (refundable, PWM)",
-      "project": "Family Travel",
-      "due": "Overdue Sept 14",
+      "title": "Book the Sept 20-Oct 5 Tampa rental car",
+      "project": "Travel",
+      "due": "Overdue Sep 9",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Work",
-      "due": "Overdue Aug 15",
+      "title": "Cover the St Pete landing gap, Sept 20-22",
+      "project": "Travel",
+      "due": "Overdue Aug 25",
+      "overdue": true
+    },
+    {
+      "title": "Buy Disney park tickets for the six of you",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Book a refundable Maine Christmas SUV out of Portland",
+      "project": "Travel",
+      "due": "Overdue Sep 14",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A last stretch of open water before Saturday's noon handback at Komolac."
+      "line": "No meetings on the calendar — your last full day aboard before the charter ends."
     },
     {
       "time": "Afternoon",
-      "line": "The calendar's clear—today is the boat, not the desk."
+      "line": "Open water and nothing scheduled until you dock at Komolac."
     },
     {
       "time": "Evening",
-      "line": "Croatia is hours ahead, so the day has already wound down where you are."
+      "line": "A quiet last night on the Adriatic before the journey home begins."
     }
   ],
   "japanese": {
