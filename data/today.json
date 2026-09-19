@@ -1,49 +1,54 @@
 {
   "date": "Friday, September 18, 2026",
   "generatedAt": "Morning brief · 8:02 PM ET",
-  "theme": "A quiet last day on the water before the long trip home.",
-  "greeting": "Buon giorno, Dan — the sailing course wraps at noon tomorrow, so today is largely yours on the Adriatic. The one thing worth doing before you lose signal is locking down the shore logistics.",
+  "theme": "The boat winds down; the trip home begins.",
+  "greeting": "Your last full day on the water, Dan. The calendar's empty, but the weekend's handoffs and Sunday's Tampa landing are what actually need you.",
   "needsAttention": [
     {
-      "tag": "Before you sail",
-      "title": "Lock the Cavtat shore logistics",
-      "detail": "The charter ends at noon tomorrow at Komolac. The Cavtat transfer, an early bag hold before 3 PM check-in, and Sunday's ~5:15 AM express checkout all need arranging from dry land before you're offline."
+      "tag": "Weekend logistics",
+      "title": "Cavtat handoff and the Sunday dawn checkout",
+      "detail": "You're off the boat at noon Saturday and out the door around 5:15 AM Sunday for the flight home. The Komolac transfer, an early bag hold, and an express checkout all still read as open on your travel list."
     },
     {
-      "tag": "Closes today",
-      "title": "Last call on the St Pete Airbnb",
-      "detail": "The Sept 27–Oct 5 St Pete booking is set to charge today, after which it's locked. If a better option exists, this is the last day to switch."
+      "tag": "Books Sunday",
+      "title": "No car booked for the Tampa landing",
+      "detail": "You land Tampa 3:55 PM Sunday and the Sept 20–Oct 5 full-size SUV is still flagged unbooked. A jet-lagged Sunday walk-up rate is exactly the thing this reservation avoids."
     },
     {
-      "tag": "Land Sunday",
-      "title": "Two St Pete nights still open",
-      "detail": "You land TPA Sunday afternoon, but the Sept 20–21 nights before the Orlando villa aren't booked — close the gap before you're jet-lagged at a walk-up counter."
+      "tag": "Two nights open",
+      "title": "St Pete gap, Sunday and Monday nights",
+      "detail": "The kids aren't picked up until Tuesday, so you need somewhere in St Pete for the 20th and 21st before the Orlando villa. Still open on your list."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Morgan Stanley savings rate up",
-        "detail": "Your Signature Savings APY rose to 4.00%."
+        "tag": "Job search",
+        "title": "A warm intro from Brunswick",
+        "detail": "You were connected with Brunswick's senior recruitment lead, who already has your resume—a reply is owed."
+      },
+      {
+        "tag": "Job search",
+        "title": "LinkedIn message from Claudia Kruse",
+        "detail": "She messaged you a few days ago; it's sitting unanswered."
       },
       {
         "tag": "Financial",
-        "title": "Amex points redeemed",
-        "detail": "A Membership Rewards redemption went through on your account."
+        "title": "Revolut card dispatched",
+        "detail": "Your new card is on its way, arriving Sept 23–25."
       }
     ],
-    "noise": "The rest is newsletters and receipts — NYT Cooking, Alison Roman, Responsible Investor, St Pete local, and a stack of retail.",
-    "clear": "Nothing is waiting on your reply."
+    "noise": "Around a dozen newsletters and promos—Noah Smith, Alison Roman, two recipe shops, an Italian-word list, a Duke tailgate invite.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Croatia (sailing charter)",
+    "location": "Cavtat, Croatia",
     "confidence": "high",
-    "asOf": "Fri Sep 18"
+    "asOf": "Friday Sep 18"
   },
   "recipe": {
     "title": "Vin santo–roasted pears",
@@ -52,41 +57,35 @@
   },
   "tasks": [
     {
-      "title": "Book the Sept 20–Oct 5 rental car (Full Size SUV, TPA)",
+      "title": "Book the Maine Christmas SUV (refundable, PWM)",
       "project": "Family Travel",
-      "due": "Overdue",
+      "due": "Overdue Sept 14",
       "overdue": true
     },
     {
-      "title": "Book refundable Maine Christmas SUV out of Portland",
-      "project": "Family Travel",
-      "due": "Overdue Sep 14",
-      "overdue": true
-    },
-    {
-      "title": "Buy Disney tickets for the Sept 26–27 Orlando weekend",
-      "project": "Family Travel",
-      "due": "Overdue",
+      "title": "Destination edit work",
+      "project": "Work",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The last full morning aboard before the course ends."
+      "line": "A last stretch of open water before Saturday's noon handback at Komolac."
     },
     {
       "time": "Afternoon",
-      "line": "No meetings on the books — open Adriatic all afternoon."
+      "line": "The calendar's clear—today is the boat, not the desk."
     },
     {
       "time": "Evening",
-      "line": "Wind down at anchor; tomorrow the trip home begins."
+      "line": "Croatia is hours ahead, so the day has already wound down where you are."
     }
   ],
   "japanese": {
