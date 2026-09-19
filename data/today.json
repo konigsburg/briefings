@@ -1,41 +1,53 @@
 {
   "date": "Saturday, September 19, 2026",
   "generatedAt": "Morning brief · 4:02 PM ET",
-  "theme": "A quiet day in Cavtat before the long flight home.",
-  "greeting": "The charter is done and you're ashore at the Remisens in Cavtat, Dan — today's the calm before a long travel day. The work worth doing from dry land is locking tomorrow's pre-dawn exit and the Florida landing.",
+  "theme": "A quiet Adriatic pause before the long trip home.",
+  "greeting": "Last day of the crossing, Dan — you're off the boat and back on land in Cavtat. Today is calm; tomorrow is the marathon home to Tampa, so the real work today is getting ahead of it.",
   "needsAttention": [
     {
-      "tag": "Closes today",
-      "title": "Lock tomorrow's 5:15 AM Cavtat exit",
-      "detail": "You leave ~5:15 AM Sunday for LH4297 at 7:30. Confirm express/night checkout with the hotel and book the airport taxi today — not from the counter at dawn."
+      "tag": "Tomorrow 5 AM",
+      "title": "Lock the dawn checkout and airport taxi",
+      "detail": "LH4297 leaves Dubrovnik at 7:30, which means a ~5:15 AM taxi and a night or express checkout from the Remisens. Confirm both with the property today while you still have signal — your Cavtat task flags these as land-only jobs."
     },
     {
-      "tag": "Before you land",
-      "title": "Book the TPA rental car outright",
-      "detail": "Full-Size SUV at Tampa, Sept 20–Oct 5, to carry all six. You land Sunday at 3:55 PM — don't arrive jet-lagged to walk-up Sunday rates with no car."
+      "tag": "Window closing",
+      "title": "Book the Tampa SUV before you land",
+      "detail": "You touch down at TPA at 3:55 tomorrow with no car booked. The Sept 20–Oct 5 full-size SUV is a p1 marked don't-arrive-without-it — a jet-lagged Sunday walk-up is exactly what it's meant to avoid."
     },
     {
-      "tag": "Before you land",
-      "title": "Book St Pete for the Sept 20–22 gap",
-      "detail": "You land Sunday but the kids aren't picked up until Tuesday 3 PM and the Orlando villa starts that evening. Two nights (20th, 21st) in St Pete are still unbooked."
+      "tag": "Two nights open",
+      "title": "Cover the St Pete landing gap",
+      "detail": "Sept 20–21 still has no room before the Orlando villa opens on the 22nd. It's a standing p1 and you land tomorrow — today is the last easy moment to book it."
+    },
+    {
+      "tag": "Overdue p1",
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "A full-size SUV out of Portland over Christmas week sells out early, and there's no six-seater in Maine once the Pathfinder heads south. A refundable hold costs nothing and has been sitting since the 14th."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "All day",
+      "title": "Last day in Cavtat",
+      "detail": "Remisens Epidaurus, on the water",
+      "tag": "Travel"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "New VP, Government Affairs roles",
-        "detail": "LinkedIn flagged openings similar to the Macy's VP, Government Affairs post — worth a scan when you land."
+        "title": "LinkedIn: VP Government Affairs roles",
+        "detail": "A new-jobs alert built off VP, Government Affairs at Macy's — on-target for your public-affairs and board search. Worth a scan once you're home."
       },
       {
         "tag": "Financial",
-        "title": "Venmo request — lawn mowing",
-        "detail": "Joshua Weaver requested $50 for mowing on 9/17."
+        "title": "New Equifax report and score",
+        "detail": "Your updated credit report and score are available — routine, no action unless something looks off."
       }
     ],
-    "noise": "The rest is newsletters and receipts — NYT Cooking, Ridgeline, market briefs, an Uber receipt, subscription renewals.",
-    "clear": ""
+    "noise": "The rest is newsletters and promotions — NYT Cooking, market digests, furniture and garden shops, language-app deals.",
+    "clear": "Nothing in the inbox is waiting on a reply from you."
   },
   "resolved": [],
   "context": {
@@ -52,22 +64,10 @@
   },
   "tasks": [
     {
-      "title": "Book Maine Christmas SUV rental (refundable, PWM)",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sep 14",
+      "title": "Sort the Disney tickets for the 26th–27th",
+      "project": "Dan & Mike Travel",
+      "due": "Overdue Aug 28",
       "overdue": true
-    },
-    {
-      "title": "Confirm St Pete Airbnb (Sep 27–Oct 5) converted from pending",
-      "project": "Dan & Mike Stuff",
-      "due": "Charged Sep 18",
-      "overdue": false
-    },
-    {
-      "title": "Buy Disney park tickets for the six of you (Sep 26–27)",
-      "project": "Dan & Mike Stuff",
-      "due": "For Sep 26",
-      "overdue": false
     }
   ],
   "routines": {
@@ -78,18 +78,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Off the boat at Komolac and down to Cavtat — the sailing week is behind you.",
-      "tag": "travel"
+      "line": "The charter is over and you're back on land in Cavtat — a slow morning by the Adriatic before the long haul home."
     },
     {
       "time": "Afternoon",
-      "line": "An all-inclusive rest day at the Remisens with nothing on the calendar.",
-      "tag": "open"
+      "line": "Nothing on the calendar; the sea-view room is yours right up until the early start."
     },
     {
       "time": "Evening",
-      "line": "An early night ahead of a 5:15 AM checkout — pack and confirm the taxi tonight.",
-      "tag": "moon"
+      "line": "Pack tonight and turn in early — the taxi comes around 5:15 for a 7:30 flight out of Dubrovnik."
     }
   ],
   "japanese": {
