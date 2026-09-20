@@ -1,62 +1,67 @@
 {
   "date": "Sunday, September 20, 2026",
   "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "The long leg home.",
-  "greeting": "Last leg back, Dan — Frankfurt to Tampa, wheels down at 3:55. Two quiet nights in St Pete before the girls arrive Tuesday.",
+  "theme": "Travel day — the long way home from Croatia.",
+  "greeting": "You're flying home today, Dan: Dubrovnik to Frankfurt to Tampa, wheels down at 3:55. The trip's behind you and Florida is ahead — a quiet couple of days before the kids come Tuesday.",
   "needsAttention": [
     {
       "tag": "Book today",
-      "title": "Rental car for the Tampa landing",
-      "detail": "You land at 3:55 PM and the Sept 20–Oct 5 car is still an open p1 on the travel board (overdue since Sep 9). Full-size SUV out of TPA — the class that seats all six. Don't arrive to walk-up rates on a Sunday."
+      "title": "Rental car waiting when you land",
+      "detail": "The Sept 20–Oct 5 full-size SUV rental starts today and you touch down at TPA at 3:55 PM. It's no longer a hedge — the note to self is to not arrive jet-lagged on a Sunday to walk-up rates."
     },
     {
-      "tag": "Tonight",
-      "title": "A St Pete bed for the 20th and 21st",
-      "detail": "The landing-gap lodging (Sept 20–22) is still open on the board. You need somewhere in St Pete tonight and tomorrow before the Orlando villa starts Tuesday evening."
+      "tag": "Two nights",
+      "title": "Somewhere to land tonight",
+      "detail": "You're back in Tampa this afternoon but the kids aren't picked up until Tuesday — the nights of the 20th and 21st in the St. Pete area are still the open gap before the Orlando villa."
     },
     {
-      "tag": "Window closing",
-      "title": "Maine Christmas SUV",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week is an overdue p1 (since Sep 14). Holiday inventory in PWM is the hardest rental in that market and sells out early — a refundable hold now costs nothing."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV, before it sells out",
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market, and the Pathfinder is south by then. A refundable hold now costs nothing; waiting genuinely costs money."
     }
   ],
   "schedule": [
     {
-      "time": "9:00 AM",
-      "title": "Sunday review with Mike",
-      "detail": "15-min board sweep — came and went while you were in the air",
-      "tag": "Meeting"
+      "time": "5:30 AM",
+      "title": "Frankfurt to Tampa",
+      "detail": "The long leg home, landing 3:55 PM",
+      "tag": "travel"
     },
     {
-      "time": "3:55 PM",
-      "title": "Land Tampa (UA9662)",
-      "detail": "Frankfurt → TPA, then the rental and the drive to St Pete",
-      "tag": "Flight"
+      "time": "9:00 AM",
+      "title": "Sunday review with Mike",
+      "detail": "15-min board clear — you'll likely be mid-flight",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "SVP Global Public Policy roles",
-        "detail": "A LinkedIn alert surfaced openings matching your public-policy target — worth a scan once you're settled."
+        "title": "LinkedIn alert: SVP, Global Public Policy",
+        "detail": "A job alert surfaced a Senior Vice President of Global Public Policy posting plus similar roles — worth a scan once you're on the ground."
       },
       {
         "tag": "Financial",
-        "title": "Any.do Premium renewing",
-        "detail": "Apple flags the $59.99/yr Any.do subscription as expiring soon — decide renew or cancel."
+        "title": "FICO balance-change alert",
+        "detail": "myFICO flagged that your JPMCB card balance went down — routine, but the kind of account note worth a glance."
+      },
+      {
+        "tag": "FYI",
+        "title": "Gate C14 for the Tampa flight",
+        "detail": "Discover Airlines has your Frankfurt–Tampa flight departing from gate C14."
       }
     ],
-    "noise": "The rest is newsletters and digests — NYT Cooking, WSJ, Noahpinion, St Pete local, plus Dex and Todoist recaps.",
-    "clear": "Nothing is waiting on your reply."
+    "noise": "The rest is newsletters and digests — NYT Cooking, the WSJ tech roundup, a few St. Pete locals, and Dex keep-in-touch reminders.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St Petersburg, FL",
+    "location": "Tampa / St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Sun Sep 20"
+    "asOf": "Sunday Sep 20"
   },
   "recipe": {
     "title": "Ginger spice cake with dried cherries",
@@ -65,22 +70,16 @@
   },
   "tasks": [
     {
-      "title": "Disney tickets for Sept 26–27",
+      "title": "Plan a grocery stop before the Orlando villa",
       "project": "Dan & Mike",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Grocery stop before the Orlando villa",
-      "project": "Dan & Mike",
-      "due": "Due today",
+      "due": "Today",
       "overdue": false
     },
     {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
-      "overdue": true
+      "title": "Sort Disney tickets for Sept 26–27",
+      "project": "Dan & Mike",
+      "due": "Due Sep 26",
+      "overdue": false
     }
   ],
   "routines": {
@@ -91,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Over the Atlantic on the Frankfurt–Tampa leg; the 9 AM board sweep with Mike passed mid-flight."
+      "line": "You're in the air before dawn — the short hop Dubrovnik to Frankfurt, then the long leg toward home."
     },
     {
       "time": "Afternoon",
-      "line": "Wheels down at Tampa at 3:55 — collect the rental and point it toward St Pete."
+      "line": "Wheels down at Tampa at 3:55, back on Florida ground after two weeks in Croatia."
     },
     {
       "time": "Evening",
-      "line": "First night back in Florida, kids-free until Tuesday's pickup — an easy landing before the Orlando run."
+      "line": "First night stateside is yours — the kids arrive Tuesday, so tonight is for resetting the clock."
     }
   ],
   "japanese": {
