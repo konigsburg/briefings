@@ -1,77 +1,42 @@
 {
   "date": "Saturday, September 19, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "The last calm day, then the long way home.",
-  "greeting": "Your final day in Cavtat, then the journey home starts overnight — Dubrovnik to Frankfurt to Tampa, landing tomorrow afternoon. Before you board, two Florida bookings still need locking so you're not sorting them jet-lagged on the ground.",
+  "theme": "Last open day in Croatia before the flight home.",
+  "greeting": "A free day in Cavtat, Dan - the sailing week is behind you and the girls are with Jen this stretch, so today is genuinely yours. The one thing worth doing before you rest: lock the two Florida bookings that bite the moment you land tomorrow.",
   "needsAttention": [
     {
-      "tag": "Book today",
-      "title": "Rental car for tomorrow's landing",
-      "detail": "You land TPA at 3:55 PM Sunday and the Sept 20–Oct 5 full-size SUV (p1) is still unbooked — the decision is settled, only the booking is left. Don't arrive to walk-up rates, jet-lagged, on a Sunday."
+      "tag": "Book before landing",
+      "title": "Two nights in St Pete, still unbooked",
+      "detail": "You land Tampa tomorrow afternoon, but the nights of the 20th and 21st have no room yet and the kids aren't picked up until Tuesday. On the Mike + Dan board, p1, overdue since Aug 25."
     },
     {
-      "tag": "Book today",
-      "title": "Two nights in St Pete, Sept 20–21",
-      "detail": "You land Sunday but the kids aren't picked up until Tuesday, and the landing-gap lodging (p1) is still open. While you're in there, confirm the Sept 27–Oct 5 Airbnb actually converted from pending to booked."
+      "tag": "Book before landing",
+      "title": "No rental car for the Tampa landing",
+      "detail": "The Sept 20 - Oct 5 full-size SUV is decided but not booked; arriving at 3:55 PM Sunday without one means walk-up rates, jet-lagged, on a Sunday. Mike + Dan board, p1, overdue since Sept 9."
     },
     {
-      "tag": "Overdue p1",
-      "title": "Maine Christmas SUV out of Portland",
-      "detail": "A full-size SUV over Christmas week is the hardest rental in that market and it sells out early. Book it refundable now (p1, due Sept 14) and adjust the dates later."
+      "tag": "Window closing",
+      "title": "Maine Christmas SUV rental",
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early - book it refundable now, adjust dates later. Mike + Dan board, p1, overdue since Sept 14."
     }
   ],
-  "schedule": [
-    {
-      "time": "All day",
-      "title": "Last day in Cavtat",
-      "detail": "Remisens Hotel Epidaurus, all-inclusive",
-      "tag": "rest"
-    },
-    {
-      "time": "5:35 AM",
-      "title": "Uber to the airport",
-      "detail": "Confirmed pickup, Cavtat to Dubrovnik",
-      "tag": "travel"
-    },
-    {
-      "time": "7:30 AM",
-      "title": "Fly Dubrovnik → Frankfurt",
-      "detail": "LH4297, then UA9662 on to Tampa",
-      "tag": "flight"
-    },
-    {
-      "time": "3:55 PM",
-      "title": "Land Tampa (TPA)",
-      "detail": "Home — ideally with a car already booked",
-      "tag": "flight"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "LinkedIn request from a Deloitte consultant",
-        "detail": "A senior consultant at Deloitte Canada sent a connection request — worth a look given the board-search networking."
-      },
-      {
         "tag": "Financial",
-        "title": "FICO alert: card balance decreased",
-        "detail": "A myFICO alert notes your JPMCB card balance dropped — routine, no action, just a heads-up."
-      },
-      {
-        "tag": "FYI",
-        "title": "Uber confirmed for the 5:35 AM pickup",
-        "detail": "The Cavtat-to-airport ride for Sunday is booked — the transfer is handled."
+        "title": "Venmo request from Joshua Weaver",
+        "detail": "He requested $50 for mowing on 9/17 - a quick approve once you're back online."
       }
     ],
-    "noise": "The rest is newsletters and shopping — NYT Cooking, Substack, market digests, Dermstore, and retail promos.",
-    "clear": "Nothing else in the inbox is waiting on your reply."
+    "noise": "Otherwise it's newsletters, travel receipts, and subscription renewals - nothing that needs you.",
+    "clear": "No one is waiting on a reply."
   },
   "resolved": [
     {
-      "tag": "Handled",
-      "title": "Airport transfer is set",
-      "detail": "Uber confirmed the 5:35 AM Cavtat pickup for Sunday, closing the disembark-day transfer worry."
+      "tag": "Sorted",
+      "title": "Ride home is booked",
+      "detail": "Uber confirmed a 5:35 AM pickup from the hotel for tomorrow's early flight."
     }
   ],
   "context": {
@@ -79,7 +44,7 @@
     "phase": "green",
     "location": "Cavtat, Croatia",
     "confidence": "high",
-    "asOf": "Saturday Sep 19"
+    "asOf": "Sat Sep 19"
   },
   "recipe": {
     "title": "Vin santo–roasted pears",
@@ -89,13 +54,13 @@
   "tasks": [
     {
       "title": "Grocery stop before the Orlando villa",
-      "project": "Travel",
-      "due": "Due Sep 20",
+      "project": "Mike + Dan - Board",
+      "due": "Sep 20",
       "overdue": false
     },
     {
       "title": "Destination edit work",
-      "project": "Editorial",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -108,15 +73,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet last morning in Cavtat with nothing on the books before the flight home."
+      "line": "You disembarked the charter and rode into Cavtat this morning - the sailing week is behind you."
     },
     {
       "time": "Afternoon",
-      "line": "The all-inclusive is yours until the bags are packed — one more look at the Adriatic."
+      "line": "Nothing on the calendar - a rare open stretch and the last of the Adriatic before you fly."
     },
     {
       "time": "Evening",
-      "line": "The long haul begins tonight: 5:35 AM pickup, Dubrovnik to Frankfurt to Tampa, on the ground by 3:55 PM Sunday."
+      "line": "An early night ahead: the airport pickup is set for 5:35 AM for the flight home to Tampa."
     }
   ],
   "japanese": {
