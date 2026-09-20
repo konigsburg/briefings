@@ -1,49 +1,60 @@
 {
   "date": "Sunday, September 20, 2026",
   "generatedAt": "Morning brief · 6:02 PM ET",
-  "theme": "Travel day — the long way home from Croatia lands in Tampa.",
-  "greeting": "Welcome back, Dan. Two flights and a Frankfurt connection carry you home this afternoon, wheels down at Tampa just before four. Before the jet lag lands too, the car and a bed for tonight are the two things worth locking down.",
+  "theme": "Wheels down in Florida.",
+  "greeting": "You're back on Florida ground after the long haul from Dubrovnik, Dan. Two quiet nights to reset before the girls are picked up Tuesday and the Orlando run begins.",
   "needsAttention": [
     {
-      "tag": "Book on landing",
-      "title": "Rental car waiting at Tampa",
-      "detail": "The full-size SUV for TPA Sept 20 to Oct 5 needs to be booked before you're at the counter, jet-lagged, on a Sunday. It's the car for the whole span, including the Orlando drive. (Travel, due Sept 9.)"
-    },
-    {
       "tag": "Tonight's bed",
-      "title": "Two nights in St. Pete before pickup",
-      "detail": "The Sept 20 to 22 landing gap is the last open piece of lodging — somewhere near St. Pete for tonight and tomorrow, since the girls aren't picked up until Tuesday at 3 PM. (Travel, overdue.)"
+      "title": "Two nights before pickup",
+      "detail": "The Sept 20-22 landing-gap lodging is still flagged p1 on your board. You're in St Pete tonight and tomorrow before the Tuesday 3 PM pickup and the drive to the Orlando villa."
     },
     {
-      "tag": "This week",
-      "title": "Maine Christmas SUV out of Portland",
-      "detail": "A refundable full-size SUV from PWM over Christmas week is the thinnest rental in that market and sells out early — booking it refundable now costs nothing and closes the risk. (Travel, overdue Sept 14.)"
+      "tag": "Rental car",
+      "title": "Car for the Tampa stretch",
+      "detail": "The Sept 20-Oct 5 full-size SUV was marked book-outright and is overdue. The note's own warning: don't land jet-lagged on a Sunday and take a walk-up rate."
+    },
+    {
+      "tag": "Window closing",
+      "title": "Maine Christmas SUV",
+      "detail": "Overdue since Sep 14, and it's the hardest rental in Portland over the holidays. A refundable full-size hold now costs nothing and takes the whole risk off the table."
     }
   ],
   "schedule": [
     {
-      "time": "5:30 AM",
-      "title": "Flight Frankfurt to Tampa",
-      "detail": "The last leg home; lands TPA 3:55 PM",
-      "tag": "travel"
-    },
-    {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board reset — falls mid-flight today",
-      "tag": "meeting"
+      "detail": "15-min board sweep",
+      "tag": "call"
+    },
+    {
+      "time": "3:55 PM",
+      "title": "Land in Tampa",
+      "detail": "UA9662 in from Frankfurt",
+      "tag": "travel"
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "About twenty unread, all newsletters and receipts — NYT Cooking, WSJ, Field Company, Chairish, and a Booking.com rate request from the hotel you just left.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "flagged": [
+      {
+        "tag": "FYI",
+        "title": "Revolut card dispatched",
+        "detail": "Arriving 9/23-9/25; it'll need activating when it lands."
+      },
+      {
+        "tag": "Job search",
+        "title": "Two LinkedIn connection requests",
+        "detail": "Consultants at Deloitte Canada and KPMG Espana want to connect - networking, nothing owed."
+      }
+    ],
+    "noise": "The rest is travel receipts, cooking newsletters, and retail promos.",
+    "clear": "Nothing is waiting on your reply this evening."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St. Petersburg, FL",
+    "location": "Tampa, FL",
     "confidence": "high",
     "asOf": "Sunday Sep 20"
   },
@@ -54,16 +65,28 @@
   },
   "tasks": [
     {
-      "title": "Plan a grocery stop before the Orlando villa",
-      "project": "Family travel",
+      "title": "Kids' passport appointment - reschedule",
+      "project": "Travel",
+      "due": "Due tomorrow Sep 21",
+      "overdue": false
+    },
+    {
+      "title": "Grocery stop before the Orlando villa",
+      "project": "Travel",
       "due": "Due today",
       "overdue": false
     },
     {
-      "title": "Buy Disney park tickets for the 26th to 27th",
-      "project": "Family travel",
-      "due": "For Sept 26",
-      "overdue": false
+      "title": "Disney tickets for the six of you",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Assemble the four-kid passport packet",
+      "project": "Travel",
+      "due": "Overdue Aug 26",
+      "overdue": true
     }
   ],
   "routines": {
@@ -74,15 +97,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Cavtat to Dubrovnik before dawn, then Frankfurt — the trip home is really the whole morning."
+      "line": "The 9 AM board sweep with Mike, then the long haul out of Dubrovnik begins."
     },
     {
       "time": "Afternoon",
-      "line": "Wheels down at Tampa just before four, with the car and a room the first things to sort."
+      "line": "Frankfurt to Tampa, wheels down at 3:55."
     },
     {
       "time": "Evening",
-      "line": "A quiet first night back in St. Pete; the girls come Tuesday, so tonight is yours to reset."
+      "line": "Florida ground and a quiet night before Tuesday's pickup."
     }
   ],
   "japanese": {
