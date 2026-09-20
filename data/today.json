@@ -1,62 +1,62 @@
 {
   "date": "Sunday, September 20, 2026",
   "generatedAt": "Morning brief · 12:02 PM ET",
-  "theme": "Travel day — home from Croatia.",
-  "greeting": "You fly home today, Dan: Dubrovnik behind you, Tampa by late afternoon. The two things worth nailing down before you land are a car and a bed for tonight.",
+  "theme": "The long leg home.",
+  "greeting": "Last leg back, Dan — Frankfurt to Tampa, wheels down at 3:55. Two quiet nights in St Pete before the girls arrive Tuesday.",
   "needsAttention": [
     {
       "tag": "Book today",
-      "title": "A rental car for the landing",
-      "detail": "You touch down at Tampa around 3:55 PM, and the Sept 20 – Oct 5 full-size SUV is still marked open in Todoist. If it isn't booked before you're on the ground, it's walk-up rates on a Sunday."
+      "title": "Rental car for the Tampa landing",
+      "detail": "You land at 3:55 PM and the Sept 20–Oct 5 car is still an open p1 on the travel board (overdue since Sep 9). Full-size SUV out of TPA — the class that seats all six. Don't arrive to walk-up rates on a Sunday."
     },
     {
-      "tag": "Tonight's bed",
-      "title": "Where you sleep tonight in St. Pete",
-      "detail": "The Sept 20–21 landing-gap lodging is still flagged open in Todoist. The girls aren't picked up until Tuesday, so tonight and tomorrow night both need a room near St. Pete before the Orlando villa starts."
+      "tag": "Tonight",
+      "title": "A St Pete bed for the 20th and 21st",
+      "detail": "The landing-gap lodging (Sept 20–22) is still open on the board. You need somewhere in St Pete tonight and tomorrow before the Orlando villa starts Tuesday evening."
+    },
+    {
+      "tag": "Window closing",
+      "title": "Maine Christmas SUV",
+      "detail": "A refundable full-size SUV out of Portland for Christmas week is an overdue p1 (since Sep 14). Holiday inventory in PWM is the hardest rental in that market and sells out early — a refundable hold now costs nothing."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "Your 15-min board sweep on Meet — but it overlaps your transatlantic leg, so you may be in the air.",
-      "tag": "sync"
+      "detail": "15-min board sweep — came and went while you were in the air",
+      "tag": "Meeting"
     },
     {
       "time": "3:55 PM",
-      "title": "Land in Tampa",
-      "detail": "FRA to TPA, gate C14 — the Croatia trip closed out and back on Florida ground.",
-      "tag": "travel"
+      "title": "Land Tampa (UA9662)",
+      "detail": "Frankfurt → TPA, then the rental and the drive to St Pete",
+      "tag": "Flight"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Public-policy roles in your LinkedIn alert",
-        "detail": "LinkedIn pushed an SVP, Global Public Policy alert and similar roles this morning — worth a scan once you land."
+        "title": "SVP Global Public Policy roles",
+        "detail": "A LinkedIn alert surfaced openings matching your public-policy target — worth a scan once you're settled."
       },
       {
         "tag": "Financial",
-        "title": "Venmo request from Joshua Weaver",
-        "detail": "$50 for mowing (9-17-26) is sitting unpaid in Venmo."
-      },
-      {
-        "tag": "FYI",
-        "title": "No milk delivery this Friday",
-        "detail": "The Maine Milkman is off Fri Sept 25; deliveries resume Oct 2."
+        "title": "Any.do Premium renewing",
+        "detail": "Apple flags the $59.99/yr Any.do subscription as expiring soon — decide renew or cancel."
       }
     ],
-    "noise": "The rest is promotions and newsletters — Indochino, NYT Cooking, FT, Dermstore, a stack of shop sales.",
-    "clear": ""
+    "noise": "The rest is newsletters and digests — NYT Cooking, WSJ, Noahpinion, St Pete local, plus Dex and Todoist recaps.",
+    "clear": "Nothing is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St. Petersburg, FL",
+    "location": "St Petersburg, FL",
     "confidence": "high",
-    "asOf": "Sunday Sep 20"
+    "asOf": "Sun Sep 20"
   },
   "recipe": {
     "title": "Ginger spice cake with dried cherries",
@@ -65,20 +65,14 @@
   },
   "tasks": [
     {
-      "title": "Book Maine Christmas rental (full-size SUV, PWM)",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sep 14",
-      "overdue": true
-    },
-    {
-      "title": "Sort Disney park tickets for Sept 26–27",
-      "project": "Dan & Mike Stuff",
+      "title": "Disney tickets for Sept 26–27",
+      "project": "Dan & Mike",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Plan a grocery stop before the Orlando villa",
-      "project": "Dan & Mike Stuff",
+      "title": "Grocery stop before the Orlando villa",
+      "project": "Dan & Mike",
       "due": "Due today",
       "overdue": false
     },
@@ -97,15 +91,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Over the Atlantic after the Dubrovnik red-eye; the 9 AM board sweep with Mike lands mid-flight."
+      "line": "Over the Atlantic on the Frankfurt–Tampa leg; the 9 AM board sweep with Mike passed mid-flight."
     },
     {
       "time": "Afternoon",
-      "line": "Wheels down at Tampa just before four, then the drive into St. Pete."
+      "line": "Wheels down at Tampa at 3:55 — collect the rental and point it toward St Pete."
     },
     {
       "time": "Evening",
-      "line": "First night back in Florida before Tuesday's pickup — settle in and confirm the car and tonight's room."
+      "line": "First night back in Florida, kids-free until Tuesday's pickup — an easy landing before the Orlando run."
     }
   ],
   "japanese": {
