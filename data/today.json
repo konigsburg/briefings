@@ -1,50 +1,52 @@
 {
   "date": "Sunday, September 20, 2026",
   "generatedAt": "Morning brief · 7:02 AM ET",
-  "theme": "Last open day in Croatia before the flight home.",
-  "greeting": "A free day in Cavtat, Dan - the sailing week is behind you and the girls are with Jen this stretch, so today is genuinely yours. The one thing worth doing before you rest: lock the two Florida bookings that bite the moment you land tomorrow.",
+  "theme": "Home from Croatia.",
+  "greeting": "Welcome back stateside, Dan — you land in Tampa this afternoon after the sail. Two bookings want closing before wheels-down; after that the day, and the house, stay quiet until Tuesday.",
   "needsAttention": [
     {
-      "tag": "Book before landing",
-      "title": "Two nights in St Pete, still unbooked",
-      "detail": "You land Tampa tomorrow afternoon, but the nights of the 20th and 21st have no room yet and the kids aren't picked up until Tuesday. On the Mike + Dan board, p1, overdue since Aug 25."
+      "tag": "Book today",
+      "title": "Rental car before you land",
+      "detail": "You touch down at TPA around 3:55 PM — get the full-size SUV for Sept 20–Oct 5 booked outright now, not as a jet-lagged Sunday walk-up. It carries all six and covers the Orlando drive."
     },
     {
-      "tag": "Book before landing",
-      "title": "No rental car for the Tampa landing",
-      "detail": "The Sept 20 - Oct 5 full-size SUV is decided but not booked; arriving at 3:55 PM Sunday without one means walk-up rates, jet-lagged, on a Sunday. Mike + Dan board, p1, overdue since Sept 9."
-    },
-    {
-      "tag": "Window closing",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early - book it refundable now, adjust dates later. Mike + Dan board, p1, overdue since Sept 14."
+      "tag": "Book today",
+      "title": "A bed in St. Pete tonight",
+      "detail": "The Sept 20–22 gap before Tuesday's pickup still has no lodging. Sort tonight and tomorrow, and confirm the Sept 27–Oct 5 St Pete rental actually converted from pending."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "title": "Sunday review with Mike",
+      "detail": "15-min board cleanup on Meet — overlaps your flight home",
+      "tag": "sync"
+    },
+    {
+      "time": "3:55 PM",
+      "title": "Land in Tampa",
+      "detail": "Home from Croatia via Frankfurt",
+      "tag": "travel"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Venmo request from Joshua Weaver",
-        "detail": "He requested $50 for mowing on 9/17 - a quick approve once you're back online."
+        "tag": "Job search",
+        "title": "New VP, Government Affairs matches",
+        "detail": "LinkedIn's job alert surfaced roles near the Macy's VP, Government Affairs posting — worth a scan once you're back online."
       }
     ],
-    "noise": "Otherwise it's newsletters, travel receipts, and subscription renewals - nothing that needs you.",
-    "clear": "No one is waiting on a reply."
+    "noise": "The rest is newsletters, travel confirmations, and a Todoist digest — nothing awaiting your reply.",
+    "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Sorted",
-      "title": "Ride home is booked",
-      "detail": "Uber confirmed a 5:35 AM pickup from the hotel for tomorrow's early flight."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Cavtat, Croatia",
+    "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Sat Sep 19"
+    "asOf": "Sunday Sep 20"
   },
   "recipe": {
     "title": "Ginger spice cake with dried cherries",
@@ -54,14 +56,20 @@
   "tasks": [
     {
       "title": "Grocery stop before the Orlando villa",
-      "project": "Mike + Dan - Board",
-      "due": "Sep 20",
+      "project": "Travel",
+      "due": "Due today",
       "overdue": false
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Book Maine Christmas rental (PWM, full-size SUV)",
+      "project": "Travel",
+      "due": "Overdue Sep 14",
+      "overdue": true
+    },
+    {
+      "title": "Orlando + Disney tickets for Sept 26–27",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -73,15 +81,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "You disembarked the charter and rode into Cavtat this morning - the sailing week is behind you."
+      "line": "You're somewhere over the Atlantic, Frankfurt to Tampa — the 9 AM review with Mike lands while you're still in the air."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar - a rare open stretch and the last of the Adriatic before you fly."
+      "line": "Wheels down at Tampa around 3:55; the car and tonight's bed are the two things worth having booked before then."
     },
     {
       "time": "Evening",
-      "line": "An early night ahead: the airport pickup is set for 5:35 AM for the flight home to Tampa."
+      "line": "First night back in St. Pete, and the girls aren't picked up until Tuesday — the evening is quiet and yours."
     }
   ],
   "japanese": {
