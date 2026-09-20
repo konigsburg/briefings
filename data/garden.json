@@ -1,38 +1,38 @@
 {
-  "date": "Sun, Sep 13",
+  "date": "Sun, Sep 20",
   "region": "NH Seacoast · zone 6a",
-  "generatedAt": "Weekly · Sep 13",
-  "headline": "Get your last fall greens sown this week — the window closes before mid-October frost.",
+  "generatedAt": "Weekly · Sep 20",
+  "headline": "Sow cover crops and your last cold-hardy greens now — the fall planting window closes within days.",
   "tasks": [
     {
       "tag": "Sow now",
-      "title": "Last-call fall greens",
-      "detail": "Direct-sow quick, cold-hardy crops now: spinach, arugula, radishes, leaf lettuce and mustard. With first frost ~4 weeks out, these still have time to mature, and spinach sown now can overwinter under cover for an early spring cut."
+      "title": "Cover crops & last greens",
+      "detail": "Sow winter rye or oats over empty beds to protect and feed the soil over winter. You can still direct-sow spinach, arugula, and mâche for an overwintered spring crop if you tuck them under row cover."
+    },
+    {
+      "tag": "Prep",
+      "title": "Frost watch — keep covers handy",
+      "detail": "First frost can reach the Seacoast from late September into mid-October. Keep row cover or old bedsheets ready to throw over tomatoes, peppers, and basil on clear, still nights near or below freezing."
     },
     {
       "tag": "Harvest",
-      "title": "Keep picking, and bring in winter squash",
-      "detail": "Harvest tomatoes, peppers, beans and summer squash regularly to keep plants producing. Pick winter squash and pumpkins once the rind is hard enough that a thumbnail won't dent it, leaving a bit of stem attached."
+      "title": "Winter squash & tender crops",
+      "detail": "Pick and cure winter squash and pumpkins before frost, and keep harvesting tomatoes, beans, and peppers. Any green tomatoes will finish ripening indoors on a warm windowsill."
     },
     {
-      "tag": "Prune",
-      "title": "Pinch tomatoes to ripen what's on",
-      "detail": "Snip off new flowers and pea-sized fruit that won't ripen before frost. This redirects the plant's energy into finishing the fruit already set."
+      "tag": "Prep",
+      "title": "Garlic bed & spring bulbs",
+      "detail": "Work compost into a bed now for garlic, which goes in mid-October to early November. This is also prime time to start planting daffodil and tulip bulbs for spring."
+    },
+    {
+      "tag": "Water",
+      "title": "Deep fall watering",
+      "detail": "Fall spells can be dry. Water perennials, shrubs, and any new fall plantings deeply so their roots head into winter well-hydrated — keep it up until the ground freezes."
     },
     {
       "tag": "Pest watch",
-      "title": "Late blight & powdery mildew",
-      "detail": "Cool, damp nights fuel fungal disease. Watch tomatoes for late blight (brown blotches, white fuzz) and squash/cukes for powdery mildew. Remove affected leaves and trash them — don't compost."
-    },
-    {
-      "tag": "Prep",
-      "title": "Stage your frost protection",
-      "detail": "Have row cover or frost cloth ready now so a surprise early cold snap doesn't catch you off guard. First frost on the Seacoast typically lands mid-October, but it can arrive sooner some years."
-    },
-    {
-      "tag": "Prep",
-      "title": "Ready beds for October garlic",
-      "detail": "Clear and amend a bed with compost now so it's set for planting garlic next month. As beds empty out, sow a cover crop like winter rye or mulch bare soil to protect it over winter."
+      "title": "Clean up disease",
+      "detail": "Remove and trash — do not compost — any foliage showing late blight or powdery mildew. Clearing it now cuts down the spores that overwinter and hit next year's crop."
     }
   ]
 }
