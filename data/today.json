@@ -1,31 +1,31 @@
 {
   "date": "Sunday, September 20, 2026",
   "generatedAt": "Morning brief · 10:02 AM ET",
-  "theme": "Home from Croatia.",
-  "greeting": "Welcome back stateside, Dan — you land in Tampa this afternoon after the sail. Two bookings want closing before wheels-down; after that the day, and the house, stay quiet until Tuesday.",
+  "theme": "Travel day — home from Croatia.",
+  "greeting": "You fly home today, Dan: Dubrovnik behind you, Tampa by late afternoon. The two things worth nailing down before you land are a car and a bed for tonight.",
   "needsAttention": [
     {
       "tag": "Book today",
-      "title": "Rental car before you land",
-      "detail": "You touch down at TPA around 3:55 PM — get the full-size SUV for Sept 20–Oct 5 booked outright now, not as a jet-lagged Sunday walk-up. It carries all six and covers the Orlando drive."
+      "title": "A rental car for the landing",
+      "detail": "You touch down at Tampa around 3:55 PM, and the Sept 20 – Oct 5 full-size SUV is still marked open in Todoist. If it isn't booked before you're on the ground, it's walk-up rates on a Sunday."
     },
     {
-      "tag": "Book today",
-      "title": "A bed in St. Pete tonight",
-      "detail": "The Sept 20–22 gap before Tuesday's pickup still has no lodging. Sort tonight and tomorrow, and confirm the Sept 27–Oct 5 St Pete rental actually converted from pending."
+      "tag": "Tonight's bed",
+      "title": "Where you sleep tonight in St. Pete",
+      "detail": "The Sept 20–21 landing-gap lodging is still flagged open in Todoist. The girls aren't picked up until Tuesday, so tonight and tomorrow night both need a room near St. Pete before the Orlando villa starts."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board cleanup on Meet — overlaps your flight home",
+      "detail": "Your 15-min board sweep on Meet — but it overlaps your transatlantic leg, so you may be in the air.",
       "tag": "sync"
     },
     {
       "time": "3:55 PM",
       "title": "Land in Tampa",
-      "detail": "Home from Croatia via Frankfurt",
+      "detail": "FRA to TPA, gate C14 — the Croatia trip closed out and back on Florida ground.",
       "tag": "travel"
     }
   ],
@@ -33,11 +33,21 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "New VP, Government Affairs matches",
-        "detail": "LinkedIn's job alert surfaced roles near the Macy's VP, Government Affairs posting — worth a scan once you're back online."
+        "title": "Public-policy roles in your LinkedIn alert",
+        "detail": "LinkedIn pushed an SVP, Global Public Policy alert and similar roles this morning — worth a scan once you land."
+      },
+      {
+        "tag": "Financial",
+        "title": "Venmo request from Joshua Weaver",
+        "detail": "$50 for mowing (9-17-26) is sitting unpaid in Venmo."
+      },
+      {
+        "tag": "FYI",
+        "title": "No milk delivery this Friday",
+        "detail": "The Maine Milkman is off Fri Sept 25; deliveries resume Oct 2."
       }
     ],
-    "noise": "The rest is newsletters, travel confirmations, and a Todoist digest — nothing awaiting your reply.",
+    "noise": "The rest is promotions and newsletters — Indochino, NYT Cooking, FT, Dermstore, a stack of shop sales.",
     "clear": ""
   },
   "resolved": [],
@@ -55,21 +65,27 @@
   },
   "tasks": [
     {
-      "title": "Grocery stop before the Orlando villa",
-      "project": "Travel",
-      "due": "Due today",
-      "overdue": false
-    },
-    {
-      "title": "Book Maine Christmas rental (PWM, full-size SUV)",
-      "project": "Travel",
+      "title": "Book Maine Christmas rental (full-size SUV, PWM)",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 14",
       "overdue": true
     },
     {
-      "title": "Orlando + Disney tickets for Sept 26–27",
-      "project": "Travel",
+      "title": "Sort Disney park tickets for Sept 26–27",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Plan a grocery stop before the Orlando villa",
+      "project": "Dan & Mike Stuff",
+      "due": "Due today",
+      "overdue": false
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -81,15 +97,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "You're somewhere over the Atlantic, Frankfurt to Tampa — the 9 AM review with Mike lands while you're still in the air."
+      "line": "Over the Atlantic after the Dubrovnik red-eye; the 9 AM board sweep with Mike lands mid-flight."
     },
     {
       "time": "Afternoon",
-      "line": "Wheels down at Tampa around 3:55; the car and tonight's bed are the two things worth having booked before then."
+      "line": "Wheels down at Tampa just before four, then the drive into St. Pete."
     },
     {
       "time": "Evening",
-      "line": "First night back in St. Pete, and the girls aren't picked up until Tuesday — the evening is quiet and yours."
+      "line": "First night back in Florida before Tuesday's pickup — settle in and confirm the car and tonight's room."
     }
   ],
   "japanese": {
