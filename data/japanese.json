@@ -1,88 +1,83 @@
 {
-  "lessonNo": 232,
-  "date": "Thursday, Sep 10",
-  "generatedAt": "Lesson #232 · Sep 10",
-  "theme": "Giving & receiving — あげる・くれる・もらう (which direction the gift flows)",
-  "intro": "Japanese picks the verb by who the gift moves toward — perfect for souvenirs and gifts on your travels.",
+  "lessonNo": 233,
+  "date": "Monday, Sep 21",
+  "generatedAt": "Lesson #233 · Sep 21",
+  "theme": "Three て-form helper verbs — ～ておく (in advance), ～てしまう (oops / all done), ～てみる (give it a try)",
+  "intro": "Once you know the て-form, bolt on these three helpers to add a shade of meaning — preparation, completion, or a low-pressure try.",
   "grammar": {
-    "title": "Giving & receiving: あげる・くれる・もらう",
+    "title": "Three て-form helpers",
     "rules": [
       {
-        "label": "あげる (ageru) — give outward",
-        "detail": "I→someone, or someone→someone else; never TO me. Giver は/が, receiver に.",
+        "label": "～ておく",
+        "detail": "do something in advance / leave it set up and ready; casual → ～とく",
         "examples": [
-          "友だちに おみやげを あげました → tomodachi ni omiyage o agemashita (I gave my friend a souvenir)"
+          "予約する → 予約しておく (book it ahead of time)"
         ]
       },
       {
-        "label": "くれる (kureru) — give toward me",
-        "detail": "Receiver is me / my in-group; 私に is usually dropped. Giver は/が, receiver に.",
+        "label": "～てしまう",
+        "detail": "finish completely, or do it by accident / regrettably; casual → ～ちゃう／～じゃう",
         "examples": [
-          "姉が 私に 本を くれました → ane ga watashi ni hon o kuremashita (My sister gave me a book)"
+          "食べる → 食べてしまう (eat it all up / eat it, oops)"
         ]
       },
       {
-        "label": "もらう (morau) — receive",
-        "detail": "Receiver is the topic; giver marked に or から.",
+        "label": "～てみる",
+        "detail": "try doing something to see how it goes; conjugates like the verb みる",
         "examples": [
-          "田中さんに チョコを もらいました → Tanaka-san ni choko o moraimashita (I got chocolate from Mr. Tanaka)"
+          "食べる → 食べてみる (try eating it)"
         ]
       }
     ],
-    "bigPoint": "If the gift lands on YOU or your side, it must be くれる, never あげる. もらう tells the same event from the receiver's side."
+    "bigPoint": "All three attach to the て-form you already drill — the て-form does the heavy lifting; just add the helper."
   },
   "vocab": [
     {
-      "jp": "あげる",
-      "romaji": "ageru",
-      "en": "to give (to others)"
+      "jp": "予約する（よやくする）",
+      "romaji": "yoyaku suru",
+      "en": "to reserve, book"
     },
     {
-      "jp": "くれる",
-      "romaji": "kureru",
-      "en": "to give (to me / my side)"
+      "jp": "準備する（じゅんびする）",
+      "romaji": "junbi suru",
+      "en": "to prepare, get ready"
     },
     {
-      "jp": "もらう",
-      "romaji": "morau",
-      "en": "to receive"
+      "jp": "調べる（しらべる）",
+      "romaji": "shiraberu",
+      "en": "to look up, check"
     },
     {
-      "jp": "プレゼント",
-      "romaji": "purezento",
-      "en": "present, gift"
+      "jp": "注文する（ちゅうもんする）",
+      "romaji": "chuumon suru",
+      "en": "to order (food, goods)"
     },
     {
-      "jp": "おみやげ",
-      "romaji": "omiyage",
-      "en": "souvenir"
-    },
-    {
-      "jp": "友だち",
-      "romaji": "tomodachi",
-      "en": "friend"
+      "jp": "忘れる（わすれる）",
+      "romaji": "wasureru",
+      "en": "to forget, leave behind"
     }
   ],
   "examples": [
     {
-      "jp": "友だちに おみやげを あげました。",
-      "romaji": "Tomodachi ni omiyage o agemashita.",
-      "en": "I gave my friend a souvenir."
+      "jp": "ホテルを予約しておきました。",
+      "romaji": "Hoteru o yoyaku shite okimashita.",
+      "en": "I booked the hotel in advance."
     },
     {
-      "jp": "姉が 私に 本を くれました。",
-      "romaji": "Ane ga watashi ni hon o kuremashita.",
-      "en": "My older sister gave me a book."
+      "jp": "新しいラーメン屋で注文してみます。",
+      "romaji": "Atarashii raamen-ya de chuumon shite mimasu.",
+      "en": "I'll try ordering at the new ramen place."
     },
     {
-      "jp": "田中さんに チョコを もらいました。",
-      "romaji": "Tanaka-san ni choko o moraimashita.",
-      "en": "I got chocolate from Mr. Tanaka."
+      "jp": "電車に傘を忘れてしまいました。",
+      "romaji": "Densha ni kasa o wasurete shimaimashita.",
+      "en": "I unfortunately left my umbrella on the train."
     }
   ],
-  "note": "The trap is あげる vs くれる — both are 'give' in English, but Japanese forces you to mark direction. If the gift comes toward you or your side, use くれる (the 私に is usually dropped). もらう flips the camera onto the receiver: same event as くれる, told as 'I received' instead of 'they gave.' Handy travel line: これ、おみやげです。どうぞ。",
+  "note": "～ておく = preparation ('get it done ahead'); ～てしまう = completion or an 'oops'; ～てみる = a low-pressure 'let me try'. In speech you'll hear the contractions constantly: 調べとくね (I'll look it up), やっちゃった! (oops, I did it!).",
   "selfCheck": {
-    "q": "Your friend gave YOU a present. Fill in the blank: 友だちが プレゼントを ______ました。(あげ or くれ?)",
-    "a": "くれました。The present came toward you, so use くれる, not あげる. You could also flip it: 友だちに プレゼントを もらいました。(I got a present from my friend.)"
+    "q": "How would you say 'I want to try looking it up'? (Build it from 調べる + ～てみる + ～たい.)",
+    "a": "調べてみたいです。(Shirabete mitai desu.) — 調べる → 調べて, add みる → みたい: 調べて + みたい + です."
   }
 }
