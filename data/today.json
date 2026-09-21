@@ -1,23 +1,23 @@
 {
   "date": "Monday, September 21, 2026",
-  "generatedAt": "Morning brief · 12:07 PM ET",
-  "theme": "An open day, then the girls arrive.",
-  "greeting": "Nothing on the calendar today, Dan — a rare clear stretch back home in St. Pete after Croatia. The girls come over tomorrow afternoon, so today is the window to close out the last travel bookings before the shuffle starts.",
+  "generatedAt": "Morning brief · 12:10 PM ET",
+  "theme": "Back on dry land — an open day in St. Pete",
+  "greeting": "You're back on Florida ground after the Croatia charter, Dan, and the calendar is empty. A rare open Monday before Tuesday's pickup and the Orlando run kick everything back into gear.",
   "needsAttention": [
     {
-      "tag": "Tonight's lodging",
-      "title": "Close out the St. Pete gap",
-      "detail": "The Sept 20-22 St. Pete stay is still marked open on the Mike + Dan board even though you've already landed — worth confirming where you're staying tonight before Tuesday's Orlando villa. Flagged p1, sitting since Aug 25."
+      "tag": "Tomorrow prep",
+      "title": "Pickup at 3, then the Orlando drive",
+      "detail": "Tomorrow the girls get picked up at 3 PM and it's roughly two hours on to the Royal Palms villa. The Sept 20–Oct 5 rental car and a grocery stop both feed into that day, so worth firming the sequence today."
     },
     {
-      "tag": "Rental car",
-      "title": "Full-size SUV out of TPA",
-      "detail": "The Sept 20-Oct 5 SUV was marked book-it-outright and you're on the ground now — if it isn't booked, tomorrow's 3 PM pickup and the Orlando drive have no vehicle for six. p1, open since Sept 9."
+      "tag": "Tonight lodging",
+      "title": "A St Pete bed for the landing gap",
+      "detail": "The Sept 20–22 gap before pickup is still open in Todoist as a p1 — you're in St Pete now and need somewhere for tonight."
     },
     {
-      "tag": "Books up fast",
-      "title": "Maine Christmas SUV, Portland",
-      "detail": "A full-size SUV out of Portland over Christmas week is the tightest rental in that market and sells out early; the board says book it refundable this week. p1, overdue since Sept 14."
+      "tag": "Overdue p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "The refundable full-size SUV out of Portland is a week overdue in Todoist. Holiday inventory in that market sells out, so a refundable hold now costs nothing and closes the risk."
     }
   ],
   "schedule": [],
@@ -25,11 +25,11 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two LinkedIn messages waiting",
-        "detail": "LinkedIn flags two messages awaiting your reply, one from Claudia — worth a glance given the board search."
+        "title": "LinkedIn messages waiting",
+        "detail": "Two LinkedIn messages are flagged as awaiting your reply, including one from Claudia — worth a glance given the active search."
       }
     ],
-    "noise": "Everything else is newsletters and promos — JetBlue, NYPL, the cooking Substacks, and your Italian and Japanese dailies.",
+    "noise": "Everything else is newsletters and promotions — NYT Cooking, Responsible Investor, sailing and language digests, a few retail and travel offers.",
     "clear": ""
   },
   "resolved": [],
@@ -37,7 +37,7 @@
     "kids": false,
     "phase": "green",
     "location": "St. Petersburg, FL",
-    "confidence": "low",
+    "confidence": "high",
     "asOf": "Monday Sep 21"
   },
   "recipe": {
@@ -47,15 +47,27 @@
   },
   "tasks": [
     {
-      "title": "Grocery stop before the Orlando villa",
-      "project": "Mike + Dan",
-      "due": "Due Sep 20",
+      "title": "Confirm the Sept 20–Oct 5 rental car",
+      "project": "Travel",
+      "due": "Overdue Sept 9",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Buy Disney tickets for Sept 26–27",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Reschedule the kids' passport appointment",
+      "project": "Travel",
+      "due": "Due today",
+      "overdue": false
+    },
+    {
+      "title": "Plan the grocery stop before the Orlando villa",
+      "project": "Travel",
+      "due": "Overdue Sept 20",
       "overdue": true
     }
   ],
@@ -67,15 +79,18 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar's empty — your first still morning since flying back from Croatia."
+      "line": "First full day back on Florida ground after the charter, with nothing on the calendar.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "Wide open through the afternoon, with nowhere you have to be."
+      "line": "A genuinely open stretch — the only real pull is squaring away tomorrow's logistics.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "A quiet last evening before the girls come over tomorrow at three."
+      "line": "Quiet ahead of a busy Tuesday, so an easy evening to reset.",
+      "tag": "calm"
     }
   ],
   "japanese": {
