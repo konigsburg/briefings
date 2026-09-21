@@ -1,65 +1,54 @@
 {
   "date": "Sunday, September 20, 2026",
   "generatedAt": "Morning brief · 10:02 PM ET",
-  "theme": "Wheels down in Florida.",
-  "greeting": "Welcome back to solid ground, Dan. The Croatia charter is behind you and you touch down in Tampa by late afternoon; the girls aren't back until Tuesday, so tonight is for landing, not doing.",
+  "theme": "Home from Croatia; the Florida stretch begins.",
+  "greeting": "You're back on the ground in Tampa after the long haul from Cavtat, Dan. The girls are with Jen until Tuesday's pickup, so tonight and tomorrow are a quiet runway before the Orlando run.",
   "needsAttention": [
     {
-      "tag": "Reply owed",
-      "title": "Reply to the Brunswick recruiter intro",
-      "detail": "Lauren connected you with Erika, who leads senior recruitment at Brunswick and already has your resume; she left it to the two of you to find a time, so a note back to set one up is the move. This is a warm job-search thread, not a cold one."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV",
+      "detail": "Full-size SUV out of Portland for Christmas week, booked refundable — it's the only six-seater up north once the Pathfinder heads south, and holiday inventory in Portland sells out. On the board since Sep 14."
     },
     {
-      "tag": "Book today",
-      "title": "Rental car waiting at Tampa",
-      "detail": "Your travel list flags the Sept 20-Oct 5 full-size SUV as book-it-outright and it is weeks overdue. You just landed at TPA and shouldn't be facing walk-up rates jet-lagged on a Sunday."
+      "tag": "Orlando run",
+      "title": "Car for the Florida stretch",
+      "detail": "The Sept 20–Oct 5 full-size SUV has to carry all six to Orlando on Tuesday — worth confirming it's locked through Oct 5, not just a walk-up from the airport."
     },
     {
-      "tag": "Two nights open",
-      "title": "Where you sleep tonight and tomorrow",
-      "detail": "The Sept 20-22 St Pete gap is still open on your travel list, overdue since Aug 25. The kids aren't picked up until Tuesday, so you need a bed for tonight and tomorrow before the Orlando villa starts."
+      "tag": "Verify booking",
+      "title": "St Pete Airbnb, Sept 27–Oct 5",
+      "detail": "The 8-night St Pete stay was charged Sept 18 pending the host's confirmation — a glance to make sure it converted rather than quietly expiring."
     }
   ],
   "schedule": [
     {
       "time": "1:30 AM",
       "title": "Dubrovnik to Frankfurt",
-      "detail": "First leg of the trip home",
+      "detail": "LH4297, the first leg home",
       "tag": "travel"
     },
     {
       "time": "5:30 AM",
       "title": "Frankfurt to Tampa",
-      "detail": "Long-haul back to Florida",
+      "detail": "Lands TPA 3:55 PM",
       "tag": "travel"
     },
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "Standing 15-minute board reset",
-      "tag": "meeting"
-    },
-    {
-      "time": "3:55 PM",
-      "title": "Land at Tampa",
-      "detail": "Back on Florida ground",
-      "tag": "travel"
+      "detail": "The 15-minute board sweep",
+      "tag": "sync"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Brunswick recruitment intro",
-        "detail": "Lauren Nadig connected you with Erika Maass to talk senior roles."
-      },
-      {
-        "tag": "Financial",
-        "title": "Venmo request from Joshua Weaver",
-        "detail": "$50 for mowing on the 17th, awaiting payment."
+        "tag": "FYI",
+        "title": "Independent Managers Club thread",
+        "detail": "Chie Mitsui replied on the governance thread you're cc'd on — Fincity will prep questions for the Mercer/Marsh intro call. Nothing owed from you."
       }
     ],
-    "noise": "The rest is newsletters: the FT, Noah Smith, two Byron Talbott dessert recipes, Daily Italian Words, and an NYPL events roundup.",
+    "noise": "Around two dozen unread — NYT Cooking, WSJ, Substacks, St Pete local digests, and travel and payment receipts.",
     "clear": ""
   },
   "resolved": [],
@@ -77,28 +66,22 @@
   },
   "tasks": [
     {
-      "title": "Book the Maine Christmas SUV rental, refundable, out of Portland",
-      "project": "Travel",
-      "due": "Overdue Sep 14",
+      "title": "Disney tickets for all six",
+      "project": "Family logistics",
+      "due": "For Sept 26–27",
       "overdue": true
     },
     {
-      "title": "Plan the grocery stop before the Orlando villa",
-      "project": "Travel",
-      "due": "Due today",
-      "overdue": false
-    },
-    {
-      "title": "Reschedule the four-kids passport appointment",
-      "project": "Travel",
+      "title": "Passport packet + reschedule the kids' appt",
+      "project": "Family logistics",
       "due": "Due Sep 21",
       "overdue": false
     },
     {
-      "title": "Buy Disney park tickets for the six of you",
-      "project": "Travel",
-      "due": "Overdue Aug 28",
-      "overdue": true
+      "title": "Grocery stop en route to the Orlando villa",
+      "project": "Family logistics",
+      "due": "For Tue Sep 22",
+      "overdue": false
     }
   ],
   "routines": {
@@ -108,16 +91,16 @@
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "A red-eye through Frankfurt carries you home while the standing 15-minute review with Mike sits at nine."
+      "time": "Overnight",
+      "line": "Two flights carry you from Cavtat through Frankfurt and across the Atlantic."
     },
     {
-      "time": "Afternoon",
-      "line": "Wheels down at Tampa at 3:55, back on Florida ground after the week on the water."
+      "time": "3:55 PM",
+      "line": "Wheels down in Tampa, and the Florida stretch takes over from Croatia."
     },
     {
       "time": "Evening",
-      "line": "Nothing else on the calendar; the girls come back Tuesday, so the night is yours to reset."
+      "line": "A quiet first night back in St Pete, with the girls not up until Tuesday."
     }
   ],
   "japanese": {
