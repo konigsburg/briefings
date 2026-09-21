@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-21",
+    "kind": "Morning brief",
+    "label": "Monday, Sep 21 · 7:17 AM ET",
+    "summary": "An open day back in St Pete to lock down lodging, the car, and the passport reschedule before Tuesday's kid pickup.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-20",
     "kind": "Morning brief",
     "label": "Sunday, Sep 20 · 10:02 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Sunday, Aug 23 · 10:07 PM ET",
     "summary": "A light Sunday, board review and Misi dinner behind you, with tomorrow's neurology appointment and evening flight to Florida ahead.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-08-22",
-    "kind": "Morning brief",
-    "label": "Saturday, Aug 22 · 10:06 PM ET",
-    "summary": "An open Saturday with the girls at Jen's; travel to NYC and the passport-packet deadline loom, with the Sunday review at 9 AM tomorrow.",
     "ref": "today"
   }
 ]
