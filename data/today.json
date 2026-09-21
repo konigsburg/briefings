@@ -1,23 +1,33 @@
 {
   "date": "Monday, September 21, 2026",
   "generatedAt": "Morning brief · 2:02 PM ET",
-  "theme": "Back on dry land — an open day in St. Pete",
-  "greeting": "You're back on Florida ground after the Croatia charter, Dan, and the calendar is empty. A rare open Monday before Tuesday's pickup and the Orlando run kick everything back into gear.",
+  "theme": "An open day to lock the trip down before the girls arrive.",
+  "greeting": "You're back on the ground in St. Pete, Dan, and the calendar is wide open. One clear day to settle the last logistics before the household grows by four tomorrow.",
   "needsAttention": [
     {
-      "tag": "Tomorrow prep",
-      "title": "Pickup at 3, then the Orlando drive",
-      "detail": "Tomorrow the girls get picked up at 3 PM and it's roughly two hours on to the Royal Palms villa. The Sept 20–Oct 5 rental car and a grocery stop both feed into that day, so worth firming the sequence today."
+      "tag": "Tonight",
+      "title": "St. Pete bed for tonight",
+      "detail": "You landed TPA yesterday and the Sept 20-22 landing-gap lodging still shows open in Todoist. You need somewhere in the St. Pete area for tonight before Tuesday's 3pm pickup."
     },
     {
-      "tag": "Tonight lodging",
-      "title": "A St Pete bed for the landing gap",
-      "detail": "The Sept 20–22 gap before pickup is still open in Todoist as a p1 — you're in St Pete now and need somewhere for tonight."
+      "tag": "On the ground",
+      "title": "Full-size SUV rental",
+      "detail": "The Sept 20-Oct 5 SUV out of TPA is a p1 still marked open. Tuesday's pickup and the Orlando drive both ride on it, and you're already here."
     },
     {
-      "tag": "Overdue p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "The refundable full-size SUV out of Portland is a week overdue in Todoist. Holiday inventory in that market sells out, so a refundable hold now costs nothing and closes the risk."
+      "tag": "Due today",
+      "title": "Kids' passport packet and appt",
+      "detail": "The passport task is due today: reschedule the four-kid appointment for after the return, and close the packet -- DS-11s printed but unsigned, birth-certificate copies, and a State Dept check (~$400, no cards)."
+    },
+    {
+      "tag": "Prep for tomorrow",
+      "title": "Pickup, Orlando, groceries",
+      "detail": "The girls come to you and Mike tomorrow at 3pm, then the drive to Marriott Royal Palms in Orlando. Slot a grocery stop en route so the villa kitchen gets used."
+    },
+    {
+      "tag": "This weekend",
+      "title": "Disney tickets for six",
+      "detail": "The Orlando weekend is set except the tickets. Confirm park-reservation rules and check whether a Magic Kingdom Halloween party night changes which park you do."
     }
   ],
   "schedule": [],
@@ -25,11 +35,26 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn messages waiting",
-        "detail": "Two LinkedIn messages are flagged as awaiting your reply, including one from Claudia — worth a glance given the active search."
+        "title": "LinkedIn messages awaiting reply",
+        "detail": "Two LinkedIn messages are waiting on you -- worth a look given you're actively networking for board seats."
+      },
+      {
+        "tag": "Financial",
+        "title": "Venmo: $1,300 to Paul Singer",
+        "detail": "The Croatia sailing charter payment cleared this afternoon. Confirmation only, nothing to do."
+      },
+      {
+        "tag": "FYI",
+        "title": "Bahamas catch-and-cook flotilla",
+        "detail": "Mike looped in Nautilus's Fede about a Catch, Clean & Cook flotilla in the Bahamas; you're cc'd, no reply needed yet."
+      },
+      {
+        "tag": "FYI",
+        "title": "Independent Managers Club intros",
+        "detail": "Lubrano and Chie Mitsui are lining up placement-agent and Mercer introductions; you're cc'd on the thread."
       }
     ],
-    "noise": "Everything else is newsletters and promotions — NYT Cooking, Responsible Investor, sailing and language digests, a few retail and travel offers.",
+    "noise": "The rest is newsletters and retail -- NYT Cooking, Hilton, Chairish, Folio, and the Maine and St. Pete locals.",
     "clear": ""
   },
   "resolved": [],
@@ -47,27 +72,21 @@
   },
   "tasks": [
     {
-      "title": "Confirm the Sept 20–Oct 5 rental car",
+      "title": "Book Maine Christmas SUV rental (PWM)",
       "project": "Travel",
-      "due": "Overdue Sept 9",
+      "due": "Overdue Sep 14",
       "overdue": true
     },
     {
-      "title": "Buy Disney tickets for Sept 26–27",
+      "title": "Call dermatologist to book wart removal",
       "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Reschedule the kids' passport appointment",
-      "project": "Travel",
-      "due": "Due today",
-      "overdue": false
-    },
-    {
-      "title": "Plan the grocery stop before the Orlando villa",
-      "project": "Travel",
-      "due": "Overdue Sept 20",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -79,18 +98,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "First full day back on Florida ground after the charter, with nothing on the calendar.",
-      "tag": "open"
+      "line": "Nothing on the calendar -- the morning is yours before the pace picks up."
     },
     {
       "time": "Afternoon",
-      "line": "A genuinely open stretch — the only real pull is squaring away tomorrow's logistics.",
-      "tag": "open"
+      "line": "Still wide open, a clear stretch for the bookings that have been waiting."
     },
     {
       "time": "Evening",
-      "line": "Quiet ahead of a busy Tuesday, so an easy evening to reset.",
-      "tag": "calm"
+      "line": "A quiet last night before a fuller house tomorrow."
     }
   ],
   "japanese": {
