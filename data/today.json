@@ -1,100 +1,93 @@
 {
   "date": "Monday, September 21, 2026",
-  "generatedAt": "Morning brief · 8:14 AM ET",
-  "theme": "An open day to land travel logistics before the girls arrive tomorrow.",
-  "greeting": "You're back on the ground in St Pete, Dan, with a clear calendar — a good runway to lock down tonight's room and the car before Tuesday's pickup.",
+  "generatedAt": "Morning brief · 8:15 AM ET",
+  "theme": "Your last clear day before the girls arrive tomorrow.",
+  "greeting": "First full day back in St. Petersburg after the Croatia charter, Dan — the calendar is empty and the girls come tomorrow at 3, so today is the runway to get ahead of the Orlando trip.",
   "needsAttention": [
     {
-      "tag": "Job search",
-      "title": "Erika at Brunswick is waiting to talk",
-      "detail": "Lauren Nadig connected you with Erika Maass, who leads senior recruitment at Brunswick and already has your resume; it's on you two to find a time, and the intro's been sitting since Thursday while you were sailing."
+      "tag": "Family · today",
+      "title": "The girls' passports",
+      "detail": "The four passport appointments need rescheduling now that you're home, and the packet is still to assemble — due today on the family travel list, and the December trip depends on it."
     },
     {
-      "tag": "Booking window",
-      "title": "Nowhere booked for tonight in St Pete",
-      "detail": "You landed TPA yesterday and the Sept 20–22 landing gap still shows no lodging booked — tonight's the second of those two nights before Tuesday's 3 PM kid pickup."
+      "tag": "Family · this week",
+      "title": "Disney tickets for the weekend",
+      "detail": "Tickets for the six of you are the last open item for the Sept 26–27 Disney weekend; buy them before then and check whether your ticket type needs park reservations."
     },
     {
-      "tag": "Book today",
-      "title": "The Sept 20–Oct 5 SUV isn't booked",
-      "detail": "A full-size SUV out of TPA needs to be in hand before you drive to the Orlando villa Tuesday; walking up jet-lagged with four kids and no car is the thing to avoid."
-    },
-    {
-      "tag": "Due today",
-      "title": "Passport appointment still needs rescheduling",
-      "detail": "The four-kid passport appointment was set to be rebooked after your Sept 20 return; it's flagged p1 and due today, and the signed packet and payments need to be ready before whatever date you land on."
+      "tag": "Travel · overdue",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "A full-size SUV out of Portland over Christmas sells out early; a refundable booking now costs nothing and closes the risk — it's a week overdue."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Placement-agent intros in motion",
-        "detail": "Mike Lubrano at Valoris says he'll ask fund-manager contacts to recommend a placement agent for you; you're cc'd and nothing's owed yet."
-      },
-      {
         "tag": "Financial",
-        "title": "Venmo request — $50 for mowing",
-        "detail": "Joshua Weaver requested $50 for the 9/17 mow."
+        "title": "Tampa Gardens statement",
+        "detail": "This month's statement for your mother's care posted this morning; payment is due at the office by the 5th."
       },
       {
         "tag": "FYI",
-        "title": "David Brooks talk shared from Maine",
-        "detail": "A friend forwarded a David Brooks talk from Yale — a read-when-you-have-a-moment, not a to-do."
+        "title": "Independent Managers Club thread",
+        "detail": "You're cc'd on the exchange between Chie Mitsui and Mike Lubrano — it's moving along and doesn't need a reply from you."
       }
     ],
-    "noise": "About a dozen newsletters and trip-review nudges — Responsible Investor, FT, the Italian word of the day, Kayak, LinkedIn.",
-    "clear": "Nothing else is waiting on your reply this morning."
+    "noise": "The rest is retail promos and cooking newsletters — Byron Talbott's fall-pumpkin run, Field Company, The Company Store, a few language-learning nudges.",
+    "clear": "No security alerts and no real job-search mail — the \"still waiting for your response\" notes are just LinkedIn's automated pokes."
   },
   "resolved": [
-    {
-      "tag": "Trip done",
-      "title": "Home from the Croatia sailing course",
-      "detail": "You landed TPA yesterday; the Dubrovnik charter and all the Cavtat logistics are behind you."
-    }
+    "Croatia sailing charter wrapped — you landed back in St. Pete yesterday afternoon.",
+    "Yard work settled — $640 paid to Amanda yesterday."
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St Petersburg, FL",
+    "location": "St. Petersburg, FL",
     "confidence": "high",
     "asOf": "Monday Sep 21"
   },
   "recipe": {
     "title": "Roasted pumpkin soup",
     "book": "Canal House Cooks Every Day",
-    "why": "The first real week of autumn calls for something slow-roasted and golden — pumpkins and winter squash are hitting the markets now."
+    "why": "The first real week of autumn, and your first quiet evening home — a slow-roasted pot of squash is exactly the reset before a full house arrives tomorrow."
   },
   "tasks": [
     {
-      "title": "Book the Orlando + Disney tickets for Sept 26–27",
+      "title": "Reschedule the girls' passport appointment",
       "project": "Family Travel",
-      "due": "Overdue Aug 28",
-      "overdue": true
+      "due": "Today",
+      "overdue": false
     },
     {
-      "title": "Assemble and print the 4-kid passport packet",
+      "title": "Assemble the passport packet — 4 kids",
       "project": "Family Travel",
       "due": "Overdue Aug 26",
       "overdue": true
     },
     {
-      "title": "Book a refundable Maine Christmas SUV out of PWM",
+      "title": "Confirm the Sept 20–Oct 5 car rental",
       "project": "Family Travel",
-      "due": "Overdue Sep 14",
+      "due": "Overdue Sep 9",
       "overdue": true
     },
     {
-      "title": "Call the dermatologist to book the appointment",
+      "title": "Grocery run before the Orlando villa",
+      "project": "Family Travel",
+      "due": "For tomorrow's drive",
+      "overdue": true
+    },
+    {
+      "title": "Call the dermatologist for wart removal",
       "project": "Family Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Plan the grocery stop before the Orlando villa",
-      "project": "Family Travel",
-      "due": "Overdue Sep 20",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -118,7 +111,7 @@
     }
   ],
   "japanese": {
-    "lessonNo": 227,
-    "theme": "The ～たら conditional — saying \"if / when\""
+    "lessonNo": "233",
+    "theme": "Three て-form helpers — ～ておく / ～てしまう / ～てみる"
   }
 }
