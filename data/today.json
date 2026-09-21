@@ -1,51 +1,43 @@
 {
   "date": "Monday, September 21, 2026",
   "generatedAt": "Morning brief · 10:15 AM ET",
-  "theme": "Your last clear day before the girls arrive tomorrow.",
-  "greeting": "First full day back in St. Petersburg after the Croatia charter, Dan — the calendar is empty and the girls come tomorrow at 3, so today is the runway to get ahead of the Orlando trip.",
+  "theme": "An open day, then the girls arrive.",
+  "greeting": "Nothing on the calendar today, Dan — a rare clear stretch back home in St. Pete after Croatia. The girls come over tomorrow afternoon, so today is the window to close out the last travel bookings before the shuffle starts.",
   "needsAttention": [
     {
-      "tag": "Family · today",
-      "title": "The girls' passports",
-      "detail": "The four passport appointments need rescheduling now that you're home, and the packet is still to assemble — due today on the family travel list, and the December trip depends on it."
+      "tag": "Tonight's lodging",
+      "title": "Close out the St. Pete gap",
+      "detail": "The Sept 20-22 St. Pete stay is still marked open on the Mike + Dan board even though you've already landed — worth confirming where you're staying tonight before Tuesday's Orlando villa. Flagged p1, sitting since Aug 25."
     },
     {
-      "tag": "Family · this week",
-      "title": "Disney tickets for the weekend",
-      "detail": "Tickets for the six of you are the last open item for the Sept 26–27 Disney weekend; buy them before then and check whether your ticket type needs park reservations."
+      "tag": "Rental car",
+      "title": "Full-size SUV out of TPA",
+      "detail": "The Sept 20-Oct 5 SUV was marked book-it-outright and you're on the ground now — if it isn't booked, tomorrow's 3 PM pickup and the Orlando drive have no vehicle for six. p1, open since Sept 9."
     },
     {
-      "tag": "Travel · overdue",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland over Christmas sells out early; a refundable booking now costs nothing and closes the risk — it's a week overdue."
+      "tag": "Books up fast",
+      "title": "Maine Christmas SUV, Portland",
+      "detail": "A full-size SUV out of Portland over Christmas week is the tightest rental in that market and sells out early; the board says book it refundable this week. p1, overdue since Sept 14."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Tampa Gardens statement",
-        "detail": "This month's statement for your mother's care posted this morning; payment is due at the office by the 5th."
-      },
-      {
-        "tag": "FYI",
-        "title": "Independent Managers Club thread",
-        "detail": "You're cc'd on the exchange between Chie Mitsui and Mike Lubrano — it's moving along and doesn't need a reply from you."
+        "tag": "Job search",
+        "title": "Two LinkedIn messages waiting",
+        "detail": "LinkedIn flags two messages awaiting your reply, one from Claudia — worth a glance given the board search."
       }
     ],
-    "noise": "The rest is retail promos and cooking newsletters — Byron Talbott's fall-pumpkin run, Field Company, The Company Store, a few language-learning nudges.",
-    "clear": "No security alerts and no real job-search mail — the \"still waiting for your response\" notes are just LinkedIn's automated pokes."
+    "noise": "Everything else is newsletters and promos — JetBlue, NYPL, the cooking Substacks, and your Italian and Japanese dailies.",
+    "clear": ""
   },
-  "resolved": [
-    "Croatia sailing charter wrapped — you landed back in St. Pete yesterday afternoon.",
-    "Yard work settled — $640 paid to Amanda yesterday."
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "St. Petersburg, FL",
-    "confidence": "high",
+    "confidence": "low",
     "asOf": "Monday Sep 21"
   },
   "recipe": {
@@ -55,38 +47,14 @@
   },
   "tasks": [
     {
-      "title": "Reschedule the girls' passport appointment",
-      "project": "Family Travel",
-      "due": "Today",
-      "overdue": false
-    },
-    {
-      "title": "Assemble the passport packet — 4 kids",
-      "project": "Family Travel",
-      "due": "Overdue Aug 26",
-      "overdue": true
-    },
-    {
-      "title": "Confirm the Sept 20–Oct 5 car rental",
-      "project": "Family Travel",
-      "due": "Overdue Sep 9",
-      "overdue": true
-    },
-    {
-      "title": "Grocery run before the Orlando villa",
-      "project": "Family Travel",
-      "due": "For tomorrow's drive",
-      "overdue": true
-    },
-    {
-      "title": "Call the dermatologist for wart removal",
-      "project": "Family Travel",
-      "due": "Overdue Aug 28",
+      "title": "Grocery stop before the Orlando villa",
+      "project": "Mike + Dan",
+      "due": "Due Sep 20",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -99,15 +67,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the clear stretch to book tonight's room and the Sept 20–Oct 5 SUV before rates climb."
+      "line": "The calendar's empty — your first still morning since flying back from Croatia."
     },
     {
       "time": "Afternoon",
-      "line": "Still open; a natural window to sort Disney tickets and set the passport reschedule."
+      "line": "Wide open through the afternoon, with nowhere you have to be."
     },
     {
       "time": "Evening",
-      "line": "Your last quiet night before Tuesday's 3 PM pickup and the Orlando stretch — bank the rest."
+      "line": "A quiet last evening before the girls come over tomorrow at three."
     }
   ],
   "japanese": {
