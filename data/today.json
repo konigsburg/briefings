@@ -2,59 +2,71 @@
   "date": "Sunday, September 20, 2026",
   "generatedAt": "Morning brief · 8:09 PM ET",
   "theme": "Wheels down in Florida.",
-  "greeting": "You're back on Florida ground after the long haul from Dubrovnik, Dan. Two quiet nights to reset before the girls are picked up Tuesday and the Orlando run begins.",
+  "greeting": "Welcome back to solid ground, Dan. The Croatia charter is behind you and you touch down in Tampa by late afternoon; the girls aren't back until Tuesday, so tonight is for landing, not doing.",
   "needsAttention": [
     {
-      "tag": "Tonight's bed",
-      "title": "Two nights before pickup",
-      "detail": "The Sept 20-22 landing-gap lodging is still flagged p1 on your board. You're in St Pete tonight and tomorrow before the Tuesday 3 PM pickup and the drive to the Orlando villa."
+      "tag": "Reply owed",
+      "title": "Reply to the Brunswick recruiter intro",
+      "detail": "Lauren connected you with Erika, who leads senior recruitment at Brunswick and already has your resume; she left it to the two of you to find a time, so a note back to set one up is the move. This is a warm job-search thread, not a cold one."
     },
     {
-      "tag": "Rental car",
-      "title": "Car for the Tampa stretch",
-      "detail": "The Sept 20-Oct 5 full-size SUV was marked book-outright and is overdue. The note's own warning: don't land jet-lagged on a Sunday and take a walk-up rate."
+      "tag": "Book today",
+      "title": "Rental car waiting at Tampa",
+      "detail": "Your travel list flags the Sept 20-Oct 5 full-size SUV as book-it-outright and it is weeks overdue. You just landed at TPA and shouldn't be facing walk-up rates jet-lagged on a Sunday."
     },
     {
-      "tag": "Window closing",
-      "title": "Maine Christmas SUV",
-      "detail": "Overdue since Sep 14, and it's the hardest rental in Portland over the holidays. A refundable full-size hold now costs nothing and takes the whole risk off the table."
+      "tag": "Two nights open",
+      "title": "Where you sleep tonight and tomorrow",
+      "detail": "The Sept 20-22 St Pete gap is still open on your travel list, overdue since Aug 25. The kids aren't picked up until Tuesday, so you need a bed for tonight and tomorrow before the Orlando villa starts."
     }
   ],
   "schedule": [
     {
+      "time": "1:30 AM",
+      "title": "Dubrovnik to Frankfurt",
+      "detail": "First leg of the trip home",
+      "tag": "travel"
+    },
+    {
+      "time": "5:30 AM",
+      "title": "Frankfurt to Tampa",
+      "detail": "Long-haul back to Florida",
+      "tag": "travel"
+    },
+    {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board sweep",
-      "tag": "call"
+      "detail": "Standing 15-minute board reset",
+      "tag": "meeting"
     },
     {
       "time": "3:55 PM",
-      "title": "Land in Tampa",
-      "detail": "UA9662 in from Frankfurt",
+      "title": "Land at Tampa",
+      "detail": "Back on Florida ground",
       "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Revolut card dispatched",
-        "detail": "Arriving 9/23-9/25; it'll need activating when it lands."
+        "tag": "Job search",
+        "title": "Brunswick recruitment intro",
+        "detail": "Lauren Nadig connected you with Erika Maass to talk senior roles."
       },
       {
-        "tag": "Job search",
-        "title": "Two LinkedIn connection requests",
-        "detail": "Consultants at Deloitte Canada and KPMG Espana want to connect - networking, nothing owed."
+        "tag": "Financial",
+        "title": "Venmo request from Joshua Weaver",
+        "detail": "$50 for mowing on the 17th, awaiting payment."
       }
     ],
-    "noise": "The rest is travel receipts, cooking newsletters, and retail promos.",
-    "clear": "Nothing is waiting on your reply this evening."
+    "noise": "The rest is newsletters: the FT, Noah Smith, two Byron Talbott dessert recipes, Daily Italian Words, and an NYPL events roundup.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Tampa, FL",
+    "location": "St. Petersburg, FL",
     "confidence": "high",
     "asOf": "Sunday Sep 20"
   },
@@ -65,27 +77,27 @@
   },
   "tasks": [
     {
-      "title": "Kids' passport appointment - reschedule",
+      "title": "Book the Maine Christmas SUV rental, refundable, out of Portland",
       "project": "Travel",
-      "due": "Due tomorrow Sep 21",
-      "overdue": false
+      "due": "Overdue Sep 14",
+      "overdue": true
     },
     {
-      "title": "Grocery stop before the Orlando villa",
+      "title": "Plan the grocery stop before the Orlando villa",
       "project": "Travel",
       "due": "Due today",
       "overdue": false
     },
     {
-      "title": "Disney tickets for the six of you",
+      "title": "Reschedule the four-kids passport appointment",
       "project": "Travel",
-      "due": "Overdue Aug 28",
-      "overdue": true
+      "due": "Due Sep 21",
+      "overdue": false
     },
     {
-      "title": "Assemble the four-kid passport packet",
+      "title": "Buy Disney park tickets for the six of you",
       "project": "Travel",
-      "due": "Overdue Aug 26",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -97,15 +109,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The 9 AM board sweep with Mike, then the long haul out of Dubrovnik begins."
+      "line": "A red-eye through Frankfurt carries you home while the standing 15-minute review with Mike sits at nine."
     },
     {
       "time": "Afternoon",
-      "line": "Frankfurt to Tampa, wheels down at 3:55."
+      "line": "Wheels down at Tampa at 3:55, back on Florida ground after the week on the water."
     },
     {
       "time": "Evening",
-      "line": "Florida ground and a quiet night before Tuesday's pickup."
+      "line": "Nothing else on the calendar; the girls come back Tuesday, so the night is yours to reset."
     }
   ],
   "japanese": {
