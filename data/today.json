@@ -1,59 +1,53 @@
 {
   "date": "Tuesday, September 22, 2026",
   "generatedAt": "Morning brief · 12:14 PM ET",
-  "theme": "The girls come to you today.",
-  "greeting": "The four girls come to you and Mike at the three o'clock pickup, Dan, and the week at the Orlando villa begins tonight. The morning until then is quiet and yours.",
+  "theme": "Handoff day — the girls are back with you.",
+  "greeting": "A clear calendar and a big handoff, Dan: the four girls come at 3 and the family stretch with you and Mike begins. The one knot to untangle tonight is Claire's St Pete appointment landing tomorrow morning against the Orlando plan.",
   "needsAttention": [
     {
+      "tag": "Tomorrow AM",
+      "title": "Claire's St Pete appointment",
+      "detail": "Claire has a 10:20 AM appointment in St Pete tomorrow, but the family is booked at the Orlando villa through the 27th. Worth reconciling tonight whether that means a drive back in the morning or a reschedule."
+    },
+    {
+      "tag": "Today",
+      "title": "Grocery run before the villa",
+      "detail": "The Royal Palms villa has a kitchen. Slot a store stop near St Pete or Orlando into today's drive after the 3 PM pickup so five nights with six people don't default to eating out."
+    },
+    {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV is the last six-seater",
-      "detail": "A p1 on the Mike + Dan board, overdue since the 14th. Once the Pathfinder heads south in October, a full-size SUV out of Portland is the girls' only six-seater at Christmas, and that holiday inventory sells out early. A refundable hold costs nothing."
-    },
-    {
-      "tag": "Disney weekend",
-      "title": "Six Disney tickets still unbought",
-      "detail": "The one open item left for the Sept 26-27 Orlando trip: six park tickets. Worth checking whether the ticket type needs park reservations and whether a Magic Kingdom Halloween party falls that night, since it changes the plan."
-    },
-    {
-      "tag": "Prep for tomorrow",
-      "title": "Claire's St. Pete appointment at 10:20",
-      "detail": "On the calendar for tomorrow morning in St. Pete, which sits against the Orlando villa week starting tonight; worth deciding tonight how the morning gets covered."
+      "title": "Maine Christmas SUV",
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out. Book it refundable now while inventory holds — the Pathfinder is south until late May."
     }
   ],
-  "schedule": [
-    {
-      "time": "3:00 PM",
-      "title": "School pickup, four girls",
-      "detail": "The girls come to you and Mike; the Orlando villa week starts this evening.",
-      "tag": "family"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Health",
-        "title": "New MyChart message",
-        "detail": "A message is waiting in MaineHealth MyChart from this morning."
-      },
-      {
-        "tag": "Financial",
-        "title": "Venmo request for $50",
-        "detail": "Joshua Weaver's reminder for the Sept 17 mowing is sitting unpaid."
-      },
-      {
         "tag": "Job search",
-        "title": "SVP government-affairs alert",
-        "detail": "A LinkedIn alert flags a senior state-and-local government-affairs role in the $158-238K band."
+        "title": "PRISM directors summit",
+        "detail": "The LGBTQ corporate-directors network rebranded to PRISM and opened registration for its NYC annual summit — a board-network fit worth a look."
+      },
+      {
+        "tag": "FYI",
+        "title": "Coke Bottle House invite",
+        "detail": "You and Mike are invited to Marie's birthday on Vinalhaven, Saturday Oct 3 at 5 PM, if you're still on the island."
       }
     ],
-    "noise": "The rest is retail and newsletters: Uniqlo, Indochino, Monocle, Disney Vacation Club, and a dozen more.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "The rest is newsletters and retail promos — Foreign Affairs, NYT Cooking, Responsible Investor, JetBlue, Expedia, Monocle, Adobe and the like.",
+    "clear": "Nothing in the inbox is waiting on a reply from you."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Booked",
+      "title": "Disney weekend confirmed",
+      "detail": "Walt Disney World's vacation confirmation came through this morning (order #CXKE94323232) — the Sept 26–27 park weekend is set."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "St Pete → Orlando, FL",
     "confidence": "high",
     "asOf": "Tuesday Sep 22"
   },
@@ -64,27 +58,15 @@
   },
   "tasks": [
     {
-      "title": "Grocery stop before the Orlando villa",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 20",
-      "overdue": true
-    },
-    {
       "title": "Reschedule the kids' passport appointment",
-      "project": "Mike + Dan Board",
+      "project": "Family Travel",
       "due": "Overdue Sep 21",
       "overdue": true
     },
     {
-      "title": "Confirm the Sept 20-Oct 5 SUV rental",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 9",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Call dermatologist about wart removal",
+      "project": "Family Travel",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -96,15 +78,18 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The morning is your own in St. Pete, quiet before the handoff."
+      "line": "No meetings on the calendar — the St Pete morning is yours before the day turns to logistics.",
+      "tag": "Open"
     },
     {
       "time": "Afternoon",
-      "line": "The four girls come to you and Mike at the three o'clock pickup."
+      "line": "The four girls get picked up at 3, and the custody stretch with you and Mike begins.",
+      "tag": "Pickup"
     },
     {
       "time": "Evening",
-      "line": "The drive to Orlando, and the first of five nights at the villa with the girls."
+      "line": "Settle the girls in for the first night; the Orlando villa and Disney weekend are booked from here.",
+      "tag": "Travel"
     }
   ],
   "japanese": {
