@@ -1,67 +1,66 @@
 {
   "date": "Tuesday, September 22, 2026",
   "generatedAt": "Morning brief · 4:14 PM ET",
-  "theme": "Trip day — the girls arrive and the road to Orlando begins.",
-  "greeting": "The calendar's clear, Dan, but today's real work is logistics: pickup at three, then the drive to the Orlando villa. Get the car and a grocery plan settled before you roll.",
+  "theme": "Handoff day: pick up the girls, then point the car at Orlando.",
+  "greeting": "Morning, Dan. The calendar is clear right up to the 3 o'clock pickup, and then the day turns into four kids and the drive to the Disney weekend.",
   "needsAttention": [
     {
-      "tag": "Blocked today",
-      "title": "Confirm the Orlando rental car",
-      "detail": "The Sept 20–Oct 5 full-size SUV out of TPA is what the whole drive rides on — pickup is at 3 and the villa is tonight. If it isn't already booked, lock it before you leave for the girls."
+      "tag": "Today's drive",
+      "title": "Confirm the rental SUV before the 3 PM pickup",
+      "detail": "The Orlando villa starts tonight and the Sept 20-Oct 5 full-size SUV is the only way to get all six of you there. The Todoist item is still open, so make sure it's actually booked before you head to the pickup."
     },
     {
-      "tag": "This weekend",
-      "title": "Disney tickets are the last open item",
-      "detail": "The Sept 26–27 Disney weekend is otherwise set — six tickets remain. Check park-reservation rules and whether a Magic Kingdom Halloween party night shifts which park you pick."
-    },
-    {
-      "tag": "On the drive",
-      "title": "Grocery stop before the villa",
-      "detail": "The Royal Palms villa has a kitchen — slot a grocery run near St Pete or on the Orlando end into today's drive so five nights with six people don't all become dinners out."
+      "tag": "Tomorrow",
+      "title": "Claire's St Pete appointment vs. Orlando",
+      "detail": "A 10:20 AM appointment for Claire in St Pete sits on your calendar for tomorrow, but the trip has you in Orlando through the 27th. Worth settling tonight which one actually holds."
     },
     {
       "tag": "Window closing",
       "title": "Book the Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out — hold a refundable one now; the Pathfinder is south until spring."
+      "detail": "Flagged p1 in Todoist since Sep 14. A full-size SUV out of Portland over Christmas week is the tightest rental in that market and sells out early — a refundable hold now costs nothing and removes the risk."
+    },
+    {
+      "tag": "Disney weekend",
+      "title": "Disney tickets are the last open item",
+      "detail": "Tickets for six are the only thing left unbooked for Sat-Sun. Check whether your ticket type needs park reservations, and whether a Magic Kingdom Halloween party night changes the plan."
     }
   ],
   "schedule": [
     {
       "time": "3:00 PM",
-      "title": "School pickup — the four girls",
-      "detail": "St Pete, handoff from Jen",
-      "tag": "Kids"
-    },
-    {
-      "time": "Evening",
-      "title": "Drive to the Orlando villa",
-      "detail": "Marriott Royal Palms, Sept 22–27",
-      "tag": "Travel"
+      "title": "Pick up the girls",
+      "detail": "Collect the four in St Pete, then drive to Orlando",
+      "tag": "family"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "PRISM board-directors summit",
-        "detail": "The LGBTQ corporate directors network (now rebranded PRISM) opened registration for its NYC annual summit — worth a look for the board search."
+        "title": "Toronto ICGN dinner and ticket",
+        "detail": "Jen Sisson asked her team to add you to the dinner invite and sort a complimentary ticket — a quick reply confirming you're in wraps it up."
       },
       {
-        "tag": "FYI",
-        "title": "Oct 3 island birthday invite",
-        "detail": "Friends invited you and Mike to Marie's birthday Oct 3 at the Coke Bottle House — you'd have the girls that day."
+        "tag": "Job search",
+        "title": "Two LinkedIn messages waiting",
+        "detail": "LinkedIn flagged two messages awaiting your reply, most recently from Claudia — worth a look given the search."
+      },
+      {
+        "tag": "Financial",
+        "title": "Venmo request for the mow",
+        "detail": "Joshua Weaver's $50 request for the Sep 17 mowing is still sitting unpaid."
       }
     ],
-    "noise": "Mostly newsletters, alumni mail, and shop promos — Foreign Affairs, NPR, Duke, JetBlue, Chairish and the rest.",
+    "noise": "The rest is newsletters — St Pete top 10, Dwell, RagunNews, Lumosity, and your own Japanese lesson.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg → Orlando, FL",
+    "location": "St Pete → Orlando, FL",
     "confidence": "high",
-    "asOf": "Tuesday Sep 22"
+    "asOf": "Tue Sep 22"
   },
   "recipe": {
     "title": "Braised Pheasant with Mushrooms and Bacon",
@@ -70,15 +69,15 @@
   },
   "tasks": [
     {
-      "title": "Passport prep — packet + appointment for the 4 girls",
-      "project": "Family Travel",
-      "due": "Overdue Sep 21",
+      "title": "Grocery stop en route to the Orlando villa",
+      "project": "Fall Trip",
+      "due": "Due Sep 20",
       "overdue": true
     },
     {
-      "title": "Confirm St Pete Airbnb (Sep 27–Oct 5) converted from pending",
-      "project": "Family Travel",
-      "due": "Overdue Aug 25",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -90,15 +89,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open calendar with nothing scheduled — the last quiet stretch before the girls arrive."
+      "line": "A clear calendar — no meetings on the books, so the open hours are yours."
     },
     {
-      "time": "Afternoon",
-      "line": "The 3 PM pickup anchors everything; have the car confirmed and a grocery plan in hand before you go."
+      "time": "3 PM onward",
+      "line": "Pick up the four girls in St Pete, then the roughly two-hour drive to the Orlando villa."
     },
     {
       "time": "Evening",
-      "line": "On the road to the Orlando villa — and Claire's St Pete appointment lands tomorrow at 10:20 AM."
+      "line": "Settle in for the Disney weekend; a grocery stop en route beats eating out for five nights with six."
     }
   ],
   "japanese": {
