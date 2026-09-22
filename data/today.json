@@ -1,55 +1,54 @@
 {
   "date": "Tuesday, September 22, 2026",
   "generatedAt": "Morning brief · 7:15 AM ET",
-  "theme": "Handoff day — the girls come to you and the road bends toward Orlando.",
-  "greeting": "Morning, Dan. The calendar is clear until mid-afternoon, then it's the 3 PM pickup and the drive to the Orlando villa. Use the quiet morning before the six-of-you logistics take over.",
+  "theme": "Quiet until the 3 o'clock pickup.",
+  "greeting": "Morning, Dan. The calendar's clear until pickup, so it's a good window to close out the trip's last loose ends before the car fills with kids.",
   "needsAttention": [
     {
-      "tag": "Today / blocked",
-      "title": "Rental car for the Orlando run",
-      "detail": "The Sept 20–Oct 5 full-size SUV (p1, open since early Sept) needs to be booked before the 3 PM pickup and the drive south — don't do it walk-up with four kids in tow."
+      "tag": "Trip · today",
+      "title": "Lock the Sept 20-Oct 5 rental car",
+      "detail": "You need the full-size SUV for today's drive to Orlando and the rest of the trip; the p1 booking task is still open and overdue since Sept 9. Confirm it's actually reserved before pickup."
     },
     {
-      "tag": "Weekend window",
-      "title": "Disney tickets for the 26th–27th",
-      "detail": "Tickets are the only open item left for the Disney weekend — six people; verify on the Disney site whether your ticket type needs park reservations."
+      "tag": "Trip · Disney",
+      "title": "Buy the Disney tickets",
+      "detail": "The only open item left for the Sept 26-27 Disney weekend: 6 park tickets. Check whether a Magic Kingdom Halloween-party night that weekend changes which park you pick."
     },
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas sells out early — book it refundable now, since the Pathfinder heads south in October and won't be up north."
+      "tag": "Trip · today",
+      "title": "Grocery stop on the Orlando drive",
+      "detail": "The villa has a kitchen worth using for six people. Slot a shop near St. Pete before leaving or near Orlando on arrival so it doesn't get lost in the shuffle."
+    },
+    {
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas rental",
+      "detail": "A full-size SUV out of Portland over Christmas week sells out early and there's no six-seater in Maine then. Book it refundable now; flagged 'this week,' overdue since Sept 14."
     }
   ],
   "schedule": [
     {
       "time": "3:00 PM",
-      "title": "School pickup — all four girls",
-      "detail": "Custody handoff; the girls are with you and Mike from here.",
+      "title": "Kids pickup",
+      "detail": "Then the drive to the Orlando villa",
       "tag": "family"
-    },
-    {
-      "time": "Evening",
-      "title": "Drive to the Orlando villa",
-      "detail": "Grocery stop en route; check in at Royal Palms for the Disney weekend.",
-      "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "FYI",
-        "title": "Bahamas 'catch & cook' flotilla",
-        "detail": "Fede at Nautilus wrote back with details on the Catch, Clean & Cook flotilla — Mike is driving the thread and you're CC'd, so nothing is owed from you."
+        "title": "A caregiver applied on Care.com",
+        "detail": "Lynsey P. applied to your posted caregiver job - worth a glance while the candidate is fresh."
       }
     ],
-    "noise": "The rest is newsletters (WSJ, Noahpinion, Press Herald, Midcoast) and order receipts (OluKai, COCOLAB).",
-    "clear": "No email is waiting on your reply this morning."
+    "noise": "Otherwise it's newsletters and receipts: WSJ Economics, NYT Cooking, Noahpinion, Responsible Investor, plus Olukai, Cocolab, Venmo and PayPal confirmations.",
+    "clear": "Nothing is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Orlando, FL",
+    "location": "St. Petersburg, FL",
     "confidence": "high",
     "asOf": "Tuesday Sep 22"
   },
@@ -60,16 +59,22 @@
   },
   "tasks": [
     {
-      "title": "Grocery stop before the Orlando villa",
-      "project": "Travel",
-      "due": "Today's drive",
-      "overdue": false
+      "title": "Reschedule the kids' passport appointment (4 minors)",
+      "project": "FL Fall Trip",
+      "due": "Overdue Sep 21",
+      "overdue": true
     },
     {
-      "title": "Confirm the St Pete Airbnb (Sept 27–Oct 5) converted from pending",
-      "project": "Travel",
-      "due": "Charged Sep 18",
-      "overdue": false
+      "title": "Assemble the passport packet - DS-11s, copies, payments",
+      "project": "FL Fall Trip",
+      "due": "Overdue Aug 26",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
+      "overdue": true
     }
   ],
   "routines": {
@@ -80,15 +85,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar in St Pete — a rare open stretch before the day turns logistical."
+      "line": "Nothing on the calendar this morning - the last quiet stretch of the day is right now."
     },
     {
       "time": "Afternoon",
-      "line": "The 3 PM pickup starts the girls' stretch with you, then it's onto the road toward Orlando."
+      "line": "The girls come back around three, after two weeks with their mom."
     },
     {
       "time": "Evening",
-      "line": "A grocery run, then settling six people into the Orlando villa for the weekend ahead."
+      "line": "Settling into the Orlando villa, with Claire's St. Pete appointment first thing tomorrow."
     }
   ],
   "japanese": {
