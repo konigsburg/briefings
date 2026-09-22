@@ -1,66 +1,54 @@
 {
   "date": "Tuesday, September 22, 2026",
   "generatedAt": "Morning brief · 6:14 PM ET",
-  "theme": "Handoff day: pick up the girls, then point the car at Orlando.",
-  "greeting": "Morning, Dan. The calendar is clear right up to the 3 o'clock pickup, and then the day turns into four kids and the drive to the Disney weekend.",
+  "theme": "A clear day; the kids and the Orlando weekend are the moving pieces.",
+  "greeting": "A wide-open day, Dan — nothing on the calendar until tomorrow. The only real clock today is the kids at three and the drive over to Orlando.",
   "needsAttention": [
-    {
-      "tag": "Today's drive",
-      "title": "Confirm the rental SUV before the 3 PM pickup",
-      "detail": "The Orlando villa starts tonight and the Sept 20-Oct 5 full-size SUV is the only way to get all six of you there. The Todoist item is still open, so make sure it's actually booked before you head to the pickup."
-    },
-    {
-      "tag": "Tomorrow",
-      "title": "Claire's St Pete appointment vs. Orlando",
-      "detail": "A 10:20 AM appointment for Claire in St Pete sits on your calendar for tomorrow, but the trip has you in Orlando through the 27th. Worth settling tonight which one actually holds."
-    },
-    {
-      "tag": "Window closing",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Flagged p1 in Todoist since Sep 14. A full-size SUV out of Portland over Christmas week is the tightest rental in that market and sells out early — a refundable hold now costs nothing and removes the risk."
-    },
     {
       "tag": "Disney weekend",
       "title": "Disney tickets are the last open item",
-      "detail": "Tickets for six are the only thing left unbooked for Sat-Sun. Check whether your ticket type needs park reservations, and whether a Magic Kingdom Halloween party night changes the plan."
-    }
-  ],
-  "schedule": [
+      "detail": "The Orlando and Disney weekend is Saturday and Sunday, and tickets for all six of you are the only thing still unbooked. Check whether your ticket type needs park reservations before the choice of park narrows."
+    },
     {
-      "time": "3:00 PM",
-      "title": "Pick up the girls",
-      "detail": "Collect the four in St Pete, then drive to Orlando",
-      "tag": "family"
+      "tag": "Tomorrow AM",
+      "title": "Claire's St Pete appointment",
+      "detail": "Claire has a 10:20 AM appointment back in St Pete tomorrow while you're at the Orlando villa. That's an early start and a roughly two-hour drive worth planning around tonight."
+    },
+    {
+      "tag": "Books out",
+      "title": "Maine Christmas SUV rental",
+      "detail": "The book-this-week refundable full-size SUV out of Portland is now about a week overdue. Holiday inventory at PWM sells out, so a refundable hold removes the whole risk at no cost."
     }
   ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Toronto ICGN dinner and ticket",
-        "detail": "Jen Sisson asked her team to add you to the dinner invite and sort a complimentary ticket — a quick reply confirming you're in wraps it up."
-      },
-      {
-        "tag": "Job search",
-        "title": "Two LinkedIn messages waiting",
-        "detail": "LinkedIn flagged two messages awaiting your reply, most recently from Claudia — worth a look given the search."
+        "title": "LinkedIn messages waiting",
+        "detail": "A LinkedIn digest flags two messages awaiting your reply — worth a glance for any networking follow-ups."
       },
       {
         "tag": "Financial",
-        "title": "Venmo request for the mow",
-        "detail": "Joshua Weaver's $50 request for the Sep 17 mowing is still sitting unpaid."
+        "title": "Venmo request from Joshua Weaver",
+        "detail": "A $50 Venmo request for mowing (9/17) is sitting unpaid."
+      },
+      {
+        "tag": "FYI",
+        "title": "ICGN site needs a new login",
+        "detail": "The new ICGN website is live and asks members to set up a fresh login for member-only content."
       }
     ],
-    "noise": "The rest is newsletters — St Pete top 10, Dwell, RagunNews, Lumosity, and your own Japanese lesson.",
+    "noise": "The rest is newsletters and promos — Delta, Bloomberg, Dwell, a local roundup, and a couple of retailers.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St Pete → Orlando, FL",
+    "location": "Orlando, FL",
     "confidence": "high",
-    "asOf": "Tue Sep 22"
+    "asOf": "Tuesday Sep 22"
   },
   "recipe": {
     "title": "Braised Pheasant with Mushrooms and Bacon",
@@ -69,14 +57,20 @@
   },
   "tasks": [
     {
-      "title": "Grocery stop en route to the Orlando villa",
-      "project": "Fall Trip",
-      "due": "Due Sep 20",
+      "title": "Confirm the kids' passport packet and appointment",
+      "project": "Travel",
+      "due": "Overdue Sep 21",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist to book wart removal",
+      "project": "Travel",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -89,15 +83,18 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar — no meetings on the books, so the open hours are yours."
+      "line": "Nothing on the calendar — the morning is genuinely open.",
+      "tag": "open"
     },
     {
-      "time": "3 PM onward",
-      "line": "Pick up the four girls in St Pete, then the roughly two-hour drive to the Orlando villa."
+      "time": "Afternoon",
+      "line": "Kids picked up at three, then the drive across to the Orlando villa.",
+      "tag": "family"
     },
     {
       "time": "Evening",
-      "line": "Settle in for the Disney weekend; a grocery stop en route beats eating out for five nights with six."
+      "line": "Arrive at Royal Palms and get the six of you settled for the week.",
+      "tag": "home"
     }
   ],
   "japanese": {
