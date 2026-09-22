@@ -1,28 +1,23 @@
 {
   "date": "Monday, September 21, 2026",
   "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "An open calendar, and a trip to-do list that's gone overdue.",
-  "greeting": "Back on the ground in St. Pete, Dan — nothing on the calendar today, which is just as well, because the travel logistics need you before the girls arrive tomorrow at three.",
+  "theme": "A clear day to close the Florida logistics before the girls arrive.",
+  "greeting": "You're back on the ground in St. Pete after the crossing home, Dan, with an open day before the girls come to you tomorrow at three. It's the right window to lock the last of the travel pieces while things are quiet.",
   "needsAttention": [
     {
-      "tag": "Book now",
-      "title": "Rental car for the Orlando run",
-      "detail": "The Sept 20–Oct 5 full-size SUV (p1, overdue since Sep 9) isn't a hedge anymore — you landed Sunday and tomorrow's 3 PM pickup and drive to the villa depend on it."
+      "tag": "Tomorrow's pickup",
+      "title": "The girls come to you tomorrow at 3",
+      "detail": "Pickup is Tuesday at 3 PM, then straight to the Orlando villa for the week. The rental car and a grocery stop are the two open pieces worth settling tonight."
     },
     {
-      "tag": "Due today",
-      "title": "Reschedule the kids' passport appointment",
-      "detail": "p1 task dated today. Before you rebook, pin down the four expired books and finish the DS-11 packet so a reschedule doesn't turn into a redo."
+      "tag": "Book the car",
+      "title": "Florida rental still shows unbooked",
+      "detail": "The p1 board item to book the full-size SUV out of TPA through Oct 5 — the one that seats all six — is overdue. Tomorrow's drive to Orlando needs it, so don't leave it to a walk-up rate."
     },
     {
-      "tag": "Window closing",
-      "title": "Buy the Disney park tickets",
-      "detail": "The last open item for Sept 26–27, six people. Check whether your ticket type needs park reservations and whether a Halloween party night changes which park."
-    },
-    {
-      "tag": "Tomorrow",
-      "title": "Plan the pickup and grocery stop",
-      "detail": "Girls get picked up Tue 3 PM, then it's ~1.5–2 hrs to the Orlando villa. Slot a grocery run near St Pete or Orlando so the villa kitchen actually gets used."
+      "tag": "This weekend",
+      "title": "Disney tickets are the last open item",
+      "detail": "Six park tickets for Sat–Sun Sept 26–27 are still unbought. Check whether the type needs park reservations and whether Magic Kingdom has a Halloween-party night that weekend before you buy."
     }
   ],
   "schedule": [],
@@ -30,21 +25,16 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn messages awaiting a reply",
-        "detail": "A couple of connections (incl. Claudia) are waiting on you — worth a pass while you're actively networking."
+        "title": "LinkedIn messages waiting",
+        "detail": "Two messages in your LinkedIn inbox are flagged as awaiting a reply — worth a look given the search."
       },
       {
         "tag": "FYI",
-        "title": "A caregiver applied on Care.com",
-        "detail": "Lynsey P. applied to your posting — a quick look when you have a minute."
-      },
-      {
-        "tag": "Financial",
-        "title": "Venmo: $1,300 to Paul Singer",
-        "detail": "The sailing payment cleared today — confirmation only, nothing to do."
+        "title": "A sitter applied on Care.com",
+        "detail": "Lynsey P. applied to your childcare posting — relevant with the girls arriving tomorrow."
       }
     ],
-    "noise": "Everything else is newsletters and receipts — NYT Cooking, Responsible Investor, St. Pete local, a few shop promos.",
+    "noise": "The rest is retail promos, local newsletters, and a couple of order receipts.",
     "clear": ""
   },
   "resolved": [],
@@ -62,20 +52,26 @@
   },
   "tasks": [
     {
-      "title": "Book the Maine Christmas rental (refundable SUV, PWM)",
-      "project": "Travel",
+      "title": "Book Maine Christmas rental — full-size SUV, Portland",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 14",
       "overdue": true
     },
     {
-      "title": "Call the dermatologist to book wart removal",
-      "project": "Travel",
-      "due": "Overdue Aug 28",
+      "title": "Assemble the passport packet — 4 kids",
+      "project": "Mike + Dan Board",
+      "due": "Overdue",
+      "overdue": true
+    },
+    {
+      "title": "Grocery stop before the Orlando villa",
+      "project": "Mike + Dan Board",
+      "due": "Due Sep 20",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -88,15 +84,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar in St. Pete — no meetings on the books."
+      "line": "Nothing on the calendar — the last full day before the girls arrive is yours."
     },
     {
       "time": "Afternoon",
-      "line": "The overdue trip logistics are the real work: car, passports, Disney tickets."
+      "line": "A clear stretch to settle the Florida logistics: the rental car, and the grocery run into Orlando."
     },
     {
       "time": "Evening",
-      "line": "The last quiet night before the girls arrive tomorrow."
+      "line": "First night in St. Pete after the flight back from Croatia — an early one earns tomorrow."
     }
   ],
   "japanese": {
