@@ -1,30 +1,51 @@
 {
   "date": "Monday, September 21, 2026",
   "generatedAt": "Morning brief · 8:14 PM ET",
-  "theme": "A wide-open Monday, back on Florida ground.",
-  "greeting": "Nothing's on the calendar today, Dan — a rare clear day back in St. Pete after Croatia, and the last quiet one before the girls come over tomorrow afternoon.",
+  "theme": "An open calendar, and a trip to-do list that's gone overdue.",
+  "greeting": "Back on the ground in St. Pete, Dan — nothing on the calendar today, which is just as well, because the travel logistics need you before the girls arrive tomorrow at three.",
   "needsAttention": [
     {
-      "tag": "Trip this weekend",
-      "title": "Disney tickets for the girls' weekend",
-      "detail": "The Orlando weekend is Sat–Sun and park tickets for the six of you are the one open item on the board — worth locking in before pickup tomorrow, and check whether your ticket type needs park reservations."
-    },
-    {
-      "tag": "Books up early",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week is the tightest rental in that market and sells out; the board flags a refundable hold this week, which costs nothing to place now. Overdue since Sep 14."
+      "tag": "Book now",
+      "title": "Rental car for the Orlando run",
+      "detail": "The Sept 20–Oct 5 full-size SUV (p1, overdue since Sep 9) isn't a hedge anymore — you landed Sunday and tomorrow's 3 PM pickup and drive to the villa depend on it."
     },
     {
       "tag": "Due today",
-      "title": "Reschedule the girls' passport appointment",
-      "detail": "Now that you're back from the Croatia trip, the four passport applications need a new appointment date. On the Mike + Dan board for today."
+      "title": "Reschedule the kids' passport appointment",
+      "detail": "p1 task dated today. Before you rebook, pin down the four expired books and finish the DS-11 packet so a reschedule doesn't turn into a redo."
+    },
+    {
+      "tag": "Window closing",
+      "title": "Buy the Disney park tickets",
+      "detail": "The last open item for Sept 26–27, six people. Check whether your ticket type needs park reservations and whether a Halloween party night changes which park."
+    },
+    {
+      "tag": "Tomorrow",
+      "title": "Plan the pickup and grocery stop",
+      "detail": "Girls get picked up Tue 3 PM, then it's ~1.5–2 hrs to the Orlando villa. Slot a grocery run near St Pete or Orlando so the villa kitchen actually gets used."
     }
   ],
   "schedule": [],
   "inbox": {
-    "flagged": [],
-    "noise": "About 18 unread, all newsletters and shop promos — Faherty, Hilton, NYT Cooking, Sopo Seafood, and a couple of St. Pete and Midcoast dispatches.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "flagged": [
+      {
+        "tag": "Job search",
+        "title": "LinkedIn messages awaiting a reply",
+        "detail": "A couple of connections (incl. Claudia) are waiting on you — worth a pass while you're actively networking."
+      },
+      {
+        "tag": "FYI",
+        "title": "A caregiver applied on Care.com",
+        "detail": "Lynsey P. applied to your posting — a quick look when you have a minute."
+      },
+      {
+        "tag": "Financial",
+        "title": "Venmo: $1,300 to Paul Singer",
+        "detail": "The sailing payment cleared today — confirmation only, nothing to do."
+      }
+    ],
+    "noise": "Everything else is newsletters and receipts — NYT Cooking, Responsible Investor, St. Pete local, a few shop promos.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -41,27 +62,21 @@
   },
   "tasks": [
     {
-      "title": "Book / confirm the Sept 20–Oct 5 rental car (Full Size SUV, TPA)",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 9",
+      "title": "Book the Maine Christmas rental (refundable SUV, PWM)",
+      "project": "Travel",
+      "due": "Overdue Sep 14",
       "overdue": true
     },
     {
-      "title": "Confirm the St. Pete Airbnb (Sept 27–Oct 5) converted to booked",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 25",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist to book wart-removal appt",
-      "project": "Mike + Dan Board",
+      "title": "Call the dermatologist to book wart removal",
+      "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Plan a grocery stop before the Orlando villa",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 20",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -73,15 +88,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar's empty end to end — the morning is entirely unclaimed."
+      "line": "A clear calendar in St. Pete — no meetings on the books."
     },
     {
       "time": "Afternoon",
-      "line": "Still nothing scheduled, a clear stretch with the Orlando weekend and Maine rental still to settle."
+      "line": "The overdue trip logistics are the real work: car, passports, Disney tickets."
     },
     {
       "time": "Evening",
-      "line": "A last quiet night on your own before the four girls arrive tomorrow afternoon."
+      "line": "The last quiet night before the girls arrive tomorrow."
     }
   ],
   "japanese": {
