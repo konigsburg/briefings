@@ -1,45 +1,51 @@
 {
   "date": "Wednesday, September 23, 2026",
   "generatedAt": "Morning brief · 7:18 AM ET",
-  "theme": "An open Wednesday with the girls in Florida.",
-  "greeting": "Good morning, Dan. The day is nearly clear: one appointment for Claire mid-morning, then wide-open hours with the girls. A few trip loose ends are worth closing before the Disney weekend.",
+  "theme": "An open day in Florida with the girls.",
+  "greeting": "Good morning, Dan. Claire has one appointment mid-morning, then the day opens up. The girls are with you and Mike in Florida this week.",
   "needsAttention": [
     {
-      "tag": "This weekend",
-      "title": "Disney tickets are still the open item",
-      "detail": "The park days are Saturday and Sunday and tickets for all six are the last thing outstanding. Buy them and confirm whether your ticket type needs park reservations."
+      "tag": "Overdue · p1",
+      "title": "Reschedule the girls' passport appointment",
+      "detail": "The four new-passport appointment needs a fresh date now that everyone is back from travel. It has been open since Sept 21."
     },
     {
-      "tag": "Overdue",
-      "title": "Reschedule the kids' passport appointment",
-      "detail": "The passport appointment slipped past while you were traveling. Now that you're back, it needs a new date before the November book-by pressure builds."
-    },
-    {
-      "tag": "Booking risk",
+      "tag": "Overdue · p1",
       "title": "Book the Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early. Book a refundable one this week and adjust dates later."
+      "detail": "A full-size SUV out of Portland over Christmas week sells out early and prices climb; book it refundable now while inventory holds. Flagged since Sept 14."
     }
   ],
   "schedule": [
     {
       "time": "10:20 AM",
       "title": "Claire's appointment",
-      "detail": "In St. Petersburg",
-      "tag": "Kids"
+      "detail": "In St. Pete, about an hour",
+      "tag": "appt"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Chase Sapphire payment posted",
-        "detail": "Chase confirms your card payment was received and applied. No action needed."
+        "title": "Venmo request from Josh Weaver",
+        "detail": "$50 for mowing (Sept 17) is sitting as a reminder in your inbox."
+      },
+      {
+        "tag": "Job search",
+        "title": "Directors' network summit in NYC",
+        "detail": "PRISM (the rebranded directors' community) opened summit registration — worth a look for board networking."
       }
     ],
-    "noise": "The rest is newsletters, receipts, and shop sales: Substacks, alumni notes, and local roundups.",
-    "clear": "Nothing in the inbox is waiting on a reply from you."
+    "noise": "The rest is newsletters — St. Pete Base Local, a few Substacks, a Duke reunion save-the-date, and retail promos.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Booked",
+      "title": "Disney tickets confirmed",
+      "detail": "Walt Disney World order #CXKE94323232 came through Sept 22 for all six — the last open piece of the Orlando weekend."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -54,15 +60,9 @@
   },
   "tasks": [
     {
-      "title": "Confirm the St. Pete Airbnb converted from pending",
-      "project": "Travel",
-      "due": "For Sept 27-Oct 5",
-      "overdue": false
-    },
-    {
-      "title": "Call dermatologist to book the removal",
-      "project": "Travel",
-      "due": "Overdue Aug 28",
+      "title": "Destination edit work",
+      "project": "To-do",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -74,15 +74,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "One appointment in St. Pete breaks up an otherwise loose morning with the girls."
+      "line": "Claire's 10:20 appointment in St. Pete is the one fixed point before the day loosens."
     },
     {
       "time": "Afternoon",
-      "line": "Wide open, with no calendar holds through the middle of the day."
+      "line": "Nothing on the calendar — an open stretch with the girls."
     },
     {
       "time": "Evening",
-      "line": "Nothing scheduled tonight; tomorrow eases in with a five o'clock birthday."
+      "line": "Quiet at home; tomorrow brings Julia's birthday at 5."
     }
   ],
   "japanese": {
