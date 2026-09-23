@@ -1,44 +1,44 @@
 {
   "date": "Wednesday, September 23, 2026",
   "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "An open day in the middle of the girls' Orlando week.",
-  "greeting": "You're mid-trip in Orlando with the four girls and the calendar is nearly empty — room to breathe before the Disney weekend. Two things want a decision: the ICGN Toronto panel invite and the park tickets.",
+  "theme": "An open afternoon, the girls home in St Pete.",
+  "greeting": "The one appointment is behind you, Dan, and the rest of the day is yours with the girls. The thing worth a reply today came in from Toronto.",
   "needsAttention": [
     {
       "tag": "Awaiting reply",
-      "title": "ICGN Toronto panel invitation",
-      "detail": "Elizabeth Thomas asked whether you'll moderate Plenary 7 — the stewardship data & reporting deep dive on Thu Nov 5. She's waiting on your feedback; a complimentary ticket and dinner seat are being arranged."
+      "title": "ICGN wants you to moderate in Toronto",
+      "detail": "Elizabeth Thomas asked today whether you'd moderate Plenary 7, \"Evolving Stewardship Data, Reporting and Impact,\" on Nov 5 in Toronto — \"I wonder if you would consider moderating a panel session?\" She's waiting on your feedback."
     },
     {
-      "tag": "Window closing",
-      "title": "Disney tickets for the weekend",
-      "detail": "Sat–Sun Sept 26–27 is the last open item for the Orlando trip — six tickets still unbooked, and you need to check whether park reservations are required and whether a Halloween party night changes the plan."
+      "tag": "Overdue p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your Travel list flagged this to book last week (due Sep 14, now nine days over). A full-size SUV out of Portland over Christmas is the hardest rental in that market and sells out — a refundable hold costs nothing and clears the risk."
     }
   ],
   "schedule": [
     {
       "time": "10:20 AM",
-      "title": "Claire appointment",
-      "detail": "St. Pete — earlier this morning",
-      "tag": "family"
+      "title": "Claire appt in St Pete",
+      "detail": "Done by 11:20",
+      "tag": "appt"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Responsible Investor: SDR labels under pressure",
-        "detail": "Today's briefing leads on three-quarters of SDR funds seeing outflows since labelling — close to your governance and ESG work."
+        "tag": "Job search",
+        "title": "Global public policy role alert",
+        "detail": "LinkedIn surfaced a \"Senior Vice President of Global Public Policy\" opening and similar roles."
       }
     ],
-    "noise": "The rest is retail and travel promotion — Disney passholder welcome, Company Store, Indochino, airline deals, and a Dex keep-in-touch digest.",
+    "noise": "The rest is newsletters and retail — Bloomberg, NYT Cooking, Responsible Investor, Chairish, Indochino and a dozen more promos.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Orlando, FL",
+    "location": "St Petersburg, FL",
     "confidence": "high",
     "asOf": "Wed Sep 23"
   },
@@ -49,10 +49,16 @@
   },
   "tasks": [
     {
-      "title": "Book refundable Christmas SUV rental in Portland",
+      "title": "Confirm Disney park tickets and any reservations",
       "project": "Travel",
-      "due": "Overdue Sep 14",
-      "overdue": true
+      "due": "This weekend, Sep 26–27",
+      "overdue": false
+    },
+    {
+      "title": "Check the Sept 27–Oct 5 St Pete stay is confirmed",
+      "project": "Travel",
+      "due": "Before Sep 27",
+      "overdue": false
     }
   ],
   "routines": {
@@ -62,16 +68,16 @@
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "A short appointment for Claire in St. Pete opened the day; nothing else is booked before noon."
+      "time": "10:20–11:20 AM",
+      "line": "Claire's St Pete appointment was the only fixed thing on the calendar, and it's already behind you."
     },
     {
       "time": "Afternoon",
-      "line": "Open water — no meetings on the calendar, and a villa kitchen worth using with six of you."
+      "line": "Nothing scheduled — the open stretch is yours to spend."
     },
     {
       "time": "Evening",
-      "line": "Julia's birthday lands tomorrow evening — a calm night before the Disney weekend."
+      "line": "A quiet one at home with the girls; Julia's birthday lands tomorrow at 5."
     }
   ],
   "japanese": {
