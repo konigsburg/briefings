@@ -1,83 +1,94 @@
 {
-  "lessonNo": 233,
-  "date": "Monday, Sep 21",
-  "generatedAt": "Lesson #233 · Sep 21",
-  "theme": "Three て-form helper verbs — ～ておく (in advance), ～てしまう (oops / all done), ～てみる (give it a try)",
-  "intro": "Once you know the て-form, bolt on these three helpers to add a shade of meaning — preparation, completion, or a low-pressure try.",
+  "lessonNo": 234,
+  "date": "Wednesday, Sep 23",
+  "generatedAt": "Lesson #234 · Sep 23",
+  "theme": "Let's do it / I intend to — the volitional (〜ましょう / 〜よう) and 〜つもり",
+  "intro": "Making plans and suggestions: how to say \"let's,\" \"shall we,\" and \"I intend to\" — perfect for rallying travel companions.",
   "grammar": {
-    "title": "Three て-form helpers",
+    "title": "The volitional form (〜ましょう / 〜よう) and 〜つもり",
     "rules": [
       {
-        "label": "～ておく",
-        "detail": "do something in advance / leave it set up and ready; casual → ～とく",
+        "label": "Polite — ます → ましょう",
+        "detail": "\"let's ___\"; add か to soften into a suggestion/offer (\"shall we? / shall I?\")",
         "examples": [
-          "予約する → 予約しておく (book it ahead of time)"
+          "行きます → 行きましょう (ikimashou — let's go)",
+          "行きましょうか (ikimashou ka — shall we go?)"
         ]
       },
       {
-        "label": "～てしまう",
-        "detail": "finish completely, or do it by accident / regrettably; casual → ～ちゃう／～じゃう",
+        "label": "Casual — plain volitional",
+        "detail": "る-verbs: drop る + よう · う-verbs: -u → -ou",
         "examples": [
-          "食べる → 食べてしまう (eat it all up / eat it, oops)"
+          "食べる → 食べよう (tabeyou)",
+          "行く → 行こう (ikou) · 飲む → 飲もう (nomou) · 話す → 話そう (hanasou)"
         ]
       },
       {
-        "label": "～てみる",
-        "detail": "try doing something to see how it goes; conjugates like the verb みる",
+        "label": "Irregular verbs",
+        "detail": "memorize these two",
         "examples": [
-          "食べる → 食べてみる (try eating it)"
+          "する → しよう (shiyou)",
+          "来る → 来よう (koyou)"
+        ]
+      },
+      {
+        "label": "〜つもり = intend to / plan to",
+        "detail": "plain dictionary verb + つもり; a firmer personal resolve than the volitional",
+        "examples": [
+          "行くつもりです (iku tsumori desu — I'm planning to go)",
+          "行かないつもりです (ikanai tsumori desu — I intend not to go)"
         ]
       }
     ],
-    "bigPoint": "All three attach to the て-form you already drill — the て-form does the heavy lifting; just add the helper."
+    "bigPoint": "〜つもり states YOUR settled intention — avoid it for someone else's firm plans; use 〜予定 (schedule) or 〜つもりだと言っていた for those."
   },
   "vocab": [
     {
-      "jp": "予約する（よやくする）",
-      "romaji": "yoyaku suru",
-      "en": "to reserve, book"
+      "jp": "予定 (よてい)",
+      "romaji": "yotei",
+      "en": "plan, schedule"
     },
     {
-      "jp": "準備する（じゅんびする）",
-      "romaji": "junbi suru",
-      "en": "to prepare, get ready"
+      "jp": "一緒に (いっしょに)",
+      "romaji": "issho ni",
+      "en": "together"
     },
     {
-      "jp": "調べる（しらべる）",
-      "romaji": "shiraberu",
-      "en": "to look up, check"
+      "jp": "泊まる (とまる)",
+      "romaji": "tomaru",
+      "en": "to stay overnight"
     },
     {
-      "jp": "注文する（ちゅうもんする）",
-      "romaji": "chuumon suru",
-      "en": "to order (food, goods)"
+      "jp": "決める (きめる)",
+      "romaji": "kimeru",
+      "en": "to decide"
     },
     {
-      "jp": "忘れる（わすれる）",
-      "romaji": "wasureru",
-      "en": "to forget, leave behind"
+      "jp": "そろそろ",
+      "romaji": "sorosoro",
+      "en": "soon / about time to (get going)"
+    },
+    {
+      "jp": "連休 (れんきゅう)",
+      "romaji": "renkyuu",
+      "en": "consecutive holidays, long weekend"
     }
   ],
   "examples": [
     {
-      "jp": "ホテルを予約しておきました。",
-      "romaji": "Hoteru o yoyaku shite okimashita.",
-      "en": "I booked the hotel in advance."
+      "jp": "そろそろ行きましょうか。",
+      "romaji": "Sorosoro ikimashou ka.",
+      "en": "Shall we get going soon?"
     },
     {
-      "jp": "新しいラーメン屋で注文してみます。",
-      "romaji": "Atarashii raamen-ya de chuumon shite mimasu.",
-      "en": "I'll try ordering at the new ramen place."
-    },
-    {
-      "jp": "電車に傘を忘れてしまいました。",
-      "romaji": "Densha ni kasa o wasurete shimaimashita.",
-      "en": "I unfortunately left my umbrella on the train."
+      "jp": "今度の連休は京都に泊まるつもりです。",
+      "romaji": "Kondo no renkyuu wa Kyouto ni tomaru tsumori desu.",
+      "en": "I'm planning to stay overnight in Kyoto this coming long weekend."
     }
   ],
-  "note": "～ておく = preparation ('get it done ahead'); ～てしまう = completion or an 'oops'; ～てみる = a low-pressure 'let me try'. In speech you'll hear the contractions constantly: 調べとくね (I'll look it up), やっちゃった! (oops, I did it!).",
+  "note": "〜ましょう is polite \"let's\"; adding か (〜ましょうか) softens it into a suggestion or offer. The plain volitional (行こう) is casual \"let's\" among friends, or \"I think I'll...\" to yourself. 〜つもり is stronger — a settled personal intention.",
   "selfCheck": {
-    "q": "How would you say 'I want to try looking it up'? (Build it from 調べる + ～てみる + ～たい.)",
-    "a": "調べてみたいです。(Shirabete mitai desu.) — 調べる → 調べて, add みる → みたい: 調べて + みたい + です."
+    "q": "How would you say \"Let's eat sushi!\" — first politely, then casually?",
+    "a": "Polite: すしを食べましょう。(Sushi o tabemashou.) · Casual: すしを食べよう。(Sushi o tabeyou.)"
   }
 }
