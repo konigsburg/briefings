@@ -1,73 +1,51 @@
 {
   "date": "Wednesday, September 23, 2026",
   "generatedAt": "Morning brief · 6:14 AM ET",
-  "theme": "The girls are back, and the road to Orlando begins.",
-  "greeting": "The house fills up again tonight, Dan — the girls are back with you and Mike, and Orlando is just ahead. The calendar's clear, so the day's weight is on the reunion and the drive.",
+  "theme": "An open Wednesday with the girls in Florida.",
+  "greeting": "Good morning, Dan. The day is nearly clear: one appointment for Claire mid-morning, then wide-open hours with the girls. A few trip loose ends are worth closing before the Disney weekend.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Hold a refundable full-size SUV out of Portland for Christmas week now — holiday inventory is thin and sells out, and you can fix the dates later. Overdue since Sept 14."
+      "tag": "This weekend",
+      "title": "Disney tickets are still the open item",
+      "detail": "The park days are Saturday and Sunday and tickets for all six are the last thing outstanding. Buy them and confirm whether your ticket type needs park reservations."
     },
     {
-      "tag": "Passports",
-      "title": "Reschedule the girls' passport appointment",
-      "detail": "All four books are expired and the appointment needs rebooking after the Croatia return. The timing gates the December trip's book-by date, so it's worth pinning a new date."
+      "tag": "Overdue",
+      "title": "Reschedule the kids' passport appointment",
+      "detail": "The passport appointment slipped past while you were traveling. Now that you're back, it needs a new date before the November book-by pressure builds."
     },
     {
-      "tag": "Today",
-      "title": "Lock the Orlando rental car",
-      "detail": "The full-size SUV out of TPA through Oct 5 is what carries the six of you to the villa — make sure it's booked before you're driving on it tonight."
+      "tag": "Booking risk",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early. Book a refundable one this week and adjust dates later."
     }
   ],
   "schedule": [
     {
-      "time": "3:00 PM",
-      "title": "Pick up the girls",
-      "detail": "Then the drive to the Orlando villa",
-      "tag": "family"
-    },
-    {
-      "time": "Tomorrow · 10:20 AM",
+      "time": "10:20 AM",
       "title": "Claire's appointment",
       "detail": "In St. Petersburg",
-      "tag": "appt"
+      "tag": "Kids"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Toronto invite from ICGN",
-        "detail": "Jen Sisson is arranging your dinner invite and a complimentary ticket for the Toronto meeting — a quick confirm keeps it moving."
-      },
-      {
         "tag": "Financial",
-        "title": "Venmo request, $50",
-        "detail": "Joshua Weaver's reminder for the Sept 17 mowing."
-      },
-      {
-        "tag": "FYI",
-        "title": "Independent Managers Club thread",
-        "detail": "Mike Lubrano and Chie Mitsui lining up a Mercer/Marsh intro; you're cc'd, nothing owed."
+        "title": "Chase Sapphire payment posted",
+        "detail": "Chase confirms your card payment was received and applied. No action needed."
       }
     ],
-    "noise": "A dozen promos and digests — Faherty, Folio Society, United, LinkedIn.",
-    "clear": ""
+    "noise": "The rest is newsletters, receipts, and shop sales: Substacks, alumni notes, and local roundups.",
+    "clear": "Nothing in the inbox is waiting on a reply from you."
   },
-  "resolved": [
-    {
-      "tag": "Booked",
-      "title": "Disney tickets confirmed",
-      "detail": "The Walt Disney World order came through today (#CXKE94323232) — the last open item for the Sept 26–27 Orlando weekend, now closed."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Tue Sep 22"
+    "asOf": "Wednesday Sep 23"
   },
   "recipe": {
     "title": "Cider Thighs",
@@ -76,13 +54,13 @@
   },
   "tasks": [
     {
-      "title": "Grocery stop before the Orlando villa",
+      "title": "Confirm the St. Pete Airbnb converted from pending",
       "project": "Travel",
-      "due": "Due Sep 20",
-      "overdue": true
+      "due": "For Sept 27-Oct 5",
+      "overdue": false
     },
     {
-      "title": "Call the dermatologist for the wart-removal appt",
+      "title": "Call dermatologist to book the removal",
       "project": "Travel",
       "due": "Overdue Aug 28",
       "overdue": true
@@ -96,15 +74,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar — the morning was yours, no meetings to answer to."
+      "line": "One appointment in St. Pete breaks up an otherwise loose morning with the girls."
     },
     {
       "time": "Afternoon",
-      "line": "The quiet tail of a travel week, before the house gets loud again."
+      "line": "Wide open, with no calendar holds through the middle of the day."
     },
     {
       "time": "Evening",
-      "line": "Six of you under one roof at the villa, with an early start in St. Pete tomorrow."
+      "line": "Nothing scheduled tonight; tomorrow eases in with a five o'clock birthday."
     }
   ],
   "japanese": {
