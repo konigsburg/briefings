@@ -1,52 +1,64 @@
 {
   "date": "Tuesday, September 22, 2026",
   "generatedAt": "Morning brief · 8:14 PM ET",
-  "theme": "A clear day; the kids and the Orlando weekend are the moving pieces.",
-  "greeting": "A wide-open day, Dan — nothing on the calendar until tomorrow. The only real clock today is the kids at three and the drive over to Orlando.",
+  "theme": "Kids back, and the Orlando week begins.",
+  "greeting": "The girls are with you and Mike as of this afternoon, Dan, and today's calendar stayed clear. The pressure is on a couple of bookings and this weekend's Disney plan, not on today.",
   "needsAttention": [
     {
       "tag": "Disney weekend",
       "title": "Disney tickets are the last open item",
-      "detail": "The Orlando and Disney weekend is Saturday and Sunday, and tickets for all six of you are the only thing still unbooked. Check whether your ticket type needs park reservations before the choice of park narrows."
+      "detail": "Sat-Sun Sept 26-27 for all six of you; lodging and the car are set, tickets are not. Check whether your ticket type needs park reservations and whether Magic Kingdom has a Halloween-party night that weekend before you buy."
     },
     {
-      "tag": "Tomorrow AM",
-      "title": "Claire's St Pete appointment",
-      "detail": "Claire has a 10:20 AM appointment back in St Pete tomorrow while you're at the Orlando villa. That's an early start and a roughly two-hour drive worth planning around tonight."
-    },
-    {
-      "tag": "Books out",
+      "tag": "Book this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "The book-this-week refundable full-size SUV out of Portland is now about a week overdue. Holiday inventory at PWM sells out, so a refundable hold removes the whole risk at no cost."
+      "detail": "A full-size SUV out of Portland over Christmas is the hardest rental in that market and sells out early. Book it refundable now and adjust the dates later; waiting genuinely costs money here."
+    },
+    {
+      "tag": "Passports",
+      "title": "Reschedule the four-kid passport appointment",
+      "detail": "The passport appointment needs rebooking now that you are back from Sept 20; it was due yesterday. Have the packet and the old expired books ready before the new date."
+    },
+    {
+      "tag": "Tomorrow",
+      "title": "Claire's appointment in St Pete",
+      "detail": "On your calendar tomorrow at 10:20 AM in St Petersburg, right after the kids arrived - worth building the morning around it."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "3:00 PM",
+      "title": "Kids pickup",
+      "detail": "Girls join you and Mike, then on toward the Orlando villa",
+      "tag": "Family"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "LinkedIn messages waiting",
-        "detail": "A LinkedIn digest flags two messages awaiting your reply — worth a glance for any networking follow-ups."
+        "tag": "Financial",
+        "title": "Venmo request for mowing",
+        "detail": "Joshua Weaver is requesting $50 for mowing on 9/17 - still unpaid."
       },
       {
-        "tag": "Financial",
-        "title": "Venmo request from Joshua Weaver",
-        "detail": "A $50 Venmo request for mowing (9/17) is sitting unpaid."
+        "tag": "Job search",
+        "title": "Two LinkedIn messages waiting",
+        "detail": "LinkedIn flags two unread messages, one from Claudia - worth a look given the search."
       },
       {
         "tag": "FYI",
-        "title": "ICGN site needs a new login",
-        "detail": "The new ICGN website is live and asks members to set up a fresh login for member-only content."
+        "title": "ICGN relaunched its site",
+        "detail": "The governance network rebuilt its website; members set up a fresh login for member-only content."
       }
     ],
-    "noise": "The rest is newsletters and promos — Delta, Bloomberg, Dwell, a local roundup, and a couple of retailers.",
+    "noise": "The rest is promotions and your own daily Japanese lesson.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Orlando, FL",
+    "location": "St Petersburg, FL",
     "confidence": "high",
     "asOf": "Tuesday Sep 22"
   },
@@ -57,20 +69,20 @@
   },
   "tasks": [
     {
-      "title": "Confirm the kids' passport packet and appointment",
+      "title": "Confirm the Sept 20-Oct 5 rental car is booked",
       "project": "Travel",
-      "due": "Overdue Sep 21",
+      "due": "Overdue Sept 9",
       "overdue": true
     },
     {
-      "title": "Call dermatologist to book wart removal",
+      "title": "Grocery stop before the Orlando villa",
       "project": "Travel",
-      "due": "Overdue Aug 28",
+      "due": "Due Sept 20",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Projects",
+      "project": "Editing",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -83,18 +95,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the morning is genuinely open.",
-      "tag": "open"
+      "line": "Nothing on the calendar - the morning was yours to steer."
     },
     {
       "time": "Afternoon",
-      "line": "Kids picked up at three, then the drive across to the Orlando villa.",
-      "tag": "family"
+      "line": "The girls came over at three; the Orlando stretch starts here."
     },
     {
       "time": "Evening",
-      "line": "Arrive at Royal Palms and get the six of you settled for the week.",
-      "tag": "home"
+      "line": "A full house tonight, with the weekend's plans still to lock down."
     }
   ],
   "japanese": {
