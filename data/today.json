@@ -1,55 +1,44 @@
 {
   "date": "Wednesday, September 23, 2026",
   "generatedAt": "Morning brief · 12:14 PM ET",
-  "theme": "An open day around a single appointment.",
-  "greeting": "The calendar's nearly empty today, Dan — a quick appointment for Claire this morning, then a clear runway. The girls are with you and Mike, so the open hours are family hours.",
+  "theme": "An open day in the middle of the girls' Orlando week.",
+  "greeting": "You're mid-trip in Orlando with the four girls and the calendar is nearly empty — room to breathe before the Disney weekend. Two things want a decision: the ICGN Toronto panel invite and the park tickets.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week is thin inventory and sells out early; a refundable hold now takes the risk off the table."
+      "tag": "Awaiting reply",
+      "title": "ICGN Toronto panel invitation",
+      "detail": "Elizabeth Thomas asked whether you'll moderate Plenary 7 — the stewardship data & reporting deep dive on Thu Nov 5. She's waiting on your feedback; a complimentary ticket and dinner seat are being arranged."
     },
     {
-      "tag": "This weekend",
-      "title": "Confirm Disney park reservations",
-      "detail": "The Orlando weekend is Saturday and Sunday; with the passholder welcome now in hand, verify whether the Incredi-Pass needs park reservations for those days."
+      "tag": "Window closing",
+      "title": "Disney tickets for the weekend",
+      "detail": "Sat–Sun Sept 26–27 is the last open item for the Orlando trip — six tickets still unbooked, and you need to check whether park reservations are required and whether a Halloween party night changes the plan."
     }
   ],
   "schedule": [
     {
       "time": "10:20 AM",
-      "title": "Claire's appointment",
-      "detail": "In St. Pete",
-      "tag": "appt"
+      "title": "Claire appointment",
+      "detail": "St. Pete — earlier this morning",
+      "tag": "family"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "SVP Global Public Policy alert",
-        "detail": "A LinkedIn alert surfaced a Senior VP of Global Public Policy role and similar openings."
-      },
-      {
-        "tag": "Financial",
-        "title": "Venmo request from Joshua Weaver",
-        "detail": "A $50 mowing request from earlier this week is still sitting unpaid."
+        "tag": "FYI",
+        "title": "Responsible Investor: SDR labels under pressure",
+        "detail": "Today's briefing leads on three-quarters of SDR funds seeing outflows since labelling — close to your governance and ESG work."
       }
     ],
-    "noise": "The rest is retail and newsletters — fall socks, chocolate pumpkins, suit deals.",
+    "noise": "The rest is retail and travel promotion — Disney passholder welcome, Company Store, Indochino, airline deals, and a Dex keep-in-touch digest.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Sorted",
-      "title": "Disney passes came through",
-      "detail": "The annual passholder welcome landed this morning, so park access for the weekend looks handled."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "Orlando, FL",
     "confidence": "high",
     "asOf": "Wed Sep 23"
   },
@@ -60,21 +49,9 @@
   },
   "tasks": [
     {
-      "title": "Reschedule kids' passport appointments",
-      "project": "Family Travel",
-      "due": "Overdue Sep 21",
-      "overdue": true
-    },
-    {
-      "title": "Confirm Sept 20–Oct 5 car rental",
-      "project": "Family Travel",
-      "due": "Overdue Sep 9",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Destinations",
-      "due": "Overdue Aug 15",
+      "title": "Book refundable Christmas SUV rental in Portland",
+      "project": "Travel",
+      "due": "Overdue Sep 14",
       "overdue": true
     }
   ],
@@ -86,15 +63,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A short appointment for Claire in St. Pete at 10:20, and the rest of the morning is clear."
+      "line": "A short appointment for Claire in St. Pete opened the day; nothing else is booked before noon."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar past late morning — the afternoon is entirely open."
+      "line": "Open water — no meetings on the calendar, and a villa kitchen worth using with six of you."
     },
     {
       "time": "Evening",
-      "line": "A quiet evening with the girls before tomorrow's five o'clock birthday gathering."
+      "line": "Julia's birthday lands tomorrow evening — a calm night before the Disney weekend."
     }
   ],
   "japanese": {
