@@ -1,55 +1,47 @@
 {
   "date": "Wednesday, September 23, 2026",
   "generatedAt": "Morning brief · 8:05 AM ET",
-  "theme": "An open day in Florida with the girls.",
-  "greeting": "Good morning, Dan. Claire has one appointment mid-morning, then the day opens up. The girls are with you and Mike in Florida this week.",
+  "theme": "An open day in St Pete with the girls",
+  "greeting": "Just one appointment on the calendar today, Dan, and the rest is open — a good day to close out the two bookings that are still hanging over the fall.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Reschedule the girls' passport appointment",
-      "detail": "The four new-passport appointment needs a fresh date now that everyone is back from travel. It has been open since Sept 21."
+      "tag": "This weekend",
+      "title": "Disney tickets still unbooked",
+      "detail": "On the Mike + Dan board this is the last open item for the Sept 26–27 Orlando trip — three days out, and worth checking whether the ticket type needs park reservations."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland over Christmas week sells out early and prices climb; book it refundable now while inventory holds. Flagged since Sept 14."
+      "tag": "Overdue p1",
+      "title": "Book the Maine Christmas SUV rental",
+      "detail": "Nine days past its Sept 14 date. A full-size SUV out of Portland over Christmas week is that market's tightest rental — a refundable hold this week removes the risk."
     }
   ],
   "schedule": [
     {
       "time": "10:20 AM",
       "title": "Claire's appointment",
-      "detail": "In St. Pete, about an hour",
-      "tag": "appt"
+      "detail": "In St Pete — the only fixed point today.",
+      "tag": "Family"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Venmo request from Josh Weaver",
-        "detail": "$50 for mowing (Sept 17) is sitting as a reminder in your inbox."
-      },
-      {
-        "tag": "Job search",
-        "title": "Directors' network summit in NYC",
-        "detail": "PRISM (the rebranded directors' community) opened summit registration — worth a look for board networking."
+        "title": "Venmo request — $50, mowing",
+        "detail": "Reminder from Joshua Weaver for lawn mowing (9-17); sitting unpaid."
       }
     ],
-    "noise": "The rest is newsletters — St. Pete Base Local, a few Substacks, a Duke reunion save-the-date, and retail promos.",
-    "clear": ""
+    "noise": "Everything else is newsletters, retail promos, a couple of NYT Cooking sends, and receipts.",
+    "clear": "No security or job-search mail."
   },
   "resolved": [
-    {
-      "tag": "Booked",
-      "title": "Disney tickets confirmed",
-      "detail": "Walt Disney World order #CXKE94323232 came through Sept 22 for all six — the last open piece of the Orlando weekend."
-    }
+    "Home from Croatia and back in Florida — the Dubrovnik–Tampa leg wrapped and a post-trip survey landed yesterday.",
+    "The girls are back with you and Mike — the Sept 8–21 stretch with Jen ended, handoff was Tuesday."
   ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "St Petersburg, FL",
     "confidence": "high",
     "asOf": "Wednesday Sep 23"
   },
@@ -60,8 +52,14 @@
   },
   "tasks": [
     {
+      "title": "Reschedule the kids' passport appointment",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 21",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
-      "project": "To-do",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
