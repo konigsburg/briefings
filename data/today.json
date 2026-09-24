@@ -1,18 +1,13 @@
 {
   "date": "Thursday, September 24, 2026",
   "generatedAt": "Morning brief · 7:19 AM ET",
-  "theme": "A clear day with the girls before Disney weekend",
-  "greeting": "Nothing on the calendar today, Dan — an open stretch with the girls in the Orlando run before Disney this weekend. The two travel bookings still hanging are about the only things really asking for you.",
+  "theme": "An open Orlando day — one booking worth doing early.",
+  "greeting": "Good morning, Dan. You're at the villa with the girls in Orlando and the calendar is wide open until Julia's birthday at five. The one thing genuinely worth doing today is locking a rental before it sells out.",
   "needsAttention": [
     {
-      "tag": "Disney weekend",
-      "title": "Disney tickets are the last open item",
-      "detail": "Orlando and Disney land Saturday and Sunday for all six of you, and tickets for six still aren't bought. Check whether your ticket type needs park reservations, and whether Magic Kingdom has a Halloween party night that weekend, since that changes which park."
-    },
-    {
-      "tag": "Overdue · travel",
-      "title": "Book the Maine Christmas rental",
-      "detail": "A full-size SUV out of Portland over Christmas week is the thinnest rental in that market and sells out — book it refundable now and fix the dates later. Flagged to book this week; it's now ten days past due."
+      "tag": "Book this week",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your p1 travel task has been overdue since Sept 14. Reserve a refundable full-size SUV out of Portland for Christmas week now — the Pathfinder is south until late May, and holiday PWM inventory is thin and sells out."
     }
   ],
   "schedule": [
@@ -20,25 +15,35 @@
       "time": "5:00 PM",
       "title": "Julia's birthday",
       "detail": "Annual reminder on your calendar",
-      "tag": "reminder"
+      "tag": "personal"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "The IMC intro call is taking shape",
-        "detail": "Chie Mitsui looped in Fincity's Misaki-san and drafted starter questions for the first conversation; the question is aimed at Mike, so nothing is blocked on you yet."
+        "title": "LinkedIn messages waiting",
+        "detail": "Two LinkedIn messages, including one from Claudia, have sat unanswered since Sunday; a Global Public Policy SVP alert also landed."
+      },
+      {
+        "tag": "Financial",
+        "title": "Venmo request — $50",
+        "detail": "Joshua Weaver is requesting $50 for mowing on Sept 17."
       }
     ],
-    "noise": "The rest is newsletters — WSJ, two St. Pete locals, the Press Herald, Italian word-of-the-day, and a couple of travel-review nudges.",
-    "clear": "Nothing else is waiting on your reply."
+    "noise": "The rest is promos and newsletters — Faherty, Mandarin Oriental, Portland Ovations, an Airbnb review nudge.",
+    "clear": "Nothing else is awaiting your reply."
   },
   "resolved": [
     {
-      "tag": "Toronto",
-      "title": "You're moderating a panel at ICGN Toronto",
-      "detail": "You said yes to Elizabeth Thomas on Sep 23; she confirmed and said speaker logistics and a pre-conference panel call are on the way."
+      "tag": "Accepted",
+      "title": "ICGN Toronto panel",
+      "detail": "You said yes to moderating a panel for Elizabeth Thomas at ICGN Toronto; they're sending speaker logistics and a pre-conference call."
+    },
+    {
+      "tag": "Booked",
+      "title": "Disney tickets confirmed",
+      "detail": "Walt Disney World order #CXKE94323232 came through Sept 22, closing the last open item for the Sept 26-27 park days."
     }
   ],
   "context": {
@@ -46,7 +51,7 @@
     "phase": "blue",
     "location": "Orlando, FL",
     "confidence": "low",
-    "asOf": "Thu Sep 24"
+    "asOf": "Thursday Sep 24"
   },
   "recipe": {
     "title": "White sweet potato soup with pickled scallions",
@@ -55,15 +60,15 @@
   },
   "tasks": [
     {
-      "title": "Confirm the St. Pete Airbnb converted to booked",
-      "project": "Family Travel",
-      "due": "charge hit Sep 18",
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     },
     {
-      "title": "Reschedule the kids' passport appointment",
-      "project": "Family Travel",
-      "due": "for after Sep 20 return",
+      "title": "Reschedule the girls' passport appointment",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 21",
       "overdue": true
     }
   ],
@@ -75,15 +80,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The morning is yours with the girls — nothing on the books."
+      "line": "The calendar is empty until evening, so the whole morning is yours to spend as you like."
     },
     {
       "time": "Afternoon",
-      "line": "Still wide open; a good window to lock the two travel bookings that are still hanging."
+      "line": "A villa day in Orlando with the four girls, Disney now two days out on Saturday."
     },
     {
       "time": "Evening",
-      "line": "A birthday reminder for Julia at 5, then the evening stays quiet."
+      "line": "Julia's birthday sits at five — a quiet reminder on the calendar, nothing that needs planning."
     }
   ],
   "japanese": {
