@@ -1,25 +1,25 @@
 {
   "date": "Thursday, September 24, 2026",
   "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "A quiet middle day of the Orlando trip.",
-  "greeting": "A calm Thursday in the middle of the Orlando trip, Dan — the girls are with you and the calendar's clear until evening. The morning's errands are already behind you, so the afternoon is genuinely yours.",
+  "theme": "An open day with a short, overdue to-do list.",
+  "greeting": "The calendar is nearly empty today, Dan — one birthday at five, otherwise wide open. What's pressing isn't meetings; it's a couple of bookings that have slipped past their dates.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Hold the Maine Christmas SUV",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week is the item most likely to bite — holiday inventory is thin and sells out. A refundable hold now costs nothing and closes the risk."
+      "tag": "Overdue task",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "A p1 in Todoist, overdue since Sep 14: reserve a refundable full-size SUV out of Portland for Christmas week before holiday inventory in that market sells out."
     },
     {
-      "tag": "Overdue · passports",
-      "title": "Rebook the kids' passport appointment",
-      "detail": "The four passport appointments still need rescheduling after the Sept 20 return. Books have to land before the Oct 15 December-trip cutoff, so the new date matters more than it feels."
+      "tag": "Overdue task",
+      "title": "Rebook the girls' passport appointment",
+      "detail": "A p1 in Todoist, overdue since Sep 21: now that you're back from the Sep 20 trip, reschedule the four kids' new-passport appointment."
     }
   ],
   "schedule": [
     {
       "time": "5:00 PM",
       "title": "Julia's birthday",
-      "detail": "A standing reminder on your calendar.",
+      "detail": "A birthday marked on your calendar.",
       "tag": "personal"
     }
   ],
@@ -27,33 +27,28 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Board-network connection request",
-        "detail": "A LinkedIn invite from a NASBA Center for the Public Trust board member is waiting on your response."
-      },
-      {
-        "tag": "Job search",
-        "title": "SVP Global Public Policy alert",
-        "detail": "LinkedIn surfaced a Senior Vice President of Global Public Policy role and similar openings."
-      },
-      {
-        "tag": "Financial",
-        "title": "Venmo request for the mow",
-        "detail": "Joshua Weaver is requesting $50 for the Sept 17 lawn mowing."
+        "title": "Board-world connection request",
+        "detail": "A NASBA Center for the Public Trust board member sent a LinkedIn invite to connect."
       },
       {
         "tag": "Security",
-        "title": "AbeBooks password changed",
-        "detail": "A confirmation that your AbeBooks password was updated — worth a glance if it wasn't you."
+        "title": "New Amazon sign-in from Florida",
+        "detail": "An iPhone sign-in to your Amazon account this morning, located in Florida — expected if that was you."
+      },
+      {
+        "tag": "Financial",
+        "title": "Revolut card delivered",
+        "detail": "Your new Revolut card ending 8674 has arrived and still needs activating."
       }
     ],
-    "noise": "The rest is newsletters — cooking, gardening, books, and responsible-investing digests.",
-    "clear": ""
+    "noise": "The rest is newsletters and retail — cooking digests, furniture matches, book and garden promos.",
+    "clear": "Nothing personal is sitting unanswered in the inbox."
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Orlando, FL",
+    "location": "St. Petersburg, FL",
     "confidence": "low",
     "asOf": "Thursday Sep 24"
   },
@@ -64,20 +59,20 @@
   },
   "tasks": [
     {
-      "title": "Call the dermatologist to book the removal",
-      "project": "Family",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Assemble the kids' passport packet",
+      "title": "Assemble the girls' passport packet",
       "project": "Family",
       "due": "Overdue Aug 26",
       "overdue": true
     },
     {
+      "title": "Call the dermatologist to book the appointment",
+      "project": "Family",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -90,15 +85,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning on the trip — the villa grocery run and errands are already done."
+      "line": "A clear calendar to open on — nothing holding the morning."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar through the afternoon, with Disney still two days out."
+      "line": "The afternoon stays open, room for the errands that have been waiting on a date."
     },
     {
       "time": "Evening",
-      "line": "Julia's birthday marks the evening at five, on an otherwise quiet night."
+      "line": "Julia's birthday at 5 is the one fixed point on the day."
     }
   ],
   "japanese": {
