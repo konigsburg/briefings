@@ -1,51 +1,56 @@
 {
   "date": "Thursday, September 24, 2026",
   "generatedAt": "Morning brief · 8:05 AM ET",
-  "theme": "An open Orlando day — one booking worth doing early.",
-  "greeting": "Good morning, Dan. You're at the villa with the girls in Orlando and the calendar is wide open until Julia's birthday at five. The one thing genuinely worth doing today is locking a rental before it sells out.",
+  "theme": "A wide-open family day — no meetings, and Disney two days out.",
+  "greeting": "The calendar's clear, Dan — the day belongs to you and the four girls at the villa, with the Disney weekend on the horizon.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Your p1 travel task has been overdue since Sept 14. Reserve a refundable full-size SUV out of Portland for Christmas week now — the Pathfinder is south until late May, and holiday PWM inventory is thin and sells out."
+      "tag": "Travel · p1",
+      "title": "Book the Maine Christmas SUV before it sells out",
+      "detail": "In Todoist, flagged p1 and overdue since Sept 14. The Pathfinder heads south in October, so Christmas week needs a refundable full-size SUV out of Portland — the thinnest rental in that market over the holidays, and waiting genuinely costs money."
+    },
+    {
+      "tag": "Disney Sat",
+      "title": "Disney tickets are the last open piece for Saturday",
+      "detail": "The Orlando villa and lodging are set for the Sept 26–27 Disney weekend with all four girls; tickets for six are the one item still marked open. Worth confirming whether your ticket type needs park reservations."
+    },
+    {
+      "tag": "Lodging",
+      "title": "Confirm the St Pete stay after the villa",
+      "detail": "The St Pete rental for Sept 27–Oct 5, your next stop when the Orlando villa checks out, was left pending host confirmation after the Sept 18 charge. Worth a glance that it converted to a firm booking."
     }
   ],
   "schedule": [
     {
+      "time": "All day",
+      "title": "Open — no meetings",
+      "detail": "The widest clear stretch of your week, with the girls at the villa.",
+      "tag": "open"
+    },
+    {
       "time": "5:00 PM",
       "title": "Julia's birthday",
-      "detail": "Annual reminder on your calendar",
+      "detail": "A recurring reminder on your calendar.",
       "tag": "personal"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "LinkedIn messages waiting",
-        "detail": "Two LinkedIn messages, including one from Claudia, have sat unanswered since Sunday; a Global Public Policy SVP alert also landed."
+        "tag": "Financial",
+        "title": "Morgan Stanley flags a CashPlus fee",
+        "detail": "The CashPlus account ending 1305 isn't currently meeting fee-avoidance and may be charged; a transfer this week may head it off."
       },
       {
-        "tag": "Financial",
-        "title": "Venmo request — $50",
-        "detail": "Joshua Weaver is requesting $50 for mowing on Sept 17."
+        "tag": "Job search",
+        "title": "Public-policy role in your job alerts",
+        "detail": "A LinkedIn alert surfaced an 'SVP, Global Public Policy' posting and similar roles, in the governance and public-affairs lane you're searching."
       }
     ],
-    "noise": "The rest is promos and newsletters — Faherty, Mandarin Oriental, Portland Ovations, an Airbnb review nudge.",
-    "clear": "Nothing else is awaiting your reply."
+    "noise": "Newsletters and receipts — WSJ, Responsible Investor, the St Pete and Maine locals, a shipped book order, a couple of survey nudges.",
+    "clear": "Nothing else awaiting your reply, and no security mail."
   },
-  "resolved": [
-    {
-      "tag": "Accepted",
-      "title": "ICGN Toronto panel",
-      "detail": "You said yes to moderating a panel for Elizabeth Thomas at ICGN Toronto; they're sending speaker logistics and a pre-conference call."
-    },
-    {
-      "tag": "Booked",
-      "title": "Disney tickets confirmed",
-      "detail": "Walt Disney World order #CXKE94323232 came through Sept 22, closing the last open item for the Sept 26-27 park days."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -56,26 +61,26 @@
   "recipe": {
     "title": "White sweet potato soup with pickled scallions",
     "book": "Canal House Cooks Every Day",
-    "why": "The first real autumn chill is settling in, and this quietly warming, from-scratch soup — bright with pickled scallions — is exactly the kind of technique-driven comfort the season calls for."
+    "why": "With all four girls under one roof and the first real hint of autumn settling in, this gentle from-scratch soup — brightened by the pickled scallions — stretches easily across a full table."
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Passport packet & appointment for the four girls",
+      "project": "Travel (Mike)",
+      "due": "Carried over — reschedule pending after Sept 20 return",
       "overdue": true
     },
     {
-      "title": "Reschedule the girls' passport appointment",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sept 21",
+      "title": "Call dermatologist to book wart removal",
+      "project": "Health (Mike)",
+      "due": "Overdue (p2)",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
-    "evening": "0/4"
+    "morning": "10/10",
+    "day": "6/6",
+    "evening": "4/4"
   },
   "acts": [
     {
@@ -92,7 +97,7 @@
     }
   ],
   "japanese": {
-    "lessonNo": "233",
-    "theme": "Three て-form helpers — ～ておく / ～てしまう / ～てみる"
+    "lessonNo": 235,
+    "theme": "Comparing things — より・のほうが・いちばん"
   }
 }
