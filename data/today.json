@@ -1,60 +1,54 @@
 {
   "date": "Thursday, September 24, 2026",
   "generatedAt": "Morning brief · 10:15 AM ET",
-  "theme": "A wide-open family day — no meetings, and Disney two days out.",
-  "greeting": "The calendar's clear, Dan — the day belongs to you and the four girls at the villa, with the Disney weekend on the horizon.",
+  "theme": "An open day with two overdue bookings worth clearing.",
+  "greeting": "The calendar is nearly empty today, Dan — just a birthday reminder tonight. That leaves the morning free for the two p1 items on the Mike + Dan board that have slipped past their dates.",
   "needsAttention": [
     {
-      "tag": "Travel · p1",
-      "title": "Book the Maine Christmas SUV before it sells out",
-      "detail": "In Todoist, flagged p1 and overdue since Sept 14. The Pathfinder heads south in October, so Christmas week needs a refundable full-size SUV out of Portland — the thinnest rental in that market over the holidays, and waiting genuinely costs money."
+      "tag": "Passport reschedule",
+      "title": "Rebook the girls' passport appointment",
+      "detail": "The appointment for all four girls was flagged to reschedule after the Sept 20 return and is now three days overdue on the board. Routine processing already lands past the Oct 15 book-by date for December travel, so the rebooking timing matters."
     },
     {
-      "tag": "Disney Sat",
-      "title": "Disney tickets are the last open piece for Saturday",
-      "detail": "The Orlando villa and lodging are set for the Sept 26–27 Disney weekend with all four girls; tickets for six are the one item still marked open. Worth confirming whether your ticket type needs park reservations."
-    },
-    {
-      "tag": "Lodging",
-      "title": "Confirm the St Pete stay after the villa",
-      "detail": "The St Pete rental for Sept 27–Oct 5, your next stop when the Orlando villa checks out, was left pending host confirmation after the Sept 18 charge. Worth a glance that it converted to a firm booking."
+      "tag": "Christmas rental",
+      "title": "Hold a refundable Portland SUV",
+      "detail": "The Maine Christmas SUV booking is ten days overdue. A full-size out of PWM over the holiday week is that market's tightest rental and sells out early — a refundable hold now removes the risk at no cost."
     }
   ],
   "schedule": [
     {
-      "time": "All day",
-      "title": "Open — no meetings",
-      "detail": "The widest clear stretch of your week, with the girls at the villa.",
-      "tag": "open"
-    },
-    {
       "time": "5:00 PM",
       "title": "Julia's birthday",
-      "detail": "A recurring reminder on your calendar.",
+      "detail": "Recurring reminder on your calendar",
       "tag": "personal"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Morgan Stanley flags a CashPlus fee",
-        "detail": "The CashPlus account ending 1305 isn't currently meeting fee-avoidance and may be charged; a transfer this week may head it off."
+        "tag": "Job search",
+        "title": "SVP Global Public Policy alert",
+        "detail": "LinkedIn surfaced a Senior VP of Global Public Policy role and similar postings — worth a scan given the search."
       },
       {
-        "tag": "Job search",
-        "title": "Public-policy role in your job alerts",
-        "detail": "A LinkedIn alert surfaced an 'SVP, Global Public Policy' posting and similar roles, in the governance and public-affairs lane you're searching."
+        "tag": "Financial",
+        "title": "Venmo request from Joshua Weaver",
+        "detail": "A $50 request for mowing dated Sept 17 is still open."
+      },
+      {
+        "tag": "Security",
+        "title": "Amazon sign-in this morning",
+        "detail": "A new iPhone sign-in near Florida at 10:13 AM — matches your location, so likely you."
       }
     ],
-    "noise": "Newsletters and receipts — WSJ, Responsible Investor, the St Pete and Maine locals, a shipped book order, a couple of survey nudges.",
-    "clear": "Nothing else awaiting your reply, and no security mail."
+    "noise": "The rest is newsletters and promotions — WSJ, market digests, real estate, travel review nudges.",
+    "clear": "Nothing is awaiting your reply."
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Orlando, FL",
+    "location": "St. Petersburg, FL",
     "confidence": "low",
     "asOf": "Thursday Sep 24"
   },
@@ -65,35 +59,35 @@
   },
   "tasks": [
     {
-      "title": "Passport packet & appointment for the four girls",
-      "project": "Travel (Mike)",
-      "due": "Carried over — reschedule pending after Sept 20 return",
+      "title": "Call dermatologist to book wart removal",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Call dermatologist to book wart removal",
-      "project": "Health (Mike)",
-      "due": "Overdue (p2)",
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "10/10",
-    "day": "6/6",
-    "evening": "4/4"
+    "morning": "0/10",
+    "day": "0/6",
+    "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is empty until evening, so the whole morning is yours to spend as you like."
+      "line": "Nothing scheduled before evening — the open stretch to clear the two overdue p1 bookings while offices are open."
     },
     {
       "time": "Afternoon",
-      "line": "A villa day in Orlando with the four girls, Disney now two days out on Saturday."
+      "line": "Still nothing on the calendar; the passport rebooking is a phone call that needs a weekday to land."
     },
     {
-      "time": "Evening",
-      "line": "Julia's birthday sits at five — a quiet reminder on the calendar, nothing that needs planning."
+      "time": "5 PM onward",
+      "line": "Julia's birthday reminder is the only thing on the calendar tonight."
     }
   ],
   "japanese": {
