@@ -1,61 +1,51 @@
 {
   "date": "Wednesday, September 23, 2026",
   "generatedAt": "Morning brief · 8:14 PM ET",
-  "theme": "Girls back home, Orlando weekend ahead",
-  "greeting": "The girls are with you and Mike again and the calendar is nearly clear, Dan. The one thing worth pinning down before the weekend is Disney.",
+  "theme": "The girls are with you in St Pete, and the day is wide open.",
+  "greeting": "An open day in Florida with the four girls, Dan. Only Claire's appointment sat on the calendar, so the shape of it is yours to set with the Disney weekend now three days out.",
   "needsAttention": [
     {
-      "tag": "Window closing",
-      "title": "Disney tickets are still the open item",
-      "detail": "Your Todoist has park tickets for six as the only unresolved piece for the Sept 26-27 Orlando weekend, now three days out. Confirm whether your ticket type needs park reservations and check the Magic Kingdom calendar for a Halloween party night that changes the plan."
+      "tag": "Disney · this weekend",
+      "title": "Disney tickets still unbooked",
+      "detail": "The Orlando weekend's last open item: six park tickets for Sept 26-27. Check whether your ticket type needs park reservations, and whether a Magic Kingdom Halloween party night changes the plan."
     },
     {
-      "tag": "Overdue booking",
-      "title": "Maine Christmas SUV, book it this week",
-      "detail": "A p1 travel task, now nine days past its Sept 14 date. A full-size SUV out of Portland over Christmas is the thinnest rental in that market. Book it refundable now and adjust dates later."
-    },
-    {
-      "tag": "Payment due",
-      "title": "Josh's mowing invoice sitting in the inbox",
-      "detail": "A $50 Venmo request from Joshua Weaver for the Sept 17 mow has been reminding since yesterday. A quick settle clears it."
+      "tag": "Overdue · book now",
+      "title": "Maine Christmas SUV rental",
+      "detail": "A full-size SUV out of Portland over Christmas week sells out early. Book it refundable this week; the task went overdue Sept 14, and there is no six-seater in Maine for that trip otherwise."
     }
   ],
   "schedule": [
     {
       "time": "10:20 AM",
       "title": "Claire's appointment",
-      "detail": "In St. Petersburg (earlier today)",
-      "tag": "kids"
+      "detail": "In St Pete",
+      "tag": "family"
     }
   ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "SVP Global Public Policy alert",
+        "detail": "A LinkedIn job alert surfacing senior public-policy roles that fit your background."
+      },
+      {
         "tag": "Financial",
         "title": "Venmo request, $50 mowing",
-        "detail": "Joshua Weaver, reminder resent Sept 22."
-      },
-      {
-        "tag": "Job search",
-        "title": "LinkedIn: SVP Global Public Policy alert",
-        "detail": "Automated job-alert digest, worth a skim for the public-affairs roles."
-      },
-      {
-        "tag": "FYI",
-        "title": "Min Jin Lee reading in Portland",
-        "detail": "Print Bookstore evening with Richard Russo, for a Maine stretch."
+        "detail": "Joshua Weaver is requesting $50 for the 9/17 mow."
       }
     ],
-    "noise": "Dermstore, Nextdoor, and an Airbnb review nudge round out the unread.",
+    "noise": "Marketing from OpenAI and Dermstore, a Press Herald newsletter, and an Airbnb review reminder.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "St Petersburg, FL",
     "confidence": "high",
-    "asOf": "Wednesday Sep 23"
+    "asOf": "Wed Sep 23"
   },
   "recipe": {
     "title": "Cider Thighs",
@@ -64,15 +54,15 @@
   },
   "tasks": [
     {
-      "title": "Confirm the St. Pete Airbnb (Sept 27-Oct 5) actually converted from pending",
-      "project": "Family Travel",
-      "due": "Overdue Aug 25",
+      "title": "Reschedule the kids' passport appointment",
+      "project": "Travel",
+      "due": "Overdue Sept 21",
       "overdue": true
     },
     {
-      "title": "Book the Sept 20-Oct 5 full-size SUV outright",
-      "project": "Family Travel",
-      "due": "Overdue Sept 9",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -84,15 +74,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Claire's St. Pete appointment was the only fixed point on the calendar."
+      "line": "Claire's appointment in St Pete was the only fixed point on the day."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled, the stretch was yours to spend on trip logistics or the girls."
+      "line": "Nothing scheduled; the open stretch is yours to spend with the girls."
     },
     {
       "time": "Evening",
-      "line": "Cider thighs on the stove, with Julia's birthday and the Orlando weekend both landing tomorrow onward."
+      "line": "A quiet close, with Julia's birthday reminder on the calendar for tomorrow."
     }
   ],
   "japanese": {
