@@ -1,50 +1,61 @@
 {
   "date": "Thursday, September 24, 2026",
   "generatedAt": "Morning brief · 4:14 PM ET",
-  "theme": "An open day with a short, overdue to-do list.",
-  "greeting": "The calendar is nearly empty today, Dan — one birthday at five, otherwise wide open. What's pressing isn't meetings; it's a couple of bookings that have slipped past their dates.",
+  "theme": "An open day — good for the overdue few.",
+  "greeting": "The calendar is nearly clear, Dan, with just a birthday reminder this evening. The real pull today is a short stack of overdue essentials that only get more expensive to leave.",
   "needsAttention": [
     {
-      "tag": "Overdue task",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "A p1 in Todoist, overdue since Sep 14: reserve a refundable full-size SUV out of Portland for Christmas week before holiday inventory in that market sells out."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV — hold it refundable",
+      "detail": "Overdue since Sept 14 in Todoist (p1). A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out; a refundable booking held now costs nothing and takes the whole risk off the table."
     },
     {
-      "tag": "Overdue task",
-      "title": "Rebook the girls' passport appointment",
-      "detail": "A p1 in Todoist, overdue since Sep 21: now that you're back from the Sep 20 trip, reschedule the four kids' new-passport appointment."
+      "tag": "4 girls · passports",
+      "title": "Reschedule the passport appointment",
+      "detail": "Overdue Sept 21 in Todoist (p1). Now that you are back from the Sept 20 return, rebook the four minor appointments — books already land early-to-mid November, so every week of slip presses harder on the December-trip timeline."
+    },
+    {
+      "tag": "Overdue call",
+      "title": "Call the dermatologist for Mike",
+      "detail": "Overdue Aug 28 in Todoist (p2). New-patient derm waits run weeks, so the booking date matters more than the procedure — worth clearing on the same phone sitting as the passports."
     }
   ],
   "schedule": [
     {
       "time": "5:00 PM",
       "title": "Julia's birthday",
-      "detail": "A birthday marked on your calendar.",
+      "detail": "A birthday reminder on your calendar",
       "tag": "personal"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Board-world connection request",
-        "detail": "A NASBA Center for the Public Trust board member sent a LinkedIn invite to connect."
-      },
-      {
         "tag": "Security",
-        "title": "New Amazon sign-in from Florida",
-        "detail": "An iPhone sign-in to your Amazon account this morning, located in Florida — expected if that was you."
+        "title": "AbeBooks account activity",
+        "detail": "A sign-in attempt, several password-reset emails, and a password change this morning — all from Florida on an iPhone alongside your book order, so most likely you. Worth a glance to be sure."
       },
       {
         "tag": "Financial",
-        "title": "Revolut card delivered",
-        "detail": "Your new Revolut card ending 8674 has arrived and still needs activating."
+        "title": "Venmo request — $50",
+        "detail": "Joshua Weaver's reminder for mowing (9/17) is still open."
+      },
+      {
+        "tag": "Job search",
+        "title": "LinkedIn alert: public-policy roles",
+        "detail": "New 'SVP, Global Public Policy' and similar postings matched your saved alert."
       }
     ],
-    "noise": "The rest is newsletters and retail — cooking digests, furniture matches, book and garden promos.",
-    "clear": "Nothing personal is sitting unanswered in the inbox."
+    "noise": "The rest is retail and newsletters — Faherty, Union Square Wines, Moleskine, a Disney survey.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Settled",
+      "title": "Toronto panel — you're moderating",
+      "detail": "You accepted ICGN's invitation to moderate a panel session; Elizabeth Thomas is sending speaker logistics and setting up a pre-conference call."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -59,20 +70,14 @@
   },
   "tasks": [
     {
-      "title": "Assemble the girls' passport packet",
-      "project": "Family",
+      "title": "Confirm the passport packet documents",
+      "project": "Life admin",
       "due": "Overdue Aug 26",
       "overdue": true
     },
     {
-      "title": "Call the dermatologist to book the appointment",
-      "project": "Family",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
-      "project": "Work",
+      "project": "To-do",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -85,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar to open on — nothing holding the morning."
+      "line": "A blank calendar — the day's real work is the short list of overdue essentials, not meetings."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon stays open, room for the errands that have been waiting on a date."
+      "line": "Still wide open — a clean window to close the Maine rental and the passport reschedule."
     },
     {
       "time": "Evening",
-      "line": "Julia's birthday at 5 is the one fixed point on the day."
+      "line": "Julia's birthday at five is the only fixed point, and an easy landing."
     }
   ],
   "japanese": {
