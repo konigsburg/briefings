@@ -1,25 +1,25 @@
 {
   "date": "Thursday, September 24, 2026",
   "generatedAt": "Morning brief · 12:15 PM ET",
-  "theme": "An open day with two overdue bookings worth clearing.",
-  "greeting": "The calendar is nearly empty today, Dan — just a birthday reminder tonight. That leaves the morning free for the two p1 items on the Mike + Dan board that have slipped past their dates.",
+  "theme": "A quiet middle day of the Orlando trip.",
+  "greeting": "A calm Thursday in the middle of the Orlando trip, Dan — the girls are with you and the calendar's clear until evening. The morning's errands are already behind you, so the afternoon is genuinely yours.",
   "needsAttention": [
     {
-      "tag": "Passport reschedule",
-      "title": "Rebook the girls' passport appointment",
-      "detail": "The appointment for all four girls was flagged to reschedule after the Sept 20 return and is now three days overdue on the board. Routine processing already lands past the Oct 15 book-by date for December travel, so the rebooking timing matters."
+      "tag": "Book this week",
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "A refundable full-size SUV out of Portland for Christmas week is the item most likely to bite — holiday inventory is thin and sells out. A refundable hold now costs nothing and closes the risk."
     },
     {
-      "tag": "Christmas rental",
-      "title": "Hold a refundable Portland SUV",
-      "detail": "The Maine Christmas SUV booking is ten days overdue. A full-size out of PWM over the holiday week is that market's tightest rental and sells out early — a refundable hold now removes the risk at no cost."
+      "tag": "Overdue · passports",
+      "title": "Rebook the kids' passport appointment",
+      "detail": "The four passport appointments still need rescheduling after the Sept 20 return. Books have to land before the Oct 15 December-trip cutoff, so the new date matters more than it feels."
     }
   ],
   "schedule": [
     {
       "time": "5:00 PM",
       "title": "Julia's birthday",
-      "detail": "Recurring reminder on your calendar",
+      "detail": "A standing reminder on your calendar.",
       "tag": "personal"
     }
   ],
@@ -27,28 +27,33 @@
     "flagged": [
       {
         "tag": "Job search",
+        "title": "Board-network connection request",
+        "detail": "A LinkedIn invite from a NASBA Center for the Public Trust board member is waiting on your response."
+      },
+      {
+        "tag": "Job search",
         "title": "SVP Global Public Policy alert",
-        "detail": "LinkedIn surfaced a Senior VP of Global Public Policy role and similar postings — worth a scan given the search."
+        "detail": "LinkedIn surfaced a Senior Vice President of Global Public Policy role and similar openings."
       },
       {
         "tag": "Financial",
-        "title": "Venmo request from Joshua Weaver",
-        "detail": "A $50 request for mowing dated Sept 17 is still open."
+        "title": "Venmo request for the mow",
+        "detail": "Joshua Weaver is requesting $50 for the Sept 17 lawn mowing."
       },
       {
         "tag": "Security",
-        "title": "Amazon sign-in this morning",
-        "detail": "A new iPhone sign-in near Florida at 10:13 AM — matches your location, so likely you."
+        "title": "AbeBooks password changed",
+        "detail": "A confirmation that your AbeBooks password was updated — worth a glance if it wasn't you."
       }
     ],
-    "noise": "The rest is newsletters and promotions — WSJ, market digests, real estate, travel review nudges.",
-    "clear": "Nothing is awaiting your reply."
+    "noise": "The rest is newsletters — cooking, gardening, books, and responsible-investing digests.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "Orlando, FL",
     "confidence": "low",
     "asOf": "Thursday Sep 24"
   },
@@ -59,14 +64,20 @@
   },
   "tasks": [
     {
-      "title": "Call dermatologist to book wart removal",
-      "project": "Mike + Dan — Board",
+      "title": "Call the dermatologist to book the removal",
+      "project": "Family",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
+      "title": "Assemble the kids' passport packet",
+      "project": "Family",
+      "due": "Overdue Aug 26",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -79,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing scheduled before evening — the open stretch to clear the two overdue p1 bookings while offices are open."
+      "line": "A clear morning on the trip — the villa grocery run and errands are already done."
     },
     {
       "time": "Afternoon",
-      "line": "Still nothing on the calendar; the passport rebooking is a phone call that needs a weekday to land."
+      "line": "Nothing on the calendar through the afternoon, with Disney still two days out."
     },
     {
-      "time": "5 PM onward",
-      "line": "Julia's birthday reminder is the only thing on the calendar tonight."
+      "time": "Evening",
+      "line": "Julia's birthday marks the evening at five, on an otherwise quiet night."
     }
   ],
   "japanese": {
