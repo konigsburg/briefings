@@ -1,94 +1,90 @@
 {
-  "lessonNo": 234,
-  "date": "Wednesday, Sep 23",
-  "generatedAt": "Lesson #234 · Sep 23",
-  "theme": "Let's do it / I intend to — the volitional (〜ましょう / 〜よう) and 〜つもり",
-  "intro": "Making plans and suggestions: how to say \"let's,\" \"shall we,\" and \"I intend to\" — perfect for rallying travel companions.",
+  "lessonNo": 235,
+  "date": "Thursday, Sep 24",
+  "generatedAt": "Lesson #235 · Sep 24",
+  "theme": "Comparing things — より・のほうが・いちばん",
+  "intro": "Making comparisons: A is more ~ than B, asking which of two, and the most ~ of a group.",
   "grammar": {
-    "title": "The volitional form (〜ましょう / 〜よう) and 〜つもり",
+    "title": "Comparatives & the superlative",
     "rules": [
       {
-        "label": "Polite — ます → ましょう",
-        "detail": "\"let's ___\"; add か to soften into a suggestion/offer (\"shall we? / shall I?\")",
+        "label": "A は B より 〜",
+        "detail": "A is more ~ than B (the plain 'than' pattern)",
         "examples": [
-          "行きます → 行きましょう (ikimashou — let's go)",
-          "行きましょうか (ikimashou ka — shall we go?)"
+          "しんかんせんはバスよりはやいです → The bullet train is faster than the bus"
         ]
       },
       {
-        "label": "Casual — plain volitional",
-        "detail": "る-verbs: drop る + よう · う-verbs: -u → -ou",
+        "label": "B より A のほうが 〜",
+        "detail": "Same meaning, but spotlights A as the more ~ one",
         "examples": [
-          "食べる → 食べよう (tabeyou)",
-          "行く → 行こう (ikou) · 飲む → 飲もう (nomou) · 話す → 話そう (hanasou)"
+          "バスよりしんかんせんのほうがはやいです → The bullet train is the faster one"
         ]
       },
       {
-        "label": "Irregular verbs",
-        "detail": "memorize these two",
+        "label": "A と B と どちらが 〜ですか",
+        "detail": "Which is more ~, A or B? Answer with 〜のほうが",
         "examples": [
-          "する → しよう (shiyou)",
-          "来る → 来よう (koyou)"
+          "でんしゃとタクシーとどちらがべんりですか → Which is more convenient, the train or a taxi?"
         ]
       },
       {
-        "label": "〜つもり = intend to / plan to",
-        "detail": "plain dictionary verb + つもり; a firmer personal resolve than the volitional",
+        "label": "[group]のなかで Xが いちばん 〜",
+        "detail": "Superlative: X is the most ~ of the group",
         "examples": [
-          "行くつもりです (iku tsumori desu — I'm planning to go)",
-          "行かないつもりです (ikanai tsumori desu — I intend not to go)"
+          "にほんでふじさんがいちばんたかいです → Mt. Fuji is the tallest in Japan"
         ]
       }
     ],
-    "bigPoint": "〜つもり states YOUR settled intention — avoid it for someone else's firm plans; use 〜予定 (schedule) or 〜つもりだと言っていた for those."
+    "bigPoint": "Japanese adjectives don't change to compare — no '-er' ending. はやい stays はやい; you just add より or のほうが."
   },
   "vocab": [
     {
-      "jp": "予定 (よてい)",
-      "romaji": "yotei",
-      "en": "plan, schedule"
+      "jp": "より",
+      "romaji": "yori",
+      "en": "than"
     },
     {
-      "jp": "一緒に (いっしょに)",
-      "romaji": "issho ni",
-      "en": "together"
+      "jp": "〜のほうが",
+      "romaji": "~no hō ga",
+      "en": "more / the ~ one"
     },
     {
-      "jp": "泊まる (とまる)",
-      "romaji": "tomaru",
-      "en": "to stay overnight"
+      "jp": "いちばん・一番",
+      "romaji": "ichiban",
+      "en": "most / #1 / best"
     },
     {
-      "jp": "決める (きめる)",
-      "romaji": "kimeru",
-      "en": "to decide"
+      "jp": "どちら／どっち",
+      "romaji": "dochira / docchi",
+      "en": "which (of two)"
     },
     {
-      "jp": "そろそろ",
-      "romaji": "sorosoro",
-      "en": "soon / about time to (get going)"
+      "jp": "〜のなかで",
+      "romaji": "~no naka de",
+      "en": "among / within (a group)"
     },
     {
-      "jp": "連休 (れんきゅう)",
-      "romaji": "renkyuu",
-      "en": "consecutive holidays, long weekend"
+      "jp": "べんり(な)",
+      "romaji": "benri na",
+      "en": "convenient"
     }
   ],
   "examples": [
     {
-      "jp": "そろそろ行きましょうか。",
-      "romaji": "Sorosoro ikimashou ka.",
-      "en": "Shall we get going soon?"
+      "jp": "このみせで にくまんが いちばん おいしいです。",
+      "romaji": "Kono mise de nikuman ga ichiban oishii desu.",
+      "en": "At this shop, the steamed pork buns are the tastiest."
     },
     {
-      "jp": "今度の連休は京都に泊まるつもりです。",
-      "romaji": "Kondo no renkyuu wa Kyouto ni tomaru tsumori desu.",
-      "en": "I'm planning to stay overnight in Kyoto this coming long weekend."
+      "jp": "きょうは きのうより さむいです。",
+      "romaji": "Kyō wa kinō yori samui desu.",
+      "en": "Today is colder than yesterday."
     }
   ],
-  "note": "〜ましょう is polite \"let's\"; adding か (〜ましょうか) softens it into a suggestion or offer. The plain volitional (行こう) is casual \"let's\" among friends, or \"I think I'll...\" to yourself. 〜つもり is stronger — a settled personal intention.",
+  "note": "In casual speech どちら becomes どっち. Notice the double と in 'A と B と どちらが…?' — the second と bundles the two options together before the question.",
   "selfCheck": {
-    "q": "How would you say \"Let's eat sushi!\" — first politely, then casually?",
-    "a": "Polite: すしを食べましょう。(Sushi o tabemashou.) · Casual: すしを食べよう。(Sushi o tabeyou.)"
+    "q": "How would you ask 'Which do you like better, coffee or tea?' (coffee = コーヒー, tea = おちゃ, to like = すき)",
+    "a": "コーヒーと おちゃと どちらが すきですか。 (Kōhī to ocha to dochira ga suki desu ka?) — casual: どっちがすき？"
   }
 }
