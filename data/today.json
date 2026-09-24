@@ -1,18 +1,18 @@
 {
   "date": "Wednesday, September 23, 2026",
-  "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "The girls are with you in St Pete, and the day is wide open.",
-  "greeting": "An open day in Florida with the four girls, Dan. Only Claire's appointment sat on the calendar, so the shape of it is yours to set with the Disney weekend now three days out.",
+  "generatedAt": "Morning brief · 10:17 PM ET",
+  "theme": "An open day in St Pete — one appointment, then it's yours.",
+  "greeting": "Just Claire's appointment on the calendar today, Dan, so the day is largely your own. Two travel items are still sitting open as the Disney weekend approaches.",
   "needsAttention": [
     {
-      "tag": "Disney · this weekend",
-      "title": "Disney tickets still unbooked",
-      "detail": "The Orlando weekend's last open item: six park tickets for Sept 26-27. Check whether your ticket type needs park reservations, and whether a Magic Kingdom Halloween party night changes the plan."
+      "tag": "Family travel",
+      "title": "Maine Christmas SUV rental still unbooked",
+      "detail": "Your p1 Todoist task, overdue since Sep 14. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market — a refundable hold now removes the risk."
     },
     {
-      "tag": "Overdue · book now",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week sells out early. Book it refundable this week; the task went overdue Sept 14, and there is no six-seater in Maine for that trip otherwise."
+      "tag": "This weekend",
+      "title": "Disney tickets for Sept 26–27 still open",
+      "detail": "The last open item on the Orlando weekend for all six of you — tickets. Worth settling before the weekend, and check whether a Magic Kingdom Halloween-party night changes the plan."
     }
   ],
   "schedule": [
@@ -26,17 +26,17 @@
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "SVP Global Public Policy alert",
-        "detail": "A LinkedIn job alert surfacing senior public-policy roles that fit your background."
+        "tag": "Financial",
+        "title": "Venmo request from Joshua Weaver",
+        "detail": "$50 for mowing dated Sept 17, still showing as a reminder."
       },
       {
-        "tag": "Financial",
-        "title": "Venmo request, $50 mowing",
-        "detail": "Joshua Weaver is requesting $50 for the 9/17 mow."
+        "tag": "Job search",
+        "title": "New LinkedIn messages waiting",
+        "detail": "Claudia messaged you; two messages are flagged as awaiting a reply."
       }
     ],
-    "noise": "Marketing from OpenAI and Dermstore, a Press Herald newsletter, and an Airbnb review reminder.",
+    "noise": "The rest is a LinkedIn job-alert digest, an Airbnb review reminder, and your own daily Japanese lesson.",
     "clear": ""
   },
   "resolved": [],
@@ -45,7 +45,7 @@
     "phase": "blue",
     "location": "St Petersburg, FL",
     "confidence": "high",
-    "asOf": "Wed Sep 23"
+    "asOf": "Wednesday Sep 23"
   },
   "recipe": {
     "title": "Cider Thighs",
@@ -55,13 +55,19 @@
   "tasks": [
     {
       "title": "Reschedule the kids' passport appointment",
-      "project": "Travel",
-      "due": "Overdue Sept 21",
+      "project": "Family travel",
+      "due": "Overdue Sep 21",
+      "overdue": true
+    },
+    {
+      "title": "Confirm the Sept 20–Oct 5 SUV rental",
+      "project": "Family travel",
+      "due": "Overdue Sep 9",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -74,15 +80,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Claire's appointment in St Pete was the only fixed point on the day."
+      "line": "Claire's appointment in St Pete mid-morning is the one fixed point on the day."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled; the open stretch is yours to spend with the girls."
+      "line": "Nothing on the calendar — open time to spend where you choose."
     },
     {
       "time": "Evening",
-      "line": "A quiet close, with Julia's birthday reminder on the calendar for tomorrow."
+      "line": "Julia's birthday lands tomorrow, and the Disney weekend follows on Saturday."
     }
   ],
   "japanese": {
