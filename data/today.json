@@ -1,42 +1,47 @@
 {
   "date": "Friday, September 25, 2026",
   "generatedAt": "Morning brief · 4:14 PM ET",
-  "theme": "An open day to close the bookings that keep slipping.",
-  "greeting": "Nothing's on the calendar today, Dan, which makes it the day to finally close out the travel bookings that keep getting pushed. The girls are with you and Mike tonight.",
+  "theme": "An open day, girls home in Florida.",
+  "greeting": "The calendar is clear today, Dan, with the girls home in Florida. An open stretch -- the only things pulling at it are a couple of travel bookings that have been waiting too long.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Overdue since Sept 14 on the Mike + Dan board. A full-size SUV out of Portland for Christmas week sells out early, so put a refundable hold on one now and fix dates later."
+      "tag": "Window closing",
+      "title": "Book the Maine Christmas SUV rental",
+      "detail": "Flagged p1 in Todoist and 11 days past its book-this-week date. A full-size SUV out of Portland over Christmas is the hardest rental in that market and sells out; a refundable hold now costs nothing and closes the risk."
     },
     {
-      "tag": "Due today · p2",
-      "title": "Three term-life quotes for Mike",
-      "detail": "Due today on the board. Your part is the shopping — quotes, term length, coverage; Mike handles the application, questionnaire, and exam."
-    },
-    {
-      "tag": "Household · p1",
+      "tag": "Blocking Dec travel",
       "title": "Reschedule the kids' passport appointment",
-      "detail": "Overdue on the board since Sept 21. The four-kid passport appointment needs a new date now that you're back from Croatia."
+      "detail": "Marked p1 and four days overdue. All four books are expired and December's trip depends on new ones landing in time, so the reschedule is the thing everything else waits on."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "LinkedIn alerts on policy and markets roles",
-        "detail": "Two automated LinkedIn job alerts landed — an SVP Global Public Policy role and a VP Global Markets posting. Worth a scan; neither needs a reply."
+        "tag": "Security",
+        "title": "abebooks sign-in attempt",
+        "detail": "A Sep 24 alert flags a sign-in from an iPhone near Florida -- likely you, but worth a glance to be sure."
+      },
+      {
+        "tag": "FYI",
+        "title": "IMC first-call questions circulating",
+        "detail": "Chie Mitsui sent draft questions for the first Independent Managers Club conversation; addressed to Mike Lubrano with you cc'd, so nothing is owed from you yet."
       }
     ],
-    "noise": "The rest is market newsletters, a Maine event invite, and retail promotions.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "The rest is newsletters and promotions -- Bloomberg, Alison Roman, a LinkedIn job alert, and the usual retail.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "title": "Toronto panel -- you're moderating",
+      "detail": "You accepted Elizabeth Thomas's invitation to moderate a panel at the ICGN event; her team is sending speaker logistics and setting up a pre-conference call."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "St Petersburg, FL",
     "confidence": "low",
     "asOf": "Friday Sep 25"
   },
@@ -47,15 +52,21 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder down to St Pete",
-      "project": "Mike + Dan — Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
       "due": "Due today",
       "overdue": false
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Plan the Pathfinder drive, Portland to St Pete",
+      "project": "Travel",
+      "due": "Due today",
+      "overdue": false
+    },
+    {
+      "title": "Call dermatologist to book wart-removal appt",
+      "project": "Household",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -67,15 +78,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing is scheduled, so the morning is a rare open stretch to spend on your own terms."
+      "line": "Nothing on the calendar to answer to -- the morning is entirely open."
     },
     {
       "time": "Afternoon",
-      "line": "The clearest block of the week for the board items that have been waiting for a quiet day."
+      "line": "Still no meetings booked; a clear stretch for the two items due today."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you and Mike tonight, so it settles into a home evening in Florida."
+      "line": "The girls are with you and Mike in Florida tonight."
     }
   ],
   "japanese": {
