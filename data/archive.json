@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-25",
+    "kind": "Morning brief",
+    "label": "Friday, Sep 25 · 6:15 AM ET",
+    "summary": "An open day with no calendar events; overdue Maine Christmas SUV and today's term-life quotes lead a light list.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-24",
     "kind": "Morning brief",
     "label": "Thursday, Sep 24 · 10:14 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Thursday, Aug 27 · 10:02 PM ET",
     "summary": "A quiet Thursday mostly cleared — one Valoris call, girls present in St Pete, and overdue Croatia trip bookings the main thing still pending.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-08-26",
-    "kind": "Morning brief",
-    "label": "Wednesday, Aug 26 · 10:06 PM ET",
-    "summary": "An open day in St. Pete with the girls; focus is closing the overdue Croatia and St. Pete bookings and the Nautilus balance before tomorrow's Valoris call.",
     "ref": "today"
   }
 ]
