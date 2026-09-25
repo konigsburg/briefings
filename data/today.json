@@ -1,47 +1,53 @@
 {
   "date": "Friday, September 25, 2026",
   "generatedAt": "Morning brief · 10:20 AM ET",
-  "theme": "An open calendar and a short list of things worth doing.",
-  "greeting": "Nothing's on the calendar today, Dan, so the whole day is yours. A couple of overdue bookings and two items due today are the only real claims on it.",
+  "theme": "Back on dry land, and the day is open.",
+  "greeting": "Welcome home from Croatia, Dan — nothing is on the calendar today and the girls are with you and Mike. The only real pull is a couple of book-this-week travel items that have been quietly slipping.",
   "needsAttention": [
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV is 11 days past its flag",
-      "detail": "Your p1 to hold a refundable full-size SUV out of Portland for Christmas week was flagged Sept 14; holiday inventory at PWM sells out, so a refundable booking now (dates adjustable later) closes the risk."
+      "title": "Maine Christmas SUV rental",
+      "detail": "Your p1 task on the Mike + Dan board has been overdue since Sep 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out; a refundable hold now costs nothing."
     },
     {
       "tag": "Due today",
       "title": "Three term-life quotes for Mike",
-      "detail": "Your p2 shopping task lands today, but it still needs a target coverage amount and term length before you can pull real quotes."
+      "detail": "Your p2 task is due today. It is waiting on two decisions before you can shop: target coverage amount and term length."
+    },
+    {
+      "tag": "Decision open",
+      "title": "Pathfinder drive-down plan",
+      "detail": "Due today (p2): the Oct 5–18 Portland to St Pete drive is settled, but where the car parks in Florida between your visits is still open — TPA or SRQ long-term is the current thinking."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "SVP Global Public Policy alert",
-        "detail": "LinkedIn surfaced a Senior VP of Global Public Policy opening plus similar roles worth a scan."
-      },
-      {
-        "tag": "Financial",
-        "title": "Venmo request, $50",
-        "detail": "Joshua Weaver's mowing request from Sept 17 is still open."
-      },
-      {
         "tag": "Security",
-        "title": "Amazon sign-in near Florida",
-        "detail": "A Sept 24 iPhone sign-in flagged near Florida, almost certainly you, but there if it wasn't."
+        "title": "Revolut card to activate",
+        "detail": "Your new Revolut card (ending 8674) was delivered and needs activation before you can use it."
+      },
+      {
+        "tag": "FYI",
+        "title": "Claire's Aladdin show",
+        "detail": "Mike forwarded details from Suncoast Academy about Claire's school production."
       }
     ],
-    "noise": "The rest is an AbeBooks password-change confirmation and your daily Japanese lesson.",
-    "clear": ""
+    "noise": "Otherwise it is newsletters, retail sales, and travel promos.",
+    "clear": "Nothing else is waiting on your reply."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Networking",
+      "title": "ICGN Toronto panel confirmed",
+      "detail": "You accepted moderating the panel; ICGN is sending speaker logistics next."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Florida",
+    "location": "St. Petersburg, FL",
     "confidence": "low",
     "asOf": "Friday Sep 25"
   },
@@ -52,21 +58,27 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder south, Oct 5-18 window",
-      "project": "Household",
-      "due": "Due today",
-      "overdue": false
-    },
-    {
-      "title": "Reschedule the 4-kids passport appointment",
-      "project": "Household",
+      "title": "Reschedule the passport appointment (4 kids)",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 21",
       "overdue": true
     },
     {
-      "title": "Assemble the 4-kids passport packet",
-      "project": "Household",
+      "title": "Assemble the passport packet",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Aug 26",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist to book wart removal",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -78,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings anywhere on the calendar today, so the morning is entirely uncommitted."
+      "line": "The calendar is empty — nothing scheduled to pull you off your own priorities."
     },
     {
       "time": "Afternoon",
-      "line": "The open stretch is the natural place for the household backlog that's been slipping."
+      "line": "Still clear; the kind of open block that is easy to lose and worth protecting."
     },
     {
       "time": "Evening",
-      "line": "The girls are home with you and Mike this week, so it's an evening for the kitchen."
+      "line": "The girls are with you and Mike tonight — an unhurried evening at home."
     }
   ],
   "japanese": {
