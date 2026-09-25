@@ -1,49 +1,43 @@
 {
   "date": "Friday, September 25, 2026",
   "generatedAt": "Morning brief · 7:23 AM ET",
-  "theme": "A clear day — room for the board search",
-  "greeting": "Nothing is on the calendar today, Dan — a rare open Friday. Good conditions to clear a couple of overdue bookings and put real time into the board-seat work.",
+  "theme": "An open calendar and a short list of things worth doing.",
+  "greeting": "Nothing's on the calendar today, Dan, so the whole day is yours. A couple of overdue bookings and two items due today are the only real claims on it.",
   "needsAttention": [
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV isn't booked yet",
-      "detail": "Your [DAN] Household task is ~11 days overdue (p1): reserve a refundable full-size SUV out of Portland for Christmas week before holiday inventory sells out. Refundable now costs nothing and closes the risk."
+      "title": "Maine Christmas SUV is 11 days past its flag",
+      "detail": "Your p1 to hold a refundable full-size SUV out of Portland for Christmas week was flagged Sept 14; holiday inventory at PWM sells out, so a refundable booking now (dates adjustable later) closes the risk."
     },
     {
       "tag": "Due today",
-      "title": "Term life quotes for Mike",
-      "detail": "Your [DAN] task to gather 3 term-life quotes is due today. It still needs a target coverage amount and term length before you can shop it."
+      "title": "Three term-life quotes for Mike",
+      "detail": "Your p2 shopping task lands today, but it still needs a target coverage amount and term length before you can pull real quotes."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "SVP Global Public Policy alert",
+        "detail": "LinkedIn surfaced a Senior VP of Global Public Policy opening plus similar roles worth a scan."
+      },
+      {
+        "tag": "Financial",
+        "title": "Venmo request, $50",
+        "detail": "Joshua Weaver's mowing request from Sept 17 is still open."
+      },
+      {
         "tag": "Security",
-        "title": "AbeBooks password activity",
-        "detail": "A sign-in attempt and several password-reset emails came through yesterday, ending in a password change — worth a glance to confirm it was you."
-      },
-      {
-        "tag": "FYI",
-        "title": "Dropbox is over its storage limit",
-        "detail": "Dropbox warns files start being deleted around Oct 24 unless you free space or upgrade."
-      },
-      {
-        "tag": "FYI",
-        "title": "Claire's Aladdin show details",
-        "detail": "Mike forwarded the note from Suncoast Academy about Claire's Aladdin performance."
+        "title": "Amazon sign-in near Florida",
+        "detail": "A Sept 24 iPhone sign-in flagged near Florida, almost certainly you, but there if it wasn't."
       }
     ],
-    "noise": "The rest is newsletters and promos — MINI, Hilton, Amtrak, Breeze, and a few Substacks.",
+    "noise": "The rest is an AbeBooks password-change confirmation and your daily Japanese lesson.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Wrapped up",
-      "title": "Toronto panel — you're on",
-      "detail": "You confirmed moderating a panel at the ICGN event; the team is arranging your complimentary ticket and speaker logistics."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -58,15 +52,21 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder Portland to St Pete (Oct 5-18 window)",
+      "title": "Drive the Pathfinder south, Oct 5-18 window",
       "project": "Household",
       "due": "Due today",
       "overdue": false
     },
     {
-      "title": "Reschedule the 4-kid passport appointment",
-      "project": "Household (Mike)",
+      "title": "Reschedule the 4-kids passport appointment",
+      "project": "Household",
       "due": "Overdue Sep 21",
+      "overdue": true
+    },
+    {
+      "title": "Assemble the 4-kids passport packet",
+      "project": "Household",
+      "due": "Overdue Aug 26",
       "overdue": true
     }
   ],
@@ -78,15 +78,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is clear — the whole morning is unclaimed."
+      "line": "No meetings anywhere on the calendar today, so the morning is entirely uncommitted."
     },
     {
       "time": "Afternoon",
-      "line": "No meetings on the books, so it's open time for the board search and the overdue travel bookings."
+      "line": "The open stretch is the natural place for the household backlog that's been slipping."
     },
     {
       "time": "Evening",
-      "line": "A quiet Friday close, with tomorrow's calendar empty too."
+      "line": "The girls are home with you and Mike this week, so it's an evening for the kitchen."
     }
   ],
   "japanese": {
