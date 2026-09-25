@@ -1,18 +1,23 @@
 {
   "date": "Friday, September 25, 2026",
   "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "An open day — nothing on the calendar.",
-  "greeting": "Good afternoon, Dan. The calendar is empty today, so the whole day is yours — the girls are home with you and Mike, and a few overdue board items are waiting quietly for a slot.",
+  "theme": "An open day to close the bookings that keep slipping.",
+  "greeting": "Nothing's on the calendar today, Dan, which makes it the day to finally close out the travel bookings that keep getting pushed. The girls are with you and Mike tonight.",
   "needsAttention": [
     {
       "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV rental",
-      "detail": "On the Mike + Dan board, 11 days overdue — a full-size SUV out of PWM over Christmas week is the hardest rental in that market and sells out. Booking it refundable now costs nothing and closes the risk."
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Overdue since Sept 14 on the Mike + Dan board. A full-size SUV out of Portland for Christmas week sells out early, so put a refundable hold on one now and fix dates later."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Kids' passport appointment and packet",
-      "detail": "On the board, the four-kid passport appointment still needs rescheduling after the Croatia return, and the DS-11 packet (printed DS-11s, birth-certificate copies, State Dept. check) has to be assembled before you turn up."
+      "tag": "Due today · p2",
+      "title": "Three term-life quotes for Mike",
+      "detail": "Due today on the board. Your part is the shopping — quotes, term length, coverage; Mike handles the application, questionnaire, and exam."
+    },
+    {
+      "tag": "Household · p1",
+      "title": "Reschedule the kids' passport appointment",
+      "detail": "Overdue on the board since Sept 21. The four-kid passport appointment needs a new date now that you're back from Croatia."
     }
   ],
   "schedule": [],
@@ -20,23 +25,18 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "SVP, Global Public Policy — LinkedIn alert",
-        "detail": "A LinkedIn job alert surfaced a Senior VP of Global Public Policy role and similar postings — close to your governance and public-affairs lane, worth a scan."
-      },
-      {
-        "tag": "Financial",
-        "title": "Apple subscription renewals",
-        "detail": "Receipts landed for Navionics Boating ($49.99/yr, renewed today), Claude Pro, and Apple Music — nothing to do unless you're trimming subscriptions."
+        "title": "LinkedIn alerts on policy and markets roles",
+        "detail": "Two automated LinkedIn job alerts landed — an SVP Global Public Policy role and a VP Global Markets posting. Worth a scan; neither needs a reply."
       }
     ],
-    "noise": "The rest is newsletters and shop mail — County Highway, Monocle, NYT Cooking, Dex, and a couple of receipts.",
+    "noise": "The rest is market newsletters, a Maine event invite, and retail promotions.",
     "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, Florida",
+    "location": "St. Petersburg, FL",
     "confidence": "low",
     "asOf": "Friday Sep 25"
   },
@@ -47,21 +47,15 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Drive the Pathfinder down to St Pete",
       "project": "Mike + Dan — Board",
       "due": "Due today",
       "overdue": false
     },
     {
-      "title": "Plan the Pathfinder drive-down, Portland → St Pete",
-      "project": "Mike + Dan — Board",
-      "due": "Due today (Oct 5–18 window)",
-      "overdue": false
-    },
-    {
-      "title": "Call dermatologist to book wart removal",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Aug 28",
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -73,18 +67,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar to start — the day opens flat and quiet.",
-      "tag": "open"
+      "line": "Nothing is scheduled, so the morning is a rare open stretch to spend on your own terms."
     },
     {
       "time": "Afternoon",
-      "line": "Still no meetings; a clear stretch to spend on whatever's been waiting.",
-      "tag": "open"
+      "line": "The clearest block of the week for the board items that have been waiting for a quiet day."
     },
     {
       "time": "Evening",
-      "line": "The girls are home with you and Mike in Florida — a settled evening in.",
-      "tag": "home"
+      "line": "The girls are with you and Mike tonight, so it settles into a home evening in Florida."
     }
   ],
   "japanese": {
