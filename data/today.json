@@ -1,49 +1,44 @@
 {
   "date": "Saturday, September 26, 2026",
   "generatedAt": "Morning brief · 12:14 PM ET",
-  "theme": "An open Saturday, girls at home.",
-  "greeting": "A clear Saturday with the girls around, Dan, and nothing on the calendar to answer to. The one thing worth catching before it sells out is the Christmas rental.",
+  "theme": "A wide-open Saturday",
+  "greeting": "Nothing on the calendar today and the girls are around, so the day is yours to shape. Two things worth not letting drift any further: a governance email that landed at your dead KPMG address, and the Maine Christmas rental.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV, before it's gone",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early. Book a refundable one now; this p1 has been sitting since Sep 14, and the Pathfinder heads south in October."
+      "tag": "Board network",
+      "title": "NACD New England wants you on the Maine committee",
+      "detail": "Kevin McGovern followed up to your gmail — \"Did you get this?\" — because his note about your interest in the NACDNE Maine Programming Committee bounced off your old dkonigsburg@kpmg.com address. Several NACDNE staff are cc'd and it's moving without you until you reply from a live address."
     },
     {
-      "tag": "Tomorrow, 9 AM",
-      "title": "Sunday review with Mike",
-      "detail": "The 15-minute board review runs at 9 with Mike. Arrive having glanced at what's slipped in the Dan & Mike board so you can promote what's actually active this week."
+      "tag": "Books today",
+      "title": "Christmas SUV out of Portland sells out",
+      "detail": "Your own p1 note flags this as the one most likely to bite: a full-size SUV at PWM over Christmas week is the hardest rental in that market. Book a refundable one now and adjust dates later — it's been sitting since Sep 14."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "abebooks sign-in attempt",
-        "detail": "A sign-in try was flagged Sep 24 from Florida, most likely you, but worth a quick look."
+        "tag": "Financial",
+        "title": "Chase statement is ready",
+        "detail": "Card ...6571, statement balance $64.57, due Oct 22, autopay enabled — nothing to do, just noting it."
       },
       {
-        "tag": "FYI",
-        "title": "Drew's waiting to hear back",
-        "detail": "Andrew replied Thursday about meeting up when you're back north next week; the thread's on you now."
+        "tag": "Financial",
+        "title": "$9.99 to Whitepages via PayPal",
+        "detail": "A people-search charge posted today; worth a glance in case it's a subscription you meant to drop."
       }
     ],
-    "noise": "The rest of the inbox is retail and newsletters, from Indochino and Dermstore to a few Substacks.",
+    "noise": "Around 18 other unread are retail promos, newsletters, and travel deals.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "title": "You're on the ICGN Toronto panel",
-      "detail": "You confirmed with Elizabeth on Wednesday that you'll moderate a panel; ICGN is handling logistics and the pre-conference call from here."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "low",
-    "asOf": "Saturday Sep 26"
+    "asOf": "Sat Sep 26"
   },
   "recipe": {
     "title": "Chicken, Sherry, Almond Pot Roast",
@@ -53,13 +48,13 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Sort the Pathfinder drive south, Oct 5-18",
-      "project": "Dan & Mike",
+      "title": "Plan the Pathfinder drive south (Oct 5–18 window)",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
     }
@@ -72,15 +67,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar's empty today, a rare fully open Saturday with the girls around."
+      "line": "Nothing scheduled — the morning is entirely open."
     },
     {
       "time": "Afternoon",
-      "line": "No meetings pull on the afternoon; it's yours to spend."
+      "line": "Still clear, with no calls or commitments on the books."
     },
     {
       "time": "Evening",
-      "line": "Room to cook or read tonight, nothing formal on the books."
+      "line": "Tomorrow opens with the 15-minute Sunday review with Mike at 9."
     }
   ],
   "japanese": {
