@@ -1,42 +1,47 @@
 {
   "date": "Saturday, September 26, 2026",
   "generatedAt": "Morning brief · 7:15 AM ET",
-  "theme": "An open Saturday, girls in tow",
-  "greeting": "Morning, Dan. The calendar's clear and the girls are with you and Mike in Florida — a rare open Saturday, with only a short review to line up for tomorrow.",
+  "theme": "An open Saturday to clear the board.",
+  "greeting": "Clear calendar today, Dan — no meetings, and the girls are in the house. A quiet Saturday in St. Pete to knock down a few overdue board items before tomorrow's Sunday review with Mike.",
   "needsAttention": [
     {
-      "tag": "Overdue · book now",
-      "title": "Lock in the Maine Christmas rental",
-      "detail": "On the Mike + Dan board since Sep 14 — a refundable full-size SUV out of Portland for Christmas week, the one car that seats everyone once the Pathfinder heads south. Holiday inventory at PWM sells out early, so a refundable hold now costs nothing and closes the risk."
+      "tag": "Prep · tomorrow",
+      "title": "Sunday review with Mike at 9",
+      "detail": "Tomorrow's 15-minute board sweep opens on the Mike + Dan board — a glance today at what's active and what has slipped means you arrive with the agenda already in hand."
     },
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Board sweep with Mike at 9",
-      "detail": "Your 15-minute Sunday review is on the calendar for 9 AM. A glance at the overdue items on the board tonight will make tomorrow move fast."
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas rental",
+      "detail": "Flagged on the board as the item most likely to bite — a refundable full-size SUV out of Portland for Christmas week, overdue since Sep 14. Holiday inventory at PWM sells out, so a refundable hold now costs nothing."
+    },
+    {
+      "tag": "Overdue · p2",
+      "title": "Three term-life quotes for Mike",
+      "detail": "Due yesterday on the board — the shopping half is yours (quotes, term length, coverage). It still needs a target coverage amount and term before the numbers can be run."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "AbeBooks sign-in attempt",
-        "detail": "AbeBooks reported a sign-in attempt from an Apple iPhone near Florida on Sep 24 — a quick look confirms whether it was you."
+        "tag": "Financial",
+        "title": "Venmo request from the lawn crew",
+        "detail": "Joshua Weaver is asking $50 for the Sep 17 mowing — an open request still sitting unread in the inbox."
       },
       {
-        "tag": "Financial",
-        "title": "Chase card statement ready",
-        "detail": "Statement posted for card ...6571: $64.57 due Oct 22, auto-pay already on."
+        "tag": "Security",
+        "title": "AbeBooks sign-in alert",
+        "detail": "A sign-in flagged from an iPhone near Florida on Sep 24 — the same moment as your own book order, so almost certainly you, but worth a glance."
       }
     ],
-    "noise": "The rest is newsletters and shop promos — the FT, the Press Herald, cooking Substacks, and language-app pitches.",
-    "clear": "No unanswered asks left sitting in the inbox."
+    "noise": "The rest is promotions and receipts — Hadestown tickets, a Disney confirmation, an AbeBooks order, and the daily Japanese lesson.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Replied",
-      "title": "Drew wrote back about meeting up",
-      "detail": "After your resend, Drew Ross answered on the Neuralink thread Thursday — he's skipping the Vinalhaven party, but the door's open to see you when you're back next week."
+      "tag": "Job search",
+      "title": "You're moderating a panel at ICGN Toronto",
+      "detail": "Elizabeth Thomas confirmed your yes and will send speaker logistics plus a pre-conference call — nothing owed from you now."
     }
   ],
   "context": {
@@ -53,14 +58,8 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south (Oct 5–18)",
-      "project": "Mike + Dan board",
+      "title": "Drive the Pathfinder down, Oct 5-18",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
@@ -79,15 +78,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing's on the calendar — a clear, open Saturday that's entirely yours."
+      "line": "A clear calendar to open the weekend — nothing scheduled today."
     },
     {
       "time": "Afternoon",
-      "line": "The middle of the day is unclaimed, good hours for the things that only move when you sit down with them."
+      "line": "Open hours to make a real dent in the board before it resets tomorrow."
     },
     {
       "time": "Evening",
-      "line": "An unhurried close — the day asks nothing of you after dark."
+      "line": "With the girls in the house, a good evening to cook something slow and wind down."
     }
   ],
   "japanese": {
