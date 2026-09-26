@@ -1,92 +1,92 @@
 {
-  "date": "Sat, Sep 19",
-  "generatedAt": "Weekly · Sep 19",
-  "theme": "End-of-season tomato sugo + brothy white beans — two Saturday batches that carry a full-house week of rustic Italian dinners the girls will actually eat.",
+  "date": "Sat, Sep 26",
+  "generatedAt": "Weekly · Sep 26",
+  "theme": "Sunday sugo season: a pork-and-fennel ragù and an olive-oil squash-and-bean traybake to carry a full-house week.",
   "components": [
     {
-      "name": "End-of-Season Tomato Sugo",
-      "time": "~75 min, mostly hands-off",
-      "ingredients": "5 lb ripe tomatoes (or 2x 28oz San Marzano if the fresh ones are past it), 1 large onion, 1 carrot, 1 celery rib, 4 garlic cloves, generous olive oil, basil stems, pinch chili, salt",
-      "method": "Build a slow soffritto: finely dice onion, carrot and celery and sweat gently in a good pour of olive oil over low heat 12-15 min until soft and sweet, not browned. Add sliced garlic for a minute, then the tomatoes (crush fresh by hand, or the canned ones), a few basil stems, salt and a pinch of chili. Simmer uncovered on low 45-60 min, stirring now and then, until glossy and thick. Fish out the basil stems. Cool and store ~3 qt in jars; keeps 5 days in the fridge, freezes well."
+      "name": "Pork & Fennel Ragù (the Sunday sugo)",
+      "time": "~2 hrs, mostly hands-off simmer",
+      "ingredients": "2 lb ground pork, 1 lb ground beef, 1 fennel bulb, 2 onions, 3 carrots, 4 garlic cloves, 2 tbsp tomato paste, 1 cup white wine, two 28-oz cans whole tomatoes, fennel seed, bay, Parmigiano rind, olive oil",
+      "method": "Build a slow soffritto: finely dice fennel, onion, and carrot and sweat them in a generous pour of olive oil until soft and sweet, 12-15 min. Push aside and brown the pork and beef hard, undisturbed, to build fond. Toast a spoon of fennel seed and the tomato paste for a minute, then deglaze with the white wine and scrape up the brown bits. Add crushed tomatoes, a parm rind, and bay; simmer gently 90 min until glossy and thick. Cool. Keeps 4 days in the fridge and freezes beautifully."
     },
     {
-      "name": "Brothy White Bean Conserva",
-      "time": "~90 min, unattended once simmering",
-      "ingredients": "1 lb dried cannellini or gigante beans (soaked overnight), 1 onion halved, 1 head garlic halved crosswise, 4 sage leaves, 2 bay, a wide strip of lemon peel, olive oil, salt",
-      "method": "Drain the soaked beans into a pot, cover by two inches with fresh water, add onion, garlic, sage, bay, lemon peel and a big glug of olive oil. Bring to a bare simmer and hold it there — never a hard boil, which splits the skins — for 60-90 min until completely creamy. Salt generously only in the last 15 min. Cool the beans IN their liquid; that starchy, olive-oiled broth is half the point. Store ~6 cups beans plus liquid; keeps 5 days."
+      "name": "Olive-Oil Roasted Delicata & White Beans",
+      "time": "~40 min, hands-off in the oven",
+      "ingredients": "3 delicata squash, two 15-oz cans cannellini (drained), 2 pints cherry tomatoes, 5 smashed garlic cloves, rosemary & thyme, chili flakes, lemon, lots of olive oil",
+      "method": "Halve and seed the delicata and cut into skin-on half-moons. On a sheet pan, toss with the drained beans, cherry tomatoes, smashed garlic, herb sprigs, salt, a pinch of chili, and a real flood of olive oil. Roast at 425F for 30-35 min until the squash caramelizes and the tomatoes burst into the oil. Finish with lemon zest. Holds 4-5 days; the tomatoey oil doubles as a dressing."
     }
   ],
   "dinners": [
     {
-      "name": "Rigatoni al Pomodoro",
-      "time": "20 min",
-      "ingredients": "1.5 lb rigatoni, ~1 qt tomato sugo, parmesan, basil, olive oil, splash pasta water",
-      "steps": [
-        "Boil rigatoni in well-salted water until just shy of al dente.",
-        "Warm the sugo in a wide pan with a little olive oil.",
-        "Drag the pasta straight into the sauce with a splash of pasta water; toss hard 1-2 min so it emulsifies and coats.",
-        "Off heat, fold in a handful of grated parm and torn basil. Serve with extra parm at the table for the girls."
-      ]
-    },
-    {
-      "name": "Seared Cod over White Beans",
+      "name": "Rigatoni al Ragù",
       "time": "25 min",
-      "ingredients": "6 cod or hake fillets (~2 lb), the white beans + their broth, a bunch of spinach or chard, lemon, garlic, olive oil",
+      "ingredients": "Pork & fennel ragù, rigatoni, Parmigiano, basil, olive oil",
       "steps": [
-        "Warm the beans with a ladle of their broth and a clove of smashed garlic; wilt in the greens, keep loose and brothy. Spoon into shallow bowls.",
-        "Pat cod very dry, salt it. Heat olive oil in a nonstick or well-seasoned pan until shimmering.",
-        "Lay fillets in presentation-side down; don't move them 3-4 min until a golden crust releases cleanly.",
-        "Flip, cut the heat, and spoon the hot oil over the top (arroser) 1 min to finish. Set fish on the beans, finish with lemon and oil. Flake the girls' portions off the bone-free fillet."
+        "Boil rigatoni in well-salted water until just shy of al dente; save a mug of pasta water.",
+        "Warm a big ladle of ragù per portion in a wide pan.",
+        "Drain pasta and toss into the ragù with a splash of pasta water, finishing the cook in the sauce.",
+        "Off heat, stir in grated parm and a thread of olive oil until glossy; tear basil over.",
+        "Serve with more parm at the table."
       ]
     },
     {
-      "name": "Chicken Cacciatora over Soft Polenta",
-      "time": "40 min, mostly hands-off",
-      "ingredients": "8 bone-in chicken thighs, ~1 qt tomato sugo, 1 sliced bell pepper, splash white wine, rosemary, 1.5 cups polenta, butter/parm",
+      "name": "Baked Polenta with Ragù & Mozzarella",
+      "time": "35 min",
+      "ingredients": "Polenta/coarse cornmeal, pork & fennel ragù, fresh mozzarella, butter, Parmigiano",
       "steps": [
-        "Brown salted thighs skin-side down in olive oil until deeply golden; remove.",
-        "Soften the pepper in the fat, deglaze with wine, add the sugo and a rosemary sprig.",
-        "Nestle the thighs back in, cover partway and simmer gently 25-30 min until tender.",
-        "Meanwhile cook polenta soft and loose, finish with butter and parm. Spoon chicken and sauce over; kids get pulled chicken on polenta."
+        "Cook polenta in salted water, whisking, until creamy; beat in butter and a handful of parm.",
+        "Spread half the polenta in a baking dish, spoon over ragù, then the rest of the polenta.",
+        "Top with torn fresh mozzarella and a dusting of parm.",
+        "Bake at 425F for 15-18 min until bubbling and browned in spots.",
+        "Rest 5 min before scooping so it sets up."
       ]
     },
     {
-      "name": "Pasta e Fagioli",
+      "name": "White Bean & Squash Soup with Greens",
+      "time": "30 min",
+      "ingredients": "Roasted delicata & white beans, chicken or veg broth, kale or cavolo nero, garlic, lemon, olive oil",
+      "steps": [
+        "Sizzle a little sliced garlic in olive oil in a pot until fragrant.",
+        "Add most of the roasted squash-and-bean traybake plus broth to cover; simmer 10 min.",
+        "Blend a third of it smooth and stir back for body, leaving the rest chunky.",
+        "Fold in shredded kale and cook until tender, 5 min; brighten with lemon.",
+        "Ladle into bowls and finish each with a heavy drizzle of olive oil."
+      ]
+    },
+    {
+      "name": "Crisp-Seared Cod over Squash & Beans, Salsa Verde",
       "time": "25 min",
-      "ingredients": "the white beans + broth, ~1 cup tomato sugo, 1 cup small pasta (ditalini), escarole or kale, parm rind, olive oil, crusty bread",
+      "ingredients": "Cod fillets, roasted delicata & white beans, parsley, capers, anchovy, garlic, red wine vinegar, olive oil",
       "steps": [
-        "Warm the beans and their broth with the sugo, a parm rind and enough water to make it soupy.",
-        "Add a couple handfuls of chopped escarole or kale; simmer 8 min.",
-        "Stir in ditalini and cook right in the pot until tender, adding water as it drinks it up.",
-        "Mash a ladle of beans against the side for body. Big glug of raw olive oil per bowl, parm and bread alongside."
+        "Chop a quick salsa verde: parsley, capers, anchovy, garlic, vinegar, and olive oil.",
+        "Pat the cod bone-dry and salt it; warm the squash-and-bean traybake in a low oven.",
+        "Sear the cod in a hot oiled pan, pressing gently, until a deep golden crust forms; flip once and finish.",
+        "Spoon the warm squash and beans onto plates.",
+        "Lay the cod on top and spoon salsa verde generously over."
       ]
     }
   ],
   "technique": {
-    "name": "Pan-searing delicate fish + arroser (oil basting)",
-    "tiedTo": "The seared cod over white beans — dry the fillet hard, get the oil truly shimmering, and leave it undisturbed until the crust releases on its own; then cut the heat and spoon the hot oil over to finish gently instead of overcooking the second side. Nails the crisp-outside, just-set-inside fish that makes simple seafood feel restaurant-level."
+    "name": "Pan-searing white fish for a crisp, golden crust",
+    "tiedTo": "The seared cod over squash and beans: dry the fillets thoroughly, salt just before cooking, get the pan and oil properly hot, lay the fish down away from you, and DON'T move it until it releases on its own. Press lightly for full contact and flip only once. That patience is the whole difference between steamed-grey and crusted-golden."
   },
   "shopping": [
     {
       "section": "Produce",
-      "items": "5 lb ripe tomatoes, 2 onions, 1 carrot, 1 celery rib, 2 heads garlic, 1 bell pepper, spinach or chard, escarole or kale, 2 lemons, basil, rosemary, sage, bay"
+      "items": "1 fennel bulb, 3 onions, 3 carrots, 2 heads garlic, 3 delicata squash, 2 pints cherry tomatoes, 2 lemons, bunch kale or cavolo nero, basil, parsley, rosemary, thyme"
     },
     {
-      "section": "Seafood",
-      "items": "6 cod or hake fillets (~2 lb), skinless and boneless"
-    },
-    {
-      "section": "Protein",
-      "items": "8 bone-in, skin-on chicken thighs"
+      "section": "Seafood/Protein",
+      "items": "2 lb ground pork, 1 lb ground beef, 6 cod fillets (~2 lb)"
     },
     {
       "section": "Dairy",
-      "items": "parmesan (a good wedge, keep the rind), butter"
+      "items": "fresh mozzarella, Parmigiano-Reggiano wedge (with rind), butter"
     },
     {
       "section": "Pantry",
-      "items": "1 lb dried cannellini or gigante beans, 1.5 lb rigatoni, 1 cup ditalini, 1.5 cups polenta, 2x 28oz San Marzano tomatoes (backup), good olive oil, dried chili, white wine, salt"
+      "items": "two 28-oz cans whole tomatoes, two 15-oz cans cannellini, tomato paste, polenta/coarse cornmeal, rigatoni, white wine, red wine vinegar, anchovies, capers, fennel seed, bay, chili flakes, olive oil, chicken or veg broth"
     }
   ],
-  "scaleNote": "This week is a FULL HOUSE (2 adults + 4 girls under 10), so the quantities above already feed 6 with mild, kid-friendly plates: sugo and beans are batched big (~3 qt sugo, ~6 cups beans) to cover all four dinners with a little to spare. For the girls, keep heat low (chili on the side), serve fish flaked and chicken pulled off the bone, and let them build their own bowls with extra parm. On the alternating 2-adult weeks, halve the pasta, fish and chicken but still make the full component batches — they freeze, and give you a head start on the quiet week's more technique-forward cooking."
+  "scaleNote": "Girls are home this week, so everything above is already sized for 6 (2 adults + 4 girls under 10). Kid tweaks: keep chili flakes on the side rather than in the traybake, cut the delicata into smaller coins, and pull a little plain buttered rigatoni for any picky eater before saucing. The ragù batch easily covers both the rigatoni and the baked-polenta night with some to freeze. For the 2-adult weeks (next handoff to Jen is ~Oct 4), halve the ragù or freeze half, drop to one can of beans and 2 delicata, cook 2-3 cod fillets, and lean the fish and soup nights harder into technique."
 }
