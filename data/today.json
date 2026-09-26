@@ -1,42 +1,37 @@
 {
   "date": "Friday, September 25, 2026",
   "generatedAt": "Morning brief · 8:15 PM ET",
-  "theme": "An open Friday — the day is yours to clear the list.",
-  "greeting": "Nothing on the calendar today, Dan, which makes this a good day to close the two bookings that keep sliding. The girls are with you and Mike in Florida.",
+  "theme": "An open day, start to finish.",
+  "greeting": "Nothing on the calendar today, Dan — the whole shape is yours. A couple of household threads are the only thing quietly asking for you.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Your p1 task has been due since Sep 14. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market and sells out — book it refundable now and adjust the dates later."
+      "tag": "Overdue · book now",
+      "title": "Maine Christmas SUV is still unbooked",
+      "detail": "The p1 rental has been due since Sept 14. A refundable full-size SUV out of Portland over Christmas week is the thinnest inventory in that market and it sells out — book it refundable now and adjust dates later."
     },
     {
-      "tag": "Overdue travel",
-      "title": "Passport packet for the four girls",
-      "detail": "Mike's p1 items are past due: the appointment still needs rescheduling after the Sep 20 return, and the DS-11 packet needs one printer sitting before the counter visit."
+      "tag": "Due today",
+      "title": "Term-life quotes for Mike are stuck",
+      "detail": "The p2 task comes due today but it's blocked on two decisions: the target coverage amount and the term length. Settle those two numbers and the shopping can actually move."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Moderating a panel at ICGN Toronto",
-        "detail": "You accepted; Elizabeth Thomas says speaker logistics and a pre-conference call are coming, so nothing is owed yet."
-      },
-      {
-        "tag": "Security",
-        "title": "AbeBooks sign-in attempt",
-        "detail": "A sign-in from an iPhone near Florida on Sep 24 — likely you placing that book order, but worth a glance."
+        "tag": "Financial",
+        "title": "AT&T wireless bill is ready",
+        "detail": "$137.00, due Oct 15 — nothing to do today, just on the radar."
       }
     ],
-    "noise": "The rest is retail and newsletters — Moleskine, Faherty, and your AbeBooks order confirmation.",
-    "clear": ""
+    "noise": "Otherwise all newsletters, promos, and receipts — Bloomberg, Portland Press Herald, an Expedia statement, a Square receipt.",
+    "clear": "Nothing is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "Florida",
     "confidence": "low",
     "asOf": "Friday Sep 25"
   },
@@ -47,26 +42,14 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "title": "Drive the Pathfinder south — Portland to St Pete",
+      "project": "Household · Travel",
       "due": "Due today",
       "overdue": false
-    },
-    {
-      "title": "Plan the Pathfinder drive south (Oct 5-18)",
-      "project": "Household",
-      "due": "Due today",
-      "overdue": false
-    },
-    {
-      "title": "Call dermatologist to book wart removal",
-      "project": "Household",
-      "due": "Overdue Aug 28",
-      "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -79,15 +62,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is completely clear — no meetings bookend the day."
+      "line": "Nothing on the calendar — still water from the first hour."
     },
     {
       "time": "Afternoon",
-      "line": "Open straight through; the only claims on today come from your task list."
+      "line": "The open stretch runs unbroken through the middle of the day."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you and Mike in Florida — a quiet night in."
+      "line": "No commitments on the books; the day closes as quietly as it opened."
     }
   ],
   "japanese": {
