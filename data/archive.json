@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-26",
+    "kind": "Morning brief",
+    "label": "Saturday, Sep 26 · 6:18 AM ET",
+    "summary": "Open Saturday with the girls in Florida; the Maine Christmas rental is overdue and tomorrow opens with the 9 AM board sweep.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-25",
     "kind": "Morning brief",
     "label": "Friday, Sep 25 · 10:14 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Friday, Aug 28 · 10:02 PM ET",
     "summary": "An open calendar behind a stack of pre-Croatia bookings, the four girls in St Pete.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-08-27",
-    "kind": "Morning brief",
-    "label": "Thursday, Aug 27 · 10:02 PM ET",
-    "summary": "A quiet Thursday mostly cleared — one Valoris call, girls present in St Pete, and overdue Croatia trip bookings the main thing still pending.",
     "ref": "today"
   }
 ]
