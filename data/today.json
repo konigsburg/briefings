@@ -1,44 +1,60 @@
 {
   "date": "Saturday, September 26, 2026",
-  "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "A wide-open Saturday",
-  "greeting": "Nothing on the calendar today and the girls are around, so the day is yours to shape. Two things worth not letting drift any further: a governance email that landed at your dead KPMG address, and the Maine Christmas rental.",
+  "generatedAt": "Morning brief · 2:16 PM ET",
+  "theme": "An open Saturday, one reset waiting tomorrow.",
+  "greeting": "The day is yours, Dan — nothing on the calendar until tomorrow's Sunday reset with Mike. A good window to clear the two things that keep sliding.",
   "needsAttention": [
     {
-      "tag": "Board network",
-      "title": "NACD New England wants you on the Maine committee",
-      "detail": "Kevin McGovern followed up to your gmail — \"Did you get this?\" — because his note about your interest in the NACDNE Maine Programming Committee bounced off your old dkonigsburg@kpmg.com address. Several NACDNE staff are cc'd and it's moving without you until you reply from a live address."
+      "tag": "Tomorrow 9 AM",
+      "title": "Sunday review with Mike",
+      "detail": "Your weekly 15-minute board reset is at 9 AM tomorrow. A pass through the shared board tonight — owners and dates on the overdue items — is the agenda you'll open with."
     },
     {
-      "tag": "Books today",
-      "title": "Christmas SUV out of Portland sells out",
-      "detail": "Your own p1 note flags this as the one most likely to bite: a full-size SUV at PWM over Christmas week is the hardest rental in that market. Book a refundable one now and adjust dates later — it's been sitting since Sep 14."
+      "tag": "Overdue p1",
+      "title": "Book the Maine Christmas rental",
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out. A refundable hold costs nothing and closes the risk; it's been open since Sep 14."
+    },
+    {
+      "tag": "Awaiting reply",
+      "title": "NACD New England — Maine committee",
+      "detail": "A note about joining the NACD New England Maine programming committee bounced off your old KPMG address and was resent to you. It's sitting unanswered — governance networking worth a quick reply."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Chase statement is ready",
-        "detail": "Card ...6571, statement balance $64.57, due Oct 22, autopay enabled — nothing to do, just noting it."
+        "tag": "Security",
+        "title": "AbeBooks sign-in attempt",
+        "detail": "A sign-in attempt and several password-reset emails hit your AbeBooks account from Florida on Sep 24, then the password changed. Worth a glance to confirm it was you."
       },
       {
-        "tag": "Financial",
-        "title": "$9.99 to Whitepages via PayPal",
-        "detail": "A people-search charge posted today; worth a glance in case it's a subscription you meant to drop."
+        "tag": "Job search",
+        "title": "Governance roles in your alerts",
+        "detail": "LinkedIn surfaced a Senior Director, Government & Multilateral Affairs role and an SVP Global Public Policy alert this week."
+      },
+      {
+        "tag": "FYI",
+        "title": "Dropbox over storage",
+        "detail": "Dropbox warns files start getting deleted around Oct 24 unless you clear space."
       }
     ],
-    "noise": "Around 18 other unread are retail promos, newsletters, and travel deals.",
+    "noise": "The rest is order confirmations, newsletters, and job digests — nothing that needs you.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Confirmed",
+      "title": "Toronto panel — you're moderating",
+      "detail": "You agreed to moderate a panel at the ICGN Toronto event; Elizabeth Thomas confirmed and is arranging your complimentary ticket and speaker logistics."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "low",
-    "asOf": "Sat Sep 26"
+    "asOf": "Saturday Sep 26"
   },
   "recipe": {
     "title": "Chicken, Sherry, Almond Pot Roast",
@@ -53,7 +69,7 @@
       "overdue": true
     },
     {
-      "title": "Plan the Pathfinder drive south (Oct 5–18 window)",
+      "title": "Drive the Pathfinder down (Oct 5-18 window)",
       "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
@@ -67,15 +83,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing scheduled — the morning is entirely open."
+      "line": "No meetings on the books — the kind of open stretch to spend on the thing that's been waiting."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear, with no calls or commitments on the books."
+      "line": "Clear ground for the two overdue calls: the Christmas rental hold and the Maine committee reply."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens with the 15-minute Sunday review with Mike at 9."
+      "line": "A short triage of the shared board sets up tomorrow's 9 AM reset with Mike."
     }
   ],
   "japanese": {
