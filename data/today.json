@@ -1,55 +1,56 @@
 {
   "date": "Sunday, September 27, 2026",
   "generatedAt": "Morning brief · 6:14 AM ET",
-  "theme": "An open Saturday — the shape of the day is yours.",
-  "greeting": "Nothing sits on the calendar today, Dan. The only things wearing a clock are a couple of overdue bookings and tomorrow's quick board review with Mike.",
+  "theme": "An open Sunday — kids back, the week's triage at 9.",
+  "greeting": "Good morning, Dan. The girls are back with you and Mike in St. Pete and the day is wide open after a quick 9 AM review — a good morning to reset the board before the week gets going.",
   "needsAttention": [
     {
-      "tag": "Board network",
-      "title": "Reply to the NACD Maine committee note",
-      "detail": "A forwarded message reached your Gmail after bouncing off your old KPMG address — someone flagging interest in the NACD New England Maine Programming Committee and asking whether you got it. It wants a reply."
+      "tag": "Prep · 9 AM",
+      "title": "Reset the board before the review",
+      "detail": "Your 15-minute Sunday review with Mike is on your calendar at 9 — the agenda is to put an owner and a date on everything and chase what's slipped. Ten-plus tasks are overdue going in, including two p1 travel items."
     },
     {
       "tag": "Book this week",
-      "title": "Lock the Maine Christmas SUV, refundable",
-      "detail": "Your p1 task has been overdue since Sep 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early — book it refundable now, adjust dates later."
+      "title": "Christmas SUV out of Portland",
+      "detail": "Flagged p1 in Todoist and overdue since Sep 14: a refundable full-size SUV from PWM over Christmas week sells out early. Booking one now costs nothing and closes the risk while the Pathfinder is south."
     },
     {
-      "tag": "Prep for tomorrow",
-      "title": "Come to the Sunday review with the calls made",
-      "detail": "Tomorrow at 9 AM you and Mike clear the board in 15 minutes. Arrive holding the three that keep slipping: the Christmas SUV, the term-life quotes, and where the Pathfinder parks in Florida."
+      "tag": "Reschedule",
+      "title": "Kids' passport appointment",
+      "detail": "p1 in Todoist, overdue since Sep 21: all four girls' passports are expired, and the appointment needs rebooking now that you're back from Croatia."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "title": "Sunday review with Mike",
+      "detail": "15 min on Google Meet — weekly board triage.",
+      "tag": "meeting"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "NACD Maine committee interest",
-        "detail": "Forwarded note asking you to respond about the Maine Programming Committee — it bounced off your old KPMG address first, so a reply confirms you saw it."
+        "tag": "Financial",
+        "title": "Chase statement posted",
+        "detail": "Card ending 6571 statement is ready, $64.57 due Oct 22 — autopay is on, so nothing to do."
       },
       {
-        "tag": "Security",
-        "title": "AbeBooks sign-in attempt",
-        "detail": "Sep 24 alert: a sign-in from an iPhone near Florida. Likely you, but worth a glance if not."
+        "tag": "FYI",
+        "title": "BBYO reunion RSVP",
+        "detail": "An Evite for the B'Yachad BBYO reunion is waiting on your RSVP."
       }
     ],
-    "noise": "The rest is an Airbnb referral, a BBYO reunion Evite, a LinkedIn job alert, and your daily Japanese lesson.",
-    "clear": ""
+    "noise": "The rest is newsletters, receipts, and local digests — Substacks, eBay/PayPal confirmations, and St. Pete roundups.",
+    "clear": "Nothing in the inbox is waiting on your reply this morning."
   },
-  "resolved": [
-    {
-      "tag": "Confirmed",
-      "title": "Moderating a panel at ICGN Toronto",
-      "detail": "You accepted Elizabeth Thomas's invite to moderate; she confirmed and is sending speaker logistics and a pre-conference call."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St Petersburg, FL",
+    "location": "St. Petersburg, FL",
     "confidence": "low",
-    "asOf": "Saturday Sep 26"
+    "asOf": "Sunday Sep 27"
   },
   "recipe": {
     "title": "Warm beet soup",
@@ -59,14 +60,26 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Plan the Pathfinder drive south (Oct 5–18)",
-      "project": "Dan & Mike",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Assemble the 4-kid passport packet",
+      "project": "Dan & Mike Stuff",
+      "due": "Overdue Aug 26",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist to book removal",
+      "project": "Dan & Mike Stuff",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -78,15 +91,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open Saturday with nothing on the calendar — the rare kind of morning to spend on the thing that's been waiting."
+      "line": "One short call with Mike at 9, then the morning opens up."
     },
     {
       "time": "Afternoon",
-      "line": "Still nothing scheduled; the only items with a real deadline are the overdue Christmas-rental and term-life bookings."
+      "line": "Nothing scheduled — a rare clear stretch with the girls back in Florida."
     },
     {
       "time": "Evening",
-      "line": "A quiet close, with tomorrow's 15-minute board review with Mike the one thing on deck."
+      "line": "The evening is quiet; an easy start to the two-week run with the kids."
     }
   ],
   "japanese": {
