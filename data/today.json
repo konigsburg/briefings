@@ -1,66 +1,56 @@
 {
   "date": "Sunday, September 27, 2026",
   "generatedAt": "Morning brief · 6:14 PM ET",
-  "theme": "An open Sunday to clear the overdue travel bookings.",
-  "greeting": "A quiet Sunday, Dan — just the 15-minute review with Mike this morning, and the rest of the day is yours. The girls are with you and Mike this week.",
+  "theme": "An open Sunday to start the St Pete stretch",
+  "greeting": "Morning, Dan — the calendar's nearly empty, just a 15-minute board review with Mike at nine. It's the first day of your St Pete stretch with the girls, so the open hours are yours to spend well.",
   "needsAttention": [
     {
-      "tag": "Board network",
-      "title": "Reply on the NACDNE Maine committee",
-      "detail": "A contact forwarded a note about joining the NACDNE New England Maine Programming Committee; it bounced off your old KPMG address and he's asking whether you got it. Worth a reply given the board push."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "This p1 board item has been open since Sept 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out — book a refundable one now and adjust the dates later."
     },
     {
-      "tag": "Overdue p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Your p1 task on the Dan & Mike board, overdue since Sep 14, to reserve a refundable full-size SUV out of Portland for Christmas week. Holiday inventory there sells out, so booking now costs nothing and closes the risk."
+      "tag": "Overdue · p2",
+      "title": "Term life quotes for Mike",
+      "detail": "Due Sept 25. Your half is the shopping — three term quotes, term length, coverage amount. You still need a target coverage figure and term length before you can pull them."
     },
     {
-      "tag": "Paperwork due",
-      "title": "Tampa Gardens forms by Oct 2",
-      "detail": "Tampa Gardens emailed families that the flu-clinic paperwork is due back by October 2nd."
+      "tag": "Window opening",
+      "title": "Plan the Pathfinder drive south",
+      "detail": "The Oct 5–18 gap is the drive window Portland to St Pete. Book the single hotel night once the dates firm up so it doesn't bite closer in."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
-      "title": "Sunday review with Mike",
-      "detail": "15-minute board sweep for the week",
-      "tag": "sync"
+      "title": "Sunday review — Mike + Dan",
+      "detail": "15-minute board sweep",
+      "tag": "meeting"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "NACDNE Maine committee",
-        "detail": "A contact is asking whether you saw his forward about the Maine Programming Committee."
-      },
-      {
-        "tag": "Financial",
-        "title": "AT&T wireless bill",
-        "detail": "$137.00, due Oct 15."
+        "title": "Application follow-up: Senior Director, Gov & Multilateral Affairs",
+        "detail": "Jobgether says your match score and assessment report are ready to view. No reply needed."
       },
       {
         "tag": "FYI",
-        "title": "Andrew Ross wants to meet",
-        "detail": "He replied on your thread — yours to pin down a time when you're back north."
-      },
-      {
-        "tag": "FYI",
-        "title": "Tampa Gardens forms",
-        "detail": "Family flu-clinic paperwork due back Oct 2."
+        "title": "New applicant on your Care.com posting",
+        "detail": "Miranda C. applied to the job you posted — worth a glance next time you're reviewing candidates."
       }
     ],
-    "noise": "Everything else is newsletters, promos, and receipts — Bloomberg and language-app offers, NYT Cooking, a couple of eBay and PayPal confirmations.",
-    "clear": ""
+    "noise": "The rest is retail and travel promos — Company Store, Dermstore, Kayak, Redbubble — plus a few local newsletters and order confirmations.",
+    "clear": "Nothing personal is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St Petersburg, FL",
-    "confidence": "low",
-    "asOf": "Sun Sep 27"
+    "confidence": "high",
+    "asOf": "Sunday Sep 27"
   },
   "recipe": {
     "title": "Warm beet soup",
@@ -69,21 +59,27 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder Portland to St Pete",
-      "project": "Dan & Mike",
-      "due": "Window Oct 5-18",
-      "overdue": true
-    },
-    {
-      "title": "Reschedule the girls' passport appointment",
-      "project": "Dan & Mike",
+      "title": "Reschedule passport appt — 4 kids",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 21",
+      "overdue": true
+    },
+    {
+      "title": "Assemble the passport packet — 4 kids",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 26",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist re: wart removal",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -95,15 +91,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Just the 15-minute Sunday review with Mike — the board's set for the week."
+      "line": "A 15-minute board review with Mike at nine was the only thing the calendar asked of you."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled; the overdue travel bookings are the highest-leverage thing to touch."
+      "line": "Nothing scheduled — the afternoon is entirely yours."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you and Mike this week, so the evening bends around them."
+      "line": "No commitments tonight, the first evening of the St Pete stretch."
     }
   ],
   "japanese": {
