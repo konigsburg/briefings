@@ -1,42 +1,52 @@
 {
   "date": "Sunday, September 27, 2026",
   "generatedAt": "Morning brief · 10:15 AM ET",
-  "theme": "A quiet Sunday to clear the board",
-  "greeting": "Just the 15-minute Sunday review with Mike this morning, Dan, then the day opens up. It's a good window to catch the overdue items that review exists to surface.",
+  "theme": "An open Sunday in St. Pete, with a few overdue bookings worth clearing.",
+  "greeting": "The day's yours once the morning review's behind you, Dan. The girls are with you and Mike in St. Pete, and a couple of time-sensitive bookings have been waiting for exactly a quiet stretch like this.",
   "needsAttention": [
     {
-      "tag": "Networking reply",
-      "title": "Kevin's waiting to hear you got his NACD note",
-      "detail": "Kevin McGovern re-sent his NACD New England Maine Programming Committee note to your Gmail after it bounced off your old KPMG address, and he's asking whether it reached you."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Overdue since Sep 14 and flagged p1: book a refundable full-size SUV out of Portland for Christmas week now. It's the hardest rental in that market over the holiday, and the only six-seater in Maine once the Pathfinder heads south."
     },
     {
-      "tag": "Overdue p1",
-      "title": "Christmas SUV rental still unbooked",
-      "detail": "Todoist flags this as the item most likely to bite: a refundable full-size SUV out of Portland for Christmas week thins out fast, and it's been due since Sep 14."
+      "tag": "Overdue p2",
+      "title": "Term life quotes for Mike",
+      "detail": "Your half is the shopping: three term quotes, with coverage amount and term length still to pin down. Due Sep 25, and the gap it closes is four kids and no coverage."
+    },
+    {
+      "tag": "Trip prep",
+      "title": "Pathfinder drive hotel night",
+      "detail": "The Oct 5-18 Portland to St Pete drive needs its one hotel night booked once dates are set. Overdue since Sep 25, and the window is now weeks out."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board triage",
-      "tag": "meeting"
+      "detail": "15-min board sweep, owner and date on everything",
+      "tag": "done"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Gov & multilateral affairs role",
-        "detail": "LinkedIn surfaced a Senior Director, Government & Multilateral Affairs opening."
+        "tag": "Financial",
+        "title": "FICO balance alert",
+        "detail": "myFICO flags your AMEX monthly balance ticked up. Automated, but worth a glance."
       },
       {
         "tag": "FYI",
-        "title": "Your KPMG address is bouncing",
-        "detail": "Mail to your old KPMG address now hard-bounces, worth redirecting anyone still using it."
+        "title": "Care.com applicants",
+        "detail": "A new message from Lynsey P. and an application from Kindal F. on your posted job."
+      },
+      {
+        "tag": "FYI",
+        "title": "ICGN site relaunch",
+        "detail": "The new ICGN website is live; member login needs a fresh setup for member-only content."
       }
     ],
-    "noise": "Everything else is newsletters and retail, Foreign Affairs, cooking, travel and design promos.",
+    "noise": "The rest is retail and newsletters: Foglinen, OXO, Field Company, Foreign Affairs, Noahpinion, and the usual promotions.",
     "clear": ""
   },
   "resolved": [],
@@ -54,20 +64,20 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sep 25",
+      "title": "Reschedule the passport appt for the 4 girls",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 21",
       "overdue": true
     },
     {
-      "title": "Plan the Pathfinder drive south (Oct 5-18)",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sep 25",
+      "title": "Call dermatologist for wart removal",
+      "project": "Dan & Mike",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Travel",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -80,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The 9 AM review with Mike is the day's one fixed point, fifteen minutes to triage the board."
+      "line": "The 15-minute review with Mike is done, and the morning opens up from there."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar after 9:15; the afternoon is entirely open."
+      "line": "Nothing sits on the calendar, so the afternoon is entirely yours."
     },
     {
       "time": "Evening",
-      "line": "An open evening at home with the girls in St. Pete."
+      "line": "A settled evening at home with the four of them."
     }
   ],
   "japanese": {
