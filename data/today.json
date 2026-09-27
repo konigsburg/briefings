@@ -1,55 +1,50 @@
 {
   "date": "Sunday, September 27, 2026",
   "generatedAt": "Morning brief · 7:15 AM ET",
-  "theme": "An open Sunday — kids back, the week's triage at 9.",
-  "greeting": "Good morning, Dan. The girls are back with you and Mike in St. Pete and the day is wide open after a quick 9 AM review — a good morning to reset the board before the week gets going.",
+  "theme": "A quiet Sunday to clear the board",
+  "greeting": "Just the 15-minute Sunday review with Mike this morning, Dan, then the day opens up. It's a good window to catch the overdue items that review exists to surface.",
   "needsAttention": [
     {
-      "tag": "Prep · 9 AM",
-      "title": "Reset the board before the review",
-      "detail": "Your 15-minute Sunday review with Mike is on your calendar at 9 — the agenda is to put an owner and a date on everything and chase what's slipped. Ten-plus tasks are overdue going in, including two p1 travel items."
+      "tag": "Networking reply",
+      "title": "Kevin's waiting to hear you got his NACD note",
+      "detail": "Kevin McGovern re-sent his NACD New England Maine Programming Committee note to your Gmail after it bounced off your old KPMG address, and he's asking whether it reached you."
     },
     {
-      "tag": "Book this week",
-      "title": "Christmas SUV out of Portland",
-      "detail": "Flagged p1 in Todoist and overdue since Sep 14: a refundable full-size SUV from PWM over Christmas week sells out early. Booking one now costs nothing and closes the risk while the Pathfinder is south."
-    },
-    {
-      "tag": "Reschedule",
-      "title": "Kids' passport appointment",
-      "detail": "p1 in Todoist, overdue since Sep 21: all four girls' passports are expired, and the appointment needs rebooking now that you're back from Croatia."
+      "tag": "Overdue p1",
+      "title": "Christmas SUV rental still unbooked",
+      "detail": "Todoist flags this as the item most likely to bite: a refundable full-size SUV out of Portland for Christmas week thins out fast, and it's been due since Sep 14."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15 min on Google Meet — weekly board triage.",
+      "detail": "15-min board triage",
       "tag": "meeting"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Chase statement posted",
-        "detail": "Card ending 6571 statement is ready, $64.57 due Oct 22 — autopay is on, so nothing to do."
+        "tag": "Job search",
+        "title": "Gov & multilateral affairs role",
+        "detail": "LinkedIn surfaced a Senior Director, Government & Multilateral Affairs opening."
       },
       {
         "tag": "FYI",
-        "title": "BBYO reunion RSVP",
-        "detail": "An Evite for the B'Yachad BBYO reunion is waiting on your RSVP."
+        "title": "Your KPMG address is bouncing",
+        "detail": "Mail to your old KPMG address now hard-bounces, worth redirecting anyone still using it."
       }
     ],
-    "noise": "The rest is newsletters, receipts, and local digests — Substacks, eBay/PayPal confirmations, and St. Pete roundups.",
-    "clear": "Nothing in the inbox is waiting on your reply this morning."
+    "noise": "Everything else is newsletters and retail, Foreign Affairs, cooking, travel and design promos.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "low",
+    "confidence": "high",
     "asOf": "Sunday Sep 27"
   },
   "recipe": {
@@ -65,21 +60,15 @@
       "overdue": true
     },
     {
-      "title": "Plan the Pathfinder drive south (Oct 5–18)",
+      "title": "Plan the Pathfinder drive south (Oct 5-18)",
       "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Assemble the 4-kid passport packet",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Aug 26",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist to book removal",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Aug 28",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -91,15 +80,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "One short call with Mike at 9, then the morning opens up."
+      "line": "The 9 AM review with Mike is the day's one fixed point, fifteen minutes to triage the board."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled — a rare clear stretch with the girls back in Florida."
+      "line": "Nothing on the calendar after 9:15; the afternoon is entirely open."
     },
     {
       "time": "Evening",
-      "line": "The evening is quiet; an easy start to the two-week run with the kids."
+      "line": "An open evening at home with the girls in St. Pete."
     }
   ],
   "japanese": {
