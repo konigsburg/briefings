@@ -1,25 +1,30 @@
 {
   "date": "Sunday, September 27, 2026",
-  "generatedAt": "Morning brief · 4:14 PM ET",
-  "theme": "An open Sunday in St. Pete.",
-  "greeting": "Just one short review with Mike on the calendar today, then an open Sunday with the girls in St. Pete. The quiet leaves room for the two things that have been waiting: a reply to the NACD-NE committee and the Maine Christmas rental.",
+  "generatedAt": "Morning brief · 4:17 PM ET",
+  "theme": "An open Sunday to clear the overdue travel bookings.",
+  "greeting": "A quiet Sunday, Dan — just the 15-minute review with Mike this morning, and the rest of the day is yours. The girls are with you and Mike this week.",
   "needsAttention": [
     {
-      "tag": "Job search",
-      "title": "Reply to Kevin on the NACD-NE committee",
-      "detail": "Kevin McGovern forwarded his note about joining NACD New England's Maine Programming Committee — it bounced off your old KPMG address. A reply from this account gets you looped in with the chapter group."
+      "tag": "Board network",
+      "title": "Reply on the NACDNE Maine committee",
+      "detail": "A contact forwarded a note about joining the NACDNE New England Maine Programming Committee; it bounced off your old KPMG address and he's asking whether you got it. Worth a reply given the board push."
     },
     {
-      "tag": "Booking window",
+      "tag": "Overdue p1",
       "title": "Book the Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early. Booking refundable now removes the risk — this p1 has been sitting since Sept 14."
+      "detail": "Your p1 task on the Dan & Mike board, overdue since Sep 14, to reserve a refundable full-size SUV out of Portland for Christmas week. Holiday inventory there sells out, so booking now costs nothing and closes the risk."
+    },
+    {
+      "tag": "Paperwork due",
+      "title": "Tampa Gardens forms by Oct 2",
+      "detail": "Tampa Gardens emailed families that the flu-clinic paperwork is due back by October 2nd."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15 min — clear the board in the Dan & Mike project, owner and date on everything.",
+      "detail": "15-minute board sweep for the week",
       "tag": "sync"
     }
   ],
@@ -27,26 +32,35 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "NACD-NE Maine committee",
-        "detail": "Kevin McGovern checking you received the invite to join — reply from this account (also in Needs attention)."
+        "title": "NACDNE Maine committee",
+        "detail": "A contact is asking whether you saw his forward about the Maine Programming Committee."
+      },
+      {
+        "tag": "Financial",
+        "title": "AT&T wireless bill",
+        "detail": "$137.00, due Oct 15."
+      },
+      {
+        "tag": "FYI",
+        "title": "Andrew Ross wants to meet",
+        "detail": "He replied on your thread — yours to pin down a time when you're back north."
+      },
+      {
+        "tag": "FYI",
+        "title": "Tampa Gardens forms",
+        "detail": "Family flu-clinic paperwork due back Oct 2."
       }
     ],
-    "noise": "The rest is a Bloomberg promo, a Substack essay, a book-order receipt, an Evite, and a LinkedIn job alert.",
+    "noise": "Everything else is newsletters, promos, and receipts — Bloomberg and language-app offers, NYT Cooking, a couple of eBay and PayPal confirmations.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Confirmed",
-      "title": "ICGN Toronto panel locked in",
-      "detail": "You agreed to moderate a panel; Elizabeth Thomas confirmed and is sending speaker logistics and a pre-conference call."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
-    "confidence": "high",
-    "asOf": "Sunday Sep 27"
+    "location": "St Petersburg, FL",
+    "confidence": "low",
+    "asOf": "Sun Sep 27"
   },
   "recipe": {
     "title": "Warm beet soup",
@@ -63,13 +77,13 @@
     {
       "title": "Drive the Pathfinder Portland to St Pete",
       "project": "Dan & Mike",
-      "due": "Overdue Sep 25 (Oct 5-18 window)",
+      "due": "Window Oct 5-18",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
+      "title": "Reschedule the girls' passport appointment",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 21",
       "overdue": true
     }
   ],
@@ -81,15 +95,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "One short call to start, then the morning belongs to you."
+      "line": "Just the 15-minute Sunday review with Mike — the board's set for the week."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled — a clear, unclaimed stretch."
+      "line": "Nothing scheduled; the overdue travel bookings are the highest-leverage thing to touch."
     },
     {
       "time": "Evening",
-      "line": "Open all evening; room for a slow dinner with the girls."
+      "line": "The girls are with you and Mike this week, so the evening bends around them."
     }
   ],
   "japanese": {
