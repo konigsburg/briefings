@@ -1,23 +1,28 @@
 {
   "date": "Saturday, September 26, 2026",
   "generatedAt": "Morning brief · 8:14 PM ET",
-  "theme": "An open Saturday before a quiet Sunday check-in.",
-  "greeting": "The whole day is unscheduled, Dan — nothing on the calendar until tomorrow's short Sunday review. A good window to close the travel bookings that have slipped and clear one reply.",
+  "theme": "An open day, and a board that wants tending.",
+  "greeting": "Nothing's on the calendar today, Dan — the whole day is yours. The real pull is the household board: a couple of overdue items and tomorrow's Sunday review with Mike.",
   "needsAttention": [
     {
-      "tag": "Tomorrow · prep",
-      "title": "Sunday review at 9 AM",
-      "detail": "Tomorrow opens with the 15-minute review with Mike; the board lives in the 'Dan & Mike Stuff' Claude project. A glance tonight makes it quick."
-    },
-    {
-      "tag": "Reply owed",
-      "title": "NACD Maine committee note",
-      "detail": "A contact forwarded a new-member interest in the NACD New England Maine programming committee and is asking whether you got it — the note bounced off your old KPMG address, so a reply is waiting."
-    },
-    {
-      "tag": "Booking window",
+      "tag": "Book this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "Overdue since Sep 14 (p1): a full-size SUV out of Portland over Christmas week sells out early. Book a refundable hold now while inventory lasts."
+      "detail": "A p1 on the household board is nearly two weeks overdue. A full-size SUV out of Portland over Christmas week sells out early — book it refundable now and adjust the dates later."
+    },
+    {
+      "tag": "Prep for tomorrow",
+      "title": "Sunday review with Mike",
+      "detail": "Tomorrow at 9 AM you and Mike run the 15-minute Sunday review. A glance at the 'Dan & Mike Stuff' board tonight means you arrive knowing what's active and what's slipped."
+    },
+    {
+      "tag": "Awaiting reply",
+      "title": "NACD New England committee note",
+      "detail": "A forwarded note about joining the NACDNE Maine programming committee bounced off your old address and landed in your inbox today — the sender is asking whether you got it."
+    },
+    {
+      "tag": "Overdue",
+      "title": "Term-life quotes for Mike",
+      "detail": "Your task to pull three term-life quotes came due yesterday; it's waiting on a target coverage amount and term length before it can move."
     }
   ],
   "schedule": [],
@@ -25,29 +30,29 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Gov't & multilateral affairs role",
-        "detail": "A LinkedIn alert surfaced a Senior Director, Government & Multilateral Affairs posting — worth a look, no reply owed."
+        "title": "Gov & multilateral affairs role",
+        "detail": "A LinkedIn alert surfaced a Senior Director, Government & Multilateral Affairs posting via Jobgether."
       },
       {
         "tag": "Security",
-        "title": "AbeBooks sign-in alert",
-        "detail": "A sign-in attempt near Florida arrived alongside your own book order — likely you, but confirm if not."
+        "title": "AbeBooks sign-in attempt",
+        "detail": "A sign-in attempt on your AbeBooks account from Florida on an iPhone, Sept 24 — likely you, but worth a glance."
       }
     ],
-    "noise": "The rest is promotions — HBO Max, Hyatt, WeatherTech, an Airbnb referral, and a BBYO reunion invite.",
+    "noise": "The rest is an Airbnb referral promo, an AbeBooks order receipt, and a BBYO reunion Evite.",
     "clear": ""
   },
   "resolved": [
     {
-      "tag": "Confirmed",
-      "title": "ICGN Toronto panel",
-      "detail": "You accepted Elizabeth Thomas's invitation to moderate a panel; ICGN is arranging your ticket and a pre-conference call."
+      "tag": "Toronto",
+      "title": "ICGN panel — you're moderating",
+      "detail": "You accepted the moderating slot at the ICGN Toronto event; Elizabeth Thomas confirmed and speaker logistics are on their way to you."
     }
   ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St Petersburg, FL",
+    "location": "St. Petersburg, FL",
     "confidence": "low",
     "asOf": "Saturday Sep 26"
   },
@@ -58,15 +63,15 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Plan the Pathfinder drive south (Oct 5–18 window)",
       "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Plan the Pathfinder drive south (Oct 5–18)",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sep 25",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -78,15 +83,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open calendar all day — nothing booked from the morning on."
+      "line": "The calendar is clear straight through — no meetings anywhere on today."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon stays clear, the kind of stretch that's easy to lose or to use well."
+      "line": "Still nothing scheduled; the overdue items on the household board would use the quiet well."
     },
     {
       "time": "Evening",
-      "line": "The week's one commitment sits early tomorrow, so tonight can wind down."
+      "line": "Tomorrow opens at 9 with the Sunday review, so a look at the board tonight sets it up."
     }
   ],
   "japanese": {
