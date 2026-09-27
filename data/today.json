@@ -1,50 +1,51 @@
 {
   "date": "Sunday, September 27, 2026",
   "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "A quiet Sunday — the day is yours to steer.",
-  "greeting": "The morning's already behind you, Dan — the Sunday review with Mike wrapped, and nothing else sits on the calendar. What's left is a short stack of family logistics that have been waiting on you.",
+  "theme": "An open Sunday in St. Pete.",
+  "greeting": "Just one short review with Mike on the calendar today, then an open Sunday with the girls in St. Pete. The quiet leaves room for the two things that have been waiting: a reply to the NACD-NE committee and the Maine Christmas rental.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week — the thinnest rental in that market, and it sells out. On the board since Sep 14."
+      "tag": "Job search",
+      "title": "Reply to Kevin on the NACD-NE committee",
+      "detail": "Kevin McGovern forwarded his note about joining NACD New England's Maine Programming Committee — it bounced off your old KPMG address. A reply from this account gets you looped in with the chapter group."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "Term life quotes for Mike",
-      "detail": "Three term-life quotes to shop — coverage amount and term length still need a target before you can start. Due Sep 25."
+      "tag": "Booking window",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early. Booking refundable now removes the risk — this p1 has been sitting since Sept 14."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
-      "title": "Sunday review — Mike + Dan",
-      "detail": "15-min board sweep (done)",
-      "tag": "call"
+      "title": "Sunday review with Mike",
+      "detail": "15 min — clear the board in the Dan & Mike project, owner and date on everything.",
+      "tag": "sync"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "AMEX balance alert",
-        "detail": "myFICO flagged your AMEX monthly balance rose — a glance to confirm it's expected."
-      },
-      {
-        "tag": "FYI",
-        "title": "BBYO reunion RSVP",
-        "detail": "An Evite for the B'Yachad BBYO reunion is waiting on your RSVP."
+        "tag": "Job search",
+        "title": "NACD-NE Maine committee",
+        "detail": "Kevin McGovern checking you received the invite to join — reply from this account (also in Needs attention)."
       }
     ],
-    "noise": "The rest is newsletters (NYT Cooking, Noah Smith, Daily Italian), eBay and PayPal receipts, and St. Pete local digests.",
+    "noise": "The rest is a Bloomberg promo, a Substack essay, a book-order receipt, an Evite, and a LinkedIn job alert.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Confirmed",
+      "title": "ICGN Toronto panel locked in",
+      "detail": "You agreed to moderate a panel; Elizabeth Thomas confirmed and is sending speaker logistics and a pre-conference call."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "low",
+    "confidence": "high",
     "asOf": "Sunday Sep 27"
   },
   "recipe": {
@@ -54,32 +55,20 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder down (Oct 5–18 window)",
-      "project": "Dan & Mike Stuff",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Reschedule passport appt — 4 kids",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sep 21",
-      "overdue": true
-    },
-    {
-      "title": "Assemble the passport packet — 4 kids",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Aug 26",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist — book wart removal",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Aug 28",
+      "title": "Drive the Pathfinder Portland to St Pete",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 25 (Oct 5-18 window)",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Inbox",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -92,15 +81,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The 9 AM review with Mike closed out the week's board sweep."
+      "line": "One short call to start, then the morning belongs to you."
     },
     {
       "time": "Afternoon",
-      "line": "Open — no meetings on the calendar the rest of the day."
+      "line": "Nothing scheduled — a clear, unclaimed stretch."
     },
     {
       "time": "Evening",
-      "line": "Girls are with you and Mike this week; a family evening in St. Pete."
+      "line": "Open all evening; room for a slow dinner with the girls."
     }
   ],
   "japanese": {
