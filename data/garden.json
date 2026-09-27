@@ -1,38 +1,38 @@
 {
-  "date": "Sun, Sep 20",
+  "date": "Sun, Sep 27",
   "region": "NH Seacoast · zone 6a",
-  "generatedAt": "Weekly · Sep 20",
-  "headline": "Sow cover crops and your last cold-hardy greens now — the fall planting window closes within days.",
+  "generatedAt": "Weekly · Sep 27",
+  "headline": "First frost is ~2-3 weeks out (mid-Oct) - harvest tender crops and keep row cover ready.",
   "tasks": [
     {
-      "tag": "Sow now",
-      "title": "Cover crops & last greens",
-      "detail": "Sow winter rye or oats over empty beds to protect and feed the soil over winter. You can still direct-sow spinach, arugula, and mâche for an overwintered spring crop if you tuck them under row cover."
+      "tag": "Harvest",
+      "title": "Bring in frost-tender crops",
+      "detail": "Pick tomatoes, peppers, eggplant, cucumbers, and basil before the first frost night (~mid-Oct). Mature green tomatoes ripen fine indoors on a counter, so don't leave them on the vine."
     },
     {
       "tag": "Prep",
-      "title": "Frost watch — keep covers handy",
-      "detail": "First frost can reach the Seacoast from late September into mid-October. Keep row cover or old bedsheets ready to throw over tomatoes, peppers, and basil on clear, still nights near or below freezing."
+      "title": "Keep row cover within reach",
+      "detail": "Have floating row cover or old sheets ready to throw over tender plants and fall greens on the first clear, calm night the forecast dips near 32F. One covered night can buy weeks more harvest."
     },
     {
       "tag": "Harvest",
-      "title": "Winter squash & tender crops",
-      "detail": "Pick and cure winter squash and pumpkins before frost, and keep harvesting tomatoes, beans, and peppers. Any green tomatoes will finish ripening indoors on a warm windowsill."
+      "title": "Cure winter squash and pumpkins",
+      "detail": "Cut squash and pumpkins when the rind is hard and the stem is corky, leaving a few inches of stem. Cure in a warm, dry spot for 1-2 weeks so they store through winter."
     },
     {
-      "tag": "Prep",
-      "title": "Garlic bed & spring bulbs",
-      "detail": "Work compost into a bed now for garlic, which goes in mid-October to early November. This is also prime time to start planting daffodil and tulip bulbs for spring."
+      "tag": "Sow now",
+      "title": "Plant garlic in the next few weeks",
+      "detail": "Break bulbs into cloves and plant pointy-end up, ~2 inches deep and 6 inches apart, then mulch with straw. Aim for October so roots set before the ground freezes. You can also still sow spinach, arugula, and radish under cover."
     },
     {
-      "tag": "Water",
-      "title": "Deep fall watering",
-      "detail": "Fall spells can be dry. Water perennials, shrubs, and any new fall plantings deeply so their roots head into winter well-hydrated — keep it up until the ground freezes."
+      "tag": "Feed",
+      "title": "Cover or mulch empty beds",
+      "detail": "Sow winter rye or oats on cleared beds to protect soil, or top beds with shredded leaves or compost. This prevents erosion and feeds the soil over winter."
     },
     {
       "tag": "Pest watch",
-      "title": "Clean up disease",
-      "detail": "Remove and trash — do not compost — any foliage showing late blight or powdery mildew. Clearing it now cuts down the spores that overwinter and hit next year's crop."
+      "title": "Clean up disease and pests",
+      "detail": "Remove powdery-mildew squash vines, cabbage worms on brassicas, and slugs on greens. Trash or bury diseased foliage rather than composting it, and keep watering new plantings until the ground freezes."
     }
   ]
 }
