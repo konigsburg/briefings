@@ -1,46 +1,52 @@
 {
   "date": "Monday, September 28, 2026",
   "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "A wide-open Monday in St. Pete.",
-  "greeting": "Nothing on the calendar today, Dan — a rare fully open Monday. The girls are with you and Mike this week, so it's a home day with room for the bookings that have been drifting.",
+  "theme": "An open day, the girls home in St. Pete.",
+  "greeting": "The calendar is clear today, Dan, with the girls home in St. Petersburg. The one thing with your name on it is the reply Erika is waiting on at Brunswick.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Overdue since Sep 14 (p1). A full-size SUV out of Portland over Christmas week is the market's hardest rental and sells out early — book a refundable hold now and adjust dates once the trip firms up."
+      "tag": "Reply owed",
+      "title": "Erika at Brunswick is waiting to hear back",
+      "detail": "In your recruiting thread she says she's flexible tomorrow and Wednesday and asks what works for a Teams call. The next move is yours."
     },
     {
-      "tag": "Window opens Oct 5",
-      "title": "Pathfinder drive-down plan",
-      "detail": "Overdue Sep 25 (p2). The Oct 5–18 Maine off-week is your window to drive the Pathfinder south — set the two dates and book the single hotel night before it closes."
+      "tag": "Book this week",
+      "title": "Hold a Maine Christmas SUV rental",
+      "detail": "Your p1 Todoist task, overdue since Sep 14: a refundable full-size SUV out of Portland for Christmas week, before holiday inventory sells out."
+    },
+    {
+      "tag": "Passports",
+      "title": "Rebook the girls' passport appointment",
+      "detail": "The p1 reschedule for four expired books was meant to follow the Sept 20 return and is still open in Todoist."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "ICGN Toronto panel — bio needed",
-        "detail": "ICGN asked you to moderate a panel at their November Annual Conference; you've drafted a bio and sent it to Drew for a read."
+        "tag": "Security",
+        "title": "New Google sign-in on a Mac",
+        "detail": "Google flagged a new Mac OS sign-in to your account this afternoon; worth a glance to confirm it was you."
       },
       {
-        "tag": "Security",
-        "title": "New sign-ins flagged",
-        "detail": "Google logged a new Mac OS sign-in and Disney+ a new login overnight — worth a glance to confirm both were you."
+        "tag": "FYI",
+        "title": "Care.com applicant came in",
+        "detail": "Jessica G. applied to the caregiver job you posted."
       },
       {
         "tag": "FYI",
         "title": "ASA wants your mailing address",
-        "detail": "American Sailing needs your current address confirmed before they mail your certification seals."
+        "detail": "American Sailing asked you to confirm where to send your ASA 101 seals."
       }
     ],
-    "noise": "The usual newsletter drift — NYT Cooking, Responsible Investor, the Italian word of the day, and a stack of retailer promos.",
+    "noise": "The rest is newsletters (Responsible Investor, NYT Cooking), receipts, shipping notices, and promos.",
     "clear": ""
   },
   "resolved": [
     {
-      "title": "ASA 101 certification earned",
-      "detail": "American Sailing confirmed your Basic Keelboat cert this morning; Paul had already filled out the logbook on the trip, so Amy stood down and you thanked her — thread closed."
+      "tag": "Done",
+      "title": "ASA 101 sailing certification earned",
+      "detail": "American Sailing confirmed your ASA 101 Basic Keelboat certification came through."
     }
   ],
   "context": {
@@ -58,14 +64,20 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
+      "title": "Drive the Pathfinder Portland to St Pete",
+      "project": "Travel",
+      "due": "Window Oct 5-18",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist to book an appointment",
+      "project": "Household",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -77,15 +89,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is clear edge to edge — no meetings pull at the day."
+      "line": "Nothing on the calendar before noon, a rare open stretch with the girls in the house."
     },
     {
       "time": "Afternoon",
-      "line": "An open stretch in St. Petersburg; good hours for the travel bookings that have been waiting on you."
+      "line": "No meetings to bend the afternoon around, so it is yours to point wherever it counts."
     },
     {
       "time": "Evening",
-      "line": "Kids are with you and Mike this week — an ordinary weeknight at home."
+      "line": "An unhurried evening at home in St. Petersburg, and venison on the board if you feel like cooking."
     }
   ],
   "japanese": {
