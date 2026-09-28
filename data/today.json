@@ -1,55 +1,45 @@
 {
   "date": "Sunday, September 27, 2026",
   "generatedAt": "Morning brief · 8:15 PM ET",
-  "theme": "An open Sunday to start the St Pete stretch",
-  "greeting": "Morning, Dan — the calendar's nearly empty, just a 15-minute board review with Mike at nine. It's the first day of your St Pete stretch with the girls, so the open hours are yours to spend well.",
+  "theme": "A wide-open Sunday.",
+  "greeting": "One short review with Mike anchors an otherwise open Sunday, Dan. Two overdue threads — a committee reply and the Christmas rental — are the things worth clearing before the week turns.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "This p1 board item has been open since Sept 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out — book a refundable one now and adjust the dates later."
+      "tag": "Board network",
+      "title": "Reply to Kevin on the NACD Maine committee",
+      "detail": "Kevin McGovern re-sent his note about the NACD New England Maine programming committee to your Gmail after it bounced at your old KPMG address — he's asking whether you got it. A quick reply keeps a governance-network seat you flagged interest in moving."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "Term life quotes for Mike",
-      "detail": "Due Sept 25. Your half is the shopping — three term quotes, term length, coverage amount. You still need a target coverage figure and term length before you can pull them."
-    },
-    {
-      "tag": "Window opening",
-      "title": "Plan the Pathfinder drive south",
-      "detail": "The Oct 5–18 gap is the drive window Portland to St Pete. Book the single hotel night once the dates firm up so it doesn't bite closer in."
+      "tag": "Overdue · p1",
+      "title": "Book the refundable Maine Christmas SUV",
+      "detail": "Nearly two weeks past its book-this-week date in Dan & Mike. Full-size SUVs out of Portland sell out over Christmas week; a refundable hold now costs nothing and takes the risk off the board."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
-      "title": "Sunday review — Mike + Dan",
-      "detail": "15-minute board sweep",
-      "tag": "meeting"
+      "title": "Sunday review with Mike",
+      "detail": "15-min weekly board sweep",
+      "tag": "Sync"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Application follow-up: Senior Director, Gov & Multilateral Affairs",
-        "detail": "Jobgether says your match score and assessment report are ready to view. No reply needed."
-      },
-      {
         "tag": "FYI",
-        "title": "New applicant on your Care.com posting",
-        "detail": "Miranda C. applied to the job you posted — worth a glance next time you're reviewing candidates."
+        "title": "Independent Managers Club moving ahead",
+        "detail": "Mitsui and Lubrano are lining up a first call with Fincity; you're cc'd and nothing is owed from you."
       }
     ],
-    "noise": "The rest is retail and travel promos — Company Store, Dermstore, Kayak, Redbubble — plus a few local newsletters and order confirmations.",
-    "clear": "Nothing personal is waiting on your reply."
+    "noise": "The rest is a LinkedIn jobs digest, a PayPal receipt, a language-app promo, a BBYO reunion Evite, and newsletters.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St Petersburg, FL",
-    "confidence": "high",
+    "location": "St. Petersburg, FL",
+    "confidence": "low",
     "asOf": "Sunday Sep 27"
   },
   "recipe": {
@@ -59,27 +49,21 @@
   },
   "tasks": [
     {
-      "title": "Reschedule passport appt — 4 kids",
-      "project": "Mike + Dan Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Plan the Pathfinder drive, Portland → St Pete",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Reschedule the kids' passport appointment",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 21",
-      "overdue": true
-    },
-    {
-      "title": "Assemble the passport packet — 4 kids",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 26",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist re: wart removal",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -91,15 +75,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A 15-minute board review with Mike at nine was the only thing the calendar asked of you."
+      "line": "One 15-minute review with Mike at nine, then the morning opens up."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled — the afternoon is entirely yours."
+      "line": "Nothing on the calendar — a genuinely free stretch."
     },
     {
       "time": "Evening",
-      "line": "No commitments tonight, the first evening of the St Pete stretch."
+      "line": "A quiet Sunday at home in St. Pete with the girls."
     }
   ],
   "japanese": {
