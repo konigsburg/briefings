@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-28",
+    "kind": "Morning brief",
+    "label": "Monday, Sep 28 · 6:15 AM ET",
+    "summary": "An open, meeting-free Monday with the girls in St Pete; a board-network reply to Kevin and two overdue p1 bookings lead the day.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-27",
     "kind": "Morning brief",
     "label": "Sunday, Sep 27 · 10:14 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Sunday, Aug 30 · 10:06 PM ET",
     "summary": "A quiet Sunday with the girls home in St. Pete; the week's weight is Croatia prep against a Sept 8 booking wall.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-08-29",
-    "kind": "Morning brief",
-    "label": "Saturday, Aug 29 · 10:02 PM ET",
-    "summary": "A quiet Saturday with the girls in St. Pete; Croatia bookings still open before the Sept 8 departure.",
     "ref": "today"
   }
 ]
