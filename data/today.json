@@ -1,23 +1,23 @@
 {
   "date": "Monday, September 28, 2026",
   "generatedAt": "Morning brief · 7:28 AM ET",
-  "theme": "An open Monday, girls in residence in St Pete.",
-  "greeting": "The whole day is open, Dan — nothing on the calendar. The girls are with you and Mike in St Petersburg through the weekend, so the evening is a family one.",
+  "theme": "A wide-open day, and the girls are home.",
+  "greeting": "Nothing on the calendar today, Dan — a rare clear runway. Good conditions for clearing the couple of board-network and travel threads that have been sitting.",
   "needsAttention": [
     {
       "tag": "Board network",
-      "title": "Reply to Kevin on the NACDNE committee",
-      "detail": "Kevin McGovern re-sent the NACD New England note after it bounced from your old KPMG address and is asking if you got it. It's a Maine programming-committee invite, cc'd to the chapter staff, and it's sitting unanswered."
+      "title": "NACDNE Maine committee invite bounced",
+      "detail": "Kevin McGovern forwarded a delivery failure — the invitation to join the NACDNE Maine Programming Committee went to your old KPMG address and never reached you. He's asking if you got it; a reply reconnects you to the thread."
     },
     {
       "tag": "Book this week",
-      "title": "Book the Maine Christmas SUV rental",
-      "detail": "This p1 is two weeks overdue. A refundable full-size SUV out of Portland for Christmas week sells out early, so holding a booking now removes the whole risk at no cost."
+      "title": "Maine Christmas SUV rental",
+      "detail": "Your p1 task is about two weeks overdue. A full-size SUV out of Portland over Christmas week is the hardest rental in that market — book refundable now, before inventory and holiday pricing bite."
     },
     {
-      "tag": "Four kids",
-      "title": "Reschedule the girls' passport appointment",
-      "detail": "The p1 passport appointment still needs rebooking now that you're back from Croatia. All four books are expired and it's been open since Sept 21."
+      "tag": "Overdue · Dan",
+      "title": "Term life quotes for Mike",
+      "detail": "Your p2 task, due Sept 25. Still waiting on a target coverage amount and term length before you can shop the three quotes."
     }
   ],
   "schedule": [],
@@ -25,21 +25,21 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Governance role alert",
-        "detail": "LinkedIn flagged a Senior Director, Government & Multilateral Affairs posting via Jobgether."
+        "title": "Gov & Multilateral Affairs role posted",
+        "detail": "A LinkedIn alert flagged a Senior Director, Government & Multilateral Affairs opening via Jobgether."
       },
       {
         "tag": "Financial",
-        "title": "BA Visa autopay scheduled",
-        "detail": "Chase will run your scheduled British Airways Visa payment on the due date."
+        "title": "British Airways Visa autopay scheduled",
+        "detail": "Chase says your automatic card payment is set to run on the due date — no action unless the amount looks off."
       },
       {
         "tag": "FYI",
-        "title": "Sitter applied on Care.com",
-        "detail": "Jessica G. applied to the childcare job you posted."
+        "title": "ASA logbook + certifications inbound",
+        "detail": "Nautilus is mailing your signed logbook to Maine, and ASA has filed your formal sailing certifications."
       }
     ],
-    "noise": "Everything else is newsletters and receipts — Responsible Investor, ICGN policy, local events, language drills, and a few promos.",
+    "noise": "The rest is newsletters (Responsible Investor, ICGN, Noahpinion, Italian and baking digests), receipts, and an ASA survey.",
     "clear": ""
   },
   "resolved": [],
@@ -47,7 +47,7 @@
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "high",
+    "confidence": "low",
     "asOf": "Monday Sep 28"
   },
   "recipe": {
@@ -57,27 +57,15 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Household",
+      "title": "Plan the Pathfinder drive south (Oct 5–18 window)",
+      "project": "Household · Travel",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down (Portland to St Pete)",
-      "project": "Travel",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist to book wart removal",
-      "project": "Health",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Assemble the four kids' passport packet",
-      "project": "Travel",
-      "due": "Overdue Aug 26",
+      "title": "Passport packet + appointment for the four girls",
+      "project": "Household · Travel",
+      "due": "Overdue",
       "overdue": true
     }
   ],
@@ -89,15 +77,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is empty end to end — a rare fully open Monday."
+      "line": "The calendar is empty end to end — the rare open day to point at one thing and finish it."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear, so the day bends to whatever's been waiting rather than to meetings."
+      "line": "Nothing scheduled pulls at the afternoon; it stays entirely yours to shape."
     },
     {
       "time": "Evening",
-      "line": "The girls are in residence in St Pete — a night for cooking at home."
+      "line": "With the girls home this week, the evening is family time by default."
     }
   ],
   "japanese": {
