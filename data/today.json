@@ -1,45 +1,35 @@
 {
   "date": "Monday, September 28, 2026",
   "generatedAt": "Morning brief · 10:24 AM ET",
-  "theme": "A wide-open day, and the girls are home.",
-  "greeting": "Nothing on the calendar today, Dan — a rare clear runway. Good conditions for clearing the couple of board-network and travel threads that have been sitting.",
+  "theme": "An open day in St Pete.",
+  "greeting": "Nothing's on the calendar today, Dan — the whole day is yours. The girls are with you and Mike, and the loudest things waiting are a couple of overdue bookings.",
   "needsAttention": [
     {
-      "tag": "Board network",
-      "title": "NACDNE Maine committee invite bounced",
-      "detail": "Kevin McGovern forwarded a delivery failure — the invitation to join the NACDNE Maine Programming Committee went to your old KPMG address and never reached you. He's asking if you got it; a reply reconnects you to the thread."
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas rental",
+      "detail": "Two weeks overdue in Household. A refundable full-size SUV out of Portland over Christmas week sells out early — the Pathfinder is south by then, so this is the only six-seater for the girls' Maine trip. Holding a refundable booking now costs nothing."
     },
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Your p1 task is about two weeks overdue. A full-size SUV out of Portland over Christmas week is the hardest rental in that market — book refundable now, before inventory and holiday pricing bite."
-    },
-    {
-      "tag": "Overdue · Dan",
-      "title": "Term life quotes for Mike",
-      "detail": "Your p2 task, due Sept 25. Still waiting on a target coverage amount and term length before you can shop the three quotes."
+      "tag": "Overdue · blocked",
+      "title": "Term-life quotes for Mike",
+      "detail": "Three days overdue in Household, and stalled on a decision — it needs a target coverage amount and term length before you can start shopping quotes."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Gov & Multilateral Affairs role posted",
-        "detail": "A LinkedIn alert flagged a Senior Director, Government & Multilateral Affairs opening via Jobgether."
-      },
-      {
-        "tag": "Financial",
-        "title": "British Airways Visa autopay scheduled",
-        "detail": "Chase says your automatic card payment is set to run on the due date — no action unless the amount looks off."
+        "tag": "FYI",
+        "title": "Drew wants to get together",
+        "detail": "Andrew Ross wrote back on Sept 25 about meeting up when you're next north — the reply's with you."
       },
       {
         "tag": "FYI",
-        "title": "ASA logbook + certifications inbound",
-        "detail": "Nautilus is mailing your signed logbook to Maine, and ASA has filed your formal sailing certifications."
+        "title": "ICGN policy newsletter",
+        "detail": "The latest governance and regulatory roundup landed this morning — a quick skim for your field."
       }
     ],
-    "noise": "The rest is newsletters (Responsible Investor, ICGN, Noahpinion, Italian and baking digests), receipts, and an ASA survey.",
+    "noise": "The rest is a BBYO reunion RSVP and the usual promotions.",
     "clear": ""
   },
   "resolved": [],
@@ -47,7 +37,7 @@
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "low",
+    "confidence": "high",
     "asOf": "Monday Sep 28"
   },
   "recipe": {
@@ -57,15 +47,15 @@
   },
   "tasks": [
     {
-      "title": "Plan the Pathfinder drive south (Oct 5–18 window)",
-      "project": "Household · Travel",
+      "title": "Plan the Portland → St Pete Pathfinder drive-down",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Passport packet + appointment for the four girls",
-      "project": "Household · Travel",
-      "due": "Overdue",
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -77,15 +67,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is empty end to end — the rare open day to point at one thing and finish it."
+      "line": "A clear calendar to start — nothing booked before noon."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled pulls at the afternoon; it stays entirely yours to shape."
+      "line": "The afternoon is wide open; a good stretch to clear the overdue travel logistics."
     },
     {
       "time": "Evening",
-      "line": "With the girls home this week, the evening is family time by default."
+      "line": "An unscheduled evening at home with the girls."
     }
   ],
   "japanese": {
