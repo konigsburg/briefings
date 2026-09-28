@@ -1,37 +1,42 @@
 {
   "date": "Sunday, September 27, 2026",
   "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "A wide-open Sunday.",
-  "greeting": "One short review with Mike anchors an otherwise open Sunday, Dan. Two overdue threads — a committee reply and the Christmas rental — are the things worth clearing before the week turns.",
+  "theme": "An open Sunday, a couple of threads waiting.",
+  "greeting": "A quiet Sunday in St. Pete with the girls, Dan. The calendar was clear past the morning review, so it's the waiting threads and a couple of overdue bookings worth a glance.",
   "needsAttention": [
     {
-      "tag": "Board network",
-      "title": "Reply to Kevin on the NACD Maine committee",
-      "detail": "Kevin McGovern re-sent his note about the NACD New England Maine programming committee to your Gmail after it bounced at your old KPMG address — he's asking whether you got it. A quick reply keeps a governance-network seat you flagged interest in moving."
+      "tag": "Awaiting reply",
+      "title": "NACD New England committee note",
+      "detail": "Kevin McGovern re-sent his NACDNE Maine Programming Committee message to your Gmail after it bounced from your old KPMG address, and is asking whether it reached you."
     },
     {
       "tag": "Overdue · p1",
-      "title": "Book the refundable Maine Christmas SUV",
-      "detail": "Nearly two weeks past its book-this-week date in Dan & Mike. Full-size SUVs out of Portland sell out over Christmas week; a refundable hold now costs nothing and takes the risk off the board."
+      "title": "Book the Maine Christmas rental",
+      "detail": "A refundable full-size SUV out of Portland for Christmas week — the Pathfinder heads south in October and holiday inventory sells out. Flagged BOOK THIS WEEK, overdue since Sep 14."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min weekly board sweep",
-      "tag": "Sync"
+      "detail": "Weekly 15-minute board sweep",
+      "tag": "Review"
     }
   ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "LinkedIn alert: Gov & Multilateral Affairs role",
+        "detail": "A Senior Director, Government & Multilateral Affairs posting (via Jobgether) landed in your alerts — on-target for your public-affairs background."
+      },
+      {
         "tag": "FYI",
-        "title": "Independent Managers Club moving ahead",
-        "detail": "Mitsui and Lubrano are lining up a first call with Fincity; you're cc'd and nothing is owed from you."
+        "title": "BBYO reunion invite awaiting RSVP",
+        "detail": "An Evite for the B'Yachad BBYO Reunion is sitting unanswered."
       }
     ],
-    "noise": "The rest is a LinkedIn jobs digest, a PayPal receipt, a language-app promo, a BBYO reunion Evite, and newsletters.",
+    "noise": "The rest is newsletters and marketing — Noah Smith, a catamaran invite, airline fares, and app promos.",
     "clear": ""
   },
   "resolved": [],
@@ -39,7 +44,7 @@
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "low",
+    "confidence": "high",
     "asOf": "Sunday Sep 27"
   },
   "recipe": {
@@ -50,20 +55,14 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Plan the Pathfinder drive, Portland → St Pete",
-      "project": "Dan & Mike",
+      "title": "Plan the Pathfinder drive south (Oct 5–18)",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Reschedule the kids' passport appointment",
-      "project": "Dan & Mike",
-      "due": "Overdue Sep 21",
       "overdue": true
     }
   ],
@@ -75,15 +74,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "One 15-minute review with Mike at nine, then the morning opens up."
+      "line": "The weekly 15-minute review with Mike at 9, then the calendar went quiet."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar — a genuinely free stretch."
+      "line": "Wide open in St. Pete — no meetings, the girls around."
     },
     {
       "time": "Evening",
-      "line": "A quiet Sunday at home in St. Pete with the girls."
+      "line": "An unhurried close to the day at home."
     }
   ],
   "japanese": {
