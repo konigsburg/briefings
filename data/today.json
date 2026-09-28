@@ -1,43 +1,53 @@
 {
   "date": "Monday, September 28, 2026",
-  "generatedAt": "Morning brief · 12:15 PM ET",
-  "theme": "An open day in St Pete.",
-  "greeting": "Nothing's on the calendar today, Dan — the whole day is yours. The girls are with you and Mike, and the loudest things waiting are a couple of overdue bookings.",
+  "generatedAt": "Morning brief · 12:18 PM ET",
+  "theme": "A wide-open Monday in St. Pete.",
+  "greeting": "Nothing on the calendar today, Dan — a rare fully open Monday. The girls are with you and Mike this week, so it's a home day with room for the bookings that have been drifting.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas rental",
-      "detail": "Two weeks overdue in Household. A refundable full-size SUV out of Portland over Christmas week sells out early — the Pathfinder is south by then, so this is the only six-seater for the girls' Maine trip. Holding a refundable booking now costs nothing."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Overdue since Sep 14 (p1). A full-size SUV out of Portland over Christmas week is the market's hardest rental and sells out early — book a refundable hold now and adjust dates once the trip firms up."
     },
     {
-      "tag": "Overdue · blocked",
-      "title": "Term-life quotes for Mike",
-      "detail": "Three days overdue in Household, and stalled on a decision — it needs a target coverage amount and term length before you can start shopping quotes."
+      "tag": "Window opens Oct 5",
+      "title": "Pathfinder drive-down plan",
+      "detail": "Overdue Sep 25 (p2). The Oct 5–18 Maine off-week is your window to drive the Pathfinder south — set the two dates and book the single hotel night before it closes."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Drew wants to get together",
-        "detail": "Andrew Ross wrote back on Sept 25 about meeting up when you're next north — the reply's with you."
+        "tag": "Job search",
+        "title": "ICGN Toronto panel — bio needed",
+        "detail": "ICGN asked you to moderate a panel at their November Annual Conference; you've drafted a bio and sent it to Drew for a read."
+      },
+      {
+        "tag": "Security",
+        "title": "New sign-ins flagged",
+        "detail": "Google logged a new Mac OS sign-in and Disney+ a new login overnight — worth a glance to confirm both were you."
       },
       {
         "tag": "FYI",
-        "title": "ICGN policy newsletter",
-        "detail": "The latest governance and regulatory roundup landed this morning — a quick skim for your field."
+        "title": "ASA wants your mailing address",
+        "detail": "American Sailing needs your current address confirmed before they mail your certification seals."
       }
     ],
-    "noise": "The rest is a BBYO reunion RSVP and the usual promotions.",
+    "noise": "The usual newsletter drift — NYT Cooking, Responsible Investor, the Italian word of the day, and a stack of retailer promos.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "title": "ASA 101 certification earned",
+      "detail": "American Sailing confirmed your Basic Keelboat cert this morning; Paul had already filled out the logbook on the trip, so Amy stood down and you thanked her — thread closed."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "high",
+    "confidence": "low",
     "asOf": "Monday Sep 28"
   },
   "recipe": {
@@ -47,8 +57,8 @@
   },
   "tasks": [
     {
-      "title": "Plan the Portland → St Pete Pathfinder drive-down",
-      "project": "Household",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 25",
       "overdue": true
     },
@@ -67,15 +77,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar to start — nothing booked before noon."
+      "line": "The calendar is clear edge to edge — no meetings pull at the day."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon is wide open; a good stretch to clear the overdue travel logistics."
+      "line": "An open stretch in St. Petersburg; good hours for the travel bookings that have been waiting on you."
     },
     {
       "time": "Evening",
-      "line": "An unscheduled evening at home with the girls."
+      "line": "Kids are with you and Mike this week — an ordinary weeknight at home."
     }
   ],
   "japanese": {
