@@ -1,23 +1,18 @@
 {
   "date": "Monday, September 28, 2026",
   "generatedAt": "Morning brief · 6:15 PM ET",
-  "theme": "An open day, girls at home.",
-  "greeting": "The calendar is clear from morning through evening, Dan — no meetings booked. The girls are with you and Mike this week, so the shape of the day is yours to set.",
+  "theme": "An open day, and the house is full.",
+  "greeting": "Your calendar's clear today, Dan, and the girls are with you and Mike. Two things want a nudge: confirming Wednesday's Brunswick call, and that Maine Christmas SUV still sitting unbooked.",
   "needsAttention": [
     {
       "tag": "Job search",
-      "title": "Erika at Brunswick is waiting on a time",
-      "detail": "Brunswick's senior-recruitment lead replied this afternoon and is flexible this week, especially tomorrow and Wednesday. She needs a time from you to lock the call."
+      "title": "Confirm the Brunswick call",
+      "detail": "Erika in Brunswick's senior recruitment sent a Teams hold for Wednesday at 11 AM ET and asked if it works. A one-line confirm locks it in."
     },
     {
-      "tag": "Books this week",
-      "title": "Maine Christmas rental still unbooked",
-      "detail": "This p1 is two weeks overdue. A full-size SUV out of Portland over Christmas week sells out, so a refundable hold now takes the whole risk off the table."
-    },
-    {
-      "tag": "Bio to send",
-      "title": "ICGN Toronto panel bio",
-      "detail": "Drew sent notes this evening on your bio and LinkedIn announcement for the November ICGN panel you're moderating — the draft is ready to polish and send back."
+      "tag": "Booking window",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your top-priority task to reserve a refundable full-size SUV out of Portland for Christmas week is about two weeks past due. Holiday inventory at PWM sells out, and a refundable hold costs nothing to place now."
     }
   ],
   "schedule": [],
@@ -25,23 +20,24 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Erika at Brunswick, scheduling a call",
-        "detail": "Replied this afternoon; open tomorrow and Wednesday."
-      },
-      {
-        "tag": "Job search",
-        "title": "Drew's notes on your ICGN bio",
-        "detail": "Reply landed this evening with edits to make the LinkedIn announcement sparkle."
+        "title": "Two LinkedIn requests waiting",
+        "detail": "A Sun Life sustainability director and one other contact are awaiting a response."
       }
     ],
-    "noise": "The rest is newsletters, shop promos, and shipping updates — nothing needing you.",
+    "noise": "The rest is newsletters and receipts: Monocle, NYT Cooking, Lumosity, Heathrow, and an eBay shipping update.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Done",
+      "title": "ASA 101 sailing certification earned",
+      "detail": "American Sailing confirmed your Basic Keelboat certification came through."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St Petersburg, FL",
+    "location": "St. Petersburg, FL",
     "confidence": "low",
     "asOf": "Monday Sep 28"
   },
@@ -52,21 +48,15 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Get 3 term-life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Plan the Pathfinder drive south (Oct 5-18)",
+      "title": "Plan the Portland to St Pete Pathfinder drive",
       "project": "Travel",
       "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -78,18 +68,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing sits on the calendar before noon, so the morning opens with no fixed claim on it.",
-      "tag": "open"
+      "line": "Nothing scheduled to open the day."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon stays clear too — no meetings booked across the working day.",
-      "tag": "open"
+      "line": "Wide open on the calendar, no calls or holds."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you and Mike this week, so the evening leans toward home.",
-      "tag": "home"
+      "line": "The girls are with you and Mike tonight, so the house is full."
     }
   ],
   "japanese": {
