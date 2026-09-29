@@ -1,23 +1,23 @@
 {
   "date": "Monday, September 28, 2026",
   "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "An open day, a few loose ends.",
-  "greeting": "A quiet Monday in St. Pete with the girls and a clear calendar. A handful of overdue travel and job-search threads are the only things tugging at your sleeve.",
+  "theme": "An open day, with the Brunswick call now on the horizon.",
+  "greeting": "A wide-open Monday, Dan — nothing on the calendar all day, which gave the job-search threads room to move. The Brunswick intro call is now set for Wednesday morning.",
   "needsAttention": [
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Overdue in Todoist (Travel, due Sep 14). A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out — a refundable hold now removes the risk."
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "The [DAN] holiday rental on the Mike + Dan board is two weeks past its Sept 14 date. Full-size SUVs out of Portland over Christmas sell out — a refundable hold now costs nothing and closes the risk."
     },
     {
-      "tag": "Job search",
-      "title": "Reply to Shawn Maher at EY",
-      "detail": "His Sep 28 note says his successor, Didem Nisanci, has been hired; the networking thread is now waiting on your reply."
+      "tag": "Four passports",
+      "title": "Kids' passport appointment to reschedule",
+      "detail": "The p1 passport-appointment task has sat since Sept 21. All four girls' books are expired, and December travel needs them booked by the Oct 15 window."
     },
     {
-      "tag": "Overdue",
-      "title": "Three term-life quotes for Mike",
-      "detail": "p2 in Todoist, due Sep 25 — the shopping half is yours to do, and it's still open."
+      "tag": "Overdue Sept 25",
+      "title": "Term life quotes for Mike",
+      "detail": "Your p2 task to pull three term-life quotes came due Thursday — the shopping piece is yours; the application is Mike's."
     }
   ],
   "schedule": [],
@@ -25,25 +25,31 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "ICGN bio for the Toronto panel",
-        "detail": "Drew sent notes on your bio and LinkedIn announcement for the November ICGN panel you're moderating."
+        "title": "Shawn at EY wrote back",
+        "detail": "His successor, Didem Nisanci, has been hired; the reconnect thread is open and waiting on your reply."
+      },
+      {
+        "tag": "FYI",
+        "title": "ICGN panel bio feedback in",
+        "detail": "Drew sent notes on your Toronto-panel bio and the LinkedIn announcement — ready for you to finalize."
       }
     ],
-    "noise": "LinkedIn job alerts, two policy newsletters, a local St. Pete digest, and a BBYO reunion RSVP.",
+    "noise": "A LinkedIn job alert, the ICGN policy newsletter, and a reunion Evite round out the inbox.",
     "clear": ""
   },
   "resolved": [
     {
-      "title": "Brunswick recruiter call locked in",
-      "detail": "Erika Maass sent a Teams invite for 11am ET Wednesday and you confirmed — the senior-recruitment intro is set."
+      "tag": "Scheduled",
+      "title": "Brunswick intro call locked in",
+      "detail": "You and Erika Maass settled on Wednesday 11 AM ET over Teams — invite accepted, nothing left to arrange."
     }
   ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "high",
-    "asOf": "Monday Sep 28"
+    "confidence": "low",
+    "asOf": "Mon Sep 28"
   },
   "recipe": {
     "title": "Roast Venison Fillet",
@@ -52,21 +58,27 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder down, Portland to St. Pete (Oct 5-18 window)",
-      "project": "Travel",
-      "due": "Overdue Sep 25",
+      "title": "Plan the Pathfinder drive south (Oct 5–18)",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Reschedule the kids' passport appointment (after Sept 20 return)",
-      "project": "Travel",
-      "due": "Overdue Sep 21",
+      "title": "Assemble the 4-kid passport packet",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Aug 26",
       "overdue": true
     },
     {
-      "title": "Call the dermatologist to book Mike's wart-removal appt",
-      "project": "Health",
+      "title": "Call dermatologist to book wart removal",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -78,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the morning is entirely yours."
+      "line": "The calendar was empty from the start — a rare fully open Monday."
     },
     {
       "time": "Afternoon",
-      "line": "Still open through the afternoon, a natural stretch for the overdue travel and household to-dos."
+      "line": "Nothing scheduled through the afternoon either."
     },
     {
       "time": "Evening",
-      "line": "Home with the four girls; an autumn dinner suits the night."
+      "line": "A clear close, with tomorrow just as open."
     }
   ],
   "japanese": {
