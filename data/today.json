@@ -1,38 +1,49 @@
 {
   "date": "Tuesday, September 29, 2026",
   "generatedAt": "Morning brief · 12:16 PM ET",
-  "theme": "A clear day, house full in St. Pete",
-  "greeting": "A rare open day, Dan — nothing on the calendar until the Brunswick call tomorrow. The girls are with you and Mike in St. Pete, so the day is yours to spend on the things that have been waiting.",
+  "theme": "One open day before tomorrow's Brunswick call",
+  "greeting": "The whole day is clear, Dan — not a single meeting. The open hours are best spent arriving ready for tomorrow's 11 AM with Brunswick.",
   "needsAttention": [
     {
       "tag": "Prep for tomorrow",
-      "title": "Brunswick call with Erika at 11",
-      "detail": "You set this with Erika Maass at Brunswick for 11 AM ET tomorrow. Worth deciding tonight what you want out of it and arriving with your ask ready."
+      "title": "Get ready for the Brunswick call",
+      "detail": "Tomorrow at 11 AM ET you meet Erika Maass, who leads senior recruitment at Brunswick and already has your resume. Today's open hours are the moment to land on what you want and why Brunswick."
     },
     {
       "tag": "Window closing",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland over Christmas week sells out early; a refundable booking now removes the risk. Overdue since Sep 14."
-    },
-    {
-      "tag": "Yours, overdue",
-      "title": "Three term-life quotes for Mike",
-      "detail": "Your half is the shopping — quotes, term length, coverage amount. Overdue since Sep 25."
+      "title": "Lock the Maine Christmas SUV",
+      "detail": "The full-size SUV out of Portland for Christmas week sells out early. Book it refundable now and fix the dates later — it's already past the date you set yourself."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "BBYO reunion RSVP",
-        "detail": "An Evite for the B’Yachad BBYO Reunion is waiting on your RSVP."
+        "tag": "Job search",
+        "title": "Shawn Maher wrote back",
+        "detail": "He named his EY successor, Didem Nisanci, as a useful contact — a warm networking thread worth keeping alive."
+      },
+      {
+        "tag": "Job search",
+        "title": "New public-policy role alert",
+        "detail": "A LinkedIn alert surfaced an SVP, Global Public Policy opening and similar roles."
       }
     ],
-    "noise": "Three LinkedIn connection requests came in overnight.",
-    "clear": "Nothing else is waiting on your reply."
+    "noise": "LinkedIn invites and a few newsletters and promos — nothing needing you.",
+    "clear": "The Maine Visionaries ask and the Brunswick scheduling are both handled."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Answered",
+      "title": "Maine Visionaries ask, said yes",
+      "detail": "You replied to Ellen Richstone agreeing to help recruit directors for the NACD NE program."
+    },
+    {
+      "tag": "Scheduled",
+      "title": "Brunswick call set for Wednesday",
+      "detail": "You and Erika settled on 11 AM ET and it's on the calendar."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -47,28 +58,16 @@
   },
   "tasks": [
     {
-      "title": "Book Maine Christmas rental (refundable SUV)",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 14",
-      "overdue": true
-    },
-    {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Plan the Pathfinder drive south (Oct 5–18)",
+      "title": "Plan the Portland to St Pete Pathfinder drive",
       "project": "Mike + Dan Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Reschedule the kids’ passport appointment",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 21",
-      "overdue": true
+      "due": "Window Oct 5-18",
+      "overdue": false
     },
     {
       "title": "Destination edit work",
@@ -85,15 +84,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the books — the morning opens clear."
+      "line": "Nothing on the calendar and a quiet inbox — the morning is entirely yours."
     },
     {
       "time": "Afternoon",
-      "line": "The calendar stays empty straight through; a long, uninterrupted stretch."
+      "line": "The open stretch is the natural place to prep for tomorrow's Brunswick conversation."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you and Mike in St. Pete tonight — the house is full."
+      "line": "A calm close in St. Pete with the girls home this week."
     }
   ],
   "japanese": {
