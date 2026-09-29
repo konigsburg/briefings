@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-29",
+    "kind": "Morning brief",
+    "label": "Tuesday, Sep 29 · 6:15 AM ET",
+    "summary": "An open day with tomorrow's Brunswick call to prep and the Maine Christmas rental still to book.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-28",
     "kind": "Morning brief",
     "label": "Monday, Sep 28 · 10:14 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Monday, Aug 31 · 10:02 PM ET",
     "summary": "An open calendar with no meetings today; travel prep and the Croatia countdown are the day's real pull.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-08-30",
-    "kind": "Morning brief",
-    "label": "Sunday, Aug 30 · 10:06 PM ET",
-    "summary": "A quiet Sunday with the girls home in St. Pete; the week's weight is Croatia prep against a Sept 8 booking wall.",
     "ref": "today"
   }
 ]
