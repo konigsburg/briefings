@@ -1,18 +1,18 @@
 {
   "date": "Tuesday, September 29, 2026",
   "generatedAt": "Morning brief · 7:23 AM ET",
-  "theme": "One open day, one call tomorrow.",
-  "greeting": "Good morning, Dan. Nothing is on the calendar today, so the whole day is open ahead of a single Brunswick call tomorrow — a clear window to close out the bookings that have been waiting.",
+  "theme": "A wide-open day, kids at home",
+  "greeting": "Good morning, Dan. The calendar is genuinely open today — nothing booked until an 11 AM Brunswick call tomorrow — so it's a rare chance to clear the few time-sensitive things that have been drifting.",
   "needsAttention": [
     {
-      "tag": "Tomorrow's prep",
-      "title": "Brunswick call with Erika",
-      "detail": "You meet Erika Maass at Brunswick over Teams tomorrow at 11:00 AM ET, 30 minutes. Worth settling today what you want out of it and the angle you'll open with."
+      "tag": "Book this week",
+      "title": "The Maine Christmas SUV is still unbooked",
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out — hold a refundable one now and adjust dates later. Marked p1, overdue since Sep 14."
     },
     {
-      "tag": "Booking window",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "The p1 'book this week' reminder is now 15 days overdue. A full-size SUV out of Portland over Christmas week sells out, so hold one on a refundable rate now and firm up dates later."
+      "tag": "Tomorrow · prep",
+      "title": "Brunswick call with Erika at 11",
+      "detail": "Your only meeting this week is an 11 AM Teams call with Erika Maass at Brunswick tomorrow — worth arriving with a clear read on what you want from that relationship given the search."
     }
   ],
   "schedule": [],
@@ -21,22 +21,27 @@
       {
         "tag": "Financial",
         "title": "Liberty Mutual bill",
-        "detail": "An 'action needed' notice to review and pay your Liberty Mutual bill came in this morning."
+        "detail": "An 'action needed — review and pay your bill' notice arrived this morning."
       },
       {
         "tag": "Job search",
-        "title": "LinkedIn requests waiting",
-        "detail": "A few connection invites and a USCIB mention are sitting unanswered — worth a scan for anyone useful to the board search."
+        "title": "LinkedIn networking pings",
+        "detail": "A USCIB post mention and a Sun Life sustainability-outreach connection request among the newest."
+      },
+      {
+        "tag": "FYI",
+        "title": "BBYO reunion RSVP",
+        "detail": "An Evite for the B'Yachad reunion has been waiting since the 26th."
       }
     ],
-    "noise": "Everything else is newsletters and promotions — WSJ Economics, Foreign Affairs, Amtrak, ANA, and a stack of retail sales.",
+    "noise": "Otherwise newsletters and travel promos — Kayak, Amtrak, ANA, America's Test Kitchen, Foreign Affairs.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "St Petersburg, FL",
     "confidence": "low",
     "asOf": "Tuesday Sep 29"
   },
@@ -47,21 +52,21 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Plan the Portland to St Pete Pathfinder drive",
+      "project": "Family logistics",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Get three term-life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Plan the Pathfinder drive south (Oct 5-18)",
+      "title": "Reschedule the kids' passport appointment",
       "project": "Travel",
-      "due": "Oct 5-18 window",
-      "overdue": false
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
+      "due": "Overdue Sep 21",
       "overdue": true
     }
   ],
@@ -73,15 +78,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar — the morning is entirely yours."
+      "line": "A rare open morning — nothing on the calendar until tomorrow, so the day starts entirely on your terms."
     },
     {
       "time": "Afternoon",
-      "line": "Still nothing scheduled; a clear runway for the travel bookings that keep slipping."
+      "line": "The calendar stays clear straight through; the middle of the day is unclaimed."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you and Mike, so a from-scratch dinner suits the night."
+      "line": "The girls are with you and Mike tonight, with tomorrow's late-morning Brunswick call the only thing on the horizon."
     }
   ],
   "japanese": {
