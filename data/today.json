@@ -1,18 +1,23 @@
 {
   "date": "Tuesday, September 29, 2026",
   "generatedAt": "Morning brief · 2:15 PM ET",
-  "theme": "One open day before tomorrow's Brunswick call",
-  "greeting": "The whole day is clear, Dan — not a single meeting. The open hours are best spent arriving ready for tomorrow's 11 AM with Brunswick.",
+  "theme": "An open day before tomorrow's Brunswick call.",
+  "greeting": "Nothing on the calendar today, Dan — a clear runway. The best use of it is arriving at tomorrow's 11 AM Brunswick call ready, and clearing the couple of overdue bookings before their windows close.",
   "needsAttention": [
     {
       "tag": "Prep for tomorrow",
       "title": "Get ready for the Brunswick call",
-      "detail": "Tomorrow at 11 AM ET you meet Erika Maass, who leads senior recruitment at Brunswick and already has your resume. Today's open hours are the moment to land on what you want and why Brunswick."
+      "detail": "Erika Maass, who leads senior recruitment at Brunswick, has you at 11 AM ET tomorrow on Teams. Arrive with your two-firm story tight and a couple of sharp questions about the role."
     },
     {
       "tag": "Window closing",
-      "title": "Lock the Maine Christmas SUV",
-      "detail": "The full-size SUV out of Portland for Christmas week sells out early. Book it refundable now and fix the dates later — it's already past the date you set yourself."
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Two weeks overdue on the board. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out — book it refundable now and fix the dates later."
+    },
+    {
+      "tag": "Ready to finish",
+      "title": "Send ICGN the bio and post the announcement",
+      "detail": "Drew sent detailed edits yesterday: lead with the two Big Four roles and drop the 'seeking' language. ICGN needs the bio for the Toronto panel, and the LinkedIn post can go out alongside it."
     }
   ],
   "schedule": [],
@@ -20,35 +25,35 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Shawn Maher wrote back",
-        "detail": "He named his EY successor, Didem Nisanci, as a useful contact — a warm networking thread worth keeping alive."
+        "title": "Shawn Maher named his EY successor",
+        "detail": "He replied with Didem Nisanci's name and background and left the door open — worth a short reply to keep the thread warm."
       },
       {
-        "tag": "Job search",
-        "title": "New public-policy role alert",
-        "detail": "A LinkedIn alert surfaced an SVP, Global Public Policy opening and similar roles."
+        "tag": "FYI",
+        "title": "Nautilus BVI sail-and-scuba cabin",
+        "detail": "Fede at Nautilus offered you and Mike one cabin for two on a BVI trip — no rush, but a fun one to weigh."
       }
     ],
-    "noise": "LinkedIn invites and a few newsletters and promos — nothing needing you.",
-    "clear": "The Maine Visionaries ask and the Brunswick scheduling are both handled."
+    "noise": "The rest is LinkedIn invitations, Substack receipts, and policy newsletters.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Answered",
-      "title": "Maine Visionaries ask, said yes",
-      "detail": "You replied to Ellen Richstone agreeing to help recruit directors for the NACD NE program."
+      "tag": "Handled",
+      "title": "Said yes to Maine Visionaries",
+      "detail": "You told Ellen Richstone you'd help bring directors into the NACD NE program, closing the thread with 'Absolutely. Will do.'"
     },
     {
       "tag": "Scheduled",
-      "title": "Brunswick call set for Wednesday",
-      "detail": "You and Erika settled on 11 AM ET and it's on the calendar."
+      "title": "Brunswick call locked for Wednesday",
+      "detail": "You and Erika settled on 11 AM ET tomorrow and you confirmed — nothing left but to show up ready."
     }
   ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "high",
+    "confidence": "low",
     "asOf": "Tuesday Sep 29"
   },
   "recipe": {
@@ -64,10 +69,10 @@
       "overdue": true
     },
     {
-      "title": "Plan the Portland to St Pete Pathfinder drive",
+      "title": "Plan the Pathfinder drive south, Oct 5-18",
       "project": "Mike + Dan Board",
-      "due": "Window Oct 5-18",
-      "overdue": false
+      "due": "Overdue Sep 25",
+      "overdue": true
     },
     {
       "title": "Destination edit work",
@@ -84,15 +89,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar and a quiet inbox — the morning is entirely yours."
+      "line": "No meetings on the books — the calendar ran clear straight through."
     },
     {
       "time": "Afternoon",
-      "line": "The open stretch is the natural place to prep for tomorrow's Brunswick conversation."
+      "line": "An open runway to prep the Brunswick call and clear the overdue bookings."
     },
     {
       "time": "Evening",
-      "line": "A calm close in St. Pete with the girls home this week."
+      "line": "Home with the girls in St. Pete — an easy family evening to close the day."
     }
   ],
   "japanese": {
