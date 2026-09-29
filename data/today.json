@@ -1,48 +1,51 @@
 {
   "date": "Tuesday, September 29, 2026",
   "generatedAt": "Morning brief · 8:14 AM ET",
-  "theme": "A wide-open day, kids at home",
-  "greeting": "Good morning, Dan. The calendar is genuinely open today — nothing booked until an 11 AM Brunswick call tomorrow — so it's a rare chance to clear the few time-sensitive things that have been drifting.",
+  "theme": "An open day — spend it on tomorrow's Brunswick prep and the bookings that keep slipping.",
+  "greeting": "The whole day is yours, Dan — nothing on the calendar. That makes it the day to arrive at tomorrow's Brunswick conversation prepared, and to finally lock the travel bookings that keep sliding.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "The Maine Christmas SUV is still unbooked",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out — hold a refundable one now and adjust dates later. Marked p1, overdue since Sep 14."
+      "tag": "Prep · tomorrow",
+      "title": "Brunswick senior-recruitment call, 11 AM Wed",
+      "detail": "Erika Maass — who leads Brunswick's senior recruitment and already has your resume — meets you tomorrow at 11 AM ET. Arrive holding a crisp version of what you're after (board seats plus senior governance and public-affairs roles) and two or three questions about their active searches."
     },
     {
-      "tag": "Tomorrow · prep",
-      "title": "Brunswick call with Erika at 11",
-      "detail": "Your only meeting this week is an 11 AM Teams call with Erika Maass at Brunswick tomorrow — worth arriving with a clear read on what you want from that relationship given the search."
+      "tag": "Booking window",
+      "title": "Book the Maine Christmas SUV — refundable",
+      "detail": "Your p1 task, overdue since Sept 14: a full-size SUV out of Portland over Christmas week is the market's hardest rental and sells out. A refundable hold now costs nothing and closes the risk."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Liberty Mutual bill",
-        "detail": "An 'action needed — review and pay your bill' notice arrived this morning."
+        "tag": "Job search",
+        "title": "Shawn Maher (EY) replied — successor named",
+        "detail": "Your reconnect landed: Shawn's successor, Didem Nisanci, has been hired. The natural next move is a warm intro — the ball is in your court."
       },
       {
         "tag": "Job search",
-        "title": "LinkedIn networking pings",
-        "detail": "A USCIB post mention and a Sun Life sustainability-outreach connection request among the newest."
+        "title": "Drew's notes on your ICGN bio are in",
+        "detail": "Drew sent feedback on the bio and LinkedIn announcement for your November ICGN panel in Toronto — ready for you to revise when you want."
       },
       {
         "tag": "FYI",
-        "title": "BBYO reunion RSVP",
-        "detail": "An Evite for the B'Yachad reunion has been waiting since the 26th."
+        "title": "LinkedIn alert: SVP Global Public Policy",
+        "detail": "A senior public-policy role and similar listings matched your alert — worth a scan."
       }
     ],
-    "noise": "Otherwise newsletters and travel promos — Kayak, Amtrak, ANA, America's Test Kitchen, Foreign Affairs.",
+    "noise": "The usual newsletters (WSJ, Monocle, Press Herald, MaineBiz, St. Pete local), a few LinkedIn invites, and a couple of event and restaurant blasts.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    "ASA 101 Basic Keelboat Sailing certification — earned; the confirmation landed yesterday.",
+    "Brunswick call locked for Wednesday 11 AM ET — you've confirmed and replied."
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St Petersburg, FL",
-    "confidence": "low",
+    "location": "St. Petersburg, FL",
+    "confidence": "high",
     "asOf": "Tuesday Sep 29"
   },
   "recipe": {
@@ -52,21 +55,21 @@
   },
   "tasks": [
     {
-      "title": "Plan the Portland to St Pete Pathfinder drive",
-      "project": "Family logistics",
-      "due": "Overdue Sep 25",
+      "title": "Drive the Pathfinder down — Portland to St Pete",
+      "project": "Family & travel",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Get three term-life quotes for Mike",
+      "title": "Passport reschedule — 4 kids, after return",
+      "project": "Family & travel",
+      "due": "Overdue Sept 21",
+      "overdue": true
+    },
+    {
+      "title": "Get 3 term life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Reschedule the kids' passport appointment",
-      "project": "Travel",
-      "due": "Overdue Sep 21",
+      "due": "Overdue Sept 25",
       "overdue": true
     }
   ],
