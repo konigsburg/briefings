@@ -1,44 +1,57 @@
 {
   "date": "Tuesday, September 29, 2026",
-  "generatedAt": "Morning brief · 6:14 PM ET",
-  "theme": "An open day, with one call to set up for tomorrow.",
-  "greeting": "The calendar's clear today, Dan — the day is yours for whatever's been waiting. Tomorrow starts with a Brunswick call at 11.",
+  "generatedAt": "Morning brief · 6:17 PM ET",
+  "theme": "A clear day for the job search and a couple of travel locks.",
+  "greeting": "Nothing's on the calendar today, Dan, so the day is yours. Tomorrow brings the Brunswick recruiter call at 11 — worth arriving ready.",
   "needsAttention": [
     {
-      "tag": "Tomorrow's prep",
-      "title": "Brunswick call with Erika at 11",
-      "detail": "On your calendar for 11 AM tomorrow. Worth arriving with a clear sense of what you want out of the conversation and a question or two ready to open with."
+      "tag": "Reply owed",
+      "title": "Pick a time with Carol Hansell",
+      "detail": "Carol replied this evening — flexible tomorrow except 11:30 to 12:30, and asked you to name a time so she can send a link. The governance-network catch-up you've been trying to reconnect on since before Croatia."
     },
     {
-      "tag": "Window closing",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Flagged p1 on your board and now two weeks past its date. A refundable full-size SUV out of Portland for Christmas week sells out early, so holding one now costs nothing and closes the risk."
+      "tag": "Prep tomorrow",
+      "title": "Brunswick recruiter call at 11 AM",
+      "detail": "Erika Maass, who leads Brunswick's senior recruitment, holds the 11 AM ET Teams invite tomorrow. Arrive with a crisp version of what you're looking for and why Brunswick."
+    },
+    {
+      "tag": "Overdue p1",
+      "title": "Lock the Maine Christmas SUV",
+      "detail": "Household, overdue since Sep 14. A refundable full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out — booking now costs nothing and closes the risk."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Elite Pharmacy invoice",
-        "detail": "An August invoice arrived with a $152.50 balance due."
+        "tag": "Job search",
+        "title": "Shawn Maher's replacement is hired",
+        "detail": "EY's Shawn Maher replied — successor Didem Nisanci is on board; worth a note to keep the relationship warm."
+      },
+      {
+        "tag": "FYI",
+        "title": "Drew's notes on your ICGN bio",
+        "detail": "Drew weighed in on the Toronto panel bio and the LinkedIn post — make it sparkle, lean into personality."
       }
     ],
-    "noise": "The rest is newsletters, receipts, subscription confirmations, and a few generic LinkedIn invites.",
-    "clear": "Nothing is waiting on your reply."
+    "noise": "Otherwise newsletters and invitations — Bloomberg, the ICGN policy digest, LinkedIn requests, retail promos.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Sailing",
-      "title": "Your ASA certification came through",
-      "detail": "Nautilus Sailing sent the completion note for your course — you're officially a certified captain."
+      "title": "Said yes to Ellen's Maine Visionaries ask",
+      "detail": "Replied 'will do' to Ellen Richstone's NACD New England director-referral request."
+    },
+    {
+      "title": "Brunswick call set for Wednesday",
+      "detail": "Confirmed Erika Maass's 11 AM ET invite; the scheduling's done."
     }
   ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "low",
+    "confidence": "high",
     "asOf": "Tuesday Sep 29"
   },
   "recipe": {
@@ -48,20 +61,14 @@
   },
   "tasks": [
     {
-      "title": "Reschedule the kids' passport appointment",
-      "project": "Mike + Dan board",
-      "due": "Overdue Sep 21",
-      "overdue": true
-    },
-    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan board",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder south, Oct 5-18 window",
-      "project": "Mike + Dan board",
+      "title": "Plan the Pathfinder drive south (Oct 5-18)",
+      "project": "Travel",
       "due": "Overdue Sep 25",
       "overdue": true
     }
@@ -74,15 +81,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the whole morning is open."
+      "line": "The calendar's empty top to bottom — a genuinely open day."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear through the afternoon, no meetings to work around."
+      "line": "Still clear, the afternoon unclaimed and yours to spend."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens with the Brunswick call at 11, so a few notes tonight would set it up."
+      "line": "A quiet finish, with one call on the books for tomorrow."
     }
   ],
   "japanese": {
