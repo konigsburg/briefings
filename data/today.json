@@ -1,55 +1,44 @@
 {
   "date": "Tuesday, September 29, 2026",
   "generatedAt": "Morning brief · 6:15 AM ET",
-  "theme": "An open day, with the Brunswick call now on the horizon.",
-  "greeting": "A wide-open Monday, Dan — nothing on the calendar all day, which gave the job-search threads room to move. The Brunswick intro call is now set for Wednesday morning.",
+  "theme": "One open day, one call tomorrow.",
+  "greeting": "Good morning, Dan. Nothing is on the calendar today, so the whole day is open ahead of a single Brunswick call tomorrow — a clear window to close out the bookings that have been waiting.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "The [DAN] holiday rental on the Mike + Dan board is two weeks past its Sept 14 date. Full-size SUVs out of Portland over Christmas sell out — a refundable hold now costs nothing and closes the risk."
+      "tag": "Tomorrow's prep",
+      "title": "Brunswick call with Erika",
+      "detail": "You meet Erika Maass at Brunswick over Teams tomorrow at 11:00 AM ET, 30 minutes. Worth settling today what you want out of it and the angle you'll open with."
     },
     {
-      "tag": "Four passports",
-      "title": "Kids' passport appointment to reschedule",
-      "detail": "The p1 passport-appointment task has sat since Sept 21. All four girls' books are expired, and December travel needs them booked by the Oct 15 window."
-    },
-    {
-      "tag": "Overdue Sept 25",
-      "title": "Term life quotes for Mike",
-      "detail": "Your p2 task to pull three term-life quotes came due Thursday — the shopping piece is yours; the application is Mike's."
+      "tag": "Booking window",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "The p1 'book this week' reminder is now 15 days overdue. A full-size SUV out of Portland over Christmas week sells out, so hold one on a refundable rate now and firm up dates later."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Shawn at EY wrote back",
-        "detail": "His successor, Didem Nisanci, has been hired; the reconnect thread is open and waiting on your reply."
+        "tag": "Financial",
+        "title": "Liberty Mutual bill",
+        "detail": "An 'action needed' notice to review and pay your Liberty Mutual bill came in this morning."
       },
       {
-        "tag": "FYI",
-        "title": "ICGN panel bio feedback in",
-        "detail": "Drew sent notes on your Toronto-panel bio and the LinkedIn announcement — ready for you to finalize."
+        "tag": "Job search",
+        "title": "LinkedIn requests waiting",
+        "detail": "A few connection invites and a USCIB mention are sitting unanswered — worth a scan for anyone useful to the board search."
       }
     ],
-    "noise": "A LinkedIn job alert, the ICGN policy newsletter, and a reunion Evite round out the inbox.",
+    "noise": "Everything else is newsletters and promotions — WSJ Economics, Foreign Affairs, Amtrak, ANA, and a stack of retail sales.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Scheduled",
-      "title": "Brunswick intro call locked in",
-      "detail": "You and Erika Maass settled on Wednesday 11 AM ET over Teams — invite accepted, nothing left to arrange."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "low",
-    "asOf": "Mon Sep 28"
+    "asOf": "Tuesday Sep 29"
   },
   "recipe": {
     "title": "Ras el Hanout Chicken and Spelt",
@@ -58,26 +47,20 @@
   },
   "tasks": [
     {
-      "title": "Plan the Pathfinder drive south (Oct 5–18)",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sept 25",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Assemble the 4-kid passport packet",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Aug 26",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist to book wart removal",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Aug 28",
-      "overdue": true
+      "title": "Plan the Pathfinder drive south (Oct 5-18)",
+      "project": "Travel",
+      "due": "Oct 5-18 window",
+      "overdue": false
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -90,15 +73,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar was empty from the start — a rare fully open Monday."
+      "line": "No meetings on the calendar — the morning is entirely yours."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled through the afternoon either."
+      "line": "Still nothing scheduled; a clear runway for the travel bookings that keep slipping."
     },
     {
       "time": "Evening",
-      "line": "A clear close, with tomorrow just as open."
+      "line": "The girls are with you and Mike, so a from-scratch dinner suits the night."
     }
   ],
   "japanese": {
