@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-09-30",
+    "kind": "Morning brief",
+    "label": "Wednesday, Sep 30 · 6:16 AM ET",
+    "summary": "A light day — Brunswick and Carol Hansell calls at midday, the December-break decision due today, and a Maine Christmas rental overdue to book.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-09-29",
     "kind": "Morning brief",
     "label": "Tuesday, Sep 29 · 10:14 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Tuesday, Sep 1 · 10:02 PM ET",
     "summary": "Open day in St. Pete with the girls; overdue Croatia bookings to clear before the Sept 8 flight.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-08-31",
-    "kind": "Morning brief",
-    "label": "Monday, Aug 31 · 10:02 PM ET",
-    "summary": "An open calendar with no meetings today; travel prep and the Croatia countdown are the day's real pull.",
     "ref": "today"
   }
 ]
