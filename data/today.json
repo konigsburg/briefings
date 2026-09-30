@@ -1,31 +1,31 @@
 {
   "date": "Wednesday, September 30, 2026",
   "generatedAt": "Morning brief · 7:20 AM ET",
-  "theme": "A light day, mostly your own",
-  "greeting": "Morning, Dan. Two short calls at midday and the day is otherwise open — with one travel decision that's genuinely due today.",
+  "theme": "An open day with two calls and a decision that's due.",
+  "greeting": "Good morning, Dan. The day is mostly yours — two short calls in the middle, and one travel decision that comes due today before the holiday inventory tightens.",
   "needsAttention": [
     {
-      "tag": "Decide today",
-      "title": "December break destinations",
-      "detail": "The all-kids trip (Dec 13–Jan 2) needs a call today to book by Oct 15 — holiday inventory for six is the thinnest of the year. Passports land in November, so a domestic shortlist is the safe path."
+      "tag": "Due today",
+      "title": "Lock the December-break shortlist",
+      "detail": "Your own Sept 30 deadline to name three destinations for the Dec 13–Jan 2 trip. Books by Oct 15, and since the kids' passports don't land until November, a domestic shortlist is the clean default."
     },
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "The p1 booking is 16 days overdue. A full-size SUV out of Portland over Christmas week sells out; a refundable hold now removes the risk at no cost."
+      "tag": "Overdue · book",
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "Flagged p1 and now 16 days past its book-this-week date. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market — a refundable hold now removes the whole risk."
     }
   ],
   "schedule": [
     {
       "time": "11:00 AM",
-      "title": "Brunswick call — Erika Maass",
-      "detail": "Teams, 30 min",
+      "title": "Brunswick: Dan & Erika",
+      "detail": "Teams call with Erika Maass at Brunswick Group.",
       "tag": "call"
     },
     {
       "time": "1:00 PM",
-      "title": "Carol Hansell — Hansell Advisory",
-      "detail": "Governance catch-up; she's sending the link",
+      "title": "Carol Hansell catch-up",
+      "detail": "Confirmed for 1 PM; she is sending the link.",
       "tag": "call"
     }
   ],
@@ -34,30 +34,24 @@
       {
         "tag": "Security",
         "title": "New OpenAI sign-in",
-        "detail": "A new ChatGPT web sign-in from Winter Park, FL at 5:35 AM — worth confirming it was you."
+        "detail": "A ChatGPT web sign-in from Winter Park, FL early this morning — likely you, but worth a glance."
       },
       {
         "tag": "Financial",
         "title": "Amex balance alert",
-        "detail": "myFICO flagged a reported balance increase on your American Express account."
+        "detail": "myFICO flags that your American Express balance ticked up this reporting cycle."
       }
     ],
-    "noise": "The rest is newsletters and promos — Bloomberg, Press Herald, SoFi, Kayak, a few generic LinkedIn invites.",
-    "clear": "Nothing else is waiting on your reply."
+    "noise": "The rest is newsletters, retail promos, and travel-booking marketing.",
+    "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Settled",
-      "title": "Time set with Carol Hansell",
-      "detail": "The back-and-forth closed overnight — she confirmed 1 PM today and is sending a link, so nothing's owed before the call."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Wednesday Sep 30"
+    "asOf": "Wed Sep 30"
   },
   "recipe": {
     "title": "Chanterelle salad",
@@ -66,47 +60,41 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + outdoor soap holder",
+      "project": "Household",
       "due": "Due today",
       "overdue": false
     },
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "title": "Book the hotel night for the Oct 5–18 Pathfinder drive",
+      "project": "Travel",
       "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder down — Portland to St Pete",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The Brunswick call sits at 11 — the hours before it are yours."
+      "line": "Quiet hours until the 11:00 Brunswick call with Erika."
     },
     {
       "time": "Afternoon",
-      "line": "One more call at 1, and the afternoon opens up after it."
+      "line": "One more call at 1 with Carol Hansell, then the afternoon opens back up."
     },
     {
       "time": "Evening",
-      "line": "Nothing on the calendar tonight — a quiet one at home with the girls."
+      "line": "Nothing on tonight; tomorrow holds a dinner at Pia's."
     }
   ],
   "japanese": {
