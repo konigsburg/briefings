@@ -1,36 +1,36 @@
 {
   "date": "Wednesday, September 30, 2026",
   "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "One call on the calendar, and a decision that's run out of runway.",
-  "greeting": "Morning, Dan — though it's past noon here now. The recruiter intro is behind you and the calendar is nearly clear; today's weight isn't meetings, it's two decisions that have quietly come due.",
+  "theme": "A clear day with one decision due.",
+  "greeting": "Both of today's calls are already behind you, Dan, and the calendar is open from here. The one thing that can't slide is the December-trip decision — it's due today.",
   "needsAttention": [
     {
-      "tag": "Prep · 1 PM",
-      "title": "Come to the Carol Hansell call with an ask",
-      "detail": "The 1:00 catch-up you chased down after Croatia is a warm governance contact — arrive knowing the one or two things you want from it, whether that's board introductions or her read on searches that are live right now."
-    },
-    {
       "tag": "Decide today",
-      "title": "December-break destinations are due",
-      "detail": "Your own Sept 30 deadline to shortlist three spots for the Dec 13–Jan 2 trip with all four girls. Passports won't be in hand by the Oct 15 book-by date, so the clean answer is a domestic shortlist — pick that lane and move."
+      "title": "December trip — decision due",
+      "detail": "The shortlist for the Dec 13–Jan 2 break with all four girls is due today, book by Oct 15. With passports only landing in November, a domestic shortlist is the safe default — international only on refundable bookings."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Hold a Christmas SUV out of Portland",
-      "detail": "The book-this-week rental is now two weeks past due. A refundable full-size SUV at PWM over Christmas week is the thinnest inventory in that market and sells out early — a refundable hold costs nothing and closes the risk."
+      "tag": "Overdue · book",
+      "title": "Maine Christmas SUV rental",
+      "detail": "A refundable full-size SUV out of Portland for Christmas week; holiday inventory sells out and this has been open since mid-September. Booking refundable now costs nothing and closes the risk."
+    },
+    {
+      "tag": "Overdue task",
+      "title": "Three term-life quotes for Mike",
+      "detail": "In Household, due Sept 25 — still waiting on a target coverage amount and term length before you can actually shop it."
     }
   ],
   "schedule": [
     {
       "time": "11:00 AM",
-      "title": "Brunswick — Erika Maass",
-      "detail": "Recruiter intro (done)",
+      "title": "Brunswick — Dan & Erika",
+      "detail": "Teams call with Erika Maass",
       "tag": "call"
     },
     {
       "time": "1:00 PM",
       "title": "Carol Hansell",
-      "detail": "Governance catch-up",
+      "detail": "Teams call via Caroline Lo",
       "tag": "call"
     }
   ],
@@ -38,26 +38,17 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Shawn Maher (EY) wrote back",
-        "detail": "His successor Didem Nisanci is now hired; the thread is warm and open for a short follow-up whenever you want to keep the door ajar."
-      },
-      {
-        "tag": "FYI",
-        "title": "Nautilus BVI sail invite",
-        "detail": "Alumni sail-and-SCUBA offer for you and Mike, one cabin for two — no reply owed, just worth a look."
+        "title": "LinkedIn messages awaiting reply",
+        "detail": "LinkedIn flags three unread messages, one from Claudia — worth a glance given the board and role search."
       }
     ],
-    "noise": "The rest is newsletters and alerts — LinkedIn job digests, ICGN and Responsible Investor, NYT Cooking, an Amex promo.",
-    "clear": "Nothing else is sitting on your reply this morning."
+    "noise": "Newsletters (market news, Nautilus sailing, Pip Decks, a new Substack) and a handful of LinkedIn connection invites.",
+    "clear": ""
   },
   "resolved": [
     {
-      "title": "NACD Maine Visionaries ask — you're in",
-      "detail": "You told Ellen Richstone \"will do\" on referring directors; Josh Broder confirmed too, so that one's settled."
-    },
-    {
-      "title": "Carol Hansell time locked",
-      "detail": "After a few rounds, Carol landed on 1 PM and her office sent the link — nothing left to coordinate."
+      "title": "Carol Hansell followed up",
+      "detail": "Carol Hansell wrote right after the 1 PM call — 'nice talking to you, see you in November.'"
     }
   ],
   "context": {
@@ -65,7 +56,7 @@
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Wed Sep 30"
+    "asOf": "Wednesday Sep 30"
   },
   "recipe": {
     "title": "Chanterelle salad",
@@ -74,41 +65,35 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south (Oct 5–18 window)",
-      "project": "Travel",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + shower soap holder",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Due today",
       "overdue": false
+    },
+    {
+      "title": "Drive the Pathfinder down, Portland → St Pete",
+      "project": "Travel",
+      "due": "Oct 5–18 window",
+      "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The recruiter intro wrapped at 11:30 — the morning's one fixed point is behind you."
+      "line": "An 11 AM Brunswick call with Erika Maass opened the day."
     },
     {
-      "time": "Afternoon",
-      "line": "A single half-hour call sits in the early afternoon; on either side, the day runs wide open."
+      "time": "Early afternoon",
+      "line": "The 1 PM with Carol Hansell closed out the meetings."
     },
     {
-      "time": "Evening",
-      "line": "Home in St. Pete with the girls, a settled night before tomorrow's table at Pia's."
+      "time": "Afternoon on",
+      "line": "A clear calendar, with tomorrow's dinner at Pia's Trattoria the only thing on deck."
     }
   ],
   "japanese": {
