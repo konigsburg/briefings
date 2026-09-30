@@ -1,36 +1,31 @@
 {
   "date": "Wednesday, September 30, 2026",
-  "generatedAt": "Morning brief · 4:15 PM ET",
-  "theme": "A clear day with one decision due.",
-  "greeting": "Both of today's calls are already behind you, Dan, and the calendar is open from here. The one thing that can't slide is the December-trip decision — it's due today.",
+  "generatedAt": "Morning brief · 4:19 PM ET",
+  "theme": "The calls are done; one decision is due today.",
+  "greeting": "The recruiting and governance calls are behind you, Dan. What's left is the December-break decision — your own deadline to shortlist lands today, with an Oct 15 book-by close behind it.",
   "needsAttention": [
     {
-      "tag": "Decide today",
-      "title": "December trip — decision due",
-      "detail": "The shortlist for the Dec 13–Jan 2 break with all four girls is due today, book by Oct 15. With passports only landing in November, a domestic shortlist is the safe default — international only on refundable bookings."
+      "tag": "Due today",
+      "title": "Decide the December-break destinations",
+      "detail": "Your Todoist deadline to pick the shortlist lands today — all four girls, Dec 13–Jan 2, book-by Oct 15. Passports land mid-November, so the clean path is a domestic shortlist; international only on refundable bookings."
     },
     {
       "tag": "Overdue · book",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week; holiday inventory sells out and this has been open since mid-September. Booking refundable now costs nothing and closes the risk."
-    },
-    {
-      "tag": "Overdue task",
-      "title": "Three term-life quotes for Mike",
-      "detail": "In Household, due Sept 25 — still waiting on a target coverage amount and term length before you can actually shop it."
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "The p1 task to book a refundable full-size SUV out of Portland for Christmas week is about two weeks past due. Holiday inventory at PWM is the thinnest of the year; a refundable hold now costs nothing and closes the risk."
     }
   ],
   "schedule": [
     {
       "time": "11:00 AM",
       "title": "Brunswick — Dan & Erika",
-      "detail": "Teams call with Erika Maass",
+      "detail": "Recruiting intro with Erika Maass",
       "tag": "call"
     },
     {
       "time": "1:00 PM",
       "title": "Carol Hansell",
-      "detail": "Teams call via Caroline Lo",
+      "detail": "Governance advisory call",
       "tag": "call"
     }
   ],
@@ -38,17 +33,28 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn messages awaiting reply",
-        "detail": "LinkedIn flags three unread messages, one from Claudia — worth a glance given the board and role search."
+        "title": "Shawn Maher named his EY successor",
+        "detail": "Shawn wrote back with his successor, Didem Nisanci, and offered context — the reply is yours to make."
+      },
+      {
+        "tag": "Job search",
+        "title": "ICGN panel bio still to finish",
+        "detail": "Drew sent notes on the bio and LinkedIn announcement for your November ICGN panel in Toronto; the bio is still owed to them."
       }
     ],
-    "noise": "Newsletters (market news, Nautilus sailing, Pip Decks, a new Substack) and a handful of LinkedIn connection invites.",
+    "noise": "The rest is LinkedIn invites and a public-policy job alert, the ICGN policy newsletter, and Substack sign-up mail.",
     "clear": ""
   },
   "resolved": [
     {
-      "title": "Carol Hansell followed up",
-      "detail": "Carol Hansell wrote right after the 1 PM call — 'nice talking to you, see you in November.'"
+      "tag": "Done",
+      "title": "Brunswick recruiting intro",
+      "detail": "Your 11 AM call with Erika Maass at Brunswick is behind you."
+    },
+    {
+      "tag": "Replied",
+      "title": "Maine Visionaries director ask",
+      "detail": "You and Josh both told Ellen Richstone you're in to help recruit directors; she's thanked you both."
     }
   ],
   "context": {
@@ -65,15 +71,27 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Three term-life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder south, Oct 5–18 window",
+      "project": "Travel",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
       "due": "Due today",
       "overdue": false
     },
     {
-      "title": "Drive the Pathfinder down, Portland → St Pete",
-      "project": "Travel",
-      "due": "Oct 5–18 window",
+      "title": "Destination edit work",
+      "project": "Work",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -85,15 +103,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An 11 AM Brunswick call with Erika Maass opened the day."
+      "line": "A quiet start, then the Brunswick recruiting intro with Erika at eleven."
     },
     {
-      "time": "Early afternoon",
-      "line": "The 1 PM with Carol Hansell closed out the meetings."
+      "time": "Afternoon",
+      "line": "Carol Hansell at one, and the afternoon opens back up from there."
     },
     {
-      "time": "Afternoon on",
-      "line": "A clear calendar, with tomorrow's dinner at Pia's Trattoria the only thing on deck."
+      "time": "Evening",
+      "line": "Open tonight in St. Pete — a Pia's Trattoria table waits tomorrow at 7:45."
     }
   ],
   "japanese": {
