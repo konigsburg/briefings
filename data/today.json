@@ -1,18 +1,23 @@
 {
   "date": "Tuesday, September 29, 2026",
   "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "An open day, then Brunswick at 11 tomorrow.",
-  "greeting": "Nothing is on the calendar today, Dan — a rare clear run. Good time to close out the travel bookings that keep sliding, and to get your ask sharp for the Brunswick call at 11 tomorrow.",
+  "theme": "An open day with a few overdue threads to close.",
+  "greeting": "A completely clear calendar today, Dan. The only real pulls are a handful of overdue to-dos and one light call on tomorrow's horizon.",
   "needsAttention": [
     {
       "tag": "Prep · tomorrow",
-      "title": "Brunswick call at 11 tomorrow",
-      "detail": "You're on Teams with Erika Maass of Brunswick Group at 11 AM Wednesday. Worth deciding tonight what you want out of it and arriving with your board-search ask already framed."
+      "title": "Brunswick call at 11",
+      "detail": "Erika Maass at Brunswick Group has you on a 30-minute Teams call tomorrow late morning. Worth arriving with a few thoughts on what you want out of it."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "The refundable full-size SUV out of Portland for Christmas week has been open since Sep 14. Holiday inventory in that market sells out, so booking it refundable now costs nothing and closes the risk."
+      "tag": "Overdue · book",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Your p1 task to book a refundable full-size SUV out of Portland for Christmas week is about two weeks past due. Holiday inventory there thins fast, so a refundable hold now costs nothing and closes the risk."
+    },
+    {
+      "tag": "Overdue · p2",
+      "title": "Three term-life quotes for Mike",
+      "detail": "The task to gather three term-life quotes is a few days overdue. You own the shopping — quotes, term length, coverage — and Mike handles the application."
     }
   ],
   "schedule": [],
@@ -20,24 +25,25 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "myFICO balance alert",
-        "detail": "myFICO flagged a higher reported balance on your American Express — a routine monthly-report alert, nothing to act on unless the number looks off."
-      },
-      {
-        "tag": "Job search",
-        "title": "LinkedIn invites waiting",
-        "detail": "A handful of new connection requests, including a sustainability director at Sun Life — a two-minute triage worth doing given the board search."
+        "title": "AMEX balance alert",
+        "detail": "An automated myFICO alert flagged a higher reported balance on your American Express card. Informational — nothing to action."
       }
     ],
-    "noise": "The rest is newsletters and promotions — Press Herald, a couple of Substacks, and SoFi and Dermstore offers.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "About a dozen newsletters and promos — Bloomberg, Press Herald, SoFi, Dermstore, a few Substacks — plus three LinkedIn connection invites.",
+    "clear": "No email is waiting on your reply this morning."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Closed loop",
+      "title": "Maine Visionaries — you're in",
+      "detail": "You told Ellen Richstone and Josh Broder you'd help recruit directors for NACD New England's Maine Visionaries program; both confirmed back."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "low",
+    "confidence": "high",
     "asOf": "Tuesday Sep 29"
   },
   "recipe": {
@@ -47,13 +53,7 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Plan the Portland–St Pete Pathfinder drive",
+      "title": "Pathfinder drive-down, Oct 5-18 window",
       "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
@@ -66,22 +66,22 @@
     }
   ],
   "routines": {
-    "morning": "8/10",
-    "day": "1/3",
+    "morning": "0/2",
+    "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings today — the whole day is open ground."
+      "line": "Nothing on the calendar this morning."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled; a clear stretch to move the errands that have been drifting."
+      "line": "The afternoon is open too — no meetings all day."
     },
     {
       "time": "Evening",
-      "line": "A quiet close, with tomorrow's 11 o'clock the first thing on deck."
+      "line": "Tomorrow starts light: a single call late morning."
     }
   ],
   "japanese": {
