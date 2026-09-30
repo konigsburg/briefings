@@ -1,54 +1,63 @@
 {
   "date": "Wednesday, September 30, 2026",
   "generatedAt": "Morning brief · 12:14 PM ET",
-  "theme": "Two calls, open water between.",
-  "greeting": "Two conversations anchor today, Dan, and both are the kind that move things forward. The real pull, though, is a pair of decisions that have waited long enough.",
+  "theme": "One call on the calendar, and a decision that's run out of runway.",
+  "greeting": "Morning, Dan — though it's past noon here now. The recruiter intro is behind you and the calendar is nearly clear; today's weight isn't meetings, it's two decisions that have quietly come due.",
   "needsAttention": [
     {
-      "tag": "Due today",
-      "title": "Pick a December destination",
-      "detail": "Your own decide-by date lands today, ahead of the Oct 15 book-by. The call is domestic versus international, then a shortlist of three, with all four girls in the Dec 13–Jan 2 stretch."
+      "tag": "Prep · 1 PM",
+      "title": "Come to the Carol Hansell call with an ask",
+      "detail": "The 1:00 catch-up you chased down after Croatia is a warm governance contact — arrive knowing the one or two things you want from it, whether that's board introductions or her read on searches that are live right now."
+    },
+    {
+      "tag": "Decide today",
+      "title": "December-break destinations are due",
+      "detail": "Your own Sept 30 deadline to shortlist three spots for the Dec 13–Jan 2 trip with all four girls. Passports won't be in hand by the Oct 15 book-by date, so the clean answer is a domestic shortlist — pick that lane and move."
     },
     {
       "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "A refundable full-size SUV out of Portland over the holidays is the thinnest rental in that market and sells out. This one has been open since Sept 14."
+      "title": "Hold a Christmas SUV out of Portland",
+      "detail": "The book-this-week rental is now two weeks past due. A refundable full-size SUV at PWM over Christmas week is the thinnest inventory in that market and sells out early — a refundable hold costs nothing and closes the risk."
     }
   ],
   "schedule": [
     {
       "time": "11:00 AM",
-      "title": "Brunswick call — Erika Maass",
-      "detail": "The senior-recruitment intro Lauren set up.",
-      "tag": "Career"
+      "title": "Brunswick — Erika Maass",
+      "detail": "Recruiter intro (done)",
+      "tag": "call"
     },
     {
       "time": "1:00 PM",
       "title": "Carol Hansell",
-      "detail": "The governance catch-up you booked after Croatia.",
-      "tag": "Career"
+      "detail": "Governance catch-up",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Reply waiting from Shawn at EY",
-        "detail": "He named his successor, Didem Nisanci, and left the thread open — a note back keeps the connection warm."
+        "title": "Shawn Maher (EY) wrote back",
+        "detail": "His successor Didem Nisanci is now hired; the thread is warm and open for a short follow-up whenever you want to keep the door ajar."
       },
       {
-        "tag": "Job search",
-        "title": "ICGN Toronto bio to finalize",
-        "detail": "Drew sent notes on your panel bio and the LinkedIn announcement, ready for you to shape."
+        "tag": "FYI",
+        "title": "Nautilus BVI sail invite",
+        "detail": "Alumni sail-and-SCUBA offer for you and Mike, one cabin for two — no reply owed, just worth a look."
       }
     ],
-    "noise": "The rest is promotions and receipts — Disney+ profile confirmations, LinkedIn alerts, a few shop newsletters.",
-    "clear": "Today's two calls are fully locked — times, links, all set."
+    "noise": "The rest is newsletters and alerts — LinkedIn job digests, ICGN and Responsible Investor, NYT Cooking, an Amex promo.",
+    "clear": "Nothing else is sitting on your reply this morning."
   },
   "resolved": [
     {
-      "title": "Maine Visionaries ask handled",
-      "detail": "Ellen Richstone asked you and Josh to help bring directors into the NACD NE program; you both confirmed yesterday, so nothing is owed."
+      "title": "NACD Maine Visionaries ask — you're in",
+      "detail": "You told Ellen Richstone \"will do\" on referring directors; Josh Broder confirmed too, so that one's settled."
+    },
+    {
+      "title": "Carol Hansell time locked",
+      "detail": "After a few rounds, Carol landed on 1 PM and her office sent the link — nothing left to coordinate."
     }
   ],
   "context": {
@@ -56,7 +65,7 @@
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Wednesday Sep 30"
+    "asOf": "Wed Sep 30"
   },
   "recipe": {
     "title": "Chanterelle salad",
@@ -65,19 +74,19 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder south (Oct 5–18)",
+      "title": "Drive the Pathfinder south (Oct 5–18 window)",
       "project": "Travel",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + soap holder",
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
       "due": "Due today",
       "overdue": false
@@ -91,15 +100,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A slow open until the late-morning call."
+      "line": "The recruiter intro wrapped at 11:30 — the morning's one fixed point is behind you."
     },
     {
       "time": "Afternoon",
-      "line": "One early-afternoon conversation, then the day loosens."
+      "line": "A single half-hour call sits in the early afternoon; on either side, the day runs wide open."
     },
     {
       "time": "Evening",
-      "line": "Nothing on the books tonight; tomorrow ends at a dinner table."
+      "line": "Home in St. Pete with the girls, a settled night before tomorrow's table at Pia's."
     }
   ],
   "japanese": {
