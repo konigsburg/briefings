@@ -1,30 +1,35 @@
 {
   "date": "Thursday, October 1, 2026",
   "generatedAt": "Morning brief · 4:14 PM ET",
-  "theme": "An open day — the evening's the only fixed point.",
-  "greeting": "The day is almost entirely yours, Dan — just dinner at Pia's tonight. A rare clear stretch to finally close the two travel decisions that have been drifting.",
+  "theme": "An open day with the overdue decisions finally in reach.",
+  "greeting": "The day is almost entirely yours, Dan — one dinner out tonight and nothing else on the calendar. It's the opening to close out the travel decisions that slipped past their dates, and to get ready for tomorrow's call with Pema.",
   "needsAttention": [
     {
-      "tag": "Decide now",
-      "title": "December break destination",
-      "detail": "You set Sept 30 to decide and Oct 15 to book — six people over three weeks across the holidays is the thinnest inventory of the year. Passports land in November, so a domestic shortlist is the safe default; go international only on refundable bookings."
+      "tag": "Tomorrow's call",
+      "title": "Prep for the Pema call at Sun Life",
+      "detail": "Pema, Sun Life's director of sustainability outreach, connected on LinkedIn and is on your calendar tomorrow at 2:30 PM; arrive with two or three points tying her mandate to your sustainability-reporting work."
+    },
+    {
+      "tag": "Decision overdue",
+      "title": "Lock the December break destination",
+      "detail": "Your own decide-by date was Sept 30 and the book-by is Oct 15; the plan calls for a domestic shortlist, since the kids' passports won't be in hand by booking day."
     },
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out. The Pathfinder's gone south by then, so a refundable PWM hold now costs nothing and removes the whole risk."
+      "title": "Hold a Christmas SUV in Portland",
+      "detail": "The p1 task to book a refundable full-size SUV out of PWM for Christmas week is overdue — holiday inventory is thin and sells out, so a refundable hold now costs nothing and removes the risk."
     },
     {
       "tag": "Window opens",
-      "title": "Pathfinder drive south",
-      "detail": "The Oct 5–18 off-week is the gap to drive Portland to St Pete. Once dates are set, book the single hotel night for the two-day I-95 run."
+      "title": "Set up the Pathfinder drive south",
+      "detail": "The Oct 5-18 window to drive Portland to St Pete opens in four days; the hotel night and where the car sits each month still need settling."
     }
   ],
   "schedule": [
     {
       "time": "7:45 PM",
       "title": "Dinner at Pia's Trattoria",
-      "detail": "",
+      "detail": "Reservation on your calendar",
       "tag": "dinner"
     }
   ],
@@ -32,22 +37,17 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Public affairs roles in alerts",
-        "detail": "Today's LinkedIn alerts flag a Sr Director, U.S. Public Affairs (Servier) and a President & CEO role (DRG Consulting)."
+        "title": "Public affairs director role at Servier",
+        "detail": "A LinkedIn job alert flagged a Sr. Director, U.S. Public Affairs opening posted yesterday."
       },
       {
         "tag": "Job search",
-        "title": "Duke Career Conversations",
-        "detail": "Alumni networking sessions across Oct–Nov — registration is open now."
-      },
-      {
-        "tag": "Financial",
-        "title": "Morgan Stanley statement ready",
-        "detail": "A new account statement is available online."
+        "title": "LinkedIn message from Hans-Kristian",
+        "detail": "A new LinkedIn message is waiting on a reply — worth a look given your active networking."
       }
     ],
-    "noise": "The rest is newsletters, retail, and local-events mail — nothing needs a reply.",
-    "clear": ""
+    "noise": "Everything else is newsletters and retail — Delta, Bloomberg, NYT Cooking, and a stack of travel and shopping promos.",
+    "clear": "No email needs a reply from you today."
   },
   "resolved": [],
   "context": {
@@ -64,15 +64,21 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sep 30",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Place the Portland house order",
       "project": "Household",
-      "due": "Overdue Sep 25",
+      "due": "Overdue Sept 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Work",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -84,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing scheduled — the morning is wide open."
+      "line": "A clear morning with nothing scheduled — the first real opening to close out the overdue travel decisions."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear; the best stretch to lock the December trip and the Christmas rental before inventory thins."
+      "line": "The afternoon stays open; the only thing on the near horizon is tomorrow's 2:30 call with Pema."
     },
     {
       "time": "Evening",
-      "line": "Dinner at Pia's Trattoria at 7:45."
+      "line": "The evening brings a dinner out, and the rest of the day is yours to steer."
     }
   ],
   "japanese": {
