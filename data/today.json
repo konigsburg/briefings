@@ -1,51 +1,57 @@
 {
   "date": "Wednesday, September 30, 2026",
   "generatedAt": "Morning brief · 8:14 PM ET",
-  "theme": "A light day between trips.",
-  "greeting": "Two short governance calls are already behind you, Dan, and the evening is clear. The one thing you set for today is a decision, not a meeting.",
+  "theme": "A light calendar, one real decision.",
+  "greeting": "Only two short calls today, Dan, and both are behind you — the day's real work isn't a meeting, it's a decision. The December-trip call comes due today.",
   "needsAttention": [
     {
       "tag": "Decide today",
-      "title": "December trip — pick the shortlist",
-      "detail": "Your own Sept 30 deadline to shortlist three destinations for the Dec 13–Jan 2 break with all four girls. Passports land in November, so the safe call is a domestic shortlist, or international on refundable bookings only."
+      "title": "December trip decision is due today",
+      "detail": "The Sept 30 deadline to shortlist and settle the December break lands today — all four girls, Dec 13 to Jan 2, book-by Oct 15. Passports arrive mid-November, so a domestic shortlist is the clean call."
     },
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland over Christmas week is the thinnest rental in that market and sells out early. Hold a refundable booking now and fine-tune the dates later."
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "The p1 reminder to reserve a refundable full-size SUV from Portland for Christmas week is well overdue; holiday PWM inventory is the thinnest of the year and sells out early."
     },
     {
-      "tag": "Window opens Oct 5",
-      "title": "Pathfinder drive south",
-      "detail": "The Portland → St Pete drive falls in the Oct 5–18 off-week. Book the single hotel night and settle where the car parks in Florida before the window opens."
+      "tag": "Window opens",
+      "title": "Pathfinder drive south needs a plan",
+      "detail": "The Portland to St Pete drive is slated for the Oct 5 to 18 off-week — five days out and still open on route, the hotel night, and where the car sits between Florida weeks."
     }
   ],
   "schedule": [
     {
       "time": "11:00 AM",
-      "title": "Brunswick call — Erika",
-      "detail": "Teams, with Erika Maass",
-      "tag": "meeting"
+      "title": "Brunswick catch-up — Erika Maass",
+      "detail": "30 min on Teams",
+      "tag": "call"
     },
     {
       "time": "1:00 PM",
       "title": "Carol Hansell",
-      "detail": "Teams, set up via Caroline Lo",
-      "tag": "meeting"
+      "detail": "Governance catch-up on Teams",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "LinkedIn: Flint Global director",
-        "detail": "A director at Flint Global is waiting on a connection response — worth a glance given the public-affairs overlap."
+        "tag": "FYI",
+        "title": "ICGN September monthly landed",
+        "detail": "Member update ahead of your Toronto week — worth a skim, no reply needed."
       }
     ],
-    "noise": "Everything else is newsletters, shop sales, and travel promos — nothing is waiting on your reply.",
-    "clear": ""
+    "noise": "The rest is newsletters, LinkedIn invites, and receipts — nothing asking for you.",
+    "clear": "Your Carol Hansell follow-up is already sent, so the inbox is quiet on replies."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Governance",
+      "title": "Met with Carol Hansell",
+      "detail": "Today's 1 PM governance catch-up happened and you followed up proposing a Toronto dinner during ICGN week."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -61,27 +67,21 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Family",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Reschedule the kids' passport appointment",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 21",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist for Mike's wart removal",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Portland order — bedframe + shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Family",
       "due": "Due today",
       "overdue": false
+    },
+    {
+      "title": "Finish destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
+      "overdue": true
     }
   ],
   "routines": {
@@ -92,15 +92,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet start until an 11 o'clock Brunswick call with Erika Maass."
+      "line": "A single Teams catch-up with Erika at Brunswick at 11 — the morning stays light."
     },
     {
       "time": "Afternoon",
-      "line": "One more short conversation with Carol Hansell at 1, then the afternoon clears."
+      "line": "The 1 o'clock with Carol Hansell was the day's anchor, and it set up a Toronto meet during ICGN week."
     },
     {
       "time": "Evening",
-      "line": "Nothing scheduled tonight — a table at Pia's is held for tomorrow."
+      "line": "Nothing on the calendar tonight; tomorrow closes with dinner at Pia's at 7:45."
     }
   ],
   "japanese": {
