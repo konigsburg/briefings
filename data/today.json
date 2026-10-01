@@ -1,55 +1,59 @@
 {
   "date": "Wednesday, September 30, 2026",
-  "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "A light calendar, one real decision.",
-  "greeting": "Only two short calls today, Dan, and both are behind you — the day's real work isn't a meeting, it's a decision. The December-trip call comes due today.",
+  "generatedAt": "Morning brief · 10:18 PM ET",
+  "theme": "Two board conversations behind you; one travel decision due before the day turns over.",
+  "greeting": "Two good governance conversations are already done, Dan — Brunswick this morning and Carol Hansell at one. The day's one real ask left is the December trip: it's your decision date, and the Christmas car is still unbooked.",
   "needsAttention": [
     {
       "tag": "Decide today",
-      "title": "December trip decision is due today",
-      "detail": "The Sept 30 deadline to shortlist and settle the December break lands today — all four girls, Dec 13 to Jan 2, book-by Oct 15. Passports arrive mid-November, so a domestic shortlist is the clean call."
+      "title": "Lock the December break destination",
+      "detail": "Your Sept 30 decision date for the all-kids Dec 13-Jan 2 trip is here. Books go out by Oct 15 and holiday inventory for six over three weeks is the thinnest of the year - pick domestic or refundable-international and commit to one."
     },
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "The p1 reminder to reserve a refundable full-size SUV from Portland for Christmas week is well overdue; holiday PWM inventory is the thinnest of the year and sells out early."
-    },
-    {
-      "tag": "Window opens",
-      "title": "Pathfinder drive south needs a plan",
-      "detail": "The Portland to St Pete drive is slated for the Oct 5 to 18 off-week — five days out and still open on route, the hotel night, and where the car sits between Florida weeks."
+      "title": "Reserve the Maine Christmas SUV",
+      "detail": "This p1 has been open since Sept 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market; hold a refundable one now before it sells out, and fix the dates later."
     }
   ],
   "schedule": [
     {
       "time": "11:00 AM",
-      "title": "Brunswick catch-up — Erika Maass",
-      "detail": "30 min on Teams",
-      "tag": "call"
+      "title": "Brunswick: Dan & Erika",
+      "detail": "Recruiter intro, Brunswick Group",
+      "tag": "Call"
     },
     {
       "time": "1:00 PM",
       "title": "Carol Hansell",
-      "detail": "Governance catch-up on Teams",
-      "tag": "call"
+      "detail": "Governance talk, Hansell Advisory",
+      "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "Shawn Maher named his successor",
+        "detail": "Your former EY contact replied with his replacement, Didem Nisanci, and flagged her as relevant - the thread is waiting on you."
+      },
+      {
+        "tag": "Job search",
+        "title": "SVP Global Public Policy alert",
+        "detail": "A LinkedIn alert surfaced a Senior VP of Global Public Policy role and similar postings against your search."
+      },
+      {
         "tag": "FYI",
-        "title": "ICGN September monthly landed",
-        "detail": "Member update ahead of your Toronto week — worth a skim, no reply needed."
+        "title": "ICGN panel bio still needs a pass",
+        "detail": "Drew sent edits on your moderator bio for the November ICGN conference in Toronto; it needs one more pass before it goes back."
       }
     ],
-    "noise": "The rest is newsletters, LinkedIn invites, and receipts — nothing asking for you.",
-    "clear": "Your Carol Hansell follow-up is already sent, so the inbox is quiet on replies."
+    "noise": "The rest is newsletters, promos, and social pings - ICGN and Press Herald digests, a stack of LinkedIn connection invites, and retail mail.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Governance",
-      "title": "Met with Carol Hansell",
-      "detail": "Today's 1 PM governance catch-up happened and you followed up proposing a Toronto dinner during ICGN week."
+      "title": "Maine Visionaries director recruiting",
+      "detail": "Ellen Richstone asked you and Josh Broder to bring in more directors for the NACD NE program; you both said yes and she confirmed - nothing owed now."
     }
   ],
   "context": {
@@ -57,7 +61,7 @@
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Wed Sep 30"
+    "asOf": "Wednesday Sep 30"
   },
   "recipe": {
     "title": "Chanterelle salad",
@@ -66,21 +70,21 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Family",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Family",
+      "title": "Order Portland king bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Due today",
       "overdue": false
     },
     {
-      "title": "Finish destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
+      "title": "Drive the Pathfinder south, Portland to St Pete",
+      "project": "Travel",
+      "due": "Overdue Sep 25",
       "overdue": true
     }
   ],
@@ -92,15 +96,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A single Teams catch-up with Erika at Brunswick at 11 — the morning stays light."
+      "line": "One recruiter call with Brunswick at eleven broke up an otherwise open morning."
     },
     {
       "time": "Afternoon",
-      "line": "The 1 o'clock with Carol Hansell was the day's anchor, and it set up a Toronto meet during ICGN week."
+      "line": "Carol Hansell at one for a governance conversation, then the afternoon ran clear."
     },
     {
       "time": "Evening",
-      "line": "Nothing on the calendar tonight; tomorrow closes with dinner at Pia's at 7:45."
+      "line": "Yours to use, but the December trip decision is due before the day turns over."
     }
   ],
   "japanese": {
