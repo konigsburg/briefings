@@ -1,59 +1,54 @@
 {
   "date": "Thursday, October 1, 2026",
-  "generatedAt": "Morning brief · 12:15 PM ET",
-  "theme": "An open day, a few decisions waiting",
-  "greeting": "Good morning, Dan. The calendar's clear until dinner out tonight — a rare open stretch, with a couple of travel decisions now sitting just past their dates.",
+  "generatedAt": "Morning brief · 12:19 PM ET",
+  "theme": "A clear day with room to decide.",
+  "greeting": "A wide-open Thursday, Dan — a dinner reservation tonight is the only thing fixed on your calendar. The girls are with you and Mike in St. Pete.",
   "needsAttention": [
     {
       "tag": "Decision overdue",
-      "title": "December break — decide and book",
-      "detail": "Your Sept 30 call on the kids' three-week December trip slipped a day; holiday inventory for six is at its thinnest now, and the book-by date is Oct 15."
+      "title": "Call the December trip and start booking",
+      "detail": "In Todoist, your decide-by was yesterday and booking closes Oct 15; with passports not in hand until November, the safe read is a domestic shortlist for all four girls over Dec 13 to Jan 2."
     },
     {
-      "tag": "Books out this week",
-      "title": "Hold a Maine Christmas SUV",
-      "detail": "The Pathfinder heads south this month, leaving no six-seater in Maine for Christmas — a refundable full-size SUV out of Portland is the kind of rental that sells out over the holidays."
+      "tag": "Books out early",
+      "title": "Hold the Maine Christmas SUV now",
+      "detail": "A full-size SUV out of Portland over Christmas week is the thinnest rental in that market; your Todoist note is to book it refundable this week before inventory and holiday pricing bite."
     },
     {
-      "tag": "Panel bio",
-      "title": "Finish the ICGN Toronto bio",
-      "detail": "ICGN needs your moderator bio for the November panel, and Drew sent edits back on the draft you shared — it's ready to close out."
+      "tag": "Starts Sunday",
+      "title": "Settle the Pathfinder drive details",
+      "detail": "The Portland-to-St-Pete window opens Oct 5; the hotel night and where the car parks in Florida are the two pieces still open in Todoist."
     }
   ],
   "schedule": [
     {
       "time": "7:45 PM",
       "title": "Dinner at Pia's Trattoria",
-      "detail": "Table held for the evening",
-      "tag": "dinner"
+      "detail": "Table for tonight in Gulfport",
+      "tag": "Dinner"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "EY successor intro",
-        "detail": "Shawn Maher wrote back that his replacement, Didem Nisanci, is hired and worth a connect — your reply is still open."
+        "tag": "Financial",
+        "title": "Morgan Stanley statement posted",
+        "detail": "A new statement for account ending 1759 is available on Morgan Stanley Online."
       },
       {
         "tag": "Job search",
-        "title": "SVP Global Public Policy alert",
-        "detail": "A LinkedIn alert surfaced a Senior VP of Global Public Policy role and similar postings."
+        "title": "LinkedIn flagged a CEO opening",
+        "detail": "A President & CEO role at a consulting firm, listed up to $325K, came through your job alerts."
       }
     ],
-    "noise": "The rest is LinkedIn invitations, a Substack welcome, and sailing-trip and event promos.",
-    "clear": ""
+    "noise": "Two dozen promos and newsletters — Indochino, NYT Cooking, ski and garden sales, a Gulfport closing party — nothing that needs a reply.",
+    "clear": "Nothing else in the inbox is waiting on your reply."
   },
   "resolved": [
     {
-      "tag": "Networking",
-      "title": "Maine Visionaries ask handled",
-      "detail": "You and Josh Broder both agreed to help Ellen Richstone recruit directors for the NACD program; she's thanked you both and the thread's closed."
-    },
-    {
-      "tag": "Recruiter call",
-      "title": "Brunswick intro behind you",
-      "detail": "Your Wednesday 11am call with Erika Maass on the Brunswick search is done."
+      "tag": "Closed",
+      "title": "NACD Maine Visionaries — you're in",
+      "detail": "You and Josh both told Ellen you'd help recruit directors for the program, and she's confirmed it's set."
     }
   ],
   "context": {
@@ -71,40 +66,34 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Order Portland king bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Plan the Pathfinder drive south (Oct 5–18 window)",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing sits on the calendar before evening — the morning is entirely open."
+      "line": "Nothing on the calendar before evening — the morning is entirely open."
     },
     {
       "time": "Afternoon",
-      "line": "The open run holds through the afternoon, with no meetings pulling at it."
+      "line": "No meetings surface in the afternoon either; a rare clear block end to end."
     },
     {
       "time": "Evening",
-      "line": "Dinner out at Pia's Trattoria at 7:45 closes the day."
+      "line": "The day's one fixed point is dinner at Pia's Trattoria at 7:45."
     }
   ],
   "japanese": {
