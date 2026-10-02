@@ -1,42 +1,47 @@
 {
   "date": "Thursday, October 1, 2026",
-  "generatedAt": "Morning brief · 8:14 PM ET",
-  "theme": "A clear day — travel calls waiting to be closed.",
-  "greeting": "The calendar is nearly empty today, Dan — just dinner out tonight. The open hours are the room to settle the travel decisions that have been sliding.",
+  "generatedAt": "Morning brief - 8:14 PM ET",
+  "theme": "An open day with decisions waiting",
+  "greeting": "A wide-open calendar today, Dan, with just dinner out tonight. The clear hours are the moment to close out the December-trip and Christmas-rental calls that are now past due.",
   "needsAttention": [
     {
-      "tag": "Decide now",
-      "title": "Lock the December break shortlist",
-      "detail": "Your own call to pick three destinations was due yesterday, and booking closes Oct 15 — holiday inventory for six over three weeks is the thinnest of the year. Passports only land in November, so the clean path is domestic, or international on refundable bookings only."
+      "tag": "Decision overdue",
+      "title": "December break destinations",
+      "detail": "The Sept 30 call on where to take the four girls Dec 13 to Jan 2 has slipped, and the Oct 15 book-by date for holiday inventory is close. Pick a domestic shortlist or refundable-international and commit."
     },
     {
       "tag": "Book this week",
-      "title": "Hold a Christmas SUV in Portland",
-      "detail": "A p1 that's slid about two and a half weeks past due. The Pathfinder heads south this month, leaving no six-seater in Maine for Christmas; a refundable full-size SUV out of PWM sells out early over the holidays, so book now and fix the dates later."
-    },
-    {
-      "tag": "Window opens Sun",
-      "title": "Plan the Pathfinder drive south",
-      "detail": "The Oct 5-18 off-week is the window to drive Portland to St Pete. Still open before Sunday: the hotel night for the two-day route, and where the car parks (TPA or SRQ long-term) the weeks you're not in Florida."
+      "title": "Maine Christmas SUV rental",
+      "detail": "The refundable full-size SUV out of Portland for Christmas week has sat open since mid-September. Holiday inventory out of PWM is the thinnest of the year and sells out, so book it refundable now and adjust dates later."
     }
   ],
   "schedule": [
     {
       "time": "7:45 PM",
       "title": "Dinner at Pia's Trattoria",
-      "detail": "Table out in Gulfport, the only fixed point today",
+      "detail": "Table for two for the evening, Gulfport",
       "tag": "dinner"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Apple order ready for pickup tomorrow",
-        "detail": "Order W1875981917 is set for in-store pickup at University Town Center; you've designated someone else to collect it."
+        "tag": "Job search",
+        "title": "LinkedIn message waiting",
+        "detail": "A new LinkedIn message from a contact is sitting unanswered, worth a reply given your networking push."
+      },
+      {
+        "tag": "Job search",
+        "title": "President & CEO alert",
+        "detail": "LinkedIn flagged a President & CEO opening at DRG Consulting in the 300 to 325K range."
+      },
+      {
+        "tag": "Financial",
+        "title": "Morgan Stanley statement",
+        "detail": "Your latest account statement is now available to view online."
       }
     ],
-    "noise": "Everything else is promotions, newsletters, and social pings — Delta, Hilton, Expedia, LinkedIn, Bloomberg, Nextdoor.",
+    "noise": "The rest is newsletters and retail: NYT Cooking, the Press Herald, St. Pete and Midcoast locals, WSJ Economics, and a couple of order updates from Apple.",
     "clear": ""
   },
   "resolved": [],
@@ -60,29 +65,35 @@
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor soap holder",
+      "title": "Drive the Pathfinder Portland to St Pete",
+      "project": "Travel",
+      "due": "Window Oct 5-18",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order: bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The morning is clear — nothing on the calendar to shape it."
+      "line": "Nothing on the calendar at all, so the morning is entirely yours."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon stays open all the way to the evening."
+      "line": "Still clear through the afternoon, which is the natural slot for the overdue trip and rental decisions."
     },
     {
-      "time": "7:45 PM onward",
-      "line": "One table reserved out tonight caps an otherwise quiet day."
+      "time": "Evening",
+      "line": "A dinner reservation is the only fixed point today, and tomorrow opens with an afternoon call from Pema."
     }
   ],
   "japanese": {
