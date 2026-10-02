@@ -1,59 +1,59 @@
 {
   "date": "Friday, October 2, 2026",
   "generatedAt": "Morning brief · 6:14 PM ET",
-  "theme": "An open calendar, a stack of travel calls past their date.",
-  "greeting": "The calendar's nearly empty today, Dan — only the call with Pema this afternoon. What's actually waiting is the travel planning that slipped past its September 30 deadline.",
+  "theme": "A wide-open day; the only real clocks are travel bookings.",
+  "greeting": "A clear Friday, Dan — one short call with Pema this afternoon and otherwise yours. The pressure today isn't on the calendar, it's three trips quietly running low on runway.",
   "needsAttention": [
     {
-      "tag": "Decide now",
-      "title": "December break destinations",
-      "detail": "The shortlist was due September 30 and the book-by is October 15 — holiday inventory for six over three weeks is the thinnest of the year. The call is domestic by default, or international on refundable bookings only since the passports land in November."
+      "tag": "Decision overdue",
+      "title": "December trip needs a lane picked",
+      "detail": "The Sept 30 decide-by on the December break (all four girls, Dec 13-Jan 2) has slipped, and the hard wall is the Oct 15 book-by for six people over holiday inventory. Passports land in November, so a domestic shortlist carries no risk; that's the clean choice."
     },
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Flagged p1 and open since September 14. A full-size SUV out of Portland over Christmas week sells out; a refundable PWM hold now costs nothing and takes the risk off the table."
+      "title": "Maine Christmas SUV won't wait",
+      "detail": "A full-size SUV out of Portland over Christmas week is the thinnest rental in that market and sells out. A refundable hold costs nothing and closes the risk; this p1 has been open since mid-September."
     },
     {
-      "tag": "Window opens Oct 5",
-      "title": "Drive the Pathfinder south",
-      "detail": "The Portland to St Pete drive sits in the October 5–18 off-week gap, three days out. Book the one hotel night once the dates are set."
-    },
-    {
-      "tag": "Overdue · p2",
-      "title": "Term life quotes for Mike",
-      "detail": "Three term quotes have been open since September 25. The shopping is yours to do, but it still needs a target coverage amount and term length before it can move."
+      "tag": "Starts Monday",
+      "title": "Pathfinder drive leaves in three days",
+      "detail": "The Portland to St Pete window opens Oct 5. Still open: the one hotel night to book, and where the car sits at TPA or SRQ during the off-weeks."
     }
   ],
   "schedule": [
     {
       "time": "2:30 PM",
       "title": "Call from Pema",
-      "detail": "One hour, the only thing booked today.",
+      "detail": "30-minute call",
       "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "Apple sign-in notice",
-        "detail": "An 'AppleCare One: Action required' mail to your konigsburg.com address says a new Apple Account signed in to an iPhone 17e. Worth checking straight from Settings rather than the link — the wording also fits a phishing pattern."
+        "tag": "Job search",
+        "title": "LinkedIn surfaces a Cohere govt-affairs lead",
+        "detail": "A US Government Affairs and Public Policy role at Cohere showed up in a similar-jobs digest, worth a glance given the search."
       },
       {
-        "tag": "FYI",
-        "title": "DIRA & DIBA meeting materials",
-        "detail": "David Wetherbee sent the packet for the October 25 meeting. Questions go to him; nothing is owed today."
+        "tag": "Security",
+        "title": "Apple flags a new sign-in",
+        "detail": "An AppleCare One action-required notice about a new Apple Account on the iPhone 17e; verify in Settings directly rather than the email link."
+      },
+      {
+        "tag": "Financial",
+        "title": "myFICO Advanced cancellation confirmed",
+        "detail": "Confirmation the FICO Advanced subscription is cancelled, no action unless that was a surprise."
       }
     ],
-    "noise": "The rest is newsletters, retail promos, LinkedIn job alerts, and routine receipts.",
-    "clear": ""
+    "noise": "The rest is newsletters and retail: West Marine, J.Crew, Bloomberg, Alison Roman, and a stray Duke event addressed to Paul.",
+    "clear": "Nothing in the inbox is actually waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "St Petersburg, FL",
     "confidence": "low",
     "asOf": "Friday Oct 2"
   },
@@ -64,15 +64,21 @@
   },
   "tasks": [
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + shower soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Portland house order: bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Work",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -84,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning, nothing on the calendar."
+      "line": "Nothing on the calendar before noon, open from the first cup."
     },
     {
       "time": "Afternoon",
-      "line": "One call with Pema at 2:30, otherwise unbooked."
+      "line": "A single 30-minute call with Pema at 2:30, and nothing on either side of it."
     },
     {
       "time": "Evening",
-      "line": "The evening is your own."
+      "line": "Clear through the evening, and tomorrow holds no events either."
     }
   ],
   "japanese": {
