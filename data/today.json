@@ -1,61 +1,66 @@
 {
   "date": "Friday, October 2, 2026",
   "generatedAt": "Morning brief · 6:15 AM ET",
-  "theme": "An open day with the bookings starting to press.",
-  "greeting": "Nothing fixed until dinner at Pia's, Dan — which leaves the day free for the December and Christmas calls that have slipped past their dates.",
+  "theme": "An open day with a few clocks quietly running out.",
+  "greeting": "The day is mostly yours, Dan — one call this afternoon and nothing else on the calendar. The pressure today isn't the schedule, it's a cluster of travel decisions whose windows are closing.",
   "needsAttention": [
     {
-      "tag": "Decision overdue",
-      "title": "December trip still undecided",
-      "detail": "Your Sept 30 deadline to pick a December destination has passed, and the book-by date is Oct 15 — holiday inventory for six across three weeks is the thinnest of the year, so the call wants making now."
+      "tag": "Decision due",
+      "title": "December trip needs a call today",
+      "detail": "The decide-by date was Sept 30 and the book-by is Oct 15 — six people over the holidays is the thinnest inventory of the year. Pick domestic (nothing to wait on) or international (refundable only, since passports land mid-November)."
     },
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV unbooked",
-      "detail": "The p1 Household task has sat open since Sept 14; a full-size SUV out of Portland over Christmas week sells out, and a refundable hold costs nothing to place early."
+      "title": "Maine Christmas SUV before it sells out",
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market, and the Pathfinder is south by then. A refundable hold now costs nothing and closes the risk; this has been open since Sept 14."
     },
     {
-      "tag": "Window opens Oct 5",
-      "title": "Pathfinder drive south needs a plan",
-      "detail": "The Portland to St Pete drive window (Oct 5-18) opens in four days, and the mid-route hotel night still needs booking once the dates are set."
+      "tag": "Window opens",
+      "title": "Pathfinder drive south starts Monday",
+      "detail": "The Oct 5–18 off-week is the plan for the Portland-to-St Pete drive. Dates and the one hotel night still need setting before the window opens."
+    },
+    {
+      "tag": "Overdue",
+      "title": "Three term-life quotes for Mike",
+      "detail": "Deliberately parked until after Croatia and now a week overdue. Still missing the target coverage amount and term length before you can shop."
     }
   ],
   "schedule": [
     {
-      "time": "7:45 PM",
-      "title": "Dinner at Pia's Trattoria",
-      "detail": "Table for the evening",
-      "tag": "dinner"
+      "time": "2:30 PM",
+      "title": "Call from Pema",
+      "detail": "One-hour call on your calendar.",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two LinkedIn messages waiting",
-        "detail": "Hans-Kristian and Stephanie each messaged you on LinkedIn today and are waiting on a reply."
-      },
-      {
-        "tag": "Financial",
-        "title": "Morgan Stanley statement posted",
-        "detail": "A new account statement went up on Morgan Stanley Online this afternoon."
+        "title": "LinkedIn message from Hans-Kristian",
+        "detail": "A direct message flagged as awaiting your reply — worth a look given the board search."
       },
       {
         "tag": "FYI",
         "title": "Apple order ready for pickup",
-        "detail": "Order W1875981917 is set for in-store pickup at University Town Center, with someone else designated to collect it."
+        "detail": "Order W1875981917 is scheduled for pickup at University Town Center; you've designated someone else to collect it."
       }
     ],
-    "noise": "The rest is newsletters and promotions — NYT Cooking, WSJ, the St. Pete and Maine local digests, and shopping offers.",
-    "clear": ""
+    "noise": "The rest is newsletters — Paris, Italian word-of-the-day, St Pete local, Substack welcomes, and the Todoist digest.",
+    "clear": "The Maine Visionaries thread from Ellen is handled — you replied and Josh confirmed."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "title": "Maine Visionaries ask from Ellen",
+      "detail": "You replied 'will do' and Josh confirmed Sept 30 — the thread closed itself."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
-    "confidence": "high",
-    "asOf": "Thursday Oct 1"
+    "location": "St Petersburg, FL",
+    "confidence": "low",
+    "asOf": "Friday Oct 2"
   },
   "recipe": {
     "title": "Lamb Shanks with Crushed Roots",
@@ -64,35 +69,53 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
+      "title": "Decide December break — shortlist 3 destinations",
+      "project": "Travel",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Book Maine Christmas SUV rental (refundable)",
+      "project": "Travel",
+      "due": "Overdue Sept 14",
+      "overdue": true
+    },
+    {
+      "title": "Set dates + hotel night for Pathfinder drive south",
+      "project": "Travel",
+      "due": "Overdue Sept 25",
+      "overdue": true
+    },
+    {
+      "title": "Get 3 term-life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sep 30",
+      "due": "Overdue Sept 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — king bedframe + shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sept 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
-    "evening": "0/4"
+    "morning": "10 open",
+    "day": "6 open",
+    "evening": "4 open"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — a clear stretch for the booking decisions that are now overdue."
+      "line": "Nothing scheduled before afternoon — the open stretch to make the December-trip and Christmas-rental calls."
     },
     {
       "time": "Afternoon",
-      "line": "Still open; the only fixed point ahead is tomorrow's 2:30 call with Pema."
+      "line": "A single call from Pema at 2:30 anchors the day; the rest stays yours."
     },
     {
       "time": "Evening",
-      "line": "The day closes with dinner out at Pia's Trattoria."
+      "line": "Girls are home this week, so the evening belongs to the household."
     }
   ],
   "japanese": {
