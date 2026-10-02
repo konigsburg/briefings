@@ -1,53 +1,48 @@
 {
   "date": "Friday, October 2, 2026",
   "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "An open day, with travel deadlines quietly closing.",
-  "greeting": "Good afternoon, Dan — a quiet Friday with just one call on the books. The pressure today isn't the calendar; it's a cluster of travel decisions that have slipped past their dates.",
+  "theme": "An open day with one call, and a few travel calls quietly due.",
+  "greeting": "The calendar is nearly empty today, Dan — just the afternoon call with Pema. The weight is off the schedule and in a few travel decisions that have come due before the girls head to Jen's on Sunday.",
   "needsAttention": [
     {
-      "tag": "Book by Oct 15",
-      "title": "December trip decision is overdue",
-      "detail": "Your Todoist call on the December break was due Sept 30 and the book-by date is Oct 15. Holiday inventory for six over three weeks is the thinnest of the year — pick the domestic default or commit to refundable-only international, and don't shortlist across both."
+      "tag": "Decide now",
+      "title": "December break destination",
+      "detail": "The shortlist was due Sept 30 and the book-by is Oct 15; holiday inventory for six over three weeks is the thinnest of the year, so the domestic vs. refundable-international call is what unlocks everything after it."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Maine Christmas SUV won't book itself",
-      "detail": "Flagged p1 since Sept 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out. Book refundable now, adjust dates later — it costs nothing to hold."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV",
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market — booking it refundable now costs nothing and takes the sell-out risk off the table."
     },
     {
       "tag": "Window opens Sun",
       "title": "Pathfinder drive south",
-      "detail": "The Oct 5–18 drive window opens Sunday for the Portland → St Pete run. Book the one hotel night once the two dates are set so the back half of the week isn't scrambling."
+      "detail": "The Portland–to–St Pete drive window is Oct 5–18 and the girls leave Sunday; the one open piece is the hotel night, bookable the moment you and Mike lock the dates."
     }
   ],
   "schedule": [
     {
       "time": "2:30 PM",
       "title": "Call from Pema",
-      "detail": "2:30 – 3:30 PM",
+      "detail": "On your calendar, added yesterday",
       "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Drew's notes on your ICGN bio",
-        "detail": "Drew replied Sunday with ideas to make the LinkedIn announcement sparkle; the Toronto panel bio still needs finalizing before it goes back to ICGN."
+        "tag": "Security",
+        "title": "Apple wants you to sign in",
+        "detail": "To keep the new iPhone 17e under AppleCare One, Apple is asking you to sign in with the account tied to the plan."
       },
       {
-        "tag": "Job search",
-        "title": "New Valoris Catalysts meeting invite",
-        "detail": "A Teams invite ('Dan, Martin, Davit and Mike') landed this morning and isn't on your calendar yet — respond to lock a time."
-      },
-      {
-        "tag": "Job search",
-        "title": "DLA Piper Managing Director role",
-        "detail": "A LinkedIn job alert surfaced a DLA Piper Managing Director posting this morning, worth a look."
+        "tag": "FYI",
+        "title": "Oct 25 meeting materials",
+        "detail": "David Wetherbee sent the DIRA & DIBA packet ahead of the Oct 25 meeting — worth a read before then; no reply needed now."
       }
     ],
-    "noise": "The usual drift: Monocle, NYT Cooking, Responsible Investor, VRBO and Flying Blue promos, plus Apple order and AppleCare notices.",
-    "clear": ""
+    "noise": "The rest is LinkedIn job alerts, receipts, a book delivery, and newsletters.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -64,21 +59,15 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Term life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Portland house order — bedframe + soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -89,16 +78,16 @@
   },
   "acts": [
     {
-      "time": "9 AM – 2 PM",
-      "line": "A wide-open stretch with nothing booked — the room to settle the December trip that's slipped past its date."
+      "time": "Morning",
+      "line": "The morning is wide open, with nothing booked until mid-afternoon."
     },
     {
       "time": "2:30 – 3:30 PM",
-      "line": "A single call breaks the quiet; the rest of the afternoon stays yours."
+      "line": "A single call breaks the quiet around half past two, then the day reopens."
     },
     {
-      "time": "3:30 PM onward",
-      "line": "The girls are with you in Florida — an evening that belongs to the household."
+      "time": "Evening onward",
+      "line": "A clear evening, well suited to the December and Christmas-travel calls before Sunday's handoff."
     }
   ],
   "japanese": {
