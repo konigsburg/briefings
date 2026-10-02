@@ -1,30 +1,30 @@
 {
   "date": "Friday, October 2, 2026",
-  "generatedAt": "Morning brief · 10:21 AM ET",
-  "theme": "An open day, with room for the bookings that have slipped.",
-  "greeting": "An open day, Dan — one 2:30 call with Pema and otherwise clear. Good conditions to close the travel decisions that have drifted past their dates.",
+  "generatedAt": "Morning brief · 10:24 AM ET",
+  "theme": "One call, and an open day around it.",
+  "greeting": "Good morning, Dan. The calendar is nearly empty today — a call with Pema at 2:30 and the rest is yours, which leaves room for the booking decisions whose windows are starting to tighten.",
   "needsAttention": [
     {
-      "tag": "Past decision date",
+      "tag": "Book by Oct 15",
       "title": "December trip still undecided",
-      "detail": "The Dec 13–Jan 2 trip for all four kids was due to be decided Sept 30 and booked by Oct 15 — holiday inventory for six is thinnest right now. Pick the domestic shortlist (passports land in November) or international on refundable bookings only."
+      "detail": "On the Mike + Dan board, the December-break destination shortlist was due Sept 30 and the booking window closes Oct 15 — six people over three weeks of holiday travel is the thinnest inventory of the year."
     },
     {
       "tag": "Book this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "The Pathfinder heads south this month, leaving no six-seater in Maine for Christmas. A full-size SUV out of Portland over the holidays sells out; a refundable hold now costs nothing and closes the risk."
+      "detail": "A p1 on the board, overdue since Sept 14: hold a refundable full-size SUV out of Portland for Christmas week before holiday inventory sells out."
     },
     {
-      "tag": "Window opens Mon",
+      "tag": "Window opens Oct 5",
       "title": "Pathfinder drive south",
-      "detail": "The Oct 5–18 off-week is the planned Portland-to-St-Pete drive. The one hotel night en route still needs booking before the weekend is out."
+      "detail": "The Portland-to-St Pete drive window opens Oct 5 — the one hotel night still needs booking once the two travel days are set."
     }
   ],
   "schedule": [
     {
       "time": "2:30 PM",
       "title": "Call from Pema",
-      "detail": "One hour held, nothing stacked against it.",
+      "detail": "On your calendar",
       "tag": "call"
     }
   ],
@@ -32,26 +32,16 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Public affairs role at Servier",
-        "detail": "LinkedIn flagged a Sr Director, U.S. Public Affairs opening posted Sept 30."
+        "title": "ICGN bio + LinkedIn post",
+        "detail": "Drew sent back marked-up drafts of your Toronto conference bio and the KPMG-departure announcement — your turn to finalize both."
       },
       {
         "tag": "Job search",
-        "title": "LinkedIn message waiting",
-        "detail": "A new message from Hans-Kristian is sitting unanswered."
-      },
-      {
-        "tag": "Financial",
-        "title": "Morgan Stanley statement ready",
-        "detail": "A new account statement is available online."
-      },
-      {
-        "tag": "FYI",
-        "title": "Apple order ready to collect",
-        "detail": "Order W1875981917 is available tomorrow at University Town Center, with a pickup contact designated."
+        "title": "New York Life, Corp Dev VP",
+        "detail": "A LinkedIn alert for a Corporate Vice President, Corporate Development & Strategy — hybrid, three days a week."
       }
     ],
-    "noise": "The rest is newsletters and receipts — St Pete local, NYT Cooking, sailing and language digests, a handful of delivery updates.",
+    "noise": "The rest is retail promos, travel newsletters, and LinkedIn engagement pings.",
     "clear": ""
   },
   "resolved": [],
@@ -70,14 +60,20 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Mike + Dan",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Household",
+      "title": "Portland house order — bedframe + soap holder",
+      "project": "Mike + Dan",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -89,15 +85,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear run until mid-afternoon — the kind of open morning the overdue travel bookings have been waiting for."
+      "line": "Nothing on the calendar until mid-afternoon — the open stretch is yours."
     },
     {
-      "time": "Afternoon",
-      "line": "Pema calls at 2:30; an hour set aside and the rest of the afternoon stays loose."
+      "time": "2:30 PM",
+      "line": "A call from Pema is the day's only fixed point."
     },
     {
       "time": "Evening",
-      "line": "Nothing on the calendar after the call — the evening is yours to shape, girls still around through the weekend."
+      "line": "The evening is clear."
     }
   ],
   "japanese": {
