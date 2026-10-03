@@ -1,30 +1,30 @@
 {
   "date": "Friday, October 2, 2026",
   "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "An open day, with a knot of travel decisions past due.",
-  "greeting": "The calendar's clear tonight, Dan — a single call with Pema was the whole of it. What's actually waiting is a cluster of trip decisions that have slipped past their dates.",
+  "theme": "A near-empty calendar",
+  "greeting": "Today is almost entirely yours, Dan — one call with Pema breaks an otherwise open stretch, and the girls are home with you and Mike.",
   "needsAttention": [
     {
-      "tag": "Overdue · travel",
-      "title": "December trip still undecided",
-      "detail": "The shortlist-and-decide task was due Sept 30 with a book-by of Oct 15; six people across three holiday weeks is the thinnest inventory of the year, so this is the one to break first."
+      "tag": "Book by Oct 15",
+      "title": "December trip still unpicked",
+      "detail": "The Dec 13 - Jan 2 break with all four girls has no destination yet. Holiday inventory for six is the thinnest of the year, so shortlist and decide now to book by the 15th."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Maine Christmas SUV unbooked",
-      "detail": "A full-size SUV out of Portland over Christmas week sells out — a refundable hold costs nothing and closes the risk. The book-by was Sept 14."
+      "tag": "Job search",
+      "title": "ICGN panel bio",
+      "detail": "ICGN is waiting on a bio for the Toronto panel you are moderating in November; Drew sent notes on the announcement back on Sep 28."
     },
     {
-      "tag": "This week",
-      "title": "Pathfinder drive opens Oct 5",
-      "detail": "The Portland-to-St Pete window (Oct 5-18) starts Sunday; the one hotel night still needs booking once the dates firm up."
+      "tag": "Christmas rental",
+      "title": "Hold a Maine SUV for the holidays",
+      "detail": "A full-size SUV out of Portland over Christmas week sells out early. A refundable hold now costs nothing and closes the risk."
     }
   ],
   "schedule": [
     {
       "time": "2:30 PM",
       "title": "Call from Pema",
-      "detail": "One hour",
+      "detail": "",
       "tag": "call"
     }
   ],
@@ -32,35 +32,29 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn message unanswered",
-        "detail": "Hans-Kristian messaged you on LinkedIn yesterday and it's still waiting on a reply."
+        "title": "LinkedIn message from Hans-Kristian",
+        "detail": "A new LinkedIn message is waiting for your reply."
+      },
+      {
+        "tag": "Job search",
+        "title": "Valoris Catalysts call",
+        "detail": "A Teams meeting thread with Martin, Davit and Mike; a time still needs confirming."
       },
       {
         "tag": "Security",
-        "title": "Apple sign-in notice",
-        "detail": "An AppleCare One 'action required' note about a new sign-in on the iPhone 17e; it matches this week's Apple order, but confirm it's genuine before acting."
+        "title": "AppleCare One sign-in",
+        "detail": "Apple says a new account signed into your iPhone 17e; sign in on the device to keep coverage."
       },
       {
         "tag": "FYI",
-        "title": "DIRA/DIBA meeting packet",
-        "detail": "David Wetherbee sent the materials for the Oct 25 meeting to read ahead."
-      },
-      {
-        "tag": "Financial",
-        "title": "FICO Advanced canceled",
-        "detail": "Confirmation that your FICO Advanced subscription has been canceled."
+        "title": "NACD New England, Oct 28",
+        "detail": "The Maine Visionaries program on the 28th; members are asked to share it with their network."
       }
     ],
-    "noise": "Underneath: Apple order and setup emails, an eBay delivery, a sailing-cert shipment, a few newsletters, and a Google Play receipt.",
+    "noise": "The rest is receipts and newsletters: Apple and Google Play orders, Revolut and FICO statements, and a few local and language-learning digests.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Closed",
-      "title": "Agreed to promote NACD event",
-      "detail": "You told Ellen Richstone you'd share the Maine Visionaries program with your network; Josh confirmed he would too."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -75,15 +69,33 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sept 25",
+      "title": "December break - shortlist and decide",
+      "project": "Travel",
+      "due": "Decide now, book by Oct 15",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Book refundable Maine Christmas SUV",
+      "project": "Travel",
+      "due": "Overdue Sep 14",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder south",
+      "project": "Travel",
+      "due": "Window opens Oct 5",
+      "overdue": true
+    },
+    {
+      "title": "Get 3 term life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sept 30",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order - bedframe + soap holder",
+      "project": "Household",
+      "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
@@ -95,15 +107,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The morning opened empty, nothing on the calendar to hold it."
+      "line": "An open morning with nothing on the calendar, room for the work that has been waiting."
     },
     {
       "time": "Afternoon",
-      "line": "One short call sat alone in the middle of the afternoon."
+      "line": "A single call with Pema at 2:30, and the rest of the afternoon stays clear."
     },
     {
       "time": "Evening",
-      "line": "The rest of the day is unclaimed and yours."
+      "line": "The girls are home with you and Mike tonight, and a slow autumn braise would suit it."
     }
   ],
   "japanese": {
