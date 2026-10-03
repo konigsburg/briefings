@@ -1,28 +1,28 @@
 {
   "date": "Saturday, October 3, 2026",
   "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "An open day with decisions stacking up behind it.",
-  "greeting": "A rare empty Saturday, Dan — nothing on the calendar, the girls around for one more day before tomorrow's handoff. The real work is making the travel calls now, before tomorrow's 9 AM review forces every one of them.",
+  "theme": "An open day before tomorrow's handoff.",
+  "greeting": "An open Saturday with the girls, Dan — nothing on the calendar, so the day bends to the kitchen and whatever the afternoon wants. The one thing carrying a clock is the knot of overdue travel decisions, and tomorrow's Sunday review is where they get untied.",
   "needsAttention": [
     {
-      "tag": "Prep · tomorrow",
-      "title": "Come to the Sunday review ready to decide",
-      "detail": "You and Mike run the 15-minute board review at 9 AM tomorrow. The agenda is the three travel calls below — arrive having picked, not to relitigate them at the counter."
+      "tag": "Prep for tomorrow",
+      "title": "Tomorrow's Sunday review with Mike",
+      "detail": "On your calendar at 9 AM — the 15-minute weekly board triage. The agenda writes itself: the stack of overdue travel items below. Arrive having decided December, so the review can promote and chase rather than relitigate."
     },
     {
-      "tag": "Books Oct 15",
-      "title": "December trip — pick a lane this weekend",
-      "detail": "The destination decision was due Sept 30 and six seats over three holiday weeks book by Oct 15. Domestic has nothing to wait on; international only works on refundable holds since the passports land mid-November."
+      "tag": "Window closing",
+      "title": "December trip still has no destination",
+      "detail": "The Sept 30 decide-by has passed and book-by is Oct 15, over the thinnest holiday inventory of the year. Passports aren't in hand until November, so it's a domestic shortlist or refundable-only international — pick one lane and commit."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Hold the Maine Christmas SUV now",
-      "detail": "A full-size SUV out of Portland over Christmas week is the thinnest rental in that market and it sells out. The task says book refundable today and fix the dates later — it's been open since Sept 14."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV isn't booked yet",
+      "detail": "A full-size SUV out of Portland over Christmas week sells out and prices up early. A refundable hold now costs nothing and removes the whole risk — the Pathfinder is south by then, so there's no six-seater in Maine otherwise."
     },
     {
-      "tag": "Window opens",
-      "title": "Lock the Pathfinder drive-south plan",
-      "detail": "The Portland → St Pete window is Oct 5–18 — the off-week that starts this weekend. Driving it replaces a flight and kills the monthly rentals; the open piece is where the car sits the weeks you're not in Florida."
+      "tag": "Opens tomorrow",
+      "title": "Pathfinder drive south, Oct 5-18",
+      "detail": "The off-week window opens tomorrow. Driving Portland to St. Pete replaces a flight rather than adding a trip, and it kills the monthly Florida rentals feeding the Oct 15 cost decision."
     }
   ],
   "schedule": [],
@@ -30,40 +30,29 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Drew's notes on your ICGN bio",
-        "detail": "He sent edits for your Toronto panel bio and thinks the LinkedIn announcement could sparkle more — still awaiting your next move."
+        "title": "A LinkedIn message is waiting",
+        "detail": "Noel messaged you on LinkedIn and it's sitting unanswered — worth a look given the board and role search."
       },
       {
-        "tag": "Security",
-        "title": "AppleCare One wants a sign-in",
-        "detail": "Apple flags a new account signed in to your iPhone 17e and says you must sign in to keep coverage — worth verifying it's you."
+        "tag": "Job search",
+        "title": "Managing Director role at KPMG US",
+        "detail": "A LinkedIn job alert flagged important; scan whether it's board-adjacent enough to pursue."
       },
       {
         "tag": "Financial",
-        "title": "Morgan Stanley statement posted",
-        "detail": "A new account statement is available on Morgan Stanley Online. No action, just a glance."
-      },
-      {
-        "tag": "FYI",
-        "title": "Lauren Misrahi is waiting on your RSVP",
-        "detail": "An Evite invitation is still open and asking whether you can make it."
+        "title": "Morgan Stanley statement is ready",
+        "detail": "New account statement available online — no action, just a monthly glance."
       }
     ],
-    "noise": "The rest is newsletters, retail, travel deals and LinkedIn comment pings — nothing that needs you.",
+    "noise": "The rest is newsletters and shop mail — NYT Cooking, the FT, Daily Italian, St. Pete local digests, two eBay delivery pings, and an AppleCare renewal receipt.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Closed",
-      "title": "FICO Advanced subscription canceled",
-      "detail": "myFICO confirmed the cancellation Oct 2 — no further charges to watch for."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "low",
+    "confidence": "high",
     "asOf": "Saturday Oct 3"
   },
   "recipe": {
@@ -73,21 +62,27 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder (needs delivery address)",
-      "project": "Dan & Mike",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Projects",
-      "due": "Overdue Aug 15",
+      "title": "Reschedule passport appt — 4 kids",
+      "project": "Dan & Mike Stuff",
+      "due": "Overdue Sep 21",
+      "overdue": true
+    },
+    {
+      "title": "Assemble the passport packet — 4 kids",
+      "project": "Dan & Mike Stuff",
+      "due": "Overdue Aug 26",
       "overdue": true
     }
   ],
@@ -99,15 +94,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear Saturday in St. Pete with nothing on the calendar to answer to."
+      "line": "A clear start — nothing on the calendar to open the weekend."
     },
     {
       "time": "Afternoon",
-      "line": "The open stretch to make the three travel calls before tomorrow's review puts them on the table."
+      "line": "The afternoon is genuinely yours; only the overdue travel calls carry a clock."
     },
     {
       "time": "Evening",
-      "line": "One last night with the girls before tomorrow's ~6 PM handoff to Jen opens the off-week."
+      "line": "A quiet evening in with the girls — the handoff lands tomorrow."
     }
   ],
   "japanese": {
