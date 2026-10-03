@@ -1,57 +1,60 @@
 {
   "date": "Saturday, October 3, 2026",
   "generatedAt": "Morning brief · 6:14 AM ET",
-  "theme": "A near-empty calendar",
-  "greeting": "Today is almost entirely yours, Dan — one call with Pema breaks an otherwise open stretch, and the girls are home with you and Mike.",
+  "theme": "An open Saturday before tomorrow's reset.",
+  "greeting": "The whole day is yours, Dan — nothing on the calendar until the Sunday review tomorrow morning. A good window to clear the travel bookings that have been slipping before Mike opens the board.",
   "needsAttention": [
     {
-      "tag": "Book by Oct 15",
-      "title": "December trip still unpicked",
-      "detail": "The Dec 13 - Jan 2 break with all four girls has no destination yet. Holiday inventory for six is the thinnest of the year, so shortlist and decide now to book by the 15th."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Your p1 task to hold a refundable full-size SUV out of Portland for Christmas week is 19 days overdue. Holiday inventory at PWM sells out, so a refundable booking now removes the whole risk at no cost."
+    },
+    {
+      "tag": "Window closing",
+      "title": "December trip — decide and book",
+      "detail": "The Sept 30 decision date has passed and the book-by is Oct 15. Pick domestic or refundable-international for all six and lock the shortlist."
+    },
+    {
+      "tag": "Opens tomorrow",
+      "title": "Pathfinder drive south",
+      "detail": "The Oct 5–18 window to drive the Pathfinder Portland to St Pete opens tomorrow. Set the two travel dates and book the single hotel night."
+    },
+    {
+      "tag": "Prep for tomorrow",
+      "title": "Sunday review at 9 AM",
+      "detail": "Mike's 15-minute review is tomorrow at 9. The agenda is the overdue board in 'Dan & Mike Stuff', and several travel items have slipped — walk in having triaged them."
     },
     {
       "tag": "Job search",
-      "title": "ICGN panel bio",
-      "detail": "ICGN is waiting on a bio for the Toronto panel you are moderating in November; Drew sent notes on the announcement back on Sep 28."
-    },
-    {
-      "tag": "Christmas rental",
-      "title": "Hold a Maine SUV for the holidays",
-      "detail": "A full-size SUV out of Portland over Christmas week sells out early. A refundable hold now costs nothing and closes the risk."
+      "title": "Finalize the ICGN panel bio",
+      "detail": "Drew sent notes on your moderator bio and LinkedIn announcement on Sep 28; your revision is the next move before ICGN's Toronto conference in November."
     }
   ],
-  "schedule": [
-    {
-      "time": "2:30 PM",
-      "title": "Call from Pema",
-      "detail": "",
-      "tag": "call"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "LinkedIn message from Hans-Kristian",
-        "detail": "A new LinkedIn message is waiting for your reply."
-      },
-      {
-        "tag": "Job search",
-        "title": "Valoris Catalysts call",
-        "detail": "A Teams meeting thread with Martin, Davit and Mike; a time still needs confirming."
-      },
-      {
         "tag": "Security",
-        "title": "AppleCare One sign-in",
-        "detail": "Apple says a new account signed into your iPhone 17e; sign in on the device to keep coverage."
+        "title": "Apple sign-in on new iPhone",
+        "detail": "Apple says to sign into the iPhone 17e with the correct Apple Account to keep AppleCare One coverage."
+      },
+      {
+        "tag": "Financial",
+        "title": "September statements ready",
+        "detail": "Morgan Stanley and Revolut monthly statements are now available to review."
+      },
+      {
+        "tag": "Job search",
+        "title": "Valoris meeting to confirm",
+        "detail": "A Teams invite went out for you, Mike, Martin and Davit — no reply from you yet."
       },
       {
         "tag": "FYI",
         "title": "NACD New England, Oct 28",
-        "detail": "The Maine Visionaries program on the 28th; members are asked to share it with their network."
+        "detail": "NACD NE asked members to share its Oct 28 Maine Visionaries event — worth a look for board networking."
       }
     ],
-    "noise": "The rest is receipts and newsletters: Apple and Google Play orders, Revolut and FICO statements, and a few local and language-learning digests.",
+    "noise": "The rest is newsletters — FT, Press Herald, the Italian and St. Pete dailies — plus receipts and shipping notices.",
     "clear": ""
   },
   "resolved": [],
@@ -59,8 +62,8 @@
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "low",
-    "asOf": "Friday Oct 2"
+    "confidence": "high",
+    "asOf": "Saturday Oct 3"
   },
   "recipe": {
     "title": "Roast chicken smothered with chanterelles",
@@ -69,33 +72,21 @@
   },
   "tasks": [
     {
-      "title": "December break - shortlist and decide",
-      "project": "Travel",
-      "due": "Decide now, book by Oct 15",
-      "overdue": true
-    },
-    {
-      "title": "Book refundable Maine Christmas SUV",
-      "project": "Travel",
-      "due": "Overdue Sep 14",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south",
-      "project": "Travel",
-      "due": "Window opens Oct 5",
-      "overdue": true
-    },
-    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order - bedframe + soap holder",
-      "project": "Household",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -107,15 +98,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open morning with nothing on the calendar, room for the work that has been waiting."
+      "line": "The calendar is clear until tomorrow's review — the quietest stretch you'll get before the week turns over."
     },
     {
       "time": "Afternoon",
-      "line": "A single call with Pema at 2:30, and the rest of the afternoon stays clear."
+      "line": "A wide-open afternoon with the girls in St. Pete, nothing on the books laying claim to it."
     },
     {
       "time": "Evening",
-      "line": "The girls are home with you and Mike tonight, and a slow autumn braise would suit it."
+      "line": "Nothing scheduled tonight — room to cook something slow before the handoff resumes tomorrow."
     }
   ],
   "japanese": {
