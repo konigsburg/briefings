@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-10-03",
+    "kind": "Morning brief",
+    "label": "Saturday, Oct 3 · 6:14 AM ET",
+    "summary": "An open Saturday with the girls in St. Pete; the overdue travel board and the ICGN bio are the day's real pulls before tomorrow's Sunday review.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-10-02",
     "kind": "Morning brief",
     "label": "Friday, Oct 2 · 10:14 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Friday, Sep 4 · 10:02 PM ET",
     "summary": "An open, meeting-free Friday in St. Pete with the girls home — and a stack of pre-Croatia bookings due before Monday's departure.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-09-03",
-    "kind": "Morning brief",
-    "label": "Thursday, Sep 3 · 10:02 PM ET",
-    "summary": "Changeover day in St. Pete with Croatia five days out and Conor Kehoe's PRI call tomorrow.",
     "ref": "today"
   }
 ]
