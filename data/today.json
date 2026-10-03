@@ -1,30 +1,30 @@
 {
   "date": "Friday, October 2, 2026",
   "generatedAt": "Morning brief · 8:14 PM ET",
-  "theme": "A wide-open day; the only real clocks are travel bookings.",
-  "greeting": "A clear Friday, Dan — one short call with Pema this afternoon and otherwise yours. The pressure today isn't on the calendar, it's three trips quietly running low on runway.",
+  "theme": "An open day, with a knot of travel decisions past due.",
+  "greeting": "The calendar's clear tonight, Dan — a single call with Pema was the whole of it. What's actually waiting is a cluster of trip decisions that have slipped past their dates.",
   "needsAttention": [
     {
-      "tag": "Decision overdue",
-      "title": "December trip needs a lane picked",
-      "detail": "The Sept 30 decide-by on the December break (all four girls, Dec 13-Jan 2) has slipped, and the hard wall is the Oct 15 book-by for six people over holiday inventory. Passports land in November, so a domestic shortlist carries no risk; that's the clean choice."
+      "tag": "Overdue · travel",
+      "title": "December trip still undecided",
+      "detail": "The shortlist-and-decide task was due Sept 30 with a book-by of Oct 15; six people across three holiday weeks is the thinnest inventory of the year, so this is the one to break first."
     },
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV won't wait",
-      "detail": "A full-size SUV out of Portland over Christmas week is the thinnest rental in that market and sells out. A refundable hold costs nothing and closes the risk; this p1 has been open since mid-September."
+      "tag": "Overdue · p1",
+      "title": "Maine Christmas SUV unbooked",
+      "detail": "A full-size SUV out of Portland over Christmas week sells out — a refundable hold costs nothing and closes the risk. The book-by was Sept 14."
     },
     {
-      "tag": "Starts Monday",
-      "title": "Pathfinder drive leaves in three days",
-      "detail": "The Portland to St Pete window opens Oct 5. Still open: the one hotel night to book, and where the car sits at TPA or SRQ during the off-weeks."
+      "tag": "This week",
+      "title": "Pathfinder drive opens Oct 5",
+      "detail": "The Portland-to-St Pete window (Oct 5-18) starts Sunday; the one hotel night still needs booking once the dates firm up."
     }
   ],
   "schedule": [
     {
       "time": "2:30 PM",
       "title": "Call from Pema",
-      "detail": "30-minute call",
+      "detail": "One hour",
       "tag": "call"
     }
   ],
@@ -32,28 +32,39 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn surfaces a Cohere govt-affairs lead",
-        "detail": "A US Government Affairs and Public Policy role at Cohere showed up in a similar-jobs digest, worth a glance given the search."
+        "title": "LinkedIn message unanswered",
+        "detail": "Hans-Kristian messaged you on LinkedIn yesterday and it's still waiting on a reply."
       },
       {
         "tag": "Security",
-        "title": "Apple flags a new sign-in",
-        "detail": "An AppleCare One action-required notice about a new Apple Account on the iPhone 17e; verify in Settings directly rather than the email link."
+        "title": "Apple sign-in notice",
+        "detail": "An AppleCare One 'action required' note about a new sign-in on the iPhone 17e; it matches this week's Apple order, but confirm it's genuine before acting."
+      },
+      {
+        "tag": "FYI",
+        "title": "DIRA/DIBA meeting packet",
+        "detail": "David Wetherbee sent the materials for the Oct 25 meeting to read ahead."
       },
       {
         "tag": "Financial",
-        "title": "myFICO Advanced cancellation confirmed",
-        "detail": "Confirmation the FICO Advanced subscription is cancelled, no action unless that was a surprise."
+        "title": "FICO Advanced canceled",
+        "detail": "Confirmation that your FICO Advanced subscription has been canceled."
       }
     ],
-    "noise": "The rest is newsletters and retail: West Marine, J.Crew, Bloomberg, Alison Roman, and a stray Duke event addressed to Paul.",
-    "clear": "Nothing in the inbox is actually waiting on your reply."
+    "noise": "Underneath: Apple order and setup emails, an eBay delivery, a sailing-cert shipment, a few newsletters, and a Google Play receipt.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Closed",
+      "title": "Agreed to promote NACD event",
+      "detail": "You told Ellen Richstone you'd share the Maine Visionaries program with your network; Josh confirmed he would too."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St Petersburg, FL",
+    "location": "St. Petersburg, FL",
     "confidence": "low",
     "asOf": "Friday Oct 2"
   },
@@ -66,19 +77,13 @@
     {
       "title": "Get 3 term life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sep 25",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order: bedframe + outdoor shower soap holder",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Household",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Work",
-      "due": "Overdue Aug 15",
+      "due": "Overdue Sept 30",
       "overdue": true
     }
   ],
@@ -90,15 +95,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar before noon, open from the first cup."
+      "line": "The morning opened empty, nothing on the calendar to hold it."
     },
     {
       "time": "Afternoon",
-      "line": "A single 30-minute call with Pema at 2:30, and nothing on either side of it."
+      "line": "One short call sat alone in the middle of the afternoon."
     },
     {
       "time": "Evening",
-      "line": "Clear through the evening, and tomorrow holds no events either."
+      "line": "The rest of the day is unclaimed and yours."
     }
   ],
   "japanese": {
