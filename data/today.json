@@ -1,58 +1,69 @@
 {
   "date": "Saturday, October 3, 2026",
-  "generatedAt": "Morning brief · 10:14 AM ET",
-  "theme": "A wide-open Saturday before tomorrow's handoff.",
-  "greeting": "Nothing is on the calendar today, Dan — a genuinely clear Saturday, and the girls are still with you and Mike before tomorrow's handoff to Jen. The only thing on the horizon is the 9 AM Sunday review, so the day is yours to spend on the kids or on the travel decisions that have slipped.",
+  "generatedAt": "Morning brief · 10:18 AM ET",
+  "theme": "An open Saturday — the last full day with the girls before tomorrow's handoff.",
+  "greeting": "Nothing is on the calendar today, Dan — the whole day is yours in St. Pete with the girls before they go to Jen's tomorrow. The one thing worth a few minutes is getting ahead of tomorrow's Sunday review, where a cluster of overdue travel bookings is waiting.",
   "needsAttention": [
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Sunday review with Mike",
-      "detail": "The weekly 15-minute board sweep is first thing tomorrow. Several big items have slipped three weeks running, so it is the natural place to finally land the December trip and the Christmas car."
+      "tag": "Tomorrow · prep",
+      "title": "Sunday review has a backlog",
+      "detail": "Tomorrow at 9 AM with Mike. Three booking windows are open on the board — arrive ready to actually decide December, the Christmas rental, and the Pathfinder drive rather than roll them a fourth week."
     },
     {
       "tag": "Window closing",
-      "title": "December trip still undecided",
-      "detail": "The decision was due Sept 30 and the book-by is Oct 15. Holiday inventory for six people across three weeks is the thinnest of the year, so the date really does bind."
+      "title": "December trip — book by Oct 15",
+      "detail": "All four kids, Dec 13 to Jan 2. The decision was due Sept 30 and booking closes Oct 15; holiday inventory for six is the thinnest of the year. Lean domestic, since the passports won't be in hand at booking time."
     },
     {
-      "tag": "Overdue - Travel",
-      "title": "Maine Christmas SUV not booked",
-      "detail": "A p1 open since Sept 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market, and a refundable hold held now costs nothing."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out. Book refundable now and adjust dates later — it's a p1 already two weeks overdue."
     },
     {
-      "tag": "Awaiting reply",
-      "title": "LinkedIn note from Pru",
-      "detail": "A message from Pru has been sitting in LinkedIn since Wednesday without a reply."
+      "tag": "Starts Oct 5",
+      "title": "Pathfinder drive south",
+      "detail": "The Portland to St. Pete drive window opens in two days. Once the dates are set, book the single hotel night the two-day route needs."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Public-affairs director roles",
-        "detail": "LinkedIn surfaced Cohere and FUJIFILM government-affairs openings, squarely in your lane."
-      },
-      {
-        "tag": "Job search",
-        "title": "NACD New England, Oct 28",
-        "detail": "NACD asked members to share its Maine Visionaries event — a governance-network touchpoint."
-      },
-      {
         "tag": "Security",
-        "title": "AppleCare One action needed",
-        "detail": "Apple flagged a new account signing into your iPhone 17e and asks you to sign in to keep coverage."
+        "title": "AppleCare One needs a sign-in",
+        "detail": "Apple is asking you to sign in on the new iPhone 17e with your Apple Account to keep AppleCare One coverage active."
+      },
+      {
+        "tag": "Job search",
+        "title": "Valoris Catalysts meeting",
+        "detail": "A Teams meeting invite — you, Martin, Davit and Mike — came in from Valoris Catalysts yesterday."
+      },
+      {
+        "tag": "FYI",
+        "title": "NACD New England · Oct 28",
+        "detail": "The Maine Visionaries program invite asking you to share it with your network."
       },
       {
         "tag": "Financial",
-        "title": "Statements posted",
-        "detail": "Morgan Stanley and Revolut both posted monthly statements overnight."
+        "title": "Morgan Stanley statement ready",
+        "detail": "New account statements are available online — no action needed."
       }
     ],
-    "noise": "Beneath that, the usual newsletters — FT, WSJ, Press Herald, the St. Pete and Midcoast locals — plus a run of receipts and shipping notices.",
+    "noise": "The rest is newsletters (FT, Press Herald, St. Pete local, language-learning) plus retail promos and order receipts.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Shipped",
+      "title": "Sailing certification seal",
+      "detail": "Your American Sailing certification seal is on its way via USPS to the Portland address."
+    },
+    {
+      "tag": "Confirmed",
+      "title": "FICO Advanced cancelled",
+      "detail": "Your FICO Advanced subscription cancellation came through today."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -68,40 +79,40 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Passport packet + appointment, 4 kids",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue, p1",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Dan & Mike",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south (Oct 5-18 window)",
-      "project": "Dan & Mike",
-      "due": "Overdue Sep 25",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/3",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — a rare, fully open morning with the girls still home."
+      "line": "Nothing scheduled — a rare, fully open morning."
     },
     {
       "time": "Afternoon",
-      "line": "The clear stretch runs straight through; no meetings and no calls booked."
+      "line": "The last full day with the girls in St. Pete before Sunday's ~6 PM handoff."
     },
     {
       "time": "Evening",
-      "line": "One last evening with the four of them before tomorrow's review and the handoff."
+      "line": "Open and unhurried — the new Radetzky March just landed to read into."
     }
   ],
   "japanese": {
