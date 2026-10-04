@@ -1,28 +1,23 @@
 {
   "date": "Saturday, October 3, 2026",
-  "generatedAt": "Morning brief · 8:14 PM ET",
-  "theme": "An open Saturday with travel logistics waiting.",
-  "greeting": "A wide-open Saturday, Dan — the calendar's clear today, but a run of travel bookings has gone overdue and tomorrow opens early with the Sunday review.",
+  "generatedAt": "Morning brief · 8:18 PM ET",
+  "theme": "An open Saturday, girls still home before tomorrow's handoff.",
+  "greeting": "A wide-open Saturday, Dan — nothing on the calendar, and the girls are with you and Mike in St. Pete until tomorrow's changeover. The one thing on the horizon is the 15-minute Sunday review first thing tomorrow, so tonight is a good moment to glance at the board.",
   "needsAttention": [
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Sunday review prep with Mike",
-      "detail": "Tomorrow at 9 AM you and Mike run the 15-minute board sweep. A quick skim of the Dan & Mike board tonight keeps anything from slipping a fourth Sunday."
+      "tag": "Prep for tomorrow",
+      "title": "The Sunday board review lands at 9",
+      "detail": "Tomorrow opens with the 15-minute review with Mike on your calendar, built to put an owner and a date on everything and kill what's slipped. Several board items are weeks overdue, so arrive having decided what to promote and what to drop."
     },
     {
-      "tag": "Window opens Monday",
-      "title": "Pathfinder drive south",
-      "detail": "The Portland to St Pete drive window (Oct 5-18) opens Monday. It's a two-day, two-driver run that still needs the hotel night booked."
+      "tag": "Window opens",
+      "title": "The Pathfinder drive window starts Monday",
+      "detail": "On the Mike + Dan board, the Portland-to-St-Pete drive is slotted for the Oct 5-18 off-week — that window opens in two days. Dates and the one hotel night still need locking before you're on the road."
     },
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week is the thinnest rental of the year and has been overdue since Sep 14. Holding one now costs nothing."
-    },
-    {
-      "tag": "Decide, book by Oct 15",
-      "title": "December break destination",
-      "detail": "The shortlist decision slipped past Sep 30. With passports landing in November, a domestic shortlist is the safe default unless you go international on refundable bookings."
+      "tag": "Closing soon",
+      "title": "December trip decision is past its date",
+      "detail": "The December-break shortlist was due to be decided Sept 30 and booked by Oct 15, and holiday inventory for six over three weeks is the thinnest of the year. Pick domestic or refundable-international and lock it at the review."
     }
   ],
   "schedule": [],
@@ -30,34 +25,29 @@
     "flagged": [
       {
         "tag": "Security",
-        "title": "Apple: new sign-in on your iPhone",
-        "detail": "Apple says a new account signed into your iPhone 17e and asks you to sign in to keep AppleCare One coverage. Worth verifying straight from Settings rather than the email."
+        "title": "Apple flags a new sign-in",
+        "detail": "An AppleCare One notice says a new Apple Account signed in to your iPhone 17e and asks you to sign in to keep coverage. Worth confirming it's really you before acting on it."
+      },
+      {
+        "tag": "Financial",
+        "title": "Amex October statement is ready",
+        "detail": "Your October statement posted and the notice flags important notice(s) to review when you're online."
       },
       {
         "tag": "Job search",
-        "title": "LinkedIn message from Hans-Kristian",
-        "detail": "Hans-Kristian messaged you on LinkedIn and it's still awaiting a reply."
-      },
-      {
-        "tag": "Job search",
-        "title": "ICGN Toronto panel bio",
-        "detail": "Drew sent back notes on your bio and the LinkedIn announcement for the ICGN panel you're moderating. The draft is yours to finalize."
-      },
-      {
-        "tag": "FYI",
-        "title": "Valoris Catalysts call",
-        "detail": "A Teams meeting went out for you, Martin, Davit and Mike. Confirm whether a time has been pinned."
+        "title": "Drew's notes on the ICGN bio",
+        "detail": "Drew replied with suggestions on your moderator bio and the LinkedIn announcement for the ICGN Toronto panel — ready for you to finalize and post."
       }
     ],
-    "noise": "The rest is newsletters, receipts and shipping notices: a real-estate alert, Google Play and Apple receipts, an Evite RSVP, and your American Sailing seal on its way.",
+    "noise": "The rest is newsletters, promos, and receipts — Wildgrain, Amtrak, Monocle, Dermstore, an Evite RSVP, and a couple of Apple order pings.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St Petersburg, FL",
-    "confidence": "low",
+    "location": "St. Petersburg, FL",
+    "confidence": "high",
     "asOf": "Saturday Oct 3"
   },
   "recipe": {
@@ -67,38 +57,47 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
+      "title": "Book refundable Maine Christmas SUV",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 14",
+      "overdue": true
+    },
+    {
+      "title": "Shortlist December-break destinations",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Get three term-life quotes for Mike",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Dan & Mike",
+      "title": "Place the Portland house order",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/3",
-    "day": "0/6",
+    "morning": "7/10",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning, with nothing on the calendar until tomorrow.",
-      "tag": "open"
+      "line": "Nothing on the calendar from open to close — a genuinely clear Saturday."
     },
     {
       "time": "Afternoon",
-      "line": "No commitments all afternoon, a rare open stretch to use on something that's been waiting.",
-      "tag": "open"
+      "line": "An uncommitted stretch with the girls in St. Pete before tomorrow's handoff."
     },
     {
       "time": "Evening",
-      "line": "An easy evening at home before an early Sunday start.",
-      "tag": "quiet"
+      "line": "A few minutes on the Mike + Dan board tonight makes tomorrow's 9 AM review quick."
     }
   ],
   "japanese": {
