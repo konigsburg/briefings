@@ -1,38 +1,38 @@
 {
-  "date": "Sun, Sep 27",
+  "date": "Sun, Oct 4",
   "region": "NH Seacoast · zone 6a",
-  "generatedAt": "Weekly · Sep 27",
-  "headline": "First frost is ~2-3 weeks out (mid-Oct) - harvest tender crops and keep row cover ready.",
+  "generatedAt": "Weekly · Oct 4",
+  "headline": "Frost is near — keep row cover or old sheets ready to protect tender crops this week.",
   "tasks": [
     {
-      "tag": "Harvest",
-      "title": "Bring in frost-tender crops",
-      "detail": "Pick tomatoes, peppers, eggplant, cucumbers, and basil before the first frost night (~mid-Oct). Mature green tomatoes ripen fine indoors on a counter, so don't leave them on the vine."
-    },
-    {
       "tag": "Prep",
-      "title": "Keep row cover within reach",
-      "detail": "Have floating row cover or old sheets ready to throw over tender plants and fall greens on the first clear, calm night the forecast dips near 32F. One covered night can buy weeks more harvest."
+      "title": "Frost watch",
+      "detail": "First frost on the Seacoast typically lands around mid-October. Check the nightly low each evening and drape row cover or old bedsheets over tomatoes, peppers, and basil whenever it dips toward the mid-30s."
     },
     {
       "tag": "Harvest",
-      "title": "Cure winter squash and pumpkins",
-      "detail": "Cut squash and pumpkins when the rind is hard and the stem is corky, leaving a few inches of stem. Cure in a warm, dry spot for 1-2 weeks so they store through winter."
+      "title": "Bring in warm-season crops",
+      "detail": "Pick all peppers and the last tomatoes now — even full-size green tomatoes will ripen on a counter indoors. Harvest winter squash once the rind is hard and cure it in a warm, dry spot for a week."
     },
     {
       "tag": "Sow now",
-      "title": "Plant garlic in the next few weeks",
-      "detail": "Break bulbs into cloves and plant pointy-end up, ~2 inches deep and 6 inches apart, then mulch with straw. Aim for October so roots set before the ground freezes. You can also still sow spinach, arugula, and radish under cover."
+      "title": "Plant garlic",
+      "detail": "Early-to-mid October is prime garlic planting in zone 6a. Break a bulb into cloves and set them pointy-end up, 2 inches deep and 6 inches apart, then top with a few inches of straw mulch."
     },
     {
-      "tag": "Feed",
-      "title": "Cover or mulch empty beds",
-      "detail": "Sow winter rye or oats on cleared beds to protect soil, or top beds with shredded leaves or compost. This prevents erosion and feeds the soil over winter."
+      "tag": "Harvest",
+      "title": "Keep cutting cool-season greens",
+      "detail": "Kale, spinach, lettuce, chard, and arugula keep producing and actually sweeten after a light frost. Harvest outer leaves regularly to keep plants going into November."
+    },
+    {
+      "tag": "Prep",
+      "title": "Sow a cover crop or plant bulbs",
+      "detail": "On any bed you're done with, scatter winter rye to protect the soil over winter. It's also the window to tuck in spring bulbs like daffodils and tulips before the ground freezes."
     },
     {
       "tag": "Pest watch",
-      "title": "Clean up disease and pests",
-      "detail": "Remove powdery-mildew squash vines, cabbage worms on brassicas, and slugs on greens. Trash or bury diseased foliage rather than composting it, and keep watering new plantings until the ground freezes."
+      "title": "Clear spent, diseased foliage",
+      "detail": "Pull and discard (don't compost) any blighted tomato vines or mildewed squash leaves. Removing diseased debris now reduces the pests and spores that overwinter and hit you next spring."
     }
   ]
 }
