@@ -1,59 +1,67 @@
 {
   "date": "Sunday, October 4, 2026",
   "generatedAt": "Morning brief · 6:14 AM ET",
-  "theme": "A wide-open Saturday before a week of logistics.",
-  "greeting": "The whole day is yours, Dan — the calendar is genuinely empty. Tomorrow brings only the 15-minute Sunday review, but a few booking windows are quietly closing, so the open stretch is well spent on them.",
+  "theme": "An open Sunday, then the quiet half of the cycle.",
+  "greeting": "The day's wide open, Dan — a quick fifteen with Mike at nine, then it's yours right up until the girls head back to Jen this evening.",
   "needsAttention": [
     {
-      "tag": "Prep for tomorrow",
-      "title": "Sunday review with Mike, 9 AM",
-      "detail": "Tomorrow opens with the 15-minute board review. Come in having swept the Mike + Dan board so every item has an owner and a date, and the trip calls below are promoted or killed."
-    },
-    {
-      "tag": "Window closing",
-      "title": "December trip — decide and book",
-      "detail": "The destination call was due Sept 30 and the whole thing books by Oct 15. Passports only land in November, so the default is a domestic shortlist unless you commit to refundable international."
+      "tag": "Decision overdue",
+      "title": "December trip — settle the shortlist",
+      "detail": "Your Sept 30 decide-by has passed and book-by is Oct 15. Passports land in November, so the clean move is a domestic shortlist now (international only on refundable bookings)."
     },
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week is the thinnest rental in that market. Book it refundable now and adjust dates later, before holiday inventory disappears."
+      "title": "Maine Christmas SUV",
+      "detail": "P1 and three weeks overdue. A full-size SUV out of Portland over Christmas sells out early — hold a refundable PWM reservation now and fix the dates later."
     },
     {
-      "tag": "Starts this week",
+      "tag": "Window opens",
       "title": "Pathfinder drive south",
-      "detail": "The Oct 5-18 Portland-to-St-Pete drive window opens tomorrow. Book the one hotel night once the two travel dates are set."
+      "detail": "The Oct 5–18 Portland-to-St Pete window opens tomorrow. Lock the two driving days and book the single hotel night so it stops drifting."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "title": "Sunday review with Mike",
+      "detail": "15-min board sweep — clear the inbox, owner + date on everything",
+      "tag": "meeting"
+    },
+    {
+      "time": "~6:00 PM",
+      "title": "Girls back to Jen",
+      "detail": "Sunday handoff; the two-week Jen stretch begins",
+      "tag": "handoff"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Security",
+        "title": "AppleCare One covering no devices",
+        "detail": "Apple says your plan now covers zero devices — add one before the renewal date or it lapses."
+      },
+      {
         "tag": "Financial",
         "title": "Amex October statement ready",
-        "detail": "Your October statement posted with a note flagging important changes to review."
+        "detail": "Flagged for important notices; worth a glance before autopay runs."
       },
       {
         "tag": "Job search",
-        "title": "NACD New England marketing push",
-        "detail": "Josh Broder replied on the Maine Visionaries (Oct 28) thread saying he reached out to 25 more contacts — worth a glance as the event nears."
-      },
-      {
-        "tag": "FYI",
-        "title": "AppleCare One covers no devices",
-        "detail": "Apple says your plan now covers no devices; add one before the renewal date or the plan lapses."
+        "title": "NACD New England event, Oct 28",
+        "detail": "Josh Broder is rallying invitees on the governance thread you're on — a share-with-your-network ask tied to the Maine Visionaries program."
       }
     ],
-    "noise": "Dozens of promos and social pings — Wildgrain, Dermstore, Amtrak, Enterprise, LinkedIn and Substack digests, St. Pete newsletters.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "The usual drift — St. Pete newsletters, NYT Cooking, word-of-the-day, Revolut and a couple of eBay delivery pings.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "St Petersburg, FL",
     "confidence": "low",
-    "asOf": "Saturday Oct 3"
+    "asOf": "Sunday Oct 4"
   },
   "recipe": {
     "title": "Onion Tart",
@@ -63,49 +71,34 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sept 25",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Passport appointment reschedule — 4 kids",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sept 21",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sept 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/3",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the day is open from the first cup of coffee.",
-      "tag": "open"
+      "line": "A 15-minute review with Mike at nine, and then the morning opens right up."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear, which makes it the moment to land the trip decisions that have been circling for a week.",
-      "tag": "open"
+      "line": "Nothing on the calendar — the last clear stretch with the girls before tonight."
     },
     {
       "time": "Evening",
-      "line": "Quiet through the evening, with tomorrow's short Sunday review the only fixed point on the horizon.",
-      "tag": "calm"
+      "line": "Handoff to Jen around six, with the Pathfinder drive window opening tomorrow."
     }
   ],
   "japanese": {
