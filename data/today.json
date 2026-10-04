@@ -1,71 +1,45 @@
 {
   "date": "Sunday, October 4, 2026",
   "generatedAt": "Morning brief · 12:15 PM ET",
-  "theme": "An open Sunday with the girls — the travel calls are the day's real work.",
-  "greeting": "Clear calendar, Dan — just the morning review with Mike, already behind you. The girls are with you until the ~6 PM handoff to Jen, which starts the two-week stretch away; the open travel decisions are what's worth an hour today.",
+  "theme": "An open Sunday with a quiet handoff at dusk.",
+  "greeting": "The calendar's nearly empty today, Dan — one short review with Mike this morning, then the day is your own until the girls head back to Jen this evening.",
   "needsAttention": [
     {
-      "tag": "Decision overdue",
-      "title": "December trip — pick a shortlist",
-      "detail": "The destination call was due Sept 30 and the book-by date is Oct 15. With routine passports not landing until November, the clean play is a domestic shortlist you can book outright rather than wait on."
-    },
-    {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week sells out early; holding one now costs nothing and removes the only real risk on that trip."
+      "title": "Maine Christmas SUV is slipping",
+      "detail": "The full-size SUV out of Portland for Christmas week is the hardest rental in that market, and the task has been open since Sep 14. Book a refundable one now and adjust the dates once the trip firms up."
     },
     {
-      "tag": "Starts tomorrow",
-      "title": "Pathfinder drive window",
-      "detail": "The Oct 5–18 Portland-to-St. Pete drive window opens tomorrow — worth pinning the dates and the one hotel night before it drifts."
+      "tag": "Window closing",
+      "title": "December trip, book by Oct 15",
+      "detail": "The Dec 13–Jan 2 trip for all four kids needs a destination decided and booked by Oct 15 — holiday inventory for six is the thinnest of the year. The default is a domestic shortlist, since passports only land in November."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board sweep",
-      "tag": "sync"
-    },
-    {
-      "time": "6:00 PM",
-      "title": "Girls head to Jen's",
-      "detail": "Two-week handoff begins",
-      "tag": "family"
+      "detail": "The 15-minute board clear — owners and dates on everything.",
+      "tag": "Meeting"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Noel messaged you on LinkedIn",
-        "detail": "A new LinkedIn message is sitting unanswered."
-      },
-      {
-        "tag": "Financial",
-        "title": "Amex October statement",
-        "detail": "Statement's ready and flags important notices to review."
-      },
-      {
-        "tag": "FYI",
-        "title": "NACD Maine event push",
-        "detail": "Josh Broder's reached out to 25 more people for the Oct 28 New England event; a group ask, nothing owed by you."
-      },
-      {
-        "tag": "Security",
-        "title": "AppleCare covers no devices",
-        "detail": "Your plan shows no devices — add one before the renewal date or it cancels."
+        "title": "LinkedIn alert: SVP Global Public Policy roles",
+        "detail": "An automated LinkedIn alert surfaced Senior VP of Global Public Policy and similar openings — worth a scan given the search, though nothing in it needs a reply."
       }
     ],
-    "noise": "The rest is newsletters (NYT Cooking, language drills, St. Pete local, markets), shop promos, and order and delivery confirmations.",
-    "clear": ""
+    "noise": "The rest is newsletters and retail promos — NYT Cooking, WSJ, Field Company, and a run of shops.",
+    "clear": "Nothing is actually waiting on your reply this morning."
   },
   "resolved": [],
   "context": {
-    "kids": true,
-    "phase": "blue",
+    "kids": false,
+    "phase": "green",
     "location": "St. Petersburg, FL",
-    "confidence": "high",
+    "confidence": "low",
     "asOf": "Sunday Oct 4"
   },
   "recipe": {
@@ -75,16 +49,22 @@
   },
   "tasks": [
     {
-      "title": "Three term-life quotes for Mike",
-      "project": "Household",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + soap holder",
-      "project": "Household",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 30",
       "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder Portland → St Pete",
+      "project": "Dan & Mike",
+      "due": "Oct 5–18 window",
+      "overdue": false
     }
   ],
   "routines": {
@@ -95,15 +75,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The 9 o'clock review with Mike was the only thing the calendar asked of you."
+      "line": "A quiet Sunday — just the 15-minute review with Mike on the calendar."
     },
     {
       "time": "Afternoon",
-      "line": "A wide-open afternoon in St. Pete — the kind of block that swallows the things that have been waiting."
+      "line": "The afternoon is entirely open, with nothing scheduled to break it up."
     },
     {
       "time": "Evening",
-      "line": "Around six the house empties out as the girls head back to Jen's."
+      "line": "A handoff evening — the girls head back to Jen around six."
     }
   ],
   "japanese": {
