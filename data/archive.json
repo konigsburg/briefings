@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-10-04",
+    "kind": "Morning brief",
+    "label": "Sunday, Oct 4 · 6:14 AM ET",
+    "summary": "An open Sunday with a 9am review and the evening handoff to Jen; the December trip and Maine Christmas SUV are the overdue calls to make.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-10-03",
     "kind": "Morning brief",
     "label": "Saturday, Oct 3 · 10:13 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Saturday, Sep 5 · 10:02 PM ET",
     "summary": "Open Saturday with the girls in St. Pete; the last Croatia bookings and today's Halloween decision are the live items three days from departure.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-09-04",
-    "kind": "Morning brief",
-    "label": "Friday, Sep 4 · 10:02 PM ET",
-    "summary": "An open, meeting-free Friday in St. Pete with the girls home — and a stack of pre-Croatia bookings due before Monday's departure.",
     "ref": "today"
   }
 ]
