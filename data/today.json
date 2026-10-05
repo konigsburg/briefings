@@ -1,43 +1,63 @@
 {
   "date": "Sunday, October 4, 2026",
-  "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "A quiet Sunday, Maine on tomorrow's horizon.",
-  "greeting": "A still Sunday in St. Pete, Dan — the girls are with Jen and the day is clear. Tomorrow you're on a midday flight north to bring the Pathfinder south.",
+  "generatedAt": "Morning brief · 10:18 PM ET",
+  "theme": "A quiet Sunday before the flight north.",
+  "greeting": "The day's nearly behind you, Dan — one Sunday review this morning and otherwise open. Tomorrow is a travel day: the Portland flight leaves Tampa just after noon.",
   "needsAttention": [
     {
-      "tag": "Prep · travel",
-      "title": "Portland flight leaves midday tomorrow",
-      "detail": "You're on MX 1004 out of TPA at 12:20 PM Monday — the trip to drive the Pathfinder back south. Pack tonight and lock the ride to the airport."
+      "tag": "Tomorrow",
+      "title": "Portland trip starts tomorrow",
+      "detail": "Flight MX 1004 leaves Tampa at 12:20 PM. Tomorrow also opens the Oct 5-18 window to drive the Pathfinder south, the one that replaces this winter's Florida rentals."
     },
     {
-      "tag": "Book this week",
-      "title": "Hold a Christmas SUV in Portland",
-      "detail": "The full-size Portland rental for Christmas week is a p1 that was due Sep 14. A refundable hold now beats thin holiday inventory and nothing is lost if dates shift."
+      "tag": "Job search",
+      "title": "Warm intro to a board recruiter",
+      "detail": "Andrew flagged a Montreal headhunter in your governance world — an accountant with a deep board network — and says he's already cleared the intro for you to reach out."
     },
     {
       "tag": "Decision due",
-      "title": "Lock the December-break destination",
-      "detail": "The shortlist was due Sep 30 and books by Oct 15; with passports landing in November, pick domestic or refundable-international and commit before the booking window tightens."
+      "title": "Lock the December trip",
+      "detail": "All four kids, Dec 13-Jan 2. The decide-by date has slipped and the Oct 15 book-by is close, so the domestic-vs-international call is the thing holding up booking."
+    },
+    {
+      "tag": "Books out soon",
+      "title": "Hold a Christmas SUV in Portland",
+      "detail": "A refundable full-size SUV for Christmas week sells out early in that market; your board marks this the item most likely to bite if it waits."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board sweep over Meet",
-      "tag": "meeting"
+      "detail": "15-minute board sweep",
+      "tag": "Sync"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Warm headhunter intro from Andrew",
-        "detail": "Andrew flagged a Montreal recruiter working in your board-and-governance ecosystem and confirmed it's fine to reach out — a senior-search contact worth a note."
+        "tag": "Financial",
+        "title": "Amex October statement ready",
+        "detail": "Posted with a note to review important notices — worth a glance before travel."
+      },
+      {
+        "tag": "FYI",
+        "title": "NACD New England event, Oct 28",
+        "detail": "Josh Broder rallying outreach for the Maine Visionaries program — close to your board-search world."
+      },
+      {
+        "tag": "FYI",
+        "title": "DIRA/DIBA materials for Oct 25",
+        "detail": "David Wetherbee sent the packet for the Oct 25, 5 PM meeting."
+      },
+      {
+        "tag": "Security",
+        "title": "AppleCare One sign-in notice",
+        "detail": "Apple flags a new account sign-in on your iPhone 17e — worth confirming it was you."
       }
     ],
-    "noise": "Otherwise it's newsletters and retail — NYPL events, Bloomberg, Dwell, Faherty, a scatter of sale blasts.",
-    "clear": ""
+    "noise": "The usual Sunday drift — St. Pete newsletters, Italian and Japanese lessons, retail promos, a couple of receipts.",
+    "clear": "Nothing is waiting on a same-day reply."
   },
   "resolved": [],
   "context": {
@@ -54,35 +74,41 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Household",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Household",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Work",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/4",
+    "morning": "0/9",
+    "day": "0/10",
     "evening": "0/0"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The 15-minute Sunday review with Mike set the board before 9:15."
+      "line": "One 15-minute Sunday review with Mike, then the day opened up."
     },
     {
       "time": "Afternoon",
-      "line": "Open and unscheduled — your last full day in St. Pete before Maine."
+      "line": "Nothing on the calendar — a genuinely clear stretch."
     },
     {
       "time": "Evening",
-      "line": "A quiet night to pack; the Portland flight goes midday tomorrow."
+      "line": "A quiet night in St. Pete before the trip north."
     }
   ],
   "japanese": {
