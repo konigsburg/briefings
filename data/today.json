@@ -1,71 +1,56 @@
 {
   "date": "Monday, October 5, 2026",
-  "generatedAt": "Morning brief · 6:14 AM ET",
-  "theme": "A quiet Sunday before the flight north.",
-  "greeting": "The day's nearly behind you, Dan — one Sunday review this morning and otherwise open. Tomorrow is a travel day: the Portland flight leaves Tampa just after noon.",
+  "generatedAt": "Morning brief · 6:17 AM ET",
+  "theme": "Florida to Maine — a travel day north.",
+  "greeting": "Good morning, Dan. A calm start, then you're northbound this afternoon; with the girls at Jen's, the week ahead is yours to shape.",
   "needsAttention": [
     {
-      "tag": "Tomorrow",
-      "title": "Portland trip starts tomorrow",
-      "detail": "Flight MX 1004 leaves Tampa at 12:20 PM. Tomorrow also opens the Oct 5-18 window to drive the Pathfinder south, the one that replaces this winter's Florida rentals."
+      "tag": "Window open",
+      "title": "Pathfinder drive south opens today",
+      "detail": "The Oct 5–18 window to drive the Pathfinder from Portland to St Pete starts today, and you land in Portland this afternoon. Set the dates and book the one hotel night so the two-day drive has a shape."
     },
     {
-      "tag": "Job search",
-      "title": "Warm intro to a board recruiter",
-      "detail": "Andrew flagged a Montreal headhunter in your governance world — an accountant with a deep board network — and says he's already cleared the intro for you to reach out."
+      "tag": "Awaiting reply",
+      "title": "ICGN Toronto panel call",
+      "detail": "Claudia at ICGN wants to schedule the Plenary 7 planning call for the stewardship-data panel you agreed to moderate, and she's waiting on your availability."
     },
     {
-      "tag": "Decision due",
-      "title": "Lock the December trip",
-      "detail": "All four kids, Dec 13-Jan 2. The decide-by date has slipped and the Oct 15 book-by is close, so the domestic-vs-international call is the thing holding up booking."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "The full-size SUV out of Portland for Christmas week is still unbooked and well past its date. Book it refundable now while there's inventory — holiday full-size rentals at PWM sell out."
     },
     {
-      "tag": "Books out soon",
-      "title": "Hold a Christmas SUV in Portland",
-      "detail": "A refundable full-size SUV for Christmas week sells out early in that market; your board marks this the item most likely to bite if it waits."
+      "tag": "Window closing",
+      "title": "December break destinations",
+      "detail": "The Dec 13–Jan 2 trip for all four girls is past its Sept 30 decision date with an Oct 15 book-by deadline. Pick domestic or refundable-international and lock a shortlist."
     }
   ],
   "schedule": [
     {
-      "time": "9:00 AM",
-      "title": "Sunday review with Mike",
-      "detail": "15-minute board sweep",
-      "tag": "Sync"
+      "time": "12:20 PM",
+      "title": "Flight to Portland (MX 1004)",
+      "detail": "Tampa TPA to Portland, landing about 4:55 PM",
+      "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Amex October statement ready",
-        "detail": "Posted with a note to review important notices — worth a glance before travel."
-      },
-      {
-        "tag": "FYI",
-        "title": "NACD New England event, Oct 28",
-        "detail": "Josh Broder rallying outreach for the Maine Visionaries program — close to your board-search world."
-      },
-      {
-        "tag": "FYI",
-        "title": "DIRA/DIBA materials for Oct 25",
-        "detail": "David Wetherbee sent the packet for the Oct 25, 5 PM meeting."
-      },
-      {
-        "tag": "Security",
-        "title": "AppleCare One sign-in notice",
-        "detail": "Apple flags a new account sign-in on your iPhone 17e — worth confirming it was you."
+        "tag": "Job search",
+        "title": "ICGN Toronto moderating logistics",
+        "detail": "Planning-call scheduling for the panel you're moderating is open and waiting on your reply."
       }
     ],
-    "noise": "The usual Sunday drift — St. Pete newsletters, Italian and Japanese lessons, retail promos, a couple of receipts.",
-    "clear": "Nothing is waiting on a same-day reply."
+    "noise": "The rest is newsletters and promos — Foreign Affairs, Responsible Investor, a St Pete roundup, and a handful of shopping and streaming nudges.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St. Petersburg, FL",
+    "location": "Portland, Maine",
     "confidence": "high",
-    "asOf": "Sunday Oct 4"
+    "asOf": "Monday Oct 5"
   },
   "recipe": {
     "title": "Fricassée of chanterelles",
@@ -75,13 +60,13 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Dan & Mike",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
@@ -93,22 +78,22 @@
     }
   ],
   "routines": {
-    "morning": "0/9",
-    "day": "0/10",
-    "evening": "0/0"
+    "morning": "0/10",
+    "day": "0/6",
+    "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "One 15-minute Sunday review with Mike, then the day opened up."
+      "line": "The morning is open before your midday flight — the last still hours on Florida ground."
     },
     {
-      "time": "Afternoon",
-      "line": "Nothing on the calendar — a genuinely clear stretch."
+      "time": "12:20 PM onward",
+      "line": "You're in the air to Portland from 12:20, landing in Maine by late afternoon."
     },
     {
       "time": "Evening",
-      "line": "A quiet night in St. Pete before the trip north."
+      "line": "Maine by nightfall, with a 7 AM call with Mike, Martin and Davit on the calendar tomorrow."
     }
   ],
   "japanese": {
