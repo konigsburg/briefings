@@ -1,54 +1,64 @@
 {
   "date": "Monday, October 5, 2026",
   "generatedAt": "Morning brief · 7:26 AM ET",
-  "theme": "Florida to Maine — a travel day north.",
-  "greeting": "Good morning, Dan. A calm start, then you're northbound this afternoon; with the girls at Jen's, the week ahead is yours to shape.",
+  "theme": "A travel day — open morning, Maine by evening.",
+  "greeting": "The morning is clear before the midday flight to Portland, Dan. The girls are with Jen this stretch, so it's a quieter run north — the best desk time today is before noon.",
   "needsAttention": [
     {
-      "tag": "Window open",
-      "title": "Pathfinder drive south opens today",
-      "detail": "The Oct 5–18 window to drive the Pathfinder from Portland to St Pete starts today, and you land in Portland this afternoon. Set the dates and book the one hotel night so the two-day drive has a shape."
-    },
-    {
       "tag": "Awaiting reply",
-      "title": "ICGN Toronto panel call",
-      "detail": "Claudia at ICGN wants to schedule the Plenary 7 planning call for the stewardship-data panel you agreed to moderate, and she's waiting on your availability."
+      "title": "ICGN Toronto — send panel-call times and bio",
+      "detail": "Claudia at ICGN wrote this morning asking for your availability for an hour-long planning call in the weeks of Oct 19 and Oct 26, plus a bio and headshot for the site. You're moderating Plenary 7 in Toronto and nothing has gone back yet."
     },
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "The full-size SUV out of Portland for Christmas week is still unbooked and well past its date. Book it refundable now while there's inventory — holiday full-size rentals at PWM sell out."
+      "tag": "Prep for tomorrow",
+      "title": "Early call with the Valoris team",
+      "detail": "Mike Lubrano has you, Martin, and Davit on a 7 AM Teams call tomorrow. Worth deciding tonight what you want to open with so a pre-7:30 start isn't cold."
     },
     {
       "tag": "Window closing",
-      "title": "December break destinations",
-      "detail": "The Dec 13–Jan 2 trip for all four girls is past its Sept 30 decision date with an Oct 15 book-by deadline. Pick domestic or refundable-international and lock a shortlist."
+      "title": "Book the Maine Christmas SUV",
+      "detail": "A full-size SUV out of Portland over Christmas is the thinnest rental of the year, and it's flagged p1 to book this week. You're on the ground in Portland today — a refundable hold now removes the whole risk."
+    },
+    {
+      "tag": "Decide this week",
+      "title": "Lock the December destination",
+      "detail": "The December-break shortlist was due Sept 30 and the book-by date is Oct 15, ten days out. The call is domestic versus refundable-international, given the passports land in November."
     }
   ],
   "schedule": [
     {
       "time": "12:20 PM",
       "title": "Flight to Portland (MX 1004)",
-      "detail": "Tampa TPA to Portland, landing about 4:55 PM",
-      "tag": "travel"
+      "detail": "Tampa (TPA) to Portland, Maine; arrives 4:55 PM",
+      "tag": "Travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "ICGN Toronto moderating logistics",
-        "detail": "Planning-call scheduling for the panel you're moderating is open and waiting on your reply."
+        "title": "Two senior connection requests",
+        "detail": "LinkedIn invites from a KPMG chairman and a Deloitte senior managing director are waiting — worth a look given the board search."
+      },
+      {
+        "tag": "Job search",
+        "title": "JPMorgan private-bank ED role",
+        "detail": "A LinkedIn alert surfaced a Head of Next-Gen Strategy & Engagement opening; not a board seat, but squarely in your network."
+      },
+      {
+        "tag": "FYI",
+        "title": "Vinalhaven ferry cancellations",
+        "detail": "Maine 511 flagged the 7 and 8:45 AM Vinalhaven–Rockland runs cancelled today for an emergency run — after your flight, but note it if you're island-bound."
       }
     ],
-    "noise": "The rest is newsletters and promos — Foreign Affairs, Responsible Investor, a St Pete roundup, and a handful of shopping and streaming nudges.",
+    "noise": "The rest is newsletters and promos — Foreign Affairs, Responsible Investor, Bloomberg, and the usual language and retail digests.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Portland, Maine",
+    "location": "St Pete → Portland, ME",
     "confidence": "high",
     "asOf": "Monday Oct 5"
   },
@@ -59,15 +69,21 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Drive the Pathfinder down, Portland → St Pete",
+      "project": "Family · Travel",
+      "due": "Window Oct 5–18 (opens today)",
+      "overdue": false
+    },
+    {
+      "title": "Order Portland house items (bedframe, outdoor shower soap holder)",
       "project": "Household",
-      "due": "Overdue Sep 25",
+      "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "title": "Get 3 term-life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sep 30",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
@@ -84,16 +100,16 @@
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "The morning is open before your midday flight — the last still hours on Florida ground."
+      "time": "Until 12 PM",
+      "line": "An open stretch before you fly — the one clear window today for the ICGN reply and anything that needs a desk."
     },
     {
-      "time": "12:20 PM onward",
-      "line": "You're in the air to Portland from 12:20, landing in Maine by late afternoon."
+      "time": "12:20 – 4:55 PM",
+      "line": "Wheels up from Tampa to Portland; a travel block that little else will fit around."
     },
     {
-      "time": "Evening",
-      "line": "Maine by nightfall, with a 7 AM call with Mike, Martin and Davit on the calendar tomorrow."
+      "time": "Evening onward",
+      "line": "On the ground in Maine — settle in, and glance at tomorrow's 7 AM call before the night ends."
     }
   ],
   "japanese": {
