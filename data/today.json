@@ -1,58 +1,54 @@
 {
   "date": "Monday, October 5, 2026",
   "generatedAt": "Morning brief · 6:14 PM ET",
-  "theme": "A travel day north, with a few professional threads quietly pulling at you",
-  "greeting": "You're wheels-up to Portland this afternoon, Dan, with the girls settled in Florida — an open stretch of a day. The real tug is professional: a Toronto panel call to lock and two booking windows closing before they feel urgent.",
+  "theme": "A travel day north, then an early start.",
+  "greeting": "You're in Portland now, Dan, and the girls are with Jen this stretch, so the next two weeks are yours and Mike's. The day winds down with dinner out before an early call tomorrow.",
   "needsAttention": [
     {
-      "tag": "Awaiting reply",
-      "title": "Lock the ICGN Toronto panel call",
-      "detail": "Claudia at ICGN is scheduling the planning call for your Plenary 7 panel — Evolving Stewardship Data, Reporting and Impact — in Toronto and is waiting on your availability."
-    },
-    {
-      "tag": "Warm intro",
-      "title": "Reply to Pema's Sun Life intro",
-      "detail": "Pema connected you this morning with Marissa, who leads sustainability work at Sun Life; the intro is open and waiting on your reply."
-    },
-    {
-      "tag": "Window closing",
-      "title": "December break — book by Oct 15",
-      "detail": "The three-week holiday trip for all four girls still needs a destination decided and refundable bookings placed by Oct 15, when holiday inventory for six is thinnest."
+      "tag": "Book by Oct 15",
+      "title": "December trip decision is overdue",
+      "detail": "The December break with all four kids still needs a destination and a booking by Oct 15. Holiday inventory for six across three weeks is the thinnest of the year, so the window is real."
     },
     {
       "tag": "Book this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "With the Pathfinder heading south, there's no six-seater in Maine for Christmas — a refundable full-size SUV out of Portland sells out over the holidays, so hold one now."
+      "detail": "A full-size SUV out of Portland over Christmas week sells out early and prices climb. A refundable hold now costs nothing and closes the risk."
+    },
+    {
+      "tag": "Early start",
+      "title": "7 AM call with the Valoris team",
+      "detail": "Mike, Martin, and Davit are on a 7 AM Teams call tomorrow with no agenda circulated yet, so it is worth lining up your points tonight."
     }
   ],
   "schedule": [
     {
       "time": "12:20 PM",
       "title": "Flight to Portland",
-      "detail": "Tampa to Portland, MX 1004",
-      "tag": "travel"
+      "detail": "Tampa to PWM, MX 1004",
+      "tag": "Travel"
+    },
+    {
+      "time": "5:45 PM",
+      "title": "Dinner at Roma Cafe",
+      "detail": "Table for two",
+      "tag": "Dinner"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "GM & Director, Commercial Strategy alert",
-        "detail": "A LinkedIn alert surfaced a General Manager and Director, Commercial Strategy opening."
-      },
-      {
-        "tag": "Financial",
-        "title": "Amex October statement ready",
-        "detail": "Your October statement is posted with an important-notice flag to review."
+        "title": "NACD New England Oct 28 event",
+        "detail": "Larissa Ravetto asked the governance network to help promote the Maine Visionaries program; Josh Broder has already reached out to 25 more people."
       },
       {
         "tag": "FYI",
-        "title": "NACD New England — Maine Visionaries Oct 28",
-        "detail": "Larissa asked the group to share and invite their networks; Josh has already pulled in 25 more."
+        "title": "Briefings page build failed",
+        "detail": "GitHub reported a failed Pages deploy on the main branch of your briefings repo."
       }
     ],
-    "noise": "The rest is newsletters, promos, a Substack follow, an Evite, and St. Pete listing alerts.",
-    "clear": "Drew's LinkedIn intro is handled — you already said you'd reach out today."
+    "noise": "The rest is newsletters and receipts: Alison Roman, NPR, an Uber summary, and the Roma Cafe confirmation.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -69,41 +65,41 @@
   },
   "tasks": [
     {
+      "title": "Drive the Pathfinder south, Portland to St Pete",
+      "project": "Mike + Dan Board",
+      "due": "Window Oct 5-18",
+      "overdue": false
+    },
+    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Household",
+      "title": "Portland house order: bedframe + soap holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
       "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder down — Portland to St Pete",
-      "project": "Travel",
-      "due": "Window Oct 5–18",
-      "overdue": false
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet start in St. Pete before the airport — bags packed, then out the door."
+      "line": "A quiet stretch in St Pete before heading to the airport."
     },
     {
-      "time": "12:20 – 4:55 PM",
-      "line": "A midday flight from Tampa to Portland is the one fixed point on an otherwise open day."
+      "time": "Afternoon",
+      "line": "Wheels up at 12:20, Tampa to Portland, landing late in the day."
     },
     {
-      "time": "Evening onward",
-      "line": "Settle into Maine, with an early 7 AM Valoris call with Mike, Martin and Davit waiting tomorrow."
+      "time": "Evening",
+      "line": "Dinner at Roma Cafe, then an early night ahead of the 7 AM call."
     }
   ],
   "japanese": {
