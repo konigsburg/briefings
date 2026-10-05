@@ -1,23 +1,28 @@
 {
   "date": "Monday, October 5, 2026",
   "generatedAt": "Morning brief · 4:15 PM ET",
-  "theme": "A travel day north.",
-  "greeting": "Morning, Dan — a light one. A quiet Florida morning, then the midday flight to Portland, and Maine by evening. The girls are with Jen this week, so the stretch ahead is yours.",
+  "theme": "A travel day north, with a few professional threads quietly pulling at you",
+  "greeting": "You're wheels-up to Portland this afternoon, Dan, with the girls settled in Florida — an open stretch of a day. The real tug is professional: a Toronto panel call to lock and two booking windows closing before they feel urgent.",
   "needsAttention": [
     {
-      "tag": "Window opens today",
-      "title": "Pathfinder drive south",
-      "detail": "The Oct 5-18 window to drive the Pathfinder Portland to St Pete opens today, the off-week gap before the next girl-week. Two drivers, ~1,450 miles, one hotel night to book once dates are set."
+      "tag": "Awaiting reply",
+      "title": "Lock the ICGN Toronto panel call",
+      "detail": "Claudia at ICGN is scheduling the planning call for your Plenary 7 panel — Evolving Stewardship Data, Reporting and Impact — in Toronto and is waiting on your availability."
     },
     {
-      "tag": "Overdue p1",
-      "title": "Book Maine Christmas SUV",
-      "detail": "A full-size SUV out of PWM over Christmas week sells out early. Hold a refundable one now and adjust dates later; it's flagged p1 and weeks overdue."
+      "tag": "Warm intro",
+      "title": "Reply to Pema's Sun Life intro",
+      "detail": "Pema connected you this morning with Marissa, who leads sustainability work at Sun Life; the intro is open and waiting on your reply."
     },
     {
-      "tag": "Books by Oct 15",
-      "title": "December break destinations",
-      "detail": "The shortlist decision was due Sept 30 and booking closes Oct 15. Passports won't be in hand by then, so default to a domestic list unless you go refundable."
+      "tag": "Window closing",
+      "title": "December break — book by Oct 15",
+      "detail": "The three-week holiday trip for all four girls still needs a destination decided and refundable bookings placed by Oct 15, when holiday inventory for six is thinnest."
+    },
+    {
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "With the Pathfinder heading south, there's no six-seater in Maine for Christmas — a refundable full-size SUV out of Portland sells out over the holidays, so hold one now."
     }
   ],
   "schedule": [
@@ -32,17 +37,22 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "NACD Maine event push",
-        "detail": "NACD New England asked members to share the Oct 28 Maine Visionaries event; Josh Broder has already reached 25 contacts. A group ask, not awaiting your reply, but on-point for the board search."
+        "title": "GM & Director, Commercial Strategy alert",
+        "detail": "A LinkedIn alert surfaced a General Manager and Director, Commercial Strategy opening."
+      },
+      {
+        "tag": "Financial",
+        "title": "Amex October statement ready",
+        "detail": "Your October statement is posted with an important-notice flag to review."
       },
       {
         "tag": "FYI",
-        "title": "RSVP for Lauren Misrahi",
-        "detail": "An Evite invitation is still sitting unanswered."
+        "title": "NACD New England — Maine Visionaries Oct 28",
+        "detail": "Larissa asked the group to share and invite their networks; Josh has already pulled in 25 more."
       }
     ],
-    "noise": "A LinkedIn weekly-stats email and a Substack follow notice.",
-    "clear": ""
+    "noise": "The rest is newsletters, promos, a Substack follow, an Evite, and St. Pete listing alerts.",
+    "clear": "Drew's LinkedIn intro is handled — you already said you'd reach out today."
   },
   "resolved": [],
   "context": {
@@ -65,16 +75,16 @@
       "overdue": true
     },
     {
-      "title": "Portland house order - bedframe + soap holder",
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Reschedule passport appt for the 4 kids",
+      "title": "Drive the Pathfinder down — Portland to St Pete",
       "project": "Travel",
-      "due": "Overdue Sep 21",
-      "overdue": true
+      "due": "Window Oct 5–18",
+      "overdue": false
     }
   ],
   "routines": {
@@ -84,16 +94,16 @@
   },
   "acts": [
     {
-      "time": "Until 12:20 PM",
-      "line": "A quiet Florida morning before the airport, with the girls at Jen's this week."
+      "time": "Morning",
+      "line": "A quiet start in St. Pete before the airport — bags packed, then out the door."
     },
     {
-      "time": "12:20 - 4:55 PM",
-      "line": "Tampa to Portland on MX 1004, nearly five hours in the air to land back in Maine."
+      "time": "12:20 – 4:55 PM",
+      "line": "A midday flight from Tampa to Portland is the one fixed point on an otherwise open day."
     },
     {
-      "time": "After 4:55 PM",
-      "line": "Maine by evening, with an early 7 AM Valoris call tomorrow to be rested for."
+      "time": "Evening onward",
+      "line": "Settle into Maine, with an early 7 AM Valoris call with Mike, Martin and Davit waiting tomorrow."
     }
   ],
   "japanese": {
