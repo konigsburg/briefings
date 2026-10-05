@@ -1,52 +1,42 @@
 {
   "date": "Sunday, October 4, 2026",
   "generatedAt": "Morning brief · 8:15 PM ET",
-  "theme": "Last Florida day before the flight north.",
-  "greeting": "A quiet Sunday in St. Pete, Dan — the morning review is long done and the afternoon stayed clear. The girls head back to Jen's this evening, and you're on the 12:20 to Portland tomorrow, so tonight leans toward check-in and a packed bag.",
+  "theme": "A quiet Sunday, Maine on tomorrow's horizon.",
+  "greeting": "A still Sunday in St. Pete, Dan — the girls are with Jen and the day is clear. Tomorrow you're on a midday flight north to bring the Pathfinder south.",
   "needsAttention": [
     {
-      "tag": "Tomorrow prep",
-      "title": "Portland flight at 12:20",
-      "detail": "Breeze MX1004 out of Tampa tomorrow afternoon. The check-in email is already in your inbox — check in tonight and set the bag out so the morning doesn't get away from you."
+      "tag": "Prep · travel",
+      "title": "Portland flight leaves midday tomorrow",
+      "detail": "You're on MX 1004 out of TPA at 12:20 PM Monday — the trip to drive the Pathfinder back south. Pack tonight and lock the ride to the airport."
     },
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV",
-      "detail": "The p1 Todoist task is well overdue. A full-size SUV out of Portland over Christmas week is the tightest rental in that market and it sells out. Book refundable now; dates can flex later."
+      "title": "Hold a Christmas SUV in Portland",
+      "detail": "The full-size Portland rental for Christmas week is a p1 that was due Sep 14. A refundable hold now beats thin holiday inventory and nothing is lost if dates shift."
     },
     {
-      "tag": "Window closing",
-      "title": "December break destinations",
-      "detail": "The decision was due Sept 30 and the book-by date is Oct 15. Pick the domestic default or refundable-international only, then lock the shortlist of three."
+      "tag": "Decision due",
+      "title": "Lock the December-break destination",
+      "detail": "The shortlist was due Sep 30 and books by Oct 15; with passports landing in November, pick domestic or refundable-international and commit before the booking window tightens."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
-      "title": "Sunday review — Mike + Dan",
-      "detail": "Weekly 15-min board sweep",
-      "tag": "review"
+      "title": "Sunday review with Mike",
+      "detail": "15-min board sweep over Meet",
+      "tag": "meeting"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Drew's LinkedIn intro",
-        "detail": "Drew wrote this evening about someone whose profile she thinks you should see — worth a reply while it's fresh."
-      },
-      {
-        "tag": "Financial",
-        "title": "Amex + Experian statements",
-        "detail": "Your October Amex statement and Experian monthly statement both posted over the weekend."
-      },
-      {
-        "tag": "Security",
-        "title": "Disney+ passcode",
-        "detail": "A one-time Disney+ passcode arrived — only matters if you asked for it."
+        "title": "Warm headhunter intro from Andrew",
+        "detail": "Andrew flagged a Montreal recruiter working in your board-and-governance ecosystem and confirmed it's fine to reach out — a senior-search contact worth a note."
       }
     ],
-    "noise": "The rest is newsletters and promos — St. Pete Local, NYT Cooking, travel deals, the Maine Milkman invoice.",
+    "noise": "Otherwise it's newsletters and retail — NYPL events, Bloomberg, Dwell, Faherty, a scatter of sale blasts.",
     "clear": ""
   },
   "resolved": [],
@@ -64,47 +54,35 @@
   },
   "tasks": [
     {
-      "title": "Term life quotes for Mike",
-      "project": "Dan & Mike",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Pathfinder drive south — Oct 5–18 window",
-      "project": "Dan & Mike",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + soap holder",
-      "project": "Dan & Mike",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
-    "evening": "0/4"
+    "day": "0/4",
+    "evening": "0/0"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The 9 AM Sunday review with Mike was the only thing on the books — a 15-minute sweep, then the day opened up."
+      "line": "The 15-minute Sunday review with Mike set the board before 9:15."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled — the last clear St. Pete afternoon before heading north."
+      "line": "Open and unscheduled — your last full day in St. Pete before Maine."
     },
     {
       "time": "Evening",
-      "line": "Handoff to Jen's around six, and tomorrow's flight makes tonight about check-in and packing."
+      "line": "A quiet night to pack; the Portland flight goes midday tomorrow."
     }
   ],
   "japanese": {
