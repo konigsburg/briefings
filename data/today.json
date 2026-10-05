@@ -1,64 +1,64 @@
 {
   "date": "Monday, October 5, 2026",
   "generatedAt": "Morning brief · 10:24 AM ET",
-  "theme": "A travel day — open morning, Maine by evening.",
-  "greeting": "The morning is clear before the midday flight to Portland, Dan. The girls are with Jen this stretch, so it's a quieter run north — the best desk time today is before noon.",
+  "theme": "A travel day north, kids in Florida.",
+  "greeting": "The morning's yours before you fly to Portland this afternoon, Dan. The girls are with Jen, so Maine is the backdrop from tonight.",
   "needsAttention": [
     {
-      "tag": "Awaiting reply",
-      "title": "ICGN Toronto — send panel-call times and bio",
-      "detail": "Claudia at ICGN wrote this morning asking for your availability for an hour-long planning call in the weeks of Oct 19 and Oct 26, plus a bio and headshot for the site. You're moderating Plenary 7 in Toronto and nothing has gone back yet."
+      "tag": "Toronto panel",
+      "title": "Send ICGN your times and bio",
+      "detail": "Claudia at ICGN is scheduling the Plenary 7 planning call for the panel you're moderating and needs a range of your availability across the weeks of Oct 19 and 26, plus a short bio and headshot for the site and agenda."
     },
     {
-      "tag": "Prep for tomorrow",
-      "title": "Early call with the Valoris team",
-      "detail": "Mike Lubrano has you, Martin, and Davit on a 7 AM Teams call tomorrow. Worth deciding tonight what you want to open with so a pre-7:30 start isn't cold."
-    },
-    {
-      "tag": "Window closing",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland over Christmas is the thinnest rental of the year, and it's flagged p1 to book this week. You're on the ground in Portland today — a refundable hold now removes the whole risk."
-    },
-    {
-      "tag": "Decide this week",
+      "tag": "December trip",
       "title": "Lock the December destination",
-      "detail": "The December-break shortlist was due Sept 30 and the book-by date is Oct 15, ten days out. The call is domestic versus refundable-international, given the passports land in November."
+      "detail": "Your own Sept 30 decision date has slipped and the book-by is Oct 15 — pick either a domestic shortlist or refundable international for the three weeks with all four girls before holiday inventory thins."
+    },
+    {
+      "tag": "Christmas car",
+      "title": "Book the Portland holiday SUV",
+      "detail": "The Pathfinder heads south this month, so Christmas week in Maine has no six-seater; a refundable full-size SUV out of PWM over the holidays sells out early, which is why this one bites."
+    },
+    {
+      "tag": "Car south",
+      "title": "Pathfinder drive window opens today",
+      "detail": "The Oct 5–18 gap to drive the Pathfinder from Portland down to St Pete starts now — the one hotel night can be booked once you and Mike set the two travel days."
     }
   ],
   "schedule": [
     {
       "time": "12:20 PM",
-      "title": "Flight to Portland (MX 1004)",
-      "detail": "Tampa (TPA) to Portland, Maine; arrives 4:55 PM",
-      "tag": "Travel"
+      "title": "Flight to Portland",
+      "detail": "Tampa (TPA) to Portland, landing around 4:55 PM",
+      "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two senior connection requests",
-        "detail": "LinkedIn invites from a KPMG chairman and a Deloitte senior managing director are waiting — worth a look given the board search."
+        "title": "Warm intro to a Montreal recruiter",
+        "detail": "Andrew flagged a board-focused headhunter in Montreal he thinks you should reach out to."
       },
       {
-        "tag": "Job search",
-        "title": "JPMorgan private-bank ED role",
-        "detail": "A LinkedIn alert surfaced a Head of Next-Gen Strategy & Engagement opening; not a board seat, but squarely in your network."
+        "tag": "Financial",
+        "title": "Amex October statement is ready",
+        "detail": "Your October statement posted with a note to review important notices."
       },
       {
         "tag": "FYI",
-        "title": "Vinalhaven ferry cancellations",
-        "detail": "Maine 511 flagged the 7 and 8:45 AM Vinalhaven–Rockland runs cancelled today for an emergency run — after your flight, but note it if you're island-bound."
+        "title": "DIRA/DIBA materials for the Oct 25 meeting",
+        "detail": "David Wetherbee sent the packet ahead of the Oct 25 session in Maine."
       }
     ],
-    "noise": "The rest is newsletters and promos — Foreign Affairs, Responsible Investor, Bloomberg, and the usual language and retail digests.",
-    "clear": ""
+    "noise": "The rest is newsletters, promotions, and job-alert digests.",
+    "clear": "Nothing else is waiting on your reply this morning."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St Pete → Portland, ME",
+    "location": "Portland, Maine",
     "confidence": "high",
     "asOf": "Monday Oct 5"
   },
@@ -69,47 +69,35 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder down, Portland → St Pete",
-      "project": "Family · Travel",
-      "due": "Window Oct 5–18 (opens today)",
-      "overdue": false
-    },
-    {
-      "title": "Order Portland house items (bedframe, outdoor shower soap holder)",
-      "project": "Household",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Work",
-      "due": "Overdue Aug 15",
+      "title": "Place the Portland house order — bedframe + shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "Until 12 PM",
-      "line": "An open stretch before you fly — the one clear window today for the ICGN reply and anything that needs a desk."
+      "time": "Morning",
+      "line": "A quiet morning at home before the airport — the last clear stretch of the day."
     },
     {
-      "time": "12:20 – 4:55 PM",
-      "line": "Wheels up from Tampa to Portland; a travel block that little else will fit around."
+      "time": "12:20–4:55 PM",
+      "line": "Most of the afternoon disappears into the flight up to Portland."
     },
     {
-      "time": "Evening onward",
-      "line": "On the ground in Maine — settle in, and glance at tomorrow's 7 AM call before the night ends."
+      "time": "Evening",
+      "line": "You land into Maine, with a 7 AM call with Mike's team sitting on the far side of the night."
     }
   ],
   "japanese": {
