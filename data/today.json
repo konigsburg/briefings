@@ -1,47 +1,47 @@
 {
   "date": "Monday, October 5, 2026",
   "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "A travel day — Tampa to Maine.",
-  "greeting": "You fly out of Tampa at midday and land in Portland this afternoon, Dan. It's quiet otherwise — good room to clear a couple of overdue bookings before the early call tomorrow.",
+  "theme": "A travel day north.",
+  "greeting": "Morning, Dan — a light one. A quiet Florida morning, then the midday flight to Portland, and Maine by evening. The girls are with Jen this week, so the stretch ahead is yours.",
   "needsAttention": [
-    {
-      "tag": "Book this week",
-      "title": "Hold the Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland over Christmas sells out early; your p1 task on the Mike + Dan board calls for a refundable hold now, and it's been open since mid-September. The Pathfinder heads south this month, so it's the only six-seater for the girls' Maine Christmas."
-    },
-    {
-      "tag": "Window closing",
-      "title": "Lock the December trip",
-      "detail": "The Dec 13–Jan 2 trip with all four girls needs a destination decided and booked by Oct 15 — the decision itself was due Sept 30. Routine passports land in November, so the note on the task leans domestic unless you go refundable."
-    },
     {
       "tag": "Window opens today",
       "title": "Pathfinder drive south",
-      "detail": "The Oct 5–18 window to drive the Pathfinder from Portland down to St Pete opens today, and you land in Portland this afternoon. Open question on the task is where the car sits the weeks you're not in Florida."
+      "detail": "The Oct 5-18 window to drive the Pathfinder Portland to St Pete opens today, the off-week gap before the next girl-week. Two drivers, ~1,450 miles, one hotel night to book once dates are set."
+    },
+    {
+      "tag": "Overdue p1",
+      "title": "Book Maine Christmas SUV",
+      "detail": "A full-size SUV out of PWM over Christmas week sells out early. Hold a refundable one now and adjust dates later; it's flagged p1 and weeks overdue."
+    },
+    {
+      "tag": "Books by Oct 15",
+      "title": "December break destinations",
+      "detail": "The shortlist decision was due Sept 30 and booking closes Oct 15. Passports won't be in hand by then, so default to a domestic list unless you go refundable."
     }
   ],
   "schedule": [
     {
       "time": "12:20 PM",
       "title": "Flight to Portland",
-      "detail": "MX 1004 out of Tampa TPA, lands around 4:55 PM.",
+      "detail": "Tampa to Portland, MX 1004",
       "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "Apple reports a new sign-in",
-        "detail": "An email to dan@konigsburg.com says a new device signed into your Apple account and threatens AppleCare One coverage — worth confirming it's genuine before clicking anything."
+        "tag": "Job search",
+        "title": "NACD Maine event push",
+        "detail": "NACD New England asked members to share the Oct 28 Maine Visionaries event; Josh Broder has already reached 25 contacts. A group ask, not awaiting your reply, but on-point for the board search."
       },
       {
-        "tag": "Job search",
-        "title": "NACD Maine Visionaries push",
-        "detail": "On the NACD New England thread, the group's asked to share the Oct 28 event with their networks; Josh Broder notes he's reached out to 25 more people."
+        "tag": "FYI",
+        "title": "RSVP for Lauren Misrahi",
+        "detail": "An Evite invitation is still sitting unanswered."
       }
     ],
-    "noise": "A Wildgrain reorder notice, a Google Play receipt, a Substack follow, and an Evite round out the unread inbox.",
+    "noise": "A LinkedIn weekly-stats email and a Substack follow notice.",
     "clear": ""
   },
   "resolved": [],
@@ -60,20 +60,20 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order - bedframe + soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Reschedule passport appt for the 4 kids",
+      "project": "Travel",
+      "due": "Overdue Sep 21",
       "overdue": true
     }
   ],
@@ -84,16 +84,16 @@
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "The morning is yours before the 12:20 flight out of Tampa — a clear stretch to clear a booking or two."
+      "time": "Until 12:20 PM",
+      "line": "A quiet Florida morning before the airport, with the girls at Jen's this week."
     },
     {
-      "time": "Afternoon",
-      "line": "You're in the air on MX 1004, landing in Portland late afternoon."
+      "time": "12:20 - 4:55 PM",
+      "line": "Tampa to Portland on MX 1004, nearly five hours in the air to land back in Maine."
     },
     {
-      "time": "Evening",
-      "line": "Maine tonight, with an early 7 AM Teams call with the Valoris team first thing tomorrow."
+      "time": "After 4:55 PM",
+      "line": "Maine by evening, with an early 7 AM Valoris call tomorrow to be rested for."
     }
   ],
   "japanese": {
