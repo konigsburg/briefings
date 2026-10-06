@@ -1,59 +1,64 @@
 {
   "date": "Tuesday, October 6, 2026",
   "generatedAt": "Morning brief · 6:14 PM ET",
-  "theme": "A clear day whose real work is what's owed, not what's booked.",
-  "greeting": "Morning, Dan — one early call aside, the calendar is yours. The shape of today comes from two things quietly due rather than anything on the schedule.",
+  "theme": "An open day, two bookings quietly due.",
+  "greeting": "A wide-open day, Dan, with the girls in Florida this stretch. Two travel decisions have been waiting for exactly this kind of clear afternoon — and the Oct 15 window is starting to close on both.",
   "needsAttention": [
     {
-      "tag": "Reply owed today",
-      "title": "ICGN Toronto panel logistics",
-      "detail": "You told Claudia Rossetti you'd send the planning-call details for the Plenary 7 stewardship panel you're moderating 'later today' — the thread is still waiting on you."
+      "tag": "Window closing",
+      "title": "Decide the December break",
+      "detail": "Book-by is Oct 15 and holiday inventory for six over three weeks is the thinnest of the year. Pick domestic vs. international, then name the three."
     },
     {
-      "tag": "Booking window",
-      "title": "December break — decide and book",
-      "detail": "The shortlist was due Sept 30 and the Oct 15 book-by for six people over three holiday weeks is the thinnest inventory of the year. With passports now landing in November, a domestic shortlist is the safe default."
-    },
-    {
-      "tag": "Books this week",
+      "tag": "Book this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out; a refundable booking held now costs nothing and closes the risk."
+      "detail": "A full-size SUV out of Portland over Christmas sells out early. A refundable PWM booking now takes the whole risk off the table."
+    },
+    {
+      "tag": "Awaiting signature",
+      "title": "St Pete Beach documents to sign",
+      "detail": "Brandon Tecklenburg sent a signing ceremony for 102 26th Ave through Sabalsign — it's sitting in your inbox waiting on you."
+    },
+    {
+      "tag": "Reply owed",
+      "title": "Intro to Sun Life's sustainability lead",
+      "detail": "Pema connected you with Marissa Glassbrook, who leads sustainability work at Sun Life. The thread is warm and waiting on your reply."
     }
   ],
   "schedule": [
     {
       "time": "7:00 AM",
-      "title": "Valoris team call",
-      "detail": "Teams, with Mike, Martin and Davit",
-      "tag": "work"
+      "title": "Valoris call — Mike, Martin, Davit",
+      "detail": "Stewardship team sync over Teams",
+      "tag": "meeting"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Intro to Marissa Glassbrook at Sun Life",
-        "detail": "Pema Lhalungpa connected you two on sustainability yesterday; her note is sitting unanswered."
+        "tag": "FYI",
+        "title": "Mike sent the doc from this morning",
+        "detail": "\"As discussed\" landed after your 7 AM call, with an attachment to review."
       },
       {
-        "tag": "Financial",
-        "title": "St Pete Beach signing ceremony",
-        "detail": "A SabalSign invitation to sign documents for 102 26th Ave arrived this afternoon — worth opening to see what's due and by when."
+        "tag": "Job search",
+        "title": "State Street MD role surfaced",
+        "detail": "LinkedIn flagged Head of Markets Client Intelligence, Managing Director — you have 3 connections there."
       },
       {
         "tag": "FYI",
-        "title": "Mike's 'As discussed' file",
-        "detail": "Came through midday with an attachment, following this morning's call."
+        "title": "Tampa Gardens paperwork",
+        "detail": "A reminder to return the outstanding form ahead of the Oct 16 clinic."
       }
     ],
-    "noise": "The NACDNE Maine event marketing thread and a couple of list emails can wait.",
+    "noise": "The rest is NACD event-marketing chatter and automated alerts.",
     "clear": ""
   },
   "resolved": [
     {
-      "tag": "Nothing owed",
-      "title": "Kevin McGovern — Maine meetup",
-      "detail": "You traded notes on the NACDNE summit and agreed to connect when he's next in Maine; the thread's at rest."
+      "tag": "Settled",
+      "title": "Maine meetup with Kevin McGovern",
+      "detail": "You traded replies today and left it that he'll reach out when he's next up in Maine."
     }
   ],
   "context": {
@@ -70,47 +75,53 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "title": "Decide the December break — shortlist three",
+      "project": "Travel",
+      "due": "Decide by Oct 15",
+      "overdue": true
+    },
+    {
+      "title": "Book a refundable Christmas SUV out of Portland",
+      "project": "Travel",
+      "due": "Overdue Sep 14",
+      "overdue": true
+    },
+    {
+      "title": "Line up the Portland → St Pete Pathfinder drive",
+      "project": "Travel",
+      "due": "Window Oct 5–18",
+      "overdue": false
+    },
+    {
+      "title": "Get three term-life quotes for Mike",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder south (Portland → St Pete)",
-      "project": "Mike + Dan Board",
-      "due": "Oct 5–18 window",
-      "overdue": false
-    },
-    {
       "title": "Place the Portland house order",
-      "project": "Mike + Dan Board",
+      "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "7/10",
-    "day": "1/3",
+    "morning": "0/3",
+    "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A single fixed point — the 7 o'clock Teams call with the Valoris team — and nothing else held the hour."
+      "line": "An early Teams call with Mike, Martin and Davit opened the day; nothing else was booked."
     },
     {
       "time": "Afternoon",
-      "line": "The calendar runs clear, which leaves the ICGN reply and the December decision as the afternoon's actual work."
+      "line": "Wide open — the clear stretch where the December-break call and the Christmas rental can finally land."
     },
     {
       "time": "Evening",
-      "line": "Open and unscheduled, with the girls at Jen's this week."
+      "line": "Yours alone, girls in Florida this fortnight — a quiet one to cook into."
     }
   ],
   "japanese": {
