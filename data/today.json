@@ -1,62 +1,61 @@
 {
   "date": "Tuesday, October 6, 2026",
-  "generatedAt": "Morning brief · 6:14 AM ET",
-  "theme": "A travel day into the Maine off-week.",
-  "greeting": "A travel day, Dan — Tampa to Portland by late afternoon, and the quiet off-week in Maine opens up on the far side of the flight.",
+  "generatedAt": "Morning brief · 6:16 AM ET",
+  "theme": "An early call, then an open day.",
+  "greeting": "Good morning, Dan. After the 7 o'clock call with Mike's team the day runs wide open — a rare clear stretch, with the girls in Florida this week.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Lock the Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland over Christmas week is the rental most likely to sell out, and a refundable hold costs nothing to place now. You're in Portland today, and this one's been open since mid-September."
+      "tag": "Reply owed",
+      "title": "ICGN wants to set the Toronto planning call",
+      "detail": "Claudia at ICGN is scheduling the Plenary 7 stewardship-data planning call and is waiting on your availability — you're moderating that session, so it stalls until you reply."
     },
     {
-      "tag": "Window open",
-      "title": "The Pathfinder drive south is live",
-      "detail": "The Oct 5–18 off-week is the window to drive the Pathfinder from Portland down to St Pete — it opens today, and it swaps in for a flight rather than adding a trip."
+      "tag": "Warm intro",
+      "title": "Intro to Sun Life's sustainability lead",
+      "detail": "Pema connected you with Marissa Glassbrook, who runs sustainability initiatives at Sun Life; the intro has sat since yesterday and a quick reply keeps it warm."
     },
     {
-      "tag": "Book by Oct 15",
-      "title": "December break is still undecided",
-      "detail": "The three-week December destination for all four girls needs a shortlist and a call — the book-by date is Oct 15, and holiday inventory for six over three weeks is the thinnest of the year."
-    },
-    {
-      "tag": "Early start",
-      "title": "7 AM Valoris call tomorrow",
-      "detail": "The first thing tomorrow is a 7:00 AM Teams call Mike is running with Martin and Davit — an early start waiting on the other side of tonight."
+      "tag": "Window closing",
+      "title": "December trip — book by Oct 15",
+      "detail": "The all-kids December break still needs a destination locked; holiday inventory for six is thinnest now and the book-by date is nine days out."
     }
   ],
   "schedule": [
     {
-      "time": "12:20 PM",
-      "title": "Flight to Portland",
-      "detail": "MX 1004 out of Tampa (TPA), in by 4:55",
-      "tag": "Travel"
-    },
-    {
-      "time": "5:45 PM",
-      "title": "Dinner at Roma Café",
-      "detail": "Table held for the evening",
-      "tag": "Dinner"
+      "time": "7:00 AM",
+      "title": "Call with Mike, Martin & Davit",
+      "detail": "Valoris, 2 hrs, Teams",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Security",
+        "title": "Apple sign-in notice on your iPhone",
+        "detail": "Apple flags a new account sign-in on the 17e and asks you to re-sign to keep AppleCare coverage — worth a look to confirm it was you."
+      },
+      {
+        "tag": "Financial",
+        "title": "Amex October statement is ready",
+        "detail": "Your October statement posted with a note about important changes."
+      },
+      {
         "tag": "Job search",
-        "title": "NACD New England board event in Maine",
-        "detail": "The Oct 28 Maine Visionaries program is asking members to help spread the word — a governance-network room worth being in while you're up here."
+        "title": "NACD Maine Visionaries, Oct 28",
+        "detail": "NACD New England asked the group to help spread word of the Oct 28 event; Josh Broder has already pitched in, so it's a share-if-you-can, not a must."
       }
     ],
-    "noise": "The rest is promotions — Mattress Firm, a LinkedIn Learning nudge, Nextdoor, and a Substack follow.",
-    "clear": "Nothing in the inbox is waiting on a direct reply from you."
+    "noise": "The rest is newsletters, receipts, a listing alert, and an Evite RSVP.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Portland, Maine",
-    "confidence": "high",
-    "asOf": "Monday Oct 5"
+    "location": "Maine",
+    "confidence": "low",
+    "asOf": "Tuesday Oct 6"
   },
   "recipe": {
     "title": "Roast Monkfish",
@@ -66,40 +65,46 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Order the Portland bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 30",
+      "title": "Book refundable Maine Christmas SUV (PWM)",
+      "project": "Travel",
+      "due": "Overdue Sep 14",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Drive the Pathfinder down, Portland to St Pete",
+      "project": "Travel",
+      "due": "Oct 5-18 window",
+      "overdue": false
+    },
+    {
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/3",
+    "morning": "0/9",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "The morning sits open in Tampa ahead of the midday flight north."
+      "time": "7 – 9 AM",
+      "line": "The day starts before dawn with a two-hour Teams call alongside Mike, Martin and Davit."
     },
     {
-      "time": "Afternoon",
-      "line": "A 12:20 flight lifts out of Tampa and sets you down in Portland by late afternoon."
+      "time": "9 AM onward",
+      "line": "Nothing else is on the calendar — the whole stretch after nine is yours to steer."
     },
     {
       "time": "Evening",
-      "line": "Dinner at Roma Café closes the travel day, with a 7 AM Valoris call first thing tomorrow."
+      "line": "A quiet night with the girls down in Florida this week."
     }
   ],
   "japanese": {
