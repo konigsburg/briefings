@@ -1,50 +1,61 @@
 {
   "date": "Tuesday, October 6, 2026",
   "generatedAt": "Morning brief · 4:15 PM ET",
-  "theme": "An open day, the morning's one call already behind you.",
-  "greeting": "Morning, Dan. The Valoris call at 7 was the day's only fixture; everything after it is open water.",
+  "theme": "A clear day whose real work is what's owed, not what's booked.",
+  "greeting": "Morning, Dan — one early call aside, the calendar is yours. The shape of today comes from two things quietly due rather than anything on the schedule.",
   "needsAttention": [
     {
-      "tag": "Window closing",
-      "title": "December trip book-by is Oct 15",
-      "detail": "The all-kids Dec 13 to Jan 2 break was set to be decided by Sept 30; holiday inventory for six runs thin and the Oct 15 book-by is nine days out."
+      "tag": "Reply owed today",
+      "title": "ICGN Toronto panel logistics",
+      "detail": "You told Claudia Rossetti you'd send the planning-call details for the Plenary 7 stewardship panel you're moderating 'later today' — the thread is still waiting on you."
     },
     {
-      "tag": "Sells out",
+      "tag": "Booking window",
+      "title": "December break — decide and book",
+      "detail": "The shortlist was due Sept 30 and the Oct 15 book-by for six people over three holiday weeks is the thinnest inventory of the year. With passports now landing in November, a domestic shortlist is the safe default."
+    },
+    {
+      "tag": "Books this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week is the thinnest rental in that market; the p1 task has been open since mid-September and a refundable hold costs nothing."
-    },
-    {
-      "tag": "Live window",
-      "title": "Pathfinder drive south",
-      "detail": "The Oct 5 to 18 off-week is the window to drive the Pathfinder Portland to St Pete, and today sits inside it; the hotel night still needs booking once dates are set."
-    },
-    {
-      "tag": "To sign",
-      "title": "St Pete Beach signing request",
-      "detail": "A SabalSign request landed this morning to sign documents for a St Pete Beach property; worth opening to see what is time-bound."
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out; a refundable booking held now costs nothing and closes the risk."
     }
   ],
   "schedule": [
     {
       "time": "7:00 AM",
-      "title": "Valoris call with Mike, Martin, Davit",
-      "detail": "Teams meeting, two hours, now done",
-      "tag": "meeting"
+      "title": "Valoris team call",
+      "detail": "Teams, with Mike, Martin and Davit",
+      "tag": "work"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "NACD New England board event",
-        "detail": "Group thread on marketing the Oct 28 Maine Visionaries program; Josh Broder noted he reached out to 25 more contacts. Nothing owed from you."
+        "title": "Intro to Marissa Glassbrook at Sun Life",
+        "detail": "Pema Lhalungpa connected you two on sustainability yesterday; her note is sitting unanswered."
+      },
+      {
+        "tag": "Financial",
+        "title": "St Pete Beach signing ceremony",
+        "detail": "A SabalSign invitation to sign documents for 102 26th Ave arrived this afternoon — worth opening to see what's due and by when."
+      },
+      {
+        "tag": "FYI",
+        "title": "Mike's 'As discussed' file",
+        "detail": "Came through midday with an attachment, following this morning's call."
       }
     ],
-    "noise": "The rest is newsletters and promos, a markets digest, Yale Alumni, LinkedIn, The Company Store, Enterprise.",
+    "noise": "The NACDNE Maine event marketing thread and a couple of list emails can wait.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Nothing owed",
+      "title": "Kevin McGovern — Maine meetup",
+      "detail": "You traded notes on the NACDNE summit and agreed to connect when he's next in Maine; the thread's at rest."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -65,7 +76,13 @@
       "overdue": true
     },
     {
-      "title": "Portland house order, bedframe + outdoor shower soap holder",
+      "title": "Drive the Pathfinder south (Portland → St Pete)",
+      "project": "Mike + Dan Board",
+      "due": "Oct 5–18 window",
+      "overdue": false
+    },
+    {
+      "title": "Place the Portland house order",
       "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
       "overdue": true
@@ -78,22 +95,22 @@
     }
   ],
   "routines": {
-    "morning": "0/3",
-    "day": "0/5",
+    "morning": "7/10",
+    "day": "1/3",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "7 - 9 AM",
-      "line": "The day opened on the Valoris call with Mike, Martin, and Davit; it is behind you now."
+      "time": "Morning",
+      "line": "A single fixed point — the 7 o'clock Teams call with the Valoris team — and nothing else held the hour."
     },
     {
-      "time": "9 AM onward",
-      "line": "Nothing else is on the calendar, so the whole stretch past the morning call is unclaimed."
+      "time": "Afternoon",
+      "line": "The calendar runs clear, which leaves the ICGN reply and the December decision as the afternoon's actual work."
     },
     {
       "time": "Evening",
-      "line": "A clear evening, with the girls at Jen's through mid-month."
+      "line": "Open and unscheduled, with the girls at Jen's this week."
     }
   ],
   "japanese": {
