@@ -1,43 +1,48 @@
 {
   "date": "Tuesday, October 6, 2026",
   "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "An open day behind one early call.",
-  "greeting": "The Valoris call cleared early, Dan, and nothing else is on the calendar. It's the kind of open afternoon the travel bookings have been waiting for.",
+  "theme": "An open day, the morning's one call already behind you.",
+  "greeting": "Morning, Dan. The Valoris call at 7 was the day's only fixture; everything after it is open water.",
   "needsAttention": [
     {
-      "tag": "Closing window",
-      "title": "December trip — decide and book",
-      "detail": "The shortlist call was due Sept 30 and the real book-by date is Oct 15; holiday inventory for six over three weeks is the thinnest of the year."
+      "tag": "Window closing",
+      "title": "December trip book-by is Oct 15",
+      "detail": "The all-kids Dec 13 to Jan 2 break was set to be decided by Sept 30; holiday inventory for six runs thin and the Oct 15 book-by is nine days out."
     },
     {
-      "tag": "Book this week",
-      "title": "Reserve the Portland Christmas SUV",
-      "detail": "A refundable full-size SUV out of PWM over Christmas week sells out early — it's the p1 on the board most likely to bite, overdue since Sept 14."
+      "tag": "Sells out",
+      "title": "Maine Christmas SUV rental",
+      "detail": "A full-size SUV out of Portland over Christmas week is the thinnest rental in that market; the p1 task has been open since mid-September and a refundable hold costs nothing."
     },
     {
-      "tag": "Signature needed",
-      "title": "St Pete Beach signing session",
-      "detail": "A signing request for 102 26th Ave landed in your inbox this morning; documents are waiting on your signature."
+      "tag": "Live window",
+      "title": "Pathfinder drive south",
+      "detail": "The Oct 5 to 18 off-week is the window to drive the Pathfinder Portland to St Pete, and today sits inside it; the hotel night still needs booking once dates are set."
+    },
+    {
+      "tag": "To sign",
+      "title": "St Pete Beach signing request",
+      "detail": "A SabalSign request landed this morning to sign documents for a St Pete Beach property; worth opening to see what is time-bound."
     }
   ],
   "schedule": [
     {
       "time": "7:00 AM",
-      "title": "Valoris sync — Mike, Martin & Davit",
-      "detail": "Teams call, already behind you",
-      "tag": "call"
+      "title": "Valoris call with Mike, Martin, Davit",
+      "detail": "Teams meeting, two hours, now done",
+      "tag": "meeting"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "St Pete Beach signing request",
-        "detail": "Brandon sent a signing session for 102 26th Ave this morning; it needs your signature."
+        "tag": "Job search",
+        "title": "NACD New England board event",
+        "detail": "Group thread on marketing the Oct 28 Maine Visionaries program; Josh Broder noted he reached out to 25 more contacts. Nothing owed from you."
       }
     ],
-    "noise": "A FollowMyHealth news bulletin from Sarasota Memorial — informational only.",
-    "clear": "The inbox is otherwise quiet."
+    "noise": "The rest is newsletters and promos, a markets digest, Yale Alumni, LinkedIn, The Company Store, Enterprise.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -54,20 +59,14 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder south, Portland to St Pete",
-      "project": "Mike + Dan — Board",
-      "due": "Window open Oct 5–18",
-      "overdue": false
-    },
-    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order, bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
@@ -85,16 +84,16 @@
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "The 7 AM Valoris call with Mike, Martin and Davit is already done."
+      "time": "7 - 9 AM",
+      "line": "The day opened on the Valoris call with Mike, Martin, and Davit; it is behind you now."
     },
     {
-      "time": "Afternoon",
-      "line": "Nothing on the calendar — the middle of the day is entirely yours."
+      "time": "9 AM onward",
+      "line": "Nothing else is on the calendar, so the whole stretch past the morning call is unclaimed."
     },
     {
       "time": "Evening",
-      "line": "Still clear; no commitments on the books tonight."
+      "line": "A clear evening, with the girls at Jen's through mid-month."
     }
   ],
   "japanese": {
