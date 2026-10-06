@@ -1,53 +1,43 @@
 {
   "date": "Tuesday, October 6, 2026",
   "generatedAt": "Morning brief · 12:16 PM ET",
-  "theme": "The day opens up after an early call.",
-  "greeting": "Your 7 a.m. call with the Valoris team is already behind you, Dan — everything after it is open. The girls are with Jen this stretch, so the day's quiet is yours.",
+  "theme": "An open day behind one early call.",
+  "greeting": "The Valoris call cleared early, Dan, and nothing else is on the calendar. It's the kind of open afternoon the travel bookings have been waiting for.",
   "needsAttention": [
     {
-      "tag": "Networking",
-      "title": "Kevin McGovern wants to meet in Maine",
-      "detail": "He replied this morning on the NACDNE committee thread asking whether you're heading to the summit so you two can connect there — your reply is owed."
+      "tag": "Closing window",
+      "title": "December trip — decide and book",
+      "detail": "The shortlist call was due Sept 30 and the real book-by date is Oct 15; holiday inventory for six over three weeks is the thinnest of the year."
     },
     {
-      "tag": "Dec trip",
-      "title": "December trip decision is overdue",
-      "detail": "The shortlist was due Sept 30 and the book-by date is Oct 15; holiday inventory for six across three weeks is the thinnest of the year."
+      "tag": "Book this week",
+      "title": "Reserve the Portland Christmas SUV",
+      "detail": "A refundable full-size SUV out of PWM over Christmas week sells out early — it's the p1 on the board most likely to bite, overdue since Sept 14."
     },
     {
-      "tag": "Maine SUV",
-      "title": "Christmas SUV rental still unbooked",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week sells out early — the task is flagged p1 and is weeks overdue."
+      "tag": "Signature needed",
+      "title": "St Pete Beach signing session",
+      "detail": "A signing request for 102 26th Ave landed in your inbox this morning; documents are waiting on your signature."
     }
   ],
   "schedule": [
     {
       "time": "7:00 AM",
-      "title": "Call with Mike, Martin & Davit",
-      "detail": "Valoris Catalysts, on Teams",
+      "title": "Valoris sync — Mike, Martin & Davit",
+      "detail": "Teams call, already behind you",
       "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "New VP Policy role alerts",
-        "detail": "LinkedIn surfaced several VP Public Policy and Government Affairs openings overnight, Equinix among them."
-      },
-      {
-        "tag": "Health",
-        "title": "A pre-visit form is waiting",
-        "detail": "Your clinician sent a short questionnaire to fill out before your next visit."
-      },
-      {
         "tag": "Financial",
-        "title": "Apple Cash terms change",
-        "detail": "Green Dot Bank will require identity verification starting Nov 9 to keep using Apple Cash."
+        "title": "St Pete Beach signing request",
+        "detail": "Brandon sent a signing session for 102 26th Ave this morning; it needs your signature."
       }
     ],
-    "noise": "The rest is newsletters, job-alert digests, and a couple of receipts.",
-    "clear": ""
+    "noise": "A FollowMyHealth news bulletin from Sarasota Memorial — informational only.",
+    "clear": "The inbox is otherwise quiet."
   },
   "resolved": [],
   "context": {
@@ -64,35 +54,47 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder south (Portland to St Pete)",
-      "project": "Household",
-      "due": "Window Oct 5-18",
+      "title": "Drive the Pathfinder south, Portland to St Pete",
+      "project": "Mike + Dan — Board",
+      "due": "Window open Oct 5–18",
+      "overdue": false
+    },
+    {
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
+    "morning": "0/3",
+    "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "7 – 9 AM",
-      "line": "The call with Mike, Martin and Davit wrapped at nine, and the morning is yours now."
+      "time": "Morning",
+      "line": "The 7 AM Valoris call with Mike, Martin and Davit is already done."
     },
     {
-      "time": "9 AM – 5 PM",
-      "line": "Nothing else on the calendar — a wide-open stretch with the travel bookings stacking up."
+      "time": "Afternoon",
+      "line": "Nothing on the calendar — the middle of the day is entirely yours."
     },
     {
       "time": "Evening",
-      "line": "No handoff tonight with the girls at Jen's; a quiet evening to yourself."
+      "line": "Still clear; no commitments on the books tonight."
     }
   ],
   "japanese": {
