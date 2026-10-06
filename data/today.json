@@ -1,23 +1,23 @@
 {
   "date": "Monday, October 5, 2026",
   "generatedAt": "Morning brief · 8:17 PM ET",
-  "theme": "A travel day north, then an early start.",
-  "greeting": "You're in Portland now, Dan, and the girls are with Jen this stretch, so the next two weeks are yours and Mike's. The day winds down with dinner out before an early call tomorrow.",
+  "theme": "A travel day into Maine, with an early start waiting tomorrow.",
+  "greeting": "You landed in Portland this afternoon, Dan, and the day is mostly behind you. The one thing worth an alarm is the 7 AM call with Mike, Martin and Davit.",
   "needsAttention": [
     {
+      "tag": "7 AM tomorrow",
+      "title": "Early Valoris call opens the day",
+      "detail": "Mike has set a 7 AM Teams call with you, Martin and Davit — the earliest thing on the week. Worth deciding tonight what you want to walk out of it with."
+    },
+    {
       "tag": "Book by Oct 15",
-      "title": "December trip decision is overdue",
-      "detail": "The December break with all four kids still needs a destination and a booking by Oct 15. Holiday inventory for six across three weeks is the thinnest of the year, so the window is real."
+      "title": "December break still undecided",
+      "detail": "The all-kids December trip (Dec 13-Jan 2) was meant to be settled Sept 30 and booked by Oct 15 - holiday inventory for six over three weeks is the thinnest of the year, so the window is closing."
     },
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week sells out early and prices climb. A refundable hold now costs nothing and closes the risk."
-    },
-    {
-      "tag": "Early start",
-      "title": "7 AM call with the Valoris team",
-      "detail": "Mike, Martin, and Davit are on a 7 AM Teams call tomorrow with no agenda circulated yet, so it is worth lining up your points tonight."
+      "title": "Maine Christmas SUV unbooked",
+      "detail": "A refundable full-size SUV out of Portland for Christmas week is the hardest rental in that market and sells out; the task has been open since mid-September."
     }
   ],
   "schedule": [
@@ -25,29 +25,39 @@
       "time": "12:20 PM",
       "title": "Flight to Portland",
       "detail": "Tampa to PWM, MX 1004",
-      "tag": "Travel"
+      "tag": "travel"
     },
     {
       "time": "5:45 PM",
       "title": "Dinner at Roma Cafe",
       "detail": "Table for two",
-      "tag": "Dinner"
+      "tag": "dinner"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "NACD New England Oct 28 event",
-        "detail": "Larissa Ravetto asked the governance network to help promote the Maine Visionaries program; Josh Broder has already reached out to 25 more people."
+        "title": "NACD New England event, Oct 28",
+        "detail": "The Maine Visionaries group is being asked to share the Oct 28 event with their networks; Josh Broder has already pitched in - squarely in your board-governance circle."
+      },
+      {
+        "tag": "Job search",
+        "title": "VP Public Policy role at Equinix",
+        "detail": "LinkedIn surfaced it alongside your government-affairs searches - an automated alert rather than outreach, but close to your profile."
       },
       {
         "tag": "FYI",
-        "title": "Briefings page build failed",
-        "detail": "GitHub reported a failed Pages deploy on the main branch of your briefings repo."
+        "title": "Briefings site build failed",
+        "detail": "GitHub flagged a failed Pages build on your briefings repo tonight, so the live page may not be redeploying."
+      },
+      {
+        "tag": "Health",
+        "title": "A form before your next visit",
+        "detail": "Your clinician would like a short check-in filled out ahead of the appointment."
       }
     ],
-    "noise": "The rest is newsletters and receipts: Alison Roman, NPR, an Uber summary, and the Roma Cafe confirmation.",
+    "noise": "The rest is newsletters, promos and receipts - Bloomberg, the Press Herald, Alison Roman, a few store sales, and your Uber and Roma Cafe confirmations.",
     "clear": ""
   },
   "resolved": [],
@@ -65,41 +75,41 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder south, Portland to St Pete",
-      "project": "Mike + Dan Board",
-      "due": "Window Oct 5-18",
-      "overdue": false
-    },
-    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order: bedframe + soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Drive the Pathfinder Portland to St Pete",
+      "project": "Travel",
+      "due": "Window Oct 5-18",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order - bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/3",
+    "morning": "0/9",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet stretch in St Pete before heading to the airport."
+      "line": "A slow start in Florida before the midday flight north."
     },
     {
-      "time": "Afternoon",
-      "line": "Wheels up at 12:20, Tampa to Portland, landing late in the day."
+      "time": "12:20 - 4:55 PM",
+      "line": "Tampa to Portland on MX 1004 - the afternoon was spent in transit."
     },
     {
-      "time": "Evening",
-      "line": "Dinner at Roma Cafe, then an early night ahead of the 7 AM call."
+      "time": "Evening onward",
+      "line": "Dinner at Roma Cafe behind you, with a 7 AM Valoris call opening tomorrow."
     }
   ],
   "japanese": {
