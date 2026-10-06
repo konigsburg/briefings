@@ -1,53 +1,53 @@
 {
   "date": "Tuesday, October 6, 2026",
   "generatedAt": "Morning brief · 10:26 AM ET",
-  "theme": "One call early, then an open day for the decisions running out of runway.",
-  "greeting": "Morning, Dan. A two-hour call with the Valoris team opens the day, then it's yours — and a cluster of travel decisions is quietly getting close to its deadline.",
+  "theme": "The day opens up after an early call.",
+  "greeting": "Your 7 a.m. call with the Valoris team is already behind you, Dan — everything after it is open. The girls are with Jen this stretch, so the day's quiet is yours.",
   "needsAttention": [
     {
-      "tag": "Book by Oct 15",
-      "title": "December break still undecided",
-      "detail": "The Sept 30 decision date has passed and the book-by window is Oct 15 — holiday inventory for six over three weeks is the thinnest of the year. Passports land in November, so a domestic shortlist is the safe default."
+      "tag": "Networking",
+      "title": "Kevin McGovern wants to meet in Maine",
+      "detail": "He replied this morning on the NACDNE committee thread asking whether you're heading to the summit so you two can connect there — your reply is owed."
     },
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early. A refundable hold now costs nothing and closes the risk."
+      "tag": "Dec trip",
+      "title": "December trip decision is overdue",
+      "detail": "The shortlist was due Sept 30 and the book-by date is Oct 15; holiday inventory for six across three weeks is the thinnest of the year."
     },
     {
-      "tag": "Window open",
-      "title": "Pathfinder drive south",
-      "detail": "The Oct 5–18 Maine-to-Florida window is open now. Book the one hotel night once the drive dates are set."
+      "tag": "Maine SUV",
+      "title": "Christmas SUV rental still unbooked",
+      "detail": "A refundable full-size SUV out of Portland for Christmas week sells out early — the task is flagged p1 and is weeks overdue."
     }
   ],
   "schedule": [
     {
       "time": "7:00 AM",
       "title": "Call with Mike, Martin & Davit",
-      "detail": "Two-hour Valoris Teams call",
-      "tag": "meeting"
+      "detail": "Valoris Catalysts, on Teams",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Governance roles in the alerts",
-        "detail": "LinkedIn surfaced a VP Public Policy & Government Affairs role at Equinix plus a few adjacent international government-affairs and executive-director listings."
+        "title": "New VP Policy role alerts",
+        "detail": "LinkedIn surfaced several VP Public Policy and Government Affairs openings overnight, Equinix among them."
       },
       {
         "tag": "Health",
-        "title": "Pre-visit questionnaire waiting",
-        "detail": "Talkiatry asked you to complete a short form ahead of your upcoming visit."
+        "title": "A pre-visit form is waiting",
+        "detail": "Your clinician sent a short questionnaire to fill out before your next visit."
       },
       {
-        "tag": "Security",
-        "title": "Apple Cash terms changing",
-        "detail": "Green Dot Bank will begin requiring identity verification for Apple Cash starting November 9."
+        "tag": "Financial",
+        "title": "Apple Cash terms change",
+        "detail": "Green Dot Bank will require identity verification starting Nov 9 to keep using Apple Cash."
       }
     ],
-    "noise": "The rest is newsletters and receipts — WSJ, America's Test Kitchen, Alison Roman, St Pete and Portland locals, an Uber summary.",
-    "clear": "Nothing in the inbox is waiting on a personal reply."
+    "noise": "The rest is newsletters, job-alert digests, and a couple of receipts.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -64,15 +64,15 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Drive the Pathfinder south (Portland to St Pete)",
       "project": "Household",
-      "due": "Overdue Sep 25",
+      "due": "Window Oct 5-18",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
+      "title": "Get 3 term-life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sep 30",
+      "due": "Overdue Sep 25",
       "overdue": true
     }
   ],
@@ -84,15 +84,15 @@
   "acts": [
     {
       "time": "7 – 9 AM",
-      "line": "A two-hour Teams call with Mike, Martin, and Davit opens the day."
+      "line": "The call with Mike, Martin and Davit wrapped at nine, and the morning is yours now."
     },
     {
-      "time": "9 AM onward",
-      "line": "The calendar is empty after that — the December trip and the Christmas rental are the real work waiting."
+      "time": "9 AM – 5 PM",
+      "line": "Nothing else on the calendar — a wide-open stretch with the travel bookings stacking up."
     },
     {
       "time": "Evening",
-      "line": "The girls are with Jen this stretch, so the evening is a quiet one."
+      "line": "No handoff tonight with the girls at Jen's; a quiet evening to yourself."
     }
   ],
   "japanese": {
