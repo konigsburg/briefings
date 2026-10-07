@@ -1,77 +1,49 @@
 {
   "date": "Wednesday, October 7, 2026",
   "generatedAt": "Morning brief · 6:15 AM ET",
-  "theme": "One call, then open water.",
-  "greeting": "Morning, Dan. One early call with the Valoris team, then a wide-open run of hours — and a short handful of things worth closing before the week slips.",
+  "theme": "An open day for the decisions that have been waiting.",
+  "greeting": "Nothing on your calendar until tomorrow afternoon, Dan — the whole day is yours. A good one to close the two bookings whose windows are starting to tighten.",
   "needsAttention": [
     {
-      "tag": "Reply owed",
-      "title": "Intro to Marissa at Sun Life",
-      "detail": "Pema connected you with Marissa Glassbrook, who leads a chunk of Sun Life's sustainability work — the intro's been open since yesterday with nothing back from you yet."
+      "tag": "Awaiting reply",
+      "title": "ICGN Toronto programme — your title line",
+      "detail": "Claudia at ICGN asked what to list as your title for the Nov 4–5 Plenary 7 programme: \"would you like us to put anything in as your specificality/job title in particular?\" You sent your bio and headshot Monday, so this is the last open question on the thread."
     },
     {
-      "tag": "To sign",
-      "title": "St Pete Beach signing ceremony",
-      "detail": "Brandon Tecklenburg sent documents for 102 26th Ave through the e-sign service; a signing session is waiting on your signature."
-    },
-    {
-      "tag": "Decision due",
-      "title": "December break destinations",
-      "detail": "The shortlist-and-decide slipped past Sept 30 and the book-by date is Oct 15 — six people across three holiday weeks is the thinnest inventory of the year."
+      "tag": "Window closing",
+      "title": "December break — decide and book",
+      "detail": "Your own Oct 15 book-by date is eight days out, and holiday inventory for six over three weeks is the thinnest of the year. Passports land in November, so a domestic shortlist carries no risk; international means refundable-only. Overdue in Household/Travel."
     },
     {
       "tag": "Book this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "With the Pathfinder heading south this month, there's no six-seater in Maine for Christmas; a refundable full-size SUV out of Portland sells out early."
-    },
-    {
-      "tag": "To review",
-      "title": "Mike's file from the call",
-      "detail": "Mike sent a large attachment marked 'as discussed' after this morning's Valoris call — still unopened."
+      "detail": "The p1 that keeps slipping: a full-size SUV out of Portland over Christmas week sells out early. A refundable hold costs nothing and closes the risk entirely. Overdue since Sept 14."
     }
   ],
-  "schedule": [
-    {
-      "time": "7:00 AM",
-      "title": "Valoris call — Mike, Martin, Davit",
-      "detail": "Teams meeting",
-      "tag": "call"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Government affairs role alert",
-        "detail": "LinkedIn surfaced a Head of US Government Affairs opening."
-      },
-      {
-        "tag": "Health",
-        "title": "Clinician check-in",
-        "detail": "A questionnaire from your care team is waiting to be filled in."
+        "tag": "Financial",
+        "title": "Signing invitation — St Pete Beach property",
+        "detail": "SabalSign reminder to e-sign documents for 102 26th Ave, St Pete Beach, sent via Brandon Tecklenburg. Stays open until you sign."
       },
       {
         "tag": "FYI",
-        "title": "NACD Maine Visionaries, Oct 28",
-        "detail": "The chapter's asking members to share the Oct 28 event; Josh Broder's already pushed it out to 25 people."
+        "title": "ICGN Plenary 7 planning call",
+        "detail": "Claudia Rossetti is looping the speakers to schedule the Toronto Plenary 7 planning call; you're cc'd."
       }
     ],
-    "noise": "The rest is promotional and list traffic — nothing that needs you.",
+    "noise": "Two newsletters, a Todoist digest, and a Russian brokerage promo — nothing needing you.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Handled",
-      "title": "NACD Maine timing with Kevin",
-      "detail": "You and Kevin McGovern settled to connect in Maine when he's next up; he'll flag the dates."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Florida",
+    "location": "Maine",
     "confidence": "low",
-    "asOf": "Tue, Oct 6"
+    "asOf": "Wednesday Oct 7"
   },
   "recipe": {
     "title": "Roasted kabocha squash",
@@ -80,41 +52,41 @@
   },
   "tasks": [
     {
-      "title": "Confirm the Pathfinder drive south",
-      "project": "Mike + Dan Board",
-      "due": "Window Oct 5–18",
+      "title": "Drive the Pathfinder down, Portland → St Pete",
+      "project": "Household/Travel",
+      "due": "Oct 5–18 window — now live",
       "overdue": true
     },
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 25",
+      "project": "Household",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 30",
+      "project": "Household",
+      "due": "Overdue Sept 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/3",
-    "day": "0/5",
+    "morning": "0/10",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A two-hour Valoris call with Mike, Martin and Davit opens the day at seven."
+      "line": "Nothing on the calendar this morning — open time for the bookings that have been waiting."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar after nine — the long middle of the day is open."
+      "line": "Still clear through the afternoon; your next commitments are tomorrow after 1 PM."
     },
     {
       "time": "Evening",
-      "line": "A quiet evening to land on; the girls are with Jen this week."
+      "line": "A quiet close, with the girls at Jen's this week."
     }
   ],
   "japanese": {
