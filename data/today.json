@@ -1,62 +1,69 @@
 {
   "date": "Wednesday, October 7, 2026",
-  "generatedAt": "Morning brief · 10:20 AM ET",
-  "theme": "An open day — spend it on what's been waiting.",
-  "greeting": "The calendar's clear today, Dan; the first thing on it is tomorrow's NACD prep at 1. Good day to clear the two replies that are owed and finally lock the December trip.",
+  "generatedAt": "Morning brief · 10:23 AM ET",
+  "theme": "A wide-open day — the pressure is in two trips that need booking, not the inbox.",
+  "greeting": "A quiet Wednesday, Dan: just the 2 o'clock with Mike on the calendar. The real clock today is on the holiday travel that's drifting past its windows.",
   "needsAttention": [
     {
-      "tag": "Reply owed",
-      "title": "ICGN wants your programme title",
-      "detail": "Claudia asked this morning what title to list for you on the Toronto Plenary 7 programme. A one-line answer closes it and keeps the panel moving."
+      "tag": "Quick reply",
+      "title": "ICGN wants your panel title",
+      "detail": "Claudia asked this morning what title to list for you in the Toronto programme — a one-line answer that's holding up the Plenary 7 listing."
+    },
+    {
+      "tag": "Decide now",
+      "title": "December trip — book by Oct 15",
+      "detail": "The shortlist was due Sept 30 and holiday inventory for six over three weeks is the year's thinnest; eight days to lock it, domestic unless you commit to refundable international."
+    },
+    {
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "A full-size SUV out of Portland over Christmas sells out early — the Pathfinder's gone south, so this is the only six-seater for that trip. A refundable hold costs nothing."
     },
     {
       "tag": "Warm intro",
-      "title": "Intro to Sun Life's sustainability lead",
-      "detail": "Pema connected you with Marissa Glassbrook, who leads sustainability at Sun Life, on Monday. The intro is sitting unanswered — worth a short reply to open it."
+      "title": "Reply to the Sun Life intro",
+      "detail": "Pema connected you Monday with Marissa Glassbrook, who leads sustainability work at Sun Life; the intro is still waiting on your reply."
     },
     {
-      "tag": "Window closing",
-      "title": "December trip — decide and book",
-      "detail": "Book-by is Oct 15 for all four kids over the Dec 13-Jan 2 window; holiday inventory is thinnest of the year. Pick domestic or refundable-international and move."
-    },
-    {
-      "tag": "Prep for tomorrow",
-      "title": "NACD New England prep call",
-      "detail": "Tomorrow at 1 is the prep session for the Oct 28 event. Skim what's planned so you arrive with a view rather than catching up live."
+      "tag": "Signing window",
+      "title": "Documents to sign — St Pete Beach",
+      "detail": "SabalSign re-sent the signing invitation for 102 26th Ave this morning; it's a reminder, so the documents are still open."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "2:00 PM",
+      "title": "Valoris accounting with Mike",
+      "detail": "Teams · he sent the files yesterday",
+      "tag": "call"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Intro to Sun Life sustainability lead",
-        "detail": "Pema's Monday introduction to Marissa Glassbrook is still unanswered."
-      },
-      {
-        "tag": "FYI",
-        "title": "ICGN Plenary 7 planning call",
-        "detail": "Scheduling thread for the Toronto panel; you're cc'd with the other speakers."
+        "title": "October CEO searches",
+        "detail": "ExecThread's monthly roundup of active CEO searches landed."
       },
       {
         "tag": "Financial",
-        "title": "St Pete Beach signing request",
-        "detail": "SabalSign reminder to sign documents for 102 26th Ave, opened yesterday."
+        "title": "Amex rewards redeemed",
+        "detail": "Confirmation that a Membership Rewards redemption posted to your account."
       }
     ],
-    "noise": "The rest is receipts and promos — CMP autopay, a Wildgrain order, the Todoist digest, and a few newsletters.",
-    "clear": ""
+    "noise": "The rest is retail and travel promos — Indochino, MOO, Fit2Run, GHA, Fog Linen.",
+    "clear": "Wildgrain subscription — cancellation confirmed this morning."
   },
   "resolved": [
     {
-      "tag": "Sent",
-      "title": "ICGN bio and headshot delivered",
-      "detail": "You sent Claudia your bio, headshot and availability Monday evening; she's circulating to the panel."
+      "tag": "Handled",
+      "title": "Toronto bio sent to ICGN",
+      "detail": "You sent your bio and headshot to Claudia yesterday; only the title line is left."
     },
     {
       "tag": "Closed",
-      "title": "Maine meetup with Kevin",
-      "detail": "You and Kevin agreed to connect when he's next up in Maine; he'll flag timing."
+      "title": "Wildgrain subscription cancelled",
+      "detail": "Support confirmed the cancellation today; the October box wasn't shipped."
     }
   ],
   "context": {
@@ -73,34 +80,22 @@
   },
   "tasks": [
     {
-      "title": "Book Maine Christmas rental — refundable full-size SUV, PWM",
-      "project": "Travel",
-      "due": "Overdue Sep 14",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south — Portland to St Pete",
-      "project": "Travel",
-      "due": "Overdue Sep 25 · Oct 5-18 window",
-      "overdue": true
-    },
-    {
       "title": "Get 3 term life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + shower soap holder",
+      "title": "Portland house order — bedframe + soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Work",
-      "due": "Overdue Aug 15",
-      "overdue": true
+      "title": "Drive the Pathfinder south (Oct 5–18 window)",
+      "project": "Travel",
+      "due": "Window open",
+      "overdue": false
     }
   ],
   "routines": {
@@ -111,15 +106,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — two replies are the only things actually waiting on you."
+      "line": "Nothing scheduled before the afternoon — the longest open stretch on your week."
     },
     {
-      "time": "Afternoon",
-      "line": "A clear stretch; the natural slot to make the December trip call before the Oct 15 booking window."
+      "time": "2 – 2:30 PM",
+      "line": "One call, thirty minutes with Mike on Valoris accounting, then back to open water."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens at 1 with the NACD prep call, then Kevin at 2 — a light day ahead."
+      "line": "Clear through the night; tomorrow's NACD prep and Kevin catch-up can be read into whenever suits."
     }
   ],
   "japanese": {
