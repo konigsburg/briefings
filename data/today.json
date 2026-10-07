@@ -1,30 +1,35 @@
 {
   "date": "Wednesday, October 7, 2026",
   "generatedAt": "Morning brief · 2:15 PM ET",
-  "theme": "A wide-open Wednesday",
-  "greeting": "Almost nothing on the calendar today, Dan — a single 2 o'clock call with Mike. The open hours line up well against the December trip and the car bookings that have started to tick.",
+  "theme": "An open day with a few bookings to lock in.",
+  "greeting": "The calendar is nearly empty today, Dan — just the Valoris call with Mike. That makes this the afternoon to close out the trip decisions before their windows tighten.",
   "needsAttention": [
     {
-      "tag": "Window closing",
-      "title": "December trip — the book-by is Oct 15",
-      "detail": "Eight days to lock the three-week December break for all six of you. The decision was meant to land Sept 30, and holiday inventory over the break is the thinnest of the year."
+      "tag": "Reply today",
+      "title": "Confirm the call with Amin Noorani",
+      "detail": "He wrote back this afternoon suggesting a Teams call next Thursday, Oct 15 at 9:30 AM. A short note confirming the time is what's waiting, and the intro came through Jo Notkin."
     },
     {
-      "tag": "Tomorrow prep",
-      "title": "NACD New England prep at 1",
-      "detail": "Tomorrow's Zoom is the prep session for the Oct 28 NACD event, and you're still marked tentative — worth deciding whether you're in and glancing at the agenda before then."
+      "tag": "Prep for tomorrow",
+      "title": "NACD New England prep session",
+      "detail": "Tomorrow at 1 PM on Zoom is the prep call for the Oct 28 NACD event. Worth arriving having skimmed the Oct 28 agenda and settled your angle going in."
+    },
+    {
+      "tag": "Books by Oct 15",
+      "title": "Lock the December trip direction",
+      "detail": "The Dec 13-Jan 2 trip for all four girls needs a domestic-or-international call before the Oct 15 book-by date. Passports only land in November, so a domestic shortlist is the clean default."
     },
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV is still open",
-      "detail": "A full-size SUV out of Portland over Christmas week sells out early; a refundable hold now costs nothing and closes the only six-seat gap in Maine for that trip."
+      "title": "Reserve the Maine Christmas SUV",
+      "detail": "A refundable full-size SUV out of Portland for Christmas week, booked before holiday inventory thins. The Pathfinder heads south this month, so it's the one gap with no six-seater in Maine."
     }
   ],
   "schedule": [
     {
       "time": "2:00 PM",
       "title": "Valoris accounting with Mike",
-      "detail": "Teams call, 30 min",
+      "detail": "Teams call",
       "tag": "call"
     }
   ],
@@ -32,19 +37,29 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Morgan Stanley on your 401k rollover",
-        "detail": "Scott replied on the KPMG 401k thread with a question about the pretax rollover and suggested confirming the figures with Merrill."
+        "title": "Morgan Stanley on the 401k statement",
+        "detail": "Scott Lazarus flagged a pretax-rollover line on the KPMG statement and suggested confirming the vested balance with Merrill before next steps."
       },
       {
         "tag": "FYI",
-        "title": "St Pete Beach signing invitation",
-        "detail": "A document-signing link for 102 26th Ave came in this morning; these invitations usually carry an expiry."
+        "title": "ICGN Toronto plenary planning",
+        "detail": "ICGN is lining up a planning call for your Plenary 7 at the Nov 4-5 Autumn Conference; it's a speaker group, so anyone can help slot it."
+      },
+      {
+        "tag": "FYI",
+        "title": "A document is awaiting signature",
+        "detail": "A signing reminder came in for 102 26th Ave, St Pete Beach — worth a glance to see whether it needs you."
       }
     ],
-    "noise": "The rest is retail — Beni Fabrics, Skin Lovers, and a sailing-webinar reminder.",
-    "clear": "Nothing else is sitting unanswered."
+    "noise": "The rest is LinkedIn job alerts, ExecThread's CEO digest, and newsletters — Monocle, Yale Alumni, Midcoast Villager.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "title": "Care-plan form sent for your mom",
+      "detail": "Tampa Gardens asked for the insurance form this morning; you emailed it over and the thread is closed on your side."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -59,41 +74,47 @@
   },
   "tasks": [
     {
-      "title": "Plan the Pathfinder drive south",
+      "title": "Drive the Pathfinder south (Oct 5-18 window)",
       "project": "Mike + Dan Board",
-      "due": "Window Oct 5–18",
-      "overdue": false
+      "due": "Overdue Sep 25",
+      "overdue": true
     },
     {
       "title": "Get 3 term life quotes for Mike",
       "project": "Mike + Dan Board",
-      "due": "Overdue Sept 25",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + soap holder",
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Mike + Dan Board",
-      "due": "Overdue Sept 30",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/4",
-    "day": "0/6",
+    "morning": "0/3",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar before 2 — the widest stretch of open hours you've had all week."
+      "line": "A clear run — the calendar held nothing until midday."
     },
     {
-      "time": "Afternoon",
-      "line": "A single call with Mike at 2 on Valoris accounting, then the day opens back up."
+      "time": "2 – 2:30 PM",
+      "line": "The one fixed point: the Valoris accounting call with Mike."
     },
     {
       "time": "Evening",
-      "line": "The evening stays clear; tomorrow is the fuller of the two days, with meetings bookended at 1 and 2."
+      "line": "Nothing scheduled, so the hours after are entirely yours."
     }
   ],
   "japanese": {
