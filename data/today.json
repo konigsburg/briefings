@@ -1,74 +1,67 @@
 {
   "date": "Wednesday, October 7, 2026",
   "generatedAt": "Morning brief · 6:15 PM ET",
-  "theme": "A wide-open day with a single call in it.",
-  "greeting": "The calendar barely touched you today, Dan — one short afternoon call with Mike and otherwise open water. What's actually pulling are the job-search threads and a cluster of travel bookings with real deadlines.",
+  "theme": "An open day, eyes on tomorrow's prep.",
+  "greeting": "A light day, Dan — a single call with Mike on the books and the rest of it yours. The real pull is tomorrow: the NACD prep at one, and Larissa's draft questions are already in your inbox.",
   "needsAttention": [
     {
-      "tag": "Awaiting reply",
-      "title": "ICGN Toronto panel title",
-      "detail": "Claudia at ICGN asked this morning what title to list for you in the Nov 4-5 Plenary 7 programme; their print layout is waiting on your one-line answer."
+      "tag": "Prep · tomorrow",
+      "title": "NACD prep session at one",
+      "detail": "Tomorrow's 1 PM NACD New England prep has Larissa's draft list of discussion questions attached — worth a read before the Zoom so you arrive holding your lines."
     },
     {
-      "tag": "Job search",
-      "title": "Confirm the Amin Noorani call",
-      "detail": "After you sent your CV, Amin (the intro through Jo Notkin) proposed a Teams call next Thursday, Oct 15 at 9:30 AM. It's sitting on your yes."
+      "tag": "Reply owed",
+      "title": "Your title for the Toronto programme",
+      "detail": "Claudia at ICGN is waiting on how you'd like your job title to read beside your name in the Autumn Conference programme."
     },
     {
-      "tag": "Prep for tomorrow",
-      "title": "NACD prep session at 1 PM",
-      "detail": "Larissa's reminder arrived today with the draft discussion questions attached. Reading them tonight is the whole prep for tomorrow's Oct 28 event planning call."
+      "tag": "Reply owed",
+      "title": "Confirm the intro with Amin",
+      "detail": "Amin Noorani (the Jo Notkin introduction) proposed a Teams intro next Thursday, Oct 15 at 9:30 AM — he's holding for your yes."
     },
     {
-      "tag": "Needs signature",
-      "title": "St Pete Beach documents to sign",
-      "detail": "Sabal Sign sent a second reminder to e-sign the papers for 102 26th Ave; the signing session is open and waiting on you."
+      "tag": "Window closing",
+      "title": "December break still undecided",
+      "detail": "The shortlist for all four kids was due Sept 30 and books by Oct 15; the holiday window is thin, so the destination call is the thing that unblocks it."
+    },
+    {
+      "tag": "Signature",
+      "title": "St Pete Beach signing is live",
+      "detail": "The signing session for 102 26th Ave is open and reminding you — the documents are waiting on your signature."
     }
   ],
   "schedule": [
     {
       "time": "2:00 PM",
       "title": "Valoris accounting with Mike",
-      "detail": "30 min, Teams",
-      "tag": "Call"
+      "detail": "Teams · 30 min",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Amin Noorani intro call",
-        "detail": "Proposed Oct 15, 9:30 AM Teams; awaiting your confirm."
-      },
-      {
-        "tag": "Job search",
-        "title": "ICGN Toronto speaking slot",
-        "detail": "Plenary 7 panel, Nov 4-5; they need your programme title."
-      },
-      {
-        "tag": "Financial",
-        "title": "Morgan Stanley on the 401k",
-        "detail": "Scott flagged a pretax rollover figure to confirm with Merrill; you replied you'd follow up."
+        "title": "SVP, Government Affairs — Metric DCX",
+        "detail": "A LinkedIn alert surfaced a senior community-engagement and government-affairs role in data-center development."
       },
       {
         "tag": "FYI",
-        "title": "Valoris files from Mike",
-        "detail": "Mike sent follow-up materials 'as promised' right after today's call."
+        "title": "ICGN Plenary 7 planning call",
+        "detail": "Claudia is scheduling the Toronto stewardship-data panel call; you're cc'd with three co-panelists, nothing owed yet."
       }
     ],
-    "noise": "The rest is promotional and newsletter mail; none of it needs you.",
+    "noise": "The rest is newsletters and retail — Autio, Disney, The Company Store, a SPACE Gallery event.",
     "clear": ""
   },
   "resolved": [
     {
-      "tag": "Closed",
-      "title": "Mom's care-plan paperwork sent",
-      "detail": "You emailed the physician plan-of-care form to Tampa Gardens this afternoon and offered to help if it won't open."
+      "title": "KPMG 401k statement reviewed",
+      "detail": "Scott at Morgan Stanley walked through the rollover and contributions; you confirmed and closed the loop."
     },
     {
-      "tag": "Closed",
-      "title": "401k statement questions answered",
-      "detail": "Scott at Morgan Stanley reviewed the statement; you confirmed you'll verify the rollover with Merrill."
+      "title": "Maine meetup with Kevin McGovern",
+      "detail": "You both agreed to connect in Maine when he's next up — it's in his court now."
     }
   ],
   "context": {
@@ -85,53 +78,47 @@
   },
   "tasks": [
     {
-      "title": "Decide and book the December break for the four kids",
-      "project": "Household",
-      "due": "Book by Oct 15",
-      "overdue": true
-    },
-    {
-      "title": "Book a refundable Maine Christmas SUV out of Portland",
-      "project": "Household",
+      "title": "Book the Maine Christmas SUV rental (refundable)",
+      "project": "Travel",
       "due": "Overdue Sep 14",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder Portland to St Pete",
-      "project": "Household",
-      "due": "Oct 5-18 window",
+      "title": "Pathfinder drive south — Portland to St Pete",
+      "project": "Travel",
+      "due": "Oct 5–18 window",
       "overdue": false
     },
     {
-      "title": "Get three term-life quotes for Mike",
+      "title": "Get 3 term-life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Place the Portland house order (bedframe + soap holder)",
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/3",
-    "day": "0/6",
+    "morning": "0/2",
+    "day": "0/4",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing sat on the calendar before noon, so the open stretch was yours to spend."
+      "line": "The morning ran clear — nothing on the calendar held it."
     },
     {
-      "time": "2 - 2:30 PM",
-      "line": "A short Teams call with Mike on Valoris accounting was the day's only fixed point."
+      "time": "Afternoon",
+      "line": "One call anchored the middle: Valoris accounting with Mike at two."
     },
     {
       "time": "Evening",
-      "line": "Tonight stays clear, while tomorrow afternoon stacks two calls back to back."
+      "line": "The evening's open, with tomorrow's NACD prep waiting at one."
     }
   ],
   "japanese": {
