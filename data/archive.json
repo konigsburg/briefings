@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-10-07",
+    "kind": "Morning brief",
+    "label": "Wednesday, Oct 7 · 6:15 AM ET",
+    "summary": "An open day with no meetings; two travel bookings and an ICGN programme reply are the live threads.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-10-06",
     "kind": "Morning brief",
     "label": "Tuesday, Oct 6 · 10:18 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Tuesday, Sep 8 · 10:05 PM ET",
     "summary": "Travel day: airborne Tampa to Frankfurt to Dubrovnik, girls with Jen, Cavtat night and Halloween call still open before the charter.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-09-07",
-    "kind": "Morning brief",
-    "label": "Monday, Sep 7 · 10:02 PM ET",
-    "summary": "An open last day before the Croatia departure — the pre-flight bookings and the car decision are what's live.",
     "ref": "today"
   }
 ]
