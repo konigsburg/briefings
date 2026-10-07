@@ -1,71 +1,50 @@
 {
   "date": "Wednesday, October 7, 2026",
-  "generatedAt": "Morning brief · 12:14 PM ET",
-  "theme": "A wide-open day — the pressure is in two trips that need booking, not the inbox.",
-  "greeting": "A quiet Wednesday, Dan: just the 2 o'clock with Mike on the calendar. The real clock today is on the holiday travel that's drifting past its windows.",
+  "generatedAt": "Morning brief · 12:18 PM ET",
+  "theme": "A wide-open Wednesday",
+  "greeting": "Almost nothing on the calendar today, Dan — a single 2 o'clock call with Mike. The open hours line up well against the December trip and the car bookings that have started to tick.",
   "needsAttention": [
     {
-      "tag": "Quick reply",
-      "title": "ICGN wants your panel title",
-      "detail": "Claudia asked this morning what title to list for you in the Toronto programme — a one-line answer that's holding up the Plenary 7 listing."
+      "tag": "Window closing",
+      "title": "December trip — the book-by is Oct 15",
+      "detail": "Eight days to lock the three-week December break for all six of you. The decision was meant to land Sept 30, and holiday inventory over the break is the thinnest of the year."
     },
     {
-      "tag": "Decide now",
-      "title": "December trip — book by Oct 15",
-      "detail": "The shortlist was due Sept 30 and holiday inventory for six over three weeks is the year's thinnest; eight days to lock it, domestic unless you commit to refundable international."
+      "tag": "Tomorrow prep",
+      "title": "NACD New England prep at 1",
+      "detail": "Tomorrow's Zoom is the prep session for the Oct 28 NACD event, and you're still marked tentative — worth deciding whether you're in and glancing at the agenda before then."
     },
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas sells out early — the Pathfinder's gone south, so this is the only six-seater for that trip. A refundable hold costs nothing."
-    },
-    {
-      "tag": "Warm intro",
-      "title": "Reply to the Sun Life intro",
-      "detail": "Pema connected you Monday with Marissa Glassbrook, who leads sustainability work at Sun Life; the intro is still waiting on your reply."
-    },
-    {
-      "tag": "Signing window",
-      "title": "Documents to sign — St Pete Beach",
-      "detail": "SabalSign re-sent the signing invitation for 102 26th Ave this morning; it's a reminder, so the documents are still open."
+      "title": "Maine Christmas SUV is still open",
+      "detail": "A full-size SUV out of Portland over Christmas week sells out early; a refundable hold now costs nothing and closes the only six-seat gap in Maine for that trip."
     }
   ],
   "schedule": [
     {
       "time": "2:00 PM",
       "title": "Valoris accounting with Mike",
-      "detail": "Teams · he sent the files yesterday",
+      "detail": "Teams call, 30 min",
       "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "October CEO searches",
-        "detail": "ExecThread's monthly roundup of active CEO searches landed."
+        "tag": "Financial",
+        "title": "Morgan Stanley on your 401k rollover",
+        "detail": "Scott replied on the KPMG 401k thread with a question about the pretax rollover and suggested confirming the figures with Merrill."
       },
       {
-        "tag": "Financial",
-        "title": "Amex rewards redeemed",
-        "detail": "Confirmation that a Membership Rewards redemption posted to your account."
+        "tag": "FYI",
+        "title": "St Pete Beach signing invitation",
+        "detail": "A document-signing link for 102 26th Ave came in this morning; these invitations usually carry an expiry."
       }
     ],
-    "noise": "The rest is retail and travel promos — Indochino, MOO, Fit2Run, GHA, Fog Linen.",
-    "clear": "Wildgrain subscription — cancellation confirmed this morning."
+    "noise": "The rest is retail — Beni Fabrics, Skin Lovers, and a sailing-webinar reminder.",
+    "clear": "Nothing else is sitting unanswered."
   },
-  "resolved": [
-    {
-      "tag": "Handled",
-      "title": "Toronto bio sent to ICGN",
-      "detail": "You sent your bio and headshot to Claudia yesterday; only the title line is left."
-    },
-    {
-      "tag": "Closed",
-      "title": "Wildgrain subscription cancelled",
-      "detail": "Support confirmed the cancellation today; the October box wasn't shipped."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -80,41 +59,41 @@
   },
   "tasks": [
     {
+      "title": "Plan the Pathfinder drive south",
+      "project": "Mike + Dan Board",
+      "due": "Window Oct 5–18",
+      "overdue": false
+    },
+    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + soap holder",
-      "project": "Household",
-      "due": "Overdue Sep 30",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sept 30",
       "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south (Oct 5–18 window)",
-      "project": "Travel",
-      "due": "Window open",
-      "overdue": false
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/4",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing scheduled before the afternoon — the longest open stretch on your week."
+      "line": "Nothing on the calendar before 2 — the widest stretch of open hours you've had all week."
     },
     {
-      "time": "2 – 2:30 PM",
-      "line": "One call, thirty minutes with Mike on Valoris accounting, then back to open water."
+      "time": "Afternoon",
+      "line": "A single call with Mike at 2 on Valoris accounting, then the day opens back up."
     },
     {
       "time": "Evening",
-      "line": "Clear through the night; tomorrow's NACD prep and Kevin catch-up can be read into whenever suits."
+      "line": "The evening stays clear; tomorrow is the fuller of the two days, with meetings bookended at 1 and 2."
     }
   ],
   "japanese": {
