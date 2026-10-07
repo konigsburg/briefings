@@ -1,40 +1,40 @@
 {
   "date": "Tuesday, October 6, 2026",
-  "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "One early call, then an open day with two trip clocks running.",
-  "greeting": "One early call with the Valoris team, then the day runs clear. Two decisions you've been circling — the December trip and the Maine Christmas car — both have firm clocks on them now.",
+  "generatedAt": "Morning brief · 10:18 PM ET",
+  "theme": "One call, then open water.",
+  "greeting": "Morning, Dan. One early call with the Valoris team, then a wide-open run of hours — and a short handful of things worth closing before the week slips.",
   "needsAttention": [
     {
       "tag": "Reply owed",
-      "title": "Intro to Sun Life's sustainability lead",
-      "detail": "Pema introduced you to Marissa Glassbrook, who leads sustainability work at Sun Life, on Monday — the thread is open and waiting on your note back."
+      "title": "Intro to Marissa at Sun Life",
+      "detail": "Pema connected you with Marissa Glassbrook, who leads a chunk of Sun Life's sustainability work — the intro's been open since yesterday with nothing back from you yet."
     },
     {
-      "tag": "Review owed",
-      "title": "Mike's follow-up from this morning",
-      "detail": "Mike sent a document 'as discussed' after the 7 AM Valoris call; it's in the inbox with an attachment, still unread."
+      "tag": "To sign",
+      "title": "St Pete Beach signing ceremony",
+      "detail": "Brandon Tecklenburg sent documents for 102 26th Ave through the e-sign service; a signing session is waiting on your signature."
     },
     {
-      "tag": "Books Oct 15",
-      "title": "December trip still unpicked",
-      "detail": "The Dec 13 to Jan 2 trip for all four girls needs a destination and a booking by Oct 15; holiday inventory for six over three weeks is the thinnest of the year."
+      "tag": "Decision due",
+      "title": "December break destinations",
+      "detail": "The shortlist-and-decide slipped past Sept 30 and the book-by date is Oct 15 — six people across three holiday weeks is the thinnest inventory of the year."
     },
     {
       "tag": "Book this week",
-      "title": "Maine Christmas car",
-      "detail": "A full-size SUV out of Portland over Christmas week sells out early, and a refundable hold now removes the whole risk. On the Mike + Dan board at p1, past due."
+      "title": "Maine Christmas SUV rental",
+      "detail": "With the Pathfinder heading south this month, there's no six-seater in Maine for Christmas; a refundable full-size SUV out of Portland sells out early."
     },
     {
-      "tag": "Signature requested",
-      "title": "Documents to sign for the St Pete Beach place",
-      "detail": "Brandon Tecklenburg sent a signing ceremony through SabalSign this morning for 102 26th Ave."
+      "tag": "To review",
+      "title": "Mike's file from the call",
+      "detail": "Mike sent a large attachment marked 'as discussed' after this morning's Valoris call — still unopened."
     }
   ],
   "schedule": [
     {
       "time": "7:00 AM",
-      "title": "Valoris call with Mike, Martin and Davit",
-      "detail": "Microsoft Teams, two hours",
+      "title": "Valoris call — Mike, Martin, Davit",
+      "detail": "Teams meeting",
       "tag": "call"
     }
   ],
@@ -42,25 +42,36 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Head of US Government Affairs role",
-        "detail": "A LinkedIn alert surfaced a government-affairs opening that sits squarely in your lane."
+        "title": "Government affairs role alert",
+        "detail": "LinkedIn surfaced a Head of US Government Affairs opening."
+      },
+      {
+        "tag": "Health",
+        "title": "Clinician check-in",
+        "detail": "A questionnaire from your care team is waiting to be filled in."
+      },
+      {
+        "tag": "FYI",
+        "title": "NACD Maine Visionaries, Oct 28",
+        "detail": "The chapter's asking members to share the Oct 28 event; Josh Broder's already pushed it out to 25 people."
       }
     ],
-    "noise": "The rest is routine — a Nextdoor digest and the NACD event-marketing blast to the committee.",
+    "noise": "The rest is promotional and list traffic — nothing that needs you.",
     "clear": ""
   },
   "resolved": [
     {
-      "title": "NACD Maine committee thread with Kevin",
-      "detail": "Kevin McGovern circled back after a week; you replied today and offered to meet up in Maine when he's next through."
+      "tag": "Handled",
+      "title": "NACD Maine timing with Kevin",
+      "detail": "You and Kevin McGovern settled to connect in Maine when he's next up; he'll flag the dates."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Maine",
+    "location": "Florida",
     "confidence": "low",
-    "asOf": "Tuesday Oct 6"
+    "asOf": "Tue, Oct 6"
   },
   "recipe": {
     "title": "Roast Monkfish",
@@ -69,47 +80,41 @@
   },
   "tasks": [
     {
+      "title": "Confirm the Pathfinder drive south",
+      "project": "Mike + Dan Board",
+      "due": "Window Oct 5–18",
+      "overdue": true
+    },
+    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan board",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down to St Pete",
-      "project": "Mike + Dan board",
-      "due": "Oct 5-18 window, open now",
-      "overdue": false
-    },
-    {
-      "title": "Portland house order: bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan board",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "7/10",
-    "day": "1/3",
+    "morning": "0/3",
+    "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The Valoris call with Mike, Martin and Davit held the 7-to-9 slot, and the calendar stayed empty after it."
+      "line": "A two-hour Valoris call with Mike, Martin and Davit opens the day at seven."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled — a wide-open stretch for whatever's been waiting on a clear afternoon."
+      "line": "Nothing on the calendar after nine — the long middle of the day is open."
     },
     {
       "time": "Evening",
-      "line": "No commitments on the calendar; the girls are with Jen this week."
+      "line": "A quiet evening to land on; the girls are with Jen this week."
     }
   ],
   "japanese": {
