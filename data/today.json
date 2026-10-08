@@ -1,61 +1,85 @@
 {
   "date": "Thursday, October 8, 2026",
   "generatedAt": "Morning brief · 10:20 AM ET",
-  "theme": "Open ends around a crowded middle — and two booking windows closing.",
-  "greeting": "Morning, Dan. It's an open morning and an open evening wrapped around a busy midday. The week's real pressure isn't the calendar, though — it's two travel-booking windows quietly running out of road.",
+  "theme": "Quiet until noon, then a run of calls.",
+  "greeting": "Morning, Dan. The day stays open until noon, then three calls run back to back into mid-afternoon. That clear morning is the best window you'll get this week for the December-trip call, with the book-by date now close.",
   "needsAttention": [
     {
-      "tag": "Book-by Oct 15",
-      "title": "December trip still has no destination",
-      "detail": "The Sept 30 decision date has already slipped and the Oct 15 book-by is a week out. Holiday inventory for six across three weeks is the thinnest of the year — this is the one that bites if it waits."
+      "tag": "Prep · 1 PM",
+      "title": "Skim the NACD prep questions before 1",
+      "detail": "Larissa's Oct 7 reminder for today's 1 PM prep session (the Oct 28 Maine Visionaries event) has the draft question list attached. Ten minutes with it beforehand is the whole point of the call."
     },
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV isn't held yet",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week is the hardest rental in that market and sells out early. It's sat flagged top-priority since mid-September; a refundable hold costs nothing and closes the risk."
+      "tag": "Awaiting reply",
+      "title": "Tell ICGN what title to run",
+      "detail": "Claudia at ICGN asked Oct 7 what job title or specialty to list for you in the Toronto programme. A one-line reply unblocks the panel's planning."
     },
     {
-      "tag": "Awaiting signature",
-      "title": "St Pete Beach signing is on its second notice",
-      "detail": "A document-signing invitation for the 26th Ave property came through again this morning after a first reminder yesterday, still unsigned."
+      "tag": "Window closing",
+      "title": "Make the December-trip call",
+      "detail": "On the Mike + Dan board, overdue since Sep 30: the real clock is the Oct 15 book-by for six people over the holidays. Pick domestic vs. international and get a shortlist down this week."
+    },
+    {
+      "tag": "Window open",
+      "title": "Lock the Pathfinder drive dates",
+      "detail": "The Portland to St Pete drive window is Oct 5-18 and it's live now. Setting dates lets you book the one hotel night and kill the rolling Florida rental cycles behind it."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
       "title": "Call Merrill Lynch",
-      "detail": "You put this on the calendar last night",
-      "tag": "finance"
+      "detail": "You set this up last night.",
+      "tag": "Finance"
     },
     {
       "time": "1:00 PM",
-      "title": "NACD New England prep",
-      "detail": "Zoom — prep session for the Oct 28 chapter event",
-      "tag": "board"
+      "title": "NACD New England prep session",
+      "detail": "Zoom; prep for the Oct 28 event.",
+      "tag": "Board"
     },
     {
       "time": "2:00 PM",
       "title": "Kevin / Dan catch-up",
-      "detail": "Deloitte · the monthly with Kevin Tracey",
-      "tag": "call"
+      "detail": "Kevin Tracey calls you; Deloitte.",
+      "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "Valoris follow-up landed",
+        "detail": "Mike Lubrano at Valoris sent the materials he promised on Oct 7 — unread, worth a look when you have a minute."
+      },
+      {
+        "tag": "Job search",
+        "title": "Intro to Sun Life's sustainability lead",
+        "detail": "Pema introduced you to Marissa Glassbrook at Sun Life on Oct 5; the thread's waiting on your hello back."
+      },
+      {
         "tag": "FYI",
-        "title": "Valoris accounting with Mike",
-        "detail": "A Teams invite from Valoris to walk through accounting landed yesterday, marked important — no time pinned yet."
+        "title": "A document's waiting for your signature",
+        "detail": "A signing reminder came in for 102 26th Ave, St Pete Beach — open it to see what's pending."
       }
     ],
-    "noise": "Everything else is newsletters and retail — WSJ, Press Herald, Amtrak, Revolut, and a dozen autumn sale emails.",
-    "clear": "Nothing job-search landed overnight."
+    "noise": "The rest is newsletters and retail — Monocle, WSJ, shop sales, and local roundups.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "title": "Mom's care-plan form is moving",
+      "detail": "You sent the physician plan-of-care Oct 7; Tampa Gardens has it and is routing it to her doctor — nothing owed."
+    },
+    {
+      "title": "Wildgrain subscription closed",
+      "detail": "Cancelled Oct 7 and confirmed; the October box was never charged."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St Petersburg, FL",
+    "location": "Maine",
     "confidence": "low",
     "asOf": "Thursday Oct 8"
   },
@@ -66,41 +90,41 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Household",
+      "title": "Book the Maine Christmas SUV (refundable)",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 14",
+      "overdue": true
+    },
+    {
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Pathfinder drive south, Portland → St Pete",
-      "project": "Travel",
-      "due": "Window Oct 5–18",
-      "overdue": false
-    },
-    {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Household",
+      "title": "Place the Portland house order",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar until noon — the widest open stretch of the day sits right at the front of it."
+      "line": "Nothing on the calendar before noon — the one genuinely open stretch today."
     },
     {
       "time": "Afternoon",
-      "line": "The day's weight lands midday: three calls back to back, with board-world and finance both in the mix."
+      "line": "Three calls land back to back from noon: Merrill Lynch, the NACD prep, then Kevin."
     },
     {
       "time": "Evening",
-      "line": "It empties after half past two, and with the girls at Jen's this week the evening is genuinely your own."
+      "line": "Yours once the calls wrap; the haircut sits tomorrow afternoon, not tonight."
     }
   ],
   "japanese": {
