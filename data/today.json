@@ -1,65 +1,75 @@
 {
   "date": "Thursday, October 8, 2026",
-  "generatedAt": "Morning brief · 2:15 PM ET",
-  "theme": "Two midday calls, then the afternoon is yours.",
-  "greeting": "A short stretch of calls through the middle of the day, Dan, and an open run after. Six tasks are already behind you and the daily goal is met before noon.",
+  "generatedAt": "Morning brief · 2:20 PM ET",
+  "theme": "A light calendar; a few replies and a deadline worth catching.",
+  "greeting": "A quiet day on the calendar, Dan — two midday calls and then it opens up. What's worth catching: a couple of people waiting on your reply, and the December trip clock starting to tick.",
   "needsAttention": [
     {
       "tag": "Awaiting reply",
       "title": "Kevin Tracey wants a new time",
-      "detail": "After the 2 PM was declined, Kevin at Deloitte Global wrote asking whether another day or time works for the catch-up. He's waiting on you to name one."
+      "detail": "After the 2 PM catch-up came off the books, Kevin at Deloitte's Global Boardroom Program asked for another day or time that works — the thread is waiting on you."
     },
     {
-      "tag": "Book by Oct 15",
-      "title": "December break is still undecided",
-      "detail": "The shortlist-and-decide task on the Mike + Dan board was due Sept 30 and the book-by date is Oct 15 — holiday inventory for six over three weeks is the thinnest of the year, so the window is closing this week."
+      "tag": "Pick a day",
+      "title": "Fran's lunch next week",
+      "detail": "Fran came back with Wednesday, Thursday, or Friday next week (Wednesday only late, around 1) and needs you to choose one."
     },
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week is the hardest rental in that market and it sells out. The board flags it p1 — holding a refundable booking now costs nothing and removes the risk."
+      "tag": "Deadline near",
+      "title": "December trip — book by Oct 15",
+      "detail": "Your December-break task set an Oct 15 book-by for all four girls; holiday inventory for six over three weeks is the thinnest of the year, so the window is closing fast."
     },
     {
-      "tag": "Window open",
-      "title": "Pathfinder drive south",
-      "detail": "The Oct 5-18 off-week gap for driving the Pathfinder Portland to St Pete is open now and closes on the 18th. Book the hotel night once the dates are set."
+      "tag": "To sign",
+      "title": "St Pete Beach signing",
+      "detail": "A signing invitation for 102 26th Ave, St Pete Beach has been sitting unread in the inbox since yesterday."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
       "title": "Call Merrill Lynch",
-      "detail": "On your calendar through the noon hour.",
-      "tag": "Finance"
+      "detail": "",
+      "tag": "call"
     },
     {
       "time": "1:00 PM",
-      "title": "NACD New England — Oct 28 prep",
-      "detail": "Zoom prep session with Larissa Ravetto and the chapter for the Oct 28 event.",
-      "tag": "Prep"
+      "title": "NACD New England prep",
+      "detail": "Zoom prep for the Oct 28 event",
+      "tag": "zoom"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Brunswick lined up intro calls",
-        "detail": "Erika Maass proposed next steps — conversations with Jonathan Doorley and the New York team — and you've already replied yes."
+        "title": "Brunswick's proposed next steps",
+        "detail": "Erika Maass wants to set up partner conversations, including the New York office head; you confirmed earlier today."
       },
       {
-        "tag": "Financial",
-        "title": "Amex charge posted",
-        "detail": "A charge you asked Amex to track on 10/07 has now posted to the account ending 403003."
+        "tag": "Job search",
+        "title": "Tokyo search season opening",
+        "detail": "Sakai-san at ProNed replied that boards are starting their autumn searches and he'll keep you in mind — worth a short reply."
       }
     ],
-    "noise": "The rest is retail and newsletters — Amazon, SiriusXM, Monocle, a sailing-club trial, and a dozen autumn sales.",
-    "clear": "Nothing else is waiting on a reply."
+    "noise": "The rest is newsletters and LinkedIn job alerts — WSJ, Monocle, and a couple of MD listings.",
+    "clear": "Everything else is read or already handled."
   },
   "resolved": [
     {
-      "tag": "Job search",
-      "title": "Replied to Brunswick",
-      "detail": "You confirmed the intro conversations with Jonathan Doorley and team, so the ball is in their court now."
+      "tag": "Handled",
+      "title": "Mom's care paperwork sent",
+      "detail": "You got Tampa Gardens the plan-of-care form today and asked them to confirm it reached the insurer."
+    },
+    {
+      "tag": "Scheduled",
+      "title": "Intro call set for Oct 15",
+      "detail": "Amin Noorani offered 9:30 AM next Thursday; you accepted and asked for the Teams invite."
+    },
+    {
+      "tag": "Off the books",
+      "title": "2 PM catch-up declined",
+      "detail": "You declined today's Deloitte slot — Kevin is now asking for a new time (above)."
     }
   ],
   "context": {
@@ -76,35 +86,47 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
+      "title": "Lock the Portland → St Pete drive dates",
+      "project": "Travel",
+      "due": "Oct 5–18 window",
+      "overdue": false
+    },
+    {
+      "title": "Book a refundable Christmas SUV, Portland",
+      "project": "Travel",
+      "due": "Overdue Sep 14",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 30",
+      "title": "Reschedule the kids' passport appointment",
+      "project": "Travel",
+      "due": "Overdue Sep 21",
+      "overdue": true
+    },
+    {
+      "title": "Get term-life quotes to compare",
+      "project": "Household",
+      "due": "Overdue Sep 25",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/5",
+    "morning": "0/4",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A call with Merrill Lynch carries you through the noon hour."
+      "line": "The morning stayed open — nothing on the calendar before noon."
     },
     {
       "time": "Afternoon",
-      "line": "The NACD New England prep for the Oct 28 event sits at one, then the afternoon opens up."
+      "line": "Two back-to-back calls from noon, then the afternoon clears; the 2 o'clock slot came off the books."
     },
     {
       "time": "Evening",
-      "line": "Nothing on the calendar — the girls are with Jen, so it's a quiet one."
+      "line": "Nothing scheduled tonight; tomorrow holds only a late-afternoon haircut."
     }
   ],
   "japanese": {
