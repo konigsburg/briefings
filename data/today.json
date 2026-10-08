@@ -1,40 +1,35 @@
 {
   "date": "Wednesday, October 7, 2026",
   "generatedAt": "Morning brief · 8:15 PM ET",
-  "theme": "An open day, eyes on tomorrow's prep.",
-  "greeting": "A light day, Dan — a single call with Mike on the books and the rest of it yours. The real pull is tomorrow: the NACD prep at one, and Larissa's draft questions are already in your inbox.",
+  "theme": "An open day winding down — board prep and a booking deadline lead into tomorrow.",
+  "greeting": "The day's one call is behind you, Dan, and the evening is clear. Tomorrow's NACD prep session and the December-trip book-by date are the two things worth getting ahead of before you close the laptop.",
   "needsAttention": [
     {
-      "tag": "Prep · tomorrow",
-      "title": "NACD prep session at one",
-      "detail": "Tomorrow's 1 PM NACD New England prep has Larissa's draft list of discussion questions attached — worth a read before the Zoom so you arrive holding your lines."
-    },
-    {
-      "tag": "Reply owed",
-      "title": "Your title for the Toronto programme",
-      "detail": "Claudia at ICGN is waiting on how you'd like your job title to read beside your name in the Autumn Conference programme."
-    },
-    {
-      "tag": "Reply owed",
-      "title": "Confirm the intro with Amin",
-      "detail": "Amin Noorani (the Jo Notkin introduction) proposed a Teams intro next Thursday, Oct 15 at 9:30 AM — he's holding for your yes."
+      "tag": "Prep for tomorrow",
+      "title": "NACD New England prep session",
+      "detail": "Tomorrow at 1 PM on Zoom — the prep call for the chapter's Oct 28 event. Arrive having reviewed the Oct 28 agenda and your part in it so the hour moves."
     },
     {
       "tag": "Window closing",
-      "title": "December break still undecided",
-      "detail": "The shortlist for all four kids was due Sept 30 and books by Oct 15; the holiday window is thin, so the destination call is the thing that unblocks it."
+      "title": "December trip — book by Oct 15",
+      "detail": "The decision was due Sept 30 and the book-by is eight days out. Holiday inventory for six over three weeks is the thinnest of the year. Pick the domestic default or commit to refundable-international — don't shortlist across both."
     },
     {
-      "tag": "Signature",
-      "title": "St Pete Beach signing is live",
-      "detail": "The signing session for 102 26th Ave is open and reminding you — the documents are waiting on your signature."
+      "tag": "Books this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "A p1 in your list, overdue since Sept 14. A full-size SUV out of Portland over Christmas week sells out early; book it refundable now and fix the dates later."
+    },
+    {
+      "tag": "Live window",
+      "title": "Drive the Pathfinder south",
+      "detail": "The Oct 5-18 Portland-to-St Pete window is open now. Two drivers, two days, one hotel night — book that night once the dates are set."
     }
   ],
   "schedule": [
     {
       "time": "2:00 PM",
       "title": "Valoris accounting with Mike",
-      "detail": "Teams · 30 min",
+      "detail": "30-minute Teams call",
       "tag": "call"
     }
   ],
@@ -42,28 +37,24 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "SVP, Government Affairs — Metric DCX",
-        "detail": "A LinkedIn alert surfaced a senior community-engagement and government-affairs role in data-center development."
+        "title": "Tokyo board-search contact replied",
+        "detail": "Your autumn check-in to the Japan search contacts drew a reply — no openings right now, but you'll be kept in mind."
       },
       {
-        "tag": "FYI",
-        "title": "ICGN Plenary 7 planning call",
-        "detail": "Claudia is scheduling the Toronto stewardship-data panel call; you're cc'd with three co-panelists, nothing owed yet."
+        "tag": "Job search",
+        "title": "Aon MD role flagged",
+        "detail": "A LinkedIn alert surfaced a Director, Strategic Engagement opening at Aon."
+      },
+      {
+        "tag": "Financial",
+        "title": "St Pete Beach signing request",
+        "detail": "A SabalSign e-signature reminder for 102 26th Ave is waiting on your signature."
       }
     ],
-    "noise": "The rest is newsletters and retail — Autio, Disney, The Company Store, a SPACE Gallery event.",
-    "clear": ""
+    "noise": "Mostly retail and newsletter churn — OXO, Redbubble, The Company Store, Disney, a couple of Patreon posts.",
+    "clear": "Nothing else in the inbox needs you tonight."
   },
-  "resolved": [
-    {
-      "title": "KPMG 401k statement reviewed",
-      "detail": "Scott at Morgan Stanley walked through the rollover and contributions; you confirmed and closed the loop."
-    },
-    {
-      "title": "Maine meetup with Kevin McGovern",
-      "detail": "You both agreed to connect in Maine when he's next up — it's in his court now."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -78,27 +69,27 @@
   },
   "tasks": [
     {
-      "title": "Book the Maine Christmas SUV rental (refundable)",
-      "project": "Travel",
-      "due": "Overdue Sep 14",
+      "title": "Get three term-life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Pathfinder drive south — Portland to St Pete",
-      "project": "Travel",
-      "due": "Oct 5–18 window",
-      "overdue": false
-    },
-    {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Household",
-      "due": "Overdue Sep 25",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
+      "title": "Passport packet + rescheduled appointment for the four kids",
+      "project": "Travel",
+      "due": "Overdue Sept 21",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist to book the removal appointment",
       "project": "Household",
-      "due": "Overdue Sep 30",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -110,15 +101,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The morning ran clear — nothing on the calendar held it."
+      "line": "An open stretch with nothing on the calendar — the kind of quiet that's easy to spend well."
     },
     {
       "time": "Afternoon",
-      "line": "One call anchored the middle: Valoris accounting with Mike at two."
+      "line": "One 30-minute Teams call with Mike on Valoris accounting breaks the quiet at 2."
     },
     {
       "time": "Evening",
-      "line": "The evening's open, with tomorrow's NACD prep waiting at one."
+      "line": "Clear, with tomorrow's NACD prep the one thing worth reading into before the day ends."
     }
   ],
   "japanese": {
