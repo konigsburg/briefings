@@ -1,28 +1,33 @@
 {
   "date": "Wednesday, October 7, 2026",
   "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "An open day winding down — board prep and a booking deadline lead into tomorrow.",
-  "greeting": "The day's one call is behind you, Dan, and the evening is clear. Tomorrow's NACD prep session and the December-trip book-by date are the two things worth getting ahead of before you close the laptop.",
+  "theme": "A quiet day; tomorrow does the work.",
+  "greeting": "A light Wednesday behind you, Dan — one Teams call and an otherwise open day. Tomorrow bunches up around midday, so tonight's a good one to keep easy.",
   "needsAttention": [
     {
       "tag": "Prep for tomorrow",
       "title": "NACD New England prep session",
-      "detail": "Tomorrow at 1 PM on Zoom — the prep call for the chapter's Oct 28 event. Arrive having reviewed the Oct 28 agenda and your part in it so the hour moves."
+      "detail": "Tomorrow at 1 PM on Zoom — the chapter's prep call for its Oct 28 event, and Larissa sent the draft discussion questions. Skim them tonight so the hour runs on your terms."
+    },
+    {
+      "tag": "Reply to lock it",
+      "title": "Confirm the Oct 15 intro call",
+      "detail": "Amin Noorani — the Jo Notkin introduction — has your CV and proposed Teams on Thursday Oct 15 at 9:30 AM. A one-line yes holds the slot."
     },
     {
       "tag": "Window closing",
       "title": "December trip — book by Oct 15",
-      "detail": "The decision was due Sept 30 and the book-by is eight days out. Holiday inventory for six over three weeks is the thinnest of the year. Pick the domestic default or commit to refundable-international — don't shortlist across both."
+      "detail": "The decision was due Sept 30 and the book-by is a week out. Holiday inventory for six over three weeks is the thinnest of the year — pick the domestic default or commit to refundable-international, not both."
     },
     {
       "tag": "Books this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "A p1 in your list, overdue since Sept 14. A full-size SUV out of Portland over Christmas week sells out early; book it refundable now and fix the dates later."
+      "detail": "The Pathfinder heads south this month, so there's no six-seater in Maine at Christmas. A refundable full-size SUV out of Portland costs nothing to hold now and sells out if you wait."
     },
     {
-      "tag": "Live window",
+      "tag": "Window open now",
       "title": "Drive the Pathfinder south",
-      "detail": "The Oct 5-18 Portland-to-St Pete window is open now. Two drivers, two days, one hotel night — book that night once the dates are set."
+      "detail": "The Oct 5–18 Maine gap is the window to drive Portland → St Pete. Doing it in-window is what retires the Oct 18 rental and the monthly cycles after it."
     }
   ],
   "schedule": [
@@ -36,25 +41,36 @@
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Tokyo board-search contact replied",
-        "detail": "Your autumn check-in to the Japan search contacts drew a reply — no openings right now, but you'll be kept in mind."
-      },
-      {
-        "tag": "Job search",
-        "title": "Aon MD role flagged",
-        "detail": "A LinkedIn alert surfaced a Director, Strategic Engagement opening at Aon."
-      },
-      {
         "tag": "Financial",
-        "title": "St Pete Beach signing request",
-        "detail": "A SabalSign e-signature reminder for 102 26th Ave is waiting on your signature."
+        "title": "Signature still pending",
+        "detail": "A SabalSign e-signature reminder for 102 26th Ave, St Pete Beach is waiting on you."
+      },
+      {
+        "tag": "Job search",
+        "title": "Toronto panel wants your title",
+        "detail": "ICGN's Claudia Rossetti asked how to list you in the Plenary 7 programme — a one-line reply settles it."
+      },
+      {
+        "tag": "Job search",
+        "title": "Intro to Sun Life's sustainability lead",
+        "detail": "Pema Lhalungpa connected you with Marissa Glassbrook at Sun Life on Monday — still waiting on your note back."
       }
     ],
-    "noise": "Mostly retail and newsletter churn — OXO, Redbubble, The Company Store, Disney, a couple of Patreon posts.",
-    "clear": "Nothing else in the inbox needs you tonight."
+    "noise": "The usual churn — LinkedIn and ExecThread job alerts, ANA and Monocle, and the St Pete and Midcoast local newsletters.",
+    "clear": "Threads you already closed today are off the list, the Morgan Stanley 401k question among them."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Closed the loop",
+      "title": "Tokyo search contacts replied",
+      "detail": "Your autumn check-in to the ProNed and Jomon contacts drew a warm reply from Furuta-san late tonight — no openings right now, but you'll be kept in mind."
+    },
+    {
+      "tag": "Handled",
+      "title": "401k statement question answered",
+      "detail": "Morgan Stanley's Scott Lazarus reviewed the KPMG 401k statement and flagged the rollover for the Merrill call; you confirmed you'll follow up."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -88,7 +104,7 @@
     },
     {
       "title": "Call dermatologist to book the removal appointment",
-      "project": "Household",
+      "project": "Health",
       "due": "Overdue Aug 28",
       "overdue": true
     }
@@ -101,15 +117,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open stretch with nothing on the calendar — the kind of quiet that's easy to spend well."
+      "line": "An open stretch with nothing on the calendar — spent on outreach and a run of family admin."
     },
     {
       "time": "Afternoon",
-      "line": "One 30-minute Teams call with Mike on Valoris accounting breaks the quiet at 2."
+      "line": "One 30-minute Teams call with Mike on Valoris accounting, a little after 2."
     },
     {
       "time": "Evening",
-      "line": "Clear, with tomorrow's NACD prep the one thing worth reading into before the day ends."
+      "line": "Quiet now — tomorrow clusters around midday, so the evening's best kept light."
     }
   ],
   "japanese": {
