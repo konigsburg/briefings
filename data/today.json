@@ -1,61 +1,61 @@
 {
   "date": "Thursday, October 8, 2026",
   "generatedAt": "Morning brief · 7:24 AM ET",
-  "theme": "An open morning, then an afternoon of calls.",
-  "greeting": "A clear run until noon, then three calls stack up through early afternoon. The girls are with Jen this week, so the evening is your own.",
+  "theme": "Open ends around a crowded middle — and two booking windows closing.",
+  "greeting": "Morning, Dan. It's an open morning and an open evening wrapped around a busy midday. The week's real pressure isn't the calendar, though — it's two travel-booking windows quietly running out of road.",
   "needsAttention": [
     {
-      "tag": "Prep · 1 PM",
-      "title": "Skim the NACD prep questions first",
-      "detail": "Larissa circulated the draft discussion questions for today's 1 PM prep session ahead of the Oct 28 NACD New England event. Worth a read before you join the Zoom."
+      "tag": "Book-by Oct 15",
+      "title": "December trip still has no destination",
+      "detail": "The Sept 30 decision date has already slipped and the Oct 15 book-by is a week out. Holiday inventory for six across three weeks is the thinnest of the year — this is the one that bites if it waits."
     },
     {
-      "tag": "Window closing",
-      "title": "The December trip is still unbooked",
-      "detail": "Book-by is Oct 15, now a week out, and the shortlist decision — domestic versus refundable international — was due Sept 30 and is still open. Holiday inventory for six over three weeks is the thinnest of the year."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV isn't held yet",
+      "detail": "A refundable full-size SUV out of Portland for Christmas week is the hardest rental in that market and sells out early. It's sat flagged top-priority since mid-September; a refundable hold costs nothing and closes the risk."
+    },
+    {
+      "tag": "Awaiting signature",
+      "title": "St Pete Beach signing is on its second notice",
+      "detail": "A document-signing invitation for the 26th Ave property came through again this morning after a first reminder yesterday, still unsigned."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
       "title": "Call Merrill Lynch",
-      "detail": "A call you set for midday",
-      "tag": "Finance"
+      "detail": "You put this on the calendar last night",
+      "tag": "finance"
     },
     {
       "time": "1:00 PM",
-      "title": "NACD New England prep session",
-      "detail": "Zoom, prep for the Oct 28 event",
-      "tag": "Prep"
+      "title": "NACD New England prep",
+      "detail": "Zoom — prep session for the Oct 28 chapter event",
+      "tag": "board"
     },
     {
       "time": "2:00 PM",
       "title": "Kevin / Dan catch-up",
-      "detail": "Monthly check-in, Kevin calls you",
-      "tag": "Call"
+      "detail": "Deloitte · the monthly with Kevin Tracey",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Valoris sent the governance proposals",
-        "detail": "Mike Lubrano forwarded the IVI governance review and the ESMS technical proposal 'as promised' — flagged important and still unread."
-      },
-      {
-        "tag": "Financial",
-        "title": "E-signature waiting on the St Pete Beach place",
-        "detail": "A second SabalSign reminder to sign the documents for 102 26th Ave; the session is still open."
+        "tag": "FYI",
+        "title": "Valoris accounting with Mike",
+        "detail": "A Teams invite from Valoris to walk through accounting landed yesterday, marked important — no time pinned yet."
       }
     ],
-    "noise": "Everything else is newsletters and promotions — WSJ, Amtrak, Breeze, the Press Herald and the like.",
-    "clear": ""
+    "noise": "Everything else is newsletters and retail — WSJ, Press Herald, Amtrak, Revolut, and a dozen autumn sale emails.",
+    "clear": "Nothing job-search landed overnight."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Maine",
+    "location": "St Petersburg, FL",
     "confidence": "low",
     "asOf": "Thursday Oct 8"
   },
@@ -66,26 +66,20 @@
   },
   "tasks": [
     {
-      "title": "Book the Maine Christmas SUV rental (refundable, full-size, PWM)",
-      "project": "Mike + Dan - Board",
-      "due": "Overdue Sep 14",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south, Portland to St Pete",
-      "project": "Mike + Dan - Board",
-      "due": "Oct 5-18 window, now open",
-      "overdue": true
-    },
-    {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan - Board",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order: king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan - Board",
+      "title": "Pathfinder drive south, Portland → St Pete",
+      "project": "Travel",
+      "due": "Window Oct 5–18",
+      "overdue": false
+    },
+    {
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     }
@@ -97,16 +91,16 @@
   },
   "acts": [
     {
-      "time": "Until 12 PM",
-      "line": "A wide-open morning with nothing on the calendar, the best window you will get today for anything carrying a deadline."
+      "time": "Morning",
+      "line": "Nothing on the calendar until noon — the widest open stretch of the day sits right at the front of it."
     },
     {
-      "time": "12 - 2:30 PM",
-      "line": "Three calls back to back: Merrill Lynch at noon, the NACD prep at one, then your monthly with Kevin."
+      "time": "Afternoon",
+      "line": "The day's weight lands midday: three calls back to back, with board-world and finance both in the mix."
     },
     {
-      "time": "2:30 PM onward",
-      "line": "The calendar clears after Kevin, with the girls at Jen's and only tomorrow's haircut on the horizon."
+      "time": "Evening",
+      "line": "It empties after half past two, and with the girls at Jen's this week the evening is genuinely your own."
     }
   ],
   "japanese": {
