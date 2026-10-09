@@ -1,23 +1,33 @@
 {
   "date": "Thursday, October 8, 2026",
-  "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "A light calendar, with a few travel bookings past their dates.",
-  "greeting": "The calendar's behind you for the day, Dan. What's left is a short stack of travel bookings that have gone overdue — the Christmas SUV and the December trip are the two worth clearing first.",
+  "generatedAt": "Morning brief · 10:17 PM ET",
+  "theme": "A light day, bookended by two afternoon calls.",
+  "greeting": "Two calls carried the afternoon — Merrill Lynch and the NACD New England prep for the Oct 28 event — and the rest of the day was yours. The girls are with Jen in Florida this week, so Maine stays quiet.",
   "needsAttention": [
     {
-      "tag": "Overdue · book now",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Marked p1 and past due since mid-September. A full-size SUV out of Portland over Christmas week is the hardest rental in that market — book refundable now and adjust the dates later."
+      "tag": "Reply owed",
+      "title": "Pick a lunch day with Fran",
+      "detail": "Fran offered Wednesday, Thursday, or Friday next week (Wednesday only after 1). She's waiting on you to name the day."
     },
     {
-      "tag": "Book by Oct 15",
+      "tag": "Reply owed",
+      "title": "Kevin Tracey wants a new time",
+      "detail": "After you declined the recurring catch-up, Kevin at Deloitte asked whether another day or time might work."
+    },
+    {
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas rental",
+      "detail": "A refundable full-size SUV out of Portland for Christmas week — overdue since Sept 14, and your own note flags it as the booking most likely to sell out."
+    },
+    {
+      "tag": "Decide by Oct 15",
       "title": "December break destination",
-      "detail": "The decision was due Sept 30 and booking closes Oct 15 for all four girls over a three-week window — the thinnest holiday inventory of the year. Settle domestic vs. international and lock a shortlist."
+      "detail": "Shortlist and settle the all-kids December trip (Dec 13–Jan 2); the booking deadline is Oct 15 for thin holiday inventory."
     },
     {
-      "tag": "Window Oct 5–18",
-      "title": "Drive the Pathfinder south",
-      "detail": "The off-week gap to move the Pathfinder Portland → St Pete runs through Oct 18; after that it's closed until Christmas. Set dates and book the one hotel night."
+      "tag": "Window open",
+      "title": "Pathfinder drive south",
+      "detail": "The Portland → St Pete drive window is Oct 5–18 — the off-week gap before the car heads south for the school year."
     }
   ],
   "schedule": [
@@ -29,15 +39,9 @@
     },
     {
       "time": "1:00 PM",
-      "title": "NACD New England — Oct 28 prep",
-      "detail": "Zoom prep session",
+      "title": "NACD New England prep",
+      "detail": "Zoom prep for the Oct 28 event",
       "tag": "meeting"
-    },
-    {
-      "time": "2:00 PM",
-      "title": "Kevin / Dan catch-up",
-      "detail": "You declined",
-      "tag": "declined"
     }
   ],
   "inbox": {
@@ -45,37 +49,32 @@
       {
         "tag": "Job search",
         "title": "Estée Lauder VP, Global Public Affairs",
-        "detail": "A LinkedIn alert for a VP, Global Public Affairs opening — squarely in your lane."
+        "detail": "A LinkedIn alert for a VP, Global Public Affairs role — squarely on your public-affairs track."
       },
       {
-        "tag": "Financial",
-        "title": "Morgan Stanley wants a morning time",
-        "detail": "Scott Lazarus is waiting to confirm a call after the KPMG 401k thread; you offered 'anytime in the am.'"
+        "tag": "Job search",
+        "title": "Valoris sent materials",
+        "detail": "Mike Lubrano sent documents ('As promised' / 'As discussed'), and Michael Steindl added a thought on the ICGN stewardship panel."
       },
       {
         "tag": "Financial",
         "title": "Signing reminder — St Pete Beach",
-        "detail": "A Sabalsign reminder to sign documents for 102 26th Ave; check the deadline before it lapses."
+        "detail": "A SabalSign reminder to sign documents for 102 26th Ave, St Pete Beach, still unread."
       },
       {
-        "tag": "Security",
-        "title": "Google data shared with GoDaddy",
-        "detail": "A sign-in with Google linked your account to GoDaddy at 3:34 PM — expected if that was you."
+        "tag": "FYI",
+        "title": "Your KPMG address is bouncing",
+        "detail": "A note to dkonigsburg@kpmg.com bounced — that mailbox is closed, so send anything meant for it to a current address."
       }
     ],
-    "noise": "Around 15 newsletters and promos — WSJ, NYT Cooking, Press Herald, two St. Pete roundups, Responsible Investor.",
+    "noise": "The usual promos and a language-app discount — nothing that needs you.",
     "clear": ""
   },
   "resolved": [
     {
-      "tag": "Confirmed",
-      "title": "Maine Visionaries registration is in",
-      "detail": "NACD New England confirmed your spot for the 2026 Maine Visionaries event."
-    },
-    {
-      "tag": "Answered",
-      "title": "401k vesting question settled",
-      "detail": "Merrill confirmed the KPMG match is unvested; you relayed it back to Scott Lazarus."
+      "tag": "Job search",
+      "title": "Brunswick next steps accepted",
+      "detail": "You replied to Erika Maass agreeing to the proposed conversations with Jonathan Doorley and team — the ball is now in Brunswick's court."
     }
   ],
   "context": {
@@ -104,6 +103,12 @@
       "overdue": true
     },
     {
+      "title": "Call dermatologist to book Mike's appt",
+      "project": "Household",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
       "project": "Personal",
       "due": "Overdue Aug 15",
@@ -118,15 +123,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open morning — nothing on the calendar until noon."
+      "line": "The morning stayed open — nothing on the calendar before noon."
     },
     {
       "time": "Afternoon",
-      "line": "The day's weight sat here: a Merrill call at noon into NACD New England prep for the Oct 28 event."
+      "line": "Two calls back to back: Merrill Lynch at noon, then the NACD New England prep for the Oct 28 event."
     },
     {
       "time": "Evening",
-      "line": "Quiet after two, and tomorrow holds only a late-afternoon haircut."
+      "line": "A quiet evening, with the girls at Jen's in Florida this week."
     }
   ],
   "japanese": {
