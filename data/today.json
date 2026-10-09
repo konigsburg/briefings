@@ -1,88 +1,71 @@
 {
   "date": "Friday, October 9, 2026",
-  "generatedAt": "Morning brief · 6:15 AM ET",
-  "theme": "A light day, bookended by two afternoon calls.",
-  "greeting": "Two calls carried the afternoon — Merrill Lynch and the NACD New England prep for the Oct 28 event — and the rest of the day was yours. The girls are with Jen in Florida this week, so Maine stays quiet.",
+  "generatedAt": "Morning brief · 6:18 AM ET",
+  "theme": "An open Friday, likely in Maine",
+  "greeting": "A quiet, open day, Dan — a single appointment this afternoon and an evening that leans toward tomorrow's show. The real wins today are a couple of bookings that have waited long enough.",
   "needsAttention": [
     {
-      "tag": "Reply owed",
-      "title": "Pick a lunch day with Fran",
-      "detail": "Fran offered Wednesday, Thursday, or Friday next week (Wednesday only after 1). She's waiting on you to name the day."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Your p1 task (overdue since Sep 14) to hold a refundable full-size SUV out of Portland for Christmas week. The Pathfinder heads south this month, so this is the only six-seater for the girls' Maine trip — and holiday inventory there sells out early."
     },
     {
-      "tag": "Reply owed",
-      "title": "Kevin Tracey wants a new time",
-      "detail": "After you declined the recurring catch-up, Kevin at Deloitte asked whether another day or time might work."
-    },
-    {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas rental",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week — overdue since Sept 14, and your own note flags it as the booking most likely to sell out."
-    },
-    {
-      "tag": "Decide by Oct 15",
+      "tag": "Books Oct 15",
       "title": "December break destination",
-      "detail": "Shortlist and settle the all-kids December trip (Dec 13–Jan 2); the booking deadline is Oct 15 for thin holiday inventory."
+      "detail": "Decide and book the three-week December trip for all four girls by Oct 15 (p2, overdue Sep 30). Passports land early-to-mid November, so the clean default is a domestic shortlist you can book now without risk."
     },
     {
       "tag": "Window open",
-      "title": "Pathfinder drive south",
-      "detail": "The Portland → St Pete drive window is Oct 5–18 — the off-week gap before the car heads south for the school year."
+      "title": "Drive the Pathfinder south",
+      "detail": "The Oct 5–18 off-week window to drive Portland → St Pete is open right now. Set the dates and book the one hotel night; it replaces a flight rather than adding a trip."
+    },
+    {
+      "tag": "Awaiting signature",
+      "title": "St Pete Beach signing",
+      "detail": "A second reminder from the signing service for 102 26th Ave, St Pete Beach — the document is still waiting on your signature."
     }
   ],
   "schedule": [
     {
-      "time": "12:00 PM",
-      "title": "Call Merrill Lynch",
-      "detail": "",
-      "tag": "call"
-    },
-    {
-      "time": "1:00 PM",
-      "title": "NACD New England prep",
-      "detail": "Zoom prep for the Oct 28 event",
-      "tag": "meeting"
+      "time": "3:30 PM",
+      "title": "Haircut",
+      "detail": "The one fixed point in the day.",
+      "tag": "personal"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Estée Lauder VP, Global Public Affairs",
-        "detail": "A LinkedIn alert for a VP, Global Public Affairs role — squarely on your public-affairs track."
-      },
-      {
-        "tag": "Job search",
-        "title": "Valoris sent materials",
-        "detail": "Mike Lubrano sent documents ('As promised' / 'As discussed'), and Michael Steindl added a thought on the ICGN stewardship panel."
+        "title": "SVP Global Public Policy — interview step",
+        "detail": "An interview-update email asks you to confirm work authorization for the SVP, Global Public Policy role (REQ64085). Worth a careful read, and a glance at the sender, before you respond."
       },
       {
         "tag": "Financial",
-        "title": "Signing reminder — St Pete Beach",
-        "detail": "A SabalSign reminder to sign documents for 102 26th Ave, St Pete Beach, still unread."
+        "title": "Morgan Stanley ACH processed",
+        "detail": "A $15,000 ACH transfer request was processed this morning — a confirmation only, no action needed unless it looks unexpected."
+      },
+      {
+        "tag": "Security",
+        "title": "Experian credit alert",
+        "detail": "Experian flagged a new change on your credit file (a credit-balance increase). A quick sign-in confirms it's you."
       },
       {
         "tag": "FYI",
-        "title": "Your KPMG address is bouncing",
-        "detail": "A note to dkonigsburg@kpmg.com bounced — that mailbox is closed, so send anything meant for it to a current address."
+        "title": "ICGN Q3 policy update",
+        "detail": "ICGN published its Q3 2026 policy-engagement summary — governance reading for a spare window."
       }
     ],
-    "noise": "The usual promos and a language-app discount — nothing that needs you.",
+    "noise": "The rest is newsletters and promos — Italian word of the day, coffee, car sales, a LinkedIn invite, local roundups.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Job search",
-      "title": "Brunswick next steps accepted",
-      "detail": "You replied to Erika Maass agreeing to the proposed conversations with Jonathan Doorley and team — the ball is now in Brunswick's court."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Maine",
-    "confidence": "low",
-    "asOf": "Thursday Oct 8"
+    "location": "Portland, Maine",
+    "confidence": "high",
+    "asOf": "Friday Oct 9"
   },
   "recipe": {
     "title": "Kabocha squash, yukon gold potatoes & cipolline",
@@ -97,15 +80,9 @@
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist to book Mike's appt",
-      "project": "Household",
-      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
@@ -116,22 +93,22 @@
     }
   ],
   "routines": {
-    "morning": "0/3",
-    "day": "0/4",
+    "morning": "0/9",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The morning stayed open — nothing on the calendar before noon."
+      "line": "A clear, unhurried stretch — the strongest run of open hours all day sits here."
     },
     {
       "time": "Afternoon",
-      "line": "Two calls back to back: Merrill Lynch at noon, then the NACD New England prep for the Oct 28 event."
+      "line": "One pin mid-afternoon downtown; the hours on either side are unclaimed."
     },
     {
       "time": "Evening",
-      "line": "A quiet evening, with the girls at Jen's in Florida this week."
+      "line": "An easy wind-down, with tomorrow pointing toward Portland and the State Theatre."
     }
   ],
   "japanese": {
