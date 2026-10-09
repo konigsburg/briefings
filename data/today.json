@@ -1,78 +1,60 @@
 {
   "date": "Friday, October 9, 2026",
   "generatedAt": "Morning brief · 10:25 AM ET",
-  "theme": "An open day in Portland — the calendar's nearly clear.",
-  "greeting": "The whole day is yours, Dan — just a 3:30 haircut on the books, with the Black Keys tomorrow at the State Theater. A good window to close out two travel bookings before their deadlines pass.",
+  "theme": "A wide-open day, with holiday logistics waiting in the wings.",
+  "greeting": "Your Friday is almost entirely yours, Dan — just a 3:30 haircut on the books. A good morning to close out the holiday-travel calls that have been idling on the board.",
   "needsAttention": [
     {
-      "tag": "Book now",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Flagged p1 in Todoist and overdue since mid-September. A full-size SUV out of Portland for Christmas week is the first rental to sell out; a refundable hold placed now costs nothing."
+      "tag": "Travel · overdue",
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "The p1 board item has been overdue since mid-September. A refundable full-size SUV out of Portland for Christmas week is the thinnest rental in that market and sells out — reserve one now and fix the dates later."
     },
     {
-      "tag": "Window closing",
-      "title": "Decide the December-break trip",
-      "detail": "The shortlist was due Sept 30 and the booking window closes Oct 15 — six people over the holidays is the thinnest inventory of the year."
+      "tag": "Decision · Oct 15",
+      "title": "Lock the December trip",
+      "detail": "All four girls, Dec 13 to Jan 2. The board gives you until about Oct 15 to book before holiday inventory for six thins out — pick domestic versus refundable-international and commit to one."
     },
     {
-      "tag": "Live window",
-      "title": "Pathfinder drive south is open now",
-      "detail": "The Portland to St Pete window runs Oct 5-18, and today sits in the off-week gap before the girls' next Maine stint."
-    },
-    {
-      "tag": "Awaiting signature",
-      "title": "A document is waiting for your signature",
-      "detail": "A second reminder in your inbox from Brandon Tecklenburg to sign papers for the St Pete Beach address (102 26th Ave) — the repeat notice means someone's waiting on it."
+      "tag": "Window open now",
+      "title": "Pathfinder drive south",
+      "detail": "The Oct 5 to 18 off-week gap in Maine is the window to drive the Pathfinder Portland to St Pete. It's open now; book the one hotel night once the two dates are set."
     }
   ],
   "schedule": [
     {
       "time": "3:30 PM",
       "title": "Haircut",
-      "detail": "The only thing on today's calendar.",
-      "tag": "Personal"
-    },
-    {
-      "time": "Tomorrow, 12 PM",
-      "title": "Black Keys concert",
-      "detail": "State Theater, Portland.",
-      "tag": "Evening"
+      "detail": "",
+      "tag": "personal"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn request from an IESBA principal",
-        "detail": "A connection request from a Principal at the ethics-standards board IESBA — worth a look for governance networking."
-      },
-      {
-        "tag": "Financial",
-        "title": "Two payments posted",
-        "detail": "A $15k Morgan Stanley ACH transfer and a British Airways Visa card payment both cleared — routine confirmations."
-      },
-      {
-        "tag": "Security",
-        "title": "Experian credit-file alert",
-        "detail": "A new alert flags an increase in credit balance — a glance, nothing urgent."
+        "title": "SVP Public Policy interview step",
+        "detail": "A sourcehire 'interview update' for the SVP, Global Public Policy role asks you to confirm work authorization through a link — confirm it's the real search firm before you reply to anything."
       },
       {
         "tag": "FYI",
-        "title": "ICGN Q3 governance update",
-        "detail": "The corporate-governance network's quarterly policy roundup landed — reading, not action."
+        "title": "St Pete Beach signing reminder",
+        "detail": "A signing invitation for 102 26th Ave, St Pete Beach is waiting on your e-signature. Open it to be sure it's expected before you sign."
+      },
+      {
+        "tag": "FYI",
+        "title": "ICGN plenary feedback is in",
+        "detail": "Davit and Martin sent notes on your Toronto Plenary 7 session guide; you answered Davit midday, and Martin's activity-to-outcomes angle is still open if you want to fold it in."
       }
     ],
-    "noise": "The rest is promotions and statements — The Company Store, Faherty, SiriusXM, Nextdoor, Hilton and Amtrak statements, and the usual language-learning newsletters.",
-    "clear": ""
+    "noise": "About eighteen promos and job-alert digests — Indochino, Dermstore, The Company Store, Rancho Gordo, LinkedIn alerts, an Amtrak statement.",
+    "clear": "Nothing else is sitting unanswered this morning."
   },
-  "resolved": [
-    "British Airways Visa card payment posted — Chase confirmed this morning, nothing to do."
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Portland, Maine",
-    "confidence": "high",
+    "confidence": "low",
     "asOf": "Friday Oct 9"
   },
   "recipe": {
@@ -83,40 +65,40 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe & outdoor shower soap holder",
-      "project": "Household",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sept 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Work",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
+    "morning": "0/2",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning with nothing on the calendar - the right stretch to clear the travel bookings that keep sliding."
+      "line": "Nothing on the calendar — a genuinely open morning to spend as you choose."
     },
     {
       "time": "Afternoon",
-      "line": "A 3:30 haircut is the only fixed point; the rest of the afternoon is yours."
+      "line": "The first and only fixed point is a 3:30 haircut."
     },
     {
       "time": "Evening",
-      "line": "Open and quiet, with the Black Keys at the State Theatre lined up for tomorrow."
+      "line": "Clear tonight, with the Black Keys at the State Theatre waiting on tomorrow."
     }
   ],
   "japanese": {
