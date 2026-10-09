@@ -1,70 +1,72 @@
 {
   "date": "Friday, October 9, 2026",
   "generatedAt": "Morning brief · 8:16 AM ET",
-  "theme": "An open Friday, likely in Maine",
-  "greeting": "A quiet, open day, Dan — just a haircut this afternoon and tomorrow's show on the horizon. The real wins today are the bookings that have waited long enough, plus a likely morning call with Morgan Stanley.",
+  "theme": "An open day in Portland — the calendar's nearly clear.",
+  "greeting": "The whole day is yours, Dan — just a 3:30 haircut on the books, with the Black Keys tomorrow at the State Theater. A good window to close out two travel bookings before their deadlines pass.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Your p1 task (overdue since Sep 14) to hold a refundable full-size SUV out of Portland for Christmas week. The Pathfinder heads south this month, so this is the only six-seater for the girls' Maine trip — and holiday inventory there sells out early."
+      "tag": "Book now",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Flagged p1 in Todoist and overdue since mid-September. A full-size SUV out of Portland for Christmas week is the first rental to sell out; a refundable hold placed now costs nothing."
     },
     {
-      "tag": "Books Oct 15",
-      "title": "December break destination",
-      "detail": "Decide and book the three-week December trip for all four girls by Oct 15 (p2, overdue Sep 30). Passports land early-to-mid November, so the clean default is a domestic shortlist you can book now without risk."
+      "tag": "Window closing",
+      "title": "Decide the December-break trip",
+      "detail": "The shortlist was due Sept 30 and the booking window closes Oct 15 — six people over the holidays is the thinnest inventory of the year."
     },
     {
-      "tag": "Window open",
-      "title": "Drive the Pathfinder south",
-      "detail": "The Oct 5-18 off-week window to drive Portland to St Pete is open right now and closes Oct 18. Set the dates and book the one hotel night; it replaces a flight rather than adding a trip."
+      "tag": "Live window",
+      "title": "Pathfinder drive south is open now",
+      "detail": "The Portland to St Pete window runs Oct 5-18, and today sits in the off-week gap before the girls' next Maine stint."
     },
     {
       "tag": "Awaiting signature",
-      "title": "St Pete Beach signing",
-      "detail": "A second reminder this morning from the signing service for 102 26th Ave, St Pete Beach - the document is still waiting on your signature."
+      "title": "A document is waiting for your signature",
+      "detail": "A second reminder in your inbox from Brandon Tecklenburg to sign papers for the St Pete Beach address (102 26th Ave) — the repeat notice means someone's waiting on it."
     }
   ],
   "schedule": [
     {
       "time": "3:30 PM",
       "title": "Haircut",
-      "detail": "The one fixed point in the day.",
-      "tag": "personal"
+      "detail": "The only thing on today's calendar.",
+      "tag": "Personal"
+    },
+    {
+      "time": "Tomorrow, 12 PM",
+      "title": "Black Keys concert",
+      "detail": "State Theater, Portland.",
+      "tag": "Evening"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "\"Confirm work authorization\" email",
-        "detail": "A third-party recruiting app (sourcehire.app) asks you to confirm visa/sponsorship status for a confidential SVP, Global Public Policy role (REQ64085). Plausible, but verify the sender before sharing anything personal."
-      },
-      {
-        "tag": "Job search",
-        "title": "New VP Public Affairs roles",
-        "detail": "LinkedIn surfaced two on-target openings overnight - VP Global Public Affairs at Estee Lauder and VP Global Government Affairs at KLA."
+        "title": "LinkedIn request from an IESBA principal",
+        "detail": "A connection request from a Principal at the ethics-standards board IESBA — worth a look for governance networking."
       },
       {
         "tag": "Financial",
-        "title": "Morgan Stanley call likely today",
-        "detail": "You offered Scott any AM slot to talk through the KPMG 401k rollover; the vesting decision is still live, and a $15k ACH processed this morning."
+        "title": "Two payments posted",
+        "detail": "A $15k Morgan Stanley ACH transfer and a British Airways Visa card payment both cleared — routine confirmations."
       },
       {
         "tag": "Security",
-        "title": "LinkedIn device verification",
-        "detail": "LinkedIn asked you to verify a new device last night - confirm it was you."
+        "title": "Experian credit-file alert",
+        "detail": "A new alert flags an increase in credit balance — a glance, nothing urgent."
+      },
+      {
+        "tag": "FYI",
+        "title": "ICGN Q3 governance update",
+        "detail": "The corporate-governance network's quarterly policy roundup landed — reading, not action."
       }
     ],
-    "noise": "The rest is newsletters, job-board digests, and receipts - WSJ, NYT Cooking, St Pete local, Experian and Chase alerts, an Amazon shipment.",
+    "noise": "The rest is promotions and statements — The Company Store, Faherty, SiriusXM, Nextdoor, Hilton and Amtrak statements, and the usual language-learning newsletters.",
     "clear": ""
   },
   "resolved": [
-    {
-      "tag": "Paid",
-      "title": "British Airways Visa payment posted",
-      "detail": "Chase confirmed this morning your BA card payment was applied to the account."
-    }
+    "British Airways Visa card payment posted — Chase confirmed this morning, nothing to do."
   ],
   "context": {
     "kids": false,
@@ -76,19 +78,19 @@
   "recipe": {
     "title": "Kabocha squash, yukon gold potatoes & cipolline",
     "book": "Canal House Cooks Every Day",
-    "why": "Deep into autumn, kabocha and sweet cipolline onions are at their peak — a single roasting pan of caramelized squash and potatoes for a cool October evening."
+    "why": "Deep into Maine autumn — kabocha and sweet cipolline onions are peak-season right now; one roasting pan, caramelized and easy, for a quiet night in."
   },
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sep 25",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order - bedframe + soap holder",
+      "title": "Portland house order — bedframe & outdoor shower soap holder",
       "project": "Household",
-      "due": "Overdue Sep 30",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
