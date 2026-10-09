@@ -1,79 +1,50 @@
 {
   "date": "Friday, October 9, 2026",
-  "generatedAt": "Morning brief · 2:15 PM ET",
-  "theme": "An open Friday",
-  "greeting": "The whole day is yours, Dan — just a haircut late in the afternoon. The kind of open stretch the overdue bookings have been waiting for, and the Black Keys at the State Theatre sit on tomorrow's page.",
+  "generatedAt": "Morning brief · 2:16 PM ET",
+  "theme": "A wide-open Friday for the decisions that keep slipping.",
+  "greeting": "Barely anything on the calendar today, Dan — a haircut at 3:30 and otherwise open. A good window for the travel calls that have been drifting, with the Black Keys tomorrow to look forward to.",
   "needsAttention": [
     {
       "tag": "Book this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "Your p1 Todoist task, overdue since mid-September: the Pathfinder heads south in October, so a full-size SUV out of Portland for Christmas week is the one rental that sells out. A refundable hold now costs nothing."
+      "detail": "p1 on the Mike + Dan board, due Sept 14 and still open. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out — a refundable hold now removes the risk, dates adjustable later."
     },
     {
-      "tag": "Decide by Oct 15",
+      "tag": "Window closing",
       "title": "December break destination",
-      "detail": "The all-four-girls trip runs Dec 13–Jan 2, and the book-by date is six days out. Holiday inventory for six over three weeks is the thinnest of the year — the shortlist decision is the thing holding it up."
+      "detail": "Decide-by was Sept 30 and the book-by is Oct 15, six days out. All four kids, Dec 13–Jan 2; holiday inventory for six is the thinnest of the year, so the domestic shortlist is the safe default."
     },
     {
       "tag": "Window open now",
       "title": "Pathfinder drive south",
-      "detail": "The Oct 5–18 off-week gap is the window to drive Portland to St Pete; it's open right now. Book the one hotel night once the two days are set."
-    },
-    {
-      "tag": "Awaiting you",
-      "title": "Fran's lunch next week",
-      "detail": "In your thread with Fran, she offered Wednesday, Thursday or Friday next week (Wednesday around 1). A day back from you locks it."
-    },
-    {
-      "tag": "Reschedule",
-      "title": "Kevin Tracey catch-up",
-      "detail": "After Thursday's slot fell through, Kevin wrote asking for another day or time. The next move is yours to propose one."
+      "detail": "The Oct 5–18 off-week window to drive the Pathfinder Portland → St Pete is live right now; booking the one hotel night is the only open piece once dates are set."
     }
   ],
   "schedule": [
     {
       "time": "3:30 PM",
       "title": "Haircut",
-      "detail": "The only thing on today's calendar",
+      "detail": "The only thing booked today.",
       "tag": "personal"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "Email to old KPMG address bounced",
-        "detail": "Your note \"Write Terence Quek\" to the dkonigsburg@kpmg.com address came back undelivered — it never sent."
-      },
-      {
-        "tag": "Financial",
-        "title": "St Pete Beach signing reminder",
-        "detail": "A signing-invitation reminder for 102 26th Ave is waiting on your signature."
-      },
-      {
         "tag": "Job search",
-        "title": "Estée Lauder VP, Global Public Affairs",
-        "detail": "A LinkedIn alert matching your public-affairs background came through overnight."
+        "title": "Valoris agreement from Mike Lubrano",
+        "detail": "The fully-executed Valoris operating agreement, a joinder, and a revised Exhibit A arrived Monday and are still unread — worth a look given it's governance work in your lane."
       }
     ],
-    "noise": "The rest is routine — an Amex AutoPay confirmation, a Heathrow newsletter, and the usual job-alert digests.",
+    "noise": "One markets newsletter is the only other new mail.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "title": "Brunswick next steps are moving",
-      "detail": "Erika lined up conversations with Jonathan Doorley and a practice head; you confirmed yesterday, so it's on her to schedule."
-    },
-    {
-      "title": "ICGN Plenary 7 feedback folded in",
-      "detail": "Davit's notes on the stewardship panel landed and you replied this morning that you'd work them into the running order."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Portland, Maine",
-    "confidence": "high",
+    "confidence": "low",
     "asOf": "Friday Oct 9"
   },
   "recipe": {
@@ -83,26 +54,20 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Household",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sept 30",
       "overdue": true
     },
     {
-      "title": "Call dermatologist to book Mike's appointment",
-      "project": "Household",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -115,15 +80,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning with nothing scheduled until mid-afternoon."
+      "line": "Nothing on the calendar before afternoon — the clearest stretch of the week for the overdue travel decisions."
     },
     {
       "time": "Afternoon",
-      "line": "One stop on the books, a 3:30 haircut, and the rest of the afternoon open."
+      "line": "Just the 3:30 haircut breaks up the afternoon; the rest is yours."
     },
     {
       "time": "Evening",
-      "line": "A quiet evening tonight, with the Black Keys at the State Theatre landing on tomorrow's calendar."
+      "line": "An open night in, with the Black Keys at the State Theatre on deck for tomorrow."
     }
   ],
   "japanese": {
