@@ -1,51 +1,39 @@
 {
   "date": "Friday, October 9, 2026",
-  "generatedAt": "Morning brief · 8:14 PM ET",
-  "theme": "Open day · kids with Jen · Portland",
-  "greeting": "A wide-open Friday, Dan — one errand this afternoon and the Black Keys at the State tomorrow. The real pressure today is the overdue to-book pile on the board.",
+  "generatedAt": "Morning brief · 8:17 PM ET",
+  "theme": "An open day in Maine, the girls down south",
+  "greeting": "A wide-open Friday, Dan — the girls are with Jen this stretch and you're up in Portland. Just a haircut on the books today, the Black Keys at the State tomorrow at noon, and a Mike + Dan board that's overdue for a push.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV is still unbooked",
-      "detail": "The p1 on your shared board, overdue since Sept 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out — book it refundable now and adjust dates later."
+      "tag": "Overdue p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "A full-size SUV out of Portland for Christmas week has been sitting on the board since Sept 14. Holiday inventory there sells out — a refundable hold booked now removes the whole risk and the dates can flex later."
     },
     {
-      "tag": "Window closing",
-      "title": "Pathfinder drive south window is open now",
-      "detail": "The Oct 5–18 off-week gap to drive the Pathfinder Portland to St Pete is live and closes in nine days. Set the dates and book the single hotel night."
+      "tag": "Closes Oct 15",
+      "title": "Lock the December break destination",
+      "detail": "Decide-by was Sept 30 and book-by is Oct 15, five days out. The note points at a domestic shortlist for all four kids over Dec 13–Jan 2, since passports won't be in hand by the booking date."
     },
     {
-      "tag": "Book by Oct 15",
-      "title": "December trip decision is due",
-      "detail": "The shortlist was due Sept 30 and the book-by date is Oct 15, six days out. Pick domestic or international-refundable, decide one, and don't shortlist across both."
+      "tag": "Window Oct 5-18",
+      "title": "Set the Pathfinder drive dates",
+      "detail": "You're mid-window for the Portland to St Pete drive (Oct 5–18). Picking the two or three days and booking the one hotel night gets the car south before the school-year cycle resumes."
     }
   ],
   "schedule": [
     {
       "time": "3:30 PM",
       "title": "Haircut",
-      "detail": "The only thing on the calendar today.",
-      "tag": "Errand"
+      "detail": "The day's one fixed point",
+      "tag": "personal"
     }
   ],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "Job search",
-        "title": "Heidrick & Struggles board partner wants to connect",
-        "detail": "A partner in Heidrick's CEO & Board of Directors practice sent a LinkedIn request — worth a response given the board search."
-      }
-    ],
-    "noise": "A St. Pete local newsletter and routine LinkedIn pings — nothing that needs you.",
-    "clear": "The lunch thread with Fran is mid-plan for next Friday; nothing else is waiting on a reply."
+    "flagged": [],
+    "noise": "Three unread, all low-priority — the Midcoast Villager ePaper, an HBO Max promo, and a canceled St Pete signing notice.",
+    "clear": "Nothing waiting on a reply."
   },
-  "resolved": [
-    {
-      "tag": "Closed",
-      "title": "The girls' passport run is done",
-      "detail": "The passport appointment and the four-kid document packet both got checked off yesterday — the long-tail risk on that is closed."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -61,20 +49,14 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan Board",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Book Mike's dermatologist appointment",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
@@ -85,22 +67,22 @@
     }
   ],
   "routines": {
-    "morning": "0/2",
+    "morning": "8/10",
     "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Wide open — the best window this week to clear the overdue booking list."
+      "line": "The calendar stayed empty through midday — open time in Portland."
     },
     {
       "time": "Afternoon",
-      "line": "One quick errand downtown breaks up an otherwise free stretch."
+      "line": "A single appointment anchored mid-afternoon; the rest was yours."
     },
     {
       "time": "Evening",
-      "line": "Yours, with the Black Keys at the State Theatre tomorrow at noon to look forward to."
+      "line": "A quiet close, with the Black Keys at the State tomorrow at noon."
     }
   ],
   "japanese": {
