@@ -1,33 +1,23 @@
 {
   "date": "Saturday, October 10, 2026",
-  "generatedAt": "Morning brief · 7:14 AM ET",
-  "theme": "An open Saturday in Portland",
-  "greeting": "The day is yours, Dan — one bright fixed point at noon and clear water on either side of it. Good morning from Portland.",
+  "generatedAt": "Morning brief · 7:17 AM ET",
+  "theme": "An open Saturday in Portland, two booking windows closing in",
+  "greeting": "A rare clear Saturday, Dan - nothing on the calendar until the Black Keys at noon. The only real pull today is a couple of travel bookings whose windows are closing this week.",
   "needsAttention": [
     {
+      "tag": "Books by Oct 15",
+      "title": "Pick the December destination",
+      "detail": "Your task to shortlist and book the December break for all four kids is due to book by Oct 15 - five days out. Holiday inventory for six over three weeks is the thinnest of the year, so the slip from the Sept 30 decision date is starting to cost."
+    },
+    {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV won't wait",
-      "detail": "Your top-priority board task has been open since Sept 14: book a refundable full-size SUV out of Portland for Christmas week. With the Pathfinder heading south, it's the only six-seater for the girls in Maine, and holiday inventory sells out."
+      "title": "Maine Christmas SUV rental",
+      "detail": "The p1 task flags a refundable full-size SUV out of Portland for Christmas week - thin holiday inventory that reliably sells out. Booking refundable now holds the slot for nothing; it has been open since mid-September."
     },
     {
-      "tag": "Window closing",
-      "title": "December break — decide and book",
-      "detail": "The shortlist was due Sept 30 and the booking window closes Oct 15 — five days out. Six people over three weeks of holiday is the thinnest inventory of the year; pick domestic-default or refundable-international and commit."
-    },
-    {
-      "tag": "Happening now",
-      "title": "Pathfinder drive south is open",
-      "detail": "The Oct 5–18 gap between girl-weeks is the window to drive the Pathfinder Portland → St Pete. It's open right now and replaces a flight rather than adding a trip; set dates and book the one hotel night."
-    },
-    {
-      "tag": "Prep for tomorrow",
-      "title": "Sunday review with Mike at 9",
-      "detail": "Tomorrow's 15-minute board review is where the Christmas rental, December break, and Pathfinder items get owners, dates, and a chase. Arrive knowing which of these you'll move this week."
-    },
-    {
-      "tag": "Overdue",
-      "title": "Term life quotes for Mike",
-      "detail": "A p2 board task open since Sept 25: shop three term life quotes — length and coverage — so Mike only has to do the application and exam. Still missing a target coverage amount and term to price against."
+      "tag": "Window Oct 5-18",
+      "title": "Drive the Pathfinder south",
+      "detail": "The Portland-to-St Pete drive sits in its Oct 5-18 off-week window and you are in Maine right now. The window closes in just over a week, and a hotel night needs booking once the two days are set."
     }
   ],
   "schedule": [
@@ -41,12 +31,12 @@
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Fran's waiting on where to meet",
-        "detail": "Lunch is set for next Friday 12:30; Fran replied that cooked sushi works, so it's just on you to confirm the spot (you'd floated Miyake and Isa Bistro)."
+        "tag": "Job search",
+        "title": "Fran Philip is waiting on you",
+        "detail": "She replied Friday - happy with sushi as long as there are cooked options - and is waiting on you to lock the restaurant for next Friday's 12:30 lunch."
       }
     ],
-    "noise": "The rest is newsletters and digests — FT, the Italian and St Pete locals, your Todoist roundup.",
+    "noise": "About a dozen newsletters and shop promos - FT, the St. Pete and Midcoast locals, SoFi, and a few home and kitchen stores.",
     "clear": ""
   },
   "resolved": [],
@@ -64,14 +54,20 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Dan & Mike Stuff",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order - bedframe + shower soap holder",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Destinations",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -84,15 +80,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet stretch is yours before the day's one fixed point — the best window for the board items that keep slipping."
+      "line": "A slow, open morning in Portland - nothing on the calendar before noon."
     },
     {
       "time": "Afternoon",
-      "line": "The Black Keys at the State Theatre at noon, then an open afternoon in Portland."
+      "line": "The Black Keys take the State Theatre at noon, and the afternoon stays loose after that."
     },
     {
       "time": "Evening",
-      "line": "Nothing scheduled — a good moment to line up what you'll bring to tomorrow's 9am review with Mike."
+      "line": "A quiet night, with the 15-minute Sunday review with Mike waiting first thing tomorrow."
     }
   ],
   "japanese": {
