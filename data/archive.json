@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-10-10",
+    "kind": "Morning brief",
+    "label": "Saturday, Oct 10 · 6:17 AM",
+    "summary": "An open Saturday in Portland — the Black Keys at noon, and the Christmas rental, December trip, and Pathfinder drive all need a decision this week.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-10-09",
     "kind": "Morning brief",
     "label": "Friday, Oct 9 · 10:14 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Friday, Sep 11 · 10:02 PM ET",
     "summary": "An open last day in Dubrovnik before tomorrow's sailing charter — provisioning, Cavtat transfers, and Florida bookings to close before a week offline.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-09-10",
-    "kind": "Morning brief",
-    "label": "Thursday, Sep 10 · 10:02 PM ET",
-    "summary": "An open day in Dubrovnik with pre-boarding logistics to close before Saturday's charter.",
     "ref": "today"
   }
 ]
