@@ -1,42 +1,52 @@
 {
   "date": "Saturday, October 10, 2026",
   "generatedAt": "Morning brief · 6:14 PM ET",
-  "theme": "An open Saturday in Portland",
-  "greeting": "A mostly open Saturday in Portland, Dan — the errands are done and the Black Keys at midday are the only thing booked. The items that have waited longest on the board are all travel bookings that need a decision.",
+  "theme": "An open Saturday in Portland — the week's overdue decisions wait for tomorrow's review.",
+  "greeting": "The girls are with Jen this week, Dan, so today was mostly yours: one concert at midday and otherwise open. The real work is tomorrow's 15-minute review, where a few travel calls have run out of room to slip.",
   "needsAttention": [
     {
-      "tag": "Prep for tomorrow",
-      "title": "Sunday review with Mike, 9 AM",
-      "detail": "Tomorrow's 15-minute board review is the thing that keeps the Mike + Dan board honest. Arrive ready to chase what's slipped — the three travel bookings below have been sitting the longest."
+      "tag": "Tomorrow 9 AM",
+      "title": "Sunday review reopens the board",
+      "detail": "Your 15-minute review with Mike is where the overdue items below get owners and dates. Come ready to kill or commit on the travel calls rather than let them slip a fourth Sunday."
     },
     {
-      "tag": "Window closing",
-      "title": "Christmas SUV rental out of Portland",
-      "detail": "The p1 'book this week' task has been open since mid-September. A full-size SUV from PWM over Christmas week is the thinnest rental in that market; booking it refundable now and adjusting dates later removes the risk."
+      "tag": "Overdue · p1",
+      "title": "Maine Christmas SUV won't wait",
+      "detail": "A full-size SUV out of Portland over Christmas week sells out, and this has been flagged 'book this week' since mid-September. A refundable hold now costs nothing and removes the whole risk."
     },
     {
-      "tag": "Decide this week",
-      "title": "December break destination",
-      "detail": "Book-by date is Oct 15, five days out. Passports don't land until November, so the clean path is a domestic shortlist you can book now with nothing left to wait on."
+      "tag": "Book by Oct 15",
+      "title": "December trip decision is due",
+      "detail": "The decision was set for Sep 30 and booking for Oct 15 — holiday inventory for six over three weeks is the thinnest of the year. Pick domestic vs. international and book refundable."
+    },
+    {
+      "tag": "Window open now",
+      "title": "Pathfinder drive is this week",
+      "detail": "The Oct 5–18 gap between girl-weeks is the window to drive the Pathfinder from Portland to St. Pete; book the single hotel night once the dates are set."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
-      "title": "The Black Keys",
-      "detail": "State Theatre, Portland",
+      "title": "Black Keys concert",
+      "detail": "State Theater, Portland",
       "tag": "music"
     }
   ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "A Citi managing-director role surfaced",
+        "detail": "LinkedIn flagged Head of Business Development, USCC, MD at Citi — a scan-worthy lead for the search."
+      },
+      {
         "tag": "FYI",
-        "title": "Lunch with Fran, Friday",
-        "detail": "Fran's fine with the sushi spot as long as there's something cooked — it just needs a final place and a one-line confirm from you."
+        "title": "Fran's lunch still needs a venue",
+        "detail": "Friday 12:30 is set; she's happy with sushi if there are cooked options, and is waiting on you to name the place."
       }
     ],
-    "noise": "The rest is newsletters — your St. Pete weekend guide, a design roundup, and a Kayak hotel deal.",
+    "noise": "Otherwise just newsletters and promos — Dermstore, a St. Pete weekend roundup, Patreon, Academia.",
     "clear": ""
   },
   "resolved": [],
@@ -54,19 +64,13 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder south, Portland to St Pete",
-      "project": "Mike + Dan — Board",
-      "due": "Window Oct 5-18",
-      "overdue": false
-    },
-    {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Term life quotes for Mike",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
@@ -80,21 +84,21 @@
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A run of errands — groceries, towels, a FedEx drop — all cleared before lunch."
+      "line": "A slow, unscheduled start — nothing on the calendar before midday."
     },
     {
       "time": "Afternoon",
-      "line": "Live music at midday, then the afternoon opens up with nothing else booked."
+      "line": "The middle of the day had its one commitment downtown; everything around it was yours."
     },
     {
       "time": "Evening",
-      "line": "A free evening in Portland — good conditions for cooking something slow."
+      "line": "Quiet now — the overdue board is tomorrow's job, not tonight's."
     }
   ],
   "japanese": {
