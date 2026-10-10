@@ -1,44 +1,56 @@
 {
   "date": "Friday, October 9, 2026",
   "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "An open day in Maine, the girls down south",
-  "greeting": "A wide-open Friday, Dan — the girls are with Jen this stretch and you're up in Portland. Just a haircut on the books today, the Black Keys at the State tomorrow at noon, and a Mike + Dan board that's overdue for a push.",
+  "theme": "An open day before a concert weekend.",
+  "greeting": "The day is almost entirely yours, Dan — a 3:30 haircut and nothing else holding the calendar. The travel bookings that have been sliding are the real work today; two of them have clocks that are genuinely running down.",
   "needsAttention": [
     {
-      "tag": "Overdue p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "A full-size SUV out of Portland for Christmas week has been sitting on the board since Sept 14. Holiday inventory there sells out — a refundable hold booked now removes the whole risk and the dates can flex later."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "On the Mike + Dan board as p1 since Sept 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out — the move is a refundable booking now, dates adjusted later once the trip firms up."
     },
     {
-      "tag": "Closes Oct 15",
-      "title": "Lock the December break destination",
-      "detail": "Decide-by was Sept 30 and book-by is Oct 15, five days out. The note points at a domestic shortlist for all four kids over Dec 13–Jan 2, since passports won't be in hand by the booking date."
+      "tag": "Window closing",
+      "title": "December break destination",
+      "detail": "Decide-by was Sept 30 and book-by is Oct 15 — six days out. Six people across three holiday weeks is the thinnest inventory of the year, so a domestic shortlist (nothing to wait on) is the clean default."
     },
     {
-      "tag": "Window Oct 5-18",
-      "title": "Set the Pathfinder drive dates",
-      "detail": "You're mid-window for the Portland to St Pete drive (Oct 5–18). Picking the two or three days and booking the one hotel night gets the car south before the school-year cycle resumes."
+      "tag": "Window open now",
+      "title": "Pathfinder drive south",
+      "detail": "The Oct 5-18 off-week gap to drive Portland to St Pete is live right now. Booking the single hotel night is what turns the window into a plan."
     }
   ],
   "schedule": [
     {
       "time": "3:30 PM",
       "title": "Haircut",
-      "detail": "The day's one fixed point",
+      "detail": "Through 4:30",
       "tag": "personal"
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "Three unread, all low-priority — the Midcoast Villager ePaper, an HBO Max promo, and a canceled St Pete signing notice.",
-    "clear": "Nothing waiting on a reply."
+    "flagged": [
+      {
+        "tag": "FYI",
+        "title": "Dropbox over its storage limit",
+        "detail": "A reminder that files are flagged for deletion on Oct 25 unless space is cleared — a real account item, but a window, not today's fire."
+      }
+    ],
+    "noise": "Otherwise just an HBO Max promo overnight.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Canceled",
+      "title": "St Pete Beach signing session",
+      "detail": "A signing session at a St Pete Beach address was canceled last night by the scheduler — nothing left on you."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Portland, Maine",
-    "confidence": "high",
+    "confidence": "low",
     "asOf": "Friday Oct 9"
   },
   "recipe": {
@@ -49,13 +61,13 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
@@ -67,22 +79,22 @@
     }
   ],
   "routines": {
-    "morning": "8/10",
+    "morning": "0/2",
     "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar stayed empty through midday — open time in Portland."
+      "line": "Nothing on the calendar before mid-afternoon — the stretch is entirely unclaimed."
     },
     {
       "time": "Afternoon",
-      "line": "A single appointment anchored mid-afternoon; the rest was yours."
+      "line": "A 3:30 haircut is the only fixed point in the whole day."
     },
     {
       "time": "Evening",
-      "line": "A quiet close, with the Black Keys at the State tomorrow at noon."
+      "line": "Clear through the night, with the Black Keys at the State Theater at noon tomorrow."
     }
   ],
   "japanese": {
