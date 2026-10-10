@@ -1,88 +1,94 @@
 {
-  "date": "Sat, Oct 3",
-  "generatedAt": "Weekly · Oct 3",
-  "theme": "Early-autumn larder: an olive-oil bean conserva and a slow-roasted tomato-fennel sugo as the week's two building blocks (2 adults - girls with Jen).",
+  "date": "Sat, Oct 10",
+  "generatedAt": "Weekly · Oct 10",
+  "theme": "A no-tomato October: pork & porcini ragu bianco and an olive-oil bean conserva, built for pasta, polenta, seared fish and soup. Just you and Mike this week (girls with Jen).",
   "components": [
     {
-      "name": "Olive-oil braised white bean conserva with confit garlic",
-      "time": "~90 min, mostly hands-off (soak the beans Fri night)",
-      "ingredients": "1 lb dried cannellini (soaked overnight), 1 head garlic, fresh sage + rosemary, 2 bay leaves, chili flakes, ~1.5 cups EVOO, salt",
-      "method": "Drain the soaked beans, cover generously with water in a heavy pot. Add the whole peeled garlic cloves, herb sprigs, bay, a big pinch of chili and a generous pour of EVOO so a slick sits on top. Bring to a bare tremble and hold there - never a hard boil, which splits the skins - for 60-90 min until creamy, salting once tender. Cool in their own silky brodo. Keep beans + broth together; the broth is liquid gold for the week."
+      "name": "Pork & Porcini Ragu Bianco (white ragu)",
+      "time": "~90 min, mostly hands-off simmer",
+      "ingredients": "1 lb ground pork, 3 oz pancetta (diced), 1 oz dried porcini, 1 onion + 1 carrot + 1 celery rib (fine soffritto), 2 cloves garlic, 1 cup dry white wine, 1 cup whole milk, parmesan rind, sage/rosemary/bay, olive oil",
+      "method": "Soak porcini in hot water 20 min; save the liquor. Sweat the fine soffritto low and slow in a generous slick of olive oil, 12-15 min, no color. Add pancetta, render, then the pork and brown it hard, breaking it fine. Stir in chopped porcini, pour in the white wine and let it cook off almost completely (sfumatura). Add milk, strained porcini liquor, parmesan rind and herbs; bare simmer uncovered 60-75 min until glossy and unctuous. This is a double batch on purpose: feeds the pappardelle and the polenta dinners, freezes well."
     },
     {
-      "name": "Slow-roasted tomato-fennel sugo",
-      "time": "~75 min, mostly hands-off",
-      "ingredients": "2 fennel bulbs (sliced), 2 lbs plum/cherry tomatoes (or 2 cans San Marzano), 2 shallots, 5-6 garlic cloves, EVOO, pinch sugar, chili, splash white wine, salt",
-      "method": "Toss fennel, halved tomatoes, sliced shallot and smashed garlic with a heavy glug of EVOO, salt, chili and a pinch of sugar on a sheet pan. Roast at 375F for 50-60 min, stirring once, until fennel is soft and tomatoes are jammy and blistered. Scrape into a pot, deglaze the pan with a splash of white wine, crush lightly with a spoon. Keep slightly chunky - it's a base, not a smooth passata."
+      "name": "Olive-Oil Braised Cannellini Conserva",
+      "time": "~75 min, overlaps the ragu",
+      "ingredients": "1 lb dried cannellini (soaked overnight), 1 head garlic halved, sage + rosemary sprigs, 1 dried chile, 2 bay leaves, ~1/2 cup olive oil, salt (late)",
+      "method": "Drain the soaked beans into a Dutch oven, cover with water by 2 inches, add the halved garlic head, herbs, chile, bay and a big glug of oil. Bring to the barest simmer and cook gently 60-90 min until creamy but intact; salt only in the last 20 min. Cool and store the beans in their own brothy liquor with a film of oil on top. That bean broth is liquid gold for the fish and the ribollita."
     }
   ],
   "dinners": [
     {
-      "name": "Pasta e fagioli",
+      "name": "Pappardelle al Ragu Bianco",
       "time": "25 min",
-      "ingredients": "bean conserva + its brodo, ditalini, rosemary, chili, parmesan, EVOO",
+      "ingredients": "pappardelle, the ragu bianco, butter, parmesan, parsley, pasta water",
       "steps": [
-        "Warm a ladle of beans with plenty of their brodo, a rosemary sprig and chili in a wide pan.",
-        "Boil ditalini until just shy of done; move it into the beans with a splash of pasta water.",
-        "Simmer 3-4 min so the starch thickens the broth to a loose stew.",
-        "Finish off heat with grated parmesan and a hard pour of raw EVOO; crack of pepper."
+        "Boil the pappardelle in well-salted water; reserve a mugful of water.",
+        "Loosen a few ladles of ragu in a wide pan with a splash of pasta water.",
+        "Pull the pasta a minute early and finish it in the ragu for 60-90 sec.",
+        "Off the heat, add cold butter and a handful of parmesan and toss hard with more pasta water until the sauce turns glossy and clings (mantecatura).",
+        "Plate, shower with parm and parsley."
       ]
     },
     {
-      "name": "Crisp-skin cod over brothy white beans and greens",
-      "time": "30 min",
-      "ingredients": "2 cod (or branzino) fillets skin-on, bean conserva + brodo, escarole or lacinato kale, garlic, lemon, EVOO",
-      "steps": [
-        "Pat fish skin bone-dry, salt it, let sit 10 min while beans warm with their brodo.",
-        "Wilt torn greens with a little garlic into the beans; keep brothy.",
-        "Sear fish skin-side down in a hot pan, pressing flat 3-4 min until the skin is crisp and releases, flip for 1 min.",
-        "Spoon beans and greens into bowls, set fish on top, finish with lemon and raw EVOO."
-      ]
-    },
-    {
-      "name": "Shellfish brodetto in tomato-fennel sugo",
-      "time": "30 min",
-      "ingredients": "tomato-fennel sugo, 1 lb clams, 1/2 lb shrimp, white wine, parsley, grilled bread",
-      "steps": [
-        "Loosen the sugo in a wide pot with a splash of wine and a little water to a brothy stew.",
-        "Add scrubbed clams, cover, steam 4-5 min until they open.",
-        "Slip in the shrimp for the last 2-3 min just until pink.",
-        "Shower with parsley and EVOO; serve with EVOO-rubbed grilled bread for the broth."
-      ]
-    },
-    {
-      "name": "Rigatoni with tomato-fennel sugo and ricotta",
+      "name": "Seared Cod over Brothy Cannellini",
       "time": "25 min",
-      "ingredients": "tomato-fennel sugo, rigatoni, fresh ricotta, parmesan, basil or parsley, EVOO",
+      "ingredients": "2 cod or halibut fillets, the cannellini conserva + liquor, a bunch of kale or escarole, lemon, olive oil",
       "steps": [
-        "Warm the sugo and loosen with a little pasta water.",
-        "Boil rigatoni to al dente and toss into the sugo over heat for a minute to marry.",
-        "Off heat, fold through spoonfuls of ricotta so it streaks rather than melts fully.",
-        "Finish with parmesan, torn herbs and a thread of EVOO."
+        "Warm the beans with a ladle of their liquor and the torn greens until the greens wilt; keep it brothy.",
+        "Pat the fish bone-dry and season well.",
+        "Sear presentation-side down in hot olive oil, spooning the oil over, 3-4 min until golden; flip for just a minute.",
+        "Spoon beans and broth into bowls, rest the fish on top.",
+        "Finish with a squeeze of lemon and a raw thread of good olive oil."
+      ]
+    },
+    {
+      "name": "Soft Polenta with Ragu Bianco",
+      "time": "30 min",
+      "ingredients": "polenta/coarse cornmeal, the ragu bianco, butter, parmesan",
+      "steps": [
+        "Cook polenta low and whisking in salted water until soft and no longer grainy, 25-30 min.",
+        "Beat in a knob of butter and a handful of parmesan until loose and creamy.",
+        "Reheat the ragu while the polenta finishes.",
+        "Pool the polenta in warm bowls, spoon the ragu over, lots of black pepper and more parm."
+      ]
+    },
+    {
+      "name": "White Bean Ribollita",
+      "time": "30 min",
+      "ingredients": "the cannellini conserva + liquor, cavolo nero/kale, onion-carrot-celery, day-old crusty bread, olive oil, parmesan",
+      "steps": [
+        "Build a quick soffritto in olive oil, add shredded cavolo nero and wilt.",
+        "Add the beans with all their liquor plus water to cover; simmer 10-15 min.",
+        "Tear in day-old bread and stir until it melts into a thick porridge.",
+        "Finish with a heavy drizzle of new olive oil and grated parmesan."
       ]
     }
   ],
   "technique": {
-    "name": "Pan-searing fish for crisp skin",
-    "tiedTo": "The crisp-skin cod over white beans - dry the skin hard, salt it, start in a genuinely hot pan skin-down and press flat so it doesn't curl, then leave it alone until it releases on its own before flipping. That release is your doneness cue for the skin."
+    "name": "Mantecatura (pan-emulsifying pasta)",
+    "tiedTo": "Pappardelle al Ragu Bianco. The payoff of the ragu: pull the pasta early, finish it in the sauce, then off the heat beat in cold butter, parmesan and starchy water and toss hard until it emulsifies into a glossy, clinging sauce rather than a watery one. Aim for silky, not soupy, not greasy."
   },
   "shopping": [
     {
       "section": "Produce",
-      "items": "2 fennel bulbs, 2 lbs plum or cherry tomatoes, 2 shallots, 2 heads garlic, escarole or lacinato kale, 2 lemons, fresh parsley, basil, fresh rosemary, fresh sage"
+      "items": "2 yellow onions, 2 carrots, 1 bunch celery, 2 heads garlic, fresh sage, fresh rosemary, flat-leaf parsley, 2 bunches cavolo nero/lacinato kale (or escarole), 2 lemons, 1 dried chile"
     },
     {
       "section": "Seafood",
-      "items": "2 cod or branzino fillets (skin-on), 1 lb clams, 1/2 lb shrimp"
+      "items": "2 cod or halibut fillets (~12 oz total)"
+    },
+    {
+      "section": "Protein",
+      "items": "1 lb ground pork, 3 oz pancetta"
     },
     {
       "section": "Dairy",
-      "items": "fresh ricotta, parmesan"
+      "items": "1 pint whole milk, parmesan wedge (with rind), butter"
     },
     {
       "section": "Pantry",
-      "items": "1 lb dried cannellini beans, ditalini, rigatoni, 2 bay leaves, chili flakes, EVOO (stock up), white wine, crusty bread, canned San Marzano tomatoes (backup if fresh look poor)"
+      "items": "1 oz dried porcini, 1 lb dried cannellini beans, dry white wine, pappardelle, polenta/coarse cornmeal, day-old crusty bread, bay leaves, good finishing olive oil"
     }
   ],
-  "scaleNote": "This week is 2 adults (girls with Jen, Oct 4-17), so quantities are built for two with leftovers. For a full-house week of 6, double both components (2 lbs beans, double the sheet-pan sugo across two trays), stretch the pasta dishes with extra noodles rather than more sauce, and for the fish night swap clams/shrimp for a mild flaky white fish the girls like and serve fish-over-beans family style with lots of bread."
+  "scaleNote": "This week is just the two of you (girls with Jen through ~Oct 17), so portions are for 2 and the components are deliberately batched to carry four dinners. When the girls are back (full house of 6): both components already scale, but double the ragu again and cook ~1.5 lb pappardelle; ragu over pasta or soft polenta is an easy kid win. Ribollita scales linearly. For the fish night, flake extra cod over buttered beans or plain pasta for the girls and go light on lemon, and add garlic bread to stretch the table."
 }
