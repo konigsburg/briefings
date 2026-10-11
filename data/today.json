@@ -1,79 +1,78 @@
 {
   "date": "Sunday, October 11, 2026",
   "generatedAt": "Morning brief · 8:05 AM ET",
-  "theme": "An open Sunday with a few travel windows closing.",
-  "greeting": "Morning, Dan. One short review with Mike at nine, then the day is yours — the only real pressure is a cluster of travel bookings whose windows are closing this week.",
+  "theme": "An open Sunday with a short board review and a pile of overdue travel bookings.",
+  "greeting": "The whole day is yours, Dan — one short call with Mike at nine, then open water. A good day to clear the bookings that keep sliding.",
   "needsAttention": [
     {
-      "tag": "Books this week",
-      "title": "Hold the Maine Christmas SUV",
-      "detail": "Your p1 task to book a refundable full-size SUV out of Portland for Christmas week has been open since Sept 14. It's the hardest rental in that market over the holidays and sells out — a refundable hold now costs nothing and removes the risk."
+      "tag": "Travel · p1",
+      "title": "Lock the Christmas SUV in Portland",
+      "detail": "Flagged top-priority in Todoist and marked \"book this week\" — a full-size holiday SUV out of PWM is the hardest rental in that market and sells out; open since mid-September. Book refundable now."
     },
     {
-      "tag": "Window Oct 15",
-      "title": "December break destination",
-      "detail": "Decide-by was Sept 30 and book-by is Oct 15 — four days out, for six people over three weeks. Passports won't be in hand at booking, so a domestic shortlist is the safe default unless you want refundable international."
+      "tag": "Travel · Oct 15",
+      "title": "Decide the December trip — window closes Oct 15",
+      "detail": "The December-break task sets book-by Oct 15, four days out; all four girls, Dec 13 – Jan 2, and holiday inventory for six is the thinnest of the year."
     },
     {
-      "tag": "Window Oct 5-18",
-      "title": "Pathfinder drive south",
-      "detail": "The Portland to St Pete drive window is open now and closes Oct 18. Once the dates are set, booking the single hotel night locks the whole plan in."
+      "tag": "Travel",
+      "title": "The Pathfinder drive south is this week",
+      "detail": "The Portland → St Pete window is Oct 5 – 18 — the off-week between girl-weeks; it replaces a flight, so book the hotel night once dates are set."
+    },
+    {
+      "tag": "Reply owed",
+      "title": "Pick the spot for lunch with Fran",
+      "detail": "She's good with sushi \"only if it's cooked,\" so it's down to confirming Miyake or Isa Bistro at 12:30 Friday."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15 min on Meet — empty the board, owner and date on everything, chase what's waiting.",
-      "tag": "review"
-    },
-    {
-      "time": "All day",
-      "title": "Andrew's birthday",
-      "detail": "A standing reminder on your calendar.",
-      "tag": "birthday"
+      "detail": "15 min — empty the inbox, owner + date on everything, chase what's waiting.",
+      "tag": "Meeting"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Policy and affairs roles in your alerts",
-        "detail": "LinkedIn surfaced an Eli Lilly AVP, US Policy Campaigns and a FUJIFILM government-affairs director among this week's automated job alerts — close to your governance and public-affairs lane."
+        "title": "LinkedIn job alerts overnight",
+        "detail": "Several automated alerts, incl. an Eli Lilly \"Associate VP, US Policy Campaigns\" role that fits your policy / public-affairs background. FYI — no reply needed."
       }
     ],
-    "noise": "Everything else is newsletters and promos — St. Pete local, a planner shop, mattress and skincare sales, language-word emails.",
-    "clear": "Nothing in the inbox is waiting on a reply from you."
+    "noise": "Otherwise all promos and newsletters — Faherty, GHA Discovery, Breeze, Kayak, St. Pete Local, Daily Italian Words.",
+    "clear": "No security, financial, or health mail. Only Fran's lunch thread needs a personal reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Maine",
+    "location": "Portland, Maine",
     "confidence": "low",
     "asOf": "Sunday Oct 11"
   },
   "recipe": {
     "title": "Butternut squash & candied bacon on fresh pasta",
     "book": "Canal House Cooks Every Day",
-    "why": "Peak-autumn squash and a little smoky-sweet bacon over fresh pasta — the kind of warming, from-scratch Sunday supper this cooler October weekend is made for."
+    "why": "Peak-autumn squash and a little smoky-sweet bacon over fresh pasta — the warming, from-scratch kind of Sunday supper a cool Maine evening is made for."
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
-      "due": "Overdue Sept 25",
+      "title": "Get three term-life quotes for Mike",
+      "project": "Dan & Mike Stuff",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Dan & Mike",
-      "due": "Overdue Sept 30",
+      "title": "Portland house order — bedframe & outdoor shower soap holder",
+      "project": "Dan & Mike Stuff",
+      "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Inbox",
       "due": "Overdue Aug 15",
       "overdue": true
     }
