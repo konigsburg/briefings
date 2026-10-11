@@ -1,43 +1,49 @@
 {
   "date": "Sunday, October 11, 2026",
-  "generatedAt": "Morning brief · 7:14 AM ET",
-  "theme": "A wide-open Sunday with three clocks ticking quietly in the background.",
-  "greeting": "Morning, Dan. One 15-minute sync with Mike at nine, and then the whole day is yours — a rare open Sunday worth spending on the stove or the water. The only real pull on it is a trio of bookings that have been circling, two of which close this week.",
+  "generatedAt": "Morning brief · 7:17 AM ET",
+  "theme": "An open Sunday with a few travel windows closing.",
+  "greeting": "Morning, Dan. One short review with Mike at nine, then the day is yours — the only real pressure is a cluster of travel bookings whose windows are closing this week.",
   "needsAttention": [
     {
       "tag": "Books this week",
-      "title": "Lock the Maine Christmas rental",
-      "detail": "The p1 that's slipped since mid-September. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out — a refundable hold costs nothing and takes the whole risk off the table."
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "Your p1 task to book a refundable full-size SUV out of Portland for Christmas week has been open since Sept 14. It's the hardest rental in that market over the holidays and sells out — a refundable hold now costs nothing and removes the risk."
     },
     {
-      "tag": "Decide by Wed",
-      "title": "December break — pick the destination",
-      "detail": "Shortlist was due Sept 30 and the booking deadline is Oct 15. Holiday inventory for six over three weeks is the thinnest of the year; default to a domestic pick, since passports won't be in hand on booking day."
+      "tag": "Window Oct 15",
+      "title": "December break destination",
+      "detail": "Decide-by was Sept 30 and book-by is Oct 15 — four days out, for six people over three weeks. Passports won't be in hand at booking, so a domestic shortlist is the safe default unless you want refundable international."
     },
     {
-      "tag": "Window half gone",
-      "title": "Set the Pathfinder drive dates",
-      "detail": "The Oct 5–18 off-week gap is more than half spent. Lock two drive days and book the single hotel night so the car's south before the rental cycles would otherwise restart."
+      "tag": "Window Oct 5-18",
+      "title": "Pathfinder drive south",
+      "detail": "The Portland to St Pete drive window is open now and closes Oct 18. Once the dates are set, booking the single hotel night locks the whole plan in."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-minute board sweep — owners and dates on everything, chase what's waiting",
-      "tag": "sync"
+      "detail": "15 min on Meet — empty the board, owner and date on everything, chase what's waiting.",
+      "tag": "review"
+    },
+    {
+      "time": "All day",
+      "title": "Andrew's birthday",
+      "detail": "A standing reminder on your calendar.",
+      "tag": "birthday"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "A few senior-role alerts overnight",
-        "detail": "LinkedIn surfaced several MD- and VP-level roles (US policy, government affairs) — automated alerts rather than outreach, worth a two-minute skim given the search."
+        "title": "Policy and affairs roles in your alerts",
+        "detail": "LinkedIn surfaced an Eli Lilly AVP, US Policy Campaigns and a FUJIFILM government-affairs director among this week's automated job alerts — close to your governance and public-affairs lane."
       }
     ],
-    "noise": "Everything else is newsletters and promos — St. Pete local, Italian word of the day, a couple of retailers.",
-    "clear": "Nothing is waiting on a reply from you this morning."
+    "noise": "Everything else is newsletters and promos — St. Pete local, a planner shop, mattress and skincare sales, language-word emails.",
+    "clear": "Nothing in the inbox is waiting on a reply from you."
   },
   "resolved": [],
   "context": {
@@ -56,39 +62,39 @@
     {
       "title": "Get 3 term life quotes for Mike",
       "project": "Dan & Mike",
-      "due": "Overdue Sep 25",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Household",
-      "due": "Overdue Sep 30",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Dan & Mike",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "9 – 9:15 AM",
-      "line": "A fifteen-minute board review with Mike opens the day; after that the calendar is empty."
+      "time": "Morning",
+      "line": "A short review with Mike at nine, then the morning opens up."
     },
     {
-      "time": "9:15 AM onward",
-      "line": "Nothing else is scheduled — a genuinely clear Sunday, the kind that rewards a from-scratch cook or an afternoon on the water."
+      "time": "Afternoon",
+      "line": "Nothing on the calendar — the afternoon is yours to spend as you choose."
     },
     {
       "time": "Evening",
-      "line": "No calls on the evening; it's also Andrew's birthday, if that's one to mark."
+      "line": "The girls are with Jen this week, so the evening is quiet and your own."
     }
   ],
   "japanese": {
