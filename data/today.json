@@ -1,48 +1,48 @@
 {
   "date": "Saturday, October 10, 2026",
   "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "An open Saturday in Portland.",
-  "greeting": "A wide-open Saturday, Dan — the Black Keys at noon and the rest of the day unclaimed. Worth a glance before tomorrow: the 9 AM board review with Mike, and a couple of trip bookings whose windows are closing in.",
+  "theme": "One concert, otherwise open — and a travel-booking clock worth beating.",
+  "greeting": "A wide-open Saturday, Dan, with just the Black Keys to anchor it. The quiet is a chance to get ahead of the holiday-travel bookings before tomorrow's 9 AM board review with Mike.",
   "needsAttention": [
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Sunday review with Mike",
-      "detail": "Your 15-minute board review with Mike is tomorrow at 9 — the one that keeps the Mike + Dan board honest. Arrive knowing what to promote, what to chase, and what has slipped long enough to kill."
-    },
-    {
-      "tag": "Overdue p1",
-      "title": "Maine Christmas SUV still open",
-      "detail": "The full-size Portland SUV for Christmas week has sat since its Sep 14 flag — holiday inventory out of PWM sells out, and a refundable hold costs nothing to place now."
+      "tag": "Prep · 9 AM",
+      "title": "Sunday board review with Mike",
+      "detail": "Tomorrow at 9 AM you and Mike run the weekly 15-minute review on your shared board. The overdue travel bookings below are exactly what to put owners and dates on."
     },
     {
       "tag": "Books by Oct 15",
-      "title": "December trip needs a call",
-      "detail": "The all-kids December break was meant to be decided Sep 30 and booked by Oct 15 — five days out, on the thinnest holiday inventory of the year."
+      "title": "Lock the December break destination",
+      "detail": "The decision was due Sept 30 and booking closes Oct 15 — now five days out. Six people across three holiday weeks is the thinnest inventory of the year, so this is the one that bites if it slips again."
+    },
+    {
+      "tag": "Overdue · p1",
+      "title": "Reserve the Portland Christmas SUV",
+      "detail": "The top-priority 'book this week' rental — a full-size SUV out of PWM over Christmas sells out, and the Pathfinder is already headed south. A refundable hold now removes the whole risk."
+    },
+    {
+      "tag": "Window Oct 5–18",
+      "title": "Drive the Pathfinder south",
+      "detail": "The off-week window to drive Portland to St. Pete closes Oct 18, and you're in Portland now. Setting the two dates lets you book the one hotel night."
     }
   ],
   "schedule": [
     {
       "time": "12:00 PM",
       "title": "The Black Keys",
-      "detail": "State Theatre, Portland",
-      "tag": "music"
+      "detail": "State Theater, Portland",
+      "tag": "concert"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "New policy and governance listings",
-        "detail": "LinkedIn surfaced a few roles overnight — a Lilly US policy post, a Citi business-development seat, and more — all automated alerts, none awaiting a reply."
-      },
-      {
-        "tag": "FYI",
-        "title": "Fran's lunch still needs a spot",
-        "detail": "Fran is good for Friday 12:30 and flexible on sushi; it is down to you naming the restaurant."
+        "title": "A few policy roles in your LinkedIn alerts",
+        "detail": "LinkedIn surfaced government-affairs and US-policy openings (Lilly, FUJIFILM, Citi) — nothing to reply to, worth a scan given the search."
       }
     ],
-    "noise": "The rest is newsletters and nudges — St Pete weekend picks, a design digest, an Academia.edu prompt.",
-    "clear": ""
+    "noise": "The rest is promotions and newsletters — Mattress Firm, Dermstore, a Nextdoor rental, your St. Pete weekend digest.",
+    "clear": "Nothing in your inbox is waiting on a reply."
   },
   "resolved": [],
   "context": {
@@ -59,47 +59,59 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder down to St Pete",
-      "project": "Mike + Dan Board",
-      "due": "Window Oct 5-18",
+      "title": "Reserve the Portland Christmas SUV (refundable)",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 14",
       "overdue": true
     },
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "title": "Lock December break destination",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder south, Portland to St. Pete",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + outdoor soap holder",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar before noon — the morning is wide open."
+      "line": "An open morning — errands and a market run for duck and ricotta cleared before noon."
     },
     {
       "time": "Afternoon",
-      "line": "The Black Keys play the State Theatre at noon; the rest of the afternoon is unclaimed."
+      "line": "The Black Keys at the State Theater, the one fixed point on an otherwise free day."
     },
     {
       "time": "Evening",
-      "line": "A clear evening, with tomorrow's 9 AM review with Mike waiting on the far side of it."
+      "line": "Yours to wind down, with an early start tomorrow for the 9 AM board review."
     }
   ],
   "japanese": {
