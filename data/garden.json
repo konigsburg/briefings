@@ -1,38 +1,38 @@
 {
-  "date": "Sun, Oct 4",
+  "date": "Sun, Oct 11",
   "region": "NH Seacoast · zone 6a",
-  "generatedAt": "Weekly · Oct 4",
-  "headline": "Frost is near — keep row cover or old sheets ready to protect tender crops this week.",
+  "generatedAt": "Weekly · Oct 11",
+  "headline": "Beat the first frost this week—harvest tomatoes, peppers, squash and basil before a killing frost lands.",
   "tasks": [
     {
-      "tag": "Prep",
-      "title": "Frost watch",
-      "detail": "First frost on the Seacoast typically lands around mid-October. Check the nightly low each evening and drape row cover or old bedsheets over tomatoes, peppers, and basil whenever it dips toward the mid-30s."
-    },
-    {
       "tag": "Harvest",
-      "title": "Bring in warm-season crops",
-      "detail": "Pick all peppers and the last tomatoes now — even full-size green tomatoes will ripen on a counter indoors. Harvest winter squash once the rind is hard and cure it in a warm, dry spot for a week."
+      "title": "Rescue warm-season crops",
+      "detail": "Zone 6a's first killing frost usually arrives mid-October, so pick all tomatoes (ripe and blush), peppers, summer/winter squash, beans and basil now. Ripen green tomatoes indoors on a counter or in a paper bag."
     },
     {
       "tag": "Sow now",
       "title": "Plant garlic",
-      "detail": "Early-to-mid October is prime garlic planting in zone 6a. Break a bulb into cloves and set them pointy-end up, 2 inches deep and 6 inches apart, then top with a few inches of straw mulch."
+      "detail": "Mid-to-late October is prime for zone 6a. Break a head into cloves and plant pointy-end up, 2–3 inches deep and 6 inches apart in a sunny bed, then top with a few inches of straw mulch."
     },
     {
       "tag": "Harvest",
-      "title": "Keep cutting cool-season greens",
-      "detail": "Kale, spinach, lettuce, chard, and arugula keep producing and actually sweeten after a light frost. Harvest outer leaves regularly to keep plants going into November."
+      "title": "Leave the frost-sweeteners",
+      "detail": "Don't rush kale, Brussels sprouts, carrots, parsnips and leeks—a light frost makes them noticeably sweeter. Keep harvesting as you need them; they'll hold in the ground for weeks."
     },
     {
       "tag": "Prep",
-      "title": "Sow a cover crop or plant bulbs",
-      "detail": "On any bed you're done with, scatter winter rye to protect the soil over winter. It's also the window to tuck in spring bulbs like daffodils and tulips before the ground freezes."
+      "title": "Plant spring bulbs",
+      "detail": "Now through early November is the window for daffodils, tulips, crocus and alliums. Plant roughly three times as deep as the bulb is tall, pointy-end up, in well-drained soil for color next spring."
     },
     {
-      "tag": "Pest watch",
-      "title": "Clear spent, diseased foliage",
-      "detail": "Pull and discard (don't compost) any blighted tomato vines or mildewed squash leaves. Removing diseased debris now reduces the pests and spores that overwinter and hit you next spring."
+      "tag": "Prune",
+      "title": "Clear spent plants",
+      "detail": "Pull finished annual veggies and pull or cut back anything with mildew, blight or spots. Trash or bin diseased foliage—don't compost it—to keep fungal problems from overwintering in your beds."
+    },
+    {
+      "tag": "Prep",
+      "title": "Put empty beds to bed",
+      "detail": "Mulch cleared beds with shredded leaves or straw, or sow a quick cover crop like winter rye if time allows. Keep a floating row cover handy to shield any tender crops if a frost night threatens before you've harvested."
     }
   ]
 }
