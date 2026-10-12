@@ -1,23 +1,33 @@
 {
   "date": "Monday, October 12, 2026",
-  "generatedAt": "Morning brief · 10:40 AM ET",
-  "theme": "An open day against a few closing windows.",
-  "greeting": "The calendar is empty today, Dan — a rare fully open Monday, with the girls at Jen's this stretch. What's pulling at the day isn't meetings but a cluster of trip-booking windows now days from closing.",
+  "generatedAt": "Morning brief · 10:43 AM ET",
+  "theme": "A clear calendar — the only pressure is a few travel clocks winding down.",
+  "greeting": "Not a meeting in sight today, Dan, so the day is genuinely yours. What's live is a cluster of holiday-travel bookings where the booking windows are starting to close.",
   "needsAttention": [
     {
-      "tag": "Book by Wed",
-      "title": "December break trip",
-      "detail": "The December shortlist was meant to be decided Sept 30 and booked by Oct 15 — that booking date is Wednesday, and six people across three holiday weeks is the thinnest inventory of the year."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Your top-priority Todoist task, overdue since Sep 14. A full-size SUV out of Portland over Christmas week sells out early — a refundable hold booked now removes the whole risk."
     },
     {
-      "tag": "Sells out",
-      "title": "Maine Christmas SUV",
-      "detail": "The full-size Portland SUV for Christmas has been the p1 'book this week' item since mid-September; a refundable hold costs nothing and it's the rental most likely to sell out over the holidays."
+      "tag": "Closes Oct 15",
+      "title": "December break destinations",
+      "detail": "The holiday trip for all four girls (Dec 13–Jan 2) was due to be decided Sept 30, and booking closes in three days. A domestic shortlist is the clean default since passports land in November."
     },
     {
-      "tag": "Window closing",
-      "title": "Pathfinder drive south",
-      "detail": "The Portland-to-St-Pete drive is slotted into the Oct 5-18 off-week; the back half of that window is what's left to lock dates and the one hotel night."
+      "tag": "Window half gone",
+      "title": "Drive the Pathfinder south",
+      "detail": "The Oct 5–18 window to move the car Portland → St Pete is now past the midpoint; the one hotel night still needs booking once the two drive dates are set."
+    },
+    {
+      "tag": "Awaiting you",
+      "title": "Eugenia wants a date to talk",
+      "detail": "She's back Oct 31 and asked you to pick a slot and put it in the calendar — you'd floated seeing her at ICGN in Toronto, so a proposed time would close it."
+    },
+    {
+      "tag": "Chasing a reply",
+      "title": "Mom's care paperwork",
+      "detail": "Tampa Gardens still hasn't answered your Oct 7 note about the insurance form and updated plan of care — five days out, it's worth a nudge."
     }
   ],
   "schedule": [],
@@ -25,24 +35,25 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Eugenia wants a date to talk",
-        "detail": "She's back from Morocco Oct 31, says she's flexible, and asked you to pick a slot — the thread is resting on your reply."
+        "title": "SVP Global Public Policy roles",
+        "detail": "LinkedIn's alert surfaced a Senior VP of Global Public Policy listing and similar public-policy roles this morning."
       },
       {
-        "tag": "Job search",
-        "title": "Two senior roles in the alerts",
-        "detail": "LinkedIn pushed a Citi MD and a capital-markets VP role overnight — automated alerts, not outreach, but in range."
-      },
-      {
-        "tag": "Financial",
-        "title": "Chase statement posted",
-        "detail": "The Sapphire statement is ready with auto-pay already on — a glance, nothing owed."
+        "tag": "FYI",
+        "title": "Lunch with Fran, Fri 12:30",
+        "detail": "She's fine with Miyake — a one-line reply locks the venue for Friday the 16th."
       }
     ],
-    "noise": "Everything else is newsletters — Responsible Investor, WSJ, NYT Cooking, the St Pete local roundup, language nudges.",
+    "noise": "Otherwise it's newsletters — NYT Cooking, WSJ, Ridgeline, Duolingo — and a couple of real-estate alerts.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Booked",
+      "title": "Maine ferry tickets",
+      "detail": "Confirmed this morning and forwarded to Mike — the Vinalhaven reservation is set."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -59,18 +70,18 @@
     {
       "title": "Get 3 term life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sept 25",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
+      "title": "Portland house order — bedframe + outdoor soap holder",
       "project": "Household",
-      "due": "Overdue Sept 30",
+      "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -83,15 +94,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar before noon — a genuinely clear stretch to start the week."
+      "line": "The calendar is empty before noon — an open stretch with no handoffs to make."
     },
     {
       "time": "Afternoon",
-      "line": "The day stays open straight through; no meetings bracket it on either side."
+      "line": "Still nothing booked; the afternoon is yours to aim at whatever's been waiting."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens at 9 with an appointment, so an earlier night sets it up well."
+      "line": "Tomorrow opens with a 9 o'clock appointment, so an earlier night sits well."
     }
   ],
   "japanese": {
