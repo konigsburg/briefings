@@ -1,36 +1,35 @@
 {
   "date": "Sunday, October 11, 2026",
   "generatedAt": "Morning brief · 8:14 PM ET",
-  "theme": "An open Sunday with the booking clock ticking.",
-  "greeting": "A wide-open Sunday, Dan — only the morning board review on the calendar. The real pull this week is the booking clock: the Maine Christmas SUV and the December trip both want decisions, and Oct 15 is the hard line.",
+  "theme": "A quiet, open Sunday.",
+  "greeting": "Your only fixed point today was the 15-minute review with Mike at 9, Dan — the rest was yours. The overdue travel bookings are the real story now, with the December trip set to lock by Oct 15.",
   "needsAttention": [
     {
+      "tag": "Awaiting reply",
+      "title": "Eugenia wants a date to talk",
+      "detail": "She's back from Morocco Oct 31 and asked you to pick a slot to catch up; she also picked up your ICGN Toronto question."
+    },
+    {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "The only six-seater for the girls' Christmas trip north, and a full-size Portland SUV over the holidays sells out early. A refundable hold now takes the whole risk off the table."
+      "title": "Maine Christmas SUV rental",
+      "detail": "Your p1 task to book a refundable full-size SUV out of Portland for Christmas week is weeks overdue, and holiday inventory in that market sells out."
     },
     {
-      "tag": "Window closing",
-      "title": "December trip, book by Oct 15",
-      "detail": "Three weeks over the holidays for six is the thinnest inventory of the year. Pick the domestic default or refundable-international and lock a shortlist before the 15th."
+      "tag": "Closes Oct 15",
+      "title": "Decide the December trip",
+      "detail": "The December-break task calls for a shortlist and booking by Oct 15 — four days out — for six people over the holidays, the thinnest inventory of the year."
     },
     {
-      "tag": "Reply owed",
-      "title": "Eugenia is waiting on a date",
-      "detail": "She's back Oct 31 and flexible, and asked you to name a slot to catch up before ICGN in Toronto."
+      "tag": "Window Oct 5-18",
+      "title": "Pathfinder drive south",
+      "detail": "The Portland-to-St-Pete drive window closes Oct 18; making it replaces the winter rental cycles you'd otherwise pay for."
     }
   ],
   "schedule": [
     {
-      "time": "All day",
-      "title": "Andrew's Birthday",
-      "detail": "A birthday noted on your calendar",
-      "tag": "birthday"
-    },
-    {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "The weekly 15-minute board sweep",
+      "detail": "15-min board sweep",
       "tag": "sync"
     }
   ],
@@ -38,16 +37,11 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Citi MD role in your alerts",
-        "detail": "LinkedIn surfaced a Head of Business Development, Managing Director opening at Citi."
-      },
-      {
-        "tag": "Job search",
-        "title": "Two LinkedIn connection requests",
-        "detail": "A Deloitte audit partner and one other are waiting on your response."
+        "title": "Two new role alerts",
+        "detail": "LinkedIn flagged a Citi Head of Business Development (MD) and an LHH capital-markets directorship."
       }
     ],
-    "noise": "The rest is newsletters, retail promos, cooking mail, and real-estate alerts.",
+    "noise": "Everything else is newsletters, retail promos, LinkedIn invites, and a Chase survey.",
     "clear": ""
   },
   "resolved": [],
@@ -66,20 +60,20 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike Stuff",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder south (Oct 5-18 window)",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order: bedframe + soap holder",
-      "project": "Dan & Mike Stuff",
+      "title": "Portland house order — bedframe + soap holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -91,15 +85,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A single 15-minute board review with Mike, then the morning opened up."
+      "line": "The 15-minute review with Mike at 9 was the only thing fixed on the day."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar — the afternoon was entirely yours."
+      "line": "Nothing on the calendar — the open stretch to clear the bookings that are pressing."
     },
     {
       "time": "Evening",
-      "line": "No commitments tonight, a quiet close to the week."
+      "line": "A free evening; the squash pasta below suits the season's first cold snaps."
     }
   ],
   "japanese": {
