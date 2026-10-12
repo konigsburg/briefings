@@ -1,33 +1,18 @@
 {
   "date": "Monday, October 12, 2026",
-  "generatedAt": "Morning brief · 12:17 PM ET",
-  "theme": "A clear calendar — the only pressure is a few travel clocks winding down.",
-  "greeting": "Not a meeting in sight today, Dan, so the day is genuinely yours. What's live is a cluster of holiday-travel bookings where the booking windows are starting to close.",
+  "generatedAt": "Morning brief · 12:19 PM ET",
+  "theme": "An open day, with two travel bookings whose clocks are finally running.",
+  "greeting": "The calendar's empty today, Dan — the whole day is yours. The real pull is a short stack of overdue travel bookings; two of them have deadlines that are actually moving now.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Your top-priority Todoist task, overdue since Sep 14. A full-size SUV out of Portland over Christmas week sells out early — a refundable hold booked now removes the whole risk."
+      "tag": "Booking overdue",
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "Your own p1 note, now about four weeks past its date: a full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out. A refundable hold costs nothing and takes the whole risk off the table."
     },
     {
-      "tag": "Closes Oct 15",
-      "title": "December break destinations",
-      "detail": "The holiday trip for all four girls (Dec 13–Jan 2) was due to be decided Sept 30, and booking closes in three days. A domestic shortlist is the clean default since passports land in November."
-    },
-    {
-      "tag": "Window half gone",
-      "title": "Drive the Pathfinder south",
-      "detail": "The Oct 5–18 window to move the car Portland → St Pete is now past the midpoint; the one hotel night still needs booking once the two drive dates are set."
-    },
-    {
-      "tag": "Awaiting you",
-      "title": "Eugenia wants a date to talk",
-      "detail": "She's back Oct 31 and asked you to pick a slot and put it in the calendar — you'd floated seeing her at ICGN in Toronto, so a proposed time would close it."
-    },
-    {
-      "tag": "Chasing a reply",
-      "title": "Mom's care paperwork",
-      "detail": "Tampa Gardens still hasn't answered your Oct 7 note about the insurance form and updated plan of care — five days out, it's worth a nudge."
+      "tag": "Deadline Thu",
+      "title": "Lock the December-break destination",
+      "detail": "Your book-by date is Thursday, Oct 15 — three days out. Holiday inventory for six over three weeks is the thinnest of the year; pick domestic or international, then book before it closes."
     }
   ],
   "schedule": [],
@@ -35,25 +20,14 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "SVP Global Public Policy roles",
-        "detail": "LinkedIn's alert surfaced a Senior VP of Global Public Policy listing and similar public-policy roles this morning."
-      },
-      {
-        "tag": "FYI",
-        "title": "Lunch with Fran, Fri 12:30",
-        "detail": "She's fine with Miyake — a one-line reply locks the venue for Friday the 16th."
+        "title": "LinkedIn reply waiting",
+        "detail": "Abijah Kanene is waiting on a response via LinkedIn — worth a glance if it's a networking thread."
       }
     ],
-    "noise": "Otherwise it's newsletters — NYT Cooking, WSJ, Ridgeline, Duolingo — and a couple of real-estate alerts.",
-    "clear": ""
+    "noise": "The rest is newsletters and promos — NYT Cooking, Responsible Investor, a few retail sales, a real-estate alert.",
+    "clear": "Nothing in the inbox needs a reply from you today."
   },
-  "resolved": [
-    {
-      "tag": "Booked",
-      "title": "Maine ferry tickets",
-      "detail": "Confirmed this morning and forwarded to Mike — the Vinalhaven reservation is set."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -74,35 +48,44 @@
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor soap holder",
+      "title": "Portland house order — king bedframe + shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Work",
-      "due": "Overdue Aug 15",
+      "title": "Drive the Pathfinder south — Portland to St Pete",
+      "project": "Travel",
+      "due": "Window Oct 5–18, open now",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist to book the appointment",
+      "project": "Health",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is empty before noon — an open stretch with no handoffs to make."
+      "line": "A clear morning — nothing on the calendar is pulling at you.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "Still nothing booked; the afternoon is yours to aim at whatever's been waiting."
+      "line": "The afternoon is wide open; the overdue travel bookings are the one thing waiting.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens with a 9 o'clock appointment, so an earlier night sits well."
+      "line": "Ease off early — tomorrow opens with a 9 AM appointment.",
+      "tag": "calm"
     }
   ],
   "japanese": {
