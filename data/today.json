@@ -1,18 +1,23 @@
 {
   "date": "Monday, October 12, 2026",
   "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "An open day, with two travel bookings whose clocks are finally running.",
-  "greeting": "The calendar's empty today, Dan — the whole day is yours. The real pull is a short stack of overdue travel bookings; two of them have deadlines that are actually moving now.",
+  "theme": "An open day, with a couple of clocks ticking.",
+  "greeting": "The whole day is yours, Dan — nothing on the calendar. It's the open stretch the travel backlog has been waiting for, and two of those items have deadlines closing this week.",
   "needsAttention": [
     {
-      "tag": "Booking overdue",
-      "title": "Hold the Maine Christmas SUV",
-      "detail": "Your own p1 note, now about four weeks past its date: a full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out. A refundable hold costs nothing and takes the whole risk off the table."
+      "tag": "Book by Wed",
+      "title": "Decide the December family trip",
+      "detail": "The shortlist-and-book task is past due and the booking window closes Oct 15 — holiday inventory for six over three weeks is the thinnest of the year, so this is the one to close first."
     },
     {
-      "tag": "Deadline Thu",
-      "title": "Lock the December-break destination",
-      "detail": "Your book-by date is Thursday, Oct 15 — three days out. Holiday inventory for six over three weeks is the thinnest of the year; pick domestic or international, then book before it closes."
+      "tag": "Overdue · p1",
+      "title": "Hold the Maine Christmas rental",
+      "detail": "Your top-priority task to book a refundable full-size SUV out of Portland for Christmas week has slipped since September; it's the rental most likely to sell out, and a refundable hold costs nothing."
+    },
+    {
+      "tag": "Reply owed",
+      "title": "Pick a date with Eugenia",
+      "detail": "She's back from Morocco Oct 31 and asked you to put a catch-up slot on the calendar — you'd floated seeing her around ICGN in Toronto, so a proposed date would close the loop."
     }
   ],
   "schedule": [],
@@ -20,14 +25,30 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn reply waiting",
-        "detail": "Abijah Kanene is waiting on a response via LinkedIn — worth a glance if it's a networking thread."
+        "title": "New policy role in your alert",
+        "detail": "LinkedIn surfaced 'SVP Global Public Policy' and similar openings this morning."
+      },
+      {
+        "tag": "FYI",
+        "title": "Fran's lunch still needs a spot",
+        "detail": "You floated Miyake or Isa Bistro for Friday's 12:30 — she's happy either way, just pick one."
+      },
+      {
+        "tag": "FYI",
+        "title": "Tampa Gardens hasn't replied",
+        "detail": "Your Oct 7 follow-up about your mom's care form is still unanswered — worth a nudge if it's time-sensitive."
       }
     ],
-    "noise": "The rest is newsletters and promos — NYT Cooking, Responsible Investor, a few retail sales, a real-estate alert.",
-    "clear": "Nothing in the inbox needs a reply from you today."
+    "noise": "The rest is newsletters and promos — LinkedIn, NYT Cooking, Airbnb, a Toronto hotel deal, and a sailing class reminder for tomorrow.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Booked",
+      "title": "Maine ferry tickets are set",
+      "detail": "The confirmation came through this morning and you forwarded it to Mike — nothing left to do there."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -42,50 +63,47 @@
   },
   "tasks": [
     {
+      "title": "Drive the Pathfinder south (Portland → St Pete)",
+      "project": "Household",
+      "due": "Window Oct 5–18",
+      "overdue": true
+    },
+    {
       "title": "Get 3 term life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sep 25",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + shower soap holder",
+      "title": "Order the Portland king bedframe + shower soap holder",
       "project": "Household",
-      "due": "Overdue Sep 30",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder south — Portland to St Pete",
+      "title": "Destination edit work",
       "project": "Travel",
-      "due": "Window Oct 5–18, open now",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist to book the appointment",
-      "project": "Health",
-      "due": "Overdue Aug 28",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning — nothing on the calendar is pulling at you.",
-      "tag": "open"
+      "line": "A clear calendar — no meetings reach into the morning."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon is wide open; the overdue travel bookings are the one thing waiting.",
-      "tag": "open"
+      "line": "The open stretch runs straight through; it's the kind of afternoon the planning backlog has been waiting for."
     },
     {
       "time": "Evening",
-      "line": "Ease off early — tomorrow opens with a 9 AM appointment.",
-      "tag": "calm"
+      "line": "With the girls still at Jen's and tomorrow starting early at nine, the evening can stay calm and end early."
     }
   ],
   "japanese": {
