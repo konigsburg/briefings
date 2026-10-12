@@ -1,23 +1,23 @@
 {
   "date": "Monday, October 12, 2026",
   "generatedAt": "Morning brief · 7:27 AM ET",
-  "theme": "An open day, with a few bookings quietly running out of runway.",
-  "greeting": "The whole day is yours, Dan — nothing is on the calendar. The only things with a clock on them are a couple of travel bookings that have drifted past their dates.",
+  "theme": "An open day against a few closing windows.",
+  "greeting": "The calendar is empty today, Dan — a rare fully open Monday, with the girls at Jen's this stretch. What's pulling at the day isn't meetings but a cluster of trip-booking windows now days from closing.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "The p1 Todoist booking is still open and overdue since Sep 14. A full-size SUV out of Portland over Christmas week is the thinnest inventory in that market, so a refundable hold now takes the whole risk off the table."
+      "tag": "Book by Wed",
+      "title": "December break trip",
+      "detail": "The December shortlist was meant to be decided Sept 30 and booked by Oct 15 — that booking date is Wednesday, and six people across three holiday weeks is the thinnest inventory of the year."
     },
     {
-      "tag": "Decide by Oct 15",
-      "title": "December break destination",
-      "detail": "The shortlist-and-book task hits its Oct 15 booking deadline in three days. Holiday inventory for six across three weeks is the thinnest of the year, so the decision is what unlocks everything downstream."
+      "tag": "Sells out",
+      "title": "Maine Christmas SUV",
+      "detail": "The full-size Portland SUV for Christmas has been the p1 'book this week' item since mid-September; a refundable hold costs nothing and it's the rental most likely to sell out over the holidays."
     },
     {
       "tag": "Window closing",
       "title": "Pathfinder drive south",
-      "detail": "The Oct 5–18 Portland-to-St Pete drive window is the off-week gap between girl-weeks. Setting the dates and booking the one hotel night locks it in before the window closes."
+      "detail": "The Portland-to-St-Pete drive is slotted into the Oct 5-18 off-week; the back half of that window is what's left to lock dates and the one hotel night."
     }
   ],
   "schedule": [],
@@ -25,12 +25,22 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two exec-role alerts overnight",
-        "detail": "LinkedIn surfaced a Citi Head of Business Development (MD) role and an LHH Director/VP of Capital Markets opening — worth a skim, though both are generic alerts rather than outreach."
+        "title": "Eugenia wants a date to talk",
+        "detail": "She's back from Morocco Oct 31, says she's flexible, and asked you to pick a slot — the thread is resting on your reply."
+      },
+      {
+        "tag": "Job search",
+        "title": "Two senior roles in the alerts",
+        "detail": "LinkedIn pushed a Citi MD and a capital-markets VP role overnight — automated alerts, not outreach, but in range."
+      },
+      {
+        "tag": "Financial",
+        "title": "Chase statement posted",
+        "detail": "The Sapphire statement is ready with auto-pay already on — a glance, nothing owed."
       }
     ],
-    "noise": "The rest is newsletters, receipts and promos — a Chase statement ($184.93, due Nov 8, autopay on), a Disney+ receipt, and the usual language-app and local digests.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "Everything else is newsletters — Responsible Investor, WSJ, NYT Cooking, the St Pete local roundup, language nudges.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -49,13 +59,13 @@
     {
       "title": "Get 3 term life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sep 25",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
-      "due": "Overdue Sep 30",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
@@ -73,15 +83,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings anywhere on the calendar — the morning is wide open before anything can claim it."
+      "line": "Nothing on the calendar before noon — a genuinely clear stretch to start the week."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon stays just as clear; the day asks nothing of you but what you choose to give it."
+      "line": "The day stays open straight through; no meetings bracket it on either side."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens early with a nine o'clock appointment, so an earlier evening sets it up well."
+      "line": "Tomorrow opens at 9 with an appointment, so an earlier night sets it up well."
     }
   ],
   "japanese": {
