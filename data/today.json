@@ -1,23 +1,23 @@
 {
   "date": "Monday, October 12, 2026",
-  "generatedAt": "Morning brief · 6:14 PM ET",
-  "theme": "An open day, with two travel bookings quietly going overdue.",
-  "greeting": "Nothing on the calendar today, Dan — a rare clear stretch end to end. The week's real pressure is two travel bookings now past due, and the December trip's book-by date lands Thursday.",
+  "generatedAt": "Morning brief · 6:18 PM ET",
+  "theme": "An open day, with a few bookings on the clock.",
+  "greeting": "A clear calendar today, Dan — the day opens all the way up. Worth spending some of it on the holiday bookings before their windows close.",
   "needsAttention": [
     {
-      "tag": "Book this week",
+      "tag": "Books this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "Your p1 task flags a full-size SUV out of Portland for Christmas week; holiday inventory is thin, so a refundable hold now takes the risk off. Open since mid-September."
+      "detail": "A full-size SUV out of Portland over Christmas week is the first thing to sell out, and the task has sat at p1 since mid-September. A refundable hold costs nothing and closes the risk."
     },
     {
-      "tag": "Decide by Thursday",
-      "title": "December break destination",
-      "detail": "The December trip with all four girls (Dec 13-Jan 2) needs a call and a booking by Oct 15 — six people over three weeks is the thinnest inventory of the year."
+      "tag": "Window closes Oct 15",
+      "title": "December trip — decide and book",
+      "detail": "The three-week break with all four girls books by Oct 15 for holiday inventory; the shortlist was due Sept 30. Domestic is the clean default since the new passports only land in November."
     },
     {
-      "tag": "Awaiting reply",
-      "title": "Mom's care paperwork",
-      "detail": "Tampa Gardens still hasn't answered your Oct 7 note about the form her insurer requested; a short nudge would move it."
+      "tag": "Reply owed",
+      "title": "Pick a date with Eugenia",
+      "detail": "She's back from Morocco on Oct 31 and asked you to name a slot to catch up. The thread has been waiting on you since Saturday."
     }
   ],
   "schedule": [],
@@ -25,18 +25,28 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Eugenia wants a time",
-        "detail": "She's back Oct 31 and asked you to propose a slot; you'd flagged you'll both be at ICGN in Toronto."
+        "title": "Public policy role at Aster",
+        "detail": "A LinkedIn alert surfaced a Head of US Public Policy and Government Affairs opening — worth a glance given the governance search."
+      },
+      {
+        "tag": "FYI",
+        "title": "Tampa Gardens hasn't replied",
+        "detail": "Your Oct 7 chase on your mother's care-plan form still hasn't been answered; a phone nudge may move it."
       }
     ],
-    "noise": "The rest is newsletters and promos — SoPo, a Kayak deal, a design digest.",
+    "noise": "The rest is promotions — Spotify, Harry & David, The Company Store.",
     "clear": ""
   },
   "resolved": [
     {
       "tag": "Booked",
       "title": "Vinalhaven ferry tickets",
-      "detail": "The Maine State Ferry confirmation came through this morning; you forwarded it on to Mike."
+      "detail": "Maine State Ferry order came through this morning and you forwarded it to Mike."
+    },
+    {
+      "tag": "Set",
+      "title": "Lunch with Fran",
+      "detail": "Landed on Friday 12:30 at Miyake after a little back-and-forth."
     }
   ],
   "context": {
@@ -54,12 +64,12 @@
   "tasks": [
     {
       "title": "Drive the Pathfinder south, Portland to St Pete",
-      "project": "Household",
+      "project": "Planning",
       "due": "Window Oct 5-18",
       "overdue": true
     },
     {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
@@ -68,12 +78,6 @@
       "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Work",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -85,15 +89,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is empty top to bottom — no meetings pulling at the day."
+      "line": "The calendar's empty — no meetings to bend the morning around."
     },
     {
       "time": "Afternoon",
-      "line": "A rare open stretch to spend on the one decision the week keeps circling back to."
+      "line": "Open water straight through; nothing scheduled pulls at the afternoon."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens early at nine, so tonight can wind down without a late push."
+      "line": "A still evening, and tomorrow starts early with a nine o'clock."
     }
   ],
   "japanese": {
