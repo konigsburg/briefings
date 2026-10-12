@@ -1,23 +1,23 @@
 {
   "date": "Monday, October 12, 2026",
   "generatedAt": "Morning brief · 4:14 PM ET",
-  "theme": "An open day, with a couple of clocks ticking.",
-  "greeting": "The whole day is yours, Dan — nothing on the calendar. It's the open stretch the travel backlog has been waiting for, and two of those items have deadlines closing this week.",
+  "theme": "An open day, with two travel bookings quietly going overdue.",
+  "greeting": "Nothing on the calendar today, Dan — a rare clear stretch end to end. The week's real pressure is two travel bookings now past due, and the December trip's book-by date lands Thursday.",
   "needsAttention": [
     {
-      "tag": "Book by Wed",
-      "title": "Decide the December family trip",
-      "detail": "The shortlist-and-book task is past due and the booking window closes Oct 15 — holiday inventory for six over three weeks is the thinnest of the year, so this is the one to close first."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Your p1 task flags a full-size SUV out of Portland for Christmas week; holiday inventory is thin, so a refundable hold now takes the risk off. Open since mid-September."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Hold the Maine Christmas rental",
-      "detail": "Your top-priority task to book a refundable full-size SUV out of Portland for Christmas week has slipped since September; it's the rental most likely to sell out, and a refundable hold costs nothing."
+      "tag": "Decide by Thursday",
+      "title": "December break destination",
+      "detail": "The December trip with all four girls (Dec 13-Jan 2) needs a call and a booking by Oct 15 — six people over three weeks is the thinnest inventory of the year."
     },
     {
-      "tag": "Reply owed",
-      "title": "Pick a date with Eugenia",
-      "detail": "She's back from Morocco Oct 31 and asked you to put a catch-up slot on the calendar — you'd floated seeing her around ICGN in Toronto, so a proposed date would close the loop."
+      "tag": "Awaiting reply",
+      "title": "Mom's care paperwork",
+      "detail": "Tampa Gardens still hasn't answered your Oct 7 note about the form her insurer requested; a short nudge would move it."
     }
   ],
   "schedule": [],
@@ -25,28 +25,18 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "New policy role in your alert",
-        "detail": "LinkedIn surfaced 'SVP Global Public Policy' and similar openings this morning."
-      },
-      {
-        "tag": "FYI",
-        "title": "Fran's lunch still needs a spot",
-        "detail": "You floated Miyake or Isa Bistro for Friday's 12:30 — she's happy either way, just pick one."
-      },
-      {
-        "tag": "FYI",
-        "title": "Tampa Gardens hasn't replied",
-        "detail": "Your Oct 7 follow-up about your mom's care form is still unanswered — worth a nudge if it's time-sensitive."
+        "title": "Eugenia wants a time",
+        "detail": "She's back Oct 31 and asked you to propose a slot; you'd flagged you'll both be at ICGN in Toronto."
       }
     ],
-    "noise": "The rest is newsletters and promos — LinkedIn, NYT Cooking, Airbnb, a Toronto hotel deal, and a sailing class reminder for tomorrow.",
+    "noise": "The rest is newsletters and promos — SoPo, a Kayak deal, a design digest.",
     "clear": ""
   },
   "resolved": [
     {
       "tag": "Booked",
-      "title": "Maine ferry tickets are set",
-      "detail": "The confirmation came through this morning and you forwarded it to Mike — nothing left to do there."
+      "title": "Vinalhaven ferry tickets",
+      "detail": "The Maine State Ferry confirmation came through this morning; you forwarded it on to Mike."
     }
   ],
   "context": {
@@ -63,26 +53,26 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder south (Portland → St Pete)",
+      "title": "Drive the Pathfinder south, Portland to St Pete",
       "project": "Household",
-      "due": "Window Oct 5–18",
+      "due": "Window Oct 5-18",
       "overdue": true
     },
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Get 3 term-life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sept 25",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Order the Portland king bedframe + shower soap holder",
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
-      "due": "Overdue Sept 30",
+      "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Travel",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -95,15 +85,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar — no meetings reach into the morning."
+      "line": "The calendar is empty top to bottom — no meetings pulling at the day."
     },
     {
       "time": "Afternoon",
-      "line": "The open stretch runs straight through; it's the kind of afternoon the planning backlog has been waiting for."
+      "line": "A rare open stretch to spend on the one decision the week keeps circling back to."
     },
     {
       "time": "Evening",
-      "line": "With the girls still at Jen's and tomorrow starting early at nine, the evening can stay calm and end early."
+      "line": "Tomorrow opens early at nine, so tonight can wind down without a late push."
     }
   ],
   "japanese": {
