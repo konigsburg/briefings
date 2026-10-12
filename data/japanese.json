@@ -1,90 +1,90 @@
 {
-  "lessonNo": 235,
-  "date": "Thursday, Sep 24",
-  "generatedAt": "Lesson #235 · Sep 24",
-  "theme": "Comparing things — より・のほうが・いちばん",
-  "intro": "Making comparisons: A is more ~ than B, asking which of two, and the most ~ of a group.",
+  "lessonNo": 236,
+  "date": "Monday, Oct 12",
+  "generatedAt": "Lesson #236 · Oct 12",
+  "theme": "Because — ～から・～ので: giving reasons the blunt way and the polite way",
+  "intro": "Two ways to say \"because\": personal, direct ～から versus softer, more polite ～ので — built for excuses, explanations, and polite requests.",
   "grammar": {
-    "title": "Comparatives & the superlative",
+    "title": "～から and ～ので (because)",
     "rules": [
       {
-        "label": "A は B より 〜",
-        "detail": "A is more ~ than B (the plain 'than' pattern)",
+        "label": "Verbs & い-adjectives",
+        "detail": "Attach either one straight onto the plain form.",
         "examples": [
-          "しんかんせんはバスよりはやいです → The bullet train is faster than the bus"
+          "行く → 行くから / 行くので (because ~ go)",
+          "高い → 高いから / 高いので (because ~ expensive)"
         ]
       },
       {
-        "label": "B より A のほうが 〜",
-        "detail": "Same meaning, but spotlights A as the more ~ one",
+        "label": "な-adjectives & nouns",
+        "detail": "Before から use だ; before ので use な.",
         "examples": [
-          "バスよりしんかんせんのほうがはやいです → The bullet train is the faster one"
+          "学生だから / 学生なので (because ~ a student)",
+          "しずかだから / しずかなので (because ~ quiet)"
         ]
       },
       {
-        "label": "A と B と どちらが 〜ですか",
-        "detail": "Which is more ~, A or B? Answer with 〜のほうが",
+        "label": "Tone",
+        "detail": "から = direct/personal, can sound blunt; ので = softer, polite, good for requests and excuses.",
         "examples": [
-          "でんしゃとタクシーとどちらがべんりですか → Which is more convenient, the train or a taxi?"
-        ]
-      },
-      {
-        "label": "[group]のなかで Xが いちばん 〜",
-        "detail": "Superlative: X is the most ~ of the group",
-        "examples": [
-          "にほんでふじさんがいちばんたかいです → Mt. Fuji is the tallest in Japan"
+          "疲れたから… (casual) vs. わからないので… (polite)"
         ]
       }
     ],
-    "bigPoint": "Japanese adjectives don't change to compare — no '-er' ending. はやい stays はやい; you just add より or のほうが."
+    "bigPoint": "Both go [reason] + から/ので、[result]. The only form trap is な-adjectives and nouns: だ before から, な before ので."
   },
   "vocab": [
     {
-      "jp": "より",
-      "romaji": "yori",
-      "en": "than"
+      "jp": "～から",
+      "romaji": "kara",
+      "en": "because (casual / direct)"
     },
     {
-      "jp": "〜のほうが",
-      "romaji": "~no hō ga",
-      "en": "more / the ~ one"
+      "jp": "～ので",
+      "romaji": "node",
+      "en": "because (softer, polite)"
     },
     {
-      "jp": "いちばん・一番",
-      "romaji": "ichiban",
-      "en": "most / #1 / best"
+      "jp": "疲れた・つかれた",
+      "romaji": "tsukareta",
+      "en": "(I'm / got) tired"
     },
     {
-      "jp": "どちら／どっち",
-      "romaji": "dochira / docchi",
-      "en": "which (of two)"
+      "jp": "忙しい・いそがしい",
+      "romaji": "isogashii",
+      "en": "busy"
     },
     {
-      "jp": "〜のなかで",
-      "romaji": "~no naka de",
-      "en": "among / within (a group)"
+      "jp": "混む・こむ",
+      "romaji": "komu",
+      "en": "to get crowded (混んでいる = is crowded)"
     },
     {
-      "jp": "べんり(な)",
-      "romaji": "benri na",
-      "en": "convenient"
+      "jp": "閉まる・しまる",
+      "romaji": "shimaru",
+      "en": "(a shop) closes / is closed"
     }
   ],
   "examples": [
     {
-      "jp": "このみせで にくまんが いちばん おいしいです。",
-      "romaji": "Kono mise de nikuman ga ichiban oishii desu.",
-      "en": "At this shop, the steamed pork buns are the tastiest."
+      "jp": "疲れたから、今日は早く寝ます。",
+      "romaji": "Tsukareta kara, kyō wa hayaku nemasu.",
+      "en": "Because I'm tired, I'll go to bed early today."
     },
     {
-      "jp": "きょうは きのうより さむいです。",
-      "romaji": "Kyō wa kinō yori samui desu.",
-      "en": "Today is colder than yesterday."
+      "jp": "電車が混んでいるので、次のに乗りましょう。",
+      "romaji": "Densha ga konde iru node, tsugi no ni norimashō.",
+      "en": "Since the train is crowded, let's take the next one."
+    },
+    {
+      "jp": "この店は6時に閉まるので、急ぎましょう。",
+      "romaji": "Kono mise wa roku-ji ni shimaru node, isogimashō.",
+      "en": "The shop closes at six, so let's hurry."
     }
   ],
-  "note": "In casual speech どちら becomes どっち. Notice the double と in 'A と B と どちらが…?' — the second と bundles the two options together before the question.",
+  "note": "Use ので when being polite — an excuse to a clerk or a favor from a stranger: 「すみません、日本語がわからないので…」. Use から with friends and for personal reasons; you can even end a sentence on it to add the reason after: 行きません。疲れたから。",
   "selfCheck": {
-    "q": "How would you ask 'Which do you like better, coffee or tea?' (coffee = コーヒー, tea = おちゃ, to like = すき)",
-    "a": "コーヒーと おちゃと どちらが すきですか。 (Kōhī to ocha to dochira ga suki desu ka?) — casual: どっちがすき？"
+    "q": "It's cheap (安い・やすい), so you'll buy two — say it casually with から: \"Because it's cheap, I'll buy two (2つ).\"",
+    "a": "安いから、2つ買います。 (Yasui kara, futatsu kaimasu.) — the い-adjective 安い takes から directly, no だ. Politer: 安いので、2つ買います。"
   }
 }
