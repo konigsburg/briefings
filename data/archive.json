@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-10-12",
+    "kind": "Morning brief",
+    "label": "Monday, Oct 12 · 6:17 AM ET",
+    "summary": "An open day with no meetings; three overdue travel bookings (Christmas SUV, December trip, Pathfinder drive) are the only things with a clock on them.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-10-11",
     "kind": "Morning brief",
     "label": "Sunday, Oct 11 · 10:14 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Sunday, Sep 13 · 10:05 PM ET",
     "summary": "A quiet day at sea off Croatia; the live items are the Cavtat transfers before Sept 15, the Maine Christmas SUV due tomorrow, and the Tampa car for the Sept 20 landing.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-09-12",
-    "kind": "Morning brief",
-    "label": "Saturday, Sep 12 · 10:02 PM ET",
-    "summary": "Last day ashore in Dubrovnik before the Nautilus charter boards; trip logistics to close while online, girls with Jen.",
     "ref": "today"
   }
 ]
