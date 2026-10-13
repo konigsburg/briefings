@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-10-13",
+    "kind": "Morning brief",
+    "label": "Tuesday, Oct 13 · 6:15 AM ET",
+    "summary": "An open day with one 9 AM appointment; the real weight is overdue travel bookings, led by the December trip's Oct 15 deadline.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-10-12",
     "kind": "Morning brief",
     "label": "Monday, Oct 12 · 10:14 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Monday, Sep 14 · 10:02 PM ET",
     "summary": "An open day mid-charter on the Adriatic, with a short stack of travel bookings waiting for a dry-land signal.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-09-13",
-    "kind": "Morning brief",
-    "label": "Sunday, Sep 13 · 10:05 PM ET",
-    "summary": "A quiet day at sea off Croatia; the live items are the Cavtat transfers before Sept 15, the Maine Christmas SUV due tomorrow, and the Tampa car for the Sept 20 landing.",
     "ref": "today"
   }
 ]
