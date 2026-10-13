@@ -1,50 +1,66 @@
 {
   "date": "Tuesday, October 13, 2026",
-  "generatedAt": "Morning brief · 4:14 PM ET",
-  "theme": "An open day — one appointment, then room to breathe.",
-  "greeting": "Just one thing on the calendar today, Dan: a 9 AM with Dr. Snowden, and then the day is your own. If the open stretch goes anywhere, the overdue holiday bookings are what's quietly running out of runway.",
+  "generatedAt": "Morning brief · 4:18 PM ET",
+  "theme": "An open day with a few October deadlines knocking.",
+  "greeting": "Just one appointment on the books today, Dan, and a clear stretch after it. The real call on your attention is a cluster of mid-October booking deadlines and a governance invitation waiting on your reply.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas rental is still unbooked",
-      "detail": "Your p1 on the Mike + Dan board, overdue since mid-September. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out; a refundable hold booked now removes the whole risk."
+      "tag": "Reply owed",
+      "title": "Write back to Anne on the November OECD meeting",
+      "detail": "Anne Molyneux emailed this morning asking you to join the OECD corporate governance meeting in November — she's heard you've left your firm and wants you in the room. A reply closes the loop while there's still runway before November."
+    },
+    {
+      "tag": "Book by Oct 15",
+      "title": "Lock the December break destination",
+      "detail": "Your own deadline to book the all-kids December trip is Oct 15 — two days out — and holiday inventory for six across three weeks is the thinnest of the year. The shortlist needs to land so the booking can follow."
+    },
+    {
+      "tag": "Overdue p1",
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "The full-size Portland rental for Christmas week is the item most likely to bite — thin holiday inventory that sells out — and it's been open since mid-September. A refundable booking held now removes the whole risk."
     },
     {
       "tag": "Window closing",
-      "title": "December trip — decide and book by Oct 15",
-      "detail": "Your own deadline is Wednesday. Holiday inventory for six across three weeks is the thinnest of the year, so a domestic shortlist with nothing to wait on is the safe default."
-    },
-    {
-      "tag": "Window closing",
-      "title": "Pathfinder drive south",
-      "detail": "The Oct 5–18 off-week gap is the window to drive Portland to St Pete. Setting the dates and booking the one hotel night locks it in before the window closes the 18th."
+      "title": "Set the Pathfinder drive south",
+      "detail": "The Portland-to-St Pete drive has to fall in the Oct 5–18 off-week gap, which closes this weekend. Picking the two dates lets the hotel night get booked."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
-      "title": "Dr. Snowden",
-      "detail": "Appointment",
+      "title": "Dr Snowden",
+      "detail": "One hour",
       "tag": "appt"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Tampa Gardens hasn't written back",
-        "detail": "The reply you chased on Oct 7 about the insurance plan-of-care form still hasn't landed; the thread has been quiet since."
+        "tag": "Job search",
+        "title": "LinkedIn reply owed to Abijah Kanene",
+        "detail": "A corporate-affairs contact is waiting on your response in LinkedIn messages."
       },
       {
         "tag": "FYI",
-        "title": "Maine ferry tickets confirmed",
-        "detail": "Your Maine State Ferry order came through Oct 12 and you forwarded it on to Mike."
+        "title": "On-target role alerts this week",
+        "detail": "LinkedIn surfaced several public-policy and governance roles — Rockefeller Foundation, Aster, an SVP Global Public Policy posting."
       }
     ],
-    "noise": "About a dozen promos today — Nextdoor, Bloomberg, Li-Lac, Fit2Run, Brooks.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "The rest is reading and offers — ICGN and WSJ policy briefs, the St Pete locals, and travel and retail promotions.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Sent",
+      "title": "Proposal is out to Valoris Catalysts",
+      "detail": "You sent the proposal to Mike Lubrano and the Valoris team this afternoon, following last week's conversation — now in their hands to consider."
+    },
+    {
+      "tag": "Handled",
+      "title": "Vinalhaven ferry tickets forwarded to Mike",
+      "detail": "The Maine State Ferry confirmation arrived and you passed it to Mike yesterday."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -60,13 +76,13 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan",
       "due": "Overdue Sep 30",
       "overdue": true
     },
@@ -85,15 +101,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A 9 o'clock with Dr. Snowden was the only thing the calendar asked of you."
+      "line": "A 9 o'clock with Dr Snowden was the only thing the calendar asked of you."
     },
     {
       "time": "Afternoon",
-      "line": "From there it opens all the way out — nothing booked, no meetings waiting."
+      "line": "Nothing else is scheduled — the hours are open ground."
     },
     {
       "time": "Evening",
-      "line": "Quiet straight through; the evening is entirely yours."
+      "line": "The girls are with Jen this week, so the evening stays your own."
     }
   ],
   "japanese": {
