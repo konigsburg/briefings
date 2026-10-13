@@ -1,35 +1,30 @@
 {
   "date": "Tuesday, October 13, 2026",
   "generatedAt": "Morning brief · 12:20 PM ET",
-  "theme": "A clear calendar with two booking windows running out.",
-  "greeting": "Almost nothing on the calendar today, Dan — just the 9 o'clock, now behind you. These are good open hours to close the two travel bookings that are nearly out of runway.",
+  "theme": "A wide-open day with two booking windows closing.",
+  "greeting": "Morning, Dan. The calendar is nearly empty today, which is lucky — the December trip and the Maine Christmas rental both want a decision this week, and this is the day with room to make them.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "The Maine Christmas SUV is the one that sells out",
-      "detail": "The p1 on your board, overdue since mid-September. A full-size SUV out of Portland over Christmas week is the hardest rental in that market — book it refundable now and fix the dates later."
+      "tag": "Book by Oct 15",
+      "title": "December break — decide and book",
+      "detail": "The Dec 13–Jan 2 trip for all four girls needs a destination locked and booked by Oct 15, two days out. Holiday inventory for six over three weeks is the thinnest of the year; the default is domestic, since passports won't be in hand at booking."
+    },
+    {
+      "tag": "Overdue · p1",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Book a refundable full-size SUV out of Portland for Christmas week now — it's the hardest rental in that market and it sells out. Dates can be adjusted later, and holding one early costs nothing."
     },
     {
       "tag": "Window closing",
-      "title": "December trip books by Thursday",
-      "detail": "Your board set book-by Oct 15 for the three-week December break with all four girls, and holiday inventory for six is the thinnest of the year. Two days left to settle a destination."
-    },
-    {
-      "tag": "Awaiting reply",
-      "title": "OECD governance meeting invite",
-      "detail": "A governance contact wrote this morning asking you to come to the OECD corporate-governance meeting in November and to compare notes — waiting to hear back."
-    },
-    {
-      "tag": "Awaiting reply",
-      "title": "Eugenia wants a date to talk",
-      "detail": "She's back from Morocco on Oct 31 and asked you to put a slot on the calendar; the ball is in your court."
+      "title": "Pathfinder drive south",
+      "detail": "The Oct 5–18 off-week gap is the window to drive the Pathfinder from Portland to St Pete. Book the single hotel night once the dates are set."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Dr Snowden",
-      "detail": "Appointment",
+      "detail": "Morning appointment",
       "tag": "appt"
     }
   ],
@@ -37,25 +32,14 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "BlackRock thread still open",
-        "detail": "You told John on Oct 8 you're still in the market; no reply back yet."
-      },
-      {
-        "tag": "FYI",
-        "title": "Mom's care-plan fax unanswered",
-        "detail": "Tampa Gardens hasn't replied to your Oct 7 note about the physician's plan-of-care form."
+        "title": "Outreach still awaiting replies",
+        "detail": "Your follow-ups to John Roe at BlackRock and Jonathan Dunne at Deloitte are both out from last week and unanswered — nothing owed on your side yet."
       }
     ],
-    "noise": "Otherwise promos and newsletters — real estate, Kayak Toronto, F1 hospitality, Italian word of the day.",
+    "noise": "The rest of the inbox is promotions — Crate & Barrel, Kayak, sailing trips, F1 hotels.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Booked",
-      "title": "Vinalhaven ferry confirmed",
-      "detail": "The Maine State Ferry reservation came through Oct 12 and you forwarded it to Mike."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -71,46 +55,40 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 25",
+      "project": "Household",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder south",
-      "project": "Mike + Dan Board",
-      "due": "Window closes Oct 18",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 30",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Travel",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/3",
+    "morning": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "One appointment at 9, now behind you — the morning is clear from here."
+      "line": "One 9 a.m. appointment, and the rest of the morning left open."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled, so the afternoon is entirely yours to steer."
+      "line": "A clear afternoon — nothing on the calendar after noon."
     },
     {
       "time": "Evening",
-      "line": "The girls are with Jen through Sunday, so the evening stays quiet."
+      "line": "Quiet into the evening, and tomorrow's calendar is open too."
     }
   ],
   "japanese": {
