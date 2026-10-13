@@ -1,43 +1,48 @@
 {
   "date": "Tuesday, October 13, 2026",
   "generatedAt": "Morning brief · 2:15 PM ET",
-  "theme": "A wide-open day with two booking windows closing.",
-  "greeting": "Morning, Dan. The calendar is nearly empty today, which is lucky — the December trip and the Maine Christmas rental both want a decision this week, and this is the day with room to make them.",
+  "theme": "An open day — one appointment, then room to breathe.",
+  "greeting": "Just one thing on the calendar today, Dan: a 9 AM with Dr. Snowden, and then the day is your own. If the open stretch goes anywhere, the overdue holiday bookings are what's quietly running out of runway.",
   "needsAttention": [
     {
-      "tag": "Book by Oct 15",
-      "title": "December break — decide and book",
-      "detail": "The Dec 13–Jan 2 trip for all four girls needs a destination locked and booked by Oct 15, two days out. Holiday inventory for six over three weeks is the thinnest of the year; the default is domestic, since passports won't be in hand at booking."
+      "tag": "Book this week",
+      "title": "Maine Christmas rental is still unbooked",
+      "detail": "Your p1 on the Mike + Dan board, overdue since mid-September. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out; a refundable hold booked now removes the whole risk."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Book a refundable full-size SUV out of Portland for Christmas week now — it's the hardest rental in that market and it sells out. Dates can be adjusted later, and holding one early costs nothing."
+      "tag": "Window closing",
+      "title": "December trip — decide and book by Oct 15",
+      "detail": "Your own deadline is Wednesday. Holiday inventory for six across three weeks is the thinnest of the year, so a domestic shortlist with nothing to wait on is the safe default."
     },
     {
       "tag": "Window closing",
       "title": "Pathfinder drive south",
-      "detail": "The Oct 5–18 off-week gap is the window to drive the Pathfinder from Portland to St Pete. Book the single hotel night once the dates are set."
+      "detail": "The Oct 5–18 off-week gap is the window to drive Portland to St Pete. Setting the dates and booking the one hotel night locks it in before the window closes the 18th."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
-      "title": "Dr Snowden",
-      "detail": "Morning appointment",
+      "title": "Dr. Snowden",
+      "detail": "Appointment",
       "tag": "appt"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Outreach still awaiting replies",
-        "detail": "Your follow-ups to John Roe at BlackRock and Jonathan Dunne at Deloitte are both out from last week and unanswered — nothing owed on your side yet."
+        "tag": "FYI",
+        "title": "Tampa Gardens hasn't written back",
+        "detail": "The reply you chased on Oct 7 about the insurance plan-of-care form still hasn't landed; the thread has been quiet since."
+      },
+      {
+        "tag": "FYI",
+        "title": "Maine ferry tickets confirmed",
+        "detail": "Your Maine State Ferry order came through Oct 12 and you forwarded it on to Mike."
       }
     ],
-    "noise": "The rest of the inbox is promotions — Crate & Barrel, Kayak, sailing trips, F1 hotels.",
-    "clear": ""
+    "noise": "About a dozen promos today — Nextdoor, Bloomberg, Li-Lac, Fit2Run, Brooks.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -55,40 +60,40 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sept 25",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Household",
-      "due": "Overdue Sept 30",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Travel",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/3",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "One 9 a.m. appointment, and the rest of the morning left open."
+      "line": "A 9 o'clock with Dr. Snowden was the only thing the calendar asked of you."
     },
     {
       "time": "Afternoon",
-      "line": "A clear afternoon — nothing on the calendar after noon."
+      "line": "From there it opens all the way out — nothing booked, no meetings waiting."
     },
     {
       "time": "Evening",
-      "line": "Quiet into the evening, and tomorrow's calendar is open too."
+      "line": "Quiet straight through; the evening is entirely yours."
     }
   ],
   "japanese": {
