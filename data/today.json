@@ -1,59 +1,67 @@
 {
   "date": "Tuesday, October 13, 2026",
   "generatedAt": "Morning brief · 6:15 AM ET",
-  "theme": "An open day to clear the backlog.",
-  "greeting": "A wide-open Monday, Dan — nothing on the calendar at all. With the girls at Jen's, it's a clean window to finally land the travel bookings that have been circling.",
+  "theme": "An open day with a single morning anchor.",
+  "greeting": "One appointment at nine, Dan, and then the day is yours. The loudest thing on your plate isn't on the calendar at all — it's a cluster of travel bookings gone quietly past due, with the December trip's deadline now two days out.",
   "needsAttention": [
     {
-      "tag": "Book by Oct 15",
-      "title": "December break still undecided",
-      "detail": "The family trip (Dec 13 – Jan 2, all four girls) was meant to be decided by Sept 30 and booked by Oct 15. Holiday inventory for six over three weeks is the thinnest of the year — pick domestic vs. international and lock a shortlist."
+      "tag": "Books by Oct 15",
+      "title": "Lock the December-break destination",
+      "detail": "The decide-and-book deadline on the December trip — all four girls, Dec 13 to Jan 2 — lands in two days. Holiday inventory for six across three weeks is the thinnest of the year, so the choice between a domestic shortlist and refundable-only international is the whole decision."
     },
     {
-      "tag": "p1 overdue",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A refundable full-size SUV out of Portland for Christmas week is the hardest rental in that market and sells out. The task flags it as book-this-week, and it's been open since mid-September."
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "The one p1, overdue since mid-September: a refundable full-size SUV out of Portland for Christmas week. With the Pathfinder heading south this month, it's the only six-seater for the girls' Maine Christmas, and holiday inventory in that market sells out."
     },
     {
       "tag": "Window closing",
-      "title": "Pathfinder drive south",
-      "detail": "The Portland to St Pete drive lives in the Oct 5–18 off-week gap; after the 18th the window's gone. Set the dates and book the single hotel night."
-    },
-    {
-      "tag": "Reply owed",
-      "title": "Eugenia is waiting on a date",
-      "detail": "She's back from Morocco Oct 31 and tossed it back to you — asking for a date or slot to talk, and whether you'll cross paths at ICGN in Toronto. Worth proposing a time before it drifts."
-    },
-    {
-      "tag": "Tomorrow",
-      "title": "Early start at 9",
-      "detail": "Dr Snowden at 9am tomorrow is the one fixed point after an open stretch — worth an earlier night."
+      "title": "Set the Pathfinder drive dates",
+      "detail": "The Portland-to-St-Pete drive window, Oct 5 to 18, closes this week. The single hotel night can't be booked until the dates are firm."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "title": "Dr Snowden",
+      "detail": "On your calendar, one hour",
+      "tag": "appt"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Mom's care plan still unanswered",
-        "detail": "Tampa Gardens hasn't replied on the updated plan-of-care form for your mother — you've followed up since August. Likely needs a phone nudge rather than another email."
+        "tag": "Financial",
+        "title": "Morgan Stanley: fund your new account",
+        "detail": "A final reminder to make the initial deposit on the new Signature Savings account."
+      },
+      {
+        "tag": "Financial",
+        "title": "Fidium internet bill is ready",
+        "detail": "The monthly statement is posted and ready to pay."
+      },
+      {
+        "tag": "Security",
+        "title": "Two Disney+ login alerts overnight",
+        "detail": "Back-to-back new-login notices around 2 AM — worth a glance if that wasn't you or the kids."
       }
     ],
-    "noise": "Everything else is newsletters and retail promos — Mattress Firm, Nextdoor, WeatherTech, Differentiated Design.",
-    "clear": ""
+    "noise": "The rest is reading, not doing: WSJ Economics, the ICGN governance newsletter, your St Pete local, a few LinkedIn invites, and a stack of retail sales.",
+    "clear": "Nothing in your primary inbox is waiting on a reply."
   },
   "resolved": [
     {
-      "title": "Ferry tickets came through",
-      "detail": "The Maine State Ferry confirmation landed this morning and you forwarded it to Mike — the Vinalhaven leg is set."
+      "tag": "Booked",
+      "title": "Maine ferry tickets confirmed",
+      "detail": "The Maine State Ferry reservation came through yesterday and you forwarded it on to Mike — that one's closed."
     }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Maine",
+    "location": "Coastal Maine",
     "confidence": "low",
-    "asOf": "Mon Oct 12"
+    "asOf": "Tuesday Oct 13"
   },
   "recipe": {
     "title": "Grilled quail with braised chestnuts & kabocha squash",
@@ -62,7 +70,7 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Get three term-life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
@@ -74,14 +82,14 @@
       "overdue": true
     },
     {
-      "title": "Book Mike's dermatologist call",
+      "title": "Call dermatologist to book Mike's appointment",
       "project": "Household",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Work",
+      "project": "Travel",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -93,16 +101,16 @@
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "The calendar's completely empty — the morning is entirely yours."
+      "time": "9 – 10 AM",
+      "line": "A single appointment with Dr Snowden holds the first hour; the rest of the morning is quiet."
     },
     {
-      "time": "Afternoon",
-      "line": "Still clear through the afternoon; a real window for the overdue travel bookings."
+      "time": "10 AM onward",
+      "line": "Nothing on the calendar after ten — a genuinely open afternoon to spend on the backlog that's been waiting."
     },
     {
       "time": "Evening",
-      "line": "A quiet close, with an early start set for tomorrow."
+      "line": "The girls are with Jen this week, so the evening is unhurried."
     }
   ],
   "japanese": {
