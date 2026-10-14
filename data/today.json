@@ -1,40 +1,35 @@
 {
   "date": "Wednesday, October 14, 2026",
   "generatedAt": "Morning brief · 7:23 AM ET",
-  "theme": "An open day — spend it on what's been waiting.",
-  "greeting": "Good morning, Dan. The calendar is clear straight through today, which makes it the right day to close out the travel bookings that have drifted and to get set for tomorrow's recruiter call.",
+  "theme": "A clear day, two clocks ticking",
+  "greeting": "The calendar's empty today, Dan — the first thing on it is tomorrow morning. Good room to clear the two bookings that keep slipping, and to get ready for the recruiter call.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "The refundable full-size SUV out of Portland for Christmas week is your p1, flagged as the item most likely to bite, and it's sat since mid-September. Holiday inventory out of PWM only thins from here, so a refundable hold today removes the whole risk."
+      "tag": "Prep for tomorrow",
+      "title": "Recruiter call with Amin at 9:30",
+      "detail": "Tomorrow opens with your call with Amin Noorani about opportunities. Worth arriving with your target-role framing and two or three questions of your own for him."
     },
     {
       "tag": "Books tomorrow",
-      "title": "December-break trip: decide today",
-      "detail": "The plan was decide by Sept 30, book by Oct 15 — that's tomorrow. Picking domestic versus international today (passports won't be in hand on booking day) keeps six people over three holiday weeks from losing the thinnest inventory of the year."
+      "title": "December break booking cutoff is tomorrow",
+      "detail": "Your own note sets Oct 15 as the book-by date for the Dec 13–Jan 2 trip with all four girls. Holiday inventory for six is the thinnest of the year. Pick the domestic shortlist (your default) or commit to refundable international, then book."
     },
     {
-      "tag": "Prep · tomorrow",
-      "title": "Recruiter call with Amin at 9:30",
-      "detail": "Tomorrow opens at 9:30 with Amin Noorani on your calendar to discuss opportunities. Worth arriving holding two or three roles or board angles you want to steer toward, plus a question or two about his pipeline."
+      "tag": "Overdue · p1",
+      "title": "Maine Christmas SUV rental still open",
+      "detail": "You flagged this as the item most likely to bite — a full-size SUV out of Portland over Christmas week sells out. Book it refundable now and fix the dates later; a held booking costs nothing and clears the risk."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Liberty Mutual payment notice",
-        "detail": "A notice marked final about an outstanding bill arrived overnight. Worth confirming it's genuine before paying, since cancellation-threat mail is a common spoof."
-      },
-      {
         "tag": "Job search",
-        "title": "Your LinkedIn post is drawing comments",
-        "detail": "Sonia Trocmé-Le Page and 38 others commented on a recent post — momentum worth a glance while you're building visibility."
+        "title": "ICGN is chasing panel availability",
+        "detail": "Claudia at ICGN followed up today for planning-call dates on the Plenary 7 session you're moderating. You're only cc'd, but sending your windows keeps it moving."
       }
     ],
-    "noise": "The rest is newsletters and shop promos — Foreign Affairs, the St. Pete and Portland dailies, Venmo's monthly statement, and a handful of retailers.",
+    "noise": "Four newsletters and a LinkedIn thread with 38 new comments on your post.",
     "clear": ""
   },
   "resolved": [],
@@ -52,26 +47,26 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder down (Portland → St Pete)",
+      "title": "Drive the Pathfinder down, Portland to St Pete",
+      "project": "Travel",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Get 3 term life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + shower soap holder",
+      "title": "Portland house order — king bedframe + shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Inbox",
+      "project": "Destinations",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -84,15 +79,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing is scheduled today, so the first hours are entirely yours to point at deep work."
+      "line": "Nothing sits on the calendar today — the first meeting isn't until tomorrow at 9:30."
     },
     {
       "time": "Afternoon",
-      "line": "With the girls away this week, the afternoon stays quiet and unclaimed."
+      "line": "An unclaimed afternoon, the rare kind that's good for the thing that's been waiting."
     },
     {
       "time": "Evening",
-      "line": "An early start waits tomorrow, so it's a night to wrap up in good time rather than push."
+      "line": "The quiet ends tomorrow morning; tonight is the calm before it."
     }
   ],
   "japanese": {
