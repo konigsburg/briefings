@@ -1,35 +1,45 @@
 {
   "date": "Wednesday, October 14, 2026",
   "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "An open day, with two booking windows closing.",
-  "greeting": "The calendar is clear today, so the day is really about decisions: a reply the Brunswick search is waiting on, and two travel bookings whose windows are closing.",
+  "theme": "A clear day to close out what's been circling.",
+  "greeting": "Nothing's on the calendar today, Dan — the day is yours. It's the right one to finally land the travel bookings that keep sliding, and to get set for tomorrow's 9:30 with Amin.",
   "needsAttention": [
     {
-      "tag": "Job search",
-      "title": "Pick your Brunswick interview times",
-      "detail": "Erika Maass sent Teams availability for both Jonathan Doorley and Christian Buss and is waiting on you to choose. Christian's earliest slot is Oct 20, so a reply this week keeps it moving."
+      "tag": "Book by tomorrow",
+      "title": "December break — pick and book",
+      "detail": "The book-by date is tomorrow. Settle on a domestic shortlist (nothing to wait on) versus international (refundable only, passports land in November), then book the Dec 13–Jan 2 trip for all four girls."
     },
     {
-      "tag": "Books tomorrow",
-      "title": "Lock the December family trip",
-      "detail": "Your own deadline to book the three-week December trip for all six falls tomorrow, Oct 15. Holiday inventory is the thinnest of the year, so settle domestic-vs-international and reserve."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Flagged p1 and overdue — a full-size SUV out of Portland over Christmas week is the thinnest rental in that market. Book it refundable now and fix the dates later."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Hold the Maine Christmas SUV",
-      "detail": "The full-size Portland SUV for Christmas week has been flagged 'book this week' since mid-September. Book it refundable now, before holiday inventory sells out."
+      "tag": "Window closing",
+      "title": "Pathfinder drive south",
+      "detail": "The Oct 5–18 Portland-to-St-Pete window closes in four days; book the one hotel night once the drive dates are set."
+    },
+    {
+      "tag": "Prep for tomorrow",
+      "title": "Amin opportunities call",
+      "detail": "Tomorrow at 9:30 you're on Teams with Amin Noorani on new opportunities — line up which board tracks and roles you want in front of him."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Brunswick interview slots arrived",
-        "detail": "Erika Maass sent availability for Jonathan and Christian; reply to pick times."
+        "tag": "FYI",
+        "title": "ICGN plenary planning call",
+        "detail": "Claudia at ICGN is lining up dates for the Plenary 7 planning call, and Rachit replied he's open next week, 12–1 UK. You're cc'd — worth sending your own dates as moderator."
+      },
+      {
+        "tag": "Financial",
+        "title": "Morgan Stanley account funding",
+        "detail": "A final reminder to fund your new Signature Savings account before the window closes."
       }
     ],
-    "noise": "Bloomberg, a Midcoast newsletter, Ylopo listings and retail promos — nothing that needs you.",
+    "noise": "Everything else is retail sales, newsletters, and travel-reward offers.",
     "clear": ""
   },
   "resolved": [],
@@ -38,7 +48,7 @@
     "phase": "green",
     "location": "Maine",
     "confidence": "low",
-    "asOf": "Wednesday Oct 14"
+    "asOf": "Wed Oct 14"
   },
   "recipe": {
     "title": "Translucent Apple Tart",
@@ -53,41 +63,35 @@
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder Portland to St Pete",
-      "project": "Travel",
-      "due": "Window Oct 5-18",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + soap holder",
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Travel",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar — nothing scheduled to pull you in."
+      "line": "The calendar stayed clear — no meetings landed today."
     },
     {
       "time": "Afternoon",
-      "line": "The open stretch is for the three decisions: the Brunswick reply and the two travel bookings."
+      "line": "The afternoon is open end to end, a rare stretch to go deep on one thing."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens early with a 9:30 recruiter call with Amin Noorani — worth a glance tonight."
+      "line": "An early start waits tomorrow at 9:30, so an earlier evening earns its keep."
     }
   ],
   "japanese": {
