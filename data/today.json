@@ -1,54 +1,65 @@
 {
   "date": "Wednesday, October 14, 2026",
   "generatedAt": "Morning brief · 4:14 PM ET",
-  "theme": "A clear day to close out what's been circling.",
-  "greeting": "Nothing's on the calendar today, Dan — the day is yours. It's the right one to finally land the travel bookings that keep sliding, and to get set for tomorrow's 9:30 with Amin.",
+  "theme": "An open day with a few decisions coming due.",
+  "greeting": "Nothing's on the calendar today, Dan — a clear day to spend as you like. But a couple of bookings are quietly coming due, Erika's waiting on your Brunswick interview times, and Amin's recruiter call opens tomorrow.",
   "needsAttention": [
     {
-      "tag": "Book by tomorrow",
-      "title": "December break — pick and book",
-      "detail": "The book-by date is tomorrow. Settle on a domestic shortlist (nothing to wait on) versus international (refundable only, passports land in November), then book the Dec 13–Jan 2 trip for all four girls."
-    },
-    {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Flagged p1 and overdue — a full-size SUV out of Portland over Christmas week is the thinnest rental in that market. Book it refundable now and fix the dates later."
-    },
-    {
-      "tag": "Window closing",
-      "title": "Pathfinder drive south",
-      "detail": "The Oct 5–18 Portland-to-St-Pete window closes in four days; book the one hotel night once the drive dates are set."
+      "tag": "Reply owed",
+      "title": "Pick your Brunswick interview times",
+      "detail": "Erika sent availability for separate Teams calls with Jonathan Doorley and Christian and is waiting for you to choose so she can send schedulers — Jonathan opens on 10/27."
     },
     {
       "tag": "Prep for tomorrow",
-      "title": "Amin opportunities call",
-      "detail": "Tomorrow at 9:30 you're on Teams with Amin Noorani on new opportunities — line up which board tracks and roles you want in front of him."
+      "title": "Amin's recruiter call, 9:30 tomorrow",
+      "detail": "A recruiter call with Amin Noorani opens your day tomorrow; a few minutes tonight on the opportunities he's bringing will make it land."
+    },
+    {
+      "tag": "Books tomorrow",
+      "title": "Lock the December-break destination",
+      "detail": "Your own deadline to book the three-week December trip is Oct 15 — decide domestic vs. international first, since the kids' passports won't be in hand when you book."
+    },
+    {
+      "tag": "Overdue p1",
+      "title": "Book the Maine Christmas SUV rental",
+      "detail": "The refundable full-size SUV out of Portland for Christmas week is a month past its book-this-week date, and holiday inventory is the thinnest of the year."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "ICGN plenary planning call",
-        "detail": "Claudia at ICGN is lining up dates for the Plenary 7 planning call, and Rachit replied he's open next week, 12–1 UK. You're cc'd — worth sending your own dates as moderator."
+        "tag": "Job search",
+        "title": "OECD governance meeting invite",
+        "detail": "A contact heard you'd left KPMG and wants you at the OECD corporate-governance meeting in November, with a few sessions to shape together."
       },
       {
         "tag": "Financial",
-        "title": "Morgan Stanley account funding",
-        "detail": "A final reminder to fund your new Signature Savings account before the window closes."
+        "title": "Fund your Morgan Stanley account",
+        "detail": "A final reminder that your new Signature Savings account needs its initial deposit, plus a separate nudge to add beneficiaries."
+      },
+      {
+        "tag": "FYI",
+        "title": "ICGN Plenary 7 planning call",
+        "detail": "Claudia is still gathering panelist availability for your plenary; Rachit sent his, so a call time is close."
       }
     ],
-    "noise": "Everything else is retail sales, newsletters, and travel-reward offers.",
+    "noise": "The rest is newsletters and promotions — your St. Pete local digest and the Stewardship Digest.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Booked",
+      "title": "Maine ferry tickets sorted",
+      "detail": "Your Vinalhaven ferry reservation came through Monday and you forwarded it on to Mike."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Maine",
+    "location": "Coastal Maine",
     "confidence": "low",
-    "asOf": "Wed Oct 14"
+    "asOf": "Wednesday Oct 14"
   },
   "recipe": {
     "title": "Translucent Apple Tart",
@@ -57,20 +68,26 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
+      "title": "Pathfinder drive south, Portland to St. Pete",
+      "project": "Travel",
+      "due": "Window closes Oct 18",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
+      "title": "Order Portland king bedframe + shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Travel",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -83,15 +100,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar stayed clear — no meetings landed today."
+      "line": "The calendar is empty today — rare open water after a run of booked mornings."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon is open end to end, a rare stretch to go deep on one thing."
+      "line": "Nothing booked through the middle of the day; it's yours to steer."
     },
     {
       "time": "Evening",
-      "line": "An early start waits tomorrow at 9:30, so an earlier evening earns its keep."
+      "line": "A quiet night with the girls still in Florida — good hours for the stove."
     }
   ],
   "japanese": {
