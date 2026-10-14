@@ -1,66 +1,49 @@
 {
   "date": "Wednesday, October 14, 2026",
   "generatedAt": "Morning brief · 6:15 AM ET",
-  "theme": "An open calendar with a few bookings on the clock.",
-  "greeting": "The girls are with Jen this week, Dan, so the day is yours after a single nine o'clock. The travel bookings are the one thing carrying a real deadline — the December trip needs to be booked by Thursday.",
+  "theme": "An open day — spend it on what's been waiting.",
+  "greeting": "Good morning, Dan. The calendar is clear straight through today, which makes it the right day to close out the travel bookings that have drifted and to get set for tomorrow's recruiter call.",
   "needsAttention": [
     {
-      "tag": "Decide by Oct 15",
-      "title": "Lock the December break destination",
-      "detail": "The book-by date is Thursday and the Sept 30 decision never landed. Holiday inventory for six over three weeks is the thinnest of the year, so a domestic shortlist is the safe default given passports won't be in hand when you book."
+      "tag": "Overdue · p1",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "The refundable full-size SUV out of Portland for Christmas week is your p1, flagged as the item most likely to bite, and it's sat since mid-September. Holiday inventory out of PWM only thins from here, so a refundable hold today removes the whole risk."
     },
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "The p1 on your board, overdue since Sept 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market — hold a refundable booking now before the holiday inventory sells out."
+      "tag": "Books tomorrow",
+      "title": "December-break trip: decide today",
+      "detail": "The plan was decide by Sept 30, book by Oct 15 — that's tomorrow. Picking domestic versus international today (passports won't be in hand on booking day) keeps six people over three holiday weeks from losing the thinnest inventory of the year."
     },
     {
-      "tag": "Reply owed",
-      "title": "OECD November meeting invite",
-      "detail": "A longtime governance contact wrote today asking you to the OECD corporate-governance meeting in November and to help line a few things up. A good door to answer while you're between roles."
+      "tag": "Prep · tomorrow",
+      "title": "Recruiter call with Amin at 9:30",
+      "detail": "Tomorrow opens at 9:30 with Amin Noorani on your calendar to discuss opportunities. Worth arriving holding two or three roles or board angles you want to steer toward, plus a question or two about his pipeline."
     }
   ],
-  "schedule": [
-    {
-      "time": "9:00 AM",
-      "title": "Dr. Snowden",
-      "detail": "One-hour appointment, the only thing on the calendar today",
-      "tag": "appt"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Eugenia wants to find a time",
-        "detail": "She's back from Morocco Oct 31 and asked you to put a slot on the calendar — she also picked up on ICGN in Toronto. The ball's in your court on a date."
-      },
-      {
         "tag": "Financial",
-        "title": "Morgan Stanley account funding",
-        "detail": "A 'final reminder' to fund your new Signature Savings account. Worth a look to confirm it's genuine before the funding window closes."
+        "title": "Liberty Mutual payment notice",
+        "detail": "A notice marked final about an outstanding bill arrived overnight. Worth confirming it's genuine before paying, since cancellation-threat mail is a common spoof."
       },
       {
-        "tag": "FYI",
-        "title": "Mom's care-plan paperwork",
-        "detail": "Tampa Gardens still hasn't replied to your Oct 7 note about the updated plan of care — a phone nudge may move it faster than email."
+        "tag": "Job search",
+        "title": "Your LinkedIn post is drawing comments",
+        "detail": "Sonia Trocmé-Le Page and 38 others commented on a recent post — momentum worth a glance while you're building visibility."
       }
     ],
-    "noise": "The rest is quiet — a LinkedIn role alert and a couple of seasonal retail promos.",
+    "noise": "The rest is newsletters and shop promos — Foreign Affairs, the St. Pete and Portland dailies, Venmo's monthly statement, and a handful of retailers.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "title": "Vinalhaven ferry tickets booked",
-      "detail": "Confirmation came in Oct 12 and you've forwarded it to Mike — that one's closed."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Maine",
     "confidence": "low",
-    "asOf": "Tuesday Oct 13"
+    "asOf": "Wednesday Oct 14"
   },
   "recipe": {
     "title": "Translucent Apple Tart",
@@ -69,47 +52,47 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder south, Portland to St Pete",
-      "project": "Mike + Dan Board",
-      "due": "Window closes Oct 18",
+      "title": "Drive the Pathfinder down (Portland → St Pete)",
+      "project": "Household",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Get 3 term-life quotes for Mike",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sept 25",
+      "project": "Household",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sept 30",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Inbox",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/3",
-    "day": "0/3",
+    "morning": "0/10",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A nine o'clock with Dr. Snowden, and then the morning opens up."
+      "line": "Nothing is scheduled today, so the first hours are entirely yours to point at deep work."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar past ten — the afternoon runs clear."
+      "line": "With the girls away this week, the afternoon stays quiet and unclaimed."
     },
     {
       "time": "Evening",
-      "line": "A quiet evening, the girls down in Florida with Jen this week."
+      "line": "An early start waits tomorrow, so it's a night to wrap up in good time rather than push."
     }
   ],
   "japanese": {
