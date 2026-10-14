@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-10-14",
+    "kind": "Morning brief",
+    "label": "Wednesday, Oct 14 · 6:15 AM ET",
+    "summary": "An open day with no meetings; focus on the overdue Christmas-rental and December-break bookings and prep for tomorrow's 9:30 recruiter call.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-10-13",
     "kind": "Morning brief",
     "label": "Tuesday, Oct 13 · 10:19 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Tuesday, Sep 15 · 10:02 PM ET",
     "summary": "An open calendar with no meetings; tomorrow's NACD New England committee call and a few overdue travel bookings are the only things asking for attention.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-09-14",
-    "kind": "Morning brief",
-    "label": "Monday, Sep 14 · 10:02 PM ET",
-    "summary": "An open day mid-charter on the Adriatic, with a short stack of travel bookings waiting for a dry-land signal.",
     "ref": "today"
   }
 ]
