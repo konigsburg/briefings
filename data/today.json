@@ -1,66 +1,60 @@
 {
   "date": "Thursday, October 15, 2026",
   "generatedAt": "Morning brief · 4:14 PM ET",
-  "theme": "An open day with a few things worth closing out.",
-  "greeting": "An open afternoon in Maine, with the girls down in Florida this week. One recruiter call is already behind you, and a couple of bookings are quietly asking to be finished today.",
+  "theme": "An open day — the real work is a few bookings past due.",
+  "greeting": "A light calendar today, Dan: the Amin recruiter call this morning and little else scheduled. The open afternoon is the right place to close the travel bookings that have slipped past their dates.",
   "needsAttention": [
     {
-      "tag": "Job search",
-      "title": "Reply to Amin on the CIFIC role",
-      "detail": "After this morning's call, Amin Noorani sent the VP, Government Relations & Regulatory Affairs brief and offered to talk it through further — he's waiting to hear whether you want to explore it."
+      "tag": "Book today",
+      "title": "December trip — decide and book",
+      "detail": "The Dec 13–Jan 2 stretch with all four girls was slated to book by today. Holiday inventory for six over three weeks is the thinnest of the year, so the window is real."
     },
     {
-      "tag": "Books today",
-      "title": "December break — decide and book",
-      "detail": "Your own book-by date for the three-week December trip with all four girls is today, and holiday inventory for six is the thinnest of the year. Pick domestic or international and send one booking."
-    },
-    {
-      "tag": "Overdue · p1",
+      "tag": "p1 · overdue",
       "title": "Maine Christmas SUV rental",
-      "detail": "Open since mid-September — a refundable full-size SUV out of Portland for Christmas week sells out early, so holding one now costs nothing and removes the risk."
+      "detail": "A refundable full-size SUV out of Portland for Christmas week sells out early; it's flagged p1 and now well past its book-this-week date."
     },
     {
-      "tag": "Tomorrow's calls",
-      "title": "Three conversations stack up tomorrow",
-      "detail": "Scott Lazarus at Morgan Stanley at 9:30, Kevin Tracey at Deloitte at 11, then lunch with Fran — a few minutes tonight to land a point for each pays off."
+      "tag": "Prep · Oct 23",
+      "title": "Review ICGN Plenary 7 outlines",
+      "detail": "Claudia Rossetti sent the session outlines to read before the planning call, now set for Friday Oct 23 at 7:30 ET. You're moderating the plenary."
+    },
+    {
+      "tag": "p2 · blocked",
+      "title": "Term-life quotes for Mike",
+      "detail": "Three term-life quotes are overdue since late September, held up on a target coverage amount and term length."
     }
   ],
   "schedule": [
     {
       "time": "9:30 AM",
       "title": "Amin recruiter call",
-      "detail": "Opportunities discussion with Noorani + Partners — behind you now",
-      "tag": "call"
+      "detail": "Opportunities discussion · Teams",
+      "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Anne's OECD November invite",
-        "detail": "Anne Molyneux asks you to the OECD governance meeting in November and wants your read on three agenda items — a reply is owed."
+        "title": "Two Brunswick Group intros",
+        "detail": "Teams meeting invites came in today for calls with Christian Buss and Jonathan Doorley."
       },
       {
         "tag": "FYI",
-        "title": "ICGN Plenary 7 outlines to review",
-        "detail": "Claudia Rossetti sent the session outlines to read before the Oct 23 planning call."
+        "title": "ICGN planning call locked",
+        "detail": "The Plenary 7 planning call is set for Friday Oct 23, 7:30–8:30 ET."
       },
       {
         "tag": "Financial",
-        "title": "Morgan Stanley funding reminder",
-        "detail": "An automated 'fund your Signature Savings account' notice repeated again — worth a glance if that account is real."
+        "title": "Morgan Stanley savings account",
+        "detail": "A reminder to fund your new Signature Savings account before it lapses."
       }
     ],
-    "noise": "The rest is newsletters — NYT Veggie, two St. Pete locals, the Stewardship Digest.",
+    "noise": "Otherwise the usual: Delta miles, wine tastings, sailing gear, and LinkedIn job digests.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Job search",
-      "title": "Brunswick interviews locked in",
-      "detail": "Erika Maass confirmed both Teams calls for Oct 27 — Jonathan Doorley at 10 and Christian Buss at 1:30 — after you chose the slots this morning."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -75,41 +69,41 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
+      "title": "Drive the Pathfinder south, Portland → St Pete",
+      "project": "Mike + Dan — Board",
+      "due": "Window closes Oct 18",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Household",
+      "title": "Order Portland bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down to St Pete",
-      "project": "Travel",
-      "due": "Overdue Sep 25 · Oct 5-18 window",
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/4",
-    "day": "0/5",
+    "day": "0/2",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Amin's recruiter call wrapped mid-morning and the day opened up behind it."
+      "line": "One recruiter call with Amin at 9:30, then the morning opens up."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing more on the calendar today — the open hours are yours to steer."
+      "line": "A clear stretch — the right window to lock the December trip and the Christmas rental before inventory thins."
     },
     {
       "time": "Evening",
-      "line": "The girls are in Florida this week, so Maine stays quiet and unhurried tonight."
+      "line": "Tomorrow loads up early: Scott at 9:30, Kevin Tracey mid-morning, and lunch with Fran."
     }
   ],
   "japanese": {
