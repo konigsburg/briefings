@@ -1,45 +1,50 @@
 {
   "date": "Wednesday, October 14, 2026",
   "generatedAt": "Morning brief · 8:14 PM ET",
-  "theme": "An open day with two clocks ticking.",
-  "greeting": "Nothing on the calendar today, Dan, so the day is yours. Two travel bookings are overdue and one closes tomorrow, and there's a recruiter call waiting first thing.",
+  "theme": "An open day, with a few bookings that can't wait much longer.",
+  "greeting": "A quiet, meeting-free day, Dan — nothing on the calendar at all. The only pressure is self-imposed: a couple of travel bookings have reached their deadlines, and tomorrow opens with a recruiter call.",
   "needsAttention": [
     {
+      "tag": "Prep for tomorrow",
+      "title": "Recruiter call with Amin at 9:30",
+      "detail": "Tomorrow starts at 9:30 with Amin Noorani on Teams about opportunities. Worth settling tonight which board and executive targets you want to put in front of him."
+    },
+    {
       "tag": "Books tomorrow",
-      "title": "December trip, decide and book",
-      "detail": "Your own book-by date is tomorrow, Oct 15. Pick domestic vs international and lock the three-week window for all four kids before holiday inventory thins."
+      "title": "Decide and book the December break",
+      "detail": "The book-by date for the Dec 13–Jan 2 trip is tomorrow. Holiday inventory for six is the thinnest of the year, and the plan was to default domestic since passports won't be in hand by booking day."
     },
     {
-      "tag": "Overdue p1",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Flagged book-this-week back on Sept 14 and still open. A refundable full-size SUV out of Portland over Christmas week is the hardest rental in that market, so hold one now."
+      "tag": "Overdue, high priority",
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "The p1 rental — a full-size SUV out of Portland for Christmas week — is well past its book-this-week date. A refundable hold now removes the risk before that inventory sells out."
     },
     {
-      "tag": "Reply needed",
-      "title": "ICGN Plenary 7 call dates",
-      "detail": "Claudia is collecting availability for the planning call you're moderating and Rachit just sent his; your dates are the gap holding it up."
-    },
-    {
-      "tag": "Prep, tomorrow",
-      "title": "Amin recruiter call at 9:30",
-      "detail": "Job-search call first thing tomorrow on Teams. Twenty minutes tonight to frame what you want out of it pays off."
+      "tag": "Window closing",
+      "title": "Pathfinder drive-south window",
+      "detail": "The Oct 5–18 window to drive the Pathfinder from Portland to St Pete closes Saturday. Book the single hotel night once the dates are set."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
+        "tag": "FYI",
+        "title": "ICGN Plenary 7 planning call being scheduled",
+        "detail": "On the plenary thread, Rachit Gupta sent his availability for next week; your own slot for the planning call is still open."
+      },
+      {
         "tag": "Financial",
-        "title": "Morgan Stanley savings account",
-        "detail": "A final-reminder nudge to fund the new Signature Savings account and add beneficiaries."
+        "title": "Morgan Stanley savings account reminders",
+        "detail": "A final reminder to fund your new Signature Savings account, plus a separate note about adding beneficiaries."
       },
       {
         "tag": "Job search",
-        "title": "Two senior roles in LinkedIn alerts",
-        "detail": "A BNY SVP, ETF Product and a Citco EVP, Client Services role landed in today's job alerts."
+        "title": "New roles in your LinkedIn alerts",
+        "detail": "SVP and EVP product and client-services openings surfaced overnight — worth a quick scan given the search."
       }
     ],
-    "noise": "The rest is promotional: Dermstore, SiriusXM, and the Stewardship Digest.",
+    "noise": "Otherwise mostly newsletters and promos — Press Herald, Airbnb, SiriusXM, and a bookstore events list.",
     "clear": ""
   },
   "resolved": [],
@@ -57,26 +62,20 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder, Portland to St Pete",
-      "project": "Household",
-      "due": "Window Oct 5-18",
-      "overdue": true
-    },
-    {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Get 3 term-life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order, bedframe + shower soap holder",
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Work",
+      "project": "Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -89,15 +88,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is empty today, the clearest run you'll get before tomorrow's 9:30 recruiter call."
+      "line": "Nothing on the calendar — the morning was entirely open."
     },
     {
       "time": "Afternoon",
-      "line": "Two bookings are past due and one closes tomorrow: the December trip and the Portland Christmas SUV."
+      "line": "An open afternoon straight through, with no meetings booked to break it up."
     },
     {
       "time": "Evening",
-      "line": "A quiet window to prep the Amin call and send Claudia your ICGN dates."
+      "line": "A calm close to an unhurried day; the first thing on the calendar is tomorrow."
     }
   ],
   "japanese": {
