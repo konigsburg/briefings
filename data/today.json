@@ -1,61 +1,55 @@
 {
   "date": "Thursday, October 15, 2026",
   "generatedAt": "Morning brief · 12:18 PM ET",
-  "theme": "An open day with two booking deadlines landing on it.",
-  "greeting": "One recruiter call this morning, then clear space, Dan — good timing, because two travel bookings reach their deadline today and the ICGN session outlines just landed for review.",
+  "theme": "An open day with two bookings quietly past due.",
+  "greeting": "The calendar is all but empty after this morning's recruiter call, Dan. The real pull today is a couple of travel bookings that have drifted past their dates.",
   "needsAttention": [
     {
-      "tag": "Books today",
-      "title": "December trip — your book-by date is today",
-      "detail": "The all-kids Dec 13–Jan 2 trip was set to decide by Sept 30 and book by Oct 15. Passports aren't in hand until November, so a domestic, refundable booking is the clean call."
+      "tag": "Book today",
+      "title": "December trip book-by date is today",
+      "detail": "The board set Oct 15 as the book-by for the Dec 13-Jan 2 trip with all four girls. Holiday inventory for six over three weeks is the thinnest of the year, so this is the day it goes out."
     },
     {
-      "tag": "Overdue · p1",
+      "tag": "Overdue p1",
       "title": "Maine Christmas SUV still unbooked",
-      "detail": "The p1 'book this week' rental — a full-size SUV out of Portland over Christmas sells out. A refundable hold now costs nothing and kills the risk."
-    },
-    {
-      "tag": "Review",
-      "title": "ICGN Plenary 7 outlines to read",
-      "detail": "Claudia sent the session outlines this morning to review before the Plenary 7 planning call, now set for Fri Oct 23, 7:30–8:30 ET."
+      "detail": "The p1 'book this week' task is about a month past its date. A full-size SUV out of Portland over Christmas sells out; a refundable hold now removes the risk and costs nothing."
     },
     {
       "tag": "Tomorrow",
-      "title": "Three calls back-to-back tomorrow AM",
-      "detail": "Scott Lazarus (Morgan Stanley) at 9:30, Kevin Tracey (Deloitte) at 11, then lunch with Fran — a few notes tonight on what you want from each would pay off."
+      "title": "Three career conversations stacked tomorrow",
+      "detail": "Scott Lazarus, Kevin Tracey, and lunch with Fran run 9:30 to 1 on tomorrow's calendar. Worth settling tonight what you want out of each."
     }
   ],
   "schedule": [
     {
       "time": "9:30 AM",
-      "title": "Recruiter call — Amin Noorani",
-      "detail": "Discussion of opportunities, on Teams",
-      "tag": "Call"
+      "title": "Amin recruiter call",
+      "detail": "Opportunities discussion with Amin Noorani",
+      "tag": "Career"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Morgan Stanley — fund new savings account",
-        "detail": "A 'final reminder' to fund your Signature Savings Account; worth deciding whether to act on it or let it lapse."
+        "tag": "Job search",
+        "title": "Brunswick Group lining up two meetings",
+        "detail": "Their office is scheduling calls with Christian Buss and Jonathan Doorley."
       },
       {
         "tag": "FYI",
-        "title": "Brody bar mitzvah — RSVP by November",
-        "detail": "A Dec 12, 10:30 AM invitation for the family; RSVP is asked before November."
+        "title": "ICGN Toronto plenary is firming up",
+        "detail": "Session outlines are out to review, and the planning call looks set for Fri Oct 23, 7:30 ET."
+      },
+      {
+        "tag": "Financial",
+        "title": "Morgan Stanley savings funding reminder",
+        "detail": "A final reminder to fund the new Signature Savings account."
       }
     ],
-    "noise": "The usual newsletters — Stewardship Digest, St. Pete Base Local, Publix updates.",
-    "clear": ""
+    "noise": "A handful of promotions, including a Halloween baking newsletter.",
+    "clear": "Beyond those, nothing is waiting on your reply."
   },
-  "resolved": [
-    {
-      "tag": "Scheduled",
-      "title": "ICGN planning call time locked in",
-      "detail": "After the group traded availabilities, Claudia set the Plenary 7 call for Fri Oct 23, 7:30–8:30 ET — the scheduling thread is done."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -70,47 +64,41 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Household",
+      "title": "Order 3 term life quotes for Mike",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder south (Oct 5–18 window)",
-      "project": "Household",
-      "due": "Overdue Sep 25",
+      "title": "Drive the Pathfinder south",
+      "project": "Travel",
+      "due": "Window closes Oct 18",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Household",
+      "title": "Portland house order — bedframe + shower holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist to book an appointment",
-      "project": "Household",
-      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/6",
+    "morning": "0/4",
+    "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A 9:30 call with recruiter Amin on new opportunities, now behind you."
+      "line": "The one call on the books, opportunities with Amin, is already behind you."
     },
     {
       "time": "Afternoon",
-      "line": "Fully open — the booking deadlines and the ICGN outlines are where it wants to go."
+      "line": "Nothing is scheduled after noon; the afternoon runs clear."
     },
     {
       "time": "Evening",
-      "line": "Girls are with Jen; a quiet night to yourself."
+      "line": "The girls are at their mom's this week, so the evening is unhurried."
     }
   ],
   "japanese": {
