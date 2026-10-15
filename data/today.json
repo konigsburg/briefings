@@ -1,50 +1,50 @@
 {
   "date": "Wednesday, October 14, 2026",
   "generatedAt": "Morning brief · 10:14 PM ET",
-  "theme": "An open day, with a few bookings that can't wait much longer.",
-  "greeting": "A quiet, meeting-free day, Dan — nothing on the calendar at all. The only pressure is self-imposed: a couple of travel bookings have reached their deadlines, and tomorrow opens with a recruiter call.",
+  "theme": "An open day, with tomorrow's recruiter call and two booking windows to get ahead of.",
+  "greeting": "The calendar is clear today, Dan — nothing scheduled at all. The weight sits on tomorrow's recruiter call and a couple of booking deadlines closing this week.",
   "needsAttention": [
     {
-      "tag": "Prep for tomorrow",
-      "title": "Recruiter call with Amin at 9:30",
-      "detail": "Tomorrow starts at 9:30 with Amin Noorani on Teams about opportunities. Worth settling tonight which board and executive targets you want to put in front of him."
+      "tag": "Recruiter call",
+      "title": "Decide your asks for tomorrow's Amin call",
+      "detail": "Your recruiter call with Amin Noorani is 9:30 AM tomorrow on Teams. Worth settling tonight which board targets, sectors and geographies you want him working, so the half hour is yours to steer."
     },
     {
       "tag": "Books tomorrow",
-      "title": "Decide and book the December break",
-      "detail": "The book-by date for the Dec 13–Jan 2 trip is tomorrow. Holiday inventory for six is the thinnest of the year, and the plan was to default domestic since passports won't be in hand by booking day."
+      "title": "December trip for the girls books by Oct 15",
+      "detail": "The Mike + Dan board has the Dec 13 – Jan 2 trip (all four girls) set to book by tomorrow. Holiday inventory for six across three weeks is the thinnest of the year, and the shortlist was due Sept 30."
     },
     {
-      "tag": "Overdue, high priority",
-      "title": "Hold the Maine Christmas SUV",
-      "detail": "The p1 rental — a full-size SUV out of Portland for Christmas week — is well past its book-this-week date. A refundable hold now removes the risk before that inventory sells out."
+      "tag": "Awaiting you",
+      "title": "Send ICGN your planning-call availability",
+      "detail": "ICGN is lining up the Plenary 7 planning call and collecting everyone's availability; Rachit has replied he is free next week 12–1 PM UK. As the session's moderator, your times are still outstanding."
     },
     {
-      "tag": "Window closing",
-      "title": "Pathfinder drive-south window",
-      "detail": "The Oct 5–18 window to drive the Pathfinder from Portland to St Pete closes Saturday. Book the single hotel night once the dates are set."
+      "tag": "Overdue p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Still open on the board at p1, flagged book-this-week: a refundable full-size SUV out of Portland for Christmas week, before the holiday inventory in that market sells out."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "ICGN Plenary 7 planning call being scheduled",
-        "detail": "On the plenary thread, Rachit Gupta sent his availability for next week; your own slot for the planning call is still open."
+        "tag": "Security",
+        "title": "Disney+ flagged a new login",
+        "detail": "Two new-login notices came in overnight to both your addresses — a quick glance to confirm it was you."
       },
       {
         "tag": "Financial",
-        "title": "Morgan Stanley savings account reminders",
-        "detail": "A final reminder to fund your new Signature Savings account, plus a separate note about adding beneficiaries."
+        "title": "Morgan Stanley savings needs funding",
+        "detail": "A final-reminder notice to fund your new Signature Savings account, plus a separate note about adding beneficiaries."
       },
       {
-        "tag": "Job search",
-        "title": "New roles in your LinkedIn alerts",
-        "detail": "SVP and EVP product and client-services openings surfaced overnight — worth a quick scan given the search."
+        "tag": "FYI",
+        "title": "The Stewardship Digest, October issue",
+        "detail": "The latest governance read landed this morning — your field, worth skimming when there's a gap."
       }
     ],
-    "noise": "Otherwise mostly newsletters and promos — Press Herald, Airbnb, SiriusXM, and a bookstore events list.",
+    "noise": "The rest is retail and newsletters — Airbnb, Mattress Firm, SiriusXM, Dermstore, Nextdoor and a couple of local papers.",
     "clear": ""
   },
   "resolved": [],
@@ -62,41 +62,47 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Household",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Household",
+      "title": "Drive the Pathfinder down to St Pete",
+      "project": "Mike + Dan — Board",
+      "due": "Oct 5–18 window",
+      "overdue": false
+    },
+    {
+      "title": "Order Portland bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Projects",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the morning was entirely open."
+      "line": "Nothing on the calendar before noon — the day starts entirely yours."
     },
     {
       "time": "Afternoon",
-      "line": "An open afternoon straight through, with no meetings booked to break it up."
+      "line": "Still open straight through; a rare uninterrupted block to spend on the board search."
     },
     {
       "time": "Evening",
-      "line": "A calm close to an unhurried day; the first thing on the calendar is tomorrow."
+      "line": "A quiet close to a clear day, with a busier one waiting at 9:30 tomorrow."
     }
   ],
   "japanese": {
