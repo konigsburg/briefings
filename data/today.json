@@ -1,36 +1,46 @@
 {
   "date": "Friday, October 16, 2026",
-  "generatedAt": "Morning brief · 2:14 PM ET",
-  "theme": "Open after a midday cluster",
-  "greeting": "The calendar only reaches for you around midday, Dan — Kevin at eleven, then lunch with Fran. After that the day opens up, with the girls at Jen's this week.",
+  "generatedAt": "Morning brief · 2:18 PM ET",
+  "theme": "Morning calls done — the afternoon opens for the board search.",
+  "greeting": "Your morning held a couple of Kevin Tracey holds and lunch with Fran; the afternoon and evening are clear. With the girls at Jen's this week, this is open time to push the search forward.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "The p1 Todoist task to hold a refundable full-size SUV out of Portland for Christmas week is weeks past its date. A Portland holiday SUV is the thinnest rental in that market and sells out — a refundable hold now costs nothing and removes the risk."
+      "tag": "ICGN prep",
+      "title": "Confirm the Plenary 7 planning call",
+      "detail": "Claudia proposed Friday Oct 23, 7:30-8:30 ET and sent session outlines to review beforehand - your slot to confirm and, as moderator, your agenda to read."
     },
     {
-      "tag": "Window closing",
-      "title": "December break destination",
-      "detail": "The p2 destination task carried a book-by of Oct 15 — yesterday. Holiday inventory for six over three weeks is the thinnest of the year; the domestic default needs to be picked and locked now."
+      "tag": "Board search",
+      "title": "Amin's CIFIC note is waiting",
+      "detail": "Amin Noorani followed up after your call about the VP, Government Relations role at CIFIC and offered to discuss further - a warm reply keeps the relationship open."
     },
     {
-      "tag": "Conference prep",
-      "title": "ICGN Plenary 7 session outlines",
-      "detail": "Claudia Rossetti sent the outlines for your Toronto plenary and asked the group to review them before the Oct 23 planning call. Reading them now shapes the agenda you'll open that call with."
+      "tag": "Travel p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "The p1 on the Mike + Dan board, overdue since Sept 14: a refundable full-size SUV from Portland for Christmas week, before holiday inventory sells out."
+    },
+    {
+      "tag": "Travel window",
+      "title": "Lock the December break plan",
+      "detail": "The book-by date was yesterday - pick the domestic shortlist and book, since six people over three holiday weeks is the thinnest inventory of the year."
+    },
+    {
+      "tag": "Closes Oct 18",
+      "title": "Pathfinder drive south",
+      "detail": "The Oct 5-18 Portland to St Pete window closes in two days; set the dates and book the one hotel night if the drive is still on."
     }
   ],
   "schedule": [
     {
       "time": "11:00 AM",
-      "title": "Kevin Tracey connect",
-      "detail": "Deloitte catch-up — Kevin calls you",
+      "title": "Kevin Tracey call",
+      "detail": "Two holds stacked - likely the same catch-up",
       "tag": "call"
     },
     {
       "time": "12:00 PM",
       "title": "Lunch with Fran",
-      "detail": "Midday",
+      "detail": "",
       "tag": "lunch"
     }
   ],
@@ -38,22 +48,18 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Morgan Stanley account funding",
-        "detail": "A 'final reminder' to fund your new Signature Savings account — the second notice in two days."
-      },
-      {
-        "tag": "Job search",
-        "title": "Brunswick Group intro calls",
-        "detail": "Two Teams meeting invites from Brunswick — conversations with Christian Buss and Jonathan Doorley."
+        "title": "Morgan Stanley savings account",
+        "detail": "A 'final reminder' to fund your new Signature Savings account - worth a glance if that account matters, or an unsubscribe if it doesn't."
       }
     ],
-    "noise": "The rest is newsletters and promotions — Monocle, VRBO, NYT Cooking, St. Pete listing alerts, Puzzmo.",
-    "clear": ""
+    "noise": "LinkedIn pings, two governance newsletters, Kiwi booking confirmations, and a December bar mitzvah invite (RSVP by November).",
+    "clear": "Nothing else is waiting on your reply."
   },
   "resolved": [
     {
-      "title": "Flight booking confirmed",
-      "detail": "Your Kiwi.com trip came through today — payment processed and e-tickets issued for booking 856468327."
+      "tag": "Board search",
+      "title": "Brunswick interviews are set",
+      "detail": "Erika Maass locked in the Teams invites - Jonathan Doorley on Oct 27 at 10:00 and Christian Buss at 1:30, both confirmed."
     }
   ],
   "context": {
@@ -70,26 +76,26 @@
   },
   "tasks": [
     {
-      "title": "Drive the Pathfinder south, Portland to St Pete",
-      "project": "Household - Travel",
-      "due": "Window Oct 5-18",
-      "overdue": true
-    },
-    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sept 25",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order - bedframe & soap holder",
-      "project": "Household",
-      "due": "Overdue Sept 30",
+      "title": "Portland house order - bedframe + shower soap holder",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist to book appointment",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Travel",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -102,15 +108,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "One late-morning cluster — Kevin Tracey at eleven, Fran at noon."
+      "line": "A pair of Kevin Tracey holds at 11 and lunch with Fran at noon filled the first half."
     },
     {
       "time": "Afternoon",
-      "line": "Clear after lunch; nothing else is on the calendar today."
+      "line": "Nothing on the calendar - the open stretch for board-search follow-ups."
     },
     {
       "time": "Evening",
-      "line": "Yours — the girls are with Jen this week."
+      "line": "The girls are at Jen's this week, so the evening is quiet and yours."
     }
   ],
   "japanese": {
