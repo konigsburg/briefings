@@ -1,72 +1,72 @@
 {
   "date": "Friday, October 16, 2026",
-  "generatedAt": "Morning brief · 10:17 AM ET",
-  "theme": "A morning of calls, then the afternoon opens.",
-  "greeting": "Back-to-back conversations fill the morning, Dan, and then the day is yours. A small stack of travel bookings has quietly slipped past due — good use of that open afternoon.",
+  "generatedAt": "Morning brief · 10:20 AM ET",
+  "theme": "A clear afternoon, with holiday bookings past their dates.",
+  "greeting": "A light day, Dan — two calls around midday, then the afternoon opens right up. The real pull today is the holiday travel you keep circling: a couple of your own booking windows have slipped past.",
   "needsAttention": [
     {
-      "tag": "Calendar overlap",
-      "title": "Two Kevin meetings stacked at 11",
-      "detail": "A \"Kevin/Dan connect\" invite (11–11:30) and a self-made \"Kevin Tracy catch up\" (11–12) sit on top of each other — looks like one call entered twice."
+      "tag": "Job search",
+      "title": "Reply to the CIFIC recruiter",
+      "detail": "The recruiter for the VP, Government Relations & Regulatory Affairs role at CIFIC followed up after your virtual interview yesterday and it's still unanswered — in a live search, a same-day reply is worth it."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas rental",
-      "detail": "Open on the Mike + Dan board since mid-September. A full-size SUV out of Portland over Christmas week sells out — a refundable hold now takes the risk off the table."
+      "tag": "Holiday travel",
+      "title": "December trip is past its book-by date",
+      "detail": "Your own Oct 15 book-by date for the three-week December break with all four girls passed yesterday. The open decision is domestic vs. international — pick one and lock it, since passports won't be in hand when you book."
     },
     {
-      "tag": "Window closing",
-      "title": "Pathfinder drive south",
-      "detail": "The Oct 5–18 Portland-to-St Pete window closes in two days; miss it and the off-week gap is gone until Christmas."
-    },
-    {
-      "tag": "Decision overdue",
-      "title": "Lock the December trip",
-      "detail": "The shortlist was due Sept 30 and the Oct 15 book-by date has now passed — holiday inventory for six over three weeks is the thinnest of the year."
+      "tag": "Holiday travel",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "The p1 'book this week' task — a refundable full-size SUV out of Portland for Christmas week — has been overdue since mid-September. Holiday inventory out of PWM is the thing that genuinely sells out."
     }
   ],
   "schedule": [
     {
-      "time": "9:30 AM",
-      "title": "Call with Scott",
-      "detail": "Scott Lazarus at Morgan Stanley is calling you",
-      "tag": "call"
-    },
-    {
       "time": "11:00 AM",
-      "title": "Kevin Tracey, Deloitte",
-      "detail": "Double-booked — two entries for the one call",
+      "title": "Kevin Tracey connect",
+      "detail": "Deloitte — Kevin calls you",
       "tag": "call"
     },
     {
       "time": "12:00 PM",
       "title": "Lunch with Fran",
-      "detail": "Still tentative, marked with a question mark",
+      "detail": "",
       "tag": "lunch"
     }
   ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Financial",
+        "title": "Morgan Stanley savings account",
+        "detail": "A repeated 'fund your new Signature Savings account' notice, flagged as a final reminder — worth a glance if that account is real to you."
+      },
+      {
         "tag": "Job search",
-        "title": "Two Brunswick Group meetings to confirm",
-        "detail": "Teams invites for Christian Buss and Jonathan Doorley came in yesterday through their office."
+        "title": "New LinkedIn message",
+        "detail": "Someone named Joseph messaged you on LinkedIn — could be networking."
       },
       {
         "tag": "FYI",
-        "title": "ICGN Toronto plenary outlines to review",
-        "detail": "Claudia sent the session outlines to read ahead of the planning call, now set for Fri Oct 23, 7:30–8:30 ET."
-      },
-      {
-        "tag": "Financial",
-        "title": "Morgan Stanley savings account",
-        "detail": "A final reminder to fund the new Signature Savings account."
+        "title": "Brody Bar Mitzvah invitation",
+        "detail": "Save-the-date for Dec 12; the card asks for an RSVP before November."
       }
     ],
-    "noise": "Otherwise LinkedIn job alerts, Press Herald and St. Pete local digests, and a run of wine and sailing promos.",
+    "noise": "The rest is promotions and newsletters — Apple, Kiwi travel deals, the Stewardship Digest, St. Pete local.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Job search",
+      "title": "Brunswick interviews are locked",
+      "detail": "Both Brunswick conversations are confirmed for Oct 27 — Jonathan Doorley at 10am, Christian Buss at 1:30pm — after you traded times with their recruiter."
+    },
+    {
+      "tag": "Scheduling",
+      "title": "ICGN Plenary 7 call is set",
+      "detail": "The planning call for your stewardship-data plenary landed on Friday Oct 23, 7:30–8:30 ET, settled over email with the group."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -82,34 +82,46 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "project": "Household",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder down, Portland → St Pete",
+      "project": "Travel",
+      "due": "Window closes Oct 18",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/3",
+    "morning": "0/5",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "9:30 AM – 1 PM",
-      "line": "The morning fills with back-to-back calls from half past nine straight through to lunch."
+      "time": "Morning",
+      "line": "A quiet start — nothing on the calendar until late morning."
     },
     {
-      "time": "1 PM onward",
-      "line": "Everything clears after lunch — the afternoon runs open end to end."
+      "time": "11 AM – 1 PM",
+      "line": "Two back-to-back: a call with Kevin Tracey, then lunch with Fran."
     },
     {
-      "time": "Evening",
-      "line": "The girls are in Florida tonight, so the evening is unclaimed and the kitchen's free."
+      "time": "Afternoon onward",
+      "line": "The calendar is empty after lunch — a long open runway."
     }
   ],
   "japanese": {
