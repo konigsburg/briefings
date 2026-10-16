@@ -1,23 +1,28 @@
 {
   "date": "Friday, October 16, 2026",
-  "generatedAt": "Morning brief · 6:14 PM ET",
-  "theme": "A light Friday with the evening to yourself.",
-  "greeting": "A light Friday, Dan — one call this morning and lunch with Fran, then the day opens right up. The girls are with Jen, so tonight is your own.",
+  "generatedAt": "Morning brief · 6:18 PM ET",
+  "theme": "An open Friday with a few decisions worth closing before the weekend.",
+  "greeting": "A light day on the calendar, Dan, and the afternoon is wide open. The real action is a cluster of travel bookings and a job-search reply that have all been waiting for a clear window — this is it.",
   "needsAttention": [
     {
       "tag": "Job search",
       "title": "Reply to Amin on the CIFIC search",
-      "detail": "Amin Noorani followed up after your call — he's leading the CIFIC VP, Government Relations & Regulatory Affairs search and offered to discuss further if you want to explore it. Awaiting your word on whether to take it forward."
+      "detail": "Amin Noorani wrote after your call — he's leading the CIFIC VP, Government Relations & Regulatory Affairs search and offered to take it further if you want to explore it. The thread is still sitting on your word."
     },
     {
       "tag": "Books this week",
       "title": "Hold the Maine Christmas rental",
-      "detail": "Your top-priority task flags a full-size SUV out of Portland for Christmas week — the thinnest, fastest-selling inventory of the year. A refundable hold now costs nothing and removes the risk; dates can shift later."
+      "detail": "Your top-priority task flags a full-size SUV out of Portland for Christmas week — the thinnest, fastest-selling inventory of the year. A refundable hold now costs nothing and takes the risk off the table; dates can shift later."
     },
     {
       "tag": "Closes Sunday",
-      "title": "Pathfinder drive south window",
-      "detail": "The Oct 5–18 gap to drive the Pathfinder Portland to St. Pete closes Sunday. If it's still on, lock the dates and book the one hotel night."
+      "title": "Pathfinder drive-south window",
+      "detail": "The Oct 5–18 gap to drive the Pathfinder from Portland to St. Pete closes Sunday. If it's still the plan, lock the dates and book the single hotel night."
+    },
+    {
+      "tag": "Book-by passed",
+      "title": "December break destination",
+      "detail": "The Oct 15 book-by slipped yesterday, and holiday inventory for six over three weeks is the thinnest of the year. The open call is domestic vs. international — passports land mid-November, so a domestic shortlist is the safe default."
     }
   ],
   "schedule": [
@@ -30,7 +35,7 @@
     {
       "time": "12:00 PM",
       "title": "Lunch with Fran",
-      "detail": "Midday",
+      "detail": "Midday, held tentatively",
       "tag": "lunch"
     }
   ],
@@ -39,27 +44,37 @@
       {
         "tag": "Financial",
         "title": "Morgan Stanley account funding",
-        "detail": "Third 'final reminder' this week to fund your new Signature Savings account. Worth closing out if you mean to keep it."
+        "detail": "Another 'final reminder' to fund your new Signature Savings account. Worth closing out if you mean to keep it."
       },
       {
         "tag": "FYI",
         "title": "ICGN Plenary 7 outlines to review",
         "detail": "Claudia Rossetti sent the session outlines to read before the Oct 23 planning call for your Toronto stewardship panel."
+      },
+      {
+        "tag": "Job search",
+        "title": "Two new role alerts",
+        "detail": "LinkedIn surfaced a Global Managing Director post at Winston Taylor and a Head of Policy / Government Relations role — both worth a glance."
       }
     ],
-    "noise": "The usual drift: two Kiwi booking confirmations, a couple of St. Pete newsletters, a LinkedIn nudge, a Patreon digest.",
+    "noise": "The usual drift: Airbnb and Kiwi booking confirmations, a run of Harry & David promos, and a couple of newsletter nudges.",
     "clear": ""
   },
   "resolved": [
     {
       "tag": "Job search",
       "title": "Brunswick interviews locked in",
-      "detail": "Erika Maass confirmed both Teams interviews — Jonathan Doorley and Christian Buss, Oct 27. Invites are in your calendar."
+      "detail": "Erika Maass confirmed both Teams interviews — Jonathan Doorley and Christian Buss — and the invites are set on your calendar."
     },
     {
       "tag": "Travel",
-      "title": "Trip booking confirmed",
-      "detail": "Kiwi.com confirmed booking 856468327 today; e-ticket and trip details are in your account."
+      "title": "Toronto trip booked",
+      "detail": "Kiwi.com confirmed booking 856468327 and the Nov 2–5 Airbnb is locked — flights and stay are both set."
+    },
+    {
+      "tag": "Household",
+      "title": "Real estate taxes paid",
+      "detail": "Checked off first thing this morning — that one's done."
     }
   ],
   "context": {
@@ -76,12 +91,6 @@
   },
   "tasks": [
     {
-      "title": "Decide the December break destination",
-      "project": "Household",
-      "due": "Book-by Oct 15 passed",
-      "overdue": true
-    },
-    {
       "title": "Get 3 term life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
@@ -91,6 +100,12 @@
       "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
