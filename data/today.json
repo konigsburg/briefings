@@ -1,46 +1,36 @@
 {
   "date": "Friday, October 16, 2026",
-  "generatedAt": "Morning brief · 4:14 PM ET",
-  "theme": "Morning calls done — the afternoon opens for the board search.",
-  "greeting": "Your morning held a couple of Kevin Tracey holds and lunch with Fran; the afternoon and evening are clear. With the girls at Jen's this week, this is open time to push the search forward.",
+  "generatedAt": "Morning brief · 4:18 PM ET",
+  "theme": "A light Friday with the evening to yourself.",
+  "greeting": "A light Friday, Dan — one call this morning and lunch with Fran, then the day opens right up. The girls are with Jen, so tonight is your own.",
   "needsAttention": [
     {
-      "tag": "ICGN prep",
-      "title": "Confirm the Plenary 7 planning call",
-      "detail": "Claudia proposed Friday Oct 23, 7:30-8:30 ET and sent session outlines to review beforehand - your slot to confirm and, as moderator, your agenda to read."
+      "tag": "Job search",
+      "title": "Reply to Amin on the CIFIC search",
+      "detail": "Amin Noorani followed up after your call — he's leading the CIFIC VP, Government Relations & Regulatory Affairs search and offered to discuss further if you want to explore it. Awaiting your word on whether to take it forward."
     },
     {
-      "tag": "Board search",
-      "title": "Amin's CIFIC note is waiting",
-      "detail": "Amin Noorani followed up after your call about the VP, Government Relations role at CIFIC and offered to discuss further - a warm reply keeps the relationship open."
+      "tag": "Books this week",
+      "title": "Hold the Maine Christmas rental",
+      "detail": "Your top-priority task flags a full-size SUV out of Portland for Christmas week — the thinnest, fastest-selling inventory of the year. A refundable hold now costs nothing and removes the risk; dates can shift later."
     },
     {
-      "tag": "Travel p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "The p1 on the Mike + Dan board, overdue since Sept 14: a refundable full-size SUV from Portland for Christmas week, before holiday inventory sells out."
-    },
-    {
-      "tag": "Travel window",
-      "title": "Lock the December break plan",
-      "detail": "The book-by date was yesterday - pick the domestic shortlist and book, since six people over three holiday weeks is the thinnest inventory of the year."
-    },
-    {
-      "tag": "Closes Oct 18",
-      "title": "Pathfinder drive south",
-      "detail": "The Oct 5-18 Portland to St Pete window closes in two days; set the dates and book the one hotel night if the drive is still on."
+      "tag": "Closes Sunday",
+      "title": "Pathfinder drive south window",
+      "detail": "The Oct 5–18 gap to drive the Pathfinder Portland to St. Pete closes Sunday. If it's still on, lock the dates and book the one hotel night."
     }
   ],
   "schedule": [
     {
       "time": "11:00 AM",
       "title": "Kevin Tracey call",
-      "detail": "Two holds stacked - likely the same catch-up",
+      "detail": "Deloitte — Kevin to call you",
       "tag": "call"
     },
     {
       "time": "12:00 PM",
       "title": "Lunch with Fran",
-      "detail": "",
+      "detail": "Midday",
       "tag": "lunch"
     }
   ],
@@ -48,18 +38,28 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Morgan Stanley savings account",
-        "detail": "A 'final reminder' to fund your new Signature Savings account - worth a glance if that account matters, or an unsubscribe if it doesn't."
+        "title": "Morgan Stanley account funding",
+        "detail": "Third 'final reminder' this week to fund your new Signature Savings account. Worth closing out if you mean to keep it."
+      },
+      {
+        "tag": "FYI",
+        "title": "ICGN Plenary 7 outlines to review",
+        "detail": "Claudia Rossetti sent the session outlines to read before the Oct 23 planning call for your Toronto stewardship panel."
       }
     ],
-    "noise": "LinkedIn pings, two governance newsletters, Kiwi booking confirmations, and a December bar mitzvah invite (RSVP by November).",
-    "clear": "Nothing else is waiting on your reply."
+    "noise": "The usual drift: two Kiwi booking confirmations, a couple of St. Pete newsletters, a LinkedIn nudge, a Patreon digest.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Board search",
-      "title": "Brunswick interviews are set",
-      "detail": "Erika Maass locked in the Teams invites - Jonathan Doorley on Oct 27 at 10:00 and Christian Buss at 1:30, both confirmed."
+      "tag": "Job search",
+      "title": "Brunswick interviews locked in",
+      "detail": "Erika Maass confirmed both Teams interviews — Jonathan Doorley and Christian Buss, Oct 27. Invites are in your calendar."
+    },
+    {
+      "tag": "Travel",
+      "title": "Trip booking confirmed",
+      "detail": "Kiwi.com confirmed booking 856468327 today; e-ticket and trip details are in your account."
     }
   ],
   "context": {
@@ -76,27 +76,21 @@
   },
   "tasks": [
     {
+      "title": "Decide the December break destination",
+      "project": "Household",
+      "due": "Book-by Oct 15 passed",
+      "overdue": true
+    },
+    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order - bedframe + shower soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist to book appointment",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -108,15 +102,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A pair of Kevin Tracey holds at 11 and lunch with Fran at noon filled the first half."
+      "line": "One call with Kevin Tracey late morning, with nothing stacked around it."
     },
     {
-      "time": "Afternoon",
-      "line": "Nothing on the calendar - the open stretch for board-search follow-ups."
+      "time": "12 PM onward",
+      "line": "Lunch with Fran at noon, then a wide-open afternoon."
     },
     {
       "time": "Evening",
-      "line": "The girls are at Jen's this week, so the evening is quiet and yours."
+      "line": "An open evening — the shopping's done, which usually means something's on the stove."
     }
   ],
   "japanese": {
