@@ -1,30 +1,40 @@
 {
   "date": "Thursday, October 15, 2026",
-  "generatedAt": "Morning brief · 8:15 PM ET",
-  "theme": "An open day, a stacked tomorrow.",
-  "greeting": "Today clears out after a single morning call, Dan — good room to lock the December and Christmas booking calls before tomorrow fills with three back-to-back conversations.",
+  "generatedAt": "Morning brief · 8:19 PM ET",
+  "theme": "A quiet Thursday — the climb is tomorrow.",
+  "greeting": "Today thinned out to one morning call, Dan, and the evening is yours. The weight sits on tomorrow: three conversations before lunch and a short stack of bookings whose clocks have now run out.",
   "needsAttention": [
     {
-      "tag": "Closes today",
-      "title": "December trip — your own book-by date is today",
-      "detail": "You set Oct 15 to book the Dec 13–Jan 2 trip with all four girls; holiday inventory for six over three weeks is the thinnest of the year. Pick domestic or international and put a refundable hold down."
+      "tag": "Decide today",
+      "title": "December break destination",
+      "detail": "Your own task says book by today — all four girls, Dec 13 to Jan 2, and holiday inventory for six is the thinnest of the year. Pick domestic or international and send it."
     },
     {
-      "tag": "Books out",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "The p1 'book this week' rental is a month past its date. A full-size SUV out of Portland over the holidays sells out — a refundable hold now takes the whole risk off the table."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "The p1 task has sat overdue since Sep 14; a full-size SUV out of Portland over Christmas sells out. A refundable hold now costs nothing."
     },
     {
-      "tag": "Tomorrow prep",
-      "title": "Three morning calls, back to back",
-      "detail": "Scott Lazarus at 9:30, Kevin Tracey of Deloitte at 11, Fran at noon — a job-search and networking morning. A few notes tonight on what you want from each sets you up to open well."
+      "tag": "Window closing",
+      "title": "Pathfinder drive south",
+      "detail": "The Oct 5 to 18 off-week window to drive Portland down to St Pete closes in three days."
+    },
+    {
+      "tag": "Tomorrow AM",
+      "title": "Three calls before noon",
+      "detail": "Scott Lazarus at Morgan Stanley at 9:30, Kevin Tracey at Deloitte at 11, then lunch with Fran — go in knowing your ask for each."
+    },
+    {
+      "tag": "Review first",
+      "title": "ICGN Plenary 7 outlines",
+      "detail": "Claudia sent the session outlines to read ahead of the planning call she has set for Fri Oct 23, 7:30 ET."
     }
   ],
   "schedule": [
     {
       "time": "9:30 AM",
       "title": "Amin recruiter call",
-      "detail": "Discussion — opportunities, via Teams",
+      "detail": "Opportunities discussion",
       "tag": "call"
     }
   ],
@@ -32,19 +42,25 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn message from Joseph waiting",
-        "detail": "A new LinkedIn message is sitting unanswered — a networking thread worth a short reply."
+        "title": "Two Brunswick Group meetings",
+        "detail": "Invites to meet Christian Buss and Jonathan Doorley came in today to get on the calendar."
       },
       {
-        "tag": "Job search",
-        "title": "Two new senior-role alerts",
-        "detail": "LinkedIn surfaced a VP role at Ogilvy Health and an Enterprise Client Leader role at Aon — a quick scan when you have a minute."
+        "tag": "Financial",
+        "title": "Fund the new savings account",
+        "detail": "Morgan Stanley private bank sent a final reminder to fund your new Signature Savings account."
       }
     ],
-    "noise": "~15 unread, nearly all promotions — retail, wine, travel, and newsletters.",
-    "clear": "Nothing else is waiting on your reply."
+    "noise": "LinkedIn job alerts and a dozen newsletters and promos — Delta, HBO Max, Harry & David, a few more.",
+    "clear": "Nothing else is waiting on your reply tonight."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Scheduled",
+      "title": "Plenary 7 call time landed",
+      "detail": "Claudia weighed everyone's availability and set the ICGN planning call for Fri Oct 23, 7:30 ET."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -65,21 +81,9 @@
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder south, Portland to St Pete",
-      "project": "Travel",
-      "due": "Window Oct 5–18",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + shower soap holder",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -91,15 +95,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A single 9:30 call with Amin, then the morning is yours."
+      "line": "A single call with Amin at 9:30, opportunities on the table, then quiet."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar — a wide-open stretch."
+      "line": "A clear calendar — the kind of open afternoon that rarely lands midweek."
     },
     {
       "time": "Evening",
-      "line": "Still water tonight; tomorrow is the busy one."
+      "line": "The day settles softly; the real climb waits for tomorrow morning."
     }
   ],
   "japanese": {
