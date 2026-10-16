@@ -1,90 +1,97 @@
 {
-  "lessonNo": 236,
-  "date": "Monday, Oct 12",
-  "generatedAt": "Lesson #236 · Oct 12",
-  "theme": "Because — ～から・～ので: giving reasons the blunt way and the polite way",
-  "intro": "Two ways to say \"because\": personal, direct ～から versus softer, more polite ～ので — built for excuses, explanations, and polite requests.",
+  "lessonNo": 237,
+  "date": "Friday, Oct 16",
+  "generatedAt": "Lesson #237 · Oct 16",
+  "theme": "Even though / but — ～のに・～けど",
+  "intro": "Two ways to join a clause you didn't expect: ～のに adds surprise or frustration, while ～けど is a plain, conversational 'but'.",
   "grammar": {
-    "title": "～から and ～ので (because)",
+    "title": "～のに and ～けど",
     "rules": [
       {
         "label": "Verbs & い-adjectives",
-        "detail": "Attach either one straight onto the plain form.",
+        "detail": "Attach to the plain form (present or past).",
         "examples": [
-          "行く → 行くから / 行くので (because ~ go)",
-          "高い → 高いから / 高いので (because ~ expensive)"
+          "行く → 行くのに / 行くけど (even though/but I go)",
+          "高い → 高いのに / 高いけど (even though/but it's expensive)"
         ]
       },
       {
         "label": "な-adjectives & nouns",
-        "detail": "Before から use だ; before ので use な.",
+        "detail": "のに takes な; けど keeps だ.",
         "examples": [
-          "学生だから / 学生なので (because ~ a student)",
-          "しずかだから / しずかなので (because ~ quiet)"
+          "べんり → べんりなのに / べんりだけど",
+          "学生 → 学生なのに / 学生だけど"
         ]
       },
       {
-        "label": "Tone",
-        "detail": "から = direct/personal, can sound blunt; ので = softer, polite, good for requests and excuses.",
+        "label": "～のに",
+        "detail": "'Even though / and yet' — carries emotion: surprise, disappointment, complaint.",
         "examples": [
-          "疲れたから… (casual) vs. わからないので… (polite)"
+          "高いのに、おいしくない → Even though it's pricey, it's not good (grr)"
+        ]
+      },
+      {
+        "label": "～けど",
+        "detail": "'But / although' — neutral contrast, like が but conversational; can follow polite form too.",
+        "examples": [
+          "行きますけど → but I'll go"
         ]
       }
     ],
-    "bigPoint": "Both go [reason] + から/ので、[result]. The only form trap is な-adjectives and nouns: だ before から, な before ので."
+    "bigPoint": "Use のに only when the second clause states a fact or feeling — never a request, command, or invitation. For those, switch to けど: 近いけど、歩きましょう。"
   },
   "vocab": [
     {
-      "jp": "～から",
-      "romaji": "kara",
-      "en": "because (casual / direct)"
+      "jp": "高い（たかい）",
+      "romaji": "takai",
+      "en": "expensive; high"
     },
     {
-      "jp": "～ので",
-      "romaji": "node",
-      "en": "because (softer, polite)"
+      "jp": "安い（やすい）",
+      "romaji": "yasui",
+      "en": "cheap"
     },
     {
-      "jp": "疲れた・つかれた",
-      "romaji": "tsukareta",
-      "en": "(I'm / got) tired"
+      "jp": "便利（べんり）",
+      "romaji": "benri",
+      "en": "convenient"
     },
     {
-      "jp": "忙しい・いそがしい",
-      "romaji": "isogashii",
-      "en": "busy"
+      "jp": "近い（ちかい）",
+      "romaji": "chikai",
+      "en": "near / close"
     },
     {
-      "jp": "混む・こむ",
-      "romaji": "komu",
-      "en": "to get crowded (混んでいる = is crowded)"
+      "jp": "遠い（とおい）",
+      "romaji": "tooi",
+      "en": "far"
     },
     {
-      "jp": "閉まる・しまる",
-      "romaji": "shimaru",
-      "en": "(a shop) closes / is closed"
+      "jp": "予約（よやく）",
+      "romaji": "yoyaku",
+      "en": "reservation"
     }
   ],
   "examples": [
     {
-      "jp": "疲れたから、今日は早く寝ます。",
-      "romaji": "Tsukareta kara, kyō wa hayaku nemasu.",
-      "en": "Because I'm tired, I'll go to bed early today."
+      "jp": "たかいのに、おいしくない。",
+      "romaji": "Takai noni, oishikunai.",
+      "en": "Even though it's expensive, it's not tasty."
     },
     {
-      "jp": "電車が混んでいるので、次のに乗りましょう。",
-      "romaji": "Densha ga konde iru node, tsugi no ni norimashō.",
-      "en": "Since the train is crowded, let's take the next one."
+      "jp": "えきは ちかいけど、バスで 行きます。",
+      "romaji": "Eki wa chikai kedo, basu de ikimasu.",
+      "en": "The station is close, but I'll go by bus."
     },
     {
-      "jp": "この店は6時に閉まるので、急ぎましょう。",
-      "romaji": "Kono mise wa roku-ji ni shimaru node, isogimashō.",
-      "en": "The shop closes at six, so let's hurry."
+      "jp": "よやくしたのに、せきが なかった。",
+      "romaji": "Yoyaku shita noni, seki ga nakatta.",
+      "en": "Even though I made a reservation, there were no seats."
     }
   ],
-  "note": "Use ので when being polite — an excuse to a clerk or a favor from a stranger: 「すみません、日本語がわからないので…」. Use から with friends and for personal reasons; you can even end a sentence on it to add the reason after: 行きません。疲れたから。",
+  "note": "のに often ends a sentence on its own as a soft complaint — 予約したのに…！ ('But I made a reservation…!'). Remember the な after a な-adjective or noun before のに (べんりなのに), but だ before けど (べんりだけど).",
   "selfCheck": {
-    "q": "It's cheap (安い・やすい), so you'll buy two — say it casually with から: \"Because it's cheap, I'll buy two (2つ).\"",
-    "a": "安いから、2つ買います。 (Yasui kara, futatsu kaimasu.) — the い-adjective 安い takes から directly, no だ. Politer: 安いので、2つ買います。"
+    "q": "How would you say: \"Even though it's convenient, it's expensive.\"",
+    "a": "べんりなのに、たかいです。 (Benri na noni, takai desu.) — note the な after べんり before のに."
   }
 }
