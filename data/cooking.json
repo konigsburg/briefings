@@ -1,94 +1,96 @@
 {
-  "date": "Sat, Oct 10",
-  "generatedAt": "Weekly · Oct 10",
-  "theme": "A no-tomato October: pork & porcini ragu bianco and an olive-oil bean conserva, built for pasta, polenta, seared fish and soup. Just you and Mike this week (girls with Jen).",
+  "date": "Sat, Oct 17",
+  "generatedAt": "Weekly · Oct 17",
+  "theme": "Autumn Sunday sauce week — one big rustic ragu and a jar of olive-oil beans carry four kid-friendly dinners for the full house.",
   "components": [
     {
-      "name": "Pork & Porcini Ragu Bianco (white ragu)",
+      "name": "Sunday ragu (pork + beef sugo)",
       "time": "~90 min, mostly hands-off simmer",
-      "ingredients": "1 lb ground pork, 3 oz pancetta (diced), 1 oz dried porcini, 1 onion + 1 carrot + 1 celery rib (fine soffritto), 2 cloves garlic, 1 cup dry white wine, 1 cup whole milk, parmesan rind, sage/rosemary/bay, olive oil",
-      "method": "Soak porcini in hot water 20 min; save the liquor. Sweat the fine soffritto low and slow in a generous slick of olive oil, 12-15 min, no color. Add pancetta, render, then the pork and brown it hard, breaking it fine. Stir in chopped porcini, pour in the white wine and let it cook off almost completely (sfumatura). Add milk, strained porcini liquor, parmesan rind and herbs; bare simmer uncovered 60-75 min until glossy and unctuous. This is a double batch on purpose: feeds the pappardelle and the polenta dinners, freezes well."
+      "ingredients": "1 lb ground pork, 1 lb ground beef (chuck), 2 onions, 2 carrots, 2 celery ribs, 4 garlic cloves, 2 tbsp tomato paste, 1 cup dry white or red wine, two 28-oz cans whole peeled tomatoes (crushed by hand), 1 cup whole milk, bay, generous olive oil, salt",
+      "method": "Build a slow soffritto: sweat finely diced onion, carrot and celery in a good pour of olive oil over low-medium heat until soft and sweet, 12-15 min, then add garlic. Push to the side, brown the pork and beef in batches so it caramelizes rather than steams. Stir in tomato paste and cook 2 min, deglaze with wine and reduce by half. Add the hand-crushed tomatoes and bay, bring to a bare simmer, then pour in the milk. Simmer uncovered 60-75 min until glossy and thick, stirring now and then. Cool and refrigerate; it only gets better by midweek and freezes beautifully."
     },
     {
-      "name": "Olive-Oil Braised Cannellini Conserva",
-      "time": "~75 min, overlaps the ragu",
-      "ingredients": "1 lb dried cannellini (soaked overnight), 1 head garlic halved, sage + rosemary sprigs, 1 dried chile, 2 bay leaves, ~1/2 cup olive oil, salt (late)",
-      "method": "Drain the soaked beans into a Dutch oven, cover with water by 2 inches, add the halved garlic head, herbs, chile, bay and a big glug of oil. Bring to the barest simmer and cook gently 60-90 min until creamy but intact; salt only in the last 20 min. Cool and store the beans in their own brothy liquor with a film of oil on top. That bean broth is liquid gold for the fish and the ribollita."
+      "name": "Olive-oil braised cannellini beans (conserva)",
+      "time": "~75 min, mostly unattended",
+      "ingredients": "1.5 lb dried cannellini (soaked overnight) or 4 cans drained, 1 head garlic halved crosswise, several sage leaves, 2 rosemary sprigs, 1 dried chili (optional), 1.5 cups olive oil, salt",
+      "method": "Put drained soaked beans in a pot with the garlic, herbs, chili and enough water to cover by two inches. Add a big glug of olive oil and bring to the gentlest simmer; cook 60-75 min until creamy, salting generously in the last 15 min (canned beans: simmer 25 min in the oil, garlic and herbs instead). Let them cool in their liquid, then store beans plus the silky, herb-scented broth together. That broth is liquid gold for soups and for finishing greens."
     }
   ],
   "dinners": [
     {
-      "name": "Pappardelle al Ragu Bianco",
+      "name": "Pappardelle al ragu",
       "time": "25 min",
-      "ingredients": "pappardelle, the ragu bianco, butter, parmesan, parsley, pasta water",
+      "ingredients": "Sunday ragu, 1.5 lb pappardelle or rigatoni, parmesan, butter, olive oil, reserved pasta water",
       "steps": [
-        "Boil the pappardelle in well-salted water; reserve a mugful of water.",
-        "Loosen a few ladles of ragu in a wide pan with a splash of pasta water.",
-        "Pull the pasta a minute early and finish it in the ragu for 60-90 sec.",
-        "Off the heat, add cold butter and a handful of parmesan and toss hard with more pasta water until the sauce turns glossy and clings (mantecatura).",
-        "Plate, shower with parm and parsley."
+        "Warm a big ladle of ragu per person in a wide pan.",
+        "Boil pasta one minute shy of al dente, reserving a mug of starchy water.",
+        "Drag the pasta straight into the sauce with a splash of pasta water and a knob of butter.",
+        "Toss hard over the heat until the sauce clings and glosses (the mantecatura), loosening with more water as needed.",
+        "Finish off heat with grated parmesan and a thread of olive oil; serve with extra cheese for the girls."
       ]
     },
     {
-      "name": "Seared Cod over Brothy Cannellini",
+      "name": "Baked polenta with ragu & mozzarella",
+      "time": "40 min",
+      "ingredients": "2 cups polenta, ragu, 2 balls mozzarella (torn), parmesan, butter, milk, olive oil",
+      "steps": [
+        "Cook polenta in salted water (and a splash of milk) until creamy, finishing with butter and parmesan.",
+        "Spread half in a baking dish, spoon over ragu, scatter torn mozzarella.",
+        "Layer the rest of the polenta, more ragu and the remaining mozzarella.",
+        "Bake at 425F for 20-25 min until bubbling and browned at the edges.",
+        "Rest 5 min, drizzle with olive oil; a crowd-pleaser that reheats well for lunchboxes."
+      ]
+    },
+    {
+      "name": "White bean & kale soup with garlic toast",
+      "time": "30 min",
+      "ingredients": "Bean conserva + its broth, 1 bunch lacinato kale, 1 onion, 2 garlic cloves, parmesan rind, crusty bread, olive oil",
+      "steps": [
+        "Soften chopped onion and garlic in olive oil; add a parmesan rind.",
+        "Add the beans with their broth plus water or stock to loosen; simmer 10 min.",
+        "Stir in shredded kale and cook until tender, 8-10 min; mash some beans against the pot to thicken.",
+        "Toast thick bread, rub with garlic, pour on olive oil; float a slice in each bowl.",
+        "Finish with grated parmesan and a heavy drizzle of olive oil (serve kids a brothier, milder bowl)."
+      ]
+    },
+    {
+      "name": "Seared cod over warm white beans & greens",
       "time": "25 min",
-      "ingredients": "2 cod or halibut fillets, the cannellini conserva + liquor, a bunch of kale or escarole, lemon, olive oil",
+      "ingredients": "2.5 lb cod or other mild white fish, bean conserva, 1 bunch spinach or chard, lemon, garlic, olive oil, parsley",
       "steps": [
-        "Warm the beans with a ladle of their liquor and the torn greens until the greens wilt; keep it brothy.",
-        "Pat the fish bone-dry and season well.",
-        "Sear presentation-side down in hot olive oil, spooning the oil over, 3-4 min until golden; flip for just a minute.",
-        "Spoon beans and broth into bowls, rest the fish on top.",
-        "Finish with a squeeze of lemon and a raw thread of good olive oil."
-      ]
-    },
-    {
-      "name": "Soft Polenta with Ragu Bianco",
-      "time": "30 min",
-      "ingredients": "polenta/coarse cornmeal, the ragu bianco, butter, parmesan",
-      "steps": [
-        "Cook polenta low and whisking in salted water until soft and no longer grainy, 25-30 min.",
-        "Beat in a knob of butter and a handful of parmesan until loose and creamy.",
-        "Reheat the ragu while the polenta finishes.",
-        "Pool the polenta in warm bowls, spoon the ragu over, lots of black pepper and more parm."
-      ]
-    },
-    {
-      "name": "White Bean Ribollita",
-      "time": "30 min",
-      "ingredients": "the cannellini conserva + liquor, cavolo nero/kale, onion-carrot-celery, day-old crusty bread, olive oil, parmesan",
-      "steps": [
-        "Build a quick soffritto in olive oil, add shredded cavolo nero and wilt.",
-        "Add the beans with all their liquor plus water to cover; simmer 10-15 min.",
-        "Tear in day-old bread and stir until it melts into a thick porridge.",
-        "Finish with a heavy drizzle of new olive oil and grated parmesan."
+        "Pat fish very dry, salt, and sear in olive oil over medium-high until golden and just opaque, 3-4 min a side.",
+        "In another pan, warm beans in a little of their broth with garlic and olive oil.",
+        "Wilt the greens into the beans with a squeeze of lemon.",
+        "Spoon the beans and greens onto plates and set the fish on top.",
+        "Finish with lemon, parsley and olive oil; flake the kids' portions off the bone-free fillet into the beans."
       ]
     }
   ],
   "technique": {
-    "name": "Mantecatura (pan-emulsifying pasta)",
-    "tiedTo": "Pappardelle al Ragu Bianco. The payoff of the ragu: pull the pasta early, finish it in the sauce, then off the heat beat in cold butter, parmesan and starchy water and toss hard until it emulsifies into a glossy, clinging sauce rather than a watery one. Aim for silky, not soupy, not greasy."
+    "name": "Mantecatura (emulsifying pasta off the heat)",
+    "tiedTo": "Pappardelle al ragu — pull the pasta early, toss it hard with starchy water, butter and cheese so the sauce emulsifies into a glossy coat that clings to every ribbon instead of pooling on the plate."
   },
   "shopping": [
     {
       "section": "Produce",
-      "items": "2 yellow onions, 2 carrots, 1 bunch celery, 2 heads garlic, fresh sage, fresh rosemary, flat-leaf parsley, 2 bunches cavolo nero/lacinato kale (or escarole), 2 lemons, 1 dried chile"
+      "items": "2 onions, 1 extra onion, 2 carrots, 2 celery ribs, 1 head + 2 cloves garlic, 1 bunch lacinato kale, 1 bunch spinach or chard, 2 lemons, fresh sage, rosemary, parsley, bay"
     },
     {
       "section": "Seafood",
-      "items": "2 cod or halibut fillets (~12 oz total)"
+      "items": "2.5 lb cod or other mild white fish fillets"
     },
     {
       "section": "Protein",
-      "items": "1 lb ground pork, 3 oz pancetta"
+      "items": "1 lb ground pork, 1 lb ground beef chuck"
     },
     {
       "section": "Dairy",
-      "items": "1 pint whole milk, parmesan wedge (with rind), butter"
+      "items": "2 balls fresh mozzarella, parmesan (plus a rind), whole milk, butter"
     },
     {
       "section": "Pantry",
-      "items": "1 oz dried porcini, 1 lb dried cannellini beans, dry white wine, pappardelle, polenta/coarse cornmeal, day-old crusty bread, bay leaves, good finishing olive oil"
+      "items": "1.5 lb dried cannellini (or 4 cans), two 28-oz cans whole peeled tomatoes, tomato paste, dry wine, 1.5 lb pappardelle or rigatoni, 2 cups polenta, crusty bread, dried chili, good olive oil, salt"
     }
   ],
-  "scaleNote": "This week is just the two of you (girls with Jen through ~Oct 17), so portions are for 2 and the components are deliberately batched to carry four dinners. When the girls are back (full house of 6): both components already scale, but double the ragu again and cook ~1.5 lb pappardelle; ragu over pasta or soft polenta is an easy kid win. Ribollita scales linearly. For the fish night, flake extra cod over buttered beans or plain pasta for the girls and go light on lemon, and add garlic bread to stretch the table."
+  "scaleNote": "Full-house week (6 at the table: you, Mike + the four girls). Quantities above are already set for 6, with leftovers by design — the ragu makes ~8-10 servings so you can freeze a batch, and the beans stretch across both the soup and the fish nights. Keep the kids' bowls brothier and milder: pull their soup before the garlic toast soaks in, grate extra parmesan on the pappardelle, and flake the cod into the beans so there's nothing to fuss over. If an evening gets hectic, the baked polenta is the make-ahead hero — assemble it in the afternoon and bake at dinnertime."
 }
