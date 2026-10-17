@@ -1,13 +1,18 @@
 {
   "date": "Friday, October 16, 2026",
   "generatedAt": "Morning brief · 10:06 PM ET",
-  "theme": "A light day with the holidays pressing in",
-  "greeting": "A clear Friday, Dan — a midday call and a lunch, then open water. The real pull today isn't on your calendar; it's the holiday travel quietly drifting past its book-by dates.",
+  "theme": "A light day of two touchpoints over a stack of overdue travel bookings.",
+  "greeting": "A quiet Friday, Dan — just a call with Kevin and lunch with Fran on the books, so the day's real work is clearing the recruiter reply and the travel bookings that have gone overdue.",
   "needsAttention": [
+    {
+      "tag": "Job search",
+      "title": "CIFIC VP role — recruiter waiting",
+      "detail": "Amin Noorani, the search partner you met virtually, followed up on the VP, Government Relations & Regulatory Affairs mandate at CIFIC and offered to discuss further. He's awaiting your word on whether to explore it; he also flagged keeping you in mind for board and advisory roles."
+    },
     {
       "tag": "Book this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "Your top-priority board task to hold a refundable full-size SUV out of Portland for Christmas week has been open since mid-September. A full-size SUV at PWM over the holidays is the thinnest inventory in that market and it sells out — the refundable hold costs nothing and removes the whole risk."
+      "detail": "Your top-priority board task to hold a refundable full-size SUV out of Portland for Christmas week has been open since mid-September. That rental is the thinnest inventory in the PWM market over the holidays and it sells out — a refundable hold costs nothing and removes the risk."
     },
     {
       "tag": "Window closing",
@@ -15,9 +20,9 @@
       "detail": "The Oct 5–18 window to drive the Pathfinder from Portland to St Pete closes in two days; booking the one hotel night is the last piece once the dates are set."
     },
     {
-      "tag": "Conference prep",
-      "title": "ICGN Toronto session outlines",
-      "detail": "Claudia Rossetti asked the Plenary 7 group to review the attached session outlines before your planning call — the deep dive on evolving stewardship data, reporting and impact. The outlines are in your inbox to skim."
+      "tag": "Deadline passed",
+      "title": "December break — decide and book",
+      "detail": "The all-four-kids December trip was meant to be decided by Sep 30 and booked by Oct 15, which slipped yesterday. Holiday inventory for six over three weeks is the thinnest of the year, so pick the domestic default and get a shortlist moving."
     }
   ],
   "schedule": [
@@ -37,11 +42,6 @@
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Brunswick Group meetings set",
-        "detail": "Teams invites came through for you with Christian Buss and Jonathan Doorley, from Brunswick's office."
-      },
-      {
         "tag": "Financial",
         "title": "Morgan Stanley account funding",
         "detail": "A final reminder to fund your new Signature Savings account before the window closes."
@@ -50,12 +50,23 @@
         "tag": "Health",
         "title": "Message from your provider",
         "detail": "A new message is waiting in your Healow patient portal."
+      },
+      {
+        "tag": "FYI",
+        "title": "ICGN Toronto — Plenary 7 outlines",
+        "detail": "Claudia Rossetti sent the session outlines to review before the Plenary 7 planning call, now set for Fri Oct 23, 7:30 ET."
       }
     ],
-    "noise": "The rest is order confirmations, travel receipts, LinkedIn job alerts, and retail promos.",
+    "noise": "The rest is order confirmations, flight and Airbnb receipts for Toronto, a St Pete newsletter, and the Stewardship Digest.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Job search",
+      "title": "Brunswick interviews locked in",
+      "detail": "Erika Maass confirmed both Brunswick conversations for Oct 27 — Jonathan Doorley at 10am and Christian Buss at 1:30pm — with Teams invites now on your calendar."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -69,12 +80,6 @@
     "why": "A warming autumn braise for cool evenings, leaning on the squash and root vegetables that are at their peak now."
   },
   "tasks": [
-    {
-      "title": "December break — shortlist 3 destinations",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
     {
       "title": "Get 3 term life quotes for Mike",
       "project": "Mike + Dan — Board",
@@ -96,13 +101,13 @@
   ],
   "routines": {
     "morning": "0/5",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear run until your 11 o'clock with Kevin Tracey."
+      "line": "A clear run until your 11 o'clock call with Kevin Tracey."
     },
     {
       "time": "Afternoon",
@@ -110,7 +115,7 @@
     },
     {
       "time": "Evening",
-      "line": "Open water tonight, and a chickpea tagine worth the slow simmer."
+      "line": "A quiet night with the girls in Florida, and a chickpea tagine worth the slow simmer."
     }
   ],
   "japanese": {
