@@ -1,28 +1,28 @@
 {
   "date": "Saturday, October 17, 2026",
   "generatedAt": "Morning brief · 7:06 AM ET",
-  "theme": "An open Saturday before the week turns over.",
-  "greeting": "A wide-open Saturday, Dan — nothing on the calendar at all. It's the rare clear day to close out the board's oldest bookings before the girls are back tomorrow evening.",
+  "theme": "An open Saturday with a clear runway",
+  "greeting": "The whole day is yours, Dan — nothing is on the calendar from now until tomorrow's review. A good window to finally clear the travel bookings that have been waiting.",
   "needsAttention": [
     {
-      "tag": "Book this week",
+      "tag": "Tomorrow 9 AM",
+      "title": "Sunday board review with Mike",
+      "detail": "The weekly 15-minute review opens tomorrow at 9. Worth a pass through the board in 'Dan & Mike Stuff' tonight so everything has an owner and a date before you two sit down."
+    },
+    {
+      "tag": "Window closing",
       "title": "Maine Christmas SUV still unbooked",
-      "detail": "Top-priority item on the Mike + Dan board, open since Sept 14. A refundable full-size SUV out of Portland for Christmas week is the hardest rental in that market and sells out — a held booking costs nothing and removes the risk."
+      "detail": "The p1 'book this week' task has slipped over a month. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out — a refundable hold now removes the whole risk."
     },
     {
-      "tag": "Window closes",
-      "title": "Pathfinder drive-down window ends tomorrow",
-      "detail": "The Oct 5-18 Portland to St Pete gap closes Sunday. Driving the Pathfinder south now is what kills the monthly Florida rental cost, so the window matters more than the miles."
+      "tag": "Closes tomorrow",
+      "title": "Pathfinder drive window ends Oct 18",
+      "detail": "The Oct 5-18 off-week gap to drive the Pathfinder Portland to St Pete closes tomorrow. After this the car can't reach Florida before Christmas without adding a flight."
     },
     {
-      "tag": "Booking window",
-      "title": "December break not yet decided",
-      "detail": "Board item flagged to decide by Sept 30 and book by Oct 15 — both dates have now passed. Holiday inventory for six over a three-week window is the thinnest of the year."
-    },
-    {
-      "tag": "Conference prep",
-      "title": "Review ICGN plenary 7 outlines",
-      "detail": "Claudia Rossetti sent the session outlines to read before the planning call, now set for Friday Oct 23 at 7:30 ET. An open day is the time to go through them."
+      "tag": "Decision overdue",
+      "title": "December break destination",
+      "detail": "The book-by date of Oct 15 has passed on the three-week December trip for all four kids. Holiday inventory for six is the thinnest of the year, so each day of delay narrows the field."
     }
   ],
   "schedule": [],
@@ -30,29 +30,19 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two Brunswick Group intro meetings",
-        "detail": "Emily Maass sent Teams invites to meet Christian Buss and Jonathan Doorley, both awaiting your response."
+        "title": "Two Brunswick Group intro calls",
+        "detail": "Teams invites arrived for meetings with Christian Buss and Jonathan Doorley at Brunswick — worth confirming and prepping, given the board and public-affairs track."
       },
       {
         "tag": "Financial",
         "title": "Morgan Stanley account funding",
-        "detail": "A final reminder to fund your new Signature Savings account landed twice this week."
-      },
-      {
-        "tag": "FYI",
-        "title": "Toronto trip confirmed",
-        "detail": "Flights and the Nov 2-5 Airbnb are both booked for the ICGN conference."
+        "detail": "A 'final reminder' to fund the new Signature Savings account — check the real deadline before it lapses."
       }
     ],
-    "noise": "A dozen newsletters, language-app promos, and travel confirmations — nothing that needs you.",
+    "noise": "The rest is newsletters and travel confirmations — FT, Airbnb and Kiwi bookings, language-app promos.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "title": "ICGN plenary 7 call scheduled",
-      "detail": "Claudia Rossetti locked Friday Oct 23, 7:30 ET after collecting the group's availability — the scheduling thread is closed."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -68,13 +58,13 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
@@ -86,25 +76,22 @@
     }
   ],
   "routines": {
-    "morning": "0/9",
-    "day": "0/6",
+    "morning": "0/10",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar today — the clearest stretch in weeks to work the oldest items on the Mike + Dan board.",
-      "tag": "open"
+      "line": "A clear morning — nothing is scheduled."
     },
     {
       "time": "Afternoon",
-      "line": "Two travel windows are closing at once: the Christmas SUV and the December-break decision both want to land before the week turns.",
-      "tag": "travel"
+      "line": "The day stays open; no meetings land at all."
     },
     {
       "time": "Evening",
-      "line": "The last quiet night before tomorrow's 9 AM Sunday review and the girls arriving back in the evening.",
-      "tag": "handoff"
+      "line": "A quiet evening before the week restarts tomorrow."
     }
   ],
   "japanese": {
