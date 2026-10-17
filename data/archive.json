@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-10-17",
+    "kind": "Morning brief",
+    "label": "Saturday, Oct 17 · 6:08 AM ET",
+    "summary": "An open, meeting-free Saturday with several travel-booking windows closing before the girls return tomorrow.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-10-16",
     "kind": "Morning brief",
     "label": "Friday, Oct 16 · 10:06 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Friday, Sep 18 · 10:02 PM ET",
     "summary": "An open last day aboard the Croatia charter with the kids at Jen's; tomorrow's move ashore to Cavtat and Sunday's flight home are what to tee up.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-09-17",
-    "kind": "Morning brief",
-    "label": "Thursday, Sep 17 · 10:02 PM ET",
-    "summary": "Open day at sea on the last stretch of the Croatia charter; kids with Jen, and the Cavtat landing plus Florida-arrival bookings want doing before Saturday.",
     "ref": "today"
   }
 ]
