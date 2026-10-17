@@ -1,70 +1,56 @@
 {
   "date": "Saturday, October 17, 2026",
   "generatedAt": "Morning brief · 6:08 AM ET",
-  "theme": "A light day of two touchpoints over a stack of overdue travel bookings.",
-  "greeting": "A quiet Friday, Dan — just a call with Kevin and lunch with Fran on the books, so the day's real work is clearing the recruiter reply and the travel bookings that have gone overdue.",
+  "theme": "An open Saturday before the week turns over.",
+  "greeting": "A wide-open Saturday, Dan — nothing on the calendar at all. It's the rare clear day to close out the board's oldest bookings before the girls are back tomorrow evening.",
   "needsAttention": [
     {
-      "tag": "Job search",
-      "title": "CIFIC VP role — recruiter waiting",
-      "detail": "Amin Noorani, the search partner you met virtually, followed up on the VP, Government Relations & Regulatory Affairs mandate at CIFIC and offered to discuss further. He's awaiting your word on whether to explore it; he also flagged keeping you in mind for board and advisory roles."
-    },
-    {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Your top-priority board task to hold a refundable full-size SUV out of Portland for Christmas week has been open since mid-September. That rental is the thinnest inventory in the PWM market over the holidays and it sells out — a refundable hold costs nothing and removes the risk."
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "Top-priority item on the Mike + Dan board, open since Sept 14. A refundable full-size SUV out of Portland for Christmas week is the hardest rental in that market and sells out — a held booking costs nothing and removes the risk."
     },
     {
-      "tag": "Window closing",
-      "title": "Drive the Pathfinder south",
-      "detail": "The Oct 5–18 window to drive the Pathfinder from Portland to St Pete closes in two days; booking the one hotel night is the last piece once the dates are set."
+      "tag": "Window closes",
+      "title": "Pathfinder drive-down window ends tomorrow",
+      "detail": "The Oct 5-18 Portland to St Pete gap closes Sunday. Driving the Pathfinder south now is what kills the monthly Florida rental cost, so the window matters more than the miles."
     },
     {
-      "tag": "Deadline passed",
-      "title": "December break — decide and book",
-      "detail": "The all-four-kids December trip was meant to be decided by Sep 30 and booked by Oct 15, which slipped yesterday. Holiday inventory for six over three weeks is the thinnest of the year, so pick the domestic default and get a shortlist moving."
+      "tag": "Booking window",
+      "title": "December break not yet decided",
+      "detail": "Board item flagged to decide by Sept 30 and book by Oct 15 — both dates have now passed. Holiday inventory for six over a three-week window is the thinnest of the year."
+    },
+    {
+      "tag": "Conference prep",
+      "title": "Review ICGN plenary 7 outlines",
+      "detail": "Claudia Rossetti sent the session outlines to read before the planning call, now set for Friday Oct 23 at 7:30 ET. An open day is the time to go through them."
     }
   ],
-  "schedule": [
-    {
-      "time": "11:00 AM",
-      "title": "Call with Kevin Tracey",
-      "detail": "Kevin (Deloitte) calling you",
-      "tag": "call"
-    },
-    {
-      "time": "12:00 PM",
-      "title": "Lunch with Fran",
-      "detail": "Tentative",
-      "tag": "lunch"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Morgan Stanley account funding",
-        "detail": "A final reminder to fund your new Signature Savings account before the window closes."
+        "tag": "Job search",
+        "title": "Two Brunswick Group intro meetings",
+        "detail": "Emily Maass sent Teams invites to meet Christian Buss and Jonathan Doorley, both awaiting your response."
       },
       {
-        "tag": "Health",
-        "title": "Message from your provider",
-        "detail": "A new message is waiting in your Healow patient portal."
+        "tag": "Financial",
+        "title": "Morgan Stanley account funding",
+        "detail": "A final reminder to fund your new Signature Savings account landed twice this week."
       },
       {
         "tag": "FYI",
-        "title": "ICGN Toronto — Plenary 7 outlines",
-        "detail": "Claudia Rossetti sent the session outlines to review before the Plenary 7 planning call, now set for Fri Oct 23, 7:30 ET."
+        "title": "Toronto trip confirmed",
+        "detail": "Flights and the Nov 2-5 Airbnb are both booked for the ICGN conference."
       }
     ],
-    "noise": "The rest is order confirmations, flight and Airbnb receipts for Toronto, a St Pete newsletter, and the Stewardship Digest.",
+    "noise": "A dozen newsletters, language-app promos, and travel confirmations — nothing that needs you.",
     "clear": ""
   },
   "resolved": [
     {
-      "tag": "Job search",
-      "title": "Brunswick interviews locked in",
-      "detail": "Erika Maass confirmed both Brunswick conversations for Oct 27 — Jonathan Doorley at 10am and Christian Buss at 1:30pm — with Teams invites now on your calendar."
+      "title": "ICGN plenary 7 call scheduled",
+      "detail": "Claudia Rossetti locked Friday Oct 23, 7:30 ET after collecting the group's availability — the scheduling thread is closed."
     }
   ],
   "context": {
@@ -72,7 +58,7 @@
     "phase": "green",
     "location": "Maine",
     "confidence": "low",
-    "asOf": "Fri Oct 16"
+    "asOf": "Saturday Oct 17"
   },
   "recipe": {
     "title": "Pork chops with roasted beets & escarole salad",
@@ -82,13 +68,13 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
@@ -100,22 +86,25 @@
     }
   ],
   "routines": {
-    "morning": "0/5",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear run until your 11 o'clock call with Kevin Tracey."
+      "line": "Nothing on the calendar today — the clearest stretch in weeks to work the oldest items on the Mike + Dan board.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "After a tentative lunch with Fran, the afternoon opens with nothing booked."
+      "line": "Two travel windows are closing at once: the Christmas SUV and the December-break decision both want to land before the week turns.",
+      "tag": "travel"
     },
     {
       "time": "Evening",
-      "line": "A quiet night with the girls in Florida, and a chickpea tagine worth the slow simmer."
+      "line": "The last quiet night before tomorrow's 9 AM Sunday review and the girls arriving back in the evening.",
+      "tag": "handoff"
     }
   ],
   "japanese": {
