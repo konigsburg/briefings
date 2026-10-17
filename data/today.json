@@ -1,49 +1,68 @@
 {
   "date": "Saturday, October 17, 2026",
-  "generatedAt": "Morning brief · 10:06 AM ET",
-  "theme": "An open Saturday — a few trips still waiting to be booked.",
-  "greeting": "A wide-open Saturday, Dan, with the girls at Jen's and nothing on the calendar until tomorrow's short review. Good day to finally close out the travel bookings that keep circling the board.",
+  "generatedAt": "Morning brief · 10:08 AM ET",
+  "theme": "An open Saturday, with a few decisions quietly waiting.",
+  "greeting": "No meetings on the calendar today, Dan — it's clear straight through. That leaves room for the handful of bookings that have been sliding and a recruiter note worth answering.",
   "needsAttention": [
     {
-      "tag": "Travel · p1",
+      "tag": "Job search",
+      "title": "Reply to Amin on the CIFIC role",
+      "detail": "After your call, Amin Noorani sent the job description for the VP, Government Relations & Regulatory Affairs search and offered to discuss further if you'd like to explore it — he's waiting to hear whether you're interested."
+    },
+    {
+      "tag": "Window closing",
+      "title": "Pathfinder drive window ends tomorrow",
+      "detail": "The Oct 5–18 off-week gap to drive the Pathfinder from Portland to St Pete closes Sunday; miss it and the car's seasonal migration slips and the rental-cost clock keeps running."
+    },
+    {
+      "tag": "Overdue · decide",
+      "title": "December break is still unbooked",
+      "detail": "In Dan & Mike Stuff: the shortlist was due Sept 30 and the book-by date was Oct 15 — two days past. Holiday inventory for six over three weeks is the thinnest of the year, so every day narrows it."
+    },
+    {
+      "tag": "Overdue · p1",
       "title": "Book the Maine Christmas SUV",
-      "detail": "The full-size SUV rental out of Portland for Christmas week has sat open on your board with Mike since mid-September, flagged p1 — it's the thinnest holiday inventory in that market, so a refundable hold now takes the risk off the table."
-    },
-    {
-      "tag": "Travel · decision",
-      "title": "Lock the December family trip",
-      "detail": "The December-break pick was meant to be booked by Oct 15. All four girls, a 21-day window, holiday inventory for six — the booking slot is closing, so this is the weekend to choose and hold it."
-    },
-    {
-      "tag": "Tomorrow",
-      "title": "Sunday review — and the Pathfinder window",
-      "detail": "Your 15-minute review with Mike is tomorrow at 9 AM on your calendar, landing just as the Oct 5–18 window to drive the Pathfinder south closes — worth settling this weekend whether that drive still happens or flips to flights."
+      "detail": "In Dan & Mike Stuff, open since mid-September: a refundable full-size SUV out of Portland over Christmas week sells out early, and a refundable hold costs nothing to place now."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Brunswick Group lining up two meetings",
-        "detail": "Invites came Oct 15 for Teams calls with Christian Buss and Jonathan Doorley — both still unread; accepting them onto your calendar locks the times."
+        "tag": "Financial",
+        "title": "Morgan Stanley account funding",
+        "detail": "A second 'final reminder' to fund your new Signature Savings account — worth a glance if you still mean to fund it."
       },
       {
-        "tag": "Financial",
-        "title": "Morgan Stanley funding reminder",
-        "detail": "A 'final reminder' to fund your new Signature Savings account — confirm it's an account you opened before acting on it."
+        "tag": "Health",
+        "title": "New message from your clinician",
+        "detail": "A provider message is waiting in the Healow patient portal."
+      },
+      {
+        "tag": "FYI",
+        "title": "ICGN Toronto plenary outlines",
+        "detail": "Claudia Rossetti sent the Plenary 7 session outlines to review before the Oct 23 planning call (7:30 ET)."
       }
     ],
-    "noise": "Everything else is newsletters and promos — FT, Faherty, Mandarin Oriental, two language-learning pitches, a Todoist digest, and the St. Pete local sends.",
+    "noise": "The rest is travel admin — Kiwi flight confirmations and the Toronto Airbnb for Nov 2–5 — plus a St. Pete newsletter.",
     "clear": ""
   },
   "resolved": [
-    "Toronto trip locked in — the Airbnb loft and Kiwi flights for Nov 2–5 both came through confirmed."
+    {
+      "tag": "Job search",
+      "title": "Brunswick interviews scheduled",
+      "detail": "Erika Maass locked in both Teams calls — Jonathan Doorley on Oct 27 at 10am and Christian Buss at 1:30pm; invites are on your calendar."
+    },
+    {
+      "tag": "Scheduled",
+      "title": "ICGN planning call set",
+      "detail": "The Plenary 7 planning call landed on Fri Oct 23, 7:30–8:30 ET after the group settled availability this week."
+    }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Portland, Maine",
+    "location": "St. Petersburg, FL",
     "confidence": "low",
     "asOf": "Saturday Oct 17"
   },
@@ -54,15 +73,21 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Place the Portland house order (king bedframe + outdoor shower soap holder)",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "To-dos",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -74,15 +99,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning — nothing is scheduled."
+      "line": "Nothing on the calendar until tomorrow — the morning is free for the decisions that have been waiting."
     },
     {
       "time": "Afternoon",
-      "line": "The day stays open; no meetings land at all."
+      "line": "An open stretch: the Christmas SUV and the December trip are the two that bite if they keep sliding."
     },
     {
       "time": "Evening",
-      "line": "A quiet evening before the week restarts tomorrow."
+      "line": "Tomorrow opens with the 15-minute Sunday review with Mike at 9 — a quiet evening to line up what the board should chase."
     }
   ],
   "japanese": {
