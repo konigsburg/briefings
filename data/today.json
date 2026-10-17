@@ -1,67 +1,63 @@
 {
   "date": "Saturday, October 17, 2026",
-  "generatedAt": "Morning brief · 6:06 PM ET",
-  "theme": "An open Saturday before the week turns over.",
-  "greeting": "The calendar's clear today, Dan — nothing booked. A good window to clear the car-and-holiday travel backlog before the girls arrive tomorrow and the Sunday review opens the week.",
+  "generatedAt": "Morning brief · 6:11 PM ET",
+  "theme": "Open calendar, a few windows quietly closing.",
+  "greeting": "A clear Saturday, Dan, with the girls still at Jen's through the handoff tomorrow. Nothing on the calendar makes this a good evening to close the travel bookings that keep sliding before the morning review.",
   "needsAttention": [
     {
       "tag": "Window closing",
-      "title": "Pathfinder drive south",
-      "detail": "The Portland -> St Pete drive window (Oct 5-18) closes tomorrow. It's an overdue board item and the last gap before the girls are back, so if it hasn't happened it needs a call today."
+      "title": "Drive the Pathfinder south",
+      "detail": "The Oct 5–18 window to drive the Pathfinder Portland to St Pete closes this weekend. Miss it and the car's stuck north, or it's another rental cycle to bridge the gap."
     },
     {
-      "tag": "Overdue - p1",
+      "tag": "Overdue · p1",
       "title": "Maine Christmas SUV rental",
-      "detail": "Unbooked since mid-September. A refundable full-size SUV out of Portland for Christmas week sells out early; holding one now costs nothing and removes the risk."
-    },
-    {
-      "tag": "Date passed",
-      "title": "December break destination",
-      "detail": "Book-by was Oct 15, now behind you. Pick the domestic shortlist and lock three weeks for all four kids before holiday inventory thins further."
+      "detail": "Unbooked since mid-September. A full-size SUV out of Portland over Christmas week is the tightest rental in that market — book it refundable now before the holiday inventory is gone."
     },
     {
       "tag": "Job search",
-      "title": "Reply to Amin at CIFIC",
-      "detail": "Amin Noorani followed up after your call about the VP, Government Relations & Regulatory Affairs role. The thread is read but still unanswered."
+      "title": "CIFIC VP role — reply owed",
+      "detail": "Amin at Noorani + Partners followed up warmly on the VP, Government Relations & Regulatory Affairs search and asked if you'd like to explore it. A short reply keeps it live."
     },
     {
-      "tag": "Tomorrow prep",
-      "title": "Sunday review with Mike",
-      "detail": "9:00 AM tomorrow, the 15-minute board sweep. A glance at the 'Dan & Mike Stuff' board tonight means you open with what's actually active."
+      "tag": "Prep · tomorrow",
+      "title": "Sunday review at 9",
+      "detail": "Tomorrow opens with the 15-minute board review with Mike — the overdue travel items here are exactly what it exists to chase. Worth deciding tonight which to promote and which to kill."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Brunswick interviews set",
-        "detail": "Erika Maass locked Teams interviews for Oct 27 — Jonathan Doorley at 10am, Christian Buss at 1:30pm."
-      },
-      {
-        "tag": "Financial",
-        "title": "Morgan Stanley savings",
-        "detail": "Repeat reminders to fund the new Signature Savings account; worth confirming the real funding deadline."
+        "tag": "FYI",
+        "title": "ICGN Plenary 7 planning call set",
+        "detail": "Claudia at ICGN set the Toronto Plenary 7 planning call for Fri Oct 23, 7:30–8:30 ET; session outlines are in your inbox to review beforehand."
       },
       {
         "tag": "Health",
-        "title": "Provider portal message",
-        "detail": "A new message from your clinician is waiting in the Healow patient portal."
+        "title": "Message from your provider",
+        "detail": "A new message is waiting in the Healow patient portal."
       },
       {
         "tag": "FYI",
-        "title": "ICGN Plenary 7 outlines",
-        "detail": "Claudia Rossetti sent the session outlines to review before the Oct 23 planning call."
+        "title": "Toronto trip confirmed",
+        "detail": "Airbnb loft and flights are booked for Nov 2–5, lining up with the ICGN conference."
       }
     ],
-    "noise": "LinkedIn job alerts (incl. a Cohere policy-lead role), Airbnb promos, a St Pete newsletter, and Toronto travel confirmations.",
-    "clear": "Brunswick interviews and the Nov 2-5 Toronto trip are both booked and off your plate."
+    "noise": "A Morgan Stanley savings-funding reminder, a LinkedIn jobs digest, and the usual booking confirmations.",
+    "clear": "Nothing else is sitting on your reply."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Job search",
+      "title": "Brunswick interviews locked in",
+      "detail": "Erika Maass confirmed both Oct 27 slots — Jonathan Doorley at 10, Christian Buss at 1:30 — and the Teams invites are set. Nothing owed."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St Petersburg, FL",
+    "location": "Maine",
     "confidence": "low",
     "asOf": "Saturday Oct 17"
   },
@@ -72,21 +68,21 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Household",
+      "title": "Shortlist December break destinations",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Personal",
-      "due": "Overdue Aug 15",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + shower holder",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
@@ -98,15 +94,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the morning is entirely yours."
+      "line": "Nothing on the books — the day opened entirely free."
     },
     {
       "time": "Afternoon",
-      "line": "A long open stretch, well suited to the travel and household decisions that have been idling on the board."
+      "line": "An open stretch, the kind that fits the travel bookings that keep sliding."
     },
     {
       "time": "Evening",
-      "line": "A quiet last night before tomorrow's handoff brings a full house back in."
+      "line": "Tomorrow starts with the 9 AM review; a glance at the board tonight sets it up."
     }
   ],
   "japanese": {
