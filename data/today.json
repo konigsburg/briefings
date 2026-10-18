@@ -1,74 +1,65 @@
 {
   "date": "Sunday, October 18, 2026",
   "generatedAt": "Morning brief · 12:07 PM ET",
-  "theme": "An open Sunday with a long road in it.",
-  "greeting": "Quiet Sunday, Dan — this morning's 15-minute review with Mike was the one fixed thing, and the rest of the day is wide open. A new girl-week begins this cycle, so the house fills back up before long.",
+  "theme": "An open Sunday with a full week incoming.",
+  "greeting": "The calendar's nearly empty today, Dan — just the morning board review, now done. The quiet is the opening: a few travel bookings have been waiting, and the household fills back up tonight.",
   "needsAttention": [
     {
-      "tag": "Window today",
-      "title": "The Pathfinder's drive south",
-      "detail": "The Oct 5–18 window you'd set to move the Pathfinder down to St Pete closes today. Once the dates are fixed, the hotel night is the last piece of it."
+      "tag": "Window closing",
+      "title": "Pathfinder drive south ends today",
+      "detail": "The Oct 5–18 off-week window for driving the Pathfinder Portland → St Pete closes today. It's the [BOTH] item on the Mike + Dan board that replaces a flight, not adds one."
     },
     {
       "tag": "Overdue · p1",
-      "title": "The Maine Christmas SUV",
-      "detail": "Your one p1, a month past its date. A full-size SUV out of Portland over Christmas week is the hardest rental in that market — thin inventory, holiday pricing, and it sells out. A refundable hold costs nothing and takes the risk off the table."
-    },
-    {
-      "tag": "Decision overdue",
-      "title": "December break destination",
-      "detail": "The Oct 15 booking date has passed. Six people over three weeks across the holidays is the thinnest inventory of the year; the open question is still domestic-and-done versus refundable-international."
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "The p1 board task to hold a refundable full-size SUV out of Portland for Christmas week has been open since mid-September. Holiday inventory at PWM is the thinnest of the year — a refundable hold now costs nothing and removes the risk."
     },
     {
       "tag": "Job search",
-      "title": "The CIFIC role from Amin",
-      "detail": "Amin Noorani sent the VP, Government Relations & Regulatory Affairs job description and is waiting to hear whether it's worth exploring. It's sat since Wednesday."
+      "title": "CIFIC VP role awaiting your reply",
+      "detail": "Amin Noorani at Noorani + Partners wrote Oct 15 about the VP, Government Relations & Regulatory Affairs search at CIFIC and offered to discuss further if you want to explore it. No reply has gone back yet."
+    },
+    {
+      "tag": "Book-by passed",
+      "title": "December break still undecided",
+      "detail": "The p2 board task to shortlist three December-break destinations had a decide-by of Sept 30 and a book-by of Oct 15 — both now past. Six people over three weeks of holiday inventory gets thinner by the day."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
-      "title": "Sunday review with Mike",
-      "detail": "15-min board reset — owners and dates on everything",
-      "tag": "done"
-    },
-    {
-      "time": "12:00 PM",
-      "title": "Heritage Home Service",
-      "detail": "Service window opens at the Portland house",
-      "tag": "home"
+      "title": "Sunday review — Mike + Dan",
+      "detail": "The 15-min board sweep (done)",
+      "tag": "Board"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Security",
-        "title": "A shared-document email to verify",
-        "detail": "A 'document shared with you' note points to a non-Google domain and went out bcc to undisclosed recipients — worth a careful look before the link."
+        "title": "Suspicious document-share",
+        "detail": "A 'document shared with you' note from a Fran Philip address points to a non-Google link and went out to undisclosed recipients — classic phishing shape. Don't click; verify with Fran directly if it's real."
       },
       {
         "tag": "Financial",
-        "title": "Morgan Stanley savings account",
-        "detail": "A 'final reminder' to fund your new Signature Savings account, framed as a closing window."
+        "title": "Morgan Stanley savings-account reminder",
+        "detail": "A 'final reminder' to fund the new Signature Savings account. Worth a look if the account is real and you meant to fund it."
       }
     ],
-    "noise": "The rest is retail and travel promos — Delta, United miles, Airbnb, linen and bedding sales.",
+    "noise": "Several travel confirmations sitting unread — Airbnb (Toronto, Nov 2–5) and Kiwi.com booking 856468327.",
     "clear": ""
   },
   "resolved": [
     {
-      "title": "Brunswick interviews locked in",
-      "detail": "Two Teams calls set for Oct 27 — Jonathan Doorley at 10:00, Christian Buss at 1:30 — after you confirmed and Erika sent the invites."
-    },
-    {
-      "title": "Toronto trip is booked",
-      "detail": "The Nov 2–5 Airbnb loft is confirmed and the flights are ticketed through Kiwi — all in hand."
+      "tag": "Job search",
+      "title": "Brunswick interviews locked for Oct 27",
+      "detail": "Erika Maass confirmed both Teams meetings — Jonathan 10am, Christian 1:30pm on Oct 27. Invites are in; nothing owed until then."
     }
   ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Portland, Maine",
+    "location": "St Petersburg, FL",
     "confidence": "low",
     "asOf": "Sunday Oct 18"
   },
@@ -80,34 +71,40 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Dan & Mike",
+      "title": "Portland house order — bedframe + outdoor soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
-    "day": "0/6",
+    "morning": "0/10",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The 15-minute review with Mike reset the week's board — the one fixed thing before the day opened up."
+      "line": "The 15-minute board review with Mike was the only fixed thing on the calendar, and it's already behind you."
     },
     {
-      "time": "Midday",
-      "line": "A service window opens at the Portland house around noon; the afternoon is otherwise unclaimed."
+      "time": "Afternoon",
+      "line": "Nothing is scheduled after the morning — the open stretch is yours for the bookings that keep slipping."
     },
     {
       "time": "Evening",
-      "line": "A new girl-week begins and the household fills back up for the stretch ahead."
+      "line": "The off-week ends: the household fills back up around the usual Sunday handoff tonight."
     }
   ],
   "japanese": {
