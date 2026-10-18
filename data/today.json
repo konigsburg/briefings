@@ -1,60 +1,52 @@
 {
   "date": "Sunday, October 18, 2026",
   "generatedAt": "Morning brief · 8:05 AM ET",
-  "theme": "An open Sunday, and the girls come home tonight.",
-  "greeting": "One fifteen-minute board review with Mike at nine, Dan, and then the day is wide open. It's a handoff Sunday — the girls come back to you and Mike this evening, so the quiet won't last.",
+  "theme": "One short review, a long open day, and a board that needs decisions.",
+  "greeting": "A wide-open Sunday with only the nine-o'clock board review on it, Dan — and that review is the moment to finally close the Christmas rental and the December trip, both now past their book-by dates. The girls come back this evening.",
   "needsAttention": [
     {
       "tag": "Job search",
-      "title": "Recruiter waiting on your CIFIC answer",
-      "detail": "Amin Noorani of Noorani + Partners followed up Oct 15 on the VP, Government Relations & Regulatory Affairs search at CIFIC and said he'd 'be happy to discuss it further should you wish to consider it' — still unread, no reply sent."
+      "title": "Reply to Amin on the CIFIC VP role",
+      "detail": "Amin Noorani (Noorani + Partners) wrote Wednesday about the VP, Government Relations & Regulatory Affairs search at CIFIC and offered to talk it through whenever you want. Squarely your capital-markets and regulatory lane; awaiting your reply."
     },
     {
-      "tag": "Book now",
-      "title": "Maine Christmas SUV still isn't booked",
-      "detail": "Your p1 item on the Mike + Dan board has sat since Sept 14: a refundable full-size SUV out of Portland for Christmas week, the hardest rental in that market over the holidays. The 9 AM review is the moment to finally hold it."
+      "tag": "Board · p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "p1 and ~5 weeks overdue. A full-size SUV out of Portland over Christmas week sells out — a refundable hold costs nothing and removes the risk."
     },
     {
-      "tag": "Decide today",
-      "title": "December break is past its book-by",
-      "detail": "The p2 board item set a decide-by of Sept 30 and a book-by of Oct 15, now three days gone, for all four girls over a 21-day window. Settle domestic vs. international at the review before inventory for six thins out."
+      "tag": "Window closes",
+      "title": "Decide and book the December trip",
+      "detail": "Decide-by (Sept 30) and book-by (Oct 15) both passed. Three weeks, six people, over the holidays — thinnest inventory of the year; the board default is go domestic unless someone wants international."
     },
     {
-      "tag": "Closes today",
-      "title": "Pathfinder drive window ends today",
-      "detail": "The Oct 5-18 window to bring the Pathfinder down from Portland to St. Pete closes today — it's the only Maine car that seats all six, and the girls are back with you tonight."
+      "tag": "Window closes",
+      "title": "Close out the Pathfinder drive south",
+      "detail": "The Oct 5–18 window to move the Pathfinder Portland→St Pete ends today — confirm it's done or settle it at the review; it's what kills the monthly rental spend."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "Fifteen minutes to clear what's slipped and promote this week's work.",
-      "tag": "meeting"
+      "detail": "Clear the board, own and date everything — 15 min",
+      "tag": "review"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Brunswick interviews locked for Oct 27",
-        "detail": "Two Teams calls are confirmed: Jonathan Doorley at 10am, Christian Buss at 1:30pm, Oct 27."
-      },
-      {
-        "tag": "Security",
-        "title": "Dropbox over its storage limit",
-        "detail": "Dropbox warns files get deleted after Oct 25 unless you free space or upgrade."
-      },
-      {
-        "tag": "Financial",
-        "title": "Morgan Stanley account to fund",
-        "detail": "A reminder to make the initial deposit on your new Signature Savings account."
+        "title": "CIFIC VP role — recruiter reply awaited",
+        "detail": "Amin Noorani's note on the VP, Government Relations & Regulatory Affairs search has sat since Wednesday."
       }
     ],
-    "noise": "The rest is newsletters and promotions — Breeze, Airbnb, a Japanese color book, Italian word-of-the-week, local St. Pete listings.",
-    "clear": "Nothing else is waiting on your reply."
+    "noise": "Otherwise promos and newsletters — Mattress Firm, Faherty, an Airbnb promo, a Cookbooktober note from Cookshelf.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    "Toronto trip locked in — the Nov 2–5 photo-studio loft is confirmed on Airbnb and the flights are booked and paid."
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -65,19 +57,19 @@
   "recipe": {
     "title": "Borlotti beans with sautéed baby kale",
     "book": "Canal House Cooks Every Day",
-    "why": "A slow, autumn pot of beans and greens — exactly the kind of from-scratch comfort that fits a cool October Sunday evening."
+    "why": "A slow pot of beans and greens for a cool October Sunday — from-scratch comfort for the first full house back together."
   },
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 30",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
