@@ -1,97 +1,88 @@
 {
-  "lessonNo": 237,
-  "date": "Friday, Oct 16",
-  "generatedAt": "Lesson #237 · Oct 16",
-  "theme": "Even though / but — ～のに・～けど",
-  "intro": "Two ways to join a clause you didn't expect: ～のに adds surprise or frustration, while ～けど is a plain, conversational 'but'.",
+  "lessonNo": 238,
+  "date": "Sunday, Oct 18",
+  "generatedAt": "Lesson #238 · Oct 18",
+  "theme": "Noun-modifying (relative) clauses — describing a noun with a whole clause",
+  "intro": "Attach a whole sentence in front of a noun to say things like 'the book I bought' or 'the restaurant my friend recommended.'",
   "grammar": {
-    "title": "～のに and ～けど",
+    "title": "Noun-modifying (relative) clauses",
     "rules": [
       {
-        "label": "Verbs & い-adjectives",
-        "detail": "Attach to the plain form (present or past).",
+        "label": "Clause goes BEFORE the noun",
+        "detail": "English puts the describing part after the noun; Japanese puts a plain-form clause directly in front of it.",
         "examples": [
-          "行く → 行くのに / 行くけど (even though/but I go)",
-          "高い → 高いのに / 高いけど (even though/but it's expensive)"
+          "父が作った料理 → chichi ga tsukutta ryōri (the food my dad made)"
         ]
       },
       {
-        "label": "な-adjectives & nouns",
-        "detail": "のに takes な; けど keeps だ.",
+        "label": "Verb stays plain form",
+        "detail": "Use plain form (作った, 読む, 住んでいる), never です/ます, right before the noun.",
         "examples": [
-          "べんり → べんりなのに / べんりだけど",
-          "学生 → 学生なのに / 学生だけど"
+          "昨日泊まったホテル → kinō tomatta hoteru (the hotel I stayed at yesterday)"
         ]
       },
       {
-        "label": "～のに",
-        "detail": "'Even though / and yet' — carries emotion: surprise, disappointment, complaint.",
+        "label": "Subject takes が (or の)",
+        "detail": "The subject inside the clause is marked with が, not は — and casually が often becomes の.",
         "examples": [
-          "高いのに、おいしくない → Even though it's pricey, it's not good (grr)"
-        ]
-      },
-      {
-        "label": "～けど",
-        "detail": "'But / although' — neutral contrast, like が but conversational; can follow polite form too.",
-        "examples": [
-          "行きますけど → but I'll go"
+          "私が住んでいる町 = 私の住んでいる町 → the town where I live"
         ]
       }
     ],
-    "bigPoint": "Use のに only when the second clause states a fact or feeling — never a request, command, or invitation. For those, switch to けど: 近いけど、歩きましょう。"
+    "bigPoint": "No の or 'that' glue between the clause and the noun — the clause sits straight against it, and it can be any tense or polarity (読む本 / 読んだ本 / 読んでいる本 / 読まない本)."
   },
   "vocab": [
     {
-      "jp": "高い（たかい）",
-      "romaji": "takai",
-      "en": "expensive; high"
+      "jp": "作る（つくる）",
+      "romaji": "tsukuru",
+      "en": "to make"
     },
     {
-      "jp": "安い（やすい）",
-      "romaji": "yasui",
-      "en": "cheap"
+      "jp": "住む（すむ）",
+      "romaji": "sumu",
+      "en": "to live, reside"
     },
     {
-      "jp": "便利（べんり）",
-      "romaji": "benri",
-      "en": "convenient"
+      "jp": "泊まる（とまる）",
+      "romaji": "tomaru",
+      "en": "to stay overnight"
     },
     {
-      "jp": "近い（ちかい）",
-      "romaji": "chikai",
-      "en": "near / close"
+      "jp": "勧める（すすめる）",
+      "romaji": "susumeru",
+      "en": "to recommend"
     },
     {
-      "jp": "遠い（とおい）",
-      "romaji": "tooi",
-      "en": "far"
+      "jp": "有名（ゆうめい）",
+      "romaji": "yūmei",
+      "en": "famous (な-adjective)"
     },
     {
-      "jp": "予約（よやく）",
-      "romaji": "yoyaku",
-      "en": "reservation"
+      "jp": "店（みせ）",
+      "romaji": "mise",
+      "en": "shop, store, restaurant"
     }
   ],
   "examples": [
     {
-      "jp": "たかいのに、おいしくない。",
-      "romaji": "Takai noni, oishikunai.",
-      "en": "Even though it's expensive, it's not tasty."
+      "jp": "これは父が作った料理です。",
+      "romaji": "Kore wa chichi ga tsukutta ryōri desu.",
+      "en": "This is the food my father made."
     },
     {
-      "jp": "えきは ちかいけど、バスで 行きます。",
-      "romaji": "Eki wa chikai kedo, basu de ikimasu.",
-      "en": "The station is close, but I'll go by bus."
+      "jp": "昨日泊まったホテルはとても静かでした。",
+      "romaji": "Kinō tomatta hoteru wa totemo shizuka deshita.",
+      "en": "The hotel I stayed at last night was very quiet."
     },
     {
-      "jp": "よやくしたのに、せきが なかった。",
-      "romaji": "Yoyaku shita noni, seki ga nakatta.",
-      "en": "Even though I made a reservation, there were no seats."
+      "jp": "友達が勧めた店に行きたいです。",
+      "romaji": "Tomodachi ga susumeta mise ni ikitai desu.",
+      "en": "I want to go to the restaurant my friend recommended."
     }
   ],
-  "note": "のに often ends a sentence on its own as a soft complaint — 予約したのに…！ ('But I made a reservation…!'). Remember the な after a な-adjective or noun before のに (べんりなのに), but だ before けど (べんりだけど).",
+  "note": "Using が (not は) inside the clause keeps the focus on the noun: 田中さんが作った料理 describes the FOOD, while 田中さんは… would start a new sentence about Tanaka. In casual speech that が often turns into の.",
   "selfCheck": {
-    "q": "How would you say: \"Even though it's convenient, it's expensive.\"",
-    "a": "べんりなのに、たかいです。 (Benri na noni, takai desu.) — note the な after べんり before のに."
+    "q": "Say in Japanese: 'The town where I live is small.' (use 住む; 小さい = small)",
+    "a": "私が住んでいる町は小さいです。(Watashi ga sunde iru machi wa chiisai desu.) — the clause 私が住んでいる sits right in front of 町. Casual: 私の住んでいる町は小さい。"
   }
 }
