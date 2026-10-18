@@ -1,38 +1,38 @@
 {
-  "date": "Sun, Oct 11",
+  "date": "Sun, Oct 18",
   "region": "NH Seacoast · zone 6a",
-  "generatedAt": "Weekly · Oct 11",
-  "headline": "Beat the first frost this week—harvest tomatoes, peppers, squash and basil before a killing frost lands.",
+  "generatedAt": "Weekly · Oct 18",
+  "headline": "Harvest the last tender crops now — a killing frost can hit the Seacoast any night this week.",
   "tasks": [
     {
       "tag": "Harvest",
-      "title": "Rescue warm-season crops",
-      "detail": "Zone 6a's first killing frost usually arrives mid-October, so pick all tomatoes (ripe and blush), peppers, summer/winter squash, beans and basil now. Ripen green tomatoes indoors on a counter or in a paper bag."
+      "title": "Pull tomatoes, peppers, squash, basil before a hard frost",
+      "detail": "Mid-October is first-frost time on the Seacoast, and 28°F or below will finish tender crops overnight. Pick everything, including green tomatoes (ripen them indoors on a counter), and cut basil before it blackens."
     },
     {
       "tag": "Sow now",
       "title": "Plant garlic",
-      "detail": "Mid-to-late October is prime for zone 6a. Break a head into cloves and plant pointy-end up, 2–3 inches deep and 6 inches apart in a sunny bed, then top with a few inches of straw mulch."
+      "detail": "Now through early November is the prime window. Split a head into cloves, plant pointy-end up 2-3 inches deep and 6 inches apart, then top with a few inches of straw or leaf mulch for next July's harvest."
     },
     {
       "tag": "Harvest",
-      "title": "Leave the frost-sweeteners",
-      "detail": "Don't rush kale, Brussels sprouts, carrots, parsnips and leeks—a light frost makes them noticeably sweeter. Keep harvesting as you need them; they'll hold in the ground for weeks."
+      "title": "Leave kale, carrots, and Brussels sprouts for the cold",
+      "detail": "These hardy crops actually get sweeter after a light frost, so don't rush them. Keep picking as you need them — they'll hold in the ground for weeks yet."
     },
     {
       "tag": "Prep",
       "title": "Plant spring bulbs",
-      "detail": "Now through early November is the window for daffodils, tulips, crocus and alliums. Plant roughly three times as deep as the bulb is tall, pointy-end up, in well-drained soil for color next spring."
-    },
-    {
-      "tag": "Prune",
-      "title": "Clear spent plants",
-      "detail": "Pull finished annual veggies and pull or cut back anything with mildew, blight or spots. Trash or bin diseased foliage—don't compost it—to keep fungal problems from overwintering in your beds."
+      "detail": "Get daffodils, tulips, and crocus in the ground before it freezes hard, roughly 2-3 times as deep as the bulb is tall, pointy-end up. They need these cool weeks to root for a spring show."
     },
     {
       "tag": "Prep",
-      "title": "Put empty beds to bed",
-      "detail": "Mulch cleared beds with shredded leaves or straw, or sow a quick cover crop like winter rye if time allows. Keep a floating row cover handy to shield any tender crops if a frost night threatens before you've harvested."
+      "title": "Clean up spent beds",
+      "detail": "Pull finished plants and clear fallen leaves and fruit. Compost healthy material, but bag or trash anything with mildew, blight, or spots so disease doesn't overwinter in the soil."
+    },
+    {
+      "tag": "Prep",
+      "title": "Mulch beds and drain the hoses",
+      "detail": "Spread a few inches of shredded leaves or straw over cleared beds to protect the soil, and disconnect and drain hoses before the first hard freeze so they don't split."
     }
   ]
 }
