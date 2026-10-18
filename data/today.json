@@ -1,56 +1,74 @@
 {
   "date": "Sunday, October 18, 2026",
-  "generatedAt": "Morning brief · 10:08 AM ET",
-  "theme": "One short review, a long open day, and a board that needs decisions.",
-  "greeting": "A wide-open Sunday with only the nine-o'clock board review on it, Dan — and that review is the moment to finally close the Christmas rental and the December trip, both now past their book-by dates. The girls come back this evening.",
+  "generatedAt": "Morning brief · 10:13 AM ET",
+  "theme": "An open Sunday with a long road in it.",
+  "greeting": "Quiet Sunday, Dan — this morning's 15-minute review with Mike was the one fixed thing, and the rest of the day is wide open. A new girl-week begins this cycle, so the house fills back up before long.",
   "needsAttention": [
     {
+      "tag": "Window today",
+      "title": "The Pathfinder's drive south",
+      "detail": "The Oct 5–18 window you'd set to move the Pathfinder down to St Pete closes today. Once the dates are fixed, the hotel night is the last piece of it."
+    },
+    {
+      "tag": "Overdue · p1",
+      "title": "The Maine Christmas SUV",
+      "detail": "Your one p1, a month past its date. A full-size SUV out of Portland over Christmas week is the hardest rental in that market — thin inventory, holiday pricing, and it sells out. A refundable hold costs nothing and takes the risk off the table."
+    },
+    {
+      "tag": "Decision overdue",
+      "title": "December break destination",
+      "detail": "The Oct 15 booking date has passed. Six people over three weeks across the holidays is the thinnest inventory of the year; the open question is still domestic-and-done versus refundable-international."
+    },
+    {
       "tag": "Job search",
-      "title": "Reply to Amin on the CIFIC VP role",
-      "detail": "Amin Noorani (Noorani + Partners) wrote Wednesday about the VP, Government Relations & Regulatory Affairs search at CIFIC and offered to talk it through whenever you want. Squarely your capital-markets and regulatory lane; awaiting your reply."
-    },
-    {
-      "tag": "Board · p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "p1 and ~5 weeks overdue. A full-size SUV out of Portland over Christmas week sells out — a refundable hold costs nothing and removes the risk."
-    },
-    {
-      "tag": "Window closes",
-      "title": "Decide and book the December trip",
-      "detail": "Decide-by (Sept 30) and book-by (Oct 15) both passed. Three weeks, six people, over the holidays — thinnest inventory of the year; the board default is go domestic unless someone wants international."
-    },
-    {
-      "tag": "Window closes",
-      "title": "Close out the Pathfinder drive south",
-      "detail": "The Oct 5–18 window to move the Pathfinder Portland→St Pete ends today — confirm it's done or settle it at the review; it's what kills the monthly rental spend."
+      "title": "The CIFIC role from Amin",
+      "detail": "Amin Noorani sent the VP, Government Relations & Regulatory Affairs job description and is waiting to hear whether it's worth exploring. It's sat since Wednesday."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "Clear the board, own and date everything — 15 min",
-      "tag": "review"
+      "detail": "15-min board reset — owners and dates on everything",
+      "tag": "done"
+    },
+    {
+      "time": "12:00 PM",
+      "title": "Heritage Home Service",
+      "detail": "Service window opens at the Portland house",
+      "tag": "home"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "CIFIC VP role — recruiter reply awaited",
-        "detail": "Amin Noorani's note on the VP, Government Relations & Regulatory Affairs search has sat since Wednesday."
+        "tag": "Security",
+        "title": "A shared-document email to verify",
+        "detail": "A 'document shared with you' note points to a non-Google domain and went out bcc to undisclosed recipients — worth a careful look before the link."
+      },
+      {
+        "tag": "Financial",
+        "title": "Morgan Stanley savings account",
+        "detail": "A 'final reminder' to fund your new Signature Savings account, framed as a closing window."
       }
     ],
-    "noise": "Otherwise promos and newsletters — Mattress Firm, Faherty, an Airbnb promo, a Cookbooktober note from Cookshelf.",
+    "noise": "The rest is retail and travel promos — Delta, United miles, Airbnb, linen and bedding sales.",
     "clear": ""
   },
   "resolved": [
-    "Toronto trip locked in — the Nov 2–5 photo-studio loft is confirmed on Airbnb and the flights are booked and paid."
+    {
+      "title": "Brunswick interviews locked in",
+      "detail": "Two Teams calls set for Oct 27 — Jonathan Doorley at 10:00, Christian Buss at 1:30 — after you confirmed and Erika sent the invites."
+    },
+    {
+      "title": "Toronto trip is booked",
+      "detail": "The Nov 2–5 Airbnb loft is confirmed and the flights are ticketed through Kiwi — all in hand."
+    }
   ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "Portland, Maine",
     "confidence": "low",
     "asOf": "Sunday Oct 18"
   },
@@ -62,40 +80,34 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sept 25",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sept 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/3",
+    "morning": "0/9",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "One fifteen-minute review with Mike at nine, then the morning opens up."
+      "line": "The 15-minute review with Mike reset the week's board — the one fixed thing before the day opened up."
     },
     {
-      "time": "Afternoon",
-      "line": "Nothing on the calendar — the long, unhurried middle of a Sunday."
+      "time": "Midday",
+      "line": "A service window opens at the Portland house around noon; the afternoon is otherwise unclaimed."
     },
     {
       "time": "Evening",
-      "line": "The handoff lands around six; the house fills back up with the girls."
+      "line": "A new girl-week begins and the household fills back up for the stretch ahead."
     }
   ],
   "japanese": {
