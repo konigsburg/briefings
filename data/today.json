@@ -1,13 +1,13 @@
 {
   "date": "Sunday, October 18, 2026",
-  "generatedAt": "Morning brief · 4:06 PM ET",
+  "generatedAt": "Morning brief · 4:11 PM ET",
   "theme": "An open Sunday before the house fills back up.",
   "greeting": "The board review with Mike is done and the calendar is clear, Dan — a rare open Sunday. The girls arrive this evening, so the quiet afternoon is yours to spend on the few things that have been waiting.",
   "needsAttention": [
     {
       "tag": "Job search",
       "title": "Reply to the CIFIC recruiter",
-      "detail": "Amin Noorani at Noorani + Partners is running a VP, Government Relations & Regulatory Affairs search for CIFIC and asked to discuss it if it interests you. His note has sat unanswered since Wednesday."
+      "detail": "Amin Noorani at Noorani + Partners is running a VP, Government Relations & Regulatory Affairs search for CIFIC and asked to discuss it if it interests you. His note, with the JD attached, has sat unanswered since Wednesday."
     },
     {
       "tag": "Overdue p1",
@@ -43,8 +43,8 @@
       },
       {
         "tag": "Financial",
-        "title": "Morgan Stanley savings account",
-        "detail": "A reminder that your new Signature Savings account still needs its initial deposit."
+        "title": "Fund the new Signature Savings account",
+        "detail": "Morgan Stanley Private Bank has sent repeated 'final reminders' that your new Signature Savings account still needs its initial deposit."
       },
       {
         "tag": "Security",
@@ -52,14 +52,19 @@
         "detail": "A message under the name Fran Philip shares a document through an unfamiliar link to undisclosed recipients — worth verifying before opening."
       }
     ],
-    "noise": "The rest is travel admin — Airbnb for Toronto (Nov 2–5), Kiwi flight confirmations, and a couple of promos.",
+    "noise": "The rest is travel admin and job alerts — Airbnb for Toronto (Nov 2-5), a few LinkedIn role digests, and a couple of promos.",
     "clear": "Nothing else is waiting on your reply."
   },
   "resolved": [
     {
       "tag": "Job search",
       "title": "Brunswick interviews locked in",
-      "detail": "Erika Maass confirmed Teams interviews with Jonathan Doorley and Christian for Oct 27 (10:00 and 1:30); the invites are sent."
+      "detail": "Erika Maass confirmed Teams interviews with Jonathan Doorley and Christian Buss for Oct 27 (10:00 and 1:30); the invites are sent."
+    },
+    {
+      "tag": "Calendar",
+      "title": "Morgan Stanley call cancelled",
+      "detail": "Scott Lazarus cancelled your scheduled call, so that hold is off the books."
     }
   ],
   "context": {
@@ -82,7 +87,7 @@
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down (Portland → St Pete)",
+      "title": "Drive the Pathfinder down (Portland -> St Pete)",
       "project": "Mike + Dan Board",
       "due": "Window ends today · p2",
       "overdue": true
@@ -102,21 +107,21 @@
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The 15-minute board review with Mike is behind you, the week's priorities set."
+      "line": "The 15-minute reset with Mike set the board; nothing else was scheduled."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar from noon on — the open stretch is yours."
+      "line": "A clear calendar — the open stretch is yours before the house fills."
     },
     {
       "time": "Evening",
-      "line": "The girls arrive around six and the house fills back up."
+      "line": "Handoff day: the girls come back to you and Mike around six."
     }
   ],
   "japanese": {
