@@ -1,62 +1,49 @@
 {
   "date": "Monday, October 19, 2026",
-  "generatedAt": "Morning brief · 6:07 AM ET",
-  "theme": "A quiet calendar — the board's open items are the real work.",
-  "greeting": "Behind this morning's 15-minute board sweep with Mike, the calendar is empty, Dan. That leaves room to knock down the few items that keep rolling to the next Sunday — and two of them have real clocks on them.",
+  "generatedAt": "Morning brief · 6:11 AM ET",
+  "theme": "A wide-open day — nothing on the calendar.",
+  "greeting": "Good morning, Dan — the calendar is completely clear today and tomorrow. It's a rare open stretch to spend on the few things that have quietly slipped past their dates.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Hold the Maine Christmas SUV, refundable",
-      "detail": "The p1 flag on the Dan & Mike board, overdue since Sep 14. A full-size SUV out of Portland over Christmas week sells out; a refundable hold now takes the whole risk off the table."
+      "tag": "Job search",
+      "title": "CIFIC recruiter is waiting on you",
+      "detail": "Amin Noorani wrote Oct 15 that he's leading the VP, Government Relations & Regulatory Affairs search and offered to discuss it — a warm reply has been open since."
+    },
+    {
+      "tag": "Books today",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "The p1 task to reserve a refundable full-size SUV out of Portland for Christmas week is weeks overdue, and that rental is the thinnest in the market — it sells out."
     },
     {
       "tag": "Window closed",
-      "title": "Pick the December destination",
-      "detail": "Decide-by Sep 30 and book-by Oct 15 have both passed on the all-kids holiday trip. Six people over three weeks is the thinnest inventory of the year, and a domestic pick books cleanest with passports not yet in hand."
-    },
-    {
-      "tag": "Job search",
-      "title": "Write back to Amin at Noorani + Partners",
-      "detail": "The recruiter you met with on the CIFIC VP, Government Relations role — JD attached — is waiting to hear whether you want to explore it, and offered to keep you in mind for board seats. Still unanswered since Wednesday."
+      "title": "December break slipped its book-by date",
+      "detail": "The plan was to book the three-week holiday trip for all four girls by Oct 15 — now four days past, with holiday inventory for six the hardest of the year to find."
     }
   ],
-  "schedule": [
-    {
-      "time": "9:00 AM",
-      "title": "Sunday board review with Mike",
-      "detail": "15-min sweep — owners, dates, chase what's waiting",
-      "tag": "board"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "LinkedIn flagged a Chainalysis gov-affairs lead",
-        "detail": "A Head of US Government Affairs opening surfaced in your job alerts — worth a look given the role."
+        "tag": "Health",
+        "title": "A provider message is waiting",
+        "detail": "Your clinician left a note in the Healow patient portal on Oct 16."
       },
       {
         "tag": "FYI",
-        "title": "Laurence sent memoir pages",
-        "detail": "'Scribbles,' shared after your call to get you started."
+        "title": "Independent Managers Club call forming",
+        "detail": "Mike Lubrano and the Tokyo group are setting a meeting for the week of Nov 2; you're cc'd."
       }
     ],
-    "noise": "An AppleCare+ receipt, travel confirmations, an NYPL events digest and a class-notes newsletter — nothing that needs you.",
+    "noise": "The rest is newsletters, LinkedIn job alerts, travel confirmations, and St. Pete real-estate listings.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Booked",
-      "title": "Toronto trip is set for Nov 2–5",
-      "detail": "The Airbnb studio loft and your flights both came back confirmed over the weekend."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "low",
-    "asOf": "Sunday Oct 18"
+    "asOf": "Monday Oct 19"
   },
   "recipe": {
     "title": "Apple galette",
@@ -66,25 +53,25 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Dan & Mike",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Call dermatologist to book the appt (Mike)",
-      "project": "Dan & Mike",
+      "title": "Call dermatologist for Mike's appointment",
+      "project": "Household",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -97,15 +84,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A 15-minute board review with Mike at 9 was the only thing on the calendar."
+      "line": "The calendar is empty straight through — the widest, quietest block you'll get all week."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled."
+      "line": "Still nothing booked, so the afternoon is yours to point at whatever needs real focus."
     },
     {
       "time": "Evening",
-      "line": "Clear through to the night."
+      "line": "A calm close at home with the girls, and tomorrow's calendar is just as clear."
     }
   ],
   "japanese": {
