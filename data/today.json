@@ -1,36 +1,36 @@
 {
   "date": "Monday, October 19, 2026",
   "generatedAt": "Morning brief · 12:07 PM ET",
-  "theme": "An open Monday, girls back home",
-  "greeting": "The calendar's empty today, Dan — no meetings, no handoffs, just an open Monday with the girls back in the house. The one thing worth spending the runway on is the holiday bookings that have slipped past due.",
+  "theme": "A wide-open day.",
+  "greeting": "Not a single meeting on the calendar today, Dan — a rare clear stretch, with a couple of travel bookings that have been waiting on exactly this kind of time.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "The Maine Christmas SUV is still unbooked",
-      "detail": "This is your only p1 on the board and it's been open since mid-September. A full-size SUV out of Portland over Christmas week sells out early — a refundable hold now costs nothing and takes the whole risk off the table."
+      "tag": "Travel · overdue",
+      "title": "Maine Christmas SUV still isn't booked",
+      "detail": "The p1 'book this week' task is now five weeks past due. A full-size SUV out of Portland over Christmas week is the hardest rental in that market — a refundable hold placed now costs nothing and removes the risk."
     },
     {
-      "tag": "Overdue decision",
-      "title": "December break has no destination yet",
-      "detail": "All four girls, Dec 13–Jan 2. The decide-by (Sep 30) and book-by (Oct 15) dates have both passed, and holiday inventory for six over three weeks is the thinnest of the year — pick domestic or international and book refundable."
+      "tag": "Travel · window",
+      "title": "December break is past its book-by date",
+      "detail": "Shortlist-and-decide was due Sept 30 and book-by was Oct 15, so this one is behind — and it's the thinnest holiday inventory of the year, six people over roughly three weeks."
+    },
+    {
+      "tag": "Job search",
+      "title": "CIFIC recruiter is waiting to hear back",
+      "detail": "Amin Noorani followed up Oct 15 after your call on the VP, Government Relations & Regulatory Affairs search, waiting to know whether you'd like to explore it."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "An Independent Managers Club call is forming",
-        "detail": "Mike is lining up a first conversation with the Tokyo group for the week of Nov 2; you're only cc'd and nothing's owed from you yet."
-      },
-      {
-        "tag": "FYI",
-        "title": "Laurence sent you his memoir pages",
-        "detail": "A warm personal note with writing samples 'to get you started' — already read, no deadline, worth a reply when you have a moment."
+        "tag": "Job search",
+        "title": "Board recruiter nudging you on LinkedIn",
+        "detail": "Terence Quek, who runs a CEO & board-director practice, messaged again today saying he's waiting for your response."
       }
     ],
-    "noise": "A dozen LinkedIn job alerts and retail promos landed overnight — nothing in them needs you.",
-    "clear": "Your primary inbox is otherwise quiet; nothing is awaiting a reply."
+    "noise": "Otherwise it's recruiter job-alert digests, St. Pete real-estate listing alerts, and shop promos.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -48,46 +48,37 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder down to St Pete",
-      "project": "Mike + Dan Board",
-      "due": "Window Oct 5–18 closed",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing is scheduled before noon — a clear runway with the girls in the house."
+      "line": "Nothing scheduled before noon — the morning is entirely yours.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon stays open too; no calls and no handoffs on the books."
+      "line": "Still no meetings through the afternoon; the whole stretch is unclaimed.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "A quiet evening at home — galette weather, if the oven's calling."
+      "line": "A quiet evening at home — the girls are with you and Mike this week.",
+      "tag": "home"
     }
   ],
   "japanese": {
