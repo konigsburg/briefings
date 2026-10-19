@@ -1,23 +1,23 @@
 {
   "date": "Monday, October 19, 2026",
   "generatedAt": "Morning brief · 8:08 AM ET",
-  "theme": "An open day, girls home in St. Pete.",
-  "greeting": "The calendar is clear today, Dan — a rare open stretch with the girls home. The one thing worth doing while it's quiet is answering the CIFIC recruiter.",
+  "theme": "An open day with a warm recruiter note to answer.",
+  "greeting": "The whole day is open, Dan — nothing on the calendar to steer around. The one thing worth doing is a short reply to Amin on the CIFIC search; the rest is the travel bookings that keep slipping.",
   "needsAttention": [
     {
       "tag": "Job search",
-      "title": "Amin's note on the CIFIC VP role is still unanswered",
-      "detail": "The recruiter at Noorani + Partners followed up after your virtual meeting about the VP, Government Relations & Regulatory Affairs search at CIFIC, and closed with: \"I would be happy to discuss it further should you wish to consider it.\" Four days in, no reply has gone back."
+      "title": "Reply to Amin on the CIFIC search",
+      "detail": "Amin Noorani, the executive-search partner you met virtually, wrote on the 15th with the VP, Government Relations & Regulatory Affairs mandate at CIFIC (JD attached) and is open to discussing it and to keeping you in mind for board seats. A short reply keeps a warm recruiter relationship live."
     },
     {
       "tag": "Travel booking",
-      "title": "The Maine Christmas SUV still isn't booked",
-      "detail": "Your own p1 note flagged this as the item most likely to bite — a refundable full-size SUV out of Portland for Christmas week, held early while inventory lasts. It's been open since mid-September."
+      "title": "Book the Maine Christmas SUV",
+      "detail": "The p1 item on the Mike + Dan board, overdue since Sept 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out — a refundable hold now costs nothing and removes the risk."
     },
     {
-      "tag": "December break",
-      "title": "The December destination decision is past its own deadline",
-      "detail": "Shortlist and pick for the Dec 13 – Jan 2 window with all four girls; your note set a book-by of Oct 15, now passed, and holiday inventory for six is the thinnest of the year."
+      "tag": "Travel decision",
+      "title": "Lock the December break destination",
+      "detail": "Shortlist and decide, on the board — the Oct 15 book-by date has already slipped, and holiday inventory for six over three weeks is the thinnest of the year."
     }
   ],
   "schedule": [],
@@ -25,14 +25,21 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "CIFIC VP role — recruiter follow-up",
-        "detail": "Amin Noorani's warm note with the role's job description attached, awaiting your reply."
+        "title": "CIFIC VP role — Amin Noorani",
+        "detail": "Recruiter follow-up with the job description attached; a reply is owed."
+      },
+      {
+        "tag": "Security",
+        "title": "Suspicious \"document shared\" email",
+        "detail": "A Google-Docs-style share from Fran Philip's address links to doc.ivoryhill.org with a fake Google footer and undisclosed recipients — looks like phishing. Don't click."
       }
     ],
-    "noise": "The rest is travel confirmations (Airbnb, Kiwi) and a few shop newsletters.",
+    "noise": "Otherwise just travel confirmations (Kiwi flights, Airbnb) and an alumni class-notes newsletter.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    "Toronto trip Nov 2–5 is booked — flights (Kiwi) and the Airbnb loft both confirmed over the weekend."
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -43,31 +50,31 @@
   "recipe": {
     "title": "Apple galette",
     "book": "Canal House Cooks Every Day",
-    "why": "Peak apple season — a free-form galette is the easiest way to let a bowl of autumn apples shine."
+    "why": "Peak apple season, and with the girls home in St. Pete a free-form galette is the forgiving kind of baking — a bowl of autumn apples and a single sheet of pastry, no tin to fuss over."
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + outdoor soap holder",
-      "project": "Household",
+      "title": "Place the Portland house order (bedframe + soap holder)",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Projects",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
