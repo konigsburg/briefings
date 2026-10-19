@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-10-19",
+    "kind": "Morning brief",
+    "label": "Monday, Oct 19 · 6:11 AM ET",
+    "summary": "An open calendar today and tomorrow, with a recruiter reply and two overdue holiday bookings worth clearing.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-10-18",
     "kind": "Morning brief",
     "label": "Sunday, Oct 18 · 10:06 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Sunday, Sep 20 · 10:02 PM ET",
     "summary": "Home from Croatia — landed Tampa this afternoon; girls with Jen until Tuesday's pickup, travel-booking loose ends still open.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-09-19",
-    "kind": "Morning brief",
-    "label": "Saturday, Sep 19 · 10:02 PM ET",
-    "summary": "A free last day in Cavtat before an early flight home; two Florida bookings still need locking before you land.",
     "ref": "today"
   }
 ]
