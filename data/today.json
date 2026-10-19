@@ -1,18 +1,23 @@
 {
   "date": "Monday, October 19, 2026",
   "generatedAt": "Morning brief · 6:07 PM ET",
-  "theme": "An open day, girls back home",
-  "greeting": "The whole day is open, Dan — no meetings on the calendar, just a few overdue bookings and the board search to put the hours against.",
+  "theme": "Open calendar, a few decisions waiting, girls home this week.",
+  "greeting": "Nothing's on the calendar today, Dan — the day is yours. The weight sits in a couple of bookings that have been deferred and a recruiter note worth a reply.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Your top-priority Todoist task to reserve a refundable full-size SUV out of Portland for Christmas week is a month past due — it's flagged as the one most likely to bite, since holiday inventory in that market sells out."
+      "tag": "Book now",
+      "title": "Maine Christmas SUV before it's gone",
+      "detail": "Your top Todoist item, overdue since Sep 14: a full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out. Book refundable now and adjust dates later."
     },
     {
-      "tag": "Window closing",
-      "title": "Lock the December break call",
-      "detail": "The decide-by-Sep-30, book-by-Oct-15 task for the 21-day December trip with all four girls is past both dates; holiday inventory for six only gets thinner from here."
+      "tag": "Job search",
+      "title": "CIFIC recruiter awaiting your reply",
+      "detail": "Amin Noorani at Noorani + Partners followed up Oct 15 on a VP, Government Relations & Regulatory Affairs search and offered to discuss it further. The thread is unanswered."
+    },
+    {
+      "tag": "Decide + book",
+      "title": "December break past its booking window",
+      "detail": "The decide-by Sep 30 and book-by Oct 15 dates have both passed. Six people, 21 days over the holidays is the thinnest inventory of the year, so a domestic pick booked soon is the safe move."
     }
   ],
   "schedule": [],
@@ -20,16 +25,16 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Board-search recruiter is waiting on you",
-        "detail": "A partner in a CEO & board-director search practice has a LinkedIn message still awaiting your reply — squarely relevant to the board search."
+        "title": "Board recruiter nudging on LinkedIn",
+        "detail": "Terence Quek (CEO & Board of Directors practice) flagged again today that he's waiting on a response."
       },
       {
         "tag": "Job search",
-        "title": "Unanswered LinkedIn message from Hans-Kristian",
-        "detail": "A contact named Hans-Kristian messaged you on LinkedIn and the thread is still unanswered."
+        "title": "New LinkedIn message from Hans-Kristian",
+        "detail": "Marked as awaiting your reply — worth a glance given the active search."
       }
     ],
-    "noise": "The rest is retail promos, a LinkedIn job alert, and a St. Pete local newsletter.",
+    "noise": "The rest is promotions and newsletters — Dermstore, Bloomberg, Trip.com, Ro, Airbnb, a Medallia survey.",
     "clear": ""
   },
   "resolved": [],
@@ -47,26 +52,26 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Place the Portland house order (bedframe, soap holder)",
+      "title": "Portland house order — bedframe + soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Call the dermatologist for Mike's appointment",
-      "project": "Household",
-      "due": "Overdue Aug 28",
+      "title": "Drive the Pathfinder down to St Pete",
+      "project": "Travel",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Konigsburg",
+      "project": "Admin",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -79,15 +84,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar to anchor the day — the hours are yours to spend where they matter."
+      "line": "A clear calendar top to bottom — the morning starts quiet."
     },
     {
       "time": "Afternoon",
-      "line": "An open stretch with no meetings pulling at it; good conditions for the work that needs a clear head."
+      "line": "No meetings pulling at the middle of the day; it's yours to steer."
     },
     {
       "time": "Evening",
-      "line": "The girls are back in the house — a slower, from-scratch dinner suits the first real autumn chill."
+      "line": "The girls are home with you and Mike this week — the evening leans toward family."
     }
   ],
   "japanese": {
