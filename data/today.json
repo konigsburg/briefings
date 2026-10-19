@@ -1,40 +1,35 @@
 {
   "date": "Monday, October 19, 2026",
   "generatedAt": "Morning brief · 7:07 AM ET",
-  "theme": "A wide-open day — nothing on the calendar.",
-  "greeting": "Good morning, Dan — the calendar is completely clear today and tomorrow. It's a rare open stretch to spend on the few things that have quietly slipped past their dates.",
+  "theme": "An open day, girls home in St. Pete.",
+  "greeting": "The calendar is clear today, Dan — a rare open stretch with the girls home. The one thing worth doing while it's quiet is answering the CIFIC recruiter.",
   "needsAttention": [
     {
       "tag": "Job search",
-      "title": "CIFIC recruiter is waiting on you",
-      "detail": "Amin Noorani wrote Oct 15 that he's leading the VP, Government Relations & Regulatory Affairs search and offered to discuss it — a warm reply has been open since."
+      "title": "Amin's note on the CIFIC VP role is still unanswered",
+      "detail": "The recruiter at Noorani + Partners followed up after your virtual meeting about the VP, Government Relations & Regulatory Affairs search at CIFIC, and closed with: \"I would be happy to discuss it further should you wish to consider it.\" Four days in, no reply has gone back."
     },
     {
-      "tag": "Books today",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "The p1 task to reserve a refundable full-size SUV out of Portland for Christmas week is weeks overdue, and that rental is the thinnest in the market — it sells out."
+      "tag": "Travel booking",
+      "title": "The Maine Christmas SUV still isn't booked",
+      "detail": "Your own p1 note flagged this as the item most likely to bite — a refundable full-size SUV out of Portland for Christmas week, held early while inventory lasts. It's been open since mid-September."
     },
     {
-      "tag": "Window closed",
-      "title": "December break slipped its book-by date",
-      "detail": "The plan was to book the three-week holiday trip for all four girls by Oct 15 — now four days past, with holiday inventory for six the hardest of the year to find."
+      "tag": "December break",
+      "title": "The December destination decision is past its own deadline",
+      "detail": "Shortlist and pick for the Dec 13 – Jan 2 window with all four girls; your note set a book-by of Oct 15, now passed, and holiday inventory for six is the thinnest of the year."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Health",
-        "title": "A provider message is waiting",
-        "detail": "Your clinician left a note in the Healow patient portal on Oct 16."
-      },
-      {
-        "tag": "FYI",
-        "title": "Independent Managers Club call forming",
-        "detail": "Mike Lubrano and the Tokyo group are setting a meeting for the week of Nov 2; you're cc'd."
+        "tag": "Job search",
+        "title": "CIFIC VP role — recruiter follow-up",
+        "detail": "Amin Noorani's warm note with the role's job description attached, awaiting your reply."
       }
     ],
-    "noise": "The rest is newsletters, LinkedIn job alerts, travel confirmations, and St. Pete real-estate listings.",
+    "noise": "The rest is travel confirmations (Airbnb, Kiwi) and a few shop newsletters.",
     "clear": ""
   },
   "resolved": [],
@@ -58,15 +53,9 @@
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Portland house order — king bedframe + outdoor soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist for Mike's appointment",
-      "project": "Household",
-      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
@@ -84,15 +73,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is empty straight through — the widest, quietest block you'll get all week."
+      "line": "Nothing is on the calendar before noon — the quiet is yours to spend on the thing that matters most."
     },
     {
       "time": "Afternoon",
-      "line": "Still nothing booked, so the afternoon is yours to point at whatever needs real focus."
+      "line": "The afternoon stays open too; a rare uninterrupted stretch with no meeting to break it."
     },
     {
       "time": "Evening",
-      "line": "A calm close at home with the girls, and tomorrow's calendar is just as clear."
+      "line": "The evening is clear, with the girls home — room to cook something slow from scratch."
     }
   ],
   "japanese": {
