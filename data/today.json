@@ -1,30 +1,25 @@
 {
   "date": "Tuesday, October 20, 2026",
-  "generatedAt": "Morning brief · 7:08 AM ET",
-  "theme": "A travel day, calendar clear.",
-  "greeting": "Good morning, Dan — the calendar's empty and the day belongs to the road south. One reply and a couple of long-overdue bookings are the only things quietly asking for you.",
+  "generatedAt": "Morning brief · 7:11 AM ET",
+  "theme": "An open day on the road south.",
+  "greeting": "The calendar's clear, Dan — the day belongs to the drive and whatever you make of the miles. A couple of holiday-travel bookings have waited longer than they should, and one of them gets more expensive the longer it sits.",
   "needsAttention": [
     {
-      "tag": "Job search",
-      "title": "Reply to Amin on the CIFIC search",
-      "detail": "Amin Noorani wrote Oct 15 after your call — he's leading the VP, Government Relations & Regulatory Affairs search at CIFIC and offered to take it further if you're interested. The reply is yours to send."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Your one p1 (Household), overdue since Sep 14. A full-size SUV out of Portland over Christmas is the hardest rental in that market — book it refundable now, before holiday inventory sells out."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Hold the Maine Christmas SUV",
-      "detail": "Your p1 board task to book a full-size SUV out of Portland for Christmas week has sat open since Sep 14. Holiday inventory sells out; a refundable hold now costs nothing and closes the risk."
-    },
-    {
-      "tag": "Overdue · p2",
-      "title": "Decide the December break destination",
-      "detail": "The decide-by Sep 30 and book-by Oct 15 dates have both passed on this p2 board item — six people over three weeks of holidays is the thinnest inventory of the year."
+      "tag": "Window closed",
+      "title": "December break destinations",
+      "detail": "Household, overdue since Sep 30, with the Oct 15 book-by now behind you. Shortlist and lock a destination for the 21-day break so six people over the holidays still have real options."
     }
   ],
   "schedule": [
     {
       "time": "All day",
-      "title": "Spark by Hilton, Fredericksburg",
-      "detail": "Overnight stop on the drive south",
+      "title": "On the road south",
+      "detail": "Overnight in Fredericksburg, VA; the Pathfinder headed toward Florida",
       "tag": "travel"
     }
   ],
@@ -32,27 +27,17 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two recruiter pings on LinkedIn",
-        "detail": "Terence Quek (board practice) and Hans-Kristian are both waiting on a reply."
-      },
-      {
-        "tag": "Security",
-        "title": "New ZipRecruiter sign-in",
-        "detail": "Your Google account signed in to ZipRecruiter at 3:40 AM — fine if that was you."
-      },
-      {
-        "tag": "Financial",
-        "title": "Apple receipts posted overnight",
-        "detail": "Dashlane annual ($64.99) and NYT Games renewed."
+        "title": "Independent Managers Club call",
+        "detail": "Misaki proposed Wednesday Nov 4 at 7 AM EST and sent a calendar invite — worth accepting once you're settled."
       },
       {
         "tag": "FYI",
-        "title": "Independent Managers Club call set",
-        "detail": "Misaki proposed Nov 4, 7 AM EST; you're cc'd, Mike and Chie lead."
+        "title": "ZipRecruiter account is live",
+        "detail": "Your new account went active overnight and Google confirmed the data shared; job matches should start arriving."
       }
     ],
-    "noise": "The rest is newsletters and promos — WSJ, Airbnb, Netflix, a few shops.",
-    "clear": "Inbox is otherwise quiet; nothing else awaits a reply."
+    "noise": "Everything else is newsletters, promos, and Apple receipts.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -69,32 +54,26 @@
   },
   "tasks": [
     {
-      "title": "3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down to St Pete",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist for Mike",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + shower holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
+      "title": "Call dermatologist to book appt (Mike)",
+      "project": "Household",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Dan",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -107,15 +86,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is empty — a travel day, with the road doing the work."
+      "line": "You wake in Fredericksburg with an open calendar and the interstate ahead."
     },
     {
       "time": "Afternoon",
-      "line": "Open miles on I-95; nothing pulls at your attention but the drive."
+      "line": "Nothing's scheduled — the hours are yours for the drive or a pause."
     },
     {
       "time": "Evening",
-      "line": "You check in at the Spark by Hilton in Fredericksburg, roughly the halfway mark south."
+      "line": "No meetings close the day; rest wherever the miles leave you."
     }
   ],
   "japanese": {
