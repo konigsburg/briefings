@@ -1,23 +1,23 @@
 {
   "date": "Monday, October 19, 2026",
-  "generatedAt": "Morning brief · 8:07 PM ET",
-  "theme": "Open calendar, a few decisions waiting, girls home this week.",
-  "greeting": "Nothing's on the calendar today, Dan — the day is yours. The weight sits in a couple of bookings that have been deferred and a recruiter note worth a reply.",
+  "generatedAt": "Morning brief · 8:11 PM ET",
+  "theme": "An open day before the drive to Virginia.",
+  "greeting": "A clear calendar today, Dan — no meetings from start to finish. The one thing on the horizon is tomorrow's check-in down in Fredericksburg, plus a short stack of travel bookings that have drifted well past their dates.",
   "needsAttention": [
     {
-      "tag": "Book now",
-      "title": "Maine Christmas SUV before it's gone",
-      "detail": "Your top Todoist item, overdue since Sep 14: a full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out. Book refundable now and adjust dates later."
+      "tag": "p1 · overdue",
+      "title": "Book the Maine Christmas SUV rental",
+      "detail": "Marked book-this-week back on Sept 14 and still open on the Mike + Dan board. A full-size SUV out of Portland over Christmas sells out, and a refundable hold costs nothing to place now."
     },
     {
-      "tag": "Job search",
-      "title": "CIFIC recruiter awaiting your reply",
-      "detail": "Amin Noorani at Noorani + Partners followed up Oct 15 on a VP, Government Relations & Regulatory Affairs search and offered to discuss it further. The thread is unanswered."
+      "tag": "Window closed",
+      "title": "Decide the December break destination",
+      "detail": "The decide-by-Sept-30, book-by-Oct-15 task is past both dates. Holiday inventory for six over three weeks is the thinnest of the year, so every day narrows the options."
     },
     {
-      "tag": "Decide + book",
-      "title": "December break past its booking window",
-      "detail": "The decide-by Sep 30 and book-by Oct 15 dates have both passed. Six people, 21 days over the holidays is the thinnest inventory of the year, so a domestic pick booked soon is the safe move."
+      "tag": "Window closed",
+      "title": "Confirm the Pathfinder drive south",
+      "detail": "The Oct 5–18 drive window closed yesterday. Worth confirming the car actually moved, or the plan falls back to the monthly rental cycle it was meant to replace."
     }
   ],
   "schedule": [],
@@ -25,25 +25,25 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Board recruiter nudging on LinkedIn",
-        "detail": "Terence Quek (CEO & Board of Directors practice) flagged again today that he's waiting on a response."
+        "title": "New LinkedIn message from Hans-Kristian",
+        "detail": "LinkedIn flags a message waiting on a reply — worth a look given the board search."
       },
       {
-        "tag": "Job search",
-        "title": "New LinkedIn message from Hans-Kristian",
-        "detail": "Marked as awaiting your reply — worth a glance given the active search."
+        "tag": "FYI",
+        "title": "Fredericksburg hotel confirmed",
+        "detail": "The Hilton confirmation for tomorrow's Oct 20 check-in landed this evening."
       }
     ],
-    "noise": "The rest is promotions and newsletters — Dermstore, Bloomberg, Trip.com, Ro, Airbnb, a Medallia survey.",
+    "noise": "A Duolingo nudge, an academia.edu paper, a Hilton points receipt, and an alumni class-notes note — nothing that needs you.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
-    "confidence": "low",
-    "asOf": "Monday Oct 19"
+    "location": "Fredericksburg, VA",
+    "confidence": "high",
+    "asOf": "Monday, Oct 19"
   },
   "recipe": {
     "title": "Apple galette",
@@ -53,46 +53,40 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Mike + Dan board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + soap holder",
-      "project": "Household",
+      "title": "Place the Portland house order — bedframe & soap holder",
+      "project": "Mike + Dan board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down to St Pete",
-      "project": "Travel",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
-      "project": "Admin",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar top to bottom — the morning starts quiet."
+      "line": "Nothing on the calendar — the morning was yours to spend."
     },
     {
       "time": "Afternoon",
-      "line": "No meetings pulling at the middle of the day; it's yours to steer."
+      "line": "Still open through the afternoon, no meetings to break it up."
     },
     {
       "time": "Evening",
-      "line": "The girls are home with you and Mike this week — the evening leans toward family."
+      "line": "The Fredericksburg hotel is booked for tomorrow, so tonight tilts toward getting on the road."
     }
   ],
   "japanese": {
