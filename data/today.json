@@ -1,79 +1,104 @@
 {
   "date": "Tuesday, October 20, 2026",
-  "generatedAt": "Morning brief · 8:06 AM ET",
-  "theme": "An open day on the road south.",
-  "greeting": "The calendar's clear, Dan — the day belongs to the drive and whatever you make of the miles. A couple of holiday-travel bookings have waited longer than they should, and one of them gets more expensive the longer it sits.",
+  "generatedAt": "Morning brief · 8:12 AM ET",
+  "theme": "A travel day — driving south on I-95, open calendar, Fredericksburg by night.",
+  "greeting": "The road is the whole day, Dan. No meetings on the books — just miles south and a hotel in Fredericksburg, with a handful of overdue board items worth clearing while you drive.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Your one p1 (Household), overdue since Sep 14. A full-size SUV out of Portland over Christmas is the hardest rental in that market — book it refundable now, before holiday inventory sells out."
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "On the Mike + Dan board, overdue since Sept 14. A refundable full-size SUV out of Portland for Christmas week is the thinnest rental in that market — holding one now costs nothing and removes the whole risk."
     },
     {
       "tag": "Window closed",
-      "title": "December break destinations",
-      "detail": "Household, overdue since Sep 30, with the Oct 15 book-by now behind you. Shortlist and lock a destination for the 21-day break so six people over the holidays still have real options."
+      "title": "Lock the December-break trip",
+      "detail": "On the Mike + Dan board (p2). The book-by date was Oct 15, so the window has just closed. Pick the domestic shortlist and book — six people over the holidays is the year's thinnest inventory."
+    },
+    {
+      "tag": "Job search",
+      "title": "Reply to the CIFIC recruiter",
+      "detail": "Amin at Noorani + Partners wrote Oct 15 after your interview for the VP, Government Relations & Regulatory Affairs role — a warm note still sitting unanswered."
+    },
+    {
+      "tag": "Job search",
+      "title": "Answer the board-search recruiter",
+      "detail": "Terence Quek (CEO & Board of Directors practice) pinged again on LinkedIn for a reply, and Hans-Kristian also messaged you."
     }
   ],
   "schedule": [
     {
       "time": "All day",
-      "title": "On the road south",
-      "detail": "Overnight in Fredericksburg, VA; the Pathfinder headed toward Florida",
+      "title": "Driving south on I-95",
+      "detail": "Pathfinder run, Portland toward St Pete",
       "tag": "travel"
+    },
+    {
+      "time": "Evening",
+      "title": "Spark by Hilton, Fredericksburg",
+      "detail": "Confirmed stay, Oct 20–22",
+      "tag": "hotel"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Independent Managers Club call",
-        "detail": "Misaki proposed Wednesday Nov 4 at 7 AM EST and sent a calendar invite — worth accepting once you're settled."
+        "title": "CIFIC recruiter follow-up",
+        "detail": "Amin at Noorani + Partners, Oct 15 — awaiting your reply."
+      },
+      {
+        "tag": "Job search",
+        "title": "Board-search recruiter waiting",
+        "detail": "Terence Quek and Hans-Kristian both pinged you on LinkedIn."
       },
       {
         "tag": "FYI",
-        "title": "ZipRecruiter account is live",
-        "detail": "Your new account went active overnight and Google confirmed the data shared; job matches should start arriving."
+        "title": "Toronto trip lines up with CIFIC",
+        "detail": "Your Nov 2–5 Toronto Airbnb sits beside the Canadian role — confirm if it's the in-person round."
       }
     ],
-    "noise": "Everything else is newsletters, promos, and Apple receipts.",
-    "clear": ""
+    "noise": "The rest is promos and newsletters — The Company Store, Delta/United, Airbnb discovery, St Pete local, Italian/French word-of-the-day.",
+    "clear": "No security or financial items of concern — just routine Apple, Hilton, and Central Maine Power receipts."
   },
-  "resolved": [],
+  "resolved": [
+    "Nov 4 Tokyo call set — Misaki at Fincity confirmed the Independent Managers Club meeting (Wed Nov 4, 7 AM EST) and sent the invite.",
+    "Toronto stay booked — your Airbnb for Nov 2–5 came through confirmed.",
+    "Central Maine Power paid — autopay went through Sunday."
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Fredericksburg, VA",
+    "location": "Fredericksburg, VA (en route south)",
     "confidence": "high",
     "asOf": "Tuesday Oct 20"
   },
   "recipe": {
     "title": "Kabocha squash pie",
     "book": "Canal House Cooks Every Day",
-    "why": "Deep autumn now, and kabocha is at its sweetest at the markets — a slow, from-scratch pie is exactly the kind of technique project to lean into on a cool October evening."
+    "why": "You're driving south today, but kabocha is at its sweetest right now — earmark this slow, from-scratch pie for the first proper kitchen night at the other end."
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
+      "title": "Three term-life quotes for Mike",
+      "project": "Mike + Dan board",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Household",
-      "due": "Overdue Sep 30",
+      "title": "Portland house order — bedframe & shower holder",
+      "project": "Mike + Dan board",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
-      "title": "Call dermatologist to book appt (Mike)",
-      "project": "Household",
+      "title": "Call dermatologist to book the appt",
+      "project": "Mike + Dan board",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Dan",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
