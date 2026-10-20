@@ -1,74 +1,54 @@
 {
   "date": "Tuesday, October 20, 2026",
-  "generatedAt": "Morning brief · 10:06 AM ET",
-  "theme": "A travel day — driving south on I-95, open calendar, Fredericksburg by night.",
-  "greeting": "The road is the whole day, Dan. No meetings on the books — just miles south and a hotel in Fredericksburg, with a handful of overdue board items worth clearing while you drive.",
+  "generatedAt": "Morning brief · 10:08 AM ET",
+  "theme": "A travel day with the road mostly to yourself.",
+  "greeting": "The calendar's clear, Dan — today is a driving day, Fredericksburg down toward the Gulf, with St. Pete waiting Thursday. The open stretch is a good moment to finally clear the holiday-travel bookings before thin inventory decides for you.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
+      "tag": "Overdue p1",
       "title": "Book the Maine Christmas SUV",
-      "detail": "On the Mike + Dan board, overdue since Sept 14. A refundable full-size SUV out of Portland for Christmas week is the thinnest rental in that market — holding one now costs nothing and removes the whole risk."
+      "detail": "Your top-priority Todoist task — a refundable full-size SUV out of Portland for Christmas week — is about five weeks past its 'book this week' date. A refundable hold costs nothing, and holiday inventory at PWM is the first to disappear."
     },
     {
-      "tag": "Window closed",
-      "title": "Lock the December-break trip",
-      "detail": "On the Mike + Dan board (p2). The book-by date was Oct 15, so the window has just closed. Pick the domestic shortlist and book — six people over the holidays is the year's thinnest inventory."
-    },
-    {
-      "tag": "Job search",
-      "title": "Reply to the CIFIC recruiter",
-      "detail": "Amin at Noorani + Partners wrote Oct 15 after your interview for the VP, Government Relations & Regulatory Affairs role — a warm note still sitting unanswered."
-    },
-    {
-      "tag": "Job search",
-      "title": "Answer the board-search recruiter",
-      "detail": "Terence Quek (CEO & Board of Directors practice) pinged again on LinkedIn for a reply, and Hans-Kristian also messaged you."
+      "tag": "Window closing",
+      "title": "Lock the December break destination",
+      "detail": "The Dec 13 - Jan 2 trip for six was meant to be decided Sept 30 and booked by Oct 15. That book-by date has passed, and holiday inventory for six across three weeks is the thinnest of the year."
     }
   ],
   "schedule": [
     {
       "time": "All day",
-      "title": "Driving south on I-95",
-      "detail": "Pathfinder run, Portland toward St Pete",
-      "tag": "travel"
-    },
-    {
-      "time": "Evening",
-      "title": "Spark by Hilton, Fredericksburg",
-      "detail": "Confirmed stay, Oct 20–22",
-      "tag": "hotel"
+      "title": "Drive south, Fredericksburg to St. Pete",
+      "detail": "Hotel tonight at Spark by Hilton; Airbnb check-in on Coffee Pot Bayou Thursday.",
+      "tag": "Travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "CIFIC recruiter follow-up",
-        "detail": "Amin at Noorani + Partners, Oct 15 — awaiting your reply."
-      },
-      {
-        "tag": "Job search",
-        "title": "Board-search recruiter waiting",
-        "detail": "Terence Quek and Hans-Kristian both pinged you on LinkedIn."
+        "title": "New SVP Global Public Policy alert",
+        "detail": "LinkedIn surfaced a Senior VP of Global Public Policy posting and similar roles this morning."
       },
       {
         "tag": "FYI",
-        "title": "Toronto trip lines up with CIFIC",
-        "detail": "Your Nov 2–5 Toronto Airbnb sits beside the Canadian role — confirm if it's the in-person round."
+        "title": "NACD New England run of show",
+        "detail": "The Oct 28 event's run of show went out to the group for edits; no reply needed unless something looks off."
+      },
+      {
+        "tag": "FYI",
+        "title": "St. Pete Airbnb check-in Thursday",
+        "detail": "Airbnb reminder confirms the Oct 22 arrival on Coffee Pot Bayou."
       }
     ],
-    "noise": "The rest is promos and newsletters — The Company Store, Delta/United, Airbnb discovery, St Pete local, Italian/French word-of-the-day.",
-    "clear": "No security or financial items of concern — just routine Apple, Hilton, and Central Maine Power receipts."
+    "noise": "The rest is retail and travel promos, nothing asking for you.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
-  "resolved": [
-    "Nov 4 Tokyo call set — Misaki at Fincity confirmed the Independent Managers Club meeting (Wed Nov 4, 7 AM EST) and sent the invite.",
-    "Toronto stay booked — your Airbnb for Nov 2–5 came through confirmed.",
-    "Central Maine Power paid — autopay went through Sunday."
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Fredericksburg, VA (en route south)",
+    "location": "Fredericksburg, VA - en route to St. Pete",
     "confidence": "high",
     "asOf": "Tuesday Oct 20"
   },
@@ -79,27 +59,15 @@
   },
   "tasks": [
     {
-      "title": "Three term-life quotes for Mike",
-      "project": "Mike + Dan board",
-      "due": "Overdue Sept 25",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe & shower holder",
-      "project": "Mike + Dan board",
-      "due": "Overdue Sept 30",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist to book the appt",
-      "project": "Mike + Dan board",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Portland house order - bedframe + outdoor shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
@@ -111,15 +79,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "You wake in Fredericksburg with an open calendar and the interstate ahead."
+      "line": "On the road out of Virginia, with no meetings to break the drive."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing's scheduled — the hours are yours for the drive or a pause."
+      "line": "Miles to cover and an empty calendar to cover them against."
     },
     {
       "time": "Evening",
-      "line": "No meetings close the day; rest wherever the miles leave you."
+      "line": "A hotel night in Fredericksburg before the last leg to the Gulf."
     }
   ],
   "japanese": {
