@@ -1,54 +1,44 @@
 {
   "date": "Tuesday, October 20, 2026",
   "generatedAt": "Morning brief · 12:07 PM ET",
-  "theme": "A travel day with the road mostly to yourself.",
-  "greeting": "The calendar's clear, Dan — today is a driving day, Fredericksburg down toward the Gulf, with St. Pete waiting Thursday. The open stretch is a good moment to finally clear the holiday-travel bookings before thin inventory decides for you.",
+  "theme": "An open day on the road in Virginia.",
+  "greeting": "You're in Fredericksburg with a clear calendar, Dan — no meetings, just the road and whatever you decide to make of the day. What's actually asking for you is a short stack of holiday-travel bookings that have drifted well past their dates.",
   "needsAttention": [
     {
-      "tag": "Overdue p1",
+      "tag": "Overdue booking",
       "title": "Book the Maine Christmas SUV",
-      "detail": "Your top-priority Todoist task — a refundable full-size SUV out of Portland for Christmas week — is about five weeks past its 'book this week' date. A refundable hold costs nothing, and holiday inventory at PWM is the first to disappear."
+      "detail": "Your one p1 item is months past due — a full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out, and a refundable hold costs nothing. In Todoist, Household."
     },
     {
       "tag": "Window closing",
-      "title": "Lock the December break destination",
-      "detail": "The Dec 13 - Jan 2 trip for six was meant to be decided Sept 30 and booked by Oct 15. That book-by date has passed, and holiday inventory for six across three weeks is the thinnest of the year."
+      "title": "Settle the December break",
+      "detail": "The all-four-girls trip was meant to be decided by Sept 30 and booked by Oct 15; both dates are behind you, and inventory for six over Dec 13–Jan 2 only thins from here. In Todoist, Travel."
     }
   ],
   "schedule": [
     {
       "time": "All day",
-      "title": "Drive south, Fredericksburg to St. Pete",
-      "detail": "Hotel tonight at Spark by Hilton; Airbnb check-in on Coffee Pot Bayou Thursday.",
+      "title": "In Fredericksburg, VA",
+      "detail": "Second night at Spark by Hilton Southpoint",
       "tag": "Travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "New SVP Global Public Policy alert",
-        "detail": "LinkedIn surfaced a Senior VP of Global Public Policy posting and similar roles this morning."
-      },
-      {
         "tag": "FYI",
         "title": "NACD New England run of show",
-        "detail": "The Oct 28 event's run of show went out to the group for edits; no reply needed unless something looks off."
-      },
-      {
-        "tag": "FYI",
-        "title": "St. Pete Airbnb check-in Thursday",
-        "detail": "Airbnb reminder confirms the Oct 22 arrival on Coffee Pot Bayou."
+        "detail": "Laura Ravetto sent the Oct 28 event's run of show to the group and invited edits — worth a skim since you're on the invite."
       }
     ],
-    "noise": "The rest is retail and travel promos, nothing asking for you.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "Everything else is promotions and newsletters — sailing memberships, Delta miles, running gear, and Florida real-estate alerts.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Fredericksburg, VA - en route to St. Pete",
+    "location": "Fredericksburg, VA",
     "confidence": "high",
     "asOf": "Tuesday Oct 20"
   },
@@ -59,15 +49,27 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order - bedframe + outdoor shower soap holder",
+      "title": "Portland house order — bedframe + soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Pathfinder drive Portland → St Pete",
+      "project": "Travel",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -79,15 +81,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "On the road out of Virginia, with no meetings to break the drive."
+      "line": "On the road in Virginia with nothing on the calendar — the shape of the day is yours to set."
     },
     {
       "time": "Afternoon",
-      "line": "Miles to cover and an empty calendar to cover them against."
+      "line": "A wide-open block, well suited to clearing the holiday bookings that have slipped past their windows."
     },
     {
       "time": "Evening",
-      "line": "A hotel night in Fredericksburg before the last leg to the Gulf."
+      "line": "A second quiet night in Fredericksburg before whatever comes next."
     }
   ],
   "japanese": {
