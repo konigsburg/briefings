@@ -1,50 +1,43 @@
 {
   "date": "Tuesday, October 20, 2026",
   "generatedAt": "Morning brief · 6:07 PM ET",
-  "theme": "A travel day — I-95 south, calendar clear.",
-  "greeting": "The calendar's empty and you're pointed south, Dan — a driving day more than a working one. The only things with teeth are a couple of overdue bookings where waiting actually costs money.",
+  "theme": "An open day on the road, a few bookings quietly going stale.",
+  "greeting": "The calendar is empty today, Dan — just an overnight in Fredericksburg. The day is yours; the pressure is on two holiday bookings that have slipped past their dates.",
   "needsAttention": [
     {
-      "tag": "Books out",
-      "title": "Maine Christmas SUV rental is still open",
-      "detail": "Your one p1 on the Mike + Dan board — a refundable full-size SUV out of Portland for Christmas week, since the Pathfinder is south by then. Open since mid-September; that rental is the hardest in the Portland market over the holidays and it sells out."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "A p1 Todoist task now about five weeks past its date. A full-size SUV out of Portland over Christmas week is the hardest rental in that market — thin inventory, holiday pricing, and it sells out. A refundable hold costs nothing and takes the whole risk off the table."
+    },
+    {
+      "tag": "Decide now",
+      "title": "December break destination",
+      "detail": "Decide-by (Sept 30) and book-by (Oct 15) have both passed. Six people, three weeks, over the holidays is the thinnest inventory of the year — pick domestic vs. international, then lock a shortlist of three."
     },
     {
       "tag": "Window closed",
-      "title": "December break has no destination picked",
-      "detail": "Decide-by was Sept 30, book-by was Oct 15 — both behind you now. Six people over three weeks at the holidays is the thinnest inventory of the year, and every day narrows it."
+      "title": "Pathfinder drive south",
+      "detail": "The Oct 5–18 off-week window for driving the Pathfinder Portland → St Pete has now passed. If it didn't happen, the plan and the rental math behind it need a rethink."
     }
   ],
-  "schedule": [
-    {
-      "time": "All day",
-      "title": "Southbound on I-95",
-      "detail": "Overnight at the Spark by Hilton in Fredericksburg, VA",
-      "tag": "travel"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "You're on the NACD New England run of show",
-        "detail": "The organizers sent the agenda for the Oct 28 New England event to the group and you're cc'd. Nothing owed yet, but worth a skim before next week — it's squarely in your governance world."
-      },
-      {
-        "tag": "Job search",
-        "title": "Board-practice partner nudged you on LinkedIn",
-        "detail": "A second ping from someone in a CEO & Board of Directors search practice — the kind of search-side contact worth answering given the board hunt."
+        "title": "SCOR exec-role alert",
+        "detail": "A LinkedIn alert for SVP, Head of North America MGA at SCOR — automated, not personal outreach, but worth a glance given the search."
       }
     ],
-    "noise": "The rest is newsletters, retail, LinkedIn job alerts, and local real-estate pings.",
-    "clear": "No one is blocked on a reply from you this morning."
+    "noise": "The rest of the inbox is newsletters, retail, and home-listing alerts.",
+    "clear": "No personal mail is waiting on a reply from you."
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Fredericksburg, VA — en route south",
-    "confidence": "low",
+    "location": "Fredericksburg, VA",
+    "confidence": "high",
     "asOf": "Tuesday Oct 20"
   },
   "recipe": {
@@ -55,40 +48,40 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan board",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan board",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "An early start cleared the packing and travel prep; nothing formal on the books."
+      "line": "No meetings on the calendar — an open stretch, wherever the road has you."
     },
     {
       "time": "Afternoon",
-      "line": "The calendar holds nothing straight through — a driving afternoon."
+      "line": "Still nothing booked; the best use is the two holiday bookings that keep slipping."
     },
     {
       "time": "Evening",
-      "line": "You stop in Virginia for the night, roughly the midpoint of the Portland-to-St Pete run."
+      "line": "An overnight at the Spark by Hilton in Fredericksburg closes the day."
     }
   ],
   "japanese": {
