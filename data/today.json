@@ -1,42 +1,47 @@
 {
   "date": "Wednesday, October 21, 2026",
   "generatedAt": "Morning brief · 4:06 PM ET",
-  "theme": "On the road south, two bookings overdue",
-  "greeting": "You're pointed south today, Dan — Fredericksburg behind you, St. Pete ahead and the calendar wide open. The only real pulls are two holiday bookings that have slipped well past their windows.",
+  "theme": "A clear calendar and a road south.",
+  "greeting": "No meetings today, Dan — just miles. The real work is off the calendar: two holiday trips have slipped past their booking windows and are worth nailing down from the passenger seat.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Christmas SUV rental still unbooked",
-      "detail": "Mike + Dan Board, p1, about five weeks overdue. A full-size SUV out of Portland for Christmas week is the hardest rental in that market and it sells out — book it refundable now and adjust dates later."
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Flagged p1 and overdue since mid-September. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market — book it refundable now, before the holiday inventory is gone."
     },
     {
-      "tag": "Window closed",
-      "title": "December break still undecided",
-      "detail": "Mike + Dan Board, p2. The Sept 30 decide-by and Oct 15 book-by have both passed; holiday inventory for six over three weeks is the thinnest of the year. Pick domestic vs. international and book."
+      "tag": "Window passed",
+      "title": "Lock the December break destination",
+      "detail": "Both gates — decide by Sept 30, book by Oct 15 — have passed, and holiday inventory for six over three weeks is the thinnest of the year. Pick domestic or refundable-international and book it."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Tampa Gardens statement is up",
-        "detail": "The monthly senior-living statement posted; payment is due by the 5th."
+        "tag": "Job search",
+        "title": "Board recruiter waiting on you",
+        "detail": "A partner in a CEO & board-of-directors search practice pinged you on LinkedIn on the 19th and is still awaiting a reply — squarely on the board-seat track."
       },
       {
-        "tag": "Job search",
-        "title": "NACD New England run of show",
-        "detail": "The Oct 28 event's run of show went to the group — you're on the cc for any edits."
+        "tag": "Financial",
+        "title": "Tampa Gardens statement is up",
+        "detail": "The monthly statement is available; payment is due by the 5th."
+      },
+      {
+        "tag": "FYI",
+        "title": "NACD New England run-of-show",
+        "detail": "The run of show for the Oct 28 New England event you're on the list for went round yesterday — flag any edits when you're off the road."
       }
     ],
-    "noise": "The rest is promotions — Chairish, Qatar, Flying Blue, Harry & David and a dozen more.",
+    "noise": "Dozens of promotions and newsletters — coffee and kitchen gear, menswear, travel miles, Zillow listings, local St. Pete news.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "St. Petersburg, FL",
+    "location": "Driving south to St. Pete",
     "confidence": "high",
     "asOf": "Wednesday Oct 21"
   },
@@ -47,20 +52,26 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
+      "title": "Call the dermatologist to book Mike's appt",
+      "project": "Household",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -73,15 +84,18 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Checked out of Fredericksburg and pointed the car south for the long I-95 leg home."
+      "line": "Checkout in Fredericksburg and back onto I-95 — the long southbound middle of the drive.",
+      "tag": "travel"
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar to break the drive — the road is the whole agenda."
+      "line": "Nothing on the calendar but open road; today the drive is the day.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "St. Pete at the end of it; the cottage on Coffee Pot Bayou is yours through early November."
+      "line": "The Coffee Pot Bayou cottage opens tomorrow — tonight is one more leg toward St. Pete.",
+      "tag": "rest"
     }
   ],
   "japanese": {
