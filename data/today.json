@@ -1,30 +1,40 @@
 {
   "date": "Wednesday, October 21, 2026",
-  "generatedAt": "Morning brief · 12:07 PM ET",
-  "theme": "On the road south.",
-  "greeting": "Morning, Dan. The calendar's clear and the Fredericksburg stay ends tomorrow, so today is really the move from Virginia down to the St. Pete cottage, girls along.",
+  "generatedAt": "Morning brief · 12:11 PM ET",
+  "theme": "A travel day — south to St Pete",
+  "greeting": "Nothing's on the calendar today, Dan — it's the road, the four girls in the back, and the Coffee Pot Bayou cottage waiting tomorrow afternoon. The holiday-booking items are the one thing worth catching while you've got miles to think.",
   "needsAttention": [
     {
-      "tag": "Travel · p1",
+      "tag": "Overdue · p1",
       "title": "Book the Maine Christmas SUV",
-      "detail": "Your top-priority board task, overdue since Sep 14: a refundable full-size SUV out of Portland for Christmas week. Holiday inventory at PWM sells out, so a refundable hold now costs nothing and takes the risk off the table."
+      "detail": "Top-priority on the Mike + Dan board since Sep 14 — a full-size SUV out of Portland for Christmas week sells out; a refundable hold now removes the risk."
     },
     {
-      "tag": "Travel · overdue",
-      "title": "Lock the December break destination",
-      "detail": "Open on the Mike + Dan board since Sep 30, and the book-by-Oct-15 window has already passed. Six people across three holiday weeks is the thinnest inventory of the year; a domestic pick clears it fastest."
+      "tag": "Window closing",
+      "title": "Lock the December break plan",
+      "detail": "The board set decide-by Sep 30 and book-by Oct 15 for all four kids over the holidays — that window's already past, and inventory for six only thins from here."
+    },
+    {
+      "tag": "Tomorrow",
+      "title": "Cottage check-in at 4 PM",
+      "detail": "Arriving the Coffee Pot Bayou place tomorrow with the girls — the host sent the door code and an arrival guide worth a look before you pull in."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
+        "tag": "Financial",
+        "title": "Tampa Gardens statement is ready",
+        "detail": "The senior-living office posted the monthly statement; payment is due by the 5th."
+      },
+      {
         "tag": "Job search",
         "title": "NACD New England run of show",
-        "detail": "The chapter sent the run of show for next week's Oct 28 event; the agenda for a governance-network evening worth arriving prepared for."
+        "detail": "The agenda for the Oct 28 event went to the full group — worth a scan for anything that needs editing."
       }
     ],
-    "noise": "Everything else is promotions, receipts, and newsletters.",
+    "noise": "Otherwise it's promotions and receipts — Airbnb, Apple, retail sales, and the usual newsletters.",
     "clear": ""
   },
   "resolved": [],
@@ -43,13 +53,13 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order — bedframe + soap holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
@@ -68,15 +78,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar and a hotel checkout tomorrow give the day the shape of a travel day."
+      "line": "A clear calendar and the drive south — the quiet middle of the Maine-to-Florida run."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled to interrupt the move south from Virginia."
+      "line": "Miles and the four girls in the back, nothing owed to anyone but the road."
     },
     {
       "time": "Evening",
-      "line": "Your last Virginia night before the Coffee Pot cottage opens in St. Pete tomorrow."
+      "line": "The kind of open evening a travel day earns — rest up for the last leg."
     }
   ],
   "japanese": {
