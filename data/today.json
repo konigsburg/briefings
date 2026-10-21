@@ -1,49 +1,56 @@
 {
   "date": "Wednesday, October 21, 2026",
-  "generatedAt": "Morning brief · 6:07 PM ET",
-  "theme": "A clear calendar and a road south.",
-  "greeting": "No meetings today, Dan — just miles. The real work is off the calendar: two holiday trips have slipped past their booking windows and are worth nailing down from the passenger seat.",
+  "generatedAt": "Morning brief · 6:10 PM ET",
+  "theme": "A quiet travel day, pointed south.",
+  "greeting": "You're on the road south, Dan — a night in Fredericksburg, then the Coffee Pot cottage in St. Pete tomorrow. Nothing's on the calendar, so the open stretch is yours; the booking items below have waited long enough.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
+      "tag": "Window closing",
       "title": "Book the Maine Christmas SUV",
-      "detail": "Flagged p1 and overdue since mid-September. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market — book it refundable now, before the holiday inventory is gone."
+      "detail": "The p1 rental has sat since mid-September. A full-size SUV out of Portland over Christmas week is the thinnest inventory in that market — book refundable now and adjust the dates later."
     },
     {
-      "tag": "Window passed",
-      "title": "Lock the December break destination",
-      "detail": "Both gates — decide by Sept 30, book by Oct 15 — have passed, and holiday inventory for six over three weeks is the thinnest of the year. Pick domestic or refundable-international and book it."
+      "tag": "Past due",
+      "title": "Lock the December break plan",
+      "detail": "Decide-by was Sept 30 and the Oct 15 book-by has passed. Pick domestic or international and get the three-week trip for six onto the calendar before holiday inventory thins further."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "All day",
+      "title": "On the road south",
+      "detail": "Fredericksburg overnight; St. Pete cottage tomorrow",
+      "tag": "Travel"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Board recruiter waiting on you",
-        "detail": "A partner in a CEO & board-of-directors search practice pinged you on LinkedIn on the 19th and is still awaiting a reply — squarely on the board-seat track."
+        "title": "Managing Director role at Carnegie",
+        "detail": "A LinkedIn alert flags a Private Equity Managing Director opening at the Andrew Carnegie Foundation."
       },
       {
-        "tag": "Financial",
-        "title": "Tampa Gardens statement is up",
-        "detail": "The monthly statement is available; payment is due by the 5th."
+        "tag": "Job search",
+        "title": "Hans-Kristian messaged you on LinkedIn",
+        "detail": "A new LinkedIn message is waiting for a reply."
       },
       {
         "tag": "FYI",
-        "title": "NACD New England run-of-show",
-        "detail": "The run of show for the Oct 28 New England event you're on the list for went round yesterday — flag any edits when you're off the road."
+        "title": "NACD New England run of show",
+        "detail": "The agenda for next Tuesday's Oct 28 event landed — skim it for anything that needs an edit."
       }
     ],
-    "noise": "Dozens of promotions and newsletters — coffee and kitchen gear, menswear, travel miles, Zillow listings, local St. Pete news.",
+    "noise": "Apple receipts, a Hilton points redemption, and a few store promos.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Driving south to St. Pete",
+    "location": "Fredericksburg, VA",
     "confidence": "high",
-    "asOf": "Wednesday Oct 21"
+    "asOf": "Wed Oct 21"
   },
   "recipe": {
     "title": "Pumpkin chiffon pie",
@@ -52,26 +59,26 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Household",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Mike + Dan",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder south — in progress today",
+      "project": "Mike + Dan",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Household",
+      "project": "Mike + Dan",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Call the dermatologist to book Mike's appt",
-      "project": "Household",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -84,18 +91,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Checkout in Fredericksburg and back onto I-95 — the long southbound middle of the drive.",
-      "tag": "travel"
+      "line": "Miles down I-95 behind you — the drive set the day's only rhythm."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar but open road; today the drive is the day.",
-      "tag": "open"
+      "line": "Nothing on the calendar holds you; the road is the whole agenda."
     },
     {
       "time": "Evening",
-      "line": "The Coffee Pot Bayou cottage opens tomorrow — tonight is one more leg toward St. Pete.",
-      "tag": "rest"
+      "line": "Fredericksburg for the night, then St. Pete tomorrow — a quiet window to clear the booking list."
     }
   ],
   "japanese": {
