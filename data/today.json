@@ -1,49 +1,80 @@
 {
   "date": "Wednesday, October 21, 2026",
   "generatedAt": "Morning brief · 8:05 AM ET",
-  "theme": "A day on the way south.",
-  "greeting": "You're in Fredericksburg with the whole day open, Dan, and the Coffee Pot Bayou cottage in St. Pete waiting for tomorrow. An empty calendar between legs of the drive is a good window to finally close the two trips that keep sliding.",
+  "theme": "A travel day — I-95 south, Florida at the far end.",
+  "greeting": "The whole day is the road, Dan — Fredericksburg behind you and the St. Pete cottage opening tomorrow. The calendar is clear of meetings; the real business is two holiday-travel bookings whose windows have quietly closed.",
   "needsAttention": [
     {
-      "tag": "Window closing",
-      "title": "Lock the Maine Christmas SUV",
-      "detail": "A p1 on the Mike + Dan board, overdue since Sep 14. A refundable full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out; once the Pathfinder is south, it's the only six-seater for the girls' Maine trip. Booking refundable now costs nothing and removes the whole risk."
+      "tag": "Travel · p1",
+      "title": "Book the Portland Christmas SUV — refundable, now",
+      "detail": "On your Mike + Dan board, flagged p1 and \"book this week\" back on Sept 14. Christmas is the next time all four girls come up to Maine and the Pathfinder is south for the winter, so there's no six-seater waiting — a full-size SUV out of PWM over the holidays sells out, and a refundable hold costs nothing."
     },
     {
-      "tag": "Window slipped",
-      "title": "Call the December break",
-      "detail": "A p2 on the board whose decide-by was Sep 30 and book-by was Oct 15, now past. Holiday inventory for six across three weeks is the thinnest of the year, so the move is to pick domestic vs. international and book refundable before it thins further."
+      "tag": "Travel · window",
+      "title": "Lock the December-break trip for the girls",
+      "detail": "Your board's book-by of Oct 15 has now passed, for the Dec 13–Jan 2 window with all four girls. Holiday inventory for six over three weeks is the thinnest of the year and only gets dearer — the domestic-shortlist path has nothing to wait on."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "Morning",
+      "title": "Check out, point south",
+      "detail": "Fredericksburg hotel closes out; car onto I-95 south.",
+      "tag": "Travel"
+    },
+    {
+      "time": "Midday",
+      "title": "The long middle",
+      "detail": "Open miles — nothing on the calendar asks for you.",
+      "tag": "Drive"
+    },
+    {
+      "time": "Evening",
+      "title": "Toward the cottage",
+      "detail": "Closing the distance to Coffee Pot Bayou, which opens tomorrow.",
+      "tag": "Arrive"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "NACD New England run of show",
-        "detail": "The run of show for the Oct 28 NACD New England event landed on a group thread you're on; worth a skim for anything tied to your part."
+        "tag": "Security",
+        "title": "A contact's email was hacked",
+        "detail": "Philip warned Sunday that his account was compromised — don't open the earlier \"Documents\" file he appeared to share; delete it."
       },
       {
         "tag": "Job search",
-        "title": "A LinkedIn message is waiting",
-        "detail": "Hans-Kristian sent a note on LinkedIn that's still unanswered, the kind of networking reply worth not letting sit."
+        "title": "NACD New England event is next Wednesday",
+        "detail": "The Oct 28 Run of Show went round to the full invite list you're on — a governance room worth arriving prepared for."
+      },
+      {
+        "tag": "Financial",
+        "title": "Your mom's KDP account still points to Drew",
+        "detail": "Drew forwarded a Kindle royalty notice for Sandra's account that landed with him — the contact email you thought you'd switched hasn't taken."
+      },
+      {
+        "tag": "FYI",
+        "title": "Tokyo / Valoris call moving off Nov 4",
+        "detail": "On the Independent Managers Club thread you're cc'd on, Mike Lubrano asked to shift the call to Tuesday Nov 3 — nothing owed from you."
       }
     ],
-    "noise": "A heavy promo morning, Tracksmith to Bialetti to clock-change sales and travel deals, none of it needing you.",
-    "clear": "Apple receipts, a Hilton points redemption, and the Airbnb reminder for tomorrow are just confirmations."
+    "noise": "The rest is newsletters and promos — Bloomberg, the Press Herald, Italian Word of the Day, a few shop sales and a Todoist nudge.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    "The seasonal Pathfinder drive south is actually underway — the Fredericksburg hotel is behind you and the St. Pete cottage is booked from tomorrow, replacing this winter's run of 28-day Florida rentals."
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Fredericksburg, VA",
+    "location": "Fredericksburg, VA — driving south",
     "confidence": "high",
     "asOf": "Wednesday Oct 21"
   },
   "recipe": {
     "title": "Pumpkin chiffon pie",
     "book": "Canal House Cooks Every Day",
-    "why": "Deep in squash season, this one turns the pumpkins piled up at every farm stand into something light as air — a fitting reward at the end of an October day."
+    "why": "Deep in squash season, this cloud-light pie is the sweet payoff to a long drive — bank it for when the St. Pete kitchen is yours again."
   },
   "tasks": [
     {
@@ -53,7 +84,7 @@
       "overdue": true
     },
     {
-      "title": "Order Portland king bedframe + outdoor shower soap holder",
+      "title": "Portland house order — king bedframe + outdoor-shower soap holder",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
@@ -66,8 +97,8 @@
     }
   ],
   "routines": {
-    "morning": "0/9",
-    "day": "0/6",
+    "morning": "0/10",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
