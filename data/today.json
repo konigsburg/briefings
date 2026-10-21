@@ -1,23 +1,18 @@
 {
   "date": "Wednesday, October 21, 2026",
   "generatedAt": "Morning brief · 2:06 PM ET",
-  "theme": "A travel day — south to St Pete",
-  "greeting": "Nothing's on the calendar today, Dan — it's the road, the four girls in the back, and the Coffee Pot Bayou cottage waiting tomorrow afternoon. The holiday-booking items are the one thing worth catching while you've got miles to think.",
+  "theme": "On the road south, two bookings overdue",
+  "greeting": "You're pointed south today, Dan — Fredericksburg behind you, St. Pete ahead and the calendar wide open. The only real pulls are two holiday bookings that have slipped well past their windows.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Top-priority on the Mike + Dan board since Sep 14 — a full-size SUV out of Portland for Christmas week sells out; a refundable hold now removes the risk."
+      "tag": "Book this week",
+      "title": "Christmas SUV rental still unbooked",
+      "detail": "Mike + Dan Board, p1, about five weeks overdue. A full-size SUV out of Portland for Christmas week is the hardest rental in that market and it sells out — book it refundable now and adjust dates later."
     },
     {
-      "tag": "Window closing",
-      "title": "Lock the December break plan",
-      "detail": "The board set decide-by Sep 30 and book-by Oct 15 for all four kids over the holidays — that window's already past, and inventory for six only thins from here."
-    },
-    {
-      "tag": "Tomorrow",
-      "title": "Cottage check-in at 4 PM",
-      "detail": "Arriving the Coffee Pot Bayou place tomorrow with the girls — the host sent the door code and an arrival guide worth a look before you pull in."
+      "tag": "Window closed",
+      "title": "December break still undecided",
+      "detail": "Mike + Dan Board, p2. The Sept 30 decide-by and Oct 15 book-by have both passed; holiday inventory for six over three weeks is the thinnest of the year. Pick domestic vs. international and book."
     }
   ],
   "schedule": [],
@@ -25,23 +20,23 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Tampa Gardens statement is ready",
-        "detail": "The senior-living office posted the monthly statement; payment is due by the 5th."
+        "title": "Tampa Gardens statement is up",
+        "detail": "The monthly senior-living statement posted; payment is due by the 5th."
       },
       {
         "tag": "Job search",
         "title": "NACD New England run of show",
-        "detail": "The agenda for the Oct 28 event went to the full group — worth a scan for anything that needs editing."
+        "detail": "The Oct 28 event's run of show went to the group — you're on the cc for any edits."
       }
     ],
-    "noise": "Otherwise it's promotions and receipts — Airbnb, Apple, retail sales, and the usual newsletters.",
+    "noise": "The rest is promotions — Chairish, Qatar, Flying Blue, Harry & David and a dozen more.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Fredericksburg, VA",
+    "location": "St. Petersburg, FL",
     "confidence": "high",
     "asOf": "Wednesday Oct 21"
   },
@@ -58,7 +53,7 @@
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + soap holder",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
       "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
       "overdue": true
@@ -78,15 +73,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar and the drive south — the quiet middle of the Maine-to-Florida run."
+      "line": "Checked out of Fredericksburg and pointed the car south for the long I-95 leg home."
     },
     {
       "time": "Afternoon",
-      "line": "Miles and the four girls in the back, nothing owed to anyone but the road."
+      "line": "Nothing on the calendar to break the drive — the road is the whole agenda."
     },
     {
       "time": "Evening",
-      "line": "The kind of open evening a travel day earns — rest up for the last leg."
+      "line": "St. Pete at the end of it; the cottage on Coffee Pot Bayou is yours through early November."
     }
   ],
   "japanese": {
