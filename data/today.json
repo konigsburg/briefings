@@ -1,48 +1,36 @@
 {
   "date": "Tuesday, October 20, 2026",
   "generatedAt": "Morning brief · 10:06 PM ET",
-  "theme": "Mid-drive south, an open calendar.",
-  "greeting": "You're mid-drive south, Dan — a night in Fredericksburg, then the last leg to the Old Northeast cottage on Thursday. The calendar is clear, so the day is mostly the road, with a couple of long-open bookings sitting underneath it.",
+  "theme": "A day on the road south.",
+  "greeting": "You're in Fredericksburg tonight, Dan — about halfway down I-95 with the family and the Pathfinder pointed at St. Pete. The calendar is empty but the drive, and a cottage is waiting Thursday.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "The Pathfinder is going south with you, so Maine has no six-seater for Christmas. A full-size SUV out of Portland over the holidays sells out — a refundable booking held now costs nothing. Flagged p1, open since Sep 14."
+      "tag": "Window closing",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "The task in Todoist you marked highest-priority — hold a refundable full-size SUV out of Portland for Christmas week — has been open since mid-September. Holiday inventory at PWM is the thinnest of the year, so a refundable booking now takes the whole risk off the table."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "Lock the December break destination",
-      "detail": "Decide-by was Sep 30 and the Oct 15 book-by has passed; three weeks for six over the holidays is the thinnest inventory of the year. A domestic shortlist has nothing to wait on."
-    },
-    {
-      "tag": "Overdue · p2",
-      "title": "Get three term-life quotes for Mike",
-      "detail": "You shop the quotes — term length and coverage — then Mike handles the application and exam. Open since Sep 25; still missing a target coverage amount."
+      "tag": "Decision overdue",
+      "title": "December break needs a destination",
+      "detail": "The shortlist in Todoist was due Sept 30 and the Oct 15 booking window has slipped. Three weeks for six over the holidays books thin, so choosing domestic-or-international and locking dates is what unblocks the rest."
     }
   ],
-  "schedule": [
-    {
-      "time": "All day",
-      "title": "Fredericksburg stay",
-      "detail": "Spark by Hilton, Southpoint — en route south on I-95",
-      "tag": "travel"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Head of Corporate Affairs, USA",
-        "detail": "LinkedIn flagged a Merck KGaA opening that lines up with your public-affairs background."
+        "title": "NACD New England run of show",
+        "detail": "The New England chapter organizer circulated the agenda for next week's Oct 28 event — a directors' room worth arriving prepared for."
       },
       {
         "tag": "FYI",
-        "title": "Old Northeast cottage check-in",
-        "detail": "The Airbnb host wrote ahead of your Oct 22–Nov 2 stay on Coffee Pot Bayou."
+        "title": "St. Pete cottage check-in Thursday",
+        "detail": "The Coffee Pot Bayou Airbnb for Oct 22-Nov 2 is confirmed and the host wrote to welcome you — nothing owed, just the end of this drive."
       }
     ],
-    "noise": "The rest is promotions and listings — Chairish, Delta, Zillow, and a few newsletters.",
-    "clear": ""
+    "noise": "Thirty-odd retail and travel promotions — Tracksmith, Bialetti, Kayak, Indochino and the usual — plus a LinkedIn job alert and a couple of newsletters.",
+    "clear": "Nothing in the inbox is waiting on a reply from you."
   },
   "resolved": [],
   "context": {
@@ -50,7 +38,7 @@
     "phase": "blue",
     "location": "Fredericksburg, VA",
     "confidence": "high",
-    "asOf": "Tue Oct 20"
+    "asOf": "Tuesday Oct 20"
   },
   "recipe": {
     "title": "Kabocha squash pie",
@@ -59,14 +47,20 @@
   },
   "tasks": [
     {
-      "title": "Order Portland king bedframe + outdoor shower soap holder",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Household",
-      "due": "Overdue Sep 30",
+      "due": "Overdue Sept 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -79,15 +73,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the books — the day opens completely."
+      "line": "Wheels south on I-95 — the first long leg of the Portland-to-St. Pete run."
     },
     {
       "time": "Afternoon",
-      "line": "Open hours; the only calendar entry is tonight's stay."
+      "line": "The mid-Atlantic middle, the stretch that's just miles and podcasts."
     },
     {
       "time": "Evening",
-      "line": "Checked in at the Spark in Fredericksburg, one leg short of St. Pete."
+      "line": "Checked in at the Spark by Hilton in Fredericksburg, Virginia — roughly the halfway mark."
     }
   ],
   "japanese": {
