@@ -1,18 +1,18 @@
 {
   "date": "Wednesday, October 21, 2026",
-  "generatedAt": "Morning brief · 7:08 AM ET",
-  "theme": "A clear travel day, and two holiday bookings that have waited long enough.",
-  "greeting": "The calendar is open today, Dan, with a stop in Fredericksburg and the road south toward St. Pete. No meetings means this is the right morning to finally close the two holiday bookings that keep slipping.",
+  "generatedAt": "Morning brief · 7:11 AM ET",
+  "theme": "A day on the way south.",
+  "greeting": "You're in Fredericksburg with the whole day open, Dan, and the Coffee Pot Bayou cottage in St. Pete waiting for tomorrow. An empty calendar between legs of the drive is a good window to finally close the two trips that keep sliding.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Your top-priority Todoist task: hold a refundable full-size SUV out of Portland for Christmas week. It is the hardest rental in that market and it sells out, and it has been open since mid-September."
+      "tag": "Window closing",
+      "title": "Lock the Maine Christmas SUV",
+      "detail": "A p1 on the Mike + Dan board, overdue since Sep 14. A refundable full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out; once the Pathfinder is south, it's the only six-seater for the girls' Maine trip. Booking refundable now costs nothing and removes the whole risk."
     },
     {
-      "tag": "Window closed",
-      "title": "December break destination",
-      "detail": "The decide-by was Sept 30 and the book-by was Oct 15, both now passed. Six people, three weeks, over the holidays is the thinnest inventory of the year, so a domestic shortlist needs picking before the choice makes itself."
+      "tag": "Window slipped",
+      "title": "Call the December break",
+      "detail": "A p2 on the board whose decide-by was Sep 30 and book-by was Oct 15, now past. Holiday inventory for six across three weeks is the thinnest of the year, so the move is to pick domestic vs. international and book refundable before it thins further."
     }
   ],
   "schedule": [],
@@ -21,11 +21,16 @@
       {
         "tag": "Job search",
         "title": "NACD New England run of show",
-        "detail": "Laura Ravetto sent the run of show for next week's Oct 28 NACD New England event. Worth a skim so you arrive knowing your part."
+        "detail": "The run of show for the Oct 28 NACD New England event landed on a group thread you're on; worth a skim for anything tied to your part."
+      },
+      {
+        "tag": "Job search",
+        "title": "A LinkedIn message is waiting",
+        "detail": "Hans-Kristian sent a note on LinkedIn that's still unanswered, the kind of networking reply worth not letting sit."
       }
     ],
-    "noise": "The rest is newsletters and shop promos: Italian word-of-the-day, book shops, coffee gear, and a stack of hotel and travel deals.",
-    "clear": ""
+    "noise": "A heavy promo morning, Tracksmith to Bialetti to clock-change sales and travel deals, none of it needing you.",
+    "clear": "Apple receipts, a Hilton points redemption, and the Airbnb reminder for tomorrow are just confirmations."
   },
   "resolved": [],
   "context": {
@@ -42,41 +47,41 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order: bedframe + outdoor shower soap holder",
-      "project": "Household",
+      "title": "Order Portland king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Call dermatologist to book Mike's appointment",
-      "project": "Household",
-      "due": "Overdue Aug 28",
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning in Fredericksburg, with nothing on the calendar to work around."
+      "line": "No meetings on the books today, a rare open stretch between the legs of the drive south."
     },
     {
       "time": "Afternoon",
-      "line": "The day is unclaimed; the two holiday bookings are the one thing worth spending it on."
+      "line": "The St. Pete cottage opens tomorrow, so today is the slack before the last long leg down I-95."
     },
     {
       "time": "Evening",
-      "line": "The Coffee Pot cottage in St. Pete opens tomorrow, the next stop on the way south."
+      "line": "A quiet night in Virginia before Florida takes over the calendar."
     }
   ],
   "japanese": {
