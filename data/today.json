@@ -1,73 +1,37 @@
 {
   "date": "Wednesday, October 21, 2026",
-  "generatedAt": "Morning brief · 10:07 AM ET",
-  "theme": "A travel day — I-95 south, Florida at the far end.",
-  "greeting": "The whole day is the road, Dan — Fredericksburg behind you and the St. Pete cottage opening tomorrow. The calendar is clear of meetings; the real business is two holiday-travel bookings whose windows have quietly closed.",
+  "generatedAt": "Morning brief · 10:10 AM ET",
+  "theme": "On the road south.",
+  "greeting": "Morning, Dan. The calendar's clear and the Fredericksburg stay ends tomorrow, so today is really the move from Virginia down to the St. Pete cottage, girls along.",
   "needsAttention": [
     {
       "tag": "Travel · p1",
-      "title": "Book the Portland Christmas SUV — refundable, now",
-      "detail": "On your Mike + Dan board, flagged p1 and \"book this week\" back on Sept 14. Christmas is the next time all four girls come up to Maine and the Pathfinder is south for the winter, so there's no six-seater waiting — a full-size SUV out of PWM over the holidays sells out, and a refundable hold costs nothing."
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your top-priority board task, overdue since Sep 14: a refundable full-size SUV out of Portland for Christmas week. Holiday inventory at PWM sells out, so a refundable hold now costs nothing and takes the risk off the table."
     },
     {
-      "tag": "Travel · window",
-      "title": "Lock the December-break trip for the girls",
-      "detail": "Your board's book-by of Oct 15 has now passed, for the Dec 13–Jan 2 window with all four girls. Holiday inventory for six over three weeks is the thinnest of the year and only gets dearer — the domestic-shortlist path has nothing to wait on."
+      "tag": "Travel · overdue",
+      "title": "Lock the December break destination",
+      "detail": "Open on the Mike + Dan board since Sep 30, and the book-by-Oct-15 window has already passed. Six people across three holiday weeks is the thinnest inventory of the year; a domestic pick clears it fastest."
     }
   ],
-  "schedule": [
-    {
-      "time": "Morning",
-      "title": "Check out, point south",
-      "detail": "Fredericksburg hotel closes out; car onto I-95 south.",
-      "tag": "Travel"
-    },
-    {
-      "time": "Midday",
-      "title": "The long middle",
-      "detail": "Open miles — nothing on the calendar asks for you.",
-      "tag": "Drive"
-    },
-    {
-      "time": "Evening",
-      "title": "Toward the cottage",
-      "detail": "Closing the distance to Coffee Pot Bayou, which opens tomorrow.",
-      "tag": "Arrive"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "A contact's email was hacked",
-        "detail": "Philip warned Sunday that his account was compromised — don't open the earlier \"Documents\" file he appeared to share; delete it."
-      },
-      {
         "tag": "Job search",
-        "title": "NACD New England event is next Wednesday",
-        "detail": "The Oct 28 Run of Show went round to the full invite list you're on — a governance room worth arriving prepared for."
-      },
-      {
-        "tag": "Financial",
-        "title": "Your mom's KDP account still points to Drew",
-        "detail": "Drew forwarded a Kindle royalty notice for Sandra's account that landed with him — the contact email you thought you'd switched hasn't taken."
-      },
-      {
-        "tag": "FYI",
-        "title": "Tokyo / Valoris call moving off Nov 4",
-        "detail": "On the Independent Managers Club thread you're cc'd on, Mike Lubrano asked to shift the call to Tuesday Nov 3 — nothing owed from you."
+        "title": "NACD New England run of show",
+        "detail": "The chapter sent the run of show for next week's Oct 28 event; the agenda for a governance-network evening worth arriving prepared for."
       }
     ],
-    "noise": "The rest is newsletters and promos — Bloomberg, the Press Herald, Italian Word of the Day, a few shop sales and a Todoist nudge.",
+    "noise": "Everything else is promotions, receipts, and newsletters.",
     "clear": ""
   },
-  "resolved": [
-    "The seasonal Pathfinder drive south is actually underway — the Fredericksburg hotel is behind you and the St. Pete cottage is booked from tomorrow, replacing this winter's run of 28-day Florida rentals."
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Fredericksburg, VA — driving south",
+    "location": "Fredericksburg, VA",
     "confidence": "high",
     "asOf": "Wednesday Oct 21"
   },
@@ -78,13 +42,13 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + outdoor-shower soap holder",
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
@@ -98,21 +62,21 @@
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the books today, a rare open stretch between the legs of the drive south."
+      "line": "A clear calendar and a hotel checkout tomorrow give the day the shape of a travel day."
     },
     {
       "time": "Afternoon",
-      "line": "The St. Pete cottage opens tomorrow, so today is the slack before the last long leg down I-95."
+      "line": "Nothing scheduled to interrupt the move south from Virginia."
     },
     {
       "time": "Evening",
-      "line": "A quiet night in Virginia before Florida takes over the calendar."
+      "line": "Your last Virginia night before the Coffee Pot cottage opens in St. Pete tomorrow."
     }
   ],
   "japanese": {
