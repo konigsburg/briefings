@@ -1,18 +1,18 @@
 {
   "date": "Wednesday, October 21, 2026",
   "generatedAt": "Morning brief · 10:06 PM ET",
-  "theme": "On the road south — Virginia to the Gulf",
-  "greeting": "No meetings today, Dan — the day belongs to the drive south. You're overnighting in Fredericksburg, and the cottage on Coffee Pot Bayou opens tomorrow.",
+  "theme": "A breather on the long drive south.",
+  "greeting": "You're between the Maine stint and St. Pete, overnighting in Fredericksburg with the girls. Nothing on the calendar today — the real work is the booking windows that have been slipping, and the final leg to the Gulf is tomorrow.",
   "needsAttention": [
     {
-      "tag": "Book this week · p1",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Open since mid-September in your Household list. A full-size SUV out of Portland over Christmas week is the first rental to sell out — a refundable hold now costs nothing and removes the risk."
+      "tag": "Booking window",
+      "title": "Maine Christmas SUV is the one that bites",
+      "detail": "The Pathfinder heads south this month, so there's no six-seater in Maine for Christmas. A full-size SUV out of Portland over the holidays sells out — the board task (p1, slipping since mid-September) says book a refundable one now and adjust dates later."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "December break destinations",
-      "detail": "Decide-by and book-by dates have both passed. Holiday inventory for six over three weeks is the thinnest of the year; pick domestic vs. international and lock a shortlist."
+      "tag": "Decide & book",
+      "title": "December break destination still open",
+      "detail": "Shortlist was due Sept 30 and the Oct 15 booking target has passed; holiday inventory for six over three weeks is the thinnest of the year, so every day waited costs options. The task's own steer: pick domestic and book refundable."
     }
   ],
   "schedule": [],
@@ -20,35 +20,36 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two roles in your field",
-        "detail": "LinkedIn surfaced a Sr. Director of U.S. Public Affairs at Servier and a Head of Corporate Affairs USA at Merck KGaA."
+        "title": "LinkedIn message still unanswered",
+        "detail": "Hans-Kristian Bryn messaged you on LinkedIn about three days ago and it's still sitting unread — worth a reply given the networking push."
       },
       {
         "tag": "Job search",
-        "title": "A LinkedIn message is waiting",
-        "detail": "Hans-Kristian messaged you a couple of days ago and hasn't had a reply."
+        "title": "New public-affairs role surfaced",
+        "detail": "LinkedIn job alert flagged a Sr. Director, U.S. Public Affairs at Servier plus one more in your field."
       },
       {
         "tag": "FYI",
-        "title": "NACD New England run-of-show",
-        "detail": "The Oct 28 event agenda went to the group — worth a skim for anything to flag before next week."
-      },
-      {
-        "tag": "FYI",
-        "title": "Valoris / FinCity invites",
-        "detail": "An unknown sender sent calendar invites for early-November stewardship calls; decide whether to accept."
+        "title": "NACD New England run of show",
+        "detail": "The run-of-show for the Oct 28 New England event is circulating; organizers asked the group to flag any edits."
       }
     ],
-    "noise": "The rest is receipts, newsletters, and real-estate alerts — Apple, Hilton, Zillow, Duolingo, the Press Herald.",
+    "noise": "The rest is newsletters, Apple receipts, retail promos, and social notifications.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Scheduled",
+      "title": "IMC / FinCity call locked in",
+      "detail": "Mike and Misaki settled the Independent Managers Club call for Thursday, Nov 5 at 7 AM ET; the updated Zoom invite went out and you're on it."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Fredericksburg, VA (en route south)",
+    "location": "Fredericksburg, VA (en route)",
     "confidence": "high",
-    "asOf": "Wed Oct 21"
+    "asOf": "Wednesday Oct 21"
   },
   "recipe": {
     "title": "Pumpkin chiffon pie",
@@ -58,40 +59,40 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Mike + Dan board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Household",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the day opens onto the road, I-95 pointing south."
+      "line": "No meetings anywhere on the calendar — the day is entirely unstructured."
     },
     {
       "time": "Afternoon",
-      "line": "Miles toward Florida, Fredericksburg falling behind you."
+      "line": "A pause in the Portland-to-St.-Pete run, overnighting in Fredericksburg, Virginia."
     },
     {
       "time": "Evening",
-      "line": "Still Virginia tonight; the St. Pete cottage begins tomorrow."
+      "line": "Last night at the Southpoint before the final leg down to the cottage on Coffee Pot Bayou."
     }
   ],
   "japanese": {
