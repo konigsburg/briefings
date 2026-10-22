@@ -1,58 +1,46 @@
 {
   "date": "Thursday, October 22, 2026",
-  "generatedAt": "Morning brief · 12:07 PM ET",
-  "theme": "An open day, an early start tomorrow.",
-  "greeting": "Good morning, Dan. The calendar is wide open today, with the next fixed thing an early ICGN planning call tomorrow at 7:30. A clear day like this is the moment to close out the travel bookings that have been idling.",
+  "generatedAt": "Morning brief · 12:11 PM ET",
+  "theme": "An open day in St. Pete, the girls around, tomorrow's calls on the horizon.",
+  "greeting": "The whole day is open, Dan — nothing on the calendar and the girls are with you and Mike. The one thing pulling at it is tomorrow's early ICGN Toronto call, so the useful move today is the prep.",
   "needsAttention": [
     {
       "tag": "Prep for tomorrow",
-      "title": "Read the ICGN plenary outline",
-      "detail": "Tomorrow's 7:30 AM planning call for the ICGN Toronto Plenary 7 on stewardship data expects everyone to have reviewed the session outline Claudia circulated. Skim it today so you arrive with a point of view rather than reacting cold."
+      "title": "Read the ICGN Plenary 7 session outline",
+      "detail": "Tomorrow's 7:30 AM ICGN Toronto planning call asks everyone to review the session outline beforehand so the group arrives ready to discuss. Claudia attached it to the invite."
     },
     {
-      "tag": "Window closing",
-      "title": "Hold the Maine Christmas SUV",
-      "detail": "Your top-priority note to book a refundable full-size SUV out of Portland for Christmas week has sat open since mid-September. A full-size SUV at PWM over the holidays is the hardest rental in that market, and a refundable hold now costs nothing and removes the risk."
+      "tag": "Overdue · book",
+      "title": "Maine Christmas SUV rental",
+      "detail": "A p1 task open since mid-September: book a refundable full-size SUV out of Portland for Christmas week before holiday inventory thins. It's the only six-seater in Maine once the Pathfinder heads south."
     },
     {
-      "tag": "Window closing",
-      "title": "Settle the December-break trip",
-      "detail": "The December-break destination was meant to be decided by Sept 30 and booked by Oct 15, and both dates have passed. Holiday inventory for six people across three weeks is the thinnest of the year, so the domestic-vs-international call is worth making today."
+      "tag": "Window closed",
+      "title": "December break destination",
+      "detail": "This p2 holds a three-week holiday trip for six; the book-by date was Oct 15 and has passed. Pick the domestic shortlist and book refundable to stop the slide."
     }
   ],
-  "schedule": [
-    {
-      "time": "All day",
-      "title": "Cottage stay in St. Pete begins",
-      "detail": "Coffee Pot Bayou, Old NE, through Nov 2",
-      "tag": "Stay"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Board-search advisor reached out",
-        "detail": "Elijah at Aurevane Search, an independent board-composition advisory, opened a thread on governance trends - worth a read given the board search."
+        "title": "LinkedIn message from Hans-Kristian Bryn",
+        "detail": "He messaged you three days ago and it's still sitting unanswered — a networking thread worth a short reply."
       },
       {
         "tag": "Job search",
-        "title": "LinkedIn message still waiting",
-        "detail": "Hans-Kristian Bryn messaged you on LinkedIn three days ago and it is still unanswered."
+        "title": "Merck KGaA — Head of Corporate Affairs, USA",
+        "detail": "A LinkedIn alert surfaced this role, noting 13 of your company alumni are connected there."
       },
       {
         "tag": "FYI",
-        "title": "Mike sent a sailing open house",
-        "detail": "Mike forwarded an Intelligent Sailing open house invitation."
-      },
-      {
-        "tag": "FYI",
-        "title": "Reunion is collecting photos",
-        "detail": "The B'Yachad reunion organizer is gathering photos and RSVPs, 31 days out."
+        "title": "NACD New England — Oct 28 run of show",
+        "detail": "Lydia circulated the run of show for next Tuesday's event you're part of and is inviting edits."
       }
     ],
-    "noise": "The rest is retail and seasonal promotions - Thanksgiving tables, fall sales, and a couple of newsletters.",
-    "clear": "Nothing urgent is sitting unanswered this morning."
+    "noise": "The rest is receipts, newsletters, promotions, and travel confirmations.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -75,29 +63,29 @@
       "overdue": true
     },
     {
-      "title": "Place the Portland house order",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar - the open stretch the Christmas rental and December-break decisions have been waiting for."
+      "line": "No meetings on the calendar — the morning was yours, with the girls around."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear; the ICGN Plenary 7 outline is the one document worth opening before tomorrow's early call."
+      "line": "Still nothing booked; the open stretch runs clear to the evening."
     },
     {
       "time": "Evening",
-      "line": "An early alarm ahead, with the Toronto planning call opening at 7:30 tomorrow morning."
+      "line": "Worth an early night — tomorrow opens at 7:30 with the ICGN Toronto planning call."
     }
   ],
   "japanese": {
