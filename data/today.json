@@ -1,23 +1,23 @@
 {
   "date": "Thursday, October 22, 2026",
   "generatedAt": "Morning brief · 4:08 PM ET",
-  "theme": "A clear calendar today, with tomorrow's early start on the horizon.",
-  "greeting": "A rare open day, Dan -- nothing on the calendar to work around. The pull is tomorrow's 7:30 ICGN planning call and a couple of travel bookings that have waited long enough.",
+  "theme": "A clear day in St. Pete, with an early call tomorrow to get ready for.",
+  "greeting": "A rare open day in St. Pete with the girls, Dan — no meetings to make. The only real pull is tomorrow's early ICGN call, which a little prep tonight makes easy.",
   "needsAttention": [
     {
       "tag": "Prep for tomorrow",
-      "title": "Read the Plenary 7 session outline",
-      "detail": "Tomorrow's 7:30 AM ICGN Toronto planning call opens on the session outlines Claudia circulated, with a note to review them beforehand. Skim the Plenary 7 draft tonight so you arrive ready to shape the stewardship-data discussion."
+      "title": "Review the Plenary 7 session outline",
+      "detail": "Tomorrow's 7:30 AM ICGN planning call has the session outline attached, and Claudia asked everyone to read it first — you're walking the group through it, so arrive holding the running order and the open questions the group flagged."
     },
     {
-      "tag": "Book this week",
-      "title": "Lock the Maine Christmas SUV",
-      "detail": "The full-size Portland SUV for Christmas week is your one p1, overdue since mid-September, and the rental most likely to sell out over the holidays. Book it refundable now and adjust the dates once the trip firms up."
+      "tag": "Job search",
+      "title": "Reply to the CIFIC recruiter",
+      "detail": "Amin at Noorani Plus Partners followed up Oct 15 after your intro call about the VP, Government Relations & Regulatory Affairs role at CIFIC — the note has been waiting a week on your reply."
     },
     {
-      "tag": "Window closing",
-      "title": "Settle the December break destination",
-      "detail": "Both the shortlist and booking dates for the December trip with the girls have passed, and holiday inventory for six only thins from here. Pick domestic or international and get something held."
+      "tag": "Overdue booking",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your p1 Household task to reserve a refundable full-size SUV out of Portland for Christmas week has been overdue since Sept 14 — holiday inventory there is the thinnest of the year, and the note's whole point is that waiting costs money."
     }
   ],
   "schedule": [],
@@ -25,17 +25,22 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn note from Hans-Kristian Bryn",
-        "detail": "A message that has sat three days unread -- worth opening given the board search and his governance circle."
+        "title": "Board-composition search intro",
+        "detail": "Elijah AT of Aurevane, an executive-search practice advising mid-market boards, opened a thread this morning worth a look."
+      },
+      {
+        "tag": "Job search",
+        "title": "LinkedIn replies still pending",
+        "detail": "A board & CEO search partner and another contact are waiting on responses in your LinkedIn messages."
       },
       {
         "tag": "FYI",
-        "title": "NACD New England run of show",
-        "detail": "The agenda for next week's Oct 28 NACD New England event is circulating for review; skim it for anything touching your part."
+        "title": "NACD Oct 28 run-of-show",
+        "detail": "Lauren circulated the agenda for next week's New England event in Portland; flag any edits when you can."
       }
     ],
-    "noise": "Below that, the usual tide -- sailing schools, cookware, recipe sends, home listings, a reunion photo request, and a stack of promos and receipts.",
-    "clear": ""
+    "noise": "The rest is newsletters, travel receipts, and promos — Airbnb check-in logistics, Apple receipts, and the ISSB/Responsible Investor governance digests.",
+    "clear": "Inbox is otherwise under control."
   },
   "resolved": [],
   "context": {
@@ -52,35 +57,53 @@
   },
   "tasks": [
     {
+      "title": "December break — shortlist 3 destinations & book",
+      "project": "Household",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
       "title": "Get 3 term life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order -- king bedframe + outdoor shower soap holder",
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder down — Portland to St Pete",
+      "project": "Household",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing sat on the calendar before noon -- the kind of open stretch that has been rare lately."
+      "line": "No meetings held the morning — an open stretch, rare on a weekday."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon runs clear straight through, with no meetings to bookend it."
+      "line": "The afternoon stayed clear too, settled into the Coffee Pot Bayou cottage with the girls through early November."
     },
     {
       "time": "Evening",
-      "line": "An early 7:30 call tomorrow tilts tonight toward an earlier wind-down than usual."
+      "line": "Tomorrow opens early with calls to London and Toronto, so tonight tilts toward an early close."
     }
   ],
   "japanese": {
