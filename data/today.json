@@ -1,18 +1,23 @@
 {
   "date": "Thursday, October 22, 2026",
-  "generatedAt": "Morning brief · 6:06 AM ET",
-  "theme": "A breather on the long drive south.",
-  "greeting": "You're between the Maine stint and St. Pete, overnighting in Fredericksburg with the girls. Nothing on the calendar today — the real work is the booking windows that have been slipping, and the final leg to the Gulf is tomorrow.",
+  "generatedAt": "Morning brief · 6:10 AM ET",
+  "theme": "An open day, and a few bookings that have waited long enough.",
+  "greeting": "Good morning, Dan. Nothing is on the calendar today, which makes it the right day to close the travel bookings that keep slipping and to glance at the agenda for tomorrow's early ICGN call.",
   "needsAttention": [
     {
-      "tag": "Booking window",
-      "title": "Maine Christmas SUV is the one that bites",
-      "detail": "The Pathfinder heads south this month, so there's no six-seater in Maine for Christmas. A full-size SUV out of Portland over the holidays sells out — the board task (p1, slipping since mid-September) says book a refundable one now and adjust dates later."
+      "tag": "Book today",
+      "title": "Maine Christmas SUV is still unbooked",
+      "detail": "Your top-priority task has sat open since mid-September. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market and sells out; a refundable hold costs nothing and removes the whole risk."
     },
     {
-      "tag": "Decide & book",
-      "title": "December break destination still open",
-      "detail": "Shortlist was due Sept 30 and the Oct 15 booking target has passed; holiday inventory for six over three weeks is the thinnest of the year, so every day waited costs options. The task's own steer: pick domestic and book refundable."
+      "tag": "Decide and book",
+      "title": "December break needs a destination",
+      "detail": "The decide-by and book-by dates have both passed. All four girls, Dec 13 to Jan 2, over the holidays: the thinnest inventory of the year for six people, so the longer this waits the fewer options remain."
+    },
+    {
+      "tag": "Prep for tomorrow",
+      "title": "Read the ICGN Toronto plenary outline",
+      "detail": "Tomorrow's 7:30 AM planning call for the stewardship-data plenary asks everyone to arrive having read the session outline Claudia circulated. A skim tonight means you walk in ready to discuss rather than catch up."
     }
   ],
   "schedule": [],
@@ -20,36 +25,35 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn message still unanswered",
-        "detail": "Hans-Kristian Bryn messaged you on LinkedIn about three days ago and it's still sitting unread — worth a reply given the networking push."
+        "title": "Sr Director, U.S. Public Affairs role",
+        "detail": "LinkedIn surfaced a Servier Pharmaceuticals opening, plus one more, squarely in your public-affairs lane."
       },
       {
         "tag": "Job search",
-        "title": "New public-affairs role surfaced",
-        "detail": "LinkedIn job alert flagged a Sr. Director, U.S. Public Affairs at Servier plus one more in your field."
+        "title": "LinkedIn note from Hans-Kristian Bryn",
+        "detail": "He messaged you three days ago and the thread is still awaiting your reply."
       },
       {
         "tag": "FYI",
-        "title": "NACD New England run of show",
-        "detail": "The run-of-show for the Oct 28 New England event is circulating; organizers asked the group to flag any edits."
+        "title": "ICGN Global Stewardship Forum invite",
+        "detail": "A save-your-place invitation for the Dec 1 forum and awards in London."
+      },
+      {
+        "tag": "FYI",
+        "title": "NACD New England run of show, Oct 28",
+        "detail": "The run of show for next week's event went out to the group; you're cc'd to flag any edits."
       }
     ],
-    "noise": "The rest is newsletters, Apple receipts, retail promos, and social notifications.",
+    "noise": "The rest is promotions, newsletters, Apple receipts, and a VA bulletin.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Scheduled",
-      "title": "IMC / FinCity call locked in",
-      "detail": "Mike and Misaki settled the Independent Managers Club call for Thursday, Nov 5 at 7 AM ET; the updated Zoom invite went out and you're on it."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Fredericksburg, VA (en route)",
+    "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Wednesday Oct 21"
+    "asOf": "Thursday Oct 22"
   },
   "recipe": {
     "title": "Vin santo–roasted pears",
@@ -58,41 +62,41 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan board",
+      "title": "Portland house order: king bedframe + outdoor shower soap holder",
+      "project": "Family / Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Family / Household",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist to book an appointment",
+      "project": "Family / Household",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings anywhere on the calendar — the day is entirely unstructured."
+      "line": "Not a single meeting on the calendar, so the whole morning is unclaimed."
     },
     {
       "time": "Afternoon",
-      "line": "A pause in the Portland-to-St.-Pete run, overnighting in Fredericksburg, Virginia."
+      "line": "Still open end to end; a clean stretch to finally clear the Christmas rental and the December-break decision."
     },
     {
       "time": "Evening",
-      "line": "Last night at the Southpoint before the final leg down to the cottage on Coffee Pot Bayou."
+      "line": "Tomorrow's ICGN call lands at 7:30 sharp, so the plenary outline is worth reading before the day closes."
     }
   ],
   "japanese": {
