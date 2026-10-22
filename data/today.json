@@ -1,23 +1,23 @@
 {
   "date": "Thursday, October 22, 2026",
   "generatedAt": "Morning brief · 2:06 PM ET",
-  "theme": "An open day in St. Pete, the girls around, tomorrow's calls on the horizon.",
-  "greeting": "The whole day is open, Dan — nothing on the calendar and the girls are with you and Mike. The one thing pulling at it is tomorrow's early ICGN Toronto call, so the useful move today is the prep.",
+  "theme": "A clear calendar today, with tomorrow's early start on the horizon.",
+  "greeting": "A rare open day, Dan -- nothing on the calendar to work around. The pull is tomorrow's 7:30 ICGN planning call and a couple of travel bookings that have waited long enough.",
   "needsAttention": [
     {
       "tag": "Prep for tomorrow",
-      "title": "Read the ICGN Plenary 7 session outline",
-      "detail": "Tomorrow's 7:30 AM ICGN Toronto planning call asks everyone to review the session outline beforehand so the group arrives ready to discuss. Claudia attached it to the invite."
+      "title": "Read the Plenary 7 session outline",
+      "detail": "Tomorrow's 7:30 AM ICGN Toronto planning call opens on the session outlines Claudia circulated, with a note to review them beforehand. Skim the Plenary 7 draft tonight so you arrive ready to shape the stewardship-data discussion."
     },
     {
-      "tag": "Overdue · book",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A p1 task open since mid-September: book a refundable full-size SUV out of Portland for Christmas week before holiday inventory thins. It's the only six-seater in Maine once the Pathfinder heads south."
+      "tag": "Book this week",
+      "title": "Lock the Maine Christmas SUV",
+      "detail": "The full-size Portland SUV for Christmas week is your one p1, overdue since mid-September, and the rental most likely to sell out over the holidays. Book it refundable now and adjust the dates once the trip firms up."
     },
     {
-      "tag": "Window closed",
-      "title": "December break destination",
-      "detail": "This p2 holds a three-week holiday trip for six; the book-by date was Oct 15 and has passed. Pick the domestic shortlist and book refundable to stop the slide."
+      "tag": "Window closing",
+      "title": "Settle the December break destination",
+      "detail": "Both the shortlist and booking dates for the December trip with the girls have passed, and holiday inventory for six only thins from here. Pick domestic or international and get something held."
     }
   ],
   "schedule": [],
@@ -25,21 +25,16 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn message from Hans-Kristian Bryn",
-        "detail": "He messaged you three days ago and it's still sitting unanswered — a networking thread worth a short reply."
-      },
-      {
-        "tag": "Job search",
-        "title": "Merck KGaA — Head of Corporate Affairs, USA",
-        "detail": "A LinkedIn alert surfaced this role, noting 13 of your company alumni are connected there."
+        "title": "LinkedIn note from Hans-Kristian Bryn",
+        "detail": "A message that has sat three days unread -- worth opening given the board search and his governance circle."
       },
       {
         "tag": "FYI",
-        "title": "NACD New England — Oct 28 run of show",
-        "detail": "Lydia circulated the run of show for next Tuesday's event you're part of and is inviting edits."
+        "title": "NACD New England run of show",
+        "detail": "The agenda for next week's Oct 28 NACD New England event is circulating for review; skim it for anything touching your part."
       }
     ],
-    "noise": "The rest is receipts, newsletters, promotions, and travel confirmations.",
+    "noise": "Below that, the usual tide -- sailing schools, cookware, recipe sends, home listings, a reunion photo request, and a stack of promos and receipts.",
     "clear": ""
   },
   "resolved": [],
@@ -63,7 +58,7 @@
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Portland house order -- king bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
@@ -77,15 +72,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar — the morning was yours, with the girls around."
+      "line": "Nothing sat on the calendar before noon -- the kind of open stretch that has been rare lately."
     },
     {
       "time": "Afternoon",
-      "line": "Still nothing booked; the open stretch runs clear to the evening."
+      "line": "The afternoon runs clear straight through, with no meetings to bookend it."
     },
     {
       "time": "Evening",
-      "line": "Worth an early night — tomorrow opens at 7:30 with the ICGN Toronto planning call."
+      "line": "An early 7:30 call tomorrow tilts tonight toward an earlier wind-down than usual."
     }
   ],
   "japanese": {
