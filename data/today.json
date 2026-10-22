@@ -1,48 +1,58 @@
 {
   "date": "Thursday, October 22, 2026",
   "generatedAt": "Morning brief · 10:06 AM ET",
-  "theme": "A rare open calendar in St. Pete, with an early call on tomorrow's edge.",
-  "greeting": "Nothing on the calendar today, Dan — the girls are with you and Mike at the cottage. The one early thing is tomorrow's 7:30 ICGN call, so a little prep tonight goes a long way.",
+  "theme": "An open day, an early start tomorrow.",
+  "greeting": "Good morning, Dan. The calendar is wide open today, with the next fixed thing an early ICGN planning call tomorrow at 7:30. A clear day like this is the moment to close out the travel bookings that have been idling.",
   "needsAttention": [
     {
-      "tag": "Tomorrow · prep",
-      "title": "Read the Plenary 7 outline before tomorrow's 7:30 call",
-      "detail": "Claudia Rossetti asked the panel to review the session outline she attached before the ICGN Toronto planning call tomorrow at 7:30 AM ET."
+      "tag": "Prep for tomorrow",
+      "title": "Read the ICGN plenary outline",
+      "detail": "Tomorrow's 7:30 AM planning call for the ICGN Toronto Plenary 7 on stewardship data expects everyone to have reviewed the session outline Claudia circulated. Skim it today so you arrive with a point of view rather than reacting cold."
     },
     {
-      "tag": "Overdue · book",
-      "title": "Book the Maine Christmas SUV, refundable",
-      "detail": "The p1 'book this week' task on the Mike + Dan board has been open since Sept 14; a full-size SUV from Portland over Christmas is the year's thinnest rental, so a refundable hold ends the risk."
+      "tag": "Window closing",
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "Your top-priority note to book a refundable full-size SUV out of Portland for Christmas week has sat open since mid-September. A full-size SUV at PWM over the holidays is the hardest rental in that market, and a refundable hold now costs nothing and removes the risk."
     },
     {
-      "tag": "Overdue · decide",
-      "title": "Lock the December break destination",
-      "detail": "Decide-by Sept 30 and book-by Oct 15 have both passed on the Mike + Dan board; holiday inventory for six over three weeks only thins from here."
+      "tag": "Window closing",
+      "title": "Settle the December-break trip",
+      "detail": "The December-break destination was meant to be decided by Sept 30 and booked by Oct 15, and both dates have passed. Holiday inventory for six people across three weeks is the thinnest of the year, so the domestic-vs-international call is worth making today."
     }
   ],
   "schedule": [
     {
       "time": "All day",
-      "title": "St. Pete, Coffee Pot Bayou cottage",
-      "detail": "Your base through Nov 3; the girls are with you and Mike.",
-      "tag": "home"
+      "title": "Cottage stay in St. Pete begins",
+      "detail": "Coffee Pot Bayou, Old NE, through Nov 2",
+      "tag": "Stay"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Executive-search outreach on board composition",
-        "detail": "Elijah at Aurevane Search, advising mid-market boards on composition, wrote to you directly — worth a look given your board search."
+        "title": "Board-search advisor reached out",
+        "detail": "Elijah at Aurevane Search, an independent board-composition advisory, opened a thread on governance trends - worth a read given the board search."
+      },
+      {
+        "tag": "Job search",
+        "title": "LinkedIn message still waiting",
+        "detail": "Hans-Kristian Bryn messaged you on LinkedIn three days ago and it is still unanswered."
       },
       {
         "tag": "FYI",
-        "title": "NACD New England run of show, Oct 28",
-        "detail": "Laura Ravetto sent the run of show for next week's NACD event you're cc'd on, open to edits if anything looks off."
+        "title": "Mike sent a sailing open house",
+        "detail": "Mike forwarded an Intelligent Sailing open house invitation."
+      },
+      {
+        "tag": "FYI",
+        "title": "Reunion is collecting photos",
+        "detail": "The B'Yachad reunion organizer is gathering photos and RSVPs, 31 days out."
       }
     ],
-    "noise": "Otherwise a stack of LinkedIn job alerts (public affairs, PE, board roles), two connection invites, and the usual NYT Cooking, NPR and Morgan Stanley newsletters.",
-    "clear": "No security, account, or financial items needing you."
+    "noise": "The rest is retail and seasonal promotions - Thanksgiving tables, fall sales, and a couple of newsletters.",
+    "clear": "Nothing urgent is sitting unanswered this morning."
   },
   "resolved": [],
   "context": {
@@ -59,47 +69,35 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Place the Portland house order",
+      "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder down to St. Pete",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/3",
+    "morning": "0/9",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is clear straight through — your first fixed commitment is tomorrow morning."
+      "line": "Nothing on the calendar - the open stretch the Christmas rental and December-break decisions have been waiting for."
     },
     {
       "time": "Afternoon",
-      "line": "An open, unbroken stretch: the kind of day to spend on what's been pushed down the list."
+      "line": "Still clear; the ICGN Plenary 7 outline is the one document worth opening before tomorrow's early call."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens at 7:30, so tonight tilts toward an earlier wind-down."
+      "line": "An early alarm ahead, with the Toronto planning call opening at 7:30 tomorrow morning."
     }
   ],
   "japanese": {
