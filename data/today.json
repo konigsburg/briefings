@@ -1,23 +1,23 @@
 {
   "date": "Thursday, October 22, 2026",
   "generatedAt": "Morning brief · 7:10 AM ET",
-  "theme": "An open day, and a few bookings that have waited long enough.",
-  "greeting": "Good morning, Dan. Nothing is on the calendar today, which makes it the right day to close the travel bookings that keep slipping and to glance at the agenda for tomorrow's early ICGN call.",
+  "theme": "An open day in St. Pete, with one early call to prep for tomorrow.",
+  "greeting": "Nothing is on the calendar today, Dan, so the day is genuinely yours. The thing that earns some of it is prep for tomorrow's 7:30 ICGN planning call — plus a couple of holiday-travel bookings that are well past due.",
   "needsAttention": [
     {
-      "tag": "Book today",
-      "title": "Maine Christmas SUV is still unbooked",
-      "detail": "Your top-priority task has sat open since mid-September. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market and sells out; a refundable hold costs nothing and removes the whole risk."
-    },
-    {
-      "tag": "Decide and book",
-      "title": "December break needs a destination",
-      "detail": "The decide-by and book-by dates have both passed. All four girls, Dec 13 to Jan 2, over the holidays: the thinnest inventory of the year for six people, so the longer this waits the fewer options remain."
-    },
-    {
       "tag": "Prep for tomorrow",
-      "title": "Read the ICGN Toronto plenary outline",
-      "detail": "Tomorrow's 7:30 AM planning call for the stewardship-data plenary asks everyone to arrive having read the session outline Claudia circulated. A skim tonight means you walk in ready to discuss rather than catch up."
+      "title": "Read the ICGN Plenary 7 session outline",
+      "detail": "Tomorrow's 7:30 AM planning call for the Toronto conference asks everyone to review the attached session outline beforehand so you arrive ready to discuss the stewardship-data deep dive."
+    },
+    {
+      "tag": "Window closing",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your top-priority task to reserve a full-size SUV out of Portland for Christmas week is long overdue. It's the hardest rental in that market over the holidays — a refundable booking held now removes the whole risk."
+    },
+    {
+      "tag": "Window closing",
+      "title": "Lock the December break plan",
+      "detail": "The decide-by and book-by dates for the all-four-kids December trip have both passed. Holiday inventory for six, over three weeks, is the thinnest of the year — pick domestic or flexible-international and commit."
     }
   ],
   "schedule": [],
@@ -25,26 +25,21 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Sr Director, U.S. Public Affairs role",
-        "detail": "LinkedIn surfaced a Servier Pharmaceuticals opening, plus one more, squarely in your public-affairs lane."
-      },
-      {
-        "tag": "Job search",
         "title": "LinkedIn note from Hans-Kristian Bryn",
-        "detail": "He messaged you three days ago and the thread is still awaiting your reply."
+        "detail": "A message from Hans-Kristian Bryn has been waiting a few days — worth a reply if it's a networking thread."
       },
       {
         "tag": "FYI",
-        "title": "ICGN Global Stewardship Forum invite",
-        "detail": "A save-your-place invitation for the Dec 1 forum and awards in London."
+        "title": "NACD New England run of show",
+        "detail": "The run of show for next Wednesday's NACD New England event (Oct 28) arrived; you're on the participant list."
       },
       {
         "tag": "FYI",
-        "title": "NACD New England run of show, Oct 28",
-        "detail": "The run of show for next week's event went out to the group; you're cc'd to flag any edits."
+        "title": "Valoris / FinCity call moved to Nov 5",
+        "detail": "An updated invite sets the Valoris Stewardship Catalysts x IMC/FinCity call for Nov 5, 7–8 AM ET."
       }
     ],
-    "noise": "The rest is promotions, newsletters, Apple receipts, and a VA bulletin.",
+    "noise": "The rest is Apple receipts, hotel-points offers, and LinkedIn/Facebook digests — nothing needing you.",
     "clear": ""
   },
   "resolved": [],
@@ -62,21 +57,21 @@
   },
   "tasks": [
     {
-      "title": "Portland house order: king bedframe + outdoor shower soap holder",
-      "project": "Family / Household",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Family / Household",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Call dermatologist to book an appointment",
-      "project": "Family / Household",
-      "due": "Overdue Aug 28",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder south to St. Pete",
+      "project": "Travel",
+      "due": "Overdue Sep 25",
       "overdue": true
     }
   ],
@@ -88,15 +83,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Not a single meeting on the calendar, so the whole morning is unclaimed."
+      "line": "The calendar is clear straight through — your first fixed commitment is tomorrow morning."
     },
     {
       "time": "Afternoon",
-      "line": "Still open end to end; a clean stretch to finally clear the Christmas rental and the December-break decision."
+      "line": "An open, unbroken stretch: the kind of day to spend on what's been pushed down the list."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow's ICGN call lands at 7:30 sharp, so the plenary outline is worth reading before the day closes."
+      "line": "Tomorrow opens at 7:30, so tonight tilts toward an earlier wind-down."
     }
   ],
   "japanese": {
