@@ -1,54 +1,52 @@
 {
   "date": "Wednesday, October 21, 2026",
   "generatedAt": "Morning brief · 8:06 PM ET",
-  "theme": "A quiet travel day, pointed south.",
-  "greeting": "You're on the road south, Dan — a night in Fredericksburg, then the Coffee Pot cottage in St. Pete tomorrow. Nothing's on the calendar, so the open stretch is yours; the booking items below have waited long enough.",
+  "theme": "On the road south — Virginia to the Gulf",
+  "greeting": "No meetings today, Dan — the day belongs to the drive south. You're overnighting in Fredericksburg, and the cottage on Coffee Pot Bayou opens tomorrow.",
   "needsAttention": [
     {
-      "tag": "Window closing",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "The p1 rental has sat since mid-September. A full-size SUV out of Portland over Christmas week is the thinnest inventory in that market — book refundable now and adjust the dates later."
+      "tag": "Book this week · p1",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Open since mid-September in your Household list. A full-size SUV out of Portland over Christmas week is the first rental to sell out — a refundable hold now costs nothing and removes the risk."
     },
     {
-      "tag": "Past due",
-      "title": "Lock the December break plan",
-      "detail": "Decide-by was Sept 30 and the Oct 15 book-by has passed. Pick domestic or international and get the three-week trip for six onto the calendar before holiday inventory thins further."
+      "tag": "Overdue · p2",
+      "title": "December break destinations",
+      "detail": "Decide-by and book-by dates have both passed. Holiday inventory for six over three weeks is the thinnest of the year; pick domestic vs. international and lock a shortlist."
     }
   ],
-  "schedule": [
-    {
-      "time": "All day",
-      "title": "On the road south",
-      "detail": "Fredericksburg overnight; St. Pete cottage tomorrow",
-      "tag": "Travel"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Managing Director role at Carnegie",
-        "detail": "A LinkedIn alert flags a Private Equity Managing Director opening at the Andrew Carnegie Foundation."
+        "title": "Two roles in your field",
+        "detail": "LinkedIn surfaced a Sr. Director of U.S. Public Affairs at Servier and a Head of Corporate Affairs USA at Merck KGaA."
       },
       {
         "tag": "Job search",
-        "title": "Hans-Kristian messaged you on LinkedIn",
-        "detail": "A new LinkedIn message is waiting for a reply."
+        "title": "A LinkedIn message is waiting",
+        "detail": "Hans-Kristian messaged you a couple of days ago and hasn't had a reply."
       },
       {
         "tag": "FYI",
-        "title": "NACD New England run of show",
-        "detail": "The agenda for next Tuesday's Oct 28 event landed — skim it for anything that needs an edit."
+        "title": "NACD New England run-of-show",
+        "detail": "The Oct 28 event agenda went to the group — worth a skim for anything to flag before next week."
+      },
+      {
+        "tag": "FYI",
+        "title": "Valoris / FinCity invites",
+        "detail": "An unknown sender sent calendar invites for early-November stewardship calls; decide whether to accept."
       }
     ],
-    "noise": "Apple receipts, a Hilton points redemption, and a few store promos.",
+    "noise": "The rest is receipts, newsletters, and real-estate alerts — Apple, Hilton, Zillow, Duolingo, the Press Herald.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
-    "location": "Fredericksburg, VA",
+    "location": "Fredericksburg, VA (en route south)",
     "confidence": "high",
     "asOf": "Wed Oct 21"
   },
@@ -60,25 +58,19 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south — in progress today",
-      "project": "Mike + Dan",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -91,15 +83,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Miles down I-95 behind you — the drive set the day's only rhythm."
+      "line": "Nothing on the calendar — the day opens onto the road, I-95 pointing south."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar holds you; the road is the whole agenda."
+      "line": "Miles toward Florida, Fredericksburg falling behind you."
     },
     {
       "time": "Evening",
-      "line": "Fredericksburg for the night, then St. Pete tomorrow — a quiet window to clear the booking list."
+      "line": "Still Virginia tonight; the St. Pete cottage begins tomorrow."
     }
   ],
   "japanese": {
