@@ -1,46 +1,48 @@
 {
   "date": "Thursday, October 22, 2026",
   "generatedAt": "Morning brief · 8:05 AM ET",
-  "theme": "An open day in St. Pete, with one early call to prep for tomorrow.",
-  "greeting": "Nothing is on the calendar today, Dan, so the day is genuinely yours. The thing that earns some of it is prep for tomorrow's 7:30 ICGN planning call — plus a couple of holiday-travel bookings that are well past due.",
+  "theme": "A rare open calendar in St. Pete, with an early call on tomorrow's edge.",
+  "greeting": "Nothing on the calendar today, Dan — the girls are with you and Mike at the cottage. The one early thing is tomorrow's 7:30 ICGN call, so a little prep tonight goes a long way.",
   "needsAttention": [
     {
-      "tag": "Prep for tomorrow",
-      "title": "Read the ICGN Plenary 7 session outline",
-      "detail": "Tomorrow's 7:30 AM planning call for the Toronto conference asks everyone to review the attached session outline beforehand so you arrive ready to discuss the stewardship-data deep dive."
+      "tag": "Tomorrow · prep",
+      "title": "Read the Plenary 7 outline before tomorrow's 7:30 call",
+      "detail": "Claudia Rossetti asked the panel to review the session outline she attached before the ICGN Toronto planning call tomorrow at 7:30 AM ET."
     },
     {
-      "tag": "Window closing",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Your top-priority task to reserve a full-size SUV out of Portland for Christmas week is long overdue. It's the hardest rental in that market over the holidays — a refundable booking held now removes the whole risk."
+      "tag": "Overdue · book",
+      "title": "Book the Maine Christmas SUV, refundable",
+      "detail": "The p1 'book this week' task on the Mike + Dan board has been open since Sept 14; a full-size SUV from Portland over Christmas is the year's thinnest rental, so a refundable hold ends the risk."
     },
     {
-      "tag": "Window closing",
-      "title": "Lock the December break plan",
-      "detail": "The decide-by and book-by dates for the all-four-kids December trip have both passed. Holiday inventory for six, over three weeks, is the thinnest of the year — pick domestic or flexible-international and commit."
+      "tag": "Overdue · decide",
+      "title": "Lock the December break destination",
+      "detail": "Decide-by Sept 30 and book-by Oct 15 have both passed on the Mike + Dan board; holiday inventory for six over three weeks only thins from here."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "All day",
+      "title": "St. Pete, Coffee Pot Bayou cottage",
+      "detail": "Your base through Nov 3; the girls are with you and Mike.",
+      "tag": "home"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn note from Hans-Kristian Bryn",
-        "detail": "A message from Hans-Kristian Bryn has been waiting a few days — worth a reply if it's a networking thread."
+        "title": "Executive-search outreach on board composition",
+        "detail": "Elijah at Aurevane Search, advising mid-market boards on composition, wrote to you directly — worth a look given your board search."
       },
       {
         "tag": "FYI",
-        "title": "NACD New England run of show",
-        "detail": "The run of show for next Wednesday's NACD New England event (Oct 28) arrived; you're on the participant list."
-      },
-      {
-        "tag": "FYI",
-        "title": "Valoris / FinCity call moved to Nov 5",
-        "detail": "An updated invite sets the Valoris Stewardship Catalysts x IMC/FinCity call for Nov 5, 7–8 AM ET."
+        "title": "NACD New England run of show, Oct 28",
+        "detail": "Laura Ravetto sent the run of show for next week's NACD event you're cc'd on, open to edits if anything looks off."
       }
     ],
-    "noise": "The rest is Apple receipts, hotel-points offers, and LinkedIn/Facebook digests — nothing needing you.",
-    "clear": ""
+    "noise": "Otherwise a stack of LinkedIn job alerts (public affairs, PE, board roles), two connection invites, and the usual NYT Cooking, NPR and Morgan Stanley newsletters.",
+    "clear": "No security, account, or financial items needing you."
   },
   "resolved": [],
   "context": {
@@ -51,33 +53,39 @@
     "asOf": "Thursday Oct 22"
   },
   "recipe": {
-    "title": "Vin santo–roasted pears",
+    "title": "Vin santo-roasted pears",
     "book": "Canal House Cooks Every Day",
-    "why": "Peak pear season calls for something unhurried — pears slow-roasted in sweet wine, the kind of autumn dessert that perfumes the kitchen while the evening settles."
+    "why": "Autumn pears are at their peak, and roasting them in sweet wine makes a warm, hands-off finish the girls can share after dinner at the cottage."
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Household",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder south to St. Pete",
-      "project": "Travel",
+      "title": "Drive the Pathfinder down to St. Pete",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
