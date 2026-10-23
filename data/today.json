@@ -1,48 +1,46 @@
 {
   "date": "Friday, October 23, 2026",
-  "generatedAt": "Morning brief · 10:07 AM ET",
-  "theme": "Two short calls, then the day opens up in St. Pete.",
-  "greeting": "A light meeting day with the girls, Dan — but a priority-one Christmas rental has been waiting weeks and is the one thing genuinely worth clearing today.",
+  "generatedAt": "Morning brief · 10:11 AM ET",
+  "theme": "A light calendar, with the holidays quietly pressing.",
+  "greeting": "Morning, Dan. Two short calls bookend your morning, then the day opens right up with the girls home in St. Pete — a good window to finally lock the holiday travel bookings that keep sliding.",
   "needsAttention": [
     {
       "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV — refundable",
-      "detail": "On your Mike + Dan board, the p1 rental has sat open since Sep 14. A full-size SUV out of Portland over Christmas week is the hardest booking in that market and sells out; a refundable hold costs nothing and removes the risk."
+      "title": "The Christmas SUV rental still isn't booked",
+      "detail": "Your top-priority board task, overdue since Sep 14: hold a refundable full-size SUV out of Portland for Christmas week. It's the hardest rental in that market over the holidays and sells out — a refundable booking now costs nothing and removes the whole risk."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "Decide the December-break destination",
-      "detail": "Both clocks have passed (decide Sep 30, book Oct 15). All four girls, Dec 13–Jan 2 — the thinnest inventory of the year, so a domestic shortlist you can book outright is the safe default."
+      "tag": "Travel · overdue",
+      "title": "December break is still undecided",
+      "detail": "Both the decide-by (Sep 30) and book-by (Oct 15) dates have passed on the 21-day December trip for all four girls. Pick a domestic shortlist and book — holiday inventory for six over three weeks is the thinnest of the year."
     }
   ],
   "schedule": [
     {
       "time": "7:30 AM",
-      "title": "ICGN Toronto planning call",
-      "detail": "Plenary 7 — evolving stewardship data, reporting and impact.",
-      "tag": "Call"
+      "title": "ICGN Toronto — Plenary 7 planning",
+      "detail": "Stewardship data & reporting deep-dive; session outlines attached",
+      "tag": "call"
     },
     {
       "time": "10:15 AM",
-      "title": "Valoris working call",
-      "detail": "With Mike, Martin, and Davit.",
-      "tag": "Call"
+      "title": "Dan, Martin, Davit & Mike",
+      "detail": "Valoris group call on Teams",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Cold board-advisory outreach",
-        "detail": "Elijah A.T. / Aurevane Search pitched a 'board composition brief' with a reply-to-engage hook — reads as low-signal prospecting, not a real search engagement. A LinkedIn KPMG Managing Director auto-alert also came in."
+        "tag": "Financial",
+        "title": "Morgan Stanley CashPlus fee alert",
+        "detail": "Account ending 1305 isn't meeting fee avoidance and may be charged — worth a two-minute check."
       }
     ],
-    "noise": "Otherwise newsletters and promos — NYT Veggie, Italian word of the day, a St. Pete local digest, two Todoist nudges, a Hilton stay survey.",
-    "clear": "No security, financial, or health mail needing a reply."
+    "noise": "Everything else is sale emails, travel promos, a bar mitzvah RSVP confirmation, and a LinkedIn invite.",
+    "clear": "Nothing new is waiting on your reply."
   },
-  "resolved": [
-    "Coffee Pot Bayou cottage (Oct 22–Nov 2) is squared away on Airbnb — host and co-host wrapped the last check-in details yesterday, nothing left on your side."
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -57,53 +55,41 @@
   },
   "tasks": [
     {
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
       "title": "Destination edit work",
       "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
-    },
-    {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Mike + Dan board",
-      "due": "Overdue Sep 25 (p2)",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan board",
-      "due": "Overdue Sep 30 (p3)",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist to book Mike's appointment",
-      "project": "Mike + Dan board",
-      "due": "Overdue Aug 28 (p2)",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south, Portland → St. Pete",
-      "project": "Mike + Dan board",
-      "due": "Oct 5–18 window passed (p2)",
-      "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/3",
+    "morning": "0/9",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "7:30 – 11:15 AM",
-      "line": "Two calls frame the morning — ICGN stewardship planning first, then Valoris with Mike and the team."
+      "line": "Two back-to-back calls — the ICGN Toronto plenary planning, then the Valoris group call — carry you to late morning."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar: the open stretch those overdue travel bookings have been waiting for."
+      "line": "Nothing on the calendar: the open stretch to clear the overdue holiday bookings."
     },
     {
       "time": "Evening",
-      "line": "Clear and yours, with the girls home in St. Pete."
+      "line": "The girls are home in St. Pete, and the calendar has emptied out — an easy one."
     }
   ],
   "japanese": {
