@@ -1,51 +1,48 @@
 {
   "date": "Friday, October 23, 2026",
   "generatedAt": "Morning brief · 8:06 AM ET",
-  "theme": "A light calendar with two real decisions waiting.",
-  "greeting": "Two morning calls, then a wide-open afternoon in St. Pete with the girls home. The travel bookings you've been circling are the thing to land today.",
+  "theme": "Two short calls, then the day opens up in St. Pete.",
+  "greeting": "A light meeting day with the girls, Dan — but a priority-one Christmas rental has been waiting weeks and is the one thing genuinely worth clearing today.",
   "needsAttention": [
     {
-      "tag": "Books this week",
-      "title": "Maine Christmas SUV rental still open",
-      "detail": "Your top-priority board task flags this as the one most likely to bite — a full-size SUV out of Portland over Christmas sells out and prices climb. A refundable hold now removes the whole risk."
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas SUV — refundable",
+      "detail": "On your Mike + Dan board, the p1 rental has sat open since Sep 14. A full-size SUV out of Portland over Christmas week is the hardest booking in that market and sells out; a refundable hold costs nothing and removes the risk."
     },
     {
-      "tag": "Window passed",
-      "title": "December break has no destination yet",
-      "detail": "The decide-by-Sept-30, book-by-Oct-15 dates have both slipped, and six people over the holidays is the year's thinnest inventory. Pick domestic or international and lock a shortlist."
+      "tag": "Overdue · p2",
+      "title": "Decide the December-break destination",
+      "detail": "Both clocks have passed (decide Sep 30, book Oct 15). All four girls, Dec 13–Jan 2 — the thinnest inventory of the year, so a domestic shortlist you can book outright is the safe default."
     }
   ],
   "schedule": [
     {
       "time": "7:30 AM",
       "title": "ICGN Toronto planning call",
-      "detail": "Plenary 7: evolving stewardship data & reporting",
-      "tag": "call"
+      "detail": "Plenary 7 — evolving stewardship data, reporting and impact.",
+      "tag": "Call"
     },
     {
       "time": "10:15 AM",
       "title": "Valoris working call",
-      "detail": "With Mike, Martin and Davit",
-      "tag": "call"
+      "detail": "With Mike, Martin, and Davit.",
+      "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "A LinkedIn note is waiting",
-        "detail": "Hans-Kristian Bryn messaged you on LinkedIn three days ago and it's still unanswered."
-      },
-      {
-        "tag": "FYI",
-        "title": "NACD New England run of show",
-        "detail": "The run of show for next week's Oct 28 New England event landed — worth a skim since you're on the program."
+        "title": "Cold board-advisory outreach",
+        "detail": "Elijah A.T. / Aurevane Search pitched a 'board composition brief' with a reply-to-engage hook — reads as low-signal prospecting, not a real search engagement. A LinkedIn KPMG Managing Director auto-alert also came in."
       }
     ],
-    "noise": "The rest is newsletters and shop promos — ICGN reminders, cooking notes, airline and hotel offers.",
-    "clear": ""
+    "noise": "Otherwise newsletters and promos — NYT Veggie, Italian word of the day, a St. Pete local digest, two Todoist nudges, a Hilton stay survey.",
+    "clear": "No security, financial, or health mail needing a reply."
   },
-  "resolved": [],
+  "resolved": [
+    "Coffee Pot Bayou cottage (Oct 22–Nov 2) is squared away on Airbnb — host and co-host wrapped the last check-in details yesterday, nothing left on your side."
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -56,37 +53,43 @@
   "recipe": {
     "title": "Ginger spice cake with dried cherries",
     "book": "Canal House Cooks Every Day",
-    "why": "A warm, spiced autumn bake with dried cherries — exactly the kind of from-scratch project that suits a crisp late-October evening."
+    "why": "A from-scratch autumn bake the girls can lend a hand with — warm ginger and dried cherries for a St. Pete evening that's finally starting to cool."
   },
   "tasks": [
-    {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + soap holder",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Close out the Pathfinder drive south",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
     {
       "title": "Destination edit work",
       "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
+    },
+    {
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Mike + Dan board",
+      "due": "Overdue Sep 25 (p2)",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan board",
+      "due": "Overdue Sep 30 (p3)",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist to book Mike's appointment",
+      "project": "Mike + Dan board",
+      "due": "Overdue Aug 28 (p2)",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder south, Portland → St. Pete",
+      "project": "Mike + Dan board",
+      "due": "Oct 5–18 window passed (p2)",
+      "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
