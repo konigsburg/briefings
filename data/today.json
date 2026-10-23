@@ -1,44 +1,44 @@
 {
   "date": "Friday, October 23, 2026",
   "generatedAt": "Morning brief · 12:10 PM ET",
-  "theme": "A light calendar, with the holidays quietly pressing.",
-  "greeting": "Morning, Dan. Two short calls bookend your morning, then the day opens right up with the girls home in St. Pete — a good window to finally lock the holiday travel bookings that keep sliding.",
+  "theme": "A clear run after a two-call morning.",
+  "greeting": "Both morning calls are behind you, Dan, and St. Pete's afternoon and evening are wide open — a real window to close out the holiday-travel bookings that keep drifting.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "The Christmas SUV rental still isn't booked",
-      "detail": "Your top-priority board task, overdue since Sep 14: hold a refundable full-size SUV out of Portland for Christmas week. It's the hardest rental in that market over the holidays and sells out — a refundable booking now costs nothing and removes the whole risk."
+      "tag": "Booking window",
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "A full-size SUV out of Portland over Christmas week is the first thing to sell out, and your Todoist has flagged it p1 since mid-September. A refundable hold now takes the risk off the table."
     },
     {
-      "tag": "Travel · overdue",
-      "title": "December break is still undecided",
-      "detail": "Both the decide-by (Sep 30) and book-by (Oct 15) dates have passed on the 21-day December trip for all four girls. Pick a domestic shortlist and book — holiday inventory for six over three weeks is the thinnest of the year."
+      "tag": "Decision overdue",
+      "title": "Lock the December break destination",
+      "detail": "The Oct 15 booking target has already passed; holiday inventory for six over three weeks is the thinnest of the year and only tightens from here. Call domestic vs. international and shortlist three."
     }
   ],
   "schedule": [
     {
       "time": "7:30 AM",
       "title": "ICGN Toronto — Plenary 7 planning",
-      "detail": "Stewardship data & reporting deep-dive; session outlines attached",
+      "detail": "Stewardship data & reporting deep-dive, with Claudia Rossetti",
       "tag": "call"
     },
     {
       "time": "10:15 AM",
-      "title": "Dan, Martin, Davit & Mike",
-      "detail": "Valoris group call on Teams",
+      "title": "Valoris catch-up",
+      "detail": "With Mike, Martin and Davit",
       "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Morgan Stanley CashPlus fee alert",
-        "detail": "Account ending 1305 isn't meeting fee avoidance and may be charged — worth a two-minute check."
+        "tag": "Job search",
+        "title": "IFAC connection request",
+        "detail": "A LinkedIn invite from a director at IFAC — worth a glance given the board search and governance network."
       }
     ],
-    "noise": "Everything else is sale emails, travel promos, a bar mitzvah RSVP confirmation, and a LinkedIn invite.",
-    "clear": "Nothing new is waiting on your reply."
+    "noise": "The rest is newsletters, a building salon notice, and a reunion photo request — nothing that needs you.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -56,40 +56,34 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Portland house order — bedframe + soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "7:30 – 11:15 AM",
-      "line": "Two back-to-back calls — the ICGN Toronto plenary planning, then the Valoris group call — carry you to late morning."
+      "time": "Morning",
+      "line": "Two short Teams calls — the ICGN Toronto plenary planning and the Valoris catch-up — both wrapped before noon."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar: the open stretch to clear the overdue holiday bookings."
+      "line": "Nothing on the calendar; the afternoon in St. Pete is yours to steer."
     },
     {
       "time": "Evening",
-      "line": "The girls are home in St. Pete, and the calendar has emptied out — an easy one."
+      "line": "A clear evening, and a good moment to clear the holiday bookings that have been waiting on a decision."
     }
   ],
   "japanese": {
