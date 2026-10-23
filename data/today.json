@@ -1,56 +1,67 @@
 {
   "date": "Friday, October 23, 2026",
-  "generatedAt": "Morning brief · 6:07 PM ET",
-  "theme": "A light Friday, girls home",
-  "greeting": "The two morning calls are behind you and the rest of the day is open. The girls are with you and Mike in St. Pete, so the afternoon and evening are yours to shape.",
+  "generatedAt": "Morning brief · 6:11 PM ET",
+  "theme": "A light Friday, girls in St. Pete",
+  "greeting": "Friday's shape is gentle, Dan — two Teams calls stacked the morning, and the calendar clears after them. The items circling are a board-dinner RSVP for Toronto and a couple of holiday-travel bookings that have been waiting.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out early. Book it refundable now and adjust the dates later. It's flagged p1 in Todoist and is over a month past its date."
+      "tag": "Board dinner",
+      "title": "RSVP to the ICGN Toronto board dinner",
+      "detail": "Mathias Ijeh invited you to the board dinner on Nov 3 at Lee Restaurant, the evening before the conference, and is waiting on your yes/no plus any dietary notes."
     },
     {
       "tag": "Holiday travel",
-      "title": "December break destination",
-      "detail": "Decide-by was Sept 30 and book-by was Oct 15, both now passed, for all four girls Dec 13-Jan 2. Pick a domestic shortlist and book, or go refundable-only if anyone wants international."
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your top-priority task to reserve a refundable full-size SUV out of Portland for Christmas week has been open since Sept 14 — that market sells out over the holidays."
     },
     {
-      "tag": "RSVP owed",
-      "title": "ICGN Toronto board dinner",
-      "detail": "ICGN invited you to the board dinner at Lee on Nov 3, the evening before the conference, in a note that landed today and is awaiting your reply."
+      "tag": "Holiday travel",
+      "title": "Lock the December break plan",
+      "detail": "The decide-by Sept 30 and book-by Oct 15 windows for the three-week December trip with all four girls have both passed; thinnest inventory of the year."
     }
   ],
   "schedule": [
     {
       "time": "7:30 AM",
-      "title": "ICGN Toronto plenary planning",
-      "detail": "Plenary 7 on stewardship data, with Claudia Rossetti and the panel",
-      "tag": "Call"
+      "title": "ICGN Toronto Plenary 7 planning call",
+      "detail": "Teams · stewardship data & reporting panel",
+      "tag": "ICGN"
     },
     {
       "time": "10:15 AM",
-      "title": "Valoris team call",
-      "detail": "With Mike, Martin and Davit",
-      "tag": "Call"
+      "title": "Valoris — Dan, Martin, Davit & Mike",
+      "detail": "Teams · internal",
+      "tag": "Valoris"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Venmo request, $50",
-        "detail": "Joshua Weaver requested $50 for mowing (10-14)."
+        "title": "Venmo request for mowing",
+        "detail": "Joshua Weaver is requesting $50 for mowing on Oct 14."
+      },
+      {
+        "tag": "Job search",
+        "title": "KPMG US Managing Director alert",
+        "detail": "LinkedIn flagged a Managing Director opening at KPMG US where you share 14 connections."
       },
       {
         "tag": "FYI",
-        "title": "B'Yachad reunion photos",
-        "detail": "The organizer is asking the group for photos and RSVPs, about a month out."
+        "title": "Board products from Mike Lubrano",
+        "detail": "Mike sent over Valoris board-product materials — worth a look when there's a moment."
       }
     ],
-    "noise": "The rest is newsletters, retail and listing alerts: Zillow, NYT Cooking, Monocle, LinkedIn and the local digests.",
+    "noise": "The rest is retail sales, newsletters, and LinkedIn pings.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Wrapped",
+      "title": "ICGN Plenary 7 planning call",
+      "detail": "Today's planning call wrapped this morning; Claudia Rossetti circulated the delegate companies and titles afterward."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -66,34 +77,34 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order: king bedframe + outdoor shower soap holder",
-      "project": "Household",
-      "due": "Overdue Sep 30",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 30",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "Two calls bookended the morning: ICGN Toronto plenary planning at 7:30, then the Valoris team at 10:15."
+      "time": "7:30 – 11:15 AM",
+      "line": "Two Teams calls stacked the morning — the ICGN Toronto plenary planning, then Valoris with Mike's team."
     },
     {
-      "time": "Afternoon",
-      "line": "Nothing on the calendar, open hours to spend as you choose."
+      "time": "11:15 AM onward",
+      "line": "The calendar clears after the second call with nothing else booked today."
     },
     {
       "time": "Evening",
-      "line": "Unscheduled, with the girls home in St. Pete for the weekend."
+      "line": "A quiet close in St. Pete, and tomorrow's page is empty too."
     }
   ],
   "japanese": {
