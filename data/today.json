@@ -1,65 +1,59 @@
 {
   "date": "Friday, October 23, 2026",
-  "generatedAt": "Morning brief · 8:06 PM ET",
-  "theme": "A light Friday, girls in St. Pete",
-  "greeting": "Friday's shape is gentle, Dan — two Teams calls stacked the morning, and the calendar clears after them. The items circling are a board-dinner RSVP for Toronto and a couple of holiday-travel bookings that have been waiting.",
+  "generatedAt": "Morning brief · 8:11 PM ET",
+  "theme": "Morning calls behind you, Toronto on the horizon",
+  "greeting": "Two calls this morning, then the day opens up. Toronto's board dinner is waiting on a yes, and the holiday bookings have waited long enough.",
   "needsAttention": [
     {
-      "tag": "Board dinner",
-      "title": "RSVP to the ICGN Toronto board dinner",
-      "detail": "Mathias Ijeh invited you to the board dinner on Nov 3 at Lee Restaurant, the evening before the conference, and is waiting on your yes/no plus any dietary notes."
+      "tag": "Overdue · p1",
+      "title": "Maine Christmas rental is still unbooked",
+      "detail": "A full-size SUV out of Portland over Christmas week is the thinnest inventory of the year and it sells out. The p1 task has been open since mid-September — book a refundable one now and adjust the dates later."
     },
     {
-      "tag": "Holiday travel",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Your top-priority task to reserve a refundable full-size SUV out of Portland for Christmas week has been open since Sept 14 — that market sells out over the holidays."
+      "tag": "RSVP",
+      "title": "ICGN Toronto board dinner needs your yes",
+      "detail": "Mathias at ICGN invited you to the board dinner on Nov 3 at Lee Restaurant, the evening before the conference, and asked whether you'll attend and about any dietary needs."
     },
     {
-      "tag": "Holiday travel",
-      "title": "Lock the December break plan",
-      "detail": "The decide-by Sept 30 and book-by Oct 15 windows for the three-week December trip with all four girls have both passed; thinnest inventory of the year."
+      "tag": "Decide & book",
+      "title": "December break still has no destination",
+      "detail": "The all-four-kids trip over Dec 13–Jan 2 was meant to be decided by Sept 30 and booked by Oct 15; holiday inventory for six only gets thinner from here. Pick domestic vs. international and lock it."
     }
   ],
   "schedule": [
     {
       "time": "7:30 AM",
-      "title": "ICGN Toronto Plenary 7 planning call",
-      "detail": "Teams · stewardship data & reporting panel",
-      "tag": "ICGN"
+      "title": "ICGN Toronto · Plenary 7 planning call",
+      "detail": "Stewardship data & reporting deep-dive, with Claudia and the panel",
+      "tag": "call"
     },
     {
       "time": "10:15 AM",
-      "title": "Valoris — Dan, Martin, Davit & Mike",
-      "detail": "Teams · internal",
-      "tag": "Valoris"
+      "title": "Valoris — Dan, Mike, Martin, Davit",
+      "detail": "Team call on Teams",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Venmo request for mowing",
-        "detail": "Joshua Weaver is requesting $50 for mowing on Oct 14."
-      },
-      {
-        "tag": "Job search",
-        "title": "KPMG US Managing Director alert",
-        "detail": "LinkedIn flagged a Managing Director opening at KPMG US where you share 14 connections."
+        "title": "Lawn service requested $50 on Venmo",
+        "detail": "Joshua Weaver requested $50 for mowing on Oct 14."
       },
       {
         "tag": "FYI",
-        "title": "Board products from Mike Lubrano",
-        "detail": "Mike sent over Valoris board-product materials — worth a look when there's a moment."
+        "title": "Mike sent the Valoris boards brochure",
+        "detail": "Board-products brochure and images from Mike midday — no ask attached, but worth a skim before Toronto."
       }
     ],
-    "noise": "The rest is retail sales, newsletters, and LinkedIn pings.",
+    "noise": "Everything else is newsletters, retail promos, LinkedIn job alerts, and a Disney+ login code.",
     "clear": ""
   },
   "resolved": [
     {
-      "tag": "Wrapped",
-      "title": "ICGN Plenary 7 planning call",
-      "detail": "Today's planning call wrapped this morning; Claudia Rossetti circulated the delegate companies and titles afterward."
+      "title": "ICGN Plenary 7 planning call wrapped",
+      "detail": "The Toronto panel planning call ran this morning; Claudia followed up afterward with the delegate companies and job titles."
     }
   ],
   "context": {
@@ -78,33 +72,39 @@
     {
       "title": "Get 3 term life quotes for Mike",
       "project": "Mike + Dan — Board",
-      "due": "Overdue Sept 25",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Order Portland king bedframe + outdoor shower soap holder",
       "project": "Mike + Dan — Board",
-      "due": "Overdue Sept 30",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/3",
+    "morning": "0/9",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "7:30 – 11:15 AM",
-      "line": "Two Teams calls stacked the morning — the ICGN Toronto plenary planning, then Valoris with Mike's team."
+      "time": "Morning",
+      "line": "Two back-to-back calls — the ICGN Toronto panel plan at 7:30, then the Valoris team at 10:15."
     },
     {
-      "time": "11:15 AM onward",
-      "line": "The calendar clears after the second call with nothing else booked today."
+      "time": "Afternoon",
+      "line": "Nothing on the calendar; the middle of the day is yours."
     },
     {
       "time": "Evening",
-      "line": "A quiet close in St. Pete, and tomorrow's page is empty too."
+      "line": "Quiet, with Toronto's board dinner still waiting on a reply."
     }
   ],
   "japanese": {
