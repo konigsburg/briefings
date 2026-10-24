@@ -1,28 +1,28 @@
 {
   "date": "Saturday, October 24, 2026",
-  "generatedAt": "Morning brief · 8:05 AM ET",
-  "theme": "An open Saturday with a board to clear before tomorrow.",
-  "greeting": "The calendar is empty today, Dan — the girls are with you in St. Pete and the day is yours. The weight is all on tomorrow: the 9 AM board review, where a few long-slipped items are waiting.",
+  "generatedAt": "Morning brief · 8:09 AM ET",
+  "theme": "An open Saturday with the girls in St. Pete — nothing on the calendar, a few bookings quietly overdue.",
+  "greeting": "No meetings today, Dan — the day belongs to you and the four girls. The only real pull is a couple of holiday-travel bookings that have drifted past their windows, with a quiet Sunday ahead.",
   "needsAttention": [
     {
-      "tag": "Prep · tomorrow",
-      "title": "Sunday review has a backlog",
-      "detail": "Your 15-minute board review with Mike is at 9 AM tomorrow. Several [DAN] items have slipped for weeks — worth deciding what lives and what dies before you sit down."
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your top-priority board task, overdue since mid-September: reserve a refundable full-size SUV out of Portland for Christmas week. The Pathfinder has gone south, so there is no six-seater in Maine for the holidays — and PWM holiday inventory is the first to sell out."
     },
     {
-      "tag": "Booking window",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "The p1 'book this week' rental is roughly six weeks past due. A full-size SUV out of Portland over Christmas sells out — a refundable hold now removes the whole risk."
+      "tag": "Overdue · Travel",
+      "title": "Lock the December trip",
+      "detail": "Both gates have passed — decide-by was Sept 30, book-by Oct 15. Six people across three holiday weeks is the thinnest inventory of the year; shortlisting a destination only gets harder from here."
     },
     {
-      "tag": "Decision overdue",
-      "title": "December break still undecided",
-      "detail": "Shortlist-and-decide for the three-week trip with all four girls was due Sept 30, book by Oct 15 — both passed. Pick domestic vs. international and move."
+      "tag": "Prep · Tomorrow",
+      "title": "Skim the DIRA & DIBA materials",
+      "detail": "The Bridge & Road Association annual meeting is tomorrow at 5 PM on Zoom, and you are on the invite as host. The materials came in a separate email — read them today so you are not opening them cold."
     },
     {
-      "tag": "Window closes",
-      "title": "Dropbox deletes files tomorrow",
-      "detail": "A final reminder says the account is over its storage limit and files go on Oct 25 unless you clear space or upgrade."
+      "tag": "Account",
+      "title": "Dropbox says files may be deleted",
+      "detail": "A Dropbox notice warns your account is over its storage limit and files could be removed after Oct 25. Worth a glance today if anything in there still matters."
     }
   ],
   "schedule": [],
@@ -30,17 +30,27 @@
     "flagged": [
       {
         "tag": "Job search",
+        "title": "IFAC director wants to connect",
+        "detail": "A LinkedIn invitation from a director at IFAC — squarely your governance and accounting world. Worth a reply given the search."
+      },
+      {
+        "tag": "Job search",
         "title": "KPMG Managing Director alert",
-        "detail": "LinkedIn surfaced a KPMG US Managing Director opening in your job alerts."
+        "detail": "LinkedIn surfaced a KPMG US Managing Director opening in its job alerts."
       },
       {
         "tag": "Financial",
-        "title": "Venmo request — $50",
-        "detail": "Joshua Weaver requested $50 for mowing on 10/14."
+        "title": "Venmo request — $50, mowing",
+        "detail": "Joshua Weaver requested $50 for lawn mowing dated Oct 14."
+      },
+      {
+        "tag": "Health",
+        "title": "Tampa Gardens salon notice",
+        "detail": "The Tampa Gardens resident portal announced a new salon provider, with a services and authorization form attached."
       }
     ],
-    "noise": "The rest is newsletters, promos and receipts — FT, Monocle, travel deals and Halloween shop mail.",
-    "clear": "Nothing personal is sitting unanswered in the inbox."
+    "noise": "Everything else is newsletters and promos — the FT, Monocle, the St. Pete locals, a Fountaine Pajot campaign, and the usual run of Halloween sales.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -53,37 +63,25 @@
   "recipe": {
     "title": "Roasted pumpkin soup",
     "book": "Canal House Cooks Every Day",
-    "why": "Peak autumn and peak squash season — a slow-roasted pumpkin soup is exactly the kind of from-scratch, technique-driven comfort this weekend wants."
+    "why": "Peak autumn and squash season at the Florida markets — a slow-roasted pumpkin soup is exactly the from-scratch, technique-driven cooking you love, and forgiving enough to do with the girls underfoot."
   },
   "tasks": [
     {
-      "title": "3 term life quotes for Mike",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south (Portland to St Pete)",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
