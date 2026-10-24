@@ -1,96 +1,88 @@
 {
-  "date": "Sat, Oct 17",
-  "generatedAt": "Weekly · Oct 17",
-  "theme": "Autumn Sunday sauce week — one big rustic ragu and a jar of olive-oil beans carry four kid-friendly dinners for the full house.",
+  "date": "Sat, Oct 24",
+  "generatedAt": "Weekly · Oct 24",
+  "theme": "Late-October full house: one deep pot of Sunday ragu and a tray of olive-oil autumn vegetables carry the whole kid-friendly week.",
   "components": [
     {
-      "name": "Sunday ragu (pork + beef sugo)",
-      "time": "~90 min, mostly hands-off simmer",
-      "ingredients": "1 lb ground pork, 1 lb ground beef (chuck), 2 onions, 2 carrots, 2 celery ribs, 4 garlic cloves, 2 tbsp tomato paste, 1 cup dry white or red wine, two 28-oz cans whole peeled tomatoes (crushed by hand), 1 cup whole milk, bay, generous olive oil, salt",
-      "method": "Build a slow soffritto: sweat finely diced onion, carrot and celery in a good pour of olive oil over low-medium heat until soft and sweet, 12-15 min, then add garlic. Push to the side, brown the pork and beef in batches so it caramelizes rather than steams. Stir in tomato paste and cook 2 min, deglaze with wine and reduce by half. Add the hand-crushed tomatoes and bay, bring to a bare simmer, then pour in the milk. Simmer uncovered 60-75 min until glossy and thick, stirring now and then. Cool and refrigerate; it only gets better by midweek and freezes beautifully."
+      "name": "Pork & beef Sunday ragu (sugo)",
+      "time": "~2 hrs, mostly hands-off",
+      "ingredients": "2 lb ground beef (80/20), 1 lb ground pork, 2 onions, 3 carrots, 3 celery ribs, 6 garlic cloves, 2 tbsp tomato paste, 1 cup dry white or red wine, two 28-oz cans whole San Marzano tomatoes, 1 cup whole milk, parmesan rind, bay, olive oil, salt",
+      "method": "Sweat a fine soffritto (onion-carrot-celery) in a generous pour of olive oil over low heat 15-20 min until sweet and silky, add garlic for the last minute. Push aside, brown the pork and beef hard in batches so it really colors, then stir everything together. Add tomato paste and cook it a minute, deglaze with wine and reduce. Add crushed-by-hand tomatoes, milk, parmesan rind and bay; simmer uncovered on the lowest flame 75-90 min, stirring now and then, until glossy and thick. Season. Makes ~2.5 qts; cool and refrigerate, or freeze half."
     },
     {
-      "name": "Olive-oil braised cannellini beans (conserva)",
-      "time": "~75 min, mostly unattended",
-      "ingredients": "1.5 lb dried cannellini (soaked overnight) or 4 cans drained, 1 head garlic halved crosswise, several sage leaves, 2 rosemary sprigs, 1 dried chili (optional), 1.5 cups olive oil, salt",
-      "method": "Put drained soaked beans in a pot with the garlic, herbs, chili and enough water to cover by two inches. Add a big glug of olive oil and bring to the gentlest simmer; cook 60-75 min until creamy, salting generously in the last 15 min (canned beans: simmer 25 min in the oil, garlic and herbs instead). Let them cool in their liquid, then store beans plus the silky, herb-scented broth together. That broth is liquid gold for soups and for finishing greens."
+      "name": "Olive-oil roasted autumn vegetables",
+      "time": "~45 min",
+      "ingredients": "1 large butternut or 2 delicata squash, 1 lb carrots, 2 fennel bulbs, 2 red onions, garlic, rosemary/thyme, lots of olive oil, salt, pepper",
+      "method": "Cut everything into bite-size pieces, keeping the squash a touch larger. Toss generously with olive oil, smashed garlic, herbs and salt across two sheet pans so nothing steams. Roast at 425F for 30-40 min, tossing once, until deeply caramelized at the edges. Cool and store in the fridge; these reheat and recrisp beautifully and become the base for two more dinners."
     }
   ],
   "dinners": [
     {
-      "name": "Pappardelle al ragu",
-      "time": "25 min",
-      "ingredients": "Sunday ragu, 1.5 lb pappardelle or rigatoni, parmesan, butter, olive oil, reserved pasta water",
+      "name": "Rigatoni al ragu",
+      "time": "20 min",
+      "ingredients": "ragu, 1.5 lb rigatoni, parmesan, olive oil, basil or parsley",
       "steps": [
+        "Boil rigatoni in well-salted water until just shy of al dente; reserve a cup of pasta water.",
         "Warm a big ladle of ragu per person in a wide pan.",
-        "Boil pasta one minute shy of al dente, reserving a mug of starchy water.",
-        "Drag the pasta straight into the sauce with a splash of pasta water and a knob of butter.",
-        "Toss hard over the heat until the sauce clings and glosses (the mantecatura), loosening with more water as needed.",
-        "Finish off heat with grated parmesan and a thread of olive oil; serve with extra cheese for the girls."
+        "Drain pasta, toss into the ragu with a splash of pasta water and a drizzle of olive oil, tossing hard so the sauce clings.",
+        "Finish with grated parmesan and torn herbs; serve with more cheese at the table."
       ]
     },
     {
       "name": "Baked polenta with ragu & mozzarella",
-      "time": "40 min",
-      "ingredients": "2 cups polenta, ragu, 2 balls mozzarella (torn), parmesan, butter, milk, olive oil",
+      "time": "35 min",
+      "ingredients": "ragu, 2 cups polenta/cornmeal, parmesan, 1 lb fresh mozzarella, butter",
       "steps": [
-        "Cook polenta in salted water (and a splash of milk) until creamy, finishing with butter and parmesan.",
-        "Spread half in a baking dish, spoon over ragu, scatter torn mozzarella.",
-        "Layer the rest of the polenta, more ragu and the remaining mozzarella.",
-        "Bake at 425F for 20-25 min until bubbling and browned at the edges.",
-        "Rest 5 min, drizzle with olive oil; a crowd-pleaser that reheats well for lunchboxes."
+        "Cook polenta in salted water (and a little milk) until creamy, ~25 min; stir in butter and parmesan.",
+        "Spread polenta in a baking dish, spoon over a generous layer of warm ragu.",
+        "Tear mozzarella across the top and dust with more parmesan.",
+        "Bake at 425F until bubbling and browned, 12-15 min; rest 5 min before scooping."
       ]
     },
     {
-      "name": "White bean & kale soup with garlic toast",
+      "name": "Roasted-vegetable & white bean minestra",
       "time": "30 min",
-      "ingredients": "Bean conserva + its broth, 1 bunch lacinato kale, 1 onion, 2 garlic cloves, parmesan rind, crusty bread, olive oil",
+      "ingredients": "roasted vegetables, two 15-oz cans cannellini, 6 cups broth, parmesan rind, small pasta (ditalini), olive oil, parmesan",
       "steps": [
-        "Soften chopped onion and garlic in olive oil; add a parmesan rind.",
-        "Add the beans with their broth plus water or stock to loosen; simmer 10 min.",
-        "Stir in shredded kale and cook until tender, 8-10 min; mash some beans against the pot to thicken.",
-        "Toast thick bread, rub with garlic, pour on olive oil; float a slice in each bowl.",
-        "Finish with grated parmesan and a heavy drizzle of olive oil (serve kids a brothier, milder bowl)."
+        "Simmer broth with a parmesan rind and one can of beans mashed slightly to thicken.",
+        "Add the roasted vegetables and the second can of whole beans; simmer 10 min.",
+        "Cook ditalini separately and add to taste, loosening with broth.",
+        "Finish each bowl with a hard drizzle of olive oil and grated parmesan; bread on the side for the girls."
       ]
     },
     {
-      "name": "Seared cod over warm white beans & greens",
+      "name": "Roasted-vegetable frittata",
       "time": "25 min",
-      "ingredients": "2.5 lb cod or other mild white fish, bean conserva, 1 bunch spinach or chard, lemon, garlic, olive oil, parsley",
+      "ingredients": "roasted vegetables, 12 eggs, 1/2 cup milk, parmesan or fontina, olive oil, green salad",
       "steps": [
-        "Pat fish very dry, salt, and sear in olive oil over medium-high until golden and just opaque, 3-4 min a side.",
-        "In another pan, warm beans in a little of their broth with garlic and olive oil.",
-        "Wilt the greens into the beans with a squeeze of lemon.",
-        "Spoon the beans and greens onto plates and set the fish on top.",
-        "Finish with lemon, parsley and olive oil; flake the kids' portions off the bone-free fillet into the beans."
+        "Beat eggs with milk, cheese, salt and pepper.",
+        "Warm olive oil in an oven-safe skillet, spread the roasted vegetables in an even layer and reheat.",
+        "Pour in the eggs, cook undisturbed 3-4 min until the edges set.",
+        "Finish in a 375F oven 10-12 min until just set; slide out, cut in wedges, serve with a simple olive-oil-dressed salad."
       ]
     }
   ],
   "technique": {
-    "name": "Mantecatura (emulsifying pasta off the heat)",
-    "tiedTo": "Pappardelle al ragu — pull the pasta early, toss it hard with starchy water, butter and cheese so the sauce emulsifies into a glossy coat that clings to every ribbon instead of pooling on the plate."
+    "name": "Building a proper soffritto",
+    "tiedTo": "The ragu. The dish lives or dies on the base: dice the onion, carrot and celery finely and evenly, then sweat them low and slow in plenty of olive oil 15-20 minutes until soft, sweet and nearly melting before anything else goes in. No browning, no rushing. Nail it here and the same base lifts the minestra later in the week."
   },
   "shopping": [
     {
       "section": "Produce",
-      "items": "2 onions, 1 extra onion, 2 carrots, 2 celery ribs, 1 head + 2 cloves garlic, 1 bunch lacinato kale, 1 bunch spinach or chard, 2 lemons, fresh sage, rosemary, parsley, bay"
-    },
-    {
-      "section": "Seafood",
-      "items": "2.5 lb cod or other mild white fish fillets"
+      "items": "2 onions, 2 red onions, 1 lb + 3 carrots, 3 celery ribs, 2 fennel bulbs, 1 large butternut or 2 delicata squash, 2 heads garlic, rosemary, thyme, basil or parsley, salad greens"
     },
     {
       "section": "Protein",
-      "items": "1 lb ground pork, 1 lb ground beef chuck"
+      "items": "2 lb ground beef (80/20), 1 lb ground pork"
     },
     {
       "section": "Dairy",
-      "items": "2 balls fresh mozzarella, parmesan (plus a rind), whole milk, butter"
+      "items": "1 cup whole milk + extra for polenta, 1 lb fresh mozzarella, parmesan (wedge + a rind), fontina (optional), butter, 1 dozen + eggs"
     },
     {
       "section": "Pantry",
-      "items": "1.5 lb dried cannellini (or 4 cans), two 28-oz cans whole peeled tomatoes, tomato paste, dry wine, 1.5 lb pappardelle or rigatoni, 2 cups polenta, crusty bread, dried chili, good olive oil, salt"
+      "items": "two 28-oz cans whole San Marzano tomatoes, 2 tbsp tomato paste, dry white or red wine, two 15-oz cans cannellini, 6 cups broth, 1.5 lb rigatoni, ditalini, 2 cups polenta/cornmeal, olive oil (plenty), bay leaves, salt, pepper"
     }
   ],
-  "scaleNote": "Full-house week (6 at the table: you, Mike + the four girls). Quantities above are already set for 6, with leftovers by design — the ragu makes ~8-10 servings so you can freeze a batch, and the beans stretch across both the soup and the fish nights. Keep the kids' bowls brothier and milder: pull their soup before the garlic toast soaks in, grate extra parmesan on the pappardelle, and flake the cod into the beans so there's nothing to fuss over. If an evening gets hectic, the baked polenta is the make-ahead hero — assemble it in the afternoon and bake at dinnertime."
+  "scaleNote": "Everything here is already portioned for the full house (2 adults + 4 girls). The ragu batch (~2.5 qts) covers both pasta night and the baked polenta with leftovers, and two sheet pans of vegetables feed the minestra and the frittata. Keep the kids' bowls simple: plain rigatoni with ragu and cheese, polenta scoops, bread alongside the soup. On the lighter two-adult weeks, halve the ragu (1 lb beef / 0.5 lb pork, one can tomatoes), roast a single tray, and push the dinners more adventurous: add chili and pancetta to the ragu, finish the minestra with a poached egg or clams, and swap the frittata for a fennel-and-anchovy version."
 }
