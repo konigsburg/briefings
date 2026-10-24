@@ -1,48 +1,55 @@
 {
   "date": "Saturday, October 24, 2026",
   "generatedAt": "Morning brief · 6:06 AM ET",
-  "theme": "A light Friday, with the holidays quietly asking for decisions.",
-  "greeting": "Two morning calls and then the day opens up, Dan. The real tug today is a pair of holiday bookings that have drifted well past their dates.",
+  "theme": "An open Saturday before a full Sunday.",
+  "greeting": "Nothing is on the calendar today, Dan — an open Saturday with the girls in St. Pete. Two holiday bookings have been waiting, and tomorrow brings the Sunday review and the island annual meeting.",
   "needsAttention": [
     {
       "tag": "Book this week",
-      "title": "Maine Christmas SUV is still unbooked",
-      "detail": "On the Mike + Dan board (p1), overdue about six weeks. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out — a refundable hold now costs nothing and removes the risk."
+      "title": "Maine Christmas SUV rental",
+      "detail": "The p1 board item has been open since mid-September. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market and it sells out; a refundable hold costs nothing."
     },
     {
-      "tag": "Decision overdue",
-      "title": "December break destination still open",
-      "detail": "On the board (p2); the decide-by (Sep 30) and book-by (Oct 15) dates have both passed. Holiday inventory for six over a three-week window is the thinnest of the year, so every day narrows the options."
-    }
-  ],
-  "schedule": [
-    {
-      "time": "7:30 AM",
-      "title": "ICGN Toronto planning call",
-      "detail": "Plenary 7 — evolving stewardship data & reporting",
-      "tag": "call"
+      "tag": "Window closed",
+      "title": "December break destination",
+      "detail": "Decide-by was Sept 30 and the Oct 15 book-by has now passed. Six people across three holiday weeks is the year's thinnest inventory, and the domestic-vs-international call is still open."
     },
     {
-      "time": "10:15 AM",
-      "title": "Valoris — with Mike & team",
-      "detail": "Dan, Martin, Davit, Mike (Teams)",
-      "tag": "call"
+      "tag": "Prep · Sunday",
+      "title": "Sunday review with Mike, 9 AM",
+      "detail": "Several board items have slipped three-plus weeks — the term-life quotes, the Pathfinder drive, the Portland order — and tomorrow's 15-minute review is where they get triaged, killed, or re-dated."
+    },
+    {
+      "tag": "Prep · Sunday",
+      "title": "Island annual meeting, 5 PM",
+      "detail": "The DIRA & DIBA annual meeting is on Zoom tomorrow evening; the materials were emailed separately, so a skim beforehand is worth it."
     }
   ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Venmo request for mowing",
-        "detail": "Joshua Weaver requests $50 (mowing, dated 10-14)."
+        "tag": "Job search",
+        "title": "KPMG Managing Director alert",
+        "detail": "A LinkedIn job alert surfaced a KPMG US Managing Director role, marked important in your inbox."
       },
       {
         "tag": "Job search",
-        "title": "KPMG US Managing Director alert",
-        "detail": "A LinkedIn job alert worth a glance given the board/exec search."
+        "title": "IFAC connection request",
+        "detail": "Bruce from IFAC (education & member monitoring) sent a LinkedIn connection request still awaiting a response."
+      },
+      {
+        "tag": "Financial",
+        "title": "Venmo request, $50",
+        "detail": "Joshua Weaver requested $50 for mowing (10-14)."
+      },
+      {
+        "tag": "Security",
+        "title": "Dropbox storage warning",
+        "detail": "Dropbox calls this a final reminder before files are removed on Oct 25 for being over the storage limit."
       }
     ],
-    "noise": "The rest is newsletters and retail promos — Monocle, Harry & David, Hims, Expensify, and the like.",
+    "noise": "The rest is newsletters and shop promotions — FT, Monocle, the St. Pete and Midcoast locals, and a stack of Halloween sales.",
     "clear": ""
   },
   "resolved": [],
@@ -51,7 +58,7 @@
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Friday Oct 23"
+    "asOf": "Saturday Oct 24"
   },
   "recipe": {
     "title": "Roasted pumpkin soup",
@@ -60,26 +67,32 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "title": "[DAN] Get 3 term life quotes for Mike",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor soap holder",
-      "project": "Mike + Dan Board",
+      "title": "[BOTH] Drive the Pathfinder down (Oct 5–18 window)",
+      "project": "Dan & Mike Stuff",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "[DAN] Portland house order — bedframe + soap holder",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down (Portland → St Pete)",
-      "project": "Mike + Dan Board",
-      "due": "Overdue — Oct 5–18 window",
+      "title": "[MIKE] Call dermatologist — book appt",
+      "project": "Dan & Mike Stuff",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -92,15 +105,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Two short Teams calls, then the morning clears."
+      "line": "Nothing scheduled — a slow start with the girls in St. Pete."
     },
     {
       "time": "Afternoon",
-      "line": "Unscheduled from late morning on — the day is yours."
+      "line": "The afternoon is open; the Christmas rental and December trip are the two things that have been waiting on it."
     },
     {
       "time": "Evening",
-      "line": "A quiet night at the Coffee Pot Bayou cottage."
+      "line": "A quiet evening ahead of a full Sunday — the 9 AM review with Mike and the 5 PM annual meeting."
     }
   ],
   "japanese": {
