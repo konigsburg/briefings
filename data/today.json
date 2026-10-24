@@ -1,46 +1,41 @@
 {
   "date": "Saturday, October 24, 2026",
-  "generatedAt": "Morning brief · 6:06 PM ET",
-  "theme": "An open Saturday before a full Sunday",
-  "greeting": "Nothing is on today's calendar, Dan — the day is yours. The pull is tomorrow: the 9 AM board review with Mike and the 5 PM island annual meeting, plus two travel bookings whose windows have quietly closed.",
+  "generatedAt": "Morning brief · 6:12 PM ET",
+  "theme": "An open Saturday with the girls — the board waits for tomorrow.",
+  "greeting": "Nothing on the calendar today, Dan, and the girls are with you in St. Pete — a genuinely open Saturday. The weight is on the Dan & Mike board, where the trip and insurance items have gone overdue; tomorrow's 9 AM review is where they get cleared.",
   "needsAttention": [
     {
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "The Pathfinder is south until May, so there's no six-seater in Portland for Christmas week. Book a refundable full-size SUV at PWM now — holiday inventory is the thinnest of the year and sells out. On the board since Sept 14."
+    },
+    {
+      "tag": "Trip planning",
+      "title": "Lock the December break destination",
+      "detail": "All four girls, Dec 13–Jan 2. Both the decide-by (Sept 30) and book-by (Oct 15) dates have passed, so this is the one most at risk. Pick domestic vs. international and shortlist three."
+    },
+    {
       "tag": "Tomorrow 9 AM",
-      "title": "Sunday board review with Mike",
-      "detail": "The 15-minute review is at 9 AM — arrive ready to empty the Inbox and put a decision on the items that have slipped three Sundays running."
-    },
-    {
-      "tag": "Tomorrow 5 PM",
-      "title": "DIRA & DIBA annual meeting",
-      "detail": "The island Bridge and Road associations meet by Zoom at 5 PM; materials come separately by email, so check for them and skim before you join."
-    },
-    {
-      "tag": "Overdue · book now",
-      "title": "Maine Christmas SUV rental",
-      "detail": "The p1 task to book a refundable full-size SUV out of Portland for Christmas week has sat since mid-September. Holiday inventory at PWM sells out — this is the one most likely to bite."
-    },
-    {
-      "tag": "Overdue · decide",
-      "title": "December break destination",
-      "detail": "Decide-by Sept 30 and book-by Oct 15 have both passed; six people, Dec 13–Jan 2, over the holidays — the thinnest inventory of the year is only getting thinner."
+      "title": "Tee up the Sunday review with Mike",
+      "detail": "The 15-minute review at 9 AM is the one thing that keeps the board honest. Arrive ready to put an owner and date on the Christmas rental, the December trip, and the life quotes — or kill what's gone stale."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Venmo request, $50",
-        "detail": "Joshua Weaver requested $50 for mowing (10-14) — a real pending request sitting in the inbox."
-      },
-      {
         "tag": "Job search",
         "title": "LinkedIn invite from IFAC",
-        "detail": "A director at IFAC sent a connection request — worth a response given your governance network."
+        "detail": "Bruce, an education and member-development director at IFAC, is waiting on your connection response — worth a look given the governance network."
+      },
+      {
+        "tag": "Financial",
+        "title": "Venmo request — $50 for mowing",
+        "detail": "Joshua Weaver requested $50 for the Oct 14 mow."
       }
     ],
-    "noise": "The rest is newsletters and promos — St. Pete local, Monocle, Trip.com, and the Italian and sailing digests.",
-    "clear": "Nothing in the inbox is waiting on a reply from you."
+    "noise": "Everything else is newsletters and promos — Italian words, Monocle, Trip.com, NFL Sunday Ticket, a salon notice.",
+    "clear": "No email is actually waiting on your reply this morning."
   },
   "resolved": [],
   "context": {
@@ -57,26 +52,20 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Pull three term-life quotes for Mike",
       "project": "Dan & Mike",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
       "project": "Dan & Mike",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down to St Pete",
-      "project": "Dan & Mike",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
-      "project": "Travel",
+      "project": "Work",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -89,15 +78,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open Saturday in St. Pete — nothing on the books beyond the cottage on Coffee Pot Bayou."
+      "line": "A clear start — breakfast with the girls and the garden, nothing on the calendar pulling at it."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear; the two slipped travel bookings are the one thing that would reward an hour."
+      "line": "The open stretch is yours; it's the natural place to break the back of the overdue trip planning."
     },
     {
       "time": "Evening",
-      "line": "Quiet tonight, with tomorrow's 9 AM board review and the 5 PM island annual meeting ahead."
+      "line": "Quiet tonight, but tomorrow opens early with Mike's 9 AM review and the island annual meeting at 5."
     }
   ],
   "japanese": {
