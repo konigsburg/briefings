@@ -1,28 +1,28 @@
 {
   "date": "Saturday, October 24, 2026",
   "generatedAt": "Morning brief · 12:06 PM ET",
-  "theme": "An open Saturday — the day is yours.",
-  "greeting": "A wide-open Saturday in St. Pete, Dan, with the girls around and nothing on the calendar until tomorrow. The day's real work is light: a little prep so tomorrow's review and meeting run clean, and two travel bookings that have waited long enough.",
+  "theme": "Open day, overdue bookings to clear",
+  "greeting": "An open Saturday in St. Petersburg with the girls. The calendar is clear today, so it's the day to finally clear the travel bookings that have been sliding since September.",
   "needsAttention": [
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Prep for the Sunday review with Mike",
-      "detail": "Your weekly 15-minute review with Mike is at 9 AM — open the \"Dan & Mike Stuff\" board first so you can clear the inbox, put an owner and date on everything, and kill what's gone stale three Sundays running."
+      "tag": "Books this week",
+      "title": "Maine Christmas rental",
+      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out — the p1 task to hold a refundable booking has sat open since mid-September."
     },
     {
-      "tag": "Closing window",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "The p1 full-size SUV out of Portland for Christmas week is weeks overdue — that's the hardest rental in the market over the holidays. Book a refundable one now and fix the dates later."
-    },
-    {
-      "tag": "Overdue decision",
-      "title": "December break — pick a destination",
-      "detail": "Both the decide-by (Sep 30) and book-by (Oct 15) dates have passed. All four girls, three weeks, the thinnest holiday inventory of the year — settle domestic vs. international and book."
+      "tag": "Decision overdue",
+      "title": "December break destination",
+      "detail": "Decide-by Sept 30 and book-by Oct 15 have both passed, and holiday inventory for six over three weeks is the thinnest of the year. Pick domestic vs. international, then book."
     },
     {
       "tag": "Tomorrow 5 PM",
-      "title": "Island annual meeting on Zoom",
-      "detail": "The DIRA & DIBA annual meeting is at 5 PM tomorrow — the materials were to be emailed separately, so have them open before you join."
+      "title": "Island associations annual meeting",
+      "detail": "The DIRA & DIBA annual meeting is tomorrow at 5 on Zoom; the materials came by separate email and are worth a skim today so you arrive read-in."
+    },
+    {
+      "tag": "Tomorrow 9 AM",
+      "title": "Sunday review with Mike",
+      "detail": "The weekly 15-minute board cleanup is at 9 — empty the inbox, put an owner and date on everything, and kill what's slipped three Sundays running."
     }
   ],
   "schedule": [],
@@ -30,22 +30,17 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn alert: SVP, Global Public Policy",
-        "detail": "A job alert matching your public-policy search came in this morning — worth a scan for board-adjacent roles."
-      },
-      {
-        "tag": "Job search",
-        "title": "LinkedIn invite from Bruce at IFAC",
-        "detail": "A connection request from IFAC's education/member-development director is waiting on a response."
+        "title": "LinkedIn connection waiting",
+        "detail": "An IFAC education/governance director is waiting on your response to a connection request — worth a reply given the board search."
       },
       {
         "tag": "Financial",
-        "title": "Venmo request — $50 for mowing",
-        "detail": "Joshua Weaver requested $50 for the Oct 14 mow; open and awaiting payment."
+        "title": "Venmo request, $50",
+        "detail": "Joshua Weaver requested $50 for mowing (10/14)."
       }
     ],
-    "noise": "The rest is newsletters, retail promos, Apple renewal receipts, and St. Pete real-estate listings.",
-    "clear": "Nothing from a real person is waiting on your reply."
+    "noise": "The rest is newsletters, promos, a St. Pete listing alert, and a building salon notice.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -68,29 +63,29 @@
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Dan & Mike",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — an open start, with the girls in the house."
+      "line": "An open Saturday in St. Pete with the girls — nothing on the calendar until tomorrow."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear; the whole middle of the day is unclaimed."
+      "line": "The clear stretch to clear the overdue travel bookings — the Christmas rental first."
     },
     {
       "time": "Evening",
-      "line": "A quiet close, with tomorrow's 9 AM review the first thing waiting."
+      "line": "A quiet night; skim the island-meeting materials before tomorrow's 5 PM Zoom."
     }
   ],
   "japanese": {
