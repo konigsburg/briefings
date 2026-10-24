@@ -1,28 +1,28 @@
 {
   "date": "Saturday, October 24, 2026",
-  "generatedAt": "Morning brief · 10:06 AM ET",
-  "theme": "An open Saturday with the girls in St. Pete — nothing on the calendar, a few bookings quietly overdue.",
-  "greeting": "No meetings today, Dan — the day belongs to you and the four girls. The only real pull is a couple of holiday-travel bookings that have drifted past their windows, with a quiet Sunday ahead.",
+  "generatedAt": "Morning brief · 10:10 AM ET",
+  "theme": "An open Saturday — the day is yours.",
+  "greeting": "A wide-open Saturday in St. Pete, Dan, with the girls around and nothing on the calendar until tomorrow. The day's real work is light: a little prep so tomorrow's review and meeting run clean, and two travel bookings that have waited long enough.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
+      "tag": "Tomorrow 9 AM",
+      "title": "Prep for the Sunday review with Mike",
+      "detail": "Your weekly 15-minute review with Mike is at 9 AM — open the \"Dan & Mike Stuff\" board first so you can clear the inbox, put an owner and date on everything, and kill what's gone stale three Sundays running."
+    },
+    {
+      "tag": "Closing window",
       "title": "Book the Maine Christmas SUV",
-      "detail": "Your top-priority board task, overdue since mid-September: reserve a refundable full-size SUV out of Portland for Christmas week. The Pathfinder has gone south, so there is no six-seater in Maine for the holidays — and PWM holiday inventory is the first to sell out."
+      "detail": "The p1 full-size SUV out of Portland for Christmas week is weeks overdue — that's the hardest rental in the market over the holidays. Book a refundable one now and fix the dates later."
     },
     {
-      "tag": "Overdue · Travel",
-      "title": "Lock the December trip",
-      "detail": "Both gates have passed — decide-by was Sept 30, book-by Oct 15. Six people across three holiday weeks is the thinnest inventory of the year; shortlisting a destination only gets harder from here."
+      "tag": "Overdue decision",
+      "title": "December break — pick a destination",
+      "detail": "Both the decide-by (Sep 30) and book-by (Oct 15) dates have passed. All four girls, three weeks, the thinnest holiday inventory of the year — settle domestic vs. international and book."
     },
     {
-      "tag": "Prep · Tomorrow",
-      "title": "Skim the DIRA & DIBA materials",
-      "detail": "The Bridge & Road Association annual meeting is tomorrow at 5 PM on Zoom, and you are on the invite as host. The materials came in a separate email — read them today so you are not opening them cold."
-    },
-    {
-      "tag": "Account",
-      "title": "Dropbox says files may be deleted",
-      "detail": "A Dropbox notice warns your account is over its storage limit and files could be removed after Oct 25. Worth a glance today if anything in there still matters."
+      "tag": "Tomorrow 5 PM",
+      "title": "Island annual meeting on Zoom",
+      "detail": "The DIRA & DIBA annual meeting is at 5 PM tomorrow — the materials were to be emailed separately, so have them open before you join."
     }
   ],
   "schedule": [],
@@ -30,27 +30,22 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "IFAC director wants to connect",
-        "detail": "A LinkedIn invitation from a director at IFAC — squarely your governance and accounting world. Worth a reply given the search."
+        "title": "LinkedIn alert: SVP, Global Public Policy",
+        "detail": "A job alert matching your public-policy search came in this morning — worth a scan for board-adjacent roles."
       },
       {
         "tag": "Job search",
-        "title": "KPMG Managing Director alert",
-        "detail": "LinkedIn surfaced a KPMG US Managing Director opening in its job alerts."
+        "title": "LinkedIn invite from Bruce at IFAC",
+        "detail": "A connection request from IFAC's education/member-development director is waiting on a response."
       },
       {
         "tag": "Financial",
-        "title": "Venmo request — $50, mowing",
-        "detail": "Joshua Weaver requested $50 for lawn mowing dated Oct 14."
-      },
-      {
-        "tag": "Health",
-        "title": "Tampa Gardens salon notice",
-        "detail": "The Tampa Gardens resident portal announced a new salon provider, with a services and authorization form attached."
+        "title": "Venmo request — $50 for mowing",
+        "detail": "Joshua Weaver requested $50 for the Oct 14 mow; open and awaiting payment."
       }
     ],
-    "noise": "Everything else is newsletters and promos — the FT, Monocle, the St. Pete locals, a Fountaine Pajot campaign, and the usual run of Halloween sales.",
-    "clear": ""
+    "noise": "The rest is newsletters, retail promos, Apple renewal receipts, and St. Pete real-estate listings.",
+    "clear": "Nothing from a real person is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -68,34 +63,34 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/3",
+    "morning": "0/9",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar — the whole morning is open before the girls' day fills it."
+      "line": "Nothing on the calendar — an open start, with the girls in the house."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled; a clear stretch to triage the board before tomorrow's review."
+      "line": "Still clear; the whole middle of the day is unclaimed."
     },
     {
       "time": "Evening",
-      "line": "A quiet night, with tomorrow bookended by the 9 AM board review and the island associations' annual meeting at 5."
+      "line": "A quiet close, with tomorrow's 9 AM review the first thing waiting."
     }
   ],
   "japanese": {
