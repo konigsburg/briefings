@@ -1,36 +1,31 @@
 {
   "date": "Friday, October 23, 2026",
   "generatedAt": "Morning brief · 10:06 PM ET",
-  "theme": "Morning calls behind you, Toronto on the horizon",
-  "greeting": "Two calls this morning, then the day opens up. Toronto's board dinner is waiting on a yes, and the holiday bookings have waited long enough.",
+  "theme": "A light Friday, with the holidays quietly asking for decisions.",
+  "greeting": "Two morning calls and then the day opens up, Dan. The real tug today is a pair of holiday bookings that have drifted well past their dates.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Maine Christmas rental is still unbooked",
-      "detail": "A full-size SUV out of Portland over Christmas week is the thinnest inventory of the year and it sells out. The p1 task has been open since mid-September — book a refundable one now and adjust the dates later."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV is still unbooked",
+      "detail": "On the Mike + Dan board (p1), overdue about six weeks. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out — a refundable hold now costs nothing and removes the risk."
     },
     {
-      "tag": "RSVP",
-      "title": "ICGN Toronto board dinner needs your yes",
-      "detail": "Mathias at ICGN invited you to the board dinner on Nov 3 at Lee Restaurant, the evening before the conference, and asked whether you'll attend and about any dietary needs."
-    },
-    {
-      "tag": "Decide & book",
-      "title": "December break still has no destination",
-      "detail": "The all-four-kids trip over Dec 13–Jan 2 was meant to be decided by Sept 30 and booked by Oct 15; holiday inventory for six only gets thinner from here. Pick domestic vs. international and lock it."
+      "tag": "Decision overdue",
+      "title": "December break destination still open",
+      "detail": "On the board (p2); the decide-by (Sep 30) and book-by (Oct 15) dates have both passed. Holiday inventory for six over a three-week window is the thinnest of the year, so every day narrows the options."
     }
   ],
   "schedule": [
     {
       "time": "7:30 AM",
-      "title": "ICGN Toronto · Plenary 7 planning call",
-      "detail": "Stewardship data & reporting deep-dive, with Claudia and the panel",
+      "title": "ICGN Toronto planning call",
+      "detail": "Plenary 7 — evolving stewardship data & reporting",
       "tag": "call"
     },
     {
       "time": "10:15 AM",
-      "title": "Valoris — Dan, Mike, Martin, Davit",
-      "detail": "Team call on Teams",
+      "title": "Valoris — with Mike & team",
+      "detail": "Dan, Martin, Davit, Mike (Teams)",
       "tag": "call"
     }
   ],
@@ -38,24 +33,19 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Lawn service requested $50 on Venmo",
-        "detail": "Joshua Weaver requested $50 for mowing on Oct 14."
+        "title": "Venmo request for mowing",
+        "detail": "Joshua Weaver requests $50 (mowing, dated 10-14)."
       },
       {
-        "tag": "FYI",
-        "title": "Mike sent the Valoris boards brochure",
-        "detail": "Board-products brochure and images from Mike midday — no ask attached, but worth a skim before Toronto."
+        "tag": "Job search",
+        "title": "KPMG US Managing Director alert",
+        "detail": "A LinkedIn job alert worth a glance given the board/exec search."
       }
     ],
-    "noise": "Everything else is newsletters, retail promos, LinkedIn job alerts, and a Disney+ login code.",
+    "noise": "The rest is newsletters and retail promos — Monocle, Harry & David, Hims, Expensify, and the like.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "title": "ICGN Plenary 7 planning call wrapped",
-      "detail": "The Toronto panel planning call ran this morning; Claudia followed up afterward with the delegate companies and job titles."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -71,14 +61,20 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Order Portland king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order — bedframe + outdoor soap holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder down (Portland → St Pete)",
+      "project": "Mike + Dan Board",
+      "due": "Overdue — Oct 5–18 window",
       "overdue": true
     },
     {
@@ -89,22 +85,22 @@
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Two back-to-back calls — the ICGN Toronto panel plan at 7:30, then the Valoris team at 10:15."
+      "line": "Two short Teams calls, then the morning clears."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing on the calendar; the middle of the day is yours."
+      "line": "Unscheduled from late morning on — the day is yours."
     },
     {
       "time": "Evening",
-      "line": "Quiet, with Toronto's board dinner still waiting on a reply."
+      "line": "A quiet night at the Coffee Pot Bayou cottage."
     }
   ],
   "japanese": {
