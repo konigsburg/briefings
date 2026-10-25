@@ -1,54 +1,59 @@
 {
   "date": "Sunday, October 25, 2026",
   "generatedAt": "Morning brief · 4:06 PM ET",
-  "theme": "A quiet Sunday with one meeting at 5.",
-  "greeting": "A calm Sunday, Dan — the board review is behind you and the island association meeting lands at 5. The open afternoon is the natural slot for the booking items that keep sliding.",
+  "theme": "A quiet Sunday with the girls, closed out by one Zoom.",
+  "greeting": "The day is almost entirely yours, Dan — the girls are here in St. Pete and the only fixed point left is the island associations' annual meeting at 5. A handful of travel bookings have been drifting, though, and a couple of their windows are closing.",
   "needsAttention": [
     {
-      "tag": "Reply today",
-      "title": "DIRA & DIBA proxy",
-      "detail": "Mark Hoffman emailed yesterday asking whether you're attending tonight's 5 PM annual meeting — if not, he needs your proxy for quorum. A one-line reply closes it before 5."
-    },
-    {
-      "tag": "Overdue p1",
+      "tag": "Book this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "Flagged book-this-week back on Sept 14 and still open. A refundable full-size SUV out of Portland for Christmas week sells out early; holding one now costs nothing."
+      "detail": "Open since Sept 14 (p1). A full-size SUV out of Portland over Christmas week is the hardest rental in that market and sells out — book it refundable now and fix the dates later. Once the Pathfinder is south, there's no six-seater in Maine for the girls' Christmas trip."
     },
     {
-      "tag": "Overdue p2",
-      "title": "December break destinations",
-      "detail": "The decide-by-Sept-30 and book-by-Oct-15 windows have both passed. Holiday inventory for six over three weeks is the thinnest of the year — pick a direction and lock it."
+      "tag": "Window passed",
+      "title": "December break destination",
+      "detail": "Book-by was Oct 15 and the shortlist is still open (p2). Three weeks, all four girls, Dec 13 – Jan 2 — the thinnest holiday inventory of the year. Pick domestic vs. international and lock one path."
+    },
+    {
+      "tag": "Prep for today",
+      "title": "DIRA & DIBA annual meeting",
+      "detail": "The Bridge and Road Association annual meeting is at 5 PM on Zoom; the materials came in a separate email — worth a skim before you join."
+    },
+    {
+      "tag": "Blocked a month",
+      "title": "Term life quotes for Mike",
+      "detail": "Overdue since Sept 25 (p2), stuck on two inputs: target coverage amount and term length. Settle those and the shopping goes fast."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review — Mike + Dan",
-      "detail": "15-min board sweep",
-      "tag": "done"
+      "detail": "Weekly 15-min board sweep",
+      "tag": "Work"
     },
     {
       "time": "5:00 PM",
       "title": "DIRA & DIBA Annual Meeting",
-      "detail": "Zoom · bridge & road association",
-      "tag": "meeting"
+      "detail": "Bridge & Road Assoc. — Zoom",
+      "tag": "Zoom"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn invite from IFAC director",
-        "detail": "Bruce, a director at IFAC (International Federation of Accountants), sent a connection request — worth a look given your governance network."
+        "title": "Baker Tilly MD role",
+        "detail": "LinkedIn alert — Managing Director, Industrial Products, Managed Services."
       },
       {
         "tag": "Financial",
-        "title": "Venmo request — $50 for mowing",
-        "detail": "Joshua Weaver requested $50 for mowing dated 10-14-26."
+        "title": "Venmo request, $50",
+        "detail": "Joshua Weaver, for mowing on Oct 14."
       }
     ],
-    "noise": "Everything else is newsletters and promos — Monocle, Trip.com, Field Company, Daily Italian Words, Puzzmo, the Midcoast Villager.",
-    "clear": "Primary inbox is otherwise quiet — nothing new awaiting a reply."
+    "noise": "The rest is newsletters and promos — St. Pete beehiiv, Monocle, Trip.com, a couple of language digests.",
+    "clear": "No personal emails are waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -65,21 +70,21 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + shower soap holder",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
       "project": "Dan & Mike",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Book dermatologist appointment (Mike)",
+      "title": "Pathfinder drive, Portland to St Pete",
       "project": "Dan & Mike",
-      "due": "Overdue Aug 28",
+      "due": "Oct 5–18 window passed",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Personal",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -90,16 +95,16 @@
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "A 15-minute board review with Mike at 9 set the week before the day opened up."
+      "time": "9 – 9:15 AM",
+      "line": "One 15-minute board sweep with Mike is the week's only standing work beat."
     },
     {
-      "time": "Afternoon",
-      "line": "The middle is clear — the open window for the booking and quote calls that have slid."
+      "time": "Midday",
+      "line": "The long middle is open — the girls are here, and the garden and kitchen are yours."
     },
     {
-      "time": "Evening",
-      "line": "The DIRA & DIBA annual meeting takes the 5 o'clock hour on Zoom."
+      "time": "5 PM onward",
+      "line": "The island associations' annual meeting closes the day on Zoom."
     }
   ],
   "japanese": {
