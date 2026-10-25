@@ -1,54 +1,73 @@
 {
   "date": "Sunday, October 25, 2026",
-  "generatedAt": "Morning brief · 6:06 AM ET",
-  "theme": "An open Saturday in St. Pete, with a lighter Sunday on deck.",
-  "greeting": "A wide-open Saturday, Dan — no meetings on the books and the girls around at the Coffee Pot cottage. Today asks little of you; tomorrow asks a bit more.",
+  "generatedAt": "Morning brief · 6:07 AM ET",
+  "theme": "An open Sunday between two short calls.",
+  "greeting": "Good morning, Dan. A quiet Sunday in St. Pete with the girls: fifteen minutes with Mike to start, the island associations' annual meeting at five, and a wide-open middle in between.",
   "needsAttention": [
     {
-      "tag": "Overdue P1",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "Your top-priority board task, overdue since Sep 14: reserve a refundable full-size SUV out of Portland for Christmas week before holiday inventory sells out."
+      "tag": "Reply by 5 PM",
+      "title": "Mark needs your vote or a proxy",
+      "detail": "Mark Hoffman asked yesterday whether you're joining today's 5 PM annual meeting; you've accepted the invite but haven't told him, and he's counting votes. A one-line reply settles it."
     },
     {
-      "tag": "Window closing",
-      "title": "December break not yet decided",
-      "detail": "The shortlist was due Sep 30 and the Oct 15 booking date has passed; six people over the holidays is the thinnest inventory of the year, so pick domestic vs. international and lock it."
+      "tag": "Overdue · P1",
+      "title": "Christmas SUV still unbooked",
+      "detail": "The full-size Portland SUV for the girls' Maine Christmas, flagged 'book this week' back on Sept 14, is the board's top-priority item, and holiday inventory only thins from here. A refundable hold costs nothing."
     },
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Sunday review with Mike",
-      "detail": "The 15-minute board review is at 9 AM — arrive ready to clear the inbox, put an owner and a date on everything, and chase what you're waiting on."
-    },
-    {
-      "tag": "Tomorrow 5 PM",
-      "title": "Island associations' annual meeting",
-      "detail": "The DIRA & DIBA annual meeting is tomorrow at 5 PM on Zoom; the materials were emailed separately, so skim them before you join."
+      "tag": "Overdue · P2",
+      "title": "December break still undecided",
+      "detail": "The three-week holiday trip for six was meant to be decided by Sept 30 and booked by Oct 15; both dates have passed, and holiday inventory is the thinnest of the year."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "title": "Sunday review with Mike",
+      "detail": "15 min on Meet; empty the board inbox, put an owner and date on everything",
+      "tag": "Meet"
+    },
+    {
+      "time": "5:00 PM",
+      "title": "DIRA & DIBA Annual Meeting",
+      "detail": "Annual Bridge & Road Association meeting on Zoom; materials in your inbox since Oct 2",
+      "tag": "Meet"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Venmo request from the lawn service",
-        "detail": "Joshua Weaver requested $50 for mowing on Oct 14 — a quick pay whenever you're ready."
+        "tag": "Job search",
+        "title": "Burson SVP, Corporate & Public Affairs",
+        "detail": "LinkedIn flagged a WPP/Burson senior public-affairs opening, with four of your former colleagues there."
       },
       {
-        "tag": "Job search",
-        "title": "LinkedIn connect from IFAC's education director",
-        "detail": "Bruce at the International Federation of Accountants is waiting on a response — worth a look given your governance network."
+        "tag": "FYI",
+        "title": "ICGN board dinner in Toronto",
+        "detail": "ICGN invited you to its board dinner Nov 3, the evening before the conference; it's awaiting your RSVP."
+      },
+      {
+        "tag": "Financial",
+        "title": "Venmo request, $50",
+        "detail": "Joshua Weaver requested $50 for mowing on 10/14."
       }
     ],
-    "noise": "The rest is newsletters and promos — Monocle, Trip.com, the Midcoast Villager, Puzzmo and the like.",
+    "noise": "The rest is newsletters and promotions: language lessons, travel fares, catalogs, and shipping notices.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Closed",
+      "title": "ICGN Plenary 7 planning call wrapped",
+      "detail": "Thursday's planning call for your conference plenary is done; Claudia circulated the delegate companies and titles afterward."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Saturday Oct 24"
+    "asOf": "Sunday Oct 25"
   },
   "recipe": {
     "title": "Braised Pheasant with Mushrooms and Bacon",
@@ -58,19 +77,19 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Drive the Pathfinder down to St Pete",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order: bedframe + shower soap holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
@@ -88,16 +107,16 @@
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "Nothing on the calendar before noon — the morning is entirely yours."
+      "time": "9 - 9:15 AM",
+      "line": "The weekly review with Mike opens the day: fifteen minutes to clear the board inbox and put an owner and date on everything."
     },
     {
-      "time": "Afternoon",
-      "line": "The afternoon holds no meetings either; a rare fully open stretch."
+      "time": "9:15 AM - 5 PM",
+      "line": "Nothing on the calendar across the whole middle of the day, an open Sunday stretch to spend as you choose."
     },
     {
-      "time": "Evening",
-      "line": "A calm night at the bayou with the girls around."
+      "time": "5 PM onward",
+      "line": "The DIRA & DIBA annual meeting closes the day on Zoom; the materials have sat in your inbox since October 2."
     }
   ],
   "japanese": {
