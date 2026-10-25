@@ -1,76 +1,62 @@
 {
   "date": "Sunday, October 25, 2026",
   "generatedAt": "Morning brief · 8:05 AM ET",
-  "theme": "Two bookends, an open middle.",
-  "greeting": "Morning, Dan. A calm Sunday with the girls around — a 9 o'clock review with Mike and a 5 o'clock island meeting bracket a wide-open afternoon.",
+  "theme": "Two short bookends with a wide-open middle",
+  "greeting": "A light Sunday, Dan — a 15-minute board review at nine and the DIRA & DIBA annual meeting at five, with the whole middle of the day yours. The one thing worth doing before the review: lock the overdue Christmas SUV rental.",
   "needsAttention": [
     {
-      "tag": "Today · reply",
-      "title": "DIRA & DIBA meeting — Mark needs to know if you're in",
-      "detail": "Mark Hoffman wrote yesterday asking whether you're attending today's 5 PM annual meeting; if not, he needs your proxy for quorum. You've accepted the invite, so a one-line yes to Mark settles it."
+      "tag": "Book today",
+      "title": "Book the Maine Christmas SUV before the 9 AM review",
+      "detail": "The p1 \"book this week\" rental has been overdue since Sept 14 on the Mike + Dan board — a refundable full-size SUV out of Portland for Christmas week, and holiday inventory in that market is exactly what sells out while it waits."
     },
     {
-      "tag": "Prep · by 5 PM",
-      "title": "Read the annual-meeting materials before you join",
-      "detail": "David Wetherbee's packet for the Bridge and Road associations has been sitting in your inbox since Oct 2. A quick skim before the 5 PM Zoom is the difference between voting and just listening."
+      "tag": "Reply owed",
+      "title": "Tell Mark whether you're at tonight's meeting",
+      "detail": "Mark Hoffman asked yesterday if you'll be at the 5 PM DIRA & DIBA annual meeting or need to hand him your proxy for the vote — you're on the invite, so a one-line yes closes it before five."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas rental this week",
-      "detail": "A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out. It's been flagged p1 since Sep 14 — book refundable at today's review and the risk is gone."
-    },
-    {
-      "tag": "Overdue · p2",
-      "title": "Lock the December-break destination",
-      "detail": "The decide-by was Sep 30 and the book-by was Oct 15, both now past, for six people over three weeks of the thinnest holiday inventory. Pick domestic-vs-international today so booking can actually happen."
+      "tag": "Overdue decision",
+      "title": "Settle the December break destination",
+      "detail": "The all-kids trip (Dec 13–Jan 2) was meant to be decided by Sept 30 and booked by Oct 15 on the board — both dates are past, and holiday inventory for six only thins from here."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
-      "title": "Sunday review with Mike",
-      "detail": "15 min on Meet — owners and dates on everything that's slipped.",
-      "tag": "Review"
+      "title": "Sunday board review with Mike",
+      "detail": "15-minute reset on the Mike + Dan board",
+      "tag": "Work"
     },
     {
       "time": "5:00 PM",
       "title": "DIRA & DIBA Annual Meeting",
-      "detail": "Annual meeting of the Bridge and Road associations, on Zoom.",
-      "tag": "Meeting"
+      "detail": "Island road & bridge association, on Zoom",
+      "tag": "Community"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "SVP, Corporate & Public Affairs — Burson",
-        "detail": "LinkedIn flagged a role squarely in your lane yesterday, with four alumni of your network already inside."
+        "title": "Burson SVP, Corporate & Public Affairs",
+        "detail": "LinkedIn alert for a WPP / Burson SVP role in your lane; four company alumni in-network."
       },
       {
         "tag": "Job search",
-        "title": "Board-composition outreach from Aurevane",
-        "detail": "Elijah, founder of an executive-search practice advising boards on composition, reached out Oct 22 — unreplied."
-      },
-      {
-        "tag": "FYI",
-        "title": "ICGN Board Dinner, Toronto — Nov 3",
-        "detail": "An invitation to the dinner the evening before the Autumn Conference; it's awaiting your RSVP."
+        "title": "ICGN Board Dinner, Toronto, Nov 3",
+        "detail": "Invitation from ICGN Governance for the evening before the conference — worth an RSVP."
       },
       {
         "tag": "Financial",
-        "title": "Venmo request — $50, lawn mowing",
-        "detail": "Joshua Weaver requested $50 for the Oct 14 mow; a two-tap settle clears it."
+        "title": "Venmo request — $50 for mowing",
+        "detail": "Joshua Weaver requested $50 for mowing on 10-14."
       }
     ],
-    "noise": "Underneath: Amazon shipping updates, Italian and Japanese lesson digests, travel promos, and the usual newsletters.",
-    "clear": ""
+    "noise": "Amazon shipping/delivery updates, newsletters (Daily Italian Words, BBC Maestro, Differentiated Design, Midcoast Villager), an NFL Sunday Ticket promo.",
+    "clear": "No security or health alerts; one confirmed RSVP for Brody's bar mitzvah in December."
   },
   "resolved": [
-    {
-      "tag": "Wrapped",
-      "title": "ICGN Plenary 7 planning call",
-      "detail": "Friday's planning call for your Autumn Conference plenary is done; Claudia followed up with the delegate companies and titles."
-    }
+    "Thursday's ICGN Plenary 7 planning call wrapped; Claudia Rossetti shared the delegate companies and titles ahead of Toronto."
   ],
   "context": {
     "kids": true,
@@ -82,31 +68,43 @@
   "recipe": {
     "title": "Braised Pheasant with Mushrooms and Bacon",
     "book": "How to Eat",
-    "why": "Late October is pheasant season, and a slow Sunday braise with mushrooms and bacon is exactly the kind of deep-autumn cooking that rewards a quiet day at home."
+    "why": "A slow-braised pheasant is a project for an open Sunday afternoon — with the long middle of the day free and the girls around, there's time to let it go low and slow."
   },
   "tasks": [
     {
       "title": "Get 3 term-life quotes for Mike",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sep 25",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder south, Portland → St Pete",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sep 25",
+      "title": "Drive the Pathfinder down — Portland → St Pete",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sep 30",
+      "title": "Call dermatologist — book wart-removal appt",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + outdoor soap holder",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
-    "day": "0/6",
+    "morning": "0/10",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
