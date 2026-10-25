@@ -1,38 +1,38 @@
 {
-  "date": "Sun, Oct 18",
+  "date": "Sun, Oct 25",
   "region": "NH Seacoast · zone 6a",
-  "generatedAt": "Weekly · Oct 18",
-  "headline": "Harvest the last tender crops now — a killing frost can hit the Seacoast any night this week.",
+  "generatedAt": "Weekly · Oct 25",
+  "headline": "Plant your garlic this week — late October is the zone 6a window to get cloves in before the ground freezes.",
   "tasks": [
-    {
-      "tag": "Harvest",
-      "title": "Pull tomatoes, peppers, squash, basil before a hard frost",
-      "detail": "Mid-October is first-frost time on the Seacoast, and 28°F or below will finish tender crops overnight. Pick everything, including green tomatoes (ripen them indoors on a counter), and cut basil before it blackens."
-    },
     {
       "tag": "Sow now",
       "title": "Plant garlic",
-      "detail": "Now through early November is the prime window. Split a head into cloves, plant pointy-end up 2-3 inches deep and 6 inches apart, then top with a few inches of straw or leaf mulch for next July's harvest."
+      "detail": "Break a head into cloves and plant pointy-end up, 2 inches deep and 6 inches apart, in a sunny, well-drained bed. This is your last good window before the soil locks up; they root now and sprout next spring."
     },
     {
       "tag": "Harvest",
-      "title": "Leave kale, carrots, and Brussels sprouts for the cold",
-      "detail": "These hardy crops actually get sweeter after a light frost, so don't rush them. Keep picking as you need them — they'll hold in the ground for weeks yet."
+      "title": "Pick the frost-sweetened crops",
+      "detail": "Kale, Brussels sprouts, carrots, parsnips and leeks all get sweeter after a frost or two, so keep harvesting them. Pull any remaining tender crops (the last green tomatoes, peppers, squash) before a hard freeze hits."
     },
     {
       "tag": "Prep",
-      "title": "Plant spring bulbs",
-      "detail": "Get daffodils, tulips, and crocus in the ground before it freezes hard, roughly 2-3 times as deep as the bulb is tall, pointy-end up. They need these cool weeks to root for a spring show."
+      "title": "Mulch garlic and perennials",
+      "detail": "After planting garlic, cover the bed with 3-4 inches of straw or shredded leaves. Mulch around perennials and strawberries too once the ground gets cold — it insulates roots against the freeze-thaw cycles of a coastal winter."
     },
     {
       "tag": "Prep",
-      "title": "Clean up spent beds",
-      "detail": "Pull finished plants and clear fallen leaves and fruit. Compost healthy material, but bag or trash anything with mildew, blight, or spots so disease doesn't overwinter in the soil."
+      "title": "Shut off and drain outdoor water",
+      "detail": "Disconnect, drain and store hoses, and shut off any outdoor spigots or rain barrels before the first hard freeze. Water left in them expands when it freezes and cracks the pipe or barrel."
     },
     {
       "tag": "Prep",
-      "title": "Mulch beds and drain the hoses",
-      "detail": "Spread a few inches of shredded leaves or straw over cleared beds to protect the soil, and disconnect and drain hoses before the first hard freeze so they don't split."
+      "title": "Put beds to bed",
+      "detail": "Clear out spent annual plants and fallen fruit, especially anything that looked diseased this year (blighted tomato vines, powdery-mildew squash). Compost the healthy stuff and trash the diseased to avoid overwintering spores."
+    },
+    {
+      "tag": "Feed",
+      "title": "Stockpile leaves and top up compost",
+      "detail": "Rake fallen leaves and either shred them for mulch or layer them into the compost pile with kitchen scraps. A few inches of compost or chopped leaves spread over empty beds now feeds the soil over winter."
     }
   ]
 }
