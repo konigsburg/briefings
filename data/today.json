@@ -1,40 +1,45 @@
 {
   "date": "Monday, October 26, 2026",
   "generatedAt": "Morning brief · 7:13 AM ET",
-  "theme": "An open day — the real work is teeing up tomorrow.",
-  "greeting": "The calendar is clear today, Dan, with no meetings on the books. The moves that matter are framing tomorrow's two Brunswick conversations and finally pinning down that Christmas rental.",
+  "theme": "An open day, then two Brunswick conversations tomorrow.",
+  "greeting": "The day is yours, Dan — nothing on the calendar until tomorrow's two Brunswick meetings. Good runway to prep and clear a couple of long-overdue bookings.",
   "needsAttention": [
     {
-      "tag": "Tomorrow prep",
-      "title": "Two Brunswick calls back-to-back tomorrow",
-      "detail": "Separate 1:1s with Jonathan Doorley (10 AM) and Christian Buss (1:30 PM), both set up by Erika Maass. Worth deciding today what you want from each — the board-search angle and what you're exploring."
+      "tag": "Prep for tomorrow",
+      "title": "Two Brunswick conversations tomorrow",
+      "detail": "Jonathan Doorley at 10:00 and Christian Buss at 1:30 ET, both on Teams. You haven't accepted either invite yet — worth confirming today and arriving with a clear ask on the board search."
     },
     {
-      "tag": "Overdue p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Your top-priority task, overdue since Sept 14. A full-size SUV out of Portland over Christmas week sells out; a refundable hold now removes the whole risk."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "The p1 task to hold a refundable full-size SUV out of Portland for Christmas week is well past due. That rental is the thinnest holiday inventory in the market — put a refundable hold on it before it sells out."
+    },
+    {
+      "tag": "Decision overdue",
+      "title": "December break destination",
+      "detail": "The book-by date (Oct 15) has passed and the destination for all four girls still isn't picked. A domestic shortlist is the safe default given the passport timing you'd already worked out."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "IFAC director wants to connect",
-        "detail": "A LinkedIn request from a Director at IFAC — worth a look given the governance network you're working."
+        "tag": "Financial",
+        "title": "Venmo request from Joshua Weaver",
+        "detail": "$50 for mowing (10-14-26) sitting unapproved."
       },
       {
-        "tag": "Financial",
-        "title": "Venmo request — $50 for mowing",
-        "detail": "Joshua Weaver requested $50 for the Oct 14 mow; still unpaid."
+        "tag": "Job search",
+        "title": "LinkedIn invite from IFAC's Bruce",
+        "detail": "Connection request from a director at IFAC — worth a look given the governance network."
       },
       {
         "tag": "FYI",
-        "title": "Stewardship call invite updated",
-        "detail": "The Valoris / FinCity Tokyo stewardship meeting was reissued for Nov 5, 7 AM ET."
+        "title": "Valoris Stewardship Catalysts call",
+        "detail": "Updated invite for the IMC/FinCity Tokyo call, Thu Nov 5, 7 AM ET."
       }
     ],
-    "noise": "Everything else is newsletters and promos — Monocle, Italian Word of the Day, Nextdoor, Trip.com, and a Chase statement that's on auto-pay.",
+    "noise": "The rest is newsletters, travel promos, and a building salon notice.",
     "clear": ""
   },
   "resolved": [],
@@ -52,50 +57,35 @@
   },
   "tasks": [
     {
-      "title": "December break — shortlist 3 destinations",
-      "project": "Travel",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder down to St Pete",
-      "project": "Travel",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + soap holder",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing scheduled — a clean block to knock out the Christmas-rental hold that's been waiting since September.",
-      "tag": "open"
+      "line": "Nothing scheduled — the open morning is your window for tomorrow's Brunswick prep."
     },
     {
       "time": "Afternoon",
-      "line": "Still open; a good stretch to land the December-break destination call you owe.",
-      "tag": "open"
+      "line": "Still clear, a good block to close the Christmas SUV hold and the December trip call."
     },
     {
       "time": "Evening",
-      "line": "Fifteen minutes to frame tomorrow's two Brunswick conversations before they start.",
-      "tag": "prep"
+      "line": "Quiet at home with the girls in St. Pete."
     }
   ],
   "japanese": {
