@@ -1,56 +1,75 @@
 {
   "date": "Sunday, October 25, 2026",
   "generatedAt": "Morning brief · 10:06 PM ET",
-  "theme": "A quiet Sunday with the girls in St. Pete.",
-  "greeting": "The kids are with you and Mike at the Coffee Pot cottage. A calm day bookended by the morning board reset and the island associations' meeting tonight — and a short stack of travel bookings that have waited long enough.",
+  "theme": "A light calendar — two short meetings, a long open middle, girls at home.",
+  "greeting": "A quiet Sunday in St. Pete with the four girls, Dan. Just the 15-minute review with Mike this morning and the association meeting at five — the long middle is yours to spend deliberately.",
   "needsAttention": [
     {
-      "tag": "Book this week",
+      "tag": "Book now",
       "title": "Maine Christmas SUV rental",
-      "detail": "The Pathfinder heads south this month, so there's no six-seater in Maine for Christmas. A full-size SUV out of Portland over the holidays is the first thing to sell out — book refundable now and move the dates later. P1, and it's been sitting since September."
+      "detail": "p1 on the board and overdue since mid-September. A refundable full-size SUV out of Portland for Christmas week sells out early, so holding one now costs nothing and removes the whole risk."
     },
     {
-      "tag": "Booking window",
-      "title": "December break destination",
-      "detail": "All four girls, Dec 13–Jan 2. The book-by date was Oct 15 and holiday inventory for six over three weeks is the thinnest of the year. Pick domestic, or lock a refundable international option, and get it booked."
+      "tag": "Decide + book",
+      "title": "December break destinations",
+      "detail": "p2 on the board; both the decide-by and book-by dates have passed. Holiday travel for six over three weeks is the thinnest inventory of the year."
     },
     {
-      "tag": "Window passed",
-      "title": "Pathfinder drive south",
-      "detail": "The Oct 5–18 off-week window to drive Portland to St Pete has closed. Settle the new plan at Sunday review — every month it slips is roughly another $950 rental cycle."
+      "tag": "Blocked",
+      "title": "Term-life quotes for Mike",
+      "detail": "p2, overdue since Sept 25 — stuck on a missing target coverage amount and term length before you can start shopping quotes."
     },
     {
-      "tag": "Family · overdue",
-      "title": "Term life quotes for Mike",
-      "detail": "Four kids and no coverage is the real gap. Your half is the shopping — three quotes, term length, coverage amount. Still waiting on the target coverage and term to move it."
+      "tag": "RSVP",
+      "title": "ICGN board dinner in Toronto",
+      "detail": "Mathias at ICGN invited you to the Nov 3 board dinner at Lee Restaurant, the night before the conference, and needs your reply plus any dietary restrictions."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "The 15-minute board reset",
-      "tag": "Review"
+      "detail": "15-min board reset",
+      "tag": "sync"
     },
     {
       "time": "5:00 PM",
       "title": "DIRA & DIBA annual meeting",
-      "detail": "Island bridge + road associations, on Zoom",
-      "tag": "Zoom"
+      "detail": "Zoom",
+      "tag": "meeting"
     }
   ],
   "inbox": {
     "flagged": [
       {
+        "tag": "Job search",
+        "title": "Valoris × FinCity call confirmed",
+        "detail": "An updated invite lands the stewardship call on Thursday Nov 5, 7–8 AM ET."
+      },
+      {
+        "tag": "Financial",
+        "title": "Venmo request from Josh Weaver",
+        "detail": "$50 for mowing (Oct 14) is waiting on you."
+      },
+      {
         "tag": "FYI",
-        "title": "Toronto trip coming up",
-        "detail": "An Airbnb reservation reminder for the Nov 2 Toronto stay landed — a heads-up, nothing to do."
+        "title": "Nora's Kindle book needs approval",
+        "detail": "Amazon is holding a book request for your OK."
       }
     ],
-    "noise": "The rest was an Italian-words newsletter and a Trip.com promo.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "The rest is newsletters and retail — Folio, Monocle, NYT Cooking, Trip.com, plus LinkedIn and Nextdoor.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "title": "DIRA & DIBA annual meeting",
+      "detail": "Held this evening at 5 PM by Zoom — the annual Bridge & Road association meeting."
+    },
+    {
+      "title": "ICGN Plenary 7 planning call",
+      "detail": "Wrapped Thursday; Claudia at ICGN circulated the delegate companies and job titles afterward."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -65,35 +84,41 @@
   },
   "tasks": [
     {
-      "title": "Order the Portland house items — bedframe + outdoor soap holder",
-      "project": "Dan & Mike",
-      "due": "Overdue Sep 30",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 30",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder south to St Pete",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Projects",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "The day opened with the fifteen-minute Sunday board reset with Mike at nine."
+      "time": "9 – 9:15 AM",
+      "line": "The Sunday review with Mike opens the week — fifteen minutes to reset the board and name what's live."
     },
     {
-      "time": "Afternoon",
-      "line": "An open stretch at the Coffee Pot cottage with the girls — nothing else on the calendar."
+      "time": "9:15 AM – 5 PM",
+      "line": "A wide-open middle with nothing on the calendar, the rare Sunday stretch worth spending on one real thing."
     },
     {
-      "time": "Evening",
-      "line": "The island's bridge and road associations held their annual meeting over Zoom at five."
+      "time": "5 PM onward",
+      "line": "The DIRA & DIBA annual meeting by Zoom at five, and the evening clear after it."
     }
   ],
   "japanese": {
