@@ -1,59 +1,54 @@
 {
   "date": "Sunday, October 25, 2026",
   "generatedAt": "Morning brief · 8:06 PM ET",
-  "theme": "Two quiet bookends, open water between.",
-  "greeting": "A calm Sunday, Dan — a quick sweep with Mike this morning and the island associations tonight, with the whole middle wide open. The travel calls that keep slipping are the thing worth spending it on.",
+  "theme": "A quiet Sunday with the girls in St. Pete.",
+  "greeting": "The kids are with you and Mike at the Coffee Pot cottage. A calm day bookended by the morning board reset and the island associations' meeting tonight — and a short stack of travel bookings that have waited long enough.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Portland Christmas SUV",
-      "detail": "On your Travel list, overdue since Sept 14. A full-size SUV out of PWM over Christmas week is the hardest rental in that market — book it refundable now before it sells out, and adjust the dates later."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "The Pathfinder heads south this month, so there's no six-seater in Maine for Christmas. A full-size SUV out of Portland over the holidays is the first thing to sell out — book refundable now and move the dates later. P1, and it's been sitting since September."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "Lock the December break destination",
-      "detail": "On your Travel list, decide-by Sept 30 and book-by Oct 15 are both behind you now. All four girls, Dec 13 to Jan 2, over the thinnest holiday inventory of the year for six."
+      "tag": "Booking window",
+      "title": "December break destination",
+      "detail": "All four girls, Dec 13–Jan 2. The book-by date was Oct 15 and holiday inventory for six over three weeks is the thinnest of the year. Pick domestic, or lock a refundable international option, and get it booked."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "Shop three term-life quotes for Mike",
-      "detail": "On your Household list, overdue since Sept 25. You run the quotes, term, and coverage; Mike handles the application. Still open: the target coverage amount and term length."
+      "tag": "Window passed",
+      "title": "Pathfinder drive south",
+      "detail": "The Oct 5–18 off-week window to drive Portland to St Pete has closed. Settle the new plan at Sunday review — every month it slips is roughly another $950 rental cycle."
+    },
+    {
+      "tag": "Family · overdue",
+      "title": "Term life quotes for Mike",
+      "detail": "Four kids and no coverage is the real gap. Your half is the shopping — three quotes, term length, coverage amount. Still waiting on the target coverage and term to move it."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-minute board sweep — owners and dates on everything",
-      "tag": "review"
+      "detail": "The 15-minute board reset",
+      "tag": "Review"
     },
     {
       "time": "5:00 PM",
       "title": "DIRA & DIBA annual meeting",
-      "detail": "Vinalhaven bridge and road associations, by Zoom",
-      "tag": "meeting"
+      "detail": "Island bridge + road associations, on Zoom",
+      "tag": "Zoom"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Venmo request from Joshua Weaver",
-        "detail": "$50 for mowing on 10/14 is sitting unpaid in Venmo."
-      },
-      {
         "tag": "FYI",
-        "title": "Toronto stay is coming up Nov 2",
-        "detail": "Airbnb sent the reservation reminder for the Nov 2 trip."
-      },
-      {
-        "tag": "Job search",
-        "title": "BlackRock FMA Director listing",
-        "detail": "LinkedIn flagged a Financial Markets Advisory director role — a governance and capital-markets fit, with seven connections there."
+        "title": "Toronto trip coming up",
+        "detail": "An Airbnb reservation reminder for the Nov 2 Toronto stay landed — a heads-up, nothing to do."
       }
     ],
-    "noise": "Everything else is newsletters, promos, and a LinkedIn connection invite.",
-    "clear": ""
+    "noise": "The rest was an Italian-words newsletter and a Trip.com promo.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -70,35 +65,35 @@
   },
   "tasks": [
     {
-      "title": "Confirm the Pathfinder drive south",
-      "project": "Travel",
-      "due": "Window Oct 5–18 now closed",
+      "title": "Order the Portland house items — bedframe + outdoor soap holder",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower holder",
-      "project": "Household",
-      "due": "Overdue Sep 30",
+      "title": "Destination edit work",
+      "project": "Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A fifteen-minute sweep with Mike opens the day, and the rest of the morning stays clear."
+      "line": "The day opened with the fifteen-minute Sunday board reset with Mike at nine."
     },
     {
       "time": "Afternoon",
-      "line": "A wide-open stretch with nothing booked — the room the Christmas-rental and December-trip calls have been waiting for."
+      "line": "An open stretch at the Coffee Pot cottage with the girls — nothing else on the calendar."
     },
     {
       "time": "Evening",
-      "line": "The island associations meet by Zoom from five to close out the day."
+      "line": "The island's bridge and road associations held their annual meeting over Zoom at five."
     }
   ],
   "japanese": {
