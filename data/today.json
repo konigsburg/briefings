@@ -1,23 +1,23 @@
 {
   "date": "Monday, October 26, 2026",
   "generatedAt": "Morning brief · 2:09 PM ET",
-  "theme": "An open Monday, with tomorrow's Brunswick calls to prep for.",
-  "greeting": "The calendar's empty today, Dan — the day is yours. The work worth doing is quiet: prep for tomorrow's two Brunswick conversations, and a couple of booking windows that have waited long enough.",
+  "theme": "Open today, Brunswick tomorrow.",
+  "greeting": "The day's clear, Dan — nothing on the calendar until tomorrow's two Brunswick calls. Good room to close the Christmas-rental and December-trip decisions that have been drifting, and to walk in prepared.",
   "needsAttention": [
     {
-      "tag": "Prep for tomorrow",
-      "title": "Two Brunswick intro calls land back-to-back tomorrow",
-      "detail": "Jonathan Doorley at 10:00 and Christian Buss at 1:30 ET, both set up through Brunswick. Decide today the one ask you want to leave each with and a quick read on who they are."
+      "tag": "Prep · tomorrow",
+      "title": "Two Brunswick Group conversations tomorrow",
+      "detail": "Back-to-back 1:1s arranged by Erika Maass — Jonathan Doorley at 10:00 AM, Christian Buss at 1:30 PM (both Teams). Decide the point of view you want each to leave with and skim who they are before you dial in."
     },
     {
-      "tag": "Booking window",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "Your p1 task to hold a refundable full-size SUV out of Portland for Christmas week has sat since mid-September — holiday inventory there is the first to sell out."
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your one p1 on the Mike + Dan board, due Sep 14. A full-size SUV out of PWM over Christmas week is the hardest rental in that market and it sells out — book it refundable now and fix the dates later."
     },
     {
-      "tag": "Overdue · travel",
-      "title": "December trip for all four girls needs a call",
-      "detail": "The decide-and-book deadlines (Sept 30 / Oct 15) have both passed for the Dec 13–Jan 2 window; pick domestic-or-international and lock a destination."
+      "tag": "Window closed",
+      "title": "December break still undecided",
+      "detail": "p2, decide-by Sep 30 and book-by Oct 15 have both passed. Six people over three weeks of holiday inventory is the thinnest of the year — pick domestic-vs-international and shortlist, or the trip books itself into a corner."
     }
   ],
   "schedule": [],
@@ -25,24 +25,30 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Valoris follow-up is waiting on you",
-        "detail": "David Karapetyan wrote this morning picking up Friday's conversation, with a few ideas he'd like your read on."
+        "title": "New LinkedIn role alert",
+        "detail": "An alert for \"Senior Vice President of Global Public Policy\" and similar roles landed this morning."
       },
       {
         "tag": "Financial",
-        "title": "Mowing payment request open",
-        "detail": "A $50 Venmo request from Joshua Weaver for the Oct 14 mow is still sitting unpaid."
+        "title": "Venmo request from Joshua Weaver",
+        "detail": "$50 for mowing (10/14) is waiting on you in Venmo."
       },
       {
         "tag": "FYI",
-        "title": "Nov 5 stewardship call confirmed",
-        "detail": "FinCity/IMC sent an updated Zoom invite for the Valoris session, 7:00 AM ET on Nov 5."
+        "title": "Valoris / FinCity call moved to Nov 5",
+        "detail": "Updated invite for the Valoris Stewardship Catalysts <> IMC/FinCity Zoom, now Thu Nov 5, 7:00 AM ET."
       }
     ],
-    "noise": "A couple of LinkedIn connection requests, a Folio Society promo, and an Airbnb nudge about the Nov 2 Toronto stay.",
-    "clear": "Nothing else is waiting on a reply."
+    "noise": "The rest is newsletters and promos — NYT Cooking, LinkedIn stats, an Amazon delivery, a few shop sales.",
+    "clear": "Nothing else is waiting on a reply from you."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Handled",
+      "title": "UWM/Cenlar short-sale documents",
+      "detail": "Mike replied to Randy that he'll send the signature pages and completed RMA form — you're only cc'd, nothing owed."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -57,35 +63,50 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Get 3 term-life quotes for Mike",
       "project": "Mike + Dan — Board",
-      "due": "Overdue Sept 25",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Place the Portland house order",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Mike + Dan — Board",
-      "due": "Overdue Sept 30",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder south (the Oct 5–18 window has passed)",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "10/10",
-    "day": "2/6",
+    "day": "2/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear start — the calendar holds nothing before noon."
+      "line": "A clear morning in St. Pete — nothing booked until tomorrow.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon stays open in St. Petersburg, unhurried and yours to steer."
+      "line": "An open stretch; the Maine Christmas rental and the December trip are the two overdue calls worth closing today.",
+      "tag": "focus"
     },
     {
       "time": "Evening",
-      "line": "Home with the girls at the Coffee Pot Bayou cottage to close the day."
+      "line": "A quiet night with the girls before an early Brunswick start tomorrow.",
+      "tag": "home"
     }
   ],
   "japanese": {
