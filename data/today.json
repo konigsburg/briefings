@@ -1,52 +1,52 @@
 {
   "date": "Monday, October 26, 2026",
-  "generatedAt": "Morning brief · 4:07 PM ET",
-  "theme": "Open today, Brunswick tomorrow.",
-  "greeting": "The day's clear, Dan — nothing on the calendar until tomorrow's two Brunswick calls. Good room to close the Christmas-rental and December-trip decisions that have been drifting, and to walk in prepared.",
+  "generatedAt": "Morning brief · 4:13 PM ET",
+  "theme": "An open day in St. Pete — tomorrow is where the week tightens.",
+  "greeting": "A rare clear calendar today, Dan — nothing scheduled until tomorrow morning. The open hours are yours for the few things that have been waiting on a quiet moment.",
   "needsAttention": [
     {
-      "tag": "Prep · tomorrow",
-      "title": "Two Brunswick Group conversations tomorrow",
-      "detail": "Back-to-back 1:1s arranged by Erika Maass — Jonathan Doorley at 10:00 AM, Christian Buss at 1:30 PM (both Teams). Decide the point of view you want each to leave with and skim who they are before you dial in."
+      "tag": "Prep for tomorrow",
+      "title": "Two Brunswick calls back-to-back tomorrow",
+      "detail": "Jonathan Doorley at 10 AM and Christian Buss at 1:30 PM ET, both arranged by Erika Maass at Brunswick. A little reading on each before you're live would pay off."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Your one p1 on the Mike + Dan board, due Sep 14. A full-size SUV out of PWM over Christmas week is the hardest rental in that market and it sells out — book it refundable now and fix the dates later."
+      "tag": "Job search",
+      "title": "Recruiter note going cold",
+      "detail": "Amin Noorani pitched the CIFIC VP, Government Relations & Regulatory Affairs role on Oct 15 and offered to keep you in mind for board seats — still unanswered eleven days on."
     },
     {
-      "tag": "Window closed",
-      "title": "December break still undecided",
-      "detail": "p2, decide-by Sep 30 and book-by Oct 15 have both passed. Six people over three weeks of holiday inventory is the thinnest of the year — pick domestic-vs-international and shortlist, or the trip books itself into a corner."
+      "tag": "Books this week",
+      "title": "Maine Christmas SUV still open",
+      "detail": "The top-priority full-size rental out of Portland for Christmas week has sat since mid-September; holiday inventory sells out, so a refundable hold closes the risk now."
+    },
+    {
+      "tag": "Window closing",
+      "title": "December break undecided",
+      "detail": "The destination shortlist was due Sept 30 and the book-by of Oct 15 has passed — six people over the holidays is the thinnest inventory of the year."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "New LinkedIn role alert",
-        "detail": "An alert for \"Senior Vice President of Global Public Policy\" and similar roles landed this morning."
-      },
-      {
-        "tag": "Financial",
-        "title": "Venmo request from Joshua Weaver",
-        "detail": "$50 for mowing (10/14) is waiting on you in Venmo."
+        "tag": "FYI",
+        "title": "NACD New England event Wednesday",
+        "detail": "Run-of-show circulated for the Oct 28 New England gathering you're on the list for."
       },
       {
         "tag": "FYI",
-        "title": "Valoris / FinCity call moved to Nov 5",
-        "detail": "Updated invite for the Valoris Stewardship Catalysts <> IMC/FinCity Zoom, now Thu Nov 5, 7:00 AM ET."
+        "title": "Valoris–FinCity Tokyo call Nov 5",
+        "detail": "Updated invite for the 7 AM ET stewardship session a week Thursday."
       }
     ],
-    "noise": "The rest is newsletters and promos — NYT Cooking, LinkedIn stats, an Amazon delivery, a few shop sales.",
-    "clear": "Nothing else is waiting on a reply from you."
+    "noise": "The rest is LinkedIn job alerts, a Duke tailgate RSVP, and reunion photos.",
+    "clear": ""
   },
   "resolved": [
     {
       "tag": "Handled",
-      "title": "UWM/Cenlar short-sale documents",
-      "detail": "Mike replied to Randy that he'll send the signature pages and completed RMA form — you're only cc'd, nothing owed."
+      "title": "Revised Valoris partnership proposal sent",
+      "detail": "You replied to Davit Karapetyan this morning with an updated proposal — reworked KPIs over a nine-month runway; now with him, Mike and Martin for comment."
     }
   ],
   "context": {
@@ -63,21 +63,21 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Drive the Pathfinder down to St Pete",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + shower holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south (the Oct 5–18 window has passed)",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
@@ -95,18 +95,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning in St. Pete — nothing booked until tomorrow.",
-      "tag": "open"
+      "line": "The calendar is empty straight through — no calls, no holds."
     },
     {
       "time": "Afternoon",
-      "line": "An open stretch; the Maine Christmas rental and the December trip are the two overdue calls worth closing today.",
-      "tag": "focus"
+      "line": "Open end to end; nothing on the books touches the afternoon."
     },
     {
       "time": "Evening",
-      "line": "A quiet night with the girls before an early Brunswick start tomorrow.",
-      "tag": "home"
+      "line": "Tomorrow starts filling by ten, so tonight is the quiet runway into it."
     }
   ],
   "japanese": {
