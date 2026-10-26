@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-10-26",
+    "kind": "Morning brief",
+    "label": "Monday, Oct 26 · 6:12 AM ET",
+    "summary": "An open day; prep for tomorrow's two Brunswick calls and lock the overdue Christmas-rental hold.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-10-25",
     "kind": "Morning brief",
     "label": "Sunday, Oct 25 · 10:06 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Sunday, Sep 27 · 10:14 PM ET",
     "summary": "An open Sunday in St. Pete with the girls; a NACD New England reply awaited and the Maine Christmas rental still to book.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-09-26",
-    "kind": "Morning brief",
-    "label": "Saturday, Sep 26 · 10:13 PM ET",
-    "summary": "An open Saturday; reply to the NACD Maine committee note and lock the overdue Christmas SUV before tomorrow's board review with Mike.",
     "ref": "today"
   }
 ]
