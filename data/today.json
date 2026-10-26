@@ -1,53 +1,48 @@
 {
   "date": "Monday, October 26, 2026",
-  "generatedAt": "Morning brief · 12:07 PM ET",
-  "theme": "An open day in St. Pete, two Brunswick intros tomorrow.",
-  "greeting": "The calendar is clear today, Dan — the first genuinely open stretch in a while, with the girls home in St. Pete. Tomorrow brings two Brunswick intros, so today is the day to get ahead of them and clear the travel bookings that have slipped.",
+  "generatedAt": "Morning brief · 12:13 PM ET",
+  "theme": "An open Monday, with tomorrow's Brunswick calls to prep for.",
+  "greeting": "The calendar's empty today, Dan — the day is yours. The work worth doing is quiet: prep for tomorrow's two Brunswick conversations, and a couple of booking windows that have waited long enough.",
   "needsAttention": [
     {
-      "tag": "Tomorrow prep",
-      "title": "Two Brunswick intros tomorrow",
-      "detail": "Jonathan Doorley at 10 and Christian Buss at 1:30, both set up through Erika Maass. Arrive with your governance and board narrative and one clear ask for each."
+      "tag": "Prep for tomorrow",
+      "title": "Two Brunswick intro calls land back-to-back tomorrow",
+      "detail": "Jonathan Doorley at 10:00 and Christian Buss at 1:30 ET, both set up through Brunswick. Decide today the one ask you want to leave each with and a quick read on who they are."
     },
     {
-      "tag": "Reply owed",
-      "title": "Valoris ideas to weigh",
-      "detail": "David Karapetyan followed up on Friday's conversation with products and ideas for you to consider; he is waiting on your thoughts."
+      "tag": "Booking window",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "Your p1 task to hold a refundable full-size SUV out of Portland for Christmas week has sat since mid-September — holiday inventory there is the first to sell out."
     },
     {
-      "tag": "Window closing",
-      "title": "Maine Christmas SUV",
-      "detail": "The p1 to hold a refundable full-size SUV out of Portland for Christmas week is weeks overdue — that market sells out over the holidays, so reserve one now and adjust dates later."
-    },
-    {
-      "tag": "Booking slipped",
-      "title": "December break trip",
-      "detail": "The decide-by Sept 30 and book-by Oct 15 dates have both passed; the 21-day trip for six over the holidays still needs a destination picked and a refundable hold."
+      "tag": "Overdue · travel",
+      "title": "December trip for all four girls needs a call",
+      "detail": "The decide-and-book deadlines (Sept 30 / Oct 15) have both passed for the Dec 13–Jan 2 window; pick domestic-or-international and lock a destination."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "8609 lender documents",
-        "detail": "Mike forwarded the lender's request for updated, wet-signature forms on the 8609 Evening file."
+        "tag": "Job search",
+        "title": "Valoris follow-up is waiting on you",
+        "detail": "David Karapetyan wrote this morning picking up Friday's conversation, with a few ideas he'd like your read on."
       },
       {
         "tag": "Financial",
-        "title": "Venmo request — mowing",
-        "detail": "Joshua Weaver requested $50 for the Oct 14 mow."
+        "title": "Mowing payment request open",
+        "detail": "A $50 Venmo request from Joshua Weaver for the Oct 14 mow is still sitting unpaid."
+      },
+      {
+        "tag": "FYI",
+        "title": "Nov 5 stewardship call confirmed",
+        "detail": "FinCity/IMC sent an updated Zoom invite for the Valoris session, 7:00 AM ET on Nov 5."
       }
     ],
-    "noise": "The rest is LinkedIn job alerts and connection invites, real-estate listing alerts, and travel promos — nothing needing you.",
-    "clear": ""
+    "noise": "A couple of LinkedIn connection requests, a Folio Society promo, and an Airbnb nudge about the Nov 2 Toronto stay.",
+    "clear": "Nothing else is waiting on a reply."
   },
-  "resolved": [
-    {
-      "title": "Heritage Home Service repair booked",
-      "detail": "You replied this morning agreeing to proceed and set the repair for Friday, Nov 6."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -62,47 +57,35 @@
   },
   "tasks": [
     {
-      "title": "December break — shortlist 3 destinations",
-      "project": "Family / Household",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Family / Household",
-      "due": "Overdue Sep 25",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Family / Household",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Work",
-      "due": "Overdue Aug 15",
+      "title": "Place the Portland house order",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/2",
-    "day": "0/2",
+    "morning": "10/10",
+    "day": "2/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear start in St. Pete with the girls home and nothing booked — a rare open runway."
+      "line": "A clear start — the calendar holds nothing before noon."
     },
     {
       "time": "Afternoon",
-      "line": "The empty stretch holds straight through the afternoon; no handoffs or calls pulling at the middle of the day."
+      "line": "The afternoon stays open in St. Petersburg, unhurried and yours to steer."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens early with two back-to-back calls, so get your head there tonight and close down early."
+      "line": "Home with the girls at the Coffee Pot Bayou cottage to close the day."
     }
   ],
   "japanese": {
