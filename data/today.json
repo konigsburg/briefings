@@ -1,46 +1,49 @@
 {
   "date": "Tuesday, October 27, 2026",
-  "generatedAt": "Morning brief · 6:09 AM ET",
-  "theme": "A clear day, with tomorrow's calls to prep.",
-  "greeting": "A quiet Monday, Dan — nothing on today's calendar. The real work is tomorrow: two Brunswick conversations worth a few notes tonight, plus a couple of holiday bookings that are now genuinely overdue.",
+  "generatedAt": "Morning brief · 6:12 AM ET",
+  "theme": "Two short calls, a wide-open middle.",
+  "greeting": "A light morning in St. Pete, Dan — two brief Brunswick conversations and open water on either side of them. The threads worth catching today are the holiday-travel bookings that have drifted well past their dates.",
   "needsAttention": [
     {
-      "tag": "Tomorrow prep",
-      "title": "Two Brunswick calls tomorrow",
-      "detail": "Back-to-back 1:1s on Teams — Jonathan Doorley at 10:00 AM, Christian Buss at 1:30 PM. A few notes tonight on what you want from each will pay off."
-    },
-    {
-      "tag": "p1 overdue",
-      "title": "Book the Maine Christmas SUV rental",
-      "detail": "On the Mike + Dan board since Sep 14. A full-size SUV out of Portland over Christmas week sells out — book it refundable now, adjust dates later."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental still hasn't gone out",
+      "detail": "The p1 'book this week' task is six weeks past its Sept 14 date. A full-size SUV out of Portland over Christmas is the thinnest rental in that market — a refundable hold now costs nothing and removes the whole risk."
     },
     {
       "tag": "Decision overdue",
-      "title": "December break destination",
-      "detail": "Decide-by was Sep 30 and the Oct 15 book-by has passed; holiday inventory for six over three weeks is at its thinnest. Pick domestic vs. international and lock it."
+      "title": "December break has no destination yet",
+      "detail": "Decide-by Sept 30 and book-by Oct 15 have both passed. All four girls, 21 days over the holidays, six people — the year's thinnest inventory keeps thinning while this sits."
+    },
+    {
+      "tag": "Coverage gap",
+      "title": "Mike's term-life quotes are still open",
+      "detail": "The three-quote shopping task is a month past Sept 25. Four kids and no coverage is the gap it was meant to close; it still needs a target amount and term length from Mike."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "10:00 AM",
+      "title": "Jonathan Doorley · Brunswick",
+      "detail": "30 min · Teams, set up by Erika Maass",
+      "tag": "call"
+    },
+    {
+      "time": "1:30 PM",
+      "title": "Christian Buss · Brunswick",
+      "detail": "30 min · Teams",
+      "tag": "call"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Mortgage docs still outstanding",
-        "detail": "Mike is chasing UWM/Cenlar for documents on the 8609 Evening property; you're cc'd."
-      },
-      {
         "tag": "FYI",
-        "title": "Valoris stewardship call Nov 5",
-        "detail": "Updated invite for the Valoris Stewardship Catalysts × IMC/FinCity call, 7–8 AM ET on Nov 5."
-      },
-      {
-        "tag": "FYI",
-        "title": "Airbnb reservation Nov 2",
-        "detail": "Reminder for an upcoming reservation beginning November 2."
+        "title": "Valoris stewardship session moved to Nov 5",
+        "detail": "The Valoris Catalysts / FinCity Tokyo call now sits Thu Nov 5, 7 AM ET — an updated invite, nothing owed today."
       }
     ],
-    "noise": "The rest is promotions and alerts — Mattress Firm, Academia, a Nextdoor post, restaurant offers.",
-    "clear": ""
+    "noise": "The rest is newsletters and receipts — WSJ, Foreign Affairs, Amazon bakeware shipping, an Amex points note, a few sale blasts.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -48,7 +51,7 @@
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Monday Oct 26"
+    "asOf": "Tuesday Oct 27"
   },
   "recipe": {
     "title": "White sweet potato soup with pickled scallions",
@@ -57,53 +60,35 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder Portland → St Pete",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Book Mike's dermatologist call",
-      "project": "Mike + Dan Board",
+      "title": "Book Mike's dermatology appointment",
+      "project": "Household",
       "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "10/10",
-    "day": "2/3",
+    "morning": "0/10",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar — nothing was scheduled before noon."
+      "line": "Open water until ten — room for the professional-contacts round before the first call."
     },
     {
-      "time": "Afternoon",
-      "line": "The afternoon stayed open; no meetings landed."
+      "time": "10 AM – 2 PM",
+      "line": "Two short Brunswick calls bracket the middle of the day, with nothing scheduled between them."
     },
     {
-      "time": "Evening",
-      "line": "Tomorrow opens with two Brunswick calls — the window for prep is tonight."
+      "time": "Afternoon on",
+      "line": "The day empties out after two; the evening is unclaimed."
     }
   ],
   "japanese": {
