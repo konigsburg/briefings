@@ -1,45 +1,45 @@
 {
   "date": "Monday, October 26, 2026",
-  "generatedAt": "Morning brief · 10:09 PM ET",
-  "theme": "An open day, a busy tomorrow",
-  "greeting": "The calendar is clear today in St. Pete — a genuinely open day with the girls home. The pull is a cluster of overdue bookings with real deadlines, and the two Brunswick calls waiting first thing tomorrow.",
+  "generatedAt": "Morning brief · 10:12 PM ET",
+  "theme": "A clear day, with tomorrow's calls to prep.",
+  "greeting": "A quiet Monday, Dan — nothing on today's calendar. The real work is tomorrow: two Brunswick conversations worth a few notes tonight, plus a couple of holiday bookings that are now genuinely overdue.",
   "needsAttention": [
     {
-      "tag": "p1 · overdue",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Your top-priority Todoist task to reserve a refundable full-size SUV out of Portland for Christmas week has sat since mid-September. Holiday inventory in that market sells out, so booking early is the whole point — a refundable hold costs nothing now."
+      "tag": "Tomorrow prep",
+      "title": "Two Brunswick calls tomorrow",
+      "detail": "Back-to-back 1:1s on Teams — Jonathan Doorley at 10:00 AM, Christian Buss at 1:30 PM. A few notes tonight on what you want from each will pay off."
     },
     {
-      "tag": "Deadline passed",
-      "title": "Lock the December break plan",
-      "detail": "The December-break task (decide by Sept 30, book by Oct 15) is past both dates. Six people over the holidays means inventory only thins from here — pick domestic-or-international and shortlist three."
+      "tag": "p1 overdue",
+      "title": "Book the Maine Christmas SUV rental",
+      "detail": "On the Mike + Dan board since Sep 14. A full-size SUV out of Portland over Christmas week sells out — book it refundable now, adjust dates later."
     },
     {
-      "tag": "Prep · tomorrow",
-      "title": "Prep for the two Brunswick calls",
-      "detail": "Tomorrow brings back-to-back Brunswick conversations — Jonathan Doorley at 10:00 and Christian Buss at 1:30, both on Teams. Worth arriving with your board-search narrative sharp."
+      "tag": "Decision overdue",
+      "title": "December break destination",
+      "detail": "Decide-by was Sep 30 and the Oct 15 book-by has passed; holiday inventory for six over three weeks is at its thinnest. Pick domestic vs. international and lock it."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Two new role alerts",
-        "detail": "LinkedIn surfaced an SVP role at Biolumina and a Head of Policy & Public Affairs role at Jobgether."
+        "tag": "Financial",
+        "title": "Mortgage docs still outstanding",
+        "detail": "Mike is chasing UWM/Cenlar for documents on the 8609 Evening property; you're cc'd."
       },
       {
         "tag": "FYI",
-        "title": "Nov 5 stewardship call updated",
-        "detail": "An updated invite for the Valoris Catalysts / FinCity Tokyo call on Nov 5 (7 AM ET) came through."
+        "title": "Valoris stewardship call Nov 5",
+        "detail": "Updated invite for the Valoris Stewardship Catalysts × IMC/FinCity call, 7–8 AM ET on Nov 5."
       },
       {
-        "tag": "Financial",
-        "title": "Amex October statement ready",
-        "detail": "Your October American Express statement posted and is ready to review."
+        "tag": "FYI",
+        "title": "Airbnb reservation Nov 2",
+        "detail": "Reminder for an upcoming reservation beginning November 2."
       }
     ],
-    "noise": "The rest is promotions and newsletters — Redbubble, Field Company, Amtrak, Sopo Seafood, and the usual.",
+    "noise": "The rest is promotions and alerts — Mattress Firm, Academia, a Nextdoor post, restaurant offers.",
     "clear": ""
   },
   "resolved": [],
@@ -58,20 +58,26 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Drive the Pathfinder Portland → St Pete",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + soap holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Confirm the Pathfinder drive south",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
+      "title": "Book Mike's dermatologist call",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
@@ -89,15 +95,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings today — the calendar is clear in St. Pete."
+      "line": "A clear calendar — nothing was scheduled before noon."
     },
     {
       "time": "Afternoon",
-      "line": "The open stretch runs all day, with the girls home this week."
+      "line": "The afternoon stayed open; no meetings landed."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow starts early with back-to-back calls — tonight is the calm before it."
+      "line": "Tomorrow opens with two Brunswick calls — the window for prep is tonight."
     }
   ],
   "japanese": {
