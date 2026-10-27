@@ -1,23 +1,23 @@
 {
   "date": "Monday, October 26, 2026",
   "generatedAt": "Morning brief · 8:08 PM ET",
-  "theme": "An open day — the work is getting ready for tomorrow.",
-  "greeting": "The calendar is clear start to finish today, Dan. The thing worth doing before the day closes is reading in for tomorrow's two Brunswick Group conversations — and clearing a couple of holiday bookings that have slipped.",
+  "theme": "An open day, a busy tomorrow",
+  "greeting": "The calendar is clear today in St. Pete — a genuinely open day with the girls home. The pull is a cluster of overdue bookings with real deadlines, and the two Brunswick calls waiting first thing tomorrow.",
   "needsAttention": [
     {
-      "tag": "Prep for tomorrow",
-      "title": "Two Brunswick Group conversations tomorrow",
-      "detail": "Jonathan Doorley at 10:00 and Christian Buss at 1:30, both set up through Brunswick. Worth arriving knowing who each is and what you want out of the conversation, given the search."
+      "tag": "p1 · overdue",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your top-priority Todoist task to reserve a refundable full-size SUV out of Portland for Christmas week has sat since mid-September. Holiday inventory in that market sells out, so booking early is the whole point — a refundable hold costs nothing now."
     },
     {
-      "tag": "Books this week",
-      "title": "Maine Christmas SUV rental still open",
-      "detail": "Your one p1 task, now well overdue. A full-size SUV out of Portland over Christmas week sells out early — book it refundable now and fix the dates later."
+      "tag": "Deadline passed",
+      "title": "Lock the December break plan",
+      "detail": "The December-break task (decide by Sept 30, book by Oct 15) is past both dates. Six people over the holidays means inventory only thins from here — pick domestic-or-international and shortlist three."
     },
     {
-      "tag": "Decision slipped",
-      "title": "December break destination still undecided",
-      "detail": "Decide-by was Sept 30 and the Oct 15 book-by has passed. Holiday inventory for six across three weeks only thins from here, so this is the one to settle."
+      "tag": "Prep · tomorrow",
+      "title": "Prep for the two Brunswick calls",
+      "detail": "Tomorrow brings back-to-back Brunswick conversations — Jonathan Doorley at 10:00 and Christian Buss at 1:30, both on Teams. Worth arriving with your board-search narrative sharp."
     }
   ],
   "schedule": [],
@@ -25,22 +25,22 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Possible fit flagged by LinkedIn",
-        "detail": "A Head of Policy and Public Affairs role at Jobgether, matched to your background."
+        "title": "Two new role alerts",
+        "detail": "LinkedIn surfaced an SVP role at Biolumina and a Head of Policy & Public Affairs role at Jobgether."
+      },
+      {
+        "tag": "FYI",
+        "title": "Nov 5 stewardship call updated",
+        "detail": "An updated invite for the Valoris Catalysts / FinCity Tokyo call on Nov 5 (7 AM ET) came through."
       },
       {
         "tag": "Financial",
         "title": "Amex October statement ready",
-        "detail": "Your October 2026 statement has posted and is ready to review."
-      },
-      {
-        "tag": "FYI",
-        "title": "Valoris Stewardship Catalysts invite updated",
-        "detail": "Updated invite for the IMC / FinCity session, Thursday Nov 5, 7:00 AM ET."
+        "detail": "Your October American Express statement posted and is ready to review."
       }
     ],
-    "noise": "The rest is promotions and digests — Field Company, Amtrak, Sopo Seafood, LinkedIn.",
-    "clear": "Nothing in the inbox is waiting on a reply from you."
+    "noise": "The rest is promotions and newsletters — Redbubble, Field Company, Amtrak, Sopo Seafood, and the usual.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -63,9 +63,15 @@
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Confirm the Pathfinder drive south",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
@@ -76,22 +82,22 @@
     }
   ],
   "routines": {
-    "morning": "0/0",
-    "day": "0/4",
+    "morning": "10/10",
+    "day": "2/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the whole morning is unclaimed."
+      "line": "No meetings today — the calendar is clear in St. Pete."
     },
     {
       "time": "Afternoon",
-      "line": "Still open; a clean slot for the holiday bookings that keep sliding."
+      "line": "The open stretch runs all day, with the girls home this week."
     },
     {
       "time": "Evening",
-      "line": "Two Brunswick conversations land tomorrow — tonight is the time to read in."
+      "line": "Tomorrow starts early with back-to-back calls — tonight is the calm before it."
     }
   ],
   "japanese": {
