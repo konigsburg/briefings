@@ -1,44 +1,44 @@
 {
   "date": "Tuesday, October 27, 2026",
   "generatedAt": "Morning brief · 10:09 AM ET",
-  "theme": "Two Brunswick calls near midday, otherwise open",
-  "greeting": "A pair of 30-minute Brunswick conversations bracket the middle of the day, Dan — the hours on either side are yours, and the girls are home in St. Pete.",
+  "theme": "A light day in St. Pete, two Brunswick calls at midday.",
+  "greeting": "Good morning, Dan. A quiet Tuesday in St. Petersburg — two short Brunswick calls bracket the middle of the day, the rest is open, and a couple of long-deferred holiday bookings have crossed into genuinely time-sensitive.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Hold the Christmas SUV before it's gone",
-      "detail": "Your p1 'Book Maine Christmas rental' on the Mike + Dan board has sat since Sep 14 — a full-size SUV out of Portland over Christmas week sells out, so a refundable hold now removes the risk."
+      "tag": "Books out",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Your p1 'Book Maine Christmas rental' on the Mike + Dan board is six weeks overdue (due Sep 14). A full-size SUV out of Portland over Christmas week is the thinnest rental in that market — a refundable hold now costs nothing and removes the risk."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "Settle where December goes",
-      "detail": "The December-break destination for all four girls (Dec 13–Jan 2) is still open; both the decide-by (Sep 30) and book-by (Oct 15) have passed, and holiday inventory for six is the thinnest of the year."
+      "tag": "Window closing",
+      "title": "December break destinations",
+      "detail": "The p2 'December break — shortlist 3, decide by Sep 30' is past both its decide date and the Oct 15 book-by. Holiday inventory for six over three weeks is the thinnest of the year, so a domestic shortlist and a booking are overdue."
     }
   ],
   "schedule": [
     {
       "time": "10:00 AM",
-      "title": "Brunswick: Jonathan Doorley",
-      "detail": "30-min Teams call",
-      "tag": "meeting"
+      "title": "Jonathan Doorley · Brunswick",
+      "detail": "30-min Teams call (Erika Maass organizing)",
+      "tag": "Call"
     },
     {
       "time": "1:30 PM",
-      "title": "Brunswick: Christian Buss",
+      "title": "Christian Buss · Brunswick",
       "detail": "30-min Teams call",
-      "tag": "meeting"
+      "tag": "Call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Valoris 'Board Products' brochure",
-        "detail": "Mike Lubrano (Valoris Stewardship Catalysts) shared a governance brochure ahead of the Nov 5 Valoris<>FinCity call — networking, no reply needed."
+        "title": "Valoris board materials",
+        "detail": "Mike Lubrano sent a Valoris Boards brochure — context for your Nov 5 Valoris/FinCity call. Nothing to answer."
       }
     ],
-    "noise": "Promotions and newsletters only: Mandarin Oriental, The Company Store, Faherty, SoFi, Austrian, Folio Society.",
-    "clear": "No security, financial, or health alerts, and nothing awaiting a reply today."
+    "noise": "Otherwise newsletters, shop sales, a ferry alert, Airbnb reminders, and a couple of LinkedIn pings.",
+    "clear": "Nothing's waiting on your reply this morning."
   },
   "resolved": [],
   "context": {
@@ -55,27 +55,15 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Place the Portland house order (bedframe + soap holder)",
+      "title": "Portland house order — bedframe + outdoor soap holder",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Plan the Pathfinder drive south (Portland → St Pete)",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -87,15 +75,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "One 30-minute call with Jonathan Doorley at 10, nothing else booked before noon."
+      "line": "Clear until a 10 AM Teams call with Jonathan Doorley at Brunswick, then open again."
     },
     {
       "time": "Afternoon",
-      "line": "Christian Buss at 1:30, and the calendar clears for the day after 2."
+      "line": "One more Brunswick call — Christian Buss at 1:30 — sits alone in a wide-open afternoon."
     },
     {
       "time": "Evening",
-      "line": "Nothing scheduled — room for tomorrow's NACD prep or the travel list."
+      "line": "Nothing scheduled tonight; a natural window to glance at tomorrow's 1 PM NACD program before it starts."
     }
   ],
   "japanese": {
