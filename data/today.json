@@ -1,41 +1,36 @@
 {
   "date": "Tuesday, October 27, 2026",
-  "generatedAt": "Morning brief · 6:07 PM ET",
-  "theme": "A light meeting day — the girls home, the evening open.",
-  "greeting": "Both Brunswick conversations are behind you, Dan, and the afternoon opens up. The girls are home in St. Pete, and a couple of holiday-logistics decisions have been waiting a while.",
+  "generatedAt": "Morning brief · 6:10 PM ET",
+  "theme": "A light day — two Brunswick calls, open water otherwise.",
+  "greeting": "An easy Tuesday, Dan: two half-hour Brunswick conversations and the rest of the day your own. The overdue travel-planning items are the thing worth an hour tonight.",
   "needsAttention": [
     {
-      "tag": "Family",
-      "title": "Sandra's room at Tampa Gardens",
-      "detail": "Shari emailed the facility's director this morning — the A/C has been out and the room left in poor shape on recent visits. You're cc'd, so you're looped in."
+      "tag": "Overdue · Travel",
+      "title": "Book the Maine Christmas rental",
+      "detail": "Your p1 'Book Maine Christmas rental' (full-size SUV out of Portland) has sat open since mid-September. Holiday inventory at PWM is the tightest in that market, and a refundable hold costs nothing — this is the item most likely to bite."
     },
     {
-      "tag": "Travel · p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Your own note calls this the item most likely to bite — a full-size SUV out of Portland over Christmas sells out. A refundable hold costs nothing. Overdue since Sep 14."
+      "tag": "Overdue · Decision",
+      "title": "Lock the December break destination",
+      "detail": "Both your own dates have passed — decide by Sept 30, book by Oct 15. Twenty-one days for six over the holidays needs a shortlist picked before inventory thins further; the note says choose domestic-default or flexible-international, not both."
     },
     {
-      "tag": "Travel · p2",
-      "title": "December break destinations",
-      "detail": "All four girls, Dec 13–Jan 2, over the thinnest holiday inventory of the year. The decide-by (Sep 30) and book-by (Oct 15) dates have both passed."
-    },
-    {
-      "tag": "Prep · tomorrow",
-      "title": "NACD program tomorrow",
-      "detail": "Tomorrow 1 PM the NACD program in Portland sits on your calendar while you're down in St. Pete — worth confirming tonight whether you're joining in person or remotely."
+      "tag": "Overdue · Household",
+      "title": "Three term-life quotes for Mike",
+      "detail": "Open since late September. You shop quotes, term length and coverage; Mike does the application and exam. Still missing a target coverage amount and term to move it."
     }
   ],
   "schedule": [
     {
       "time": "10:00 AM",
-      "title": "Jonathan Doorley — Brunswick Group",
-      "detail": "Teams 1:1, set up by Erika Maass",
+      "title": "Jonathan Doorley · Brunswick",
+      "detail": "Half-hour Teams call",
       "tag": "meeting"
     },
     {
       "time": "1:30 PM",
-      "title": "Christian Buss — Brunswick Group",
-      "detail": "Teams 1:1, set up by Erika Maass",
+      "title": "Christian Buss · Brunswick",
+      "detail": "Half-hour Teams call",
       "tag": "meeting"
     }
   ],
@@ -43,21 +38,21 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Valoris / FinCity stewardship call",
-        "detail": "Updated invite for a Nov 5 Zoom (7 AM ET) on independent fund managers and intermediaries outside Japan — your attendance is marked optional."
-      },
-      {
-        "tag": "Financial",
-        "title": "AT&T wireless bill ready",
-        "detail": "This month's statement is available to view."
+        "title": "CPAO opening at Energy Without Carbon",
+        "detail": "A LinkedIn alert for a Chief Public Affairs Officer role — a clean fit for the public-affairs side, worth a look."
       },
       {
         "tag": "FYI",
-        "title": "Airbnb reservation reminder",
-        "detail": "A reminder landed for a Nov 2 reservation."
+        "title": "Valoris / FinCity call set for Nov 5",
+        "detail": "Updated invitation for the Valoris Stewardship Catalysts and IMC/FinCity call, now Thu Nov 5, 7–8 AM ET."
+      },
+      {
+        "tag": "FYI",
+        "title": "Airbnb reminder for Nov 2",
+        "detail": "A reservation reminder landed for November 2."
       }
     ],
-    "noise": "The rest is newsletters and promos — a St. Pete roundup, a LinkedIn job alert for a KPMG MD role, and a Halloween shop note.",
+    "noise": "The rest was promotions and connection pings — a LinkedIn invite, Folio Society, and the usual.",
     "clear": ""
   },
   "resolved": [],
@@ -75,26 +70,14 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down to St Pete",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Personal",
       "due": "Overdue Aug 15",
       "overdue": true
     }
@@ -107,15 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The day opened with Jonathan Doorley at Brunswick — one of two exploratory conversations on the calendar."
+      "line": "A 10 AM half-hour with Jonathan Doorley at Brunswick opened the day."
     },
     {
       "time": "Afternoon",
-      "line": "Christian Buss at 1:30 closed out the Brunswick pair, and the rest of the afternoon is yours."
+      "line": "Christian Buss at Brunswick at 1:30 — two short Brunswick conversations, the day otherwise yours."
     },
     {
       "time": "Evening",
-      "line": "An open stretch with the girls home in St. Pete after a light meeting day."
+      "line": "Clear tonight; tomorrow's NACD program in Portland is the next thing on the calendar."
     }
   ],
   "japanese": {
