@@ -1,48 +1,63 @@
 {
   "date": "Tuesday, October 27, 2026",
-  "generatedAt": "Morning brief · 4:07 PM ET",
-  "theme": "A light day with the girls in St. Pete.",
-  "greeting": "Two short Brunswick intros were the only things booked today, Dan, and the second one slipped a gear. The rest of the day is open with the girls.",
+  "generatedAt": "Morning brief · 4:11 PM ET",
+  "theme": "A light meeting day — the girls home, the evening open.",
+  "greeting": "Both Brunswick conversations are behind you, Dan, and the afternoon opens up. The girls are home in St. Pete, and a couple of holiday-logistics decisions have been waiting a while.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Your p1 board task to hold a refundable full-size SUV out of Portland for Christmas week is weeks past its date. That rental is the hardest one in the PWM market over the holidays and it sells out — book it refundable now and fix the dates later."
+      "tag": "Family",
+      "title": "Sandra's room at Tampa Gardens",
+      "detail": "Shari emailed the facility's director this morning — the A/C has been out and the room left in poor shape on recent visits. You're cc'd, so you're looped in."
     },
     {
-      "tag": "Window closing",
+      "tag": "Travel · p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your own note calls this the item most likely to bite — a full-size SUV out of Portland over Christmas sells out. A refundable hold costs nothing. Overdue since Sep 14."
+    },
+    {
+      "tag": "Travel · p2",
       "title": "December break destinations",
-      "detail": "Shortlisting three spots for the Dec 13–Jan 2 trip with all four girls was due Sept 30, and the Oct 15 booking date has now passed. Holiday inventory for six over three weeks is the thinnest of the year — pick domestic or flexible-international and lock it."
+      "detail": "All four girls, Dec 13–Jan 2, over the thinnest holiday inventory of the year. The decide-by (Sep 30) and book-by (Oct 15) dates have both passed."
+    },
+    {
+      "tag": "Prep · tomorrow",
+      "title": "NACD program tomorrow",
+      "detail": "Tomorrow 1 PM the NACD program in Portland sits on your calendar while you're down in St. Pete — worth confirming tonight whether you're joining in person or remotely."
     }
   ],
   "schedule": [
     {
       "time": "10:00 AM",
-      "title": "Brunswick intro — Jonathan Doorley",
-      "detail": "30-min Teams introduction",
-      "tag": "Intro"
+      "title": "Jonathan Doorley — Brunswick Group",
+      "detail": "Teams 1:1, set up by Erika Maass",
+      "tag": "meeting"
     },
     {
       "time": "1:30 PM",
-      "title": "Brunswick intro — Christian Buss",
-      "detail": "Teams access glitch; recruiter rebooking",
-      "tag": "Intro"
+      "title": "Christian Buss — Brunswick Group",
+      "detail": "Teams 1:1, set up by Erika Maass",
+      "tag": "meeting"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Brunswick intro to reschedule",
-        "detail": "Today's intro with Christian Buss didn't connect over a Teams glitch; recruiter Erika Maass is arranging a new time."
+        "title": "Valoris / FinCity stewardship call",
+        "detail": "Updated invite for a Nov 5 Zoom (7 AM ET) on independent fund managers and intermediaries outside Japan — your attendance is marked optional."
+      },
+      {
+        "tag": "Financial",
+        "title": "AT&T wireless bill ready",
+        "detail": "This month's statement is available to view."
       },
       {
         "tag": "FYI",
-        "title": "Valoris / FinCity Tokyo call set for Nov 5",
-        "detail": "Updated invite for the Valoris Stewardship Catalysts × IMC/FinCity call, now Thursday Nov 5, 7–8 AM ET."
+        "title": "Airbnb reservation reminder",
+        "detail": "A reminder landed for a Nov 2 reservation."
       }
     ],
-    "noise": "An Amazon shipping notice, an Airbnb reservation reminder, and a Schoolhouse promo.",
+    "noise": "The rest is newsletters and promos — a St. Pete roundup, a LinkedIn job alert for a KPMG MD role, and a Halloween shop note.",
     "clear": ""
   },
   "resolved": [],
@@ -72,9 +87,15 @@
       "overdue": true
     },
     {
-      "title": "Call dermatologist to book appointment",
+      "title": "Drive the Pathfinder down to St Pete",
       "project": "Mike + Dan — Board",
-      "due": "Overdue Aug 28",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -86,15 +107,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A 10 o'clock Teams intro with Jonathan Doorley at Brunswick opened the day."
+      "line": "The day opened with Jonathan Doorley at Brunswick — one of two exploratory conversations on the calendar."
     },
     {
       "time": "Afternoon",
-      "line": "The 1:30 intro with Christian Buss never connected over a Teams snag, and Erika is already working to rebook it."
+      "line": "Christian Buss at 1:30 closed out the Brunswick pair, and the rest of the afternoon is yours."
     },
     {
       "time": "Evening",
-      "line": "The evening is yours in St. Pete, with the NACD program in Portland on deck tomorrow afternoon."
+      "line": "An open stretch with the girls home in St. Pete after a light meeting day."
     }
   ],
   "japanese": {
