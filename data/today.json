@@ -1,58 +1,48 @@
 {
   "date": "Tuesday, October 27, 2026",
-  "generatedAt": "Morning brief · 2:08 PM ET",
-  "theme": "Light day in St. Pete, Portland tomorrow.",
-  "greeting": "A light day in St. Pete, Dan — two short Brunswick calls and otherwise open, with the girls home. Tomorrow you head north to Portland for NACD's Maine Visionaries.",
+  "generatedAt": "Morning brief · 2:12 PM ET",
+  "theme": "A light day with the girls in St. Pete.",
+  "greeting": "Two short Brunswick intros were the only things booked today, Dan, and the second one slipped a gear. The rest of the day is open with the girls.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas rental",
-      "detail": "A full-size SUV out of Portland for Christmas week has been flagged 'book this week' since mid-September. That market sells out over the holidays, so a refundable hold now removes the whole risk."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Your p1 board task to hold a refundable full-size SUV out of Portland for Christmas week is weeks past its date. That rental is the hardest one in the PWM market over the holidays and it sells out — book it refundable now and fix the dates later."
     },
     {
-      "tag": "Window closed",
-      "title": "Decide the December break",
-      "detail": "The decide-by (Sep 30) and book-by (Oct 15) dates for the all-four-kids Dec 13–Jan 2 trip have both passed; holiday inventory for six over three weeks is at its thinnest now."
-    },
-    {
-      "tag": "Prep · tomorrow",
-      "title": "NACD Maine Visionaries, Portland",
-      "detail": "You're registered for tomorrow's program at the Roux Institute, 100 Fore Street — business attire, 1 PM — which means heading north from St. Pete today or early tomorrow."
+      "tag": "Window closing",
+      "title": "December break destinations",
+      "detail": "Shortlisting three spots for the Dec 13–Jan 2 trip with all four girls was due Sept 30, and the Oct 15 booking date has now passed. Holiday inventory for six over three weeks is the thinnest of the year — pick domestic or flexible-international and lock it."
     }
   ],
   "schedule": [
     {
       "time": "10:00 AM",
-      "title": "Brunswick — Jonathan Doorley",
-      "detail": "30-min Teams call",
-      "tag": "call"
+      "title": "Brunswick intro — Jonathan Doorley",
+      "detail": "30-min Teams introduction",
+      "tag": "Intro"
     },
     {
       "time": "1:30 PM",
-      "title": "Brunswick — Christian Buss",
-      "detail": "30-min Teams call",
-      "tag": "call"
+      "title": "Brunswick intro — Christian Buss",
+      "detail": "Teams access glitch; recruiter rebooking",
+      "tag": "Intro"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Note about Sandra Konigsburg",
-        "detail": "An attorney at Zwirn Law wrote Tampa Gardens Senior Living with you copied."
+        "tag": "Job search",
+        "title": "Brunswick intro to reschedule",
+        "detail": "Today's intro with Christian Buss didn't connect over a Teams glitch; recruiter Erika Maass is arranging a new time."
       },
       {
         "tag": "FYI",
-        "title": "Valoris 'Ideas' thread",
-        "detail": "A Valoris Catalysts colleague looped you and two others in on a note headed 'Ideas.'"
-      },
-      {
-        "tag": "FYI",
-        "title": "ICGN Toronto board dinner",
-        "detail": "An invitation to ICGN's board dinner in Toronto arrived from the governance team."
+        "title": "Valoris / FinCity Tokyo call set for Nov 5",
+        "detail": "Updated invite for the Valoris Stewardship Catalysts × IMC/FinCity call, now Thursday Nov 5, 7–8 AM ET."
       }
     ],
-    "noise": "Otherwise newsletters and promos — NYT Cooking, America's Test Kitchen, sailing and real-estate alerts, and LinkedIn job digests.",
+    "noise": "An Amazon shipping notice, an Airbnb reservation reminder, and a Schoolhouse promo.",
     "clear": ""
   },
   "resolved": [],
@@ -71,46 +61,40 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder Portland → St Pete",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Call dermatologist to book appointment",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/6",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "9 AM – 12 PM",
-      "line": "One short Brunswick call at 10 with Jonathan Doorley, then the late morning runs clear."
+      "time": "Morning",
+      "line": "A 10 o'clock Teams intro with Jonathan Doorley at Brunswick opened the day."
     },
     {
-      "time": "12 – 2:30 PM",
-      "line": "Christian Buss at 1:30 is the day's last fixed point, with open time on either side."
+      "time": "Afternoon",
+      "line": "The 1:30 intro with Christian Buss never connected over a Teams snag, and Erika is already working to rebook it."
     },
     {
-      "time": "2:30 PM onward",
-      "line": "The rest of the day opens up — rare room before tomorrow's trip north."
+      "time": "Evening",
+      "line": "The evening is yours in St. Pete, with the NACD program in Portland on deck tomorrow afternoon."
     }
   ],
   "japanese": {
