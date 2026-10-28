@@ -1,43 +1,32 @@
 {
   "date": "Wednesday, October 28, 2026",
   "generatedAt": "Morning brief · 8:13 AM ET",
-  "theme": "An open day in St. Pete with the girls.",
-  "greeting": "A wide-open Wednesday in St. Petersburg with the girls, Dan — only the NACD program at 1 is fixed on the calendar. A good day to finally clear the two holiday bookings whose windows are closing.",
+  "theme": "An open day, with the holidays quietly calling.",
+  "greeting": "Morning, Dan. The day in St. Pete is almost entirely yours — one program at one o'clock, all four girls in the house, and a short stack of travel bookings that have waited long enough.",
   "needsAttention": [
     {
-      "tag": "Booking window",
-      "title": "The Maine Christmas SUV won't wait",
-      "detail": "Your one p1 on the Mike + Dan board, overdue since mid-September: a full-size SUV out of Portland for Christmas week. Holiday inventory at PWM sells out, so a refundable hold today takes the whole risk off the table."
+      "tag": "Travel · overdue",
+      "title": "Book the Maine Christmas rental",
+      "detail": "Full-size SUV out of Portland for Christmas week, your own note says 'book this week' — overdue since Sep 14. Holiday inventory is thin and sells out; a refundable hold now removes the whole risk."
     },
     {
-      "tag": "Decision overdue",
-      "title": "December break is still unpicked",
-      "detail": "The three-week December trip for all six was meant to be decided Sept 30 and booked by Oct 15. Holiday inventory thins by the day — the move is to settle domestic-versus-international and shortlist three now."
+      "tag": "Travel · overdue",
+      "title": "Decide the December break",
+      "detail": "Shortlist three destinations for the Dec 13–Jan 2 trip with all four girls. The decide-by (Sep 30) and book-by (Oct 15) dates have both passed, over the year's thinnest holiday inventory for six."
     }
   ],
   "schedule": [
     {
       "time": "1:00 PM",
-      "title": "NACD program",
-      "detail": "One-hour NACD session",
-      "tag": "program"
+      "title": "NACD Program (Portland)",
+      "detail": "One hour on the calendar — you're lodged in St. Pete, so likely virtual.",
+      "tag": "meeting"
     }
   ],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "FYI",
-        "title": "Stewardship call now Nov 5",
-        "detail": "Updated invite for the Valoris Catalysts / FinCity Tokyo call — Thursday Nov 5, 7–8 AM ET."
-      },
-      {
-        "tag": "FYI",
-        "title": "Airbnb reminder for Nov 2",
-        "detail": "A reservation reminder landed for Nov 2 — worth squaring against the current St. Pete stay that runs through Nov 3."
-      }
-    ],
-    "noise": "The rest is shipping updates, receipts, and newsletters — Halloween costumes and a kitchen delivery arrived.",
-    "clear": ""
+    "flagged": [],
+    "noise": "Everything else is receipts and promos — Amazon, an Apple receipt, Amex offers, Airbnb, plus local sends from St. Pete and Maine.",
+    "clear": "No urgent, security, financial, or job-search mail."
   },
   "resolved": [],
   "context": {
@@ -50,25 +39,31 @@
   "recipe": {
     "title": "Pheasant with Gin and It",
     "book": "How to Eat",
-    "why": "Pheasant is deep in its autumn game season now — a slow, gin-and-vermouth braise made for a cool, dark late-October evening."
+    "why": "Game season is in full swing, and this gin-and-vermouth braise is the kind of unhurried, grown-up cooking that rewards a full house — all four girls under the St. Pete roof this week."
   },
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down (Portland → St Pete)",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — king bedframe + shower soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder down (Oct 5–18 window)",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist — book wart removal (Mike)",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
