@@ -1,31 +1,36 @@
 {
   "date": "Tuesday, October 27, 2026",
-  "generatedAt": "Morning brief · 10:10 PM ET",
-  "theme": "A light day of Brunswick calls, with Portland on tomorrow's horizon.",
-  "greeting": "Two short Brunswick calls bookend an otherwise open day, Dan. The real thing waiting isn't on the calendar — it's the stack of holiday travel bookings that need a decision.",
+  "generatedAt": "Morning brief · 10:13 PM ET",
+  "theme": "A light Tuesday — the real asks are prep and overdue bookings.",
+  "greeting": "Two short Brunswick calls frame a quiet day, Dan — Jonathan Doorley this morning, Christian Buss after lunch. Tomorrow's NACD program in Portland is the one thing worth a few minutes tonight.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "The Pathfinder is south for the winter, so there's no six-seater in Maine for Christmas week. A full-size SUV out of Portland over the holiday sells out — book it refundable now and adjust dates later."
+      "tag": "Tomorrow · Portland",
+      "title": "Prep for the NACD program",
+      "detail": "The NACD program in Portland sits at 1 PM tomorrow on your calendar. Read the agenda and settle the two or three points you want to raise before it opens."
     },
     {
-      "tag": "Decision overdue",
+      "tag": "Overdue · book",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "On the Mike + Dan board since Sept 14, marked p1 and 'book this week.' A full-size SUV out of Portland over Christmas is the hardest rental in that market and sells out — a refundable hold now costs nothing and removes the risk."
+    },
+    {
+      "tag": "Overdue · decide",
       "title": "December break destination",
-      "detail": "Three weeks with all four girls, Dec 13–Jan 2, over the thinnest travel inventory of the year. Decide-by was Sept 30 and book-by Oct 15 — pick domestic vs. international and lock it in."
+      "detail": "On the board since Sept 30 (p2): shortlist three, decide, book. Both the decide-by and book-by dates have passed, and holiday inventory for six over three weeks is the thinnest of the year."
     }
   ],
   "schedule": [
     {
       "time": "10:00 AM",
-      "title": "Brunswick: Jonathan Doorley",
-      "detail": "30-min Teams call",
+      "title": "Jonathan Doorley & Dan",
+      "detail": "Brunswick Group · Teams",
       "tag": "call"
     },
     {
       "time": "1:30 PM",
-      "title": "Brunswick: Christian Buss",
-      "detail": "30-min Teams call",
+      "title": "Christian Buss & Dan",
+      "detail": "Brunswick Group · Teams",
       "tag": "call"
     }
   ],
@@ -66,40 +71,46 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder south to St Pete",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Household",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Personal",
+      "project": "Professional Projects",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/6",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A 10 o'clock Brunswick call with Jonathan Doorley, then the morning opens up."
+      "line": "A 30-minute call with Jonathan Doorley at Brunswick opens the day at ten."
     },
     {
       "time": "Afternoon",
-      "line": "One more Brunswick conversation at 1:30 with Christian Buss, and nothing else on the books."
+      "line": "One more Brunswick conversation, Christian Buss at 1:30, and the afternoon is your own."
     },
     {
       "time": "Evening",
-      "line": "Open air for the Christmas and December travel bookings that are waiting on you."
+      "line": "Quiet, with tomorrow's Portland program the one thing worth prepping."
     }
   ],
   "japanese": {
