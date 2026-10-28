@@ -1,45 +1,45 @@
 {
   "date": "Wednesday, October 28, 2026",
-  "generatedAt": "Morning brief · 12:12 PM ET",
-  "theme": "A clear day in St. Pete — the day to clear the holiday-travel backlog, with Toronto a week out.",
-  "greeting": "Good morning, Dan. The calendar is nearly empty — one NACD session at 1 — so the real opening today is for the holiday bookings that have been waiting since September. ICGN Toronto is a week away.",
+  "generatedAt": "Morning brief - 12:16 PM ET",
+  "theme": "An open day in St. Pete with the girls home - the pull is two holiday-travel bookings that keep sliding.",
+  "greeting": "The calendar is nearly empty today, Dan - one NACD hour at midday and the rest is yours. The girls are with you and Mike at Coffee Pot, so the real work is the two travel bookings that have been slipping since September.",
   "needsAttention": [
     {
-      "tag": "Books this week",
-      "title": "Lock the Maine Christmas SUV before it sells out",
-      "detail": "Your p1 Todoist task to book a refundable full-size SUV out of Portland for Christmas week has been open since mid-September. It's the hardest rental in that market over the holidays, inventory sells out, and a refundable hold costs nothing now."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "A full-size SUV out of Portland for Christmas week is the hardest rental in that market and it sells out. A refundable hold now (PWM, flagged p1) removes the whole risk; it has been open since mid-September."
     },
     {
-      "tag": "Window closing",
-      "title": "Shortlist the December-break destinations",
-      "detail": "The p2 task to pick three options for the Dec 13–Jan 2 stretch with all four girls had a book-by-Oct-15 target that has now passed. Holiday inventory for six over three weeks is the thinnest of the year, so every day of delay narrows the field."
+      "tag": "Overdue decision",
+      "title": "December break destination",
+      "detail": "All four girls, Dec 13 to Jan 2, thinnest holiday inventory of the year. The decide-by was Sept 30 and the book-by Oct 15 has passed - pick a domestic shortlist or lock refundable international, and book."
     }
   ],
   "schedule": [
     {
       "time": "1:00 PM",
       "title": "NACD program",
-      "detail": "An hour on board oversight — useful ground for the seats you're pursuing.",
-      "tag": "board"
+      "detail": "One hour on the calendar - the day's only meeting.",
+      "tag": "Meeting"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Valoris sent the boards brochure",
-        "detail": "Mike Lubrano shared the Valoris Boards brochure as you weigh joining the partnership — worth a read before the Nov 5 Valoris/FinCity call."
-      },
-      {
         "tag": "FYI",
-        "title": "Elder-care conditions escalated at Tampa Gardens",
-        "detail": "Shari Zwirn flagged the broken A/C and room cleanliness in Sandra's unit to the facility director and asked family to call; you're cc'd, so expect a possible follow-up."
+        "title": "Zwirn Law copied you on Sandra",
+        "detail": "A note to Tampa Gardens with you cc'd - nothing flagged for you to do."
       }
     ],
-    "noise": "A LinkedIn invite, a BBYO reunion update, a mail-delay notice, and a cold board-search pitch asking you to reply \"Send brief.\"",
-    "clear": ""
+    "noise": "Home-listing alerts, a Quip retirement reminder, a BBYO reunion Evite, and sailing and Thanksgiving promos - all skippable.",
+    "clear": "Nothing new is waiting on your reply this morning."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "title": "Toronto panel run of show is out",
+      "detail": "You sent the revised questions and nudged the panel this morning; Rachit replied that he is finalizing them with Flo and Jen and will revert before the Nov 5 session."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -54,15 +54,21 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor soap holder",
+      "title": "Portland house order - bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist for Mike",
+      "project": "Household",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -74,15 +80,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning in St. Pete, the kind of open stretch the overdue holiday-rental bookings have been waiting for."
+      "line": "Nothing booked before midday - the open stretch is the morning's to spend."
     },
     {
       "time": "Afternoon",
-      "line": "A single board session anchors the early afternoon, and everything around it is yours to direct."
+      "line": "A single hour mid-afternoon is all the calendar claims; the rest of the day stays yours."
     },
     {
       "time": "Evening",
-      "line": "The girls are with you and Mike this week, a settled evening before the rhythm shifts toward Sunday's handoff."
+      "line": "The evening is clear at Coffee Pot, the girls home with you and Mike."
     }
   ],
   "japanese": {
