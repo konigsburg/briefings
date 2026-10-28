@@ -1,32 +1,43 @@
 {
   "date": "Wednesday, October 28, 2026",
   "generatedAt": "Morning brief · 10:19 AM ET",
-  "theme": "An open day, with the holidays quietly calling.",
-  "greeting": "Morning, Dan. The day in St. Pete is almost entirely yours — one program at one o'clock, all four girls in the house, and a short stack of travel bookings that have waited long enough.",
+  "theme": "A clear day in St. Pete — the day to clear the holiday-travel backlog, with Toronto a week out.",
+  "greeting": "Good morning, Dan. The calendar is nearly empty — one NACD session at 1 — so the real opening today is for the holiday bookings that have been waiting since September. ICGN Toronto is a week away.",
   "needsAttention": [
     {
-      "tag": "Travel · overdue",
-      "title": "Book the Maine Christmas rental",
-      "detail": "Full-size SUV out of Portland for Christmas week, your own note says 'book this week' — overdue since Sep 14. Holiday inventory is thin and sells out; a refundable hold now removes the whole risk."
+      "tag": "Books this week",
+      "title": "Lock the Maine Christmas SUV before it sells out",
+      "detail": "Your p1 Todoist task to book a refundable full-size SUV out of Portland for Christmas week has been open since mid-September. It's the hardest rental in that market over the holidays, inventory sells out, and a refundable hold costs nothing now."
     },
     {
-      "tag": "Travel · overdue",
-      "title": "Decide the December break",
-      "detail": "Shortlist three destinations for the Dec 13–Jan 2 trip with all four girls. The decide-by (Sep 30) and book-by (Oct 15) dates have both passed, over the year's thinnest holiday inventory for six."
+      "tag": "Window closing",
+      "title": "Shortlist the December-break destinations",
+      "detail": "The p2 task to pick three options for the Dec 13–Jan 2 stretch with all four girls had a book-by-Oct-15 target that has now passed. Holiday inventory for six over three weeks is the thinnest of the year, so every day of delay narrows the field."
     }
   ],
   "schedule": [
     {
       "time": "1:00 PM",
-      "title": "NACD Program (Portland)",
-      "detail": "One hour on the calendar — you're lodged in St. Pete, so likely virtual.",
-      "tag": "meeting"
+      "title": "NACD program",
+      "detail": "An hour on board oversight — useful ground for the seats you're pursuing.",
+      "tag": "board"
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "Everything else is receipts and promos — Amazon, an Apple receipt, Amex offers, Airbnb, plus local sends from St. Pete and Maine.",
-    "clear": "No urgent, security, financial, or job-search mail."
+    "flagged": [
+      {
+        "tag": "Job search",
+        "title": "Valoris sent the boards brochure",
+        "detail": "Mike Lubrano shared the Valoris Boards brochure as you weigh joining the partnership — worth a read before the Nov 5 Valoris/FinCity call."
+      },
+      {
+        "tag": "FYI",
+        "title": "Elder-care conditions escalated at Tampa Gardens",
+        "detail": "Shari Zwirn flagged the broken A/C and room cleanliness in Sandra's unit to the facility director and asked family to call; you're cc'd, so expect a possible follow-up."
+      }
+    ],
+    "noise": "A LinkedIn invite, a BBYO reunion update, a mail-delay notice, and a cold board-search pitch asking you to reply \"Send brief.\"",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -43,33 +54,15 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order — bedframe + outdoor soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder down (Oct 5–18 window)",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist — book wart removal (Mike)",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -81,15 +74,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear run until one — nothing on the calendar before the NACD program."
+      "line": "A clear morning in St. Pete, the kind of open stretch the overdue holiday-rental bookings have been waiting for."
     },
     {
       "time": "Afternoon",
-      "line": "One hour on the NACD program at 1, and the afternoon reopens after."
+      "line": "A single board session anchors the early afternoon, and everything around it is yours to direct."
     },
     {
       "time": "Evening",
-      "line": "A quiet evening at the cottage with the girls, nothing scheduled."
+      "line": "The girls are with you and Mike this week, a settled evening before the rhythm shifts toward Sunday's handoff."
     }
   ],
   "japanese": {
