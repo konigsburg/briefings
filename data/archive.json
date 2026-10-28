@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-10-28",
+    "kind": "Morning brief",
+    "label": "Wednesday, Oct 28 · 6:06 AM ET",
+    "summary": "An open day with the NACD program at 1; the two live holiday bookings — Christmas SUV and the December trip — are this week's decisions.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-10-27",
     "kind": "Morning brief",
     "label": "Tuesday, Oct 27 · 10:13 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Tuesday, Sep 29 · 10:14 PM ET",
     "summary": "An open, meeting-free day with three overdue items to close and a Brunswick call on tomorrow's horizon.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-09-28",
-    "kind": "Morning brief",
-    "label": "Monday, Sep 28 · 10:14 PM ET",
-    "summary": "An open, meeting-free Monday; Brunswick recruiter call set for Wednesday, with several family and travel tasks running overdue.",
     "ref": "today"
   }
 ]
