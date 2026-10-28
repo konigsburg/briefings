@@ -1,30 +1,25 @@
 {
   "date": "Wednesday, October 28, 2026",
   "generatedAt": "Morning brief · 4:06 PM ET",
-  "theme": "An open day, with a couple of bookings past their dates",
-  "greeting": "A genuinely open day, Dan — one hour of NACD at midday and the rest is yours. The loudest things in view are a pair of travel bookings that have quietly slipped past their dates.",
+  "theme": "An open day in St. Pete, with the holiday bookings still waiting.",
+  "greeting": "Good afternoon, Dan. The calendar's nearly behind you — just the NACD program at 1 — and the girls are with you and Mike at the cottage. The one thing still pulling at today is the holiday travel that's slipped past its booking windows.",
   "needsAttention": [
     {
-      "tag": "Window closing",
+      "tag": "Booking window",
       "title": "Maine Christmas SUV rental",
-      "detail": "A p1 in your Household list, dated Sept 14 and still open. A full-size SUV out of Portland over Christmas week is the first rental in that market to sell out, so the refundable hold you flagged is the no-cost move."
+      "detail": "Flagged p1 on your and Mike's board and overdue since Sep 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market — a refundable hold now takes the whole risk off the table."
     },
     {
-      "tag": "Dates passed",
+      "tag": "Decision overdue",
       "title": "December break destination",
-      "detail": "The p2 travel item set a decide-by of Sept 30 and a book-by of Oct 15 — both now behind you. All four girls, Dec 13–Jan 2, over the thinnest holiday inventory of the year; your own note leans to the domestic shortlist."
-    },
-    {
-      "tag": "Overdue",
-      "title": "Three term-life quotes for Mike",
-      "detail": "A p2 in Household from Sept 25. Your half is the shopping — quotes, term length, coverage amount — and the target coverage and term are still the missing inputs."
+      "detail": "p2 on the board; both the Sep 30 decide-by and Oct 15 book-by have passed. Six people over three weeks across the holidays is the thinnest inventory of the year — pick domestic or international and book."
     }
   ],
   "schedule": [
     {
       "time": "1:00 PM",
-      "title": "NACD Program",
-      "detail": "Portland governance program · 1–2 PM",
+      "title": "NACD program",
+      "detail": "One-hour session",
       "tag": "program"
     }
   ],
@@ -32,23 +27,18 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "ICGN Toronto — you moderate Plenary 7",
-        "detail": "Final speaker info landed: Thurs Nov 5, 15:05–15:50 at U of Toronto, arrive 30 min early. A high-visibility stewardship-and-reporting panel worth prepping."
-      },
-      {
-        "tag": "Security",
-        "title": "Meta migrated your login",
-        "detail": "Meta moved your sign-in to a Meta Account — informational; nothing to do unless it looks unfamiliar."
+        "title": "Managing Partner role surfaced",
+        "detail": "A LinkedIn alert flags Synergy Management Group's Managing Partner opening — worth a look given the active search."
       }
     ],
-    "noise": "The rest is newsletters and promos — Responsible Investor, home-listing alerts, Airbnb, Harry & David, sailing and napkin ads.",
+    "noise": "The rest is newsletters, an Evite update, and a couple of shop promos.",
     "clear": ""
   },
   "resolved": [
     {
-      "tag": "Replied",
-      "title": "Free conference ticket, sorted with Jen",
-      "detail": "You replied to Jen Sisson about the complimentary ICGN ticket this morning; she's confirming it with Elle, so the ball is in her court."
+      "tag": "Closed",
+      "title": "ICGN run of show approved",
+      "detail": "Co-panelists Rachit, Jane, and Andy came back with sign-off today, and ICGN confirmed your comp place for the Toronto conference Nov 4-5."
     }
   ],
   "context": {
@@ -65,41 +55,41 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Household",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder down, Portland → St Pete",
-      "project": "Household",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Work",
-      "due": "Overdue Aug 15",
+      "title": "Drive the Pathfinder, Portland to St Pete",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + soap holder",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing was booked before noon — a rare clear morning."
+      "line": "Nothing on the calendar — the morning was open."
     },
     {
       "time": "Afternoon",
-      "line": "One hour anchored the day: the NACD program from 1 to 2."
+      "line": "A single hour with the NACD program at 1, then clear."
     },
     {
       "time": "Evening",
-      "line": "The evening is unclaimed, with the girls home in St. Pete."
+      "line": "Open at the Coffee Pot cottage with the girls."
     }
   ],
   "japanese": {
