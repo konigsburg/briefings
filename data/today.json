@@ -1,43 +1,54 @@
 {
   "date": "Wednesday, October 28, 2026",
-  "generatedAt": "Morning brief · 2:07 PM ET",
-  "theme": "An open day in St. Pete with the girls home - the pull is two holiday-travel bookings that keep sliding.",
-  "greeting": "The calendar is nearly empty today, Dan - one NACD hour at midday and the rest is yours. The girls are with you and Mike at Coffee Pot, so the real work is the two travel bookings that have been slipping since September.",
+  "generatedAt": "Morning brief · 2:10 PM ET",
+  "theme": "An open day, with a couple of bookings past their dates",
+  "greeting": "A genuinely open day, Dan — one hour of NACD at midday and the rest is yours. The loudest things in view are a pair of travel bookings that have quietly slipped past their dates.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "A full-size SUV out of Portland for Christmas week is the hardest rental in that market and it sells out. A refundable hold now (PWM, flagged p1) removes the whole risk; it has been open since mid-September."
+      "tag": "Window closing",
+      "title": "Maine Christmas SUV rental",
+      "detail": "A p1 in your Household list, dated Sept 14 and still open. A full-size SUV out of Portland over Christmas week is the first rental in that market to sell out, so the refundable hold you flagged is the no-cost move."
     },
     {
-      "tag": "Overdue decision",
+      "tag": "Dates passed",
       "title": "December break destination",
-      "detail": "All four girls, Dec 13 to Jan 2, thinnest holiday inventory of the year. The decide-by was Sept 30 and the book-by Oct 15 has passed - pick a domestic shortlist or lock refundable international, and book."
+      "detail": "The p2 travel item set a decide-by of Sept 30 and a book-by of Oct 15 — both now behind you. All four girls, Dec 13–Jan 2, over the thinnest holiday inventory of the year; your own note leans to the domestic shortlist."
+    },
+    {
+      "tag": "Overdue",
+      "title": "Three term-life quotes for Mike",
+      "detail": "A p2 in Household from Sept 25. Your half is the shopping — quotes, term length, coverage amount — and the target coverage and term are still the missing inputs."
     }
   ],
   "schedule": [
     {
       "time": "1:00 PM",
-      "title": "NACD program",
-      "detail": "One hour on the calendar - the day's only meeting.",
-      "tag": "Meeting"
+      "title": "NACD Program",
+      "detail": "Portland governance program · 1–2 PM",
+      "tag": "program"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Zwirn Law copied you on Sandra",
-        "detail": "A note to Tampa Gardens with you cc'd - nothing flagged for you to do."
+        "tag": "Job search",
+        "title": "ICGN Toronto — you moderate Plenary 7",
+        "detail": "Final speaker info landed: Thurs Nov 5, 15:05–15:50 at U of Toronto, arrive 30 min early. A high-visibility stewardship-and-reporting panel worth prepping."
+      },
+      {
+        "tag": "Security",
+        "title": "Meta migrated your login",
+        "detail": "Meta moved your sign-in to a Meta Account — informational; nothing to do unless it looks unfamiliar."
       }
     ],
-    "noise": "Home-listing alerts, a Quip retirement reminder, a BBYO reunion Evite, and sailing and Thanksgiving promos - all skippable.",
-    "clear": "Nothing new is waiting on your reply this morning."
+    "noise": "The rest is newsletters and promos — Responsible Investor, home-listing alerts, Airbnb, Harry & David, sailing and napkin ads.",
+    "clear": ""
   },
   "resolved": [
     {
-      "title": "Toronto panel run of show is out",
-      "detail": "You sent the revised questions and nudged the panel this morning; Rachit replied that he is finalizing them with Flo and Jen and will revert before the Nov 5 session."
+      "tag": "Replied",
+      "title": "Free conference ticket, sorted with Jen",
+      "detail": "You replied to Jen Sisson about the complimentary ICGN ticket this morning; she's confirming it with Elle, so the ball is in her court."
     }
   ],
   "context": {
@@ -54,21 +65,21 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order - bedframe + outdoor shower soap holder",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Call dermatologist for Mike",
+      "title": "Drive the Pathfinder down, Portland → St Pete",
       "project": "Household",
-      "due": "Overdue Aug 28",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Work",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -80,15 +91,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing booked before midday - the open stretch is the morning's to spend."
+      "line": "Nothing was booked before noon — a rare clear morning."
     },
     {
       "time": "Afternoon",
-      "line": "A single hour mid-afternoon is all the calendar claims; the rest of the day stays yours."
+      "line": "One hour anchored the day: the NACD program from 1 to 2."
     },
     {
       "time": "Evening",
-      "line": "The evening is clear at Coffee Pot, the girls home with you and Mike."
+      "line": "The evening is unclaimed, with the girls home in St. Pete."
     }
   ],
   "japanese": {
