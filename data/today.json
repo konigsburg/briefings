@@ -1,59 +1,54 @@
 {
   "date": "Tuesday, October 27, 2026",
   "generatedAt": "Morning brief · 8:06 PM ET",
-  "theme": "A light day — two Brunswick calls, open water otherwise.",
-  "greeting": "An easy Tuesday, Dan: two half-hour Brunswick conversations and the rest of the day your own. The overdue travel-planning items are the thing worth an hour tonight.",
+  "theme": "A light day of Brunswick calls, with Portland on tomorrow's horizon.",
+  "greeting": "Two short Brunswick calls bookend an otherwise open day, Dan. The real thing waiting isn't on the calendar — it's the stack of holiday travel bookings that need a decision.",
   "needsAttention": [
     {
-      "tag": "Overdue · Travel",
-      "title": "Book the Maine Christmas rental",
-      "detail": "Your p1 'Book Maine Christmas rental' (full-size SUV out of Portland) has sat open since mid-September. Holiday inventory at PWM is the tightest in that market, and a refundable hold costs nothing — this is the item most likely to bite."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "The Pathfinder is south for the winter, so there's no six-seater in Maine for Christmas week. A full-size SUV out of Portland over the holiday sells out — book it refundable now and adjust dates later."
     },
     {
-      "tag": "Overdue · Decision",
-      "title": "Lock the December break destination",
-      "detail": "Both your own dates have passed — decide by Sept 30, book by Oct 15. Twenty-one days for six over the holidays needs a shortlist picked before inventory thins further; the note says choose domestic-default or flexible-international, not both."
-    },
-    {
-      "tag": "Overdue · Household",
-      "title": "Three term-life quotes for Mike",
-      "detail": "Open since late September. You shop quotes, term length and coverage; Mike does the application and exam. Still missing a target coverage amount and term to move it."
+      "tag": "Decision overdue",
+      "title": "December break destination",
+      "detail": "Three weeks with all four girls, Dec 13–Jan 2, over the thinnest travel inventory of the year. Decide-by was Sept 30 and book-by Oct 15 — pick domestic vs. international and lock it in."
     }
   ],
   "schedule": [
     {
       "time": "10:00 AM",
-      "title": "Jonathan Doorley · Brunswick",
-      "detail": "Half-hour Teams call",
-      "tag": "meeting"
+      "title": "Brunswick: Jonathan Doorley",
+      "detail": "30-min Teams call",
+      "tag": "call"
     },
     {
       "time": "1:30 PM",
-      "title": "Christian Buss · Brunswick",
-      "detail": "Half-hour Teams call",
-      "tag": "meeting"
+      "title": "Brunswick: Christian Buss",
+      "detail": "30-min Teams call",
+      "tag": "call"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "CPAO opening at Energy Without Carbon",
-        "detail": "A LinkedIn alert for a Chief Public Affairs Officer role — a clean fit for the public-affairs side, worth a look."
+        "title": "KPMG Managing Director role",
+        "detail": "LinkedIn flagged a Managing Director opening at KPMG US where 14 of your connections work."
       },
       {
-        "tag": "FYI",
-        "title": "Valoris / FinCity call set for Nov 5",
-        "detail": "Updated invitation for the Valoris Stewardship Catalysts and IMC/FinCity call, now Thu Nov 5, 7–8 AM ET."
+        "tag": "Governance",
+        "title": "Valoris stewardship call moved",
+        "detail": "Updated invite for the Valoris Catalysts and IMC/FinCity call, now Thursday Nov 5 at 7 AM ET."
       },
       {
-        "tag": "FYI",
-        "title": "Airbnb reminder for Nov 2",
-        "detail": "A reservation reminder landed for November 2."
+        "tag": "Health",
+        "title": "Note from Ro's care team",
+        "detail": "A message from Ro's care team is sitting unread in your inbox."
       }
     ],
-    "noise": "The rest was promotions and connection pings — a LinkedIn invite, Folio Society, and the usual.",
-    "clear": ""
+    "noise": "Otherwise just an Airbnb reservation reminder for Nov 2.",
+    "clear": "Nothing else is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -70,7 +65,13 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
@@ -90,15 +91,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A 10 AM half-hour with Jonathan Doorley at Brunswick opened the day."
+      "line": "A 10 o'clock Brunswick call with Jonathan Doorley, then the morning opens up."
     },
     {
       "time": "Afternoon",
-      "line": "Christian Buss at Brunswick at 1:30 — two short Brunswick conversations, the day otherwise yours."
+      "line": "One more Brunswick conversation at 1:30 with Christian Buss, and nothing else on the books."
     },
     {
       "time": "Evening",
-      "line": "Clear tonight; tomorrow's NACD program in Portland is the next thing on the calendar."
+      "line": "Open air for the Christmas and December travel bookings that are waiting on you."
     }
   ],
   "japanese": {
