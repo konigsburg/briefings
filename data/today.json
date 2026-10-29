@@ -1,23 +1,23 @@
 {
   "date": "Thursday, October 29, 2026",
-  "generatedAt": "Morning brief · 4:10 PM ET",
-  "theme": "A rare open day to clear the decks.",
-  "greeting": "The whole day is open, Dan — nothing on the calendar and the kids home in St. Pete. A clear stretch to get ahead of the ICGN panel and finally clear the overdue travel bookings.",
+  "generatedAt": "Morning brief · 4:14 PM ET",
+  "theme": "An open day with the girls in St. Pete — and a few bookings quietly past due.",
+  "greeting": "Nothing on the calendar today, Dan, so the day is yours with the girls in St. Pete. The shopping's done and tiramisu is on the board; the real pulls are a warm follow-up from Brunswick and a couple of holiday-travel bookings that have slipped.",
   "needsAttention": [
     {
-      "tag": "ICGN panel",
-      "title": "Lock your ICGN Plenary 7 slot",
-      "detail": "Diligent and the ICGN team have a planning call, final speaker info, and panel logistics all moving in your inbox this week. Your conference panel needs a reply and a plan."
+      "tag": "Job search",
+      "title": "Brunswick wants a third conversation",
+      "detail": "Erika Maass writes that Christian Buss would like another 30 minutes and is waiting on your availability for the coming week. The thread has been consistently warm — this is the open ball in your court."
     },
     {
-      "tag": "Holiday travel",
-      "title": "December break is overdue to decide",
-      "detail": "The all-four-kids Dec 13–Jan 2 trip was meant to be decided by Sept 30 and booked by Oct 15; holiday inventory for six only thins from here."
+      "tag": "Books this week",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "Your own p1 note — a refundable full-size SUV out of Portland for Christmas week — is six weeks past its 'book this week' flag. It is the next six-seater for the girls in Maine, and PWM holiday inventory is the first to disappear."
     },
     {
-      "tag": "Books-out risk",
-      "title": "Maine Christmas SUV rental",
-      "detail": "The p1 'book this week' task — a full-size SUV out of Portland for Christmas week — is still open, and that market sells out. A refundable hold removes the risk."
+      "tag": "Window past",
+      "title": "December trip still undecided",
+      "detail": "The shortlist-and-decide task for the Dec 13–Jan 2 trip with all four girls blew past its Oct 15 book-by. Six people over the holidays is the thinnest inventory of the year and only tightens from here."
     }
   ],
   "schedule": [],
@@ -25,19 +25,30 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Brunswick reply from Erik Maass",
-        "detail": "A reply landed on your 'Dan, Erika' thread at Brunswick Group — worth a read given the search."
+        "title": "ICGN Toronto panel flow is locked",
+        "detail": "Flo Clarke confirmed the reworked stewardship questions after your sign-off; the moderator flow is set for Toronto next week."
+      },
+      {
+        "tag": "Job search",
+        "title": "A Maine director offered to engage",
+        "detail": "In Ellen Richstone's NACD-NE note, Steve Shane (an SAIC director) said he has capacity for a board and to flag opportunities — worth a direct reply."
       },
       {
         "tag": "FYI",
-        "title": "NACD New England — Maine feedback",
-        "detail": "A group note from Rich Stone to the NACD-NE circle (Broder, Mintz, and others); no reply is owed from you specifically."
+        "title": "LinkedIn alert: Estée Lauder strategy role",
+        "detail": "Executive Director, Corporate Strategy came through your job alerts."
       }
     ],
-    "noise": "Mostly retail and newsletters — Harry & David, Faherty, The Company Store, Nextdoor, a Press Herald election reminder, and a Quest survey.",
+    "noise": "The rest is receipts, newsletters, and referral promos.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Closed",
+      "title": "ICGN panel questions finalized",
+      "detail": "Flo reworked the Diligent/Rachit session flow and confirmed it after your sign-off — nothing more owed before Toronto."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -53,20 +64,20 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Household",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Call dermatologist to book Mike's appointment",
-      "project": "Household",
-      "due": "Overdue Aug 28",
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -78,15 +89,18 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar — a quiet, open start in St. Pete with the kids home."
+      "line": "The grocery run is already done — breakfast staples and tiramisu makings checked off before noon.",
+      "tag": "home"
     },
     {
       "time": "Afternoon",
-      "line": "The day's widest open block: room to clear the travel backlog in one sitting."
+      "line": "A wide-open calendar with the girls around and no meetings to steer around.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "An unhurried night in; a slow pot roast suits the first cool evening."
+      "line": "Kitchen time looks likely — the tiramisu ingredients are in the house.",
+      "tag": "cook"
     }
   ],
   "japanese": {
