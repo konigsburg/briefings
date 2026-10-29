@@ -1,54 +1,47 @@
 {
   "date": "Thursday, October 29, 2026",
-  "generatedAt": "Morning brief · 7:18 AM ET",
-  "theme": "An open day in St. Pete — room to clear what's been waiting.",
-  "greeting": "The whole day is open, Dan — not a meeting on it. A rare clear stretch to spend on the things that have been sitting, with Toronto now a week out.",
+  "generatedAt": "Morning brief · 7:23 AM ET",
+  "theme": "An open day, with Toronto on the horizon.",
+  "greeting": "A genuinely clear calendar today, Dan — no meetings at all. The one thing worth leaning into is next week's ICGN panel in Toronto; the rest is holiday travel that has waited long enough.",
   "needsAttention": [
     {
-      "tag": "Toronto panel",
-      "title": "Prep the Plenary 7 you're moderating",
-      "detail": "You moderate ICGN's stewardship-data panel next Thursday in Toronto, 3:05 PM. The run of show is set and Jane and Andy have signed off; Jen's reshaped questions just landed via Flo, so an open day is a good one to lock your opening bridge and read the final flow."
+      "tag": "Panel prep",
+      "title": "Shape your Toronto panel",
+      "detail": "You're moderating ICGN's 'Stewardship intelligence: today and tomorrow' plenary in Toronto next week. Jen Sisson sent the final run-of-show, with you bridging from Rachit Gupta's opener to the wider panel — a good quiet day to draft your transition line and framing."
     },
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Your top-priority task to hold a refundable full-size SUV out of Portland for Christmas week has sat since mid-September. It's the only Maine six-seater once the Pathfinder heads south, and holiday inventory there is the tightest of the year — a refundable hold now removes the risk."
+      "tag": "Overdue - Board",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your p1 board task to reserve a full-size SUV out of Portland for Christmas week has sat open since mid-September. Holiday inventory at PWM sells out — a refundable booking now removes the whole risk."
     },
     {
-      "tag": "Window closing",
-      "title": "December break — pick a destination",
-      "detail": "The trip with all four girls (Dec 13–Jan 2) was meant to be decided by Sept 30 and booked by Oct 15, both now past. Passports land early-to-mid November, so a domestic shortlist carries no risk — choosing one unblocks booking over the thinnest-inventory weeks of the year."
+      "tag": "Overdue - Board",
+      "title": "Lock the December break plan",
+      "detail": "The p2 task to shortlist and decide the all-kids December trip is past both its decide-by (Sept 30) and book-by (Oct 15) dates. Three weeks over the holidays for six is the thinnest inventory of the year."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Valoris board-products brochure",
-        "detail": "Mike Lubrano sent the Valoris Boards brochure a few days back — no reply needed, worth a glance when you have a minute."
-      },
-      {
         "tag": "FYI",
-        "title": "Attorney's note on Sandra's behalf",
-        "detail": "Zwirn Law emailed Tampa Gardens Senior Living and copied you — awareness only, nothing to answer."
+        "title": "Final speaker details for Toronto",
+        "detail": "ICGN's events team sent the final speaker information for next week's conference — a quick read before you travel."
       }
     ],
-    "noise": "Mostly newsletters — WSJ Economics, the Italian word of the day, a Breeze fare alert — plus a LinkedIn connection request and a BBYO reunion Evite update.",
+    "noise": "The rest is automated: a run of LinkedIn 'Managing Director' alerts and a BBYO reunion Evite.",
     "clear": ""
   },
   "resolved": [
     {
-      "title": "Plenary 7 questions settled",
-      "detail": "You approved Jen's reshaped session flow; Flo confirmed Rachit is now aligned on the questions."
+      "tag": "Closed",
+      "title": "Panel questions settled",
+      "detail": "You signed off on the reworked ICGN session flow; Flo Clarke confirmed Rachit is now aligned on the commercial angle."
     },
     {
-      "title": "Toronto comp ticket sorted",
-      "detail": "Claudia confirmed your complimentary ICGN conference place is registered."
-    },
-    {
-      "title": "Panel run of show signed off",
-      "detail": "Jane and Andy both confirmed your flow looks good for next Thursday."
+      "tag": "Closed",
+      "title": "Toronto ticket sorted",
+      "detail": "Claudia Rossetti registered your comp place for the conference — nothing left to chase."
     }
   ],
   "context": {
@@ -66,26 +59,20 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
+      "project": "Mike + Dan - Board",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 30",
+      "title": "Portland house order - bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan - Board",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down to St Pete",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Book Mike's dermatologist appointment",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Aug 28",
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -97,15 +84,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the morning is yours from the start."
+      "line": "No calls to open the day — the whole morning is clear."
     },
     {
       "time": "Afternoon",
-      "line": "Still open through the afternoon; no meeting breaks the day."
+      "line": "The open stretch runs straight through; nothing on the calendar."
     },
     {
       "time": "Evening",
-      "line": "A home evening at Coffee Pot Bayou, the girls around."
+      "line": "Home with the girls in St. Pete — an unhurried close."
     }
   ],
   "japanese": {
