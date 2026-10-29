@@ -1,64 +1,57 @@
 {
   "date": "Wednesday, October 28, 2026",
-  "generatedAt": "Morning brief · 10:07 PM ET",
-  "theme": "An open day — Toronto is the thing on the horizon.",
-  "greeting": "Light on the calendar today, Dan — just the NACD program at one and an open evening. The real current is the ICGN panel you’re moderating in Toronto next week, and it’s asking for a decision from you now.",
+  "generatedAt": "Morning brief · 10:12 PM ET",
+  "theme": "An open day, with Toronto on the horizon.",
+  "greeting": "The day's nearly clear, Dan — just the NACD program at one. The girls are with you in St. Pete and Toronto is a week out, so there's room to get ahead of the panel and a couple of holiday bookings.",
   "needsAttention": [
     {
-      "tag": "Panel prep",
-      "title": "Reconcile the ICGN Toronto run of show",
-      "detail": "Jen Sisson and Flo Clarke sent a reshaped set of session questions today and asked you to fold them into your plan; your panelists have already signed off on the version you circulated, so the two need reconciling before the Nov 5 panel."
+      "tag": "Toronto panel",
+      "title": "Prep the Plenary 7 you're moderating",
+      "detail": "You moderate ICGN's stewardship-data panel next Thursday in Toronto. Rachit flagged a planning call and Jen just reshaped the session questions — a good day to lock the flow and your opening bridge to the panel."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Flagged book-this-week back in September — a full-size SUV out of Portland over Christmas week sells out and prices climb, and a refundable hold costs nothing to place now."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "Your top-priority task to hold a refundable full-size SUV out of Portland for Christmas has been sitting since mid-September. Holiday inventory there is the tightest of the year, so placing the refundable hold now removes the risk."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "Lock the December-break destination",
-      "detail": "Decide-by Sep 30 and book-by Oct 15 have both passed; six people over three weeks at the holidays is the thinnest inventory of the year, so each day narrows the choices."
+      "tag": "Window closing",
+      "title": "December break — pick a destination",
+      "detail": "The decide-by and book-by dates on the three-week December trip for all six of you have already passed. Inventory over the holidays is thin; a domestic shortlist keeps it simple and bookable."
     }
   ],
   "schedule": [
     {
       "time": "1:00 PM",
-      "title": "NACD Program (Portland)",
-      "detail": "One-hour program",
-      "tag": "Event"
+      "title": "NACD Program in Portland",
+      "detail": "One hour",
+      "tag": "program"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Chainalysis — Head of US Government Affairs",
-        "detail": "A LinkedIn alert landed for a role squarely in your public-affairs lane."
-      },
-      {
-        "tag": "Security",
-        "title": "New device on your Netflix account",
-        "detail": "A sign-in notice worth a quick look to confirm it was you."
+        "title": "Valoris Catalysts — 'Board Products'",
+        "detail": "Michael Lubrano at Valoris Catalysts wrote a few days ago; worth opening given the board search."
       },
       {
         "tag": "FYI",
-        "title": "Sandra Konigsburg / Tampa Gardens",
-        "detail": "An attorney is corresponding with the senior-living community and copied you."
+        "title": "Sandra Konigsburg — note to Tampa Gardens",
+        "detail": "Your attorney at Zwirn Law emailed Tampa Gardens Senior Living and copied you, so it's just for awareness."
       }
     ],
-    "noise": "Apple’s new MacBook, a Folio Society release, an Evite update, and a NACD survey.",
-    "clear": "Beyond the ICGN thread, nothing is waiting on your reply."
+    "noise": "A LinkedIn connection request, a BBYO reunion Evite update, and a Kiwi trip-prep reminder for Toronto.",
+    "clear": ""
   },
   "resolved": [
     {
-      "tag": "Sorted",
-      "title": "Toronto comp ticket confirmed",
-      "detail": "Claudia Rossetti registered your complimentary conference place — nothing more to do there."
+      "title": "Signed off on the Plenary 7 questions",
+      "detail": "You approved Jen's reshaped session flow back to Flo."
     },
     {
-      "tag": "Sorted",
-      "title": "Panelists signed off on your run of show",
-      "detail": "Jane Ambachtsheer and Andy Howard both approved your panel questions today."
+      "title": "Conference ticket being sorted",
+      "detail": "Jen is chasing your complimentary ICGN ticket with Elle."
     }
   ],
   "context": {
@@ -75,15 +68,27 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
+      "title": "Get 3 term life quotes for Mike",
       "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder down to St Pete",
+      "project": "Travel",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Book Mike's dermatologist appointment",
+      "project": "Household",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -95,15 +100,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear run with nothing booked — the morning is entirely yours."
+      "line": "The morning is clear before anything lands."
     },
     {
       "time": "Afternoon",
-      "line": "The NACD Portland program holds the one o’clock hour; the rest stays open."
+      "line": "An hour on the NACD program at one, then the day reopens."
     },
     {
       "time": "Evening",
-      "line": "Open through the evening — a good window to settle the ICGN panel questions."
+      "line": "Quiet at Coffee Pot Bayou, with the girls around."
     }
   ],
   "japanese": {
