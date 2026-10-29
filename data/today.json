@@ -1,38 +1,44 @@
 {
   "date": "Thursday, October 29, 2026",
   "generatedAt": "Morning brief · 12:17 PM ET",
-  "theme": "A wide-open day with the girls home in St. Pete.",
-  "greeting": "Nothing is on the calendar today and all four girls are with you and Mike in St. Petersburg. The only clocks ticking are two travel bookings that have quietly slipped — ten minutes on those and the rest of the day is genuinely yours.",
+  "theme": "An open day with the girls home, and two bookings worth closing.",
+  "greeting": "The whole day is yours, Dan — nothing on the calendar. Good conditions to finally clear the two bookings that keep sliding, with the whole afternoon still ahead of you.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Maine Christmas SUV is still unbooked",
-      "detail": "Flagged to book this week back on Sep 14 and never done. A full-size SUV out of Portland over Christmas is the thinnest rental in that market — a refundable hold now costs nothing and removes the whole risk; waiting genuinely costs money."
+      "tag": "Home repair",
+      "title": "Heritage never got your repair reply",
+      "detail": "Your Oct 26 note agreeing to the work and asking them to come Friday Nov 6 went to a no-reply address and bounced for good this morning — Heritage doesn't have the date. A quick call to (207) 904-5900 locks it in."
     },
     {
-      "tag": "Decision overdue",
-      "title": "December break destination not picked",
-      "detail": "Decide-by was Sep 30 and the Oct 15 book-by has passed. All four kids, Dec 13–Jan 2, six people over the holidays — inventory only thins from here. The call is domestic vs. international; make it and lock one."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "The p1 'book this week' item on your board with Mike is weeks past due. A full-size SUV out of Portland over Christmas sells out — a refundable hold now costs nothing and takes the risk off the table."
     },
     {
-      "tag": "Prep · next week",
-      "title": "ICGN panel to finalize before Toronto",
-      "detail": "You moderate Plenary 7 on stewardship data next Thursday, Nov 5. Jane and Andy have signed off on your run-of-show; Rachit still owes revised questions — a nudge now gets the final flow set before you travel."
+      "tag": "Holiday trip",
+      "title": "December break has no destination yet",
+      "detail": "Both deadlines on this one — decide by Sept 30, book by Oct 15 — have passed for the Dec 13–Jan 2 trip with all four girls. Inventory for six over the holidays only thins from here; pick domestic vs. international and lock a shortlist."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "NACD New England event feedback",
-        "detail": "Ellen Richstone forwarded a seasoned director's candid take on Tuesday's Maine event to the committee. A group thread — nothing owed from you."
+        "tag": "Job search",
+        "title": "Toronto panel is locked in for next week",
+        "detail": "You're moderating ICGN Plenary 7 on stewardship data Nov 5; your run of show is out, Jane and Andy have signed off, Rachit's finalizing questions. Claudia confirmed your comp place — nothing owed."
       }
     ],
-    "noise": "About eight retail and newsletter emails (Harry & David, Faherty, The Company Store, John Derian, Nextdoor, Press Herald) — all skippable.",
-    "clear": "Inbox is otherwise quiet this morning."
+    "noise": "Everything else is newsletters and retail promos — Responsible Investor, NYT Cooking, Press Herald, and a run of sale emails.",
+    "clear": "Nothing else is waiting on your reply."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Panel prep",
+      "title": "Plenary 7 run of show approved",
+      "detail": "Jane Ambachtsheer and Andy Howard both signed off on your Toronto panel outline this week; Rachit is working up the final questions."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -57,25 +63,31 @@
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
+      "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar to open on, and the week's grocery run — eggs, ham, tiramisu makings — is already checked off."
+      "line": "No meetings all morning — the grocery run got cleared instead, by the look of your list."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled: a rare unbroken stretch with the girls in the house."
+      "line": "A wide-open afternoon is the natural slot for the Christmas SUV and the December trip, both well overdue."
     },
     {
       "time": "Evening",
-      "line": "Four girls home in St. Pete and tiramisu ingredients in the fridge — the kitchen looks like tonight's plan."
+      "line": "The girls are home with you and Mike in St. Pete — an unhurried family evening."
     }
   ],
   "japanese": {
