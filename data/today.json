@@ -1,18 +1,23 @@
 {
   "date": "Thursday, October 29, 2026",
-  "generatedAt": "Morning brief · 8:08 PM ET",
-  "theme": "An open day in St. Pete — clear the travel bookings that have been sliding.",
-  "greeting": "The calendar is empty today, Dan, which makes it the right day to clear the overdue travel bookings. The girls are with you and Mike at the Coffee Pot cottage.",
+  "generatedAt": "Morning brief · 8:14 PM ET",
+  "theme": "An open day — board-search momentum and holiday logistics are the live threads.",
+  "greeting": "Nothing's on the calendar today, Dan, so the day is yours. The two threads worth pulling are Brunswick's follow-up and the holiday travel bookings.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "On the Mike + Dan board since Sep 14. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market, and the note's own logic is to hold a refundable booking now before inventory and holiday pricing bite."
+      "tag": "Job search",
+      "title": "Brunswick wants a second call set up",
+      "detail": "Erika Maass wrote this morning that Christian would like another 30 minutes and is waiting on your availability over the coming week."
     },
     {
-      "tag": "Overdue · p2",
+      "tag": "Travel · p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your top-priority task, open since mid-September: a refundable full-size SUV out of Portland for Christmas week, before holiday inventory sells out."
+    },
+    {
+      "tag": "Travel decision",
       "title": "Lock the December break plan",
-      "detail": "The decide-by (Sep 30) and book-by (Oct 15) dates have both passed on the Mike + Dan board — all four girls, three weeks, the thinnest holiday inventory of the year. The longer it waits the fewer options survive."
+      "detail": "The decide-by and book-by dates have both passed; three holiday weeks for six needs a destination chosen and refundable bookings held."
     }
   ],
   "schedule": [],
@@ -20,18 +25,25 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two roles surfaced by LinkedIn",
-        "detail": "Automated alerts — an Estée Lauder Executive Director, Corporate Strategy and a Synergy Management Group Managing Partner — worth a glance given the active search."
+        "title": "Two board-adjacent roles in today's alerts",
+        "detail": "LinkedIn surfaced an Executive Director, Corporate Strategy role at Estée Lauder and a Managing Partner opening at Synergy Management Group."
       }
     ],
-    "noise": "The rest is retail and newsletters — Black Friday drops, Expedia/Hilton offers, and local roundups.",
+    "noise": "Otherwise mostly newsletters and receipts — the Guardian, Portland Press Herald, a Substack receipt, and utility and travel notices.",
     "clear": ""
   },
   "resolved": [
     {
-      "tag": "Signed off",
-      "title": "ICGN Toronto panel run-of-show approved",
-      "detail": "Jane Ambachtsheer and Andy Howard both approved the revised run of show and questions you circulated Monday, and Claudia confirmed your comp registration. Panel is Nov 4–5."
+      "title": "Toronto comp ticket sorted",
+      "detail": "Claudia at ICGN confirmed she registered your complimentary place for the Autumn Conference — the ticket you raised with Jen is handled."
+    },
+    {
+      "title": "Plenary 7 questions reworked",
+      "detail": "Flo confirmed she and Rachit reshaped the panel questions toward the commercial angle he wanted; your run of show stands and the panelists have signed off."
+    },
+    {
+      "title": "NACD New England Maine event wrapped",
+      "detail": "The directors' event in Portland on Tuesday is done, and the feedback circulating afterward was positive on the panel and moderation."
     }
   ],
   "context": {
@@ -49,20 +61,14 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order — bedframe and outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -74,18 +80,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the whole day is open for the bookings that have been drifting.",
-      "tag": "open"
+      "line": "No meetings on the books — the day opened completely clear in St. Pete."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear; the Christmas Maine SUV is the one item where waiting genuinely costs money.",
-      "tag": "open"
+      "line": "Still nothing scheduled; a rare uninterrupted stretch to spend as you choose."
     },
     {
       "time": "Evening",
-      "line": "A quiet close at the Coffee Pot cottage with the girls.",
-      "tag": "calm"
+      "line": "A quiet close with the girls home — an easy evening before next week ramps up."
     }
   ],
   "japanese": {
