@@ -1,18 +1,18 @@
 {
   "date": "Friday, October 30, 2026",
   "generatedAt": "Morning brief · 8:05 AM ET",
-  "theme": "An open day at home, with room to clear what's been waiting.",
-  "greeting": "Nothing's on the calendar today, Dan, and the girls are with you and Mike in St. Pete — a rare wide-open Friday. The quiet hours are the best window for the Brunswick reply and the Maine Christmas rental before the day fills in around the kids.",
+  "theme": "An open day in St. Pete, the girls home for Halloween eve.",
+  "greeting": "No meetings on the calendar today, Dan — the day is genuinely yours. The only things pulling at you are a couple of holiday-travel bookings that have drifted well past due on the board.",
   "needsAttention": [
     {
-      "tag": "Job search",
-      "title": "Send Brunswick your availability",
-      "detail": "Erika Maass (recruiting) wrote Oct 29: Christian Buss wants another 30 minutes with you and she needs your availability for the coming week to set it up. Both earlier conversations went well, so this is the process advancing — it's waiting on you."
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas SUV rental",
+      "detail": "On the Mike + Dan board since Sep 14 and still open. A full-size SUV out of Portland over Christmas week is the hardest rental in that market — thin inventory, holiday pricing, and it sells out. Book a refundable one now and adjust dates later; this is the one overdue item with a real daily cost."
     },
     {
-      "tag": "Overdue - p1",
-      "title": "Book the Maine Christmas SUV rental",
-      "detail": "Your top-priority task, overdue since mid-September. A full-size SUV out of Portland over Christmas week is the thinnest, fastest-selling rental in that market. Book refundable now and adjust the dates later — holding it early costs nothing and removes the whole risk."
+      "tag": "Overdue · travel",
+      "title": "December break is still unbooked",
+      "detail": "p2 on the board — the decide-by (Sep 30) and book-by (Oct 15) dates have both passed. Six people over the holidays (Dec 13 to Jan 2) is the thinnest inventory of the year. Pick domestic vs. international and lock something this week."
     }
   ],
   "schedule": [],
@@ -20,24 +20,21 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "ICGN Toronto - you moderate Nov 5",
-        "detail": "Final speaker details arrived: you moderate Plenary 7 on evolving stewardship data Thursday Nov 5, 3:05-3:50pm, with panelists from Diligent, BNP Paribas AM and Schroders. Arrive 30 min early; worth blocking prep time this week."
+        "title": "Two new LinkedIn role alerts",
+        "detail": "Estee Lauder — Executive Director, Corporate Strategy; and a Managing Partner opening at Synergy Management Group. Both automated alerts, worth a glance."
       },
       {
         "tag": "Financial",
-        "title": "CMP electric bill ready, autopay set",
-        "detail": "Your Central Maine Power bill is ready and automatic payment is scheduled - nothing to do unless you want to review it."
-      },
-      {
-        "tag": "Job search",
-        "title": "Two roles via LinkedIn alerts",
-        "detail": "Estee Lauder's Executive Director, Corporate Strategy and a Managing Partner opening at Synergy Management Group came through overnight - skim if either fits."
+        "title": "CMP electric bill ready (Maine)",
+        "detail": "Central Maine Power bill posted, with an automatic payment already scheduled — no action needed unless you want to review it."
       }
     ],
-    "noise": "The rest is newsletters and promos - Zillow listings, Guardian, Lufthansa, Amtrak, local St. Pete digests.",
-    "clear": "The ICGN panel-ticket thread is in Jen Sisson's hands now - nothing owed there."
+    "noise": "Heavy promo morning — Hilton, Expedia, Amtrak, Indochino, Harry & David, plus the usual St. Pete and Press Herald newsletters.",
+    "clear": "No security or account alerts."
   },
-  "resolved": [],
+  "resolved": [
+    "ICGN Plenary 7 panel is locked for next week in Toronto — Jane Ambachtsheer (BNP Paribas) and Andy Howard (Schroders) both signed off on your outline, and Claudia registered your comp place."
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -48,31 +45,43 @@
   "recipe": {
     "title": "Warm beet soup",
     "book": "Canal House Cooks Every Day",
-    "why": "A deep-ruby bowl for the last night of October — beets are at their earthy, sweet best right now, and this one warms the kitchen without asking much of you."
+    "why": "Halloween eve in St. Pete with a full house — a deep-ruby pot of beets you can leave to simmer while the girls sort out their costumes, earthy and sweet at the very peak of the season."
   },
   "tasks": [
     {
-      "title": "December break - shortlist 3 destinations and book",
-      "project": "Travel",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order - king bedframe + outdoor shower soap holder",
-      "project": "Household",
+      "title": "Call dermatologist — book wart-removal appt",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Close out the Pathfinder drive (Portland to St Pete)",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 25 — window has passed",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/6",
+    "day": "0/3",
     "evening": "0/4"
   },
   "acts": [
