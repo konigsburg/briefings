@@ -1,23 +1,18 @@
 {
   "date": "Friday, October 30, 2026",
   "generatedAt": "Morning brief · 7:09 AM ET",
-  "theme": "An open Friday — Halloween weekend with the girls, and a few holiday bookings to put to bed.",
-  "greeting": "The day is wide open, Dan — nothing on the calendar, and it's the girls' last weekend with you before Sunday's handoff. A good window to finally clear the Christmas-travel bookings that keep sliding.",
+  "theme": "An open day at home, with room to clear what's been waiting.",
+  "greeting": "Nothing's on the calendar today, Dan, and the girls are with you and Mike in St. Pete — a rare wide-open Friday. The quiet hours are the best window for the Brunswick reply and the Maine Christmas rental before the day fills in around the kids.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental is still open",
-      "detail": "Your p1 board task to hold a full-size SUV out of Portland for Christmas week has been overdue since mid-September. It's the hardest rental in that market over the holidays and it sells out — book it refundable now and adjust dates later."
+      "tag": "Job search",
+      "title": "Send Brunswick your availability",
+      "detail": "Erika Maass (recruiting) wrote Oct 29: Christian Buss wants another 30 minutes with you and she needs your availability for the coming week to set it up. Both earlier conversations went well, so this is the process advancing — it's waiting on you."
     },
     {
-      "tag": "Decide & book",
-      "title": "December break destination still undecided",
-      "detail": "All four girls, Dec 13 to Jan 2, with a decide-by of Sept 30 and book-by of Oct 15 both passed. Holiday inventory for six over three weeks is the thinnest of the year and thins further each day — pick domestic or flexible-international and lock it."
-    },
-    {
-      "tag": "Panel prep",
-      "title": "ICGN Toronto panel is next week",
-      "detail": "You're moderating Plenary 7 on stewardship data and reporting Thursday Nov 5. Jane and Andy have signed off on your run of show; Rachit is still working final question edits with his team, so nothing is owed from you yet — a good moment to reread the flow."
+      "tag": "Overdue - p1",
+      "title": "Book the Maine Christmas SUV rental",
+      "detail": "Your top-priority task, overdue since mid-September. A full-size SUV out of Portland over Christmas week is the thinnest, fastest-selling rental in that market. Book refundable now and adjust the dates later — holding it early costs nothing and removes the whole risk."
     }
   ],
   "schedule": [],
@@ -25,12 +20,22 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two roles surfaced in your job alerts",
-        "detail": "LinkedIn flagged an Executive Director, Corporate Strategy opening at Estee Lauder and a Managing Partner seat at Synergy Management Group."
+        "title": "ICGN Toronto - you moderate Nov 5",
+        "detail": "Final speaker details arrived: you moderate Plenary 7 on evolving stewardship data Thursday Nov 5, 3:05-3:50pm, with panelists from Diligent, BNP Paribas AM and Schroders. Arrive 30 min early; worth blocking prep time this week."
+      },
+      {
+        "tag": "Financial",
+        "title": "CMP electric bill ready, autopay set",
+        "detail": "Your Central Maine Power bill is ready and automatic payment is scheduled - nothing to do unless you want to review it."
+      },
+      {
+        "tag": "Job search",
+        "title": "Two roles via LinkedIn alerts",
+        "detail": "Estee Lauder's Executive Director, Corporate Strategy and a Managing Partner opening at Synergy Management Group came through overnight - skim if either fits."
       }
     ],
-    "noise": "The rest is newsletters and retail — Black Friday previews, Guardian and Press Herald, sailing and travel promos.",
-    "clear": "Nothing new is waiting on your reply; the ICGN panelists are reviewing your run of show."
+    "noise": "The rest is newsletters and promos - Zillow listings, Guardian, Lufthansa, Amtrak, local St. Pete digests.",
+    "clear": "The ICGN panel-ticket thread is in Jen Sisson's hands now - nothing owed there."
   },
   "resolved": [],
   "context": {
@@ -47,27 +52,21 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — king bedframe",
-      "project": "Mike + Dan — Board",
+      "title": "December break - shortlist 3 destinations and book",
+      "project": "Travel",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down to St. Pete",
-      "project": "Mike + Dan — Board",
-      "due": "Window Oct 5-18 passed",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Portland house order - king bedframe + outdoor shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
@@ -79,15 +78,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is clear and the girls are home — a slow breakfast with nothing to rush toward."
+      "line": "No meetings on the books at all — the clear morning is the best stretch for anything that needs real focus."
     },
     {
       "time": "Afternoon",
-      "line": "An open stretch; the two overdue holiday bookings would take only a small bite out of it and finally stop sliding."
+      "line": "The day stays open; the girls are home, so it can flex around them and the few overdue decisions."
     },
     {
       "time": "Evening",
-      "line": "Halloween eve in St. Pete — the last night of this stretch with the girls before Sunday's handoff."
+      "line": "A quiet close, with Halloween and the kids filling tomorrow."
     }
   ],
   "japanese": {
