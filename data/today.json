@@ -1,27 +1,47 @@
 {
   "date": "Friday, October 30, 2026",
   "generatedAt": "Morning brief · 4:07 PM ET",
-  "theme": "An open day in St. Pete, girls home for Halloween.",
-  "greeting": "The calendar is empty today, Dan — the whole day is yours. The girls are home for Halloween weekend, and two travel decisions have waited long enough to be worth an hour this afternoon.",
+  "theme": "An open Friday — Toronto prep and a Halloween eve.",
+  "greeting": "The calendar's clear today, Dan — no meetings, the girls here in St. Pete, and Halloween tomorrow. The open space is yours; the Toronto panel and two overdue bookings are what's quietly waiting.",
   "needsAttention": [
     {
-      "tag": "Book now",
-      "title": "Maine Christmas SUV rental",
-      "detail": "Your p1 board task has been open since Sept 14. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out — book refundable now and adjust the dates later."
+      "tag": "Toronto panel",
+      "title": "Fold Jen's questions into your run of show",
+      "detail": "Flo at ICGN forwarded Jen's reshaped session questions and asked if you can work them into the Plenary 7 plan. You moderate that stewardship panel Thursday in Toronto, so the run of show is the agenda you'll open with."
     },
     {
-      "tag": "Decide this week",
-      "title": "December break destination",
-      "detail": "The Dec 13–Jan 2 trip for all six still needs a shortlist and a booking; the Oct 15 target has passed and holiday inventory only thins from here."
+      "tag": "Books out",
+      "title": "Hold the Maine Christmas SUV",
+      "detail": "The p1 task has been sitting since mid-September. A full-size SUV out of Portland over Christmas week is the one that sells out — a refundable hold now costs nothing and removes the risk."
+    },
+    {
+      "tag": "December trip",
+      "title": "Shortlist the December break",
+      "detail": "Overdue since Sept 30, and the book-by Oct 15 has already passed. Six people over three weeks of holidays is the thinnest inventory of the year, so the shortlist and a direction are the gating step."
     }
   ],
   "schedule": [],
   "inbox": {
-    "flagged": [],
-    "noise": "Nothing but newsletters and shop promos — Chairish, NYT Cooking, VRBO, and a handful of Maine and St. Pete event lists.",
-    "clear": "Nothing is waiting on your reply this morning."
+    "flagged": [
+      {
+        "tag": "Governance",
+        "title": "Maine feedback circling NACD New England",
+        "detail": "Rich Stone emailed the NACD New England group you're on — a chain to glance at, nothing owed from you yet."
+      }
+    ],
+    "noise": "The rest is a St. Pete newsletter, a BBYO reunion Evite update, and Nextdoor's trick-or-treat nudge.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "title": "Toronto comp pass is registered",
+      "detail": "Claudia at ICGN confirmed your complimentary conference place — nothing to sort on the ticket."
+    },
+    {
+      "title": "Panel outline cleared by co-panelists",
+      "detail": "Jane (BNP Paribas) and Andy (Schroders) both signed off on your run of show; Rachit is finalizing the questions with ICGN."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -37,20 +57,14 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 25",
+      "project": "Household",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor soap holder",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sept 30",
       "overdue": true
     }
   ],
@@ -62,15 +76,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the calendar — a genuinely open morning at the cottage in St. Petersburg."
+      "line": "Nothing on the calendar — the clearest stretch for the Toronto run of show."
     },
     {
       "time": "Afternoon",
-      "line": "The clearest stretch of the day for the two travel bookings sitting overdue on the Mike + Dan board."
+      "line": "Still open; the December trip and the Maine Christmas car are the two decisions waiting on you."
     },
     {
       "time": "Evening",
-      "line": "Halloween eve with the girls home; the night belongs to them, not the inbox."
+      "line": "Halloween eve with the four girls in St. Pete — their last night before the Sunday handoff to Jen."
     }
   ],
   "japanese": {
