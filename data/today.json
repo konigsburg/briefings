@@ -1,18 +1,23 @@
 {
   "date": "Friday, October 30, 2026",
-  "generatedAt": "Morning brief · 10:06 AM ET",
-  "theme": "An open day in St. Pete, the girls home for Halloween eve.",
-  "greeting": "No meetings on the calendar today, Dan — the day is genuinely yours. The only things pulling at you are a couple of holiday-travel bookings that have drifted well past due on the board.",
+  "generatedAt": "Morning brief · 10:10 AM ET",
+  "theme": "An open Friday, Toronto on the horizon.",
+  "greeting": "Your calendar is clear today, Dan — nothing scheduled between you and whatever you give the day to. It's the last weekend with the girls in St. Pete before Sunday's handoff, with Halloween in the middle.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV rental",
-      "detail": "On the Mike + Dan board since Sep 14 and still open. A full-size SUV out of Portland over Christmas week is the hardest rental in that market — thin inventory, holiday pricing, and it sells out. Book a refundable one now and adjust dates later; this is the one overdue item with a real daily cost."
+      "tag": "Panel prep",
+      "title": "Pull your ICGN run of show together",
+      "detail": "You moderate Plenary 7 on stewardship data in Toronto next Thursday. You've approved Jen's reshaped question flow, so the open piece is merging it with your own run of show into one final document before you travel."
     },
     {
-      "tag": "Overdue · travel",
-      "title": "December break is still unbooked",
-      "detail": "p2 on the board — the decide-by (Sep 30) and book-by (Oct 15) dates have both passed. Six people over the holidays (Dec 13 to Jan 2) is the thinnest inventory of the year. Pick domestic vs. international and lock something this week."
+      "tag": "Window closing",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "A full-size SUV out of Portland for Christmas week is the hardest rental in that market and sells out. The task has sat since mid-September; a refundable hold costs nothing and removes the risk."
+    },
+    {
+      "tag": "Decision overdue",
+      "title": "December break destination undecided",
+      "detail": "Three weeks with all four girls, Dec 13–Jan 2, and the book-by date has passed. Holiday inventory for six over the holidays is the thinnest of the year — domestic-or-international is the call to make."
     }
   ],
   "schedule": [],
@@ -20,20 +25,29 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two new LinkedIn role alerts",
-        "detail": "Estee Lauder — Executive Director, Corporate Strategy; and a Managing Partner opening at Synergy Management Group. Both automated alerts, worth a glance."
+        "title": "New SVP Global Public Policy alert",
+        "detail": "LinkedIn surfaced a Senior VP of Global Public Policy role and similar — worth a scan given your search."
       },
       {
-        "tag": "Financial",
-        "title": "CMP electric bill ready (Maine)",
-        "detail": "Central Maine Power bill posted, with an automatic payment already scheduled — no action needed unless you want to review it."
+        "tag": "FYI",
+        "title": "Toronto panel questions are settled",
+        "detail": "Flo confirmed Jen's reshaped stewardship questions with Rachit; your run of show stands approved by Jane and Andy."
       }
     ],
-    "noise": "Heavy promo morning — Hilton, Expedia, Amtrak, Indochino, Harry & David, plus the usual St. Pete and Press Herald newsletters.",
-    "clear": "No security or account alerts."
+    "noise": "The rest is promotions — Black Friday previews from Indochino, OXO and Manscaped, plus a Flying Blue miles pitch.",
+    "clear": "Nothing else in the inbox is waiting on your reply."
   },
   "resolved": [
-    "ICGN Plenary 7 panel is locked for next week in Toronto — Jane Ambachtsheer (BNP Paribas) and Andy Howard (Schroders) both signed off on your outline, and Claudia registered your comp place."
+    {
+      "tag": "Closed",
+      "title": "Toronto panel questions locked",
+      "detail": "You approved Jen's reshaped question set Wednesday night; Flo confirmed Thursday that Rachit's commercial angle is now worked in."
+    },
+    {
+      "tag": "Closed",
+      "title": "Conference comp place registered",
+      "detail": "Claudia confirmed your free Toronto ticket is sorted — nothing to chase."
+    }
   ],
   "context": {
     "kids": true,
@@ -55,47 +69,29 @@
       "overdue": true
     },
     {
-      "title": "Call dermatologist — book wart-removal appt",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Close out the Pathfinder drive (Portland to St Pete)",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25 — window has passed",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
-    "day": "0/3",
+    "morning": "0/4",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the books at all — the clear morning is the best stretch for anything that needs real focus."
+      "line": "Nothing on the calendar to answer to."
     },
     {
       "time": "Afternoon",
-      "line": "The day stays open; the girls are home, so it can flex around them and the few overdue decisions."
+      "line": "The open stretch runs clear straight through."
     },
     {
       "time": "Evening",
-      "line": "A quiet close, with Halloween and the kids filling tomorrow."
+      "line": "Halloween weekend with the girls in St. Pete, your last stretch before Sunday's handoff to Jen."
     }
   ],
   "japanese": {
