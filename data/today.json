@@ -1,23 +1,23 @@
 {
   "date": "Thursday, October 29, 2026",
-  "generatedAt": "Morning brief · 10:06 PM ET",
-  "theme": "An open day — board-search momentum and holiday logistics are the live threads.",
-  "greeting": "Nothing's on the calendar today, Dan, so the day is yours. The two threads worth pulling are Brunswick's follow-up and the holiday travel bookings.",
+  "generatedAt": "Morning brief · 10:10 PM ET",
+  "theme": "An open day — the holiday bookings need a push.",
+  "greeting": "The calendar's completely clear today, Dan, no meetings to work around. The real pressure is a couple of holiday bookings that have slipped past their deadlines, while the Toronto panel quietly comes together for next week.",
   "needsAttention": [
     {
-      "tag": "Job search",
-      "title": "Brunswick wants a second call set up",
-      "detail": "Erika Maass wrote this morning that Christian would like another 30 minutes and is waiting on your availability over the coming week."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental",
+      "detail": "p1 on the Mike + Dan board and overdue since Sept 14. A full-size SUV out of Portland over Christmas week is the thinnest, fastest-selling rental in that market, and the Pathfinder is south for the winter. A refundable hold now costs nothing and closes the whole risk."
     },
     {
-      "tag": "Travel · p1",
-      "title": "Book the Maine Christmas SUV",
-      "detail": "Your top-priority task, open since mid-September: a refundable full-size SUV out of Portland for Christmas week, before holiday inventory sells out."
+      "tag": "Window closing",
+      "title": "December break destination",
+      "detail": "Decide-by Sept 30 and book-by Oct 15 have both passed. Six people across three weeks over the holidays is the year's thinnest inventory. The board's default is a domestic shortlist unless someone wants international."
     },
     {
-      "tag": "Travel decision",
-      "title": "Lock the December break plan",
-      "detail": "The decide-by and book-by dates have both passed; three holiday weeks for six needs a destination chosen and refundable bookings held."
+      "tag": "Protection gap",
+      "title": "Term life quotes for Mike",
+      "detail": "p2 and overdue since Sept 25: four kids and no coverage. Your side is the shopping, quotes, term length, coverage amount. Still need a target coverage figure and term to start."
     }
   ],
   "schedule": [],
@@ -25,27 +25,19 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two board-adjacent roles in today's alerts",
-        "detail": "LinkedIn surfaced an Executive Director, Corporate Strategy role at Estée Lauder and a Managing Partner opening at Synergy Management Group."
+        "title": "Toronto panel firming up for next week",
+        "detail": "On your ICGN Plenary 7 thread, Jane and Andy signed off on your run of show; Rachit is still finalizing questions with the ICGN team. The conference is Nov 4-5 in Toronto."
+      },
+      {
+        "tag": "Job search",
+        "title": "Two roles landed in your alerts",
+        "detail": "LinkedIn flagged Executive Director, Corporate Strategy at Estee Lauder and a Managing Partner opening at Synergy Management Group."
       }
     ],
-    "noise": "Otherwise mostly newsletters and receipts — the Guardian, Portland Press Herald, a Substack receipt, and utility and travel notices.",
+    "noise": "Everything else is newsletters, retail sale emails, and travel promos.",
     "clear": ""
   },
-  "resolved": [
-    {
-      "title": "Toronto comp ticket sorted",
-      "detail": "Claudia at ICGN confirmed she registered your complimentary place for the Autumn Conference — the ticket you raised with Jen is handled."
-    },
-    {
-      "title": "Plenary 7 questions reworked",
-      "detail": "Flo confirmed she and Rachit reshaped the panel questions toward the commercial angle he wanted; your run of show stands and the panelists have signed off."
-    },
-    {
-      "title": "NACD New England Maine event wrapped",
-      "detail": "The directors' event in Portland on Tuesday is done, and the feedback circulating afterward was positive on the panel and moderation."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -60,15 +52,15 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
+      "title": "Portland house order, king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe and outdoor shower soap holder",
-      "project": "Household",
-      "due": "Overdue Sep 30",
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -80,15 +72,18 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the books — the day opened completely clear in St. Pete."
+      "line": "A clear calendar all morning, nothing booked.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "Still nothing scheduled; a rare uninterrupted stretch to spend as you choose."
+      "line": "The open stretch runs right through the afternoon.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "A quiet close with the girls home — an easy evening before next week ramps up."
+      "line": "Home in St. Pete with the girls under the roof, an easy close.",
+      "tag": "home"
     }
   ],
   "japanese": {
