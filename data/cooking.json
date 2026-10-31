@@ -1,88 +1,92 @@
 {
-  "date": "Sat, Oct 24",
-  "generatedAt": "Weekly · Oct 24",
-  "theme": "Late-October full house: one deep pot of Sunday ragu and a tray of olive-oil autumn vegetables carry the whole kid-friendly week.",
+  "date": "Sat, Oct 31",
+  "generatedAt": "Weekly · Oct 31",
+  "theme": "Late-autumn larder: a pork & porcini ragu and a jar of confit garlic oil to carry the week (2 adults — girls are with Jen Nov 1-14)",
   "components": [
     {
-      "name": "Pork & beef Sunday ragu (sugo)",
-      "time": "~2 hrs, mostly hands-off",
-      "ingredients": "2 lb ground beef (80/20), 1 lb ground pork, 2 onions, 3 carrots, 3 celery ribs, 6 garlic cloves, 2 tbsp tomato paste, 1 cup dry white or red wine, two 28-oz cans whole San Marzano tomatoes, 1 cup whole milk, parmesan rind, bay, olive oil, salt",
-      "method": "Sweat a fine soffritto (onion-carrot-celery) in a generous pour of olive oil over low heat 15-20 min until sweet and silky, add garlic for the last minute. Push aside, brown the pork and beef hard in batches so it really colors, then stir everything together. Add tomato paste and cook it a minute, deglaze with wine and reduce. Add crushed-by-hand tomatoes, milk, parmesan rind and bay; simmer uncovered on the lowest flame 75-90 min, stirring now and then, until glossy and thick. Season. Makes ~2.5 qts; cool and refrigerate, or freeze half."
+      "name": "Pork & porcini ragu",
+      "time": "~90 min, mostly hands-off braise",
+      "ingredients": "1.5 lb pork shoulder (cubed), 1 oz dried porcini, 1 onion, 1 carrot, 1 rib celery, 4 garlic cloves, 1/2 cup red wine, 1 can (28 oz) whole peeled tomatoes, bay, olive oil, salt",
+      "method": "Soak porcini in 1 cup hot water. Pat pork dry, season, brown hard in olive oil in batches; set aside. Soften a fine soffritto of onion/carrot/celery/garlic in the fat. Add chopped porcini, deglaze with wine, reduce. Return pork, add crushed tomatoes, strained porcini liquor and bay. Barely simmer covered ~75 min until pork shreds; break it up with a spoon, reduce loose if needed. Keeps 4 days / freezes well."
     },
     {
-      "name": "Olive-oil roasted autumn vegetables",
-      "time": "~45 min",
-      "ingredients": "1 large butternut or 2 delicata squash, 1 lb carrots, 2 fennel bulbs, 2 red onions, garlic, rosemary/thyme, lots of olive oil, salt, pepper",
-      "method": "Cut everything into bite-size pieces, keeping the squash a touch larger. Toss generously with olive oil, smashed garlic, herbs and salt across two sheet pans so nothing steams. Roast at 425F for 30-40 min, tossing once, until deeply caramelized at the edges. Cool and store in the fridge; these reheat and recrisp beautifully and become the base for two more dinners."
+      "name": "Confit garlic & rosemary oil",
+      "time": "~40 min, hands-off",
+      "ingredients": "3 heads garlic (peeled), 1.5 cups good olive oil, 2 rosemary sprigs, 1 dried chile, pinch salt",
+      "method": "Put peeled cloves, rosemary and chile in a small pot, cover with oil. Hold at a bare simmer (55-60°C — just a few lazy bubbles) ~40 min until cloves are golden and spreadably soft; don't let them fry. Cool fully, jar cloves under their oil. Fridge up to 2 weeks — both the mellow cloves and the perfumed oil become weeknight shortcuts."
     }
   ],
   "dinners": [
     {
-      "name": "Rigatoni al ragu",
+      "name": "Pappardelle al ragu",
       "time": "20 min",
-      "ingredients": "ragu, 1.5 lb rigatoni, parmesan, olive oil, basil or parsley",
+      "ingredients": "pork & porcini ragu, pappardelle (or rigatoni), parmigiano, olive oil, parsley",
       "steps": [
-        "Boil rigatoni in well-salted water until just shy of al dente; reserve a cup of pasta water.",
-        "Warm a big ladle of ragu per person in a wide pan.",
-        "Drain pasta, toss into the ragu with a splash of pasta water and a drizzle of olive oil, tossing hard so the sauce clings.",
-        "Finish with grated parmesan and torn herbs; serve with more cheese at the table."
+        "Boil pasta in well-salted water; reserve a mug of water.",
+        "Warm the ragu, loosen with a splash of pasta water.",
+        "Toss drained pasta into the ragu off heat with a knob of butter or glug of oil until glossy.",
+        "Plate, shower with parmigiano, parsley and a thread of olive oil."
       ]
     },
     {
-      "name": "Baked polenta with ragu & mozzarella",
-      "time": "35 min",
-      "ingredients": "ragu, 2 cups polenta/cornmeal, parmesan, 1 lb fresh mozzarella, butter",
-      "steps": [
-        "Cook polenta in salted water (and a little milk) until creamy, ~25 min; stir in butter and parmesan.",
-        "Spread polenta in a baking dish, spoon over a generous layer of warm ragu.",
-        "Tear mozzarella across the top and dust with more parmesan.",
-        "Bake at 425F until bubbling and browned, 12-15 min; rest 5 min before scooping."
-      ]
-    },
-    {
-      "name": "Roasted-vegetable & white bean minestra",
+      "name": "Soft polenta with pork ragu & gremolata",
       "time": "30 min",
-      "ingredients": "roasted vegetables, two 15-oz cans cannellini, 6 cups broth, parmesan rind, small pasta (ditalini), olive oil, parmesan",
+      "ingredients": "pork & porcini ragu, polenta, parmigiano, butter, lemon zest, parsley, garlic",
       "steps": [
-        "Simmer broth with a parmesan rind and one can of beans mashed slightly to thicken.",
-        "Add the roasted vegetables and the second can of whole beans; simmer 10 min.",
-        "Cook ditalini separately and add to taste, loosening with broth.",
-        "Finish each bowl with a hard drizzle of olive oil and grated parmesan; bread on the side for the girls."
+        "Simmer polenta in salted water, whisking, until creamy (~25 min); finish with butter and parmigiano.",
+        "Reheat the ragu gently.",
+        "Chop gremolata: parsley, lemon zest, a little raw garlic.",
+        "Spoon polenta into bowls, ladle ragu over, scatter gremolata and a little more parmigiano."
       ]
     },
     {
-      "name": "Roasted-vegetable frittata",
+      "name": "Olive-oil poached cod with confit garlic, cannellini & salsa verde",
       "time": "25 min",
-      "ingredients": "roasted vegetables, 12 eggs, 1/2 cup milk, parmesan or fontina, olive oil, green salad",
+      "ingredients": "2 cod fillets, confit garlic + its oil, 1 can cannellini, salsa verde (parsley, capers, anchovy, lemon), lemon",
       "steps": [
-        "Beat eggs with milk, cheese, salt and pepper.",
-        "Warm olive oil in an oven-safe skillet, spread the roasted vegetables in an even layer and reheat.",
-        "Pour in the eggs, cook undisturbed 3-4 min until the edges set.",
-        "Finish in a 375F oven 10-12 min until just set; slide out, cut in wedges, serve with a simple olive-oil-dressed salad."
+        "Warm a small amount of the confit oil with a few confit cloves; add drained cannellini to warm through, season.",
+        "Heat a shallow pot of olive oil to 55-60°C; slip in salted cod and poach 10-12 min until just opaque.",
+        "Blitz or chop a quick salsa verde.",
+        "Spoon beans into bowls, set cod on top, lift out with a slotted spatula, spoon salsa verde over and finish with lemon."
+      ]
+    },
+    {
+      "name": "Brothy clams with confit garlic, white wine & grilled bread",
+      "time": "25 min",
+      "ingredients": "2 lb littleneck clams, confit garlic + oil, 1/2 cup white wine, chile flakes, parsley, crusty bread",
+      "steps": [
+        "Grill or toast thick bread, rub with a confit clove.",
+        "In a wide pot, warm confit oil, mashed confit cloves and chile flakes.",
+        "Add clams and wine, cover, steam 5-7 min until they open (discard any that don't).",
+        "Finish with parsley and a glug of raw olive oil; serve with the bread to mop the broth."
       ]
     }
   ],
   "technique": {
-    "name": "Building a proper soffritto",
-    "tiedTo": "The ragu. The dish lives or dies on the base: dice the onion, carrot and celery finely and evenly, then sweat them low and slow in plenty of olive oil 15-20 minutes until soft, sweet and nearly melting before anything else goes in. No browning, no rushing. Nail it here and the same base lifts the minestra later in the week."
+    "name": "Low-temperature olive-oil poaching",
+    "tiedTo": "Wednesday's cod — hold the oil at 55-60°C with the fish just submerged for 10-12 min. The gentle, even heat sets the proteins slowly so the flesh stays silky and never seizes or weeps the way it can in a hot pan; a probe thermometer makes it foolproof, and the oil can be strained and reused."
   },
   "shopping": [
     {
       "section": "Produce",
-      "items": "2 onions, 2 red onions, 1 lb + 3 carrots, 3 celery ribs, 2 fennel bulbs, 1 large butternut or 2 delicata squash, 2 heads garlic, rosemary, thyme, basil or parsley, salad greens"
+      "items": "1 onion, 1 carrot, 1 celery rib, 4 heads garlic, 2 rosemary sprigs, flat-leaf parsley, 2 lemons"
+    },
+    {
+      "section": "Seafood",
+      "items": "2 cod fillets (~6 oz each), 2 lb littleneck clams"
     },
     {
       "section": "Protein",
-      "items": "2 lb ground beef (80/20), 1 lb ground pork"
+      "items": "1.5 lb pork shoulder"
     },
     {
       "section": "Dairy",
-      "items": "1 cup whole milk + extra for polenta, 1 lb fresh mozzarella, parmesan (wedge + a rind), fontina (optional), butter, 1 dozen + eggs"
+      "items": "parmigiano-reggiano, butter"
     },
     {
       "section": "Pantry",
-      "items": "two 28-oz cans whole San Marzano tomatoes, 2 tbsp tomato paste, dry white or red wine, two 15-oz cans cannellini, 6 cups broth, 1.5 lb rigatoni, ditalini, 2 cups polenta/cornmeal, olive oil (plenty), bay leaves, salt, pepper"
+      "items": "1 oz dried porcini, 1 can (28 oz) whole peeled tomatoes, 2 cans cannellini beans, pappardelle (or rigatoni), polenta, good olive oil (large bottle — you'll use plenty), red wine, dry white wine, capers, anchovies, dried chile / chile flakes, bay leaves, crusty bread"
     }
   ],
-  "scaleNote": "Everything here is already portioned for the full house (2 adults + 4 girls). The ragu batch (~2.5 qts) covers both pasta night and the baked polenta with leftovers, and two sheet pans of vegetables feed the minestra and the frittata. Keep the kids' bowls simple: plain rigatoni with ragu and cheese, polenta scoops, bread alongside the soup. On the lighter two-adult weeks, halve the ragu (1 lb beef / 0.5 lb pork, one can tomatoes), roast a single tray, and push the dinners more adventurous: add chili and pancetta to the ragu, finish the minestra with a poached egg or clams, and swap the frittata for a fennel-and-anchovy version."
+  "scaleNote": "This week is 2 adults (girls with Jen Nov 1-14), so quantities above serve 2 with ragu to spare. For the full-house weeks (6: 2 adults + 4 girls under 10): double the ragu and run it over rigatoni or into a quick baked pasta with mozzarella the girls love; triple the polenta and keep gremolata on the side so kids can skip it; double the confit garlic batch. For fish night, poach extra cod and set aside a few plain, unsauced pieces for the girls, serving salsa verde only for the adults; add buttered bread and a simple green salad to stretch any night."
 }
