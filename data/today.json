@@ -1,18 +1,23 @@
 {
   "date": "Saturday, October 31, 2026",
-  "generatedAt": "Morning brief · 2:06 PM ET",
-  "theme": "Open Halloween Saturday — last full day with the girls before tomorrow's handoff.",
-  "greeting": "An open Halloween Saturday, Dan. The calendar holds nothing but the Coffee Pot Bayou cottage stay, and it's your last day with the four girls before tomorrow's handoff to Jen.",
+  "generatedAt": "Morning brief · 2:09 PM ET",
+  "theme": "An open Halloween Saturday with the girls.",
+  "greeting": "The calendar's empty, Dan — Halloween in St. Pete with the four girls and nothing scheduled before tomorrow's Sunday review. The one thing worth touching today is the board's backlog so Mike's 9 AM review has less to chew on.",
   "needsAttention": [
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Sunday review with Mike",
-      "detail": "Your 15-minute board sweep with Mike lands first thing tomorrow — empty the inbox, put an owner and date on everything, kill what's slipped three Sundays. A glance at the Dan & Mike board tonight makes it quick."
+      "tag": "Prep for tomorrow",
+      "title": "Mike's 15-minute Sunday review at 9 AM",
+      "detail": "The recurring board review is tomorrow morning, and its own rule kills anything that's slipped three Sundays running. The two items most likely to get axed are the Christmas rental and the December trip, so come ready to decide them."
     },
     {
-      "tag": "Booking window",
+      "tag": "Window closing",
       "title": "Maine Christmas SUV still unbooked",
-      "detail": "The p1 'book this week' task has sat since mid-September. A full-size SUV out of Portland over Christmas is the thinnest rental in that market; a refundable hold now removes the whole risk."
+      "detail": "The only six-seater drives south this month, so Christmas in Maine needs a rental. A refundable full-size SUV out of Portland over the holidays is the thinnest inventory of the year. P1 on the board, overdue since mid-September."
+    },
+    {
+      "tag": "Decision due",
+      "title": "December break destinations",
+      "detail": "Both the shortlist and the book-by dates have passed; six people over three weeks across the holidays is the hardest inventory to find late. P2 on the board."
     }
   ],
   "schedule": [],
@@ -20,19 +25,30 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "ICGN Toronto panel next week",
-        "detail": "You're moderating Plenary 7 at the ICGN Autumn Conference in Toronto, Nov 4-5. Panelists like your run of show; Rachit is circling back with Flo and Jen's question edits."
+        "title": "KLA government affairs VP",
+        "detail": "LinkedIn flagged a VP, Global Government Affairs & Strategic Policy opening at KLA."
       },
       {
         "tag": "Job search",
-        "title": "Maine directors feedback",
-        "detail": "Ellen Richstone circulated NACD New England event feedback to the Maine directors group — useful context for the director community you're building up north."
+        "title": "NACD Maine director circle",
+        "detail": "Ellen Richstone's event-feedback thread plus a Nov 30 NACD New England planning Zoom; Steve Shane, a SAIC director, offered to flag board seats if any come up."
+      },
+      {
+        "tag": "FYI",
+        "title": "ICGN Toronto panel next week",
+        "detail": "Flo Clarke confirmed the reworked session questions; you're moderating the stewardship panel in Toronto next week."
       }
     ],
-    "noise": "Everything else is newsletters, receipts, and Halloween-costume shipping confirmations.",
-    "clear": "Nothing in the inbox needs a reply today."
+    "noise": "The rest is promotions, receipts, and newsletters — eBay, PayPal, NYT, Delta, Folio Society.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Closed",
+      "title": "ICGN panel questions settled",
+      "detail": "You signed off on the reworked session flow Wednesday and Flo Clarke confirmed the sponsor's happy — nothing left before Toronto."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -47,21 +63,21 @@
   },
   "tasks": [
     {
-      "title": "December break — shortlist 3 destinations, decide",
-      "project": "Travel",
-      "due": "Overdue Sep 30 (book-by Oct 15 passed)",
-      "overdue": true
-    },
-    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + shower soap holder",
-      "project": "Household",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist re: wart removal (Mike)",
+      "project": "Dan & Mike",
+      "due": "Overdue Aug 28",
       "overdue": true
     }
   ],
@@ -73,18 +89,18 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear Halloween morning in St. Pete — nothing on the calendar but the cottage stay on Coffee Pot Bayou.",
+      "line": "Halloween opens on an empty calendar, the four girls in the house.",
       "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "Your last stretch with the four girls before tomorrow's Sunday handoff to Jen.",
-      "tag": "family"
+      "line": "A wide-open stretch with nothing scheduled between now and tomorrow morning.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "Halloween night with the crew — the costumes landed earlier this week.",
-      "tag": "holiday"
+      "line": "Trick-or-treating weather in Old Northeast closes out the day.",
+      "tag": "kids"
     }
   ],
   "japanese": {
