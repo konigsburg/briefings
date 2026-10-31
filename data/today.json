@@ -1,23 +1,28 @@
 {
   "date": "Saturday, October 31, 2026",
-  "generatedAt": "Morning brief · 7:07 AM ET",
-  "theme": "An open Halloween, with Toronto on the horizon.",
-  "greeting": "A rare wide-open Saturday, Dan — Halloween with the girls and nothing on the calendar pulling at you. The one thing worth a glance is next week: you're moderating in Toronto on Wednesday.",
+  "generatedAt": "Morning brief · 7:11 AM ET",
+  "theme": "An open Halloween before a big week.",
+  "greeting": "The calendar's clear today, Dan — an open Halloween Saturday with the four girls before they head back to Jen tomorrow. The real event is the week ahead: you're moderating at ICGN Toronto on Thursday.",
   "needsAttention": [
     {
-      "tag": "Prep · Nov 4",
-      "title": "Your Toronto panel is next week",
-      "detail": "You're moderating Plenary 7 at ICGN's Autumn Conference in Toronto on Nov 4–5. You're still waiting on Rachit at Diligent for final questions before the run of show locks — a nudge this weekend, plus sorting travel from Florida, keeps it from going down to the wire."
+      "tag": "Tomorrow 9 AM",
+      "title": "Sunday review with Mike",
+      "detail": "Your weekly 15-minute board review is at 9 AM tomorrow, and the shared list has a p1 Christmas rental and the December trip decision both sitting overdue. A quick skim beforehand sets the agenda."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Maine Christmas SUV still unbooked",
-      "detail": "On the Mike + Dan board since mid-September. A refundable full-size SUV out of Portland for Christmas week is the hardest rental in that market and it sells out — it's the only six-seater for the girls' Maine trip, so a refundable hold now removes the whole risk."
+      "tag": "This week",
+      "title": "Moderating at ICGN Toronto",
+      "detail": "You're moderating Plenary 7 on stewardship data Thursday, Nov 5 in Toronto (conference runs Nov 4-5). The run of show is out and the panelists have signed off; Rachit is still sending consolidated question tweaks, and your travel up is this week."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "December trip past its book-by date",
-      "detail": "The shortlist-three-destinations task is now past its Oct 15 book-by. Six people over three holiday weeks is the thinnest inventory of the year; picking domestic-vs-international and locking a direction is the thing holding everything else up."
+      "tag": "Overdue p1",
+      "title": "Book Maine Christmas SUV",
+      "detail": "The full-size SUV rental out of Portland for Christmas week has been open since mid-September. Holiday inventory is the thinnest of the year, so a refundable booking now takes the risk off the table."
+    },
+    {
+      "tag": "Overdue p2",
+      "title": "Decide the December trip",
+      "detail": "The December break for all four girls (Dec 13-Jan 2) was meant to be decided by Sept 30 and booked by Oct 15, and both dates have passed. It needs a destination call to unblock the booking."
     }
   ],
   "schedule": [],
@@ -25,22 +30,33 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "KLA — VP, Global Government Affairs",
-        "detail": "A LinkedIn alert for a VP, Global Government Affairs & Strategic Policy role that lines up closely with your public-affairs background."
+        "title": "VP, Global Government Affairs role",
+        "detail": "A LinkedIn alert for a KLA VP of Global Government Affairs & Strategic Policy, squarely in your public-affairs lane."
       },
       {
         "tag": "Security",
-        "title": "New Experian credit-file alert",
-        "detail": "Experian flagged new activity on your credit file — worth a quick look to confirm it's expected."
+        "title": "New Experian credit alerts",
+        "detail": "Experian flagged new alerts on your credit file, worth a quick look given the job search."
+      },
+      {
+        "tag": "FYI",
+        "title": "NACD New England next event",
+        "detail": "Lisa Ravetto looped you in on planning the next NACD New England and Maine team event."
       }
     ],
-    "noise": "Everything else is newsletters, retail promos, and automated job-board blasts — nothing that needs you.",
-    "clear": ""
+    "noise": "The rest is newsletters, job-alert digests, Zillow listings and parking receipts.",
+    "clear": "Your ICGN Toronto comp ticket is confirmed, nothing owed there."
   },
   "resolved": [
     {
-      "title": "Toronto panel outline signed off",
-      "detail": "Jane (BNP Paribas) and Andy (Schroders) both approved your run of show this week, and ICGN has registered your comp place — the panel itself is set."
+      "tag": "ICGN",
+      "title": "Comp ticket confirmed",
+      "detail": "Claudia registered your complimentary Toronto place (Oct 28)."
+    },
+    {
+      "tag": "ICGN",
+      "title": "Panel run of show signed off",
+      "detail": "Jane and Andy approved your questions and Rachit is consolidating final tweaks (Oct 28)."
     }
   ],
   "context": {
@@ -57,21 +73,15 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order: bedframe + shower soap holder",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -83,15 +93,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Not a single meeting today — the first fully open Saturday in a while is yours to spend slowly."
+      "line": "Nothing on the calendar today, the first genuinely open Saturday in a while."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon stays clear, a good window if you want to get a jump on next week before travel."
+      "line": "An open stretch with the girls around, good hours for the kitchen or the garden."
     },
     {
       "time": "Evening",
-      "line": "Halloween with the girls tonight, then an easy lead-in to tomorrow's short Sunday review with Mike at 9."
+      "line": "Halloween with the four girls, their last night before tomorrow's handoff back to Jen."
     }
   ],
   "japanese": {
