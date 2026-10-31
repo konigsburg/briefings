@@ -1,28 +1,23 @@
 {
   "date": "Saturday, October 31, 2026",
   "generatedAt": "Morning brief · 8:05 AM ET",
-  "theme": "An open Halloween before a big week.",
-  "greeting": "The calendar's clear today, Dan — an open Halloween Saturday with the four girls before they head back to Jen tomorrow. The real event is the week ahead: you're moderating at ICGN Toronto on Thursday.",
+  "theme": "An open Halloween with the girls — and a board backlog to clear before tomorrow's review.",
+  "greeting": "The day is yours, Dan — no meetings, four kids, and trick-or-treating tonight. Tomorrow the girls head back to Jen and you and Mike sit down for the 15-minute board review, so today is the window to make the holiday-trip calls that have been waiting.",
   "needsAttention": [
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Sunday review with Mike",
-      "detail": "Your weekly 15-minute board review is at 9 AM tomorrow, and the shared list has a p1 Christmas rental and the December trip decision both sitting overdue. A quick skim beforehand sets the agenda."
-    },
-    {
-      "tag": "This week",
-      "title": "Moderating at ICGN Toronto",
-      "detail": "You're moderating Plenary 7 on stewardship data Thursday, Nov 5 in Toronto (conference runs Nov 4-5). The run of show is out and the panelists have signed off; Rachit is still sending consolidated question tweaks, and your travel up is this week."
+      "tag": "Prep · tomorrow",
+      "title": "Sunday review with Mike — 9 AM",
+      "detail": "Tomorrow's 15-minute board review (9 AM, Mike organizing) is the forcing function for the backlog below. Arrive having skimmed the Mike + Dan board, ready to put an owner and a date on each stalled item."
     },
     {
       "tag": "Overdue p1",
-      "title": "Book Maine Christmas SUV",
-      "detail": "The full-size SUV rental out of Portland for Christmas week has been open since mid-September. Holiday inventory is the thinnest of the year, so a refundable booking now takes the risk off the table."
+      "title": "Book the Maine Christmas SUV rental",
+      "detail": "Flagged p1 on the Mike + Dan board, overdue since Sept 14. A refundable full-size SUV out of Portland for Christmas week is the thinnest inventory in that market and it sells out — the one that genuinely costs money to leave another week."
     },
     {
       "tag": "Overdue p2",
-      "title": "Decide the December trip",
-      "detail": "The December break for all four girls (Dec 13-Jan 2) was meant to be decided by Sept 30 and booked by Oct 15, and both dates have passed. It needs a destination call to unblock the booking."
+      "title": "Decide the December break destination",
+      "detail": "On the Mike + Dan board, p2 — both its windows (decide by Sept 30, book by Oct 15) have passed. All four kids, Dec 13 – Jan 2; the call between a domestic shortlist and flexible international bookings still hasn't been made."
     }
   ],
   "schedule": [],
@@ -30,35 +25,14 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "VP, Global Government Affairs role",
-        "detail": "A LinkedIn alert for a KLA VP of Global Government Affairs & Strategic Policy, squarely in your public-affairs lane."
-      },
-      {
-        "tag": "Security",
-        "title": "New Experian credit alerts",
-        "detail": "Experian flagged new alerts on your credit file, worth a quick look given the job search."
-      },
-      {
-        "tag": "FYI",
-        "title": "NACD New England next event",
-        "detail": "Lisa Ravetto looped you in on planning the next NACD New England and Maine team event."
+        "title": "KLA — VP, Global Government Affairs & Strategic Policy",
+        "detail": "A LinkedIn job alert surfaced this role, squarely in your governance and public-affairs field. Automated alert, not personal outreach."
       }
     ],
-    "noise": "The rest is newsletters, job-alert digests, Zillow listings and parking receipts.",
-    "clear": "Your ICGN Toronto comp ticket is confirmed, nothing owed there."
+    "noise": "The rest is promos and newsletters — SoFi, Mattress Firm, Hulu, Harry & David, Hyatt, Epoch Times and Press Herald — plus two off-target LinkedIn alerts.",
+    "clear": "No urgent, security, financial, or personal mail awaiting a reply."
   },
-  "resolved": [
-    {
-      "tag": "ICGN",
-      "title": "Comp ticket confirmed",
-      "detail": "Claudia registered your complimentary Toronto place (Oct 28)."
-    },
-    {
-      "tag": "ICGN",
-      "title": "Panel run of show signed off",
-      "detail": "Jane and Andy approved your questions and Rachit is consolidating final tweaks (Oct 28)."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -69,19 +43,31 @@
   "recipe": {
     "title": "Roast Venison Fillet",
     "book": "How to Eat",
-    "why": "A proper autumn roast for Halloween night — venison fillet is quick, dark, and seasonal, and leaves plenty of evening for the kids."
+    "why": "A quick, dark autumn roast for Halloween night — fast enough to leave the evening free for trick-or-treating with the girls."
   },
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
-      "due": "Overdue Sep 25",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 25 (p2)",
       "overdue": true
     },
     {
-      "title": "Portland house order: bedframe + shower soap holder",
-      "project": "Dan & Mike",
-      "due": "Overdue Sep 30",
+      "title": "Drive the Pathfinder down — Portland to St Pete",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue, Oct 5–18 window (p2)",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — king bedframe + outdoor soap holder",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sept 30 (p3)",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
