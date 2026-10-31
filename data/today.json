@@ -1,18 +1,23 @@
 {
   "date": "Saturday, October 31, 2026",
-  "generatedAt": "Morning brief · 6:06 AM ET",
-  "theme": "An open Friday in St. Pete, Halloween eve with the girls.",
-  "greeting": "The whole day is open, Dan - nothing on the calendar, the girls here with you and Mike in St. Pete, and Halloween tomorrow. A quiet Friday, with a couple of holiday bookings that have been waiting for exactly this kind of gap.",
+  "generatedAt": "Morning brief · 6:10 AM ET",
+  "theme": "An open Halloween, with Toronto on the horizon.",
+  "greeting": "A rare wide-open Saturday, Dan — Halloween with the girls and nothing on the calendar pulling at you. The one thing worth a glance is next week: you're moderating in Toronto on Wednesday.",
   "needsAttention": [
     {
-      "tag": "Overdue - p1",
-      "title": "Maine Christmas SUV rental",
-      "detail": "The top-priority item on your board since mid-September. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market and sells out; a refundable hold now takes the whole risk off the table."
+      "tag": "Prep · Nov 4",
+      "title": "Your Toronto panel is next week",
+      "detail": "You're moderating Plenary 7 at ICGN's Autumn Conference in Toronto on Nov 4–5. You're still waiting on Rachit at Diligent for final questions before the run of show locks — a nudge this weekend, plus sorting travel from Florida, keeps it from going down to the wire."
     },
     {
-      "tag": "Window closing",
-      "title": "December break destinations",
-      "detail": "The decide-by and book-by dates (Sept 30, Oct 15) have both passed, and holiday inventory for six over a three-week window only thins from here."
+      "tag": "Overdue · p1",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "On the Mike + Dan board since mid-September. A refundable full-size SUV out of Portland for Christmas week is the hardest rental in that market and it sells out — it's the only six-seater for the girls' Maine trip, so a refundable hold now removes the whole risk."
+    },
+    {
+      "tag": "Overdue · p2",
+      "title": "December trip past its book-by date",
+      "detail": "The shortlist-three-destinations task is now past its Oct 15 book-by. Six people over three holiday weeks is the thinnest inventory of the year; picking domestic-vs-international and locking a direction is the thing holding everything else up."
     }
   ],
   "schedule": [],
@@ -20,20 +25,30 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "KLA - VP, Global Government Affairs",
-        "detail": "A LinkedIn alert surfaced a VP role in global government affairs and strategic policy - squarely in your lane. Worth a glance before it ages out."
+        "title": "KLA — VP, Global Government Affairs",
+        "detail": "A LinkedIn alert for a VP, Global Government Affairs & Strategic Policy role that lines up closely with your public-affairs background."
+      },
+      {
+        "tag": "Security",
+        "title": "New Experian credit-file alert",
+        "detail": "Experian flagged new activity on your credit file — worth a quick look to confirm it's expected."
       }
     ],
-    "noise": "The rest of the last two days is promotions, parking receipts, Zillow, and newsletters.",
-    "clear": "Nothing is sitting unanswered."
+    "noise": "Everything else is newsletters, retail promos, and automated job-board blasts — nothing that needs you.",
+    "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "title": "Toronto panel outline signed off",
+      "detail": "Jane (BNP Paribas) and Andy (Schroders) both approved your run of show this week, and ICGN has registered your comp place — the panel itself is set."
+    }
+  ],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Friday Oct 30"
+    "asOf": "Saturday Oct 31"
   },
   "recipe": {
     "title": "Roast Venison Fillet",
@@ -42,27 +57,15 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order - bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan Board",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south (Oct window passed)",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist [Mike]",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Aug 28",
       "overdue": true
     },
     {
@@ -73,22 +76,22 @@
     }
   ],
   "routines": {
-    "morning": "0/4",
-    "day": "0/3",
+    "morning": "0/10",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning, nothing on the calendar to answer to."
+      "line": "Not a single meeting today — the first fully open Saturday in a while is yours to spend slowly."
     },
     {
       "time": "Afternoon",
-      "line": "The open stretch runs straight through the afternoon."
+      "line": "The afternoon stays clear, a good window if you want to get a jump on next week before travel."
     },
     {
       "time": "Evening",
-      "line": "Halloween eve at the Coffee Pot cottage with the girls."
+      "line": "Halloween with the girls tonight, then an easy lead-in to tomorrow's short Sunday review with Mike at 9."
     }
   ],
   "japanese": {
