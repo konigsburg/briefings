@@ -1,30 +1,30 @@
 {
   "date": "Friday, October 30, 2026",
   "generatedAt": "Morning brief · 8:06 PM ET",
-  "theme": "An open Friday, girls in St. Pete.",
-  "greeting": "The calendar's clear today, Dan — nothing booked from open to close. The items with any heat on them are two travel bookings that have been waiting and the ICGN plenary you're moderating in Toronto next week.",
+  "theme": "An open day, with travel to lock in.",
+  "greeting": "An open Friday in St. Pete, Dan — nothing on the calendar, the girls are with you and Mike, and Halloween is tomorrow. The one thing worth not letting slide is the Christmas travel booking.",
   "needsAttention": [
     {
       "tag": "Book this week",
       "title": "Maine Christmas SUV rental",
-      "detail": "The Pathfinder is south for the winter, so there's no six-seater in Maine for Christmas. A full-size SUV out of Portland over the holidays is the first thing to sell out — book a refundable one now and adjust dates later. Marked p1, overdue since Sep 14."
+      "detail": "Sitting p1 in Todoist and overdue since Sept 14. A full-size SUV out of Portland over Christmas week is the first thing to sell out, and it's the only six-seater for the girls once the Pathfinder is south. A refundable hold now costs nothing and removes the whole risk."
     },
     {
-      "tag": "Decision slipping",
-      "title": "December break — pick a destination",
-      "detail": "All four kids, Dec 13–Jan 2, and the book-by date of Oct 15 has already passed. Holiday inventory for six over three weeks is the thinnest of the year. Shortlist three and settle domestic vs. international."
+      "tag": "Window closing",
+      "title": "December break destination",
+      "detail": "p2 in Todoist with the book-by date already past. Holiday inventory for six over three weeks is the thinnest of the year — pick the shortlist and lock a refundable booking before prices climb further."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Governance",
-        "title": "You're moderating ICGN Plenary 7",
-        "detail": "The Autumn Conference is in Toronto next week. Panelists have signed off on your outline and your comp place is registered; the one open loop is Rachit still owing the panel questions."
+        "tag": "FYI",
+        "title": "ICGN plenary planning thread",
+        "detail": "Your Plenary 7 thread for the ICGN Autumn Conference has drawn new replies from the panel since you last wrote Wednesday — worth a glance to stay in the loop."
       }
     ],
-    "noise": "A LinkedIn job alert, two retail promos, a Hyatt account summary, and an Evite update — nothing that needs you.",
+    "noise": "The rest is newsletters, promos, LinkedIn job alerts, a parking receipt, and real-estate listings.",
     "clear": ""
   },
   "resolved": [],
@@ -43,26 +43,26 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 25",
+      "project": "Household",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder south, Portland → St Pete",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Oct 18",
+      "title": "Portland house order — bedframe + outdoor soap holder",
+      "project": "Household",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Travel",
       "due": "Overdue Aug 15",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder south, Portland → St Pete",
+      "project": "Travel",
+      "due": "Overdue Sept 25",
       "overdue": true
     }
   ],
@@ -74,15 +74,18 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar's clear from the first hour — a rare wide-open Friday."
+      "line": "Nothing on the calendar — the morning stayed open.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "No meetings through the afternoon either; the day's shape is entirely yours."
+      "line": "Still no meetings; an unstructured day with the girls around.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "A quiet close with the girls around in St. Pete."
+      "line": "Halloween eve at home in St. Pete with the four girls.",
+      "tag": "home"
     }
   ],
   "japanese": {
