@@ -1,23 +1,18 @@
 {
   "date": "Saturday, October 31, 2026",
   "generatedAt": "Morning brief · 12:06 PM ET",
-  "theme": "An open Halloween — clear the holiday-travel backlog before Toronto week.",
-  "greeting": "The day's wide open, Dan: no meetings, and the girls are home for one more day before tomorrow's handoff to Jen. It's a good window to finally close the holiday-travel bookings that keep sliding past the Sunday review.",
+  "theme": "Open Halloween Saturday — last full day with the girls before tomorrow's handoff.",
+  "greeting": "An open Halloween Saturday, Dan. The calendar holds nothing but the Coffee Pot Bayou cottage stay, and it's your last day with the four girls before tomorrow's handoff to Jen.",
   "needsAttention": [
     {
-      "tag": "Book today",
-      "title": "Lock the Maine Christmas SUV",
-      "detail": "Your p1 board item has been open since mid-September. A full-size SUV out of Portland over Christmas week is the hardest rental in that market and it sells out — book it refundable now and adjust the dates once the trip firms up."
+      "tag": "Tomorrow 9 AM",
+      "title": "Sunday review with Mike",
+      "detail": "Your 15-minute board sweep with Mike lands first thing tomorrow — empty the inbox, put an owner and date on everything, kill what's slipped three Sundays. A glance at the Dan & Mike board tonight makes it quick."
     },
     {
-      "tag": "Decide + book",
-      "title": "Settle the December break destination",
-      "detail": "Decide-by (Sep 30) and book-by (Oct 15) have both passed, and it's all four girls over the Dec 13–Jan 2 window — the thinnest inventory of the year. Pick domestic vs. refundable-international, then book before next week disappears."
-    },
-    {
-      "tag": "Trip prep",
-      "title": "Read ICGN's final speaker info",
-      "detail": "Your Plenary 7 panel is in Toronto next week. Skim ICGN's final speaker and logistics email now, while the day is quiet, rather than mid-travel."
+      "tag": "Booking window",
+      "title": "Maine Christmas SUV still unbooked",
+      "detail": "The p1 'book this week' task has sat since mid-September. A full-size SUV out of Portland over Christmas is the thinnest rental in that market; a refundable hold now removes the whole risk."
     }
   ],
   "schedule": [],
@@ -25,25 +20,19 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "KLA — VP, Global Government Affairs",
-        "detail": "A LinkedIn alert matching your public-affairs track; worth a look when you're back from Toronto."
+        "title": "ICGN Toronto panel next week",
+        "detail": "You're moderating Plenary 7 at the ICGN Autumn Conference in Toronto, Nov 4-5. Panelists like your run of show; Rachit is circling back with Flo and Jen's question edits."
+      },
+      {
+        "tag": "Job search",
+        "title": "Maine directors feedback",
+        "detail": "Ellen Richstone circulated NACD New England event feedback to the Maine directors group — useful context for the director community you're building up north."
       }
     ],
-    "noise": "The rest is an Evite update and a real-estate listing — nothing that needs you.",
-    "clear": ""
+    "noise": "Everything else is newsletters, receipts, and Halloween-costume shipping confirmations.",
+    "clear": "Nothing in the inbox needs a reply today."
   },
-  "resolved": [
-    {
-      "tag": "Panel locked",
-      "title": "Plenary 7 run of show signed off",
-      "detail": "All three panelists — Schroders, BNP Paribas and Diligent — approved your outline on Oct 28; Rachit is finalizing the questions with the ICGN team."
-    },
-    {
-      "tag": "Logistics",
-      "title": "Toronto conference place registered",
-      "detail": "Claudia at ICGN confirmed on Oct 28 that your comp registration is handled — nothing owed there."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
@@ -58,21 +47,21 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 30",
+      "title": "December break — shortlist 3 destinations, decide",
+      "project": "Travel",
+      "due": "Overdue Sep 30 (book-by Oct 15 passed)",
       "overdue": true
     },
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
+      "title": "Portland house order — king bedframe + shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
@@ -84,15 +73,18 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet Halloween Saturday in St. Pete with the girls — nothing on the calendar holding you."
+      "line": "A clear Halloween morning in St. Pete — nothing on the calendar but the cottage stay on Coffee Pot Bayou.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "The open stretch is the whole point: two overdue holiday bookings would take an hour and stop haunting the board."
+      "line": "Your last stretch with the four girls before tomorrow's Sunday handoff to Jen.",
+      "tag": "family"
     },
     {
       "time": "Evening",
-      "line": "Last night with the girls before tomorrow's handoff and the 9 AM Sunday review with Mike."
+      "line": "Halloween night with the crew — the costumes landed earlier this week.",
+      "tag": "holiday"
     }
   ],
   "japanese": {
