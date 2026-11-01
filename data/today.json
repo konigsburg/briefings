@@ -1,54 +1,67 @@
 {
   "date": "Sunday, November 1, 2026",
-  "generatedAt": "Morning brief · 5:06 AM ET",
-  "theme": "An open Halloween Saturday in St. Pete, the girls in hand.",
-  "greeting": "A wide-open Saturday, Dan — nothing on the calendar and the girls with you for Halloween in St. Pete. The only things on the horizon are tomorrow's 9 AM board review with Mike and a couple of holiday bookings that have slipped long enough to start costing real money.",
+  "generatedAt": "Morning brief · 5:11 AM ET",
+  "theme": "A quiet Sunday before Toronto.",
+  "greeting": "Mostly open after a short review with Mike. The girls go back to Jen this evening and you fly to Toronto tomorrow for ICGN, so the quiet afternoon is the natural window for panel prep and packing.",
   "needsAttention": [
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Walk into the Sunday board review ready",
-      "detail": "Mike's 15-minute board review sits on your calendar at 9 AM tomorrow; a quick pass over the Mike + Dan board first means you arrive knowing what's active and what has slipped three Sundays running."
+      "tag": "Panel prep",
+      "title": "Moderate Plenary 7 at ICGN Thursday",
+      "detail": "You fly to Toronto tomorrow and moderate the stewardship-data panel Thursday at 3:05 PM with Gupta, Ambachtsheer and Howard. Today's open afternoon is the window to shape your framing and opening questions."
     },
     {
-      "tag": "Overdue · p1",
+      "tag": "Books out",
       "title": "Maine Christmas SUV still unbooked",
-      "detail": "Your top-priority board task to hold a refundable full-size SUV out of Portland for Christmas week has been open since mid-September — the hardest rental in that market over the holidays, and the one where waiting actually costs money as inventory sells out."
+      "detail": "A p1 in Dan & Mike Stuff, overdue since mid-September: a refundable full-size SUV out of Portland for Christmas week is the thinnest rental in that market and only gets harder to find."
     },
     {
-      "tag": "Window closing",
-      "title": "December break still undecided",
-      "detail": "The all-girls December trip (Dec 13–Jan 2) was meant to be decided by Sept 30 and booked by Oct 15; both dates are now behind you, and holiday inventory for six over three weeks is the thinnest of the year."
+      "tag": "Decision due",
+      "title": "December break not yet chosen",
+      "detail": "Travel for six over three weeks — the Sept 30 decision and Oct 15 booking dates have both passed, and holiday inventory thins the longer it sits."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "9:00 AM",
+      "title": "Sunday review with Mike",
+      "detail": "Clear the board — an owner and a date on everything",
+      "tag": "sync"
+    },
+    {
+      "time": "6:00 PM",
+      "title": "Girls back to Jen",
+      "detail": "Handoff into the next two-week stretch",
+      "tag": "family"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "KLA government-affairs VP role",
-        "detail": "LinkedIn surfaced a VP, Global Government Affairs & Strategic Policy opening at KLA — squarely in your lane."
+        "tag": "Security",
+        "title": "GitHub token about to expire",
+        "detail": "A fine-grained personal access token on your account is nearing expiry — worth renewing before anything that depends on it stops working."
       },
       {
-        "tag": "FYI",
-        "title": "Maine directors event feedback",
-        "detail": "Ellen Richstone circulated Steve Shane's candid read on the NACD Maine event; Shane also noted he has capacity for another board seat."
+        "tag": "Health",
+        "title": "Prescription renewal needs your info",
+        "detail": "Ro flagged an expiring prescription and asked you to update your details to renew it."
+      },
+      {
+        "tag": "Job search",
+        "title": "NACD Maine thread is active",
+        "detail": "Rich Stone's note to the NACD New England group is moving — no reply is owed by you alone, but it's your board network in motion."
       }
     ],
-    "noise": "A few newsletters, an alumni class note, and the NACD event-recording link — nothing that needs you.",
-    "clear": "Nothing else is waiting on a reply."
+    "noise": "Otherwise newsletters and promos — Italian word of the week, a couple of stationery shops, LinkedIn job alerts, and a Todoist overdue digest.",
+    "clear": ""
   },
-  "resolved": [
-    {
-      "title": "ICGN Toronto panel questions locked",
-      "detail": "You signed off on Jen Sisson's reshaped stewardship session flow and Flo confirmed Rachit is now aligned on the commercial angle — closed out Oct 29."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": true,
     "phase": "blue",
     "location": "St. Petersburg, FL",
     "confidence": "high",
-    "asOf": "Saturday Oct 31"
+    "asOf": "Sunday Nov 1"
   },
   "recipe": {
     "title": "Ras el Hanout Chicken and Spelt",
@@ -57,27 +70,15 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "title": "Get three term-life quotes for Mike",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Place the Portland house order (bedframe + shower soap holder)",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Confirm the Pathfinder drive south",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -89,18 +90,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning with the girls — nothing on the calendar but the day itself.",
-      "tag": "open"
+      "line": "A 15-minute review with Mike at nine, then the morning opens up with the girls around."
     },
     {
       "time": "Afternoon",
-      "line": "Still wide open through the afternoon — a rare empty Saturday to spend on whatever's been waiting.",
-      "tag": "open"
+      "line": "Wide open — the first real stretch of quiet in a while, a trip to Toronto waiting tomorrow."
     },
     {
       "time": "Evening",
-      "line": "Halloween with the four of them, the last night before tomorrow evening's handoff back to Jen.",
-      "tag": "home"
+      "line": "The house settles toward a quiet night before you head north."
     }
   ],
   "japanese": {
