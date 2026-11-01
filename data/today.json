@@ -1,26 +1,37 @@
 {
   "date": "Sunday, November 1, 2026",
-  "generatedAt": "Morning brief · 11:07 AM ET",
-  "theme": "A quiet Sunday before a travel day.",
-  "greeting": "Morning, Dan. A short review with Mike at 9 is the only fixed point, then the Sunday is open — with a Toronto flight waiting tomorrow afternoon.",
+  "generatedAt": "Morning brief · 11:10 AM ET",
+  "theme": "An open Sunday before a travel week.",
+  "greeting": "A quiet Sunday, Dan — one short board sweep with Mike this morning and the day opens up from there. It's a handoff evening, and you're off to Toronto tomorrow afternoon.",
   "needsAttention": [
-    {
-      "tag": "Tomorrow · travel",
-      "title": "Pack for the Toronto flight",
-      "detail": "Porter PD526 leaves Tampa at 4:20 PM tomorrow for a three-night Toronto stay. Pull the bag together and check in today so the day itself is just a drive to TPA."
-    },
     {
       "tag": "Overdue · p1",
       "title": "Book the Maine Christmas SUV",
-      "detail": "The p1 Household task has been open since mid-September: a refundable full-size SUV out of Portland for Christmas week. That market sells out over the holidays, so holding a booking is the whole point — dates can shift later."
+      "detail": "Your p1 'book this week' task is about seven weeks past due. A full-size SUV out of Portland over Christmas sells out, so a refundable hold now takes the whole risk off the table."
+    },
+    {
+      "tag": "Decide soon",
+      "title": "Lock the December break plan",
+      "detail": "The shortlist-and-decide was due Sept 30 and the Oct 15 booking window has passed. Six people over the holidays is the thinnest inventory of the year — pick domestic vs. international and book."
+    },
+    {
+      "tag": "Tomorrow · travel",
+      "title": "Pack for Toronto",
+      "detail": "Porter PD526 leaves TPA at 4:20 PM tomorrow. With the girls heading to Jen tonight, today is the clean window to pack and confirm the Richmond St loft."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
-      "title": "Sunday review with Mike",
-      "detail": "Fifteen minutes to clear the board — owners and dates on everything, promote this week's work, kill what's slipped three Sundays running.",
-      "tag": "meeting"
+      "title": "Sunday review — Mike + Dan",
+      "detail": "15-min board sweep: owners, dates, chase what's waiting",
+      "tag": "sync"
+    },
+    {
+      "time": "~6:00 PM",
+      "title": "Girls back to Jen",
+      "detail": "Two-week stretch with their mom begins",
+      "tag": "family"
     }
   ],
   "inbox": {
@@ -28,33 +39,28 @@
       {
         "tag": "Security",
         "title": "GitHub token expiring",
-        "detail": "A fine-grained personal access token is about to expire — rotate it before anything relying on it quietly breaks."
+        "detail": "A fine-grained personal access token is about to expire — renew it before anything wired to it breaks."
       },
       {
         "tag": "Job search",
         "title": "SVP Global Public Policy alert",
-        "detail": "LinkedIn surfaced a Senior VP of Global Public Policy posting and similar roles — worth a glance given the board and public-affairs search."
+        "detail": "LinkedIn surfaced a Senior VP of Global Public Policy role and similar — worth a look for the public-affairs search."
       },
       {
         "tag": "Health",
-        "title": "Prescription renewal notice",
-        "detail": "Ro flags an expiring prescription that needs your info updated to renew."
-      },
-      {
-        "tag": "FYI",
-        "title": "Dropbox near storage limit",
-        "detail": "Dropbox says you're close to the cap — a cleanup or upgrade before it blocks new saves."
+        "title": "Prescription renewal needs info",
+        "detail": "Ro says an expiring Rx needs your details updated to renew."
       }
     ],
-    "noise": "The rest is Black Friday previews, retail promos, and newsletters — nothing that needs you.",
-    "clear": "No one's waiting on a reply this morning."
+    "noise": "Everything else is newsletters and holiday sales — NYT Cooking, WSJ, and a wall of Black Friday previews.",
+    "clear": "No personal mail is waiting on your reply."
   },
   "resolved": [],
   "context": {
-    "kids": false,
-    "phase": "green",
+    "kids": true,
+    "phase": "blue",
     "location": "St. Petersburg, FL",
-    "confidence": "low",
+    "confidence": "high",
     "asOf": "Sunday Nov 1"
   },
   "recipe": {
@@ -64,21 +70,33 @@
   },
   "tasks": [
     {
-      "title": "December break — shortlist 3 destinations",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sept 30",
-      "overdue": true
-    },
-    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sept 25",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sept 30",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Drive the Pathfinder Portland → St Pete",
+      "project": "Dan & Mike",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Call dermatologist for Mike",
+      "project": "Dan & Mike",
+      "due": "Overdue Aug 28",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Travel",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -90,15 +108,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The 9 AM review with Mike is the only fixed point — a quarter hour on the board, then the morning opens up."
+      "line": "The 9 AM review with Mike is the only thing on the calendar — the rest of the morning is yours."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing scheduled: a clear stretch to cook, read, or chip at the overdue planning list."
+      "line": "An open afternoon with nothing booked; the Christmas SUV rental has waited long enough to earn it."
     },
     {
       "time": "Evening",
-      "line": "Pull the Toronto bag together tonight so tomorrow's 4:20 flight is an easy exit."
+      "line": "The girls head to Jen around six, and with a Toronto flight tomorrow, tonight is for packing."
     }
   ],
   "japanese": {
