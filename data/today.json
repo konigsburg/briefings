@@ -1,53 +1,64 @@
 {
   "date": "Sunday, November 1, 2026",
-  "generatedAt": "Morning brief · 5:06 PM ET",
-  "theme": "An open Sunday before a Toronto week.",
-  "greeting": "A quiet, open Sunday, Dan — the one short review is already behind you and the rest of the day is yours. The thing worth squaring away is tomorrow's Toronto trip.",
+  "generatedAt": "Morning brief · 5:08 PM ET",
+  "theme": "An open Sunday, bookended by a handoff and a flight.",
+  "greeting": "A quiet, open Sunday, Dan — one short review this morning and a clear afternoon. The girls head back to Jen this evening, and a flight to Toronto starts your week tomorrow.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas rental still open",
-      "detail": "The p1 board item to book a refundable full-size SUV out of Portland for Christmas week is well past due. PWM holiday SUV inventory is the thinnest in that market and genuinely sells out."
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas SUV rental",
+      "detail": "Your top-priority item in Dan & Mike Stuff, overdue since Sep 14. A full-size SUV out of Portland over Christmas week sells out — a refundable hold now takes the whole risk off the table."
     },
     {
-      "tag": "Decide & book",
-      "title": "December break has no destination",
-      "detail": "The Dec 13–Jan 2 trip with all four girls still has nothing booked; the plan was decide by Sept 30, book by Oct 15, and holiday inventory for six keeps thinning."
+      "tag": "Tomorrow · travel",
+      "title": "Check in for the Toronto flight",
+      "detail": "Porter PD526 leaves Tampa at 4:20 PM tomorrow; Kiwi flagged carrier check-in. Worth packing and checking in tonight."
     },
     {
-      "tag": "Travel tomorrow",
-      "title": "Toronto flight Monday afternoon",
-      "detail": "Porter PD526 leaves Tampa at 4:20 PM tomorrow for Toronto — worth packing and checking in tonight, before the evening handoff."
+      "tag": "Overdue · p2",
+      "title": "Decide the December break destination",
+      "detail": "Decision was due Sep 30 and booking Oct 15 — six people over three weeks of holidays is the thinnest inventory of the year, and this is blocking the rest of the December plan."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board triage",
-      "tag": "Review"
+      "detail": "15-min board sweep (done)",
+      "tag": "sync"
+    },
+    {
+      "time": "6:00 PM",
+      "title": "Girls head back to Jen",
+      "detail": "Sunday handoff",
+      "tag": "family"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two board-adjacent roles surfaced",
-        "detail": "LinkedIn flagged a KLA VP of Global Government Affairs and a Ripple VP of Corporate Development — both squarely in your governance and public-affairs lane."
+        "title": "NACD New England — Maine team event",
+        "detail": "A forwarded note about the next NACD New England / Maine gathering — right in your board network."
       },
       {
         "tag": "Job search",
-        "title": "NACD New England — Maine event",
-        "detail": "The NACD New England chapter sent details on the next Maine team event; useful for board networking."
+        "title": "KLA VP, Global Government Affairs",
+        "detail": "LinkedIn alert for a VP of Global Government Affairs & Strategic Policy role at KLA."
       },
       {
         "tag": "FYI",
+        "title": "Check in for tomorrow's flight",
+        "detail": "Kiwi reminder to check in with Porter for the Tampa → Toronto flight."
+      },
+      {
+        "tag": "Financial",
         "title": "Deloitte tax services enrollment",
-        "detail": "Deloitte's annual tax-services enrollment window is open."
+        "detail": "The Deloitte US tax services enrollment window is open."
       }
     ],
-    "noise": "The rest is newsletters and promos — Italian word of the week, Epoch Times, OpenAI, a pen shop, an alumni spotlight.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "The rest is newsletters and promos — St. Pete top 10, Epoch Times, OpenAI, Harry & David, alumni notes.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -65,40 +76,46 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Drive the Pathfinder down (Portland → St Pete)",
+      "project": "Dan & Mike Stuff",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + outdoor soap holder",
+      "project": "Dan & Mike Stuff",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Professional Projects",
+      "project": "Travel",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/10",
-    "day": "0/3",
+    "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
-      "time": "Morning",
-      "line": "The weekly 15-minute board review with Mike cleared at nine — the only fixed thing on the calendar today."
+      "time": "9 AM – Noon",
+      "line": "The only thing booked was the 15-minute Sunday review with Mike — the rest of the morning stayed yours."
     },
     {
-      "time": "Afternoon",
-      "line": "An open stretch in St. Pete, with the girls heading back to Jen around six."
+      "time": "Noon – 6 PM",
+      "line": "A clear afternoon with nothing on the calendar, winding toward the evening handoff."
     },
     {
-      "time": "Evening",
-      "line": "Pack and check in for tomorrow's 4:20 Toronto flight before the day closes."
+      "time": "6 PM onward",
+      "line": "The girls go back to Jen, and tomorrow's 4:20 Toronto flight is the next thing waiting."
     }
   ],
   "japanese": {
