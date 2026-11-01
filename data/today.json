@@ -1,23 +1,23 @@
 {
   "date": "Saturday, October 31, 2026",
   "generatedAt": "Morning brief · 8:07 PM ET",
-  "theme": "Halloween, kids in tow — an open day before tomorrow's reset.",
-  "greeting": "An open Saturday, Dan — no meetings on the calendar and the four girls with you in St. Pete for Halloween. Tomorrow brings the handoff back to Jen and the weekly review with Mike, so tonight is the easy part.",
+  "theme": "Open today, Toronto by Wednesday.",
+  "greeting": "A quiet Halloween Saturday in St. Pete, Dan, and the last full day with the girls before they head back to Jen tomorrow. The week's real weight is Toronto, where you are moderating the ICGN stewardship panel on Thursday.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental",
-      "detail": "The p1 that keeps slipping. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market and it sells out — book refundable now and adjust the dates once the trip firms up."
+      "tag": "Toronto Thu",
+      "title": "Moderating the ICGN stewardship panel",
+      "detail": "You are moderating Plenary 7, 'Evolving Stewardship Data, Reporting and Impact,' Thursday Nov 5 at 3:05 PM in Toronto, alongside Rachit Gupta, Jane Ambachtsheer and Andy Howard. The conference opens Wednesday, so travel and a question set both want locking in this weekend while the day is open."
     },
     {
-      "tag": "Window closing",
-      "title": "December break destination",
-      "detail": "Decide-by Sept 30 and book-by Oct 15 have both passed, and holiday inventory for six over three weeks is the thinnest of the year. Pick domestic vs. international and lock a shortlist before the weekend's out."
+      "tag": "Prep · Sun 9 AM",
+      "title": "Sunday board review with Mike",
+      "detail": "Mike's 15-minute review is tomorrow at 9 AM, and the rule is that anything slipping three Sundays gets killed or demoted. The Maine Christmas SUV (p1, overdue since Sep 14) and the December-break destinations have both sat for weeks, so arrive ready to promote or let them go."
     },
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Sunday review with Mike",
-      "detail": "The 15-minute board triage is where these overdue Dan & Mike items get promoted or killed. Arrive knowing which travel bookings you're actually committing to."
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "On the Mike + Dan board at p1, overdue since Sep 14. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market and sells out; a refundable booking now removes the whole risk and dates can flex later."
     }
   ],
   "schedule": [],
@@ -25,18 +25,28 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "KLA VP, Global Government Affairs",
-        "detail": "LinkedIn surfaced a VP, Global Government Affairs & Strategic Policy role at KLA — squarely in your public-affairs lane if you want a look."
+        "title": "On-point roles in the alerts",
+        "detail": "This week's LinkedIn alerts surfaced a KLA VP of Global Government Affairs and a PwC-OpenAI Partner Director, both close to your policy and governance background."
+      },
+      {
+        "tag": "Financial",
+        "title": "Central Maine Power autopay",
+        "detail": "CMP posted a scheduled automatic-payment notice for the Maine house, informational only."
+      },
+      {
+        "tag": "FYI",
+        "title": "Note re Sandra Konigsburg",
+        "detail": "A message from Zwirn Law about Sandra at Tampa Gardens came in with you cc'd, worth a read when you have a moment."
       }
     ],
-    "noise": "The rest is NACD event logistics, newsletters, and promos.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "Plus the usual drift: LinkedIn job alerts, PayPal and Airbnb receipts, OpenAI and Fanvue promos.",
+    "clear": "Nothing is waiting on your reply, Jen is already chasing your conference ticket with Elle."
   },
   "resolved": [
     {
-      "tag": "Signed off",
-      "title": "ICGN Toronto panel questions",
-      "detail": "You approved the reworked session flow Oct 29 and Flo confirmed Rachit's now aligned — nothing more needed before Toronto next week."
+      "tag": "Sorted",
+      "title": "ICGN conference ticket",
+      "detail": "Jen Sisson confirmed your complimentary ticket and is chasing Elle to send it, so no action is owed from you."
     }
   ],
   "context": {
@@ -53,15 +63,27 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike Stuff",
+      "title": "December break: shortlist 3 destinations and decide",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Dan & Mike Stuff",
+      "title": "Portland house order: king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan Board",
       "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -73,15 +95,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An open Saturday — the calendar's clear and the day is yours to shape."
+      "line": "Nothing on the calendar, a slow Halloween start with the girls in St. Pete."
     },
     {
       "time": "Afternoon",
-      "line": "Halloween with all four girls in St. Pete, kids in tow."
+      "line": "Still open; the week's real pull is Toronto on Wednesday, not today."
     },
     {
       "time": "Evening",
-      "line": "Costumes and the neighborhood tonight; the handoff to Jen comes tomorrow."
+      "line": "Halloween with the kids, the last evening before they are back with Jen tomorrow."
     }
   ],
   "japanese": {
