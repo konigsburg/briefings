@@ -1,38 +1,38 @@
 {
-  "date": "Sun, Oct 25",
+  "date": "Sun, Nov 1",
   "region": "NH Seacoast · zone 6a",
-  "generatedAt": "Weekly · Oct 25",
-  "headline": "Plant your garlic this week — late October is the zone 6a window to get cloves in before the ground freezes.",
+  "generatedAt": "Weekly · Nov 1",
+  "headline": "Plant garlic now — early November is the last good window before the ground freezes hard.",
   "tasks": [
     {
       "tag": "Sow now",
-      "title": "Plant garlic",
-      "detail": "Break a head into cloves and plant pointy-end up, 2 inches deep and 6 inches apart, in a sunny, well-drained bed. This is your last good window before the soil locks up; they root now and sprout next spring."
+      "title": "Get garlic in the ground",
+      "detail": "This is prime (and nearly last-call) timing for zone 6a. Push cloves 2-3 inches deep, pointy end up, about 6 inches apart, then cover the bed with 4-6 inches of straw or shredded leaves to insulate roots over winter."
     },
     {
       "tag": "Harvest",
-      "title": "Pick the frost-sweetened crops",
-      "detail": "Kale, Brussels sprouts, carrots, parsnips and leeks all get sweeter after a frost or two, so keep harvesting them. Pull any remaining tender crops (the last green tomatoes, peppers, squash) before a hard freeze hits."
+      "title": "Pull the last cold-hardy crops",
+      "detail": "Kale, Brussels sprouts, leeks and carrots actually get sweeter after frost, so keep picking. Dig carrots and any root crops before the ground freezes solid, which can come on fast now."
+    },
+    {
+      "tag": "Water",
+      "title": "Winterize hoses and spigots",
+      "detail": "Drain and disconnect hoses and shut off outdoor faucets before the first hard freeze to avoid burst pipes. Give evergreens and anything newly planted one last deep soak while the soil is still open."
     },
     {
       "tag": "Prep",
-      "title": "Mulch garlic and perennials",
-      "detail": "After planting garlic, cover the bed with 3-4 inches of straw or shredded leaves. Mulch around perennials and strawberries too once the ground gets cold — it insulates roots against the freeze-thaw cycles of a coastal winter."
+      "title": "Put spent beds to bed",
+      "detail": "Clear out finished annuals and any diseased or pest-ridden debris (trash it, don't compost it), then mulch the bare soil. Leave a few seed heads and sturdy stems standing for birds and overwintering pollinators."
     },
     {
-      "tag": "Prep",
-      "title": "Shut off and drain outdoor water",
-      "detail": "Disconnect, drain and store hoses, and shut off any outdoor spigots or rain barrels before the first hard freeze. Water left in them expands when it freezes and cracks the pipe or barrel."
+      "tag": "Sow now",
+      "title": "Tuck in spring bulbs",
+      "detail": "There's still a window to plant tulips, daffodils and crocus for next spring. Get them in over the next week or two, before the ground locks up for winter."
     },
     {
-      "tag": "Prep",
-      "title": "Put beds to bed",
-      "detail": "Clear out spent annual plants and fallen fruit, especially anything that looked diseased this year (blighted tomato vines, powdery-mildew squash). Compost the healthy stuff and trash the diseased to avoid overwintering spores."
-    },
-    {
-      "tag": "Feed",
-      "title": "Stockpile leaves and top up compost",
-      "detail": "Rake fallen leaves and either shred them for mulch or layer them into the compost pile with kitchen scraps. A few inches of compost or chopped leaves spread over empty beds now feeds the soil over winter."
+      "tag": "Prune",
+      "title": "Hold off on hard pruning",
+      "detail": "Resist cutting back most shrubs and perennials until late winter — now it can spur tender growth that won't survive. Once a hard freeze settles in, add a protective mulch layer over perennials and strawberries."
     }
   ]
 }
