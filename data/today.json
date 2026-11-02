@@ -1,43 +1,43 @@
 {
   "date": "Monday, November 2, 2026",
   "generatedAt": "Morning brief · 5:06 PM ET",
-  "theme": "Wheels up for Toronto and ICGN.",
-  "greeting": "The morning is yours in St. Pete, Dan, before an afternoon flight north. Governance week starts tonight in Toronto.",
+  "theme": "Wheels up for Toronto",
+  "greeting": "Travel day, Dan. The morning's yours in St. Pete, then an afternoon flight north — Toronto and the ICGN meetings are the week's real work.",
   "needsAttention": [
     {
-      "tag": "Prep · tomorrow",
-      "title": "Arrive at ICGN with a short list in hand",
-      "detail": "You land in Toronto tonight for the ICGN Board Dinner tomorrow at Lee Restaurant, the evening before the conference. Worth deciding on the flight who you most want to connect with on board governance and AI oversight before you're in the room."
+      "tag": "Panel prep",
+      "title": "You're moderating the ICGN stewardship panel",
+      "detail": "Jen reworked the session flow for the Toronto conference — you open by bridging Rachit (Diligent) into the wider panel on measuring stewardship impact. Arrive holding your bridge line and two or three follow-ups."
     },
     {
       "tag": "Overdue · decide",
-      "title": "December break still has no destination",
-      "detail": "The all-four-kids trip over Dec 13–Jan 2 is in Todoist as a p2, decided-by Sept 30, and the Oct 15 book-by date has passed. Holiday inventory for six only thins from here — the open move is to pick domestic-or-international and commit."
+      "title": "December break is still unbooked",
+      "detail": "All four kids, Dec 13–Jan 2. The Sep 30 decide / Oct 15 book dates are long past and holiday inventory for six is the thinnest of the year — lock a domestic shortlist before it's gone."
     }
   ],
   "schedule": [
     {
       "time": "4:20 PM",
-      "title": "Flight to Toronto (PD 526)",
-      "detail": "Tampa TPA, lands ~7:17 PM. Leave margin for the airport.",
-      "tag": "Travel"
+      "title": "Flight to Toronto",
+      "detail": "Porter PD526, Tampa → Toronto, in by 7:17 PM",
+      "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Two board/role alerts landed",
-        "detail": "LinkedIn flagged KLA's VP Global Government Affairs & Strategic Policy and a Managing Partner role at Synergy — both squarely in your lane, neither needs a reply."
+        "title": "Two roles in your lane surfaced",
+        "detail": "LinkedIn alerts: KLA's VP of Global Government Affairs & Strategic Policy, and a Ford Foundation democracy / rule-of-law program director — both worth a scan."
       },
       {
-        "tag": "Financial",
-        "title": "Deloitte tax enrollment is open",
-        "detail": "A US tax-services enrollment notice from Deloitte — informational, act on it when you have a quiet moment."
+        "tag": "FYI",
+        "title": "Frank feedback on the Maine NACD event",
+        "detail": "Ellen shared Steve Shane's read with the group — good panel framing, but the room skewed to students and service providers, not directors."
       }
     ],
-    "noise": "The rest is promotional.",
-    "clear": "Nothing is awaiting your reply this morning."
+    "noise": "A Deloitte tax-enrollment notice and an NACD event recording — safe to skip.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -55,34 +55,34 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + shower soap holder",
-      "project": "Household",
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/3",
-    "day": "0/5",
+    "morning": "6/9",
+    "day": "0/2",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "An open stretch in St. Pete before the day turns to travel — the best window for ICGN prep."
+      "line": "A St. Pete morning that's open and unhurried before you head to the airport."
     },
     {
       "time": "Afternoon",
-      "line": "Porter PD 526 out of Tampa at 4:20; wheels up and the day is in transit."
+      "line": "The day turns into travel — wheels up for Toronto and a change of scene."
     },
     {
       "time": "Evening",
-      "line": "Into Toronto by 7:17 and settling near Richmond West ahead of tomorrow's dinner."
+      "line": "Land and settle into the Richmond Street loft; the ICGN board dinner and conference start tomorrow."
     }
   ],
   "japanese": {
