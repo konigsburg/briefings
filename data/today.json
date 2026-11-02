@@ -1,56 +1,51 @@
 {
   "date": "Monday, November 2, 2026",
-  "generatedAt": "Morning brief · 5:08 AM ET",
-  "theme": "A quiet Sunday, then Toronto",
-  "greeting": "The one thing on the books — the Sunday review with Mike — is behind you, Dan. The rest of the day is open, with tomorrow afternoon's Toronto flight the next real marker.",
+  "generatedAt": "Morning brief · 5:11 AM ET",
+  "theme": "Toronto-bound for ICGN week.",
+  "greeting": "The morning in St. Pete is yours before a 4:20 flight to Toronto and the start of ICGN conference week. Good quiet hours to get your Plenary 7 framing down before travel takes over the afternoon.",
   "needsAttention": [
     {
-      "tag": "Travel · tomorrow",
-      "title": "Check in for the Toronto flight",
-      "detail": "Porter PD526 leaves Tampa at 4:20 PM tomorrow. Kiwi has already nudged you to check in with the carrier — online check-in opens 24 hours out, so it's live tonight."
+      "tag": "Panel prep",
+      "title": "Shape your Plenary 7 opening",
+      "detail": "You moderate Plenary 7 — Evolving Stewardship Data, Reporting and Impact — Thursday at 3:05 PM, with Rachit Gupta (Diligent), Jane Ambachtsheer (BNP Paribas) and Andy Howard (Schroders). The open morning is the time to draft your framing and a question for each."
     },
     {
-      "tag": "Overdue · p1",
+      "tag": "Overdue p1",
       "title": "Book the Maine Christmas SUV",
-      "detail": "Your one p1 on the Dan & Mike board, open since mid-September. A full-size SUV out of Portland over Christmas week sells out — book it refundable now and adjust the dates later."
-    },
-    {
-      "tag": "Time-sensitive",
-      "title": "Lock the December break destination",
-      "detail": "All four girls, Dec 13–Jan 2. The decide-by and book-by dates have both passed and holiday inventory for six is the thinnest of the year — this is the one most likely to bite next."
+      "detail": "Your top-priority task from Sept 14 is still open: a refundable full-size SUV out of Portland for Christmas week. Portland holiday inventory only thins, so it is worth clearing before the trip firms up."
     }
   ],
   "schedule": [
     {
-      "time": "9:00 AM",
-      "title": "Sunday review — Mike + Dan",
-      "detail": "Clear the board: an owner and a date on everything, chase what you're waiting on.",
-      "tag": "planning"
+      "time": "4:20 PM",
+      "title": "Flight to Toronto",
+      "detail": "Porter PD526, Tampa (TPA) to Toronto, lands 7:17 PM ET",
+      "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Claudia Rossetti messaged you on LinkedIn",
-        "detail": "Your ICGN contact reached out — worth a reply while you're working the governance network."
+        "tag": "FYI",
+        "title": "ICGN speaker logistics confirmed",
+        "detail": "The events team sent final details: arrive 30 minutes before your 3:05 PM Thursday slot, with a panel photo at the step-and-repeat after."
       },
       {
         "tag": "Financial",
-        "title": "Two statements ready",
+        "title": "Two statements posted",
         "detail": "Morgan Stanley and Revolut monthly statements are available to review."
       }
     ],
-    "noise": "The rest is newsletters and receipts — Epoch Times, NYPL, ParkMobile, retail promos.",
-    "clear": "No personal email is sitting unanswered."
+    "noise": "The rest is newsletters and promos — Italian word of the day, NYPL events, Field Company, Harry & David, a parking receipt.",
+    "clear": "Nothing in the inbox is waiting on a reply from you — Jen Sisson has the panel ticket in hand with Elle."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St. Petersburg, FL",
+    "location": "St. Petersburg → Toronto",
     "confidence": "high",
-    "asOf": "Sunday Nov 1"
+    "asOf": "Monday Nov 2"
   },
   "recipe": {
     "title": "Chanterelle salad",
@@ -59,41 +54,41 @@
   },
   "tasks": [
     {
+      "title": "Decide the December break destination",
+      "project": "Travel",
+      "due": "Overdue Sept 30",
+      "overdue": true
+    },
+    {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike",
-      "due": "Overdue Sep 25",
+      "project": "Household",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + shower soap holder",
-      "project": "Dan & Mike",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Dan & Mike",
-      "due": "Overdue Aug 15",
+      "title": "Portland house order — bedframe + outdoor soap holder",
+      "project": "Household",
+      "due": "Overdue Sept 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/10",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The 15-minute review with Mike at 9 was the day's only commitment."
+      "line": "An open stretch at home before the airport — the window to get the panel framing down and pack."
     },
     {
       "time": "Afternoon",
-      "line": "Wide open — a clean window to finally book the stale Christmas rental."
+      "line": "Out of Tampa at 4:20 on Porter PD526, landing in Toronto at 7:17."
     },
     {
       "time": "Evening",
-      "line": "Quiet, with tomorrow's 4:20 PM Toronto flight to pack for."
+      "line": "Into the Richmond Street loft; the ICGN board dinner at Lee is tomorrow night."
     }
   ],
   "japanese": {
