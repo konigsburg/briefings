@@ -1,54 +1,60 @@
 {
   "date": "Monday, November 2, 2026",
-  "generatedAt": "Morning brief · 11:57 AM ET",
-  "theme": "A travel day pointed at Toronto.",
-  "greeting": "A clear morning at home, then north you go. You land in Toronto tonight, and the ICGN board dinner tomorrow is what this trip is really about.",
+  "generatedAt": "Morning brief · 12:01 PM ET",
+  "theme": "A travel day — Tampa to Toronto for the ICGN conference.",
+  "greeting": "The morning's yours in St. Pete before a 4:20 flight north; by tonight you're in Toronto with the ICGN plenary and board dinner on deck for tomorrow.",
   "needsAttention": [
     {
-      "tag": "Book this week",
-      "title": "Maine Christmas SUV rental still open",
-      "detail": "Your p1 Household task has been overdue since Sept 14. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market; book refundable now before holiday inventory vanishes."
+      "tag": "Prep for tomorrow",
+      "title": "ICGN plenary and board dinner in Toronto",
+      "detail": "You're on Plenary 7 at the ICGN Autumn Conference, with the board dinner tomorrow evening at Lee Restaurant; skim the final speaker brief and the Plenary 7 planning notes before you land."
     },
     {
-      "tag": "Window closing",
-      "title": "December break destination undecided",
-      "detail": "The p2 decision was due Sept 30 with a book-by of Oct 15, now past. Six people over three weeks of the holidays means inventory thins out a little more each day it waits."
+      "tag": "Overdue p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "The full-size Portland SUV for Christmas week is your flagged 'book this week' p1 and is weeks past due; a refundable hold now takes the holiday-inventory risk off the table."
     },
     {
-      "tag": "Tomorrow",
-      "title": "ICGN board dinner prep",
-      "detail": "You arrive tonight and the dinner at Lee Restaurant is tomorrow. Worth landing with a few governance talking points and a sense of who to seek out, given the board search."
+      "tag": "Overdue p2",
+      "title": "Lock the December break destination",
+      "detail": "The all-four-girls Dec 13-Jan 2 trip was to be decided by Sept 30 and booked by Oct 15; holiday inventory for six is thinning, so pick the domestic-or-international path and book."
     }
   ],
   "schedule": [
     {
       "time": "4:20 PM",
-      "title": "Flight to Toronto (PD 526)",
-      "detail": "Tampa TPA to Toronto, lands 7:17 PM ET",
-      "tag": "travel"
+      "title": "Flight to Toronto",
+      "detail": "Porter PD526, Tampa (TPA) to Toronto, landing 7:17 PM ET.",
+      "tag": "Travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "A LinkedIn message awaits your reply",
-        "detail": "LinkedIn is nudging you about an unread message you haven't answered, worth a look given the board and role search."
+        "tag": "Security",
+        "title": "Amex flagged account changes",
+        "detail": "American Express sent an 'important account changes' notice on your card; worth opening to confirm nothing's off before you travel."
       },
       {
-        "tag": "Financial",
-        "title": "Amex flagged account changes",
-        "detail": "An 'important account changes' notice from American Express, likely a terms update but worth a glance to be sure it's nothing actionable."
+        "tag": "Job search",
+        "title": "KLA - VP, Global Government Affairs",
+        "detail": "A LinkedIn alert for a VP of Global Government Affairs & Strategic Policy role that lines up with your public-affairs track."
       }
     ],
-    "noise": "The rest is Black Friday blasts, newsletters, and travel promos; nothing needs you.",
+    "noise": "The rest is listing alerts, shipping receipts, a Deloitte tax-enrollment notice, and newsletters.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "ICGN",
+      "title": "Conference ticket being sorted",
+      "detail": "Jen Sisson confirmed Oct 28 she'd arrange your complimentary ICGN conference ticket through Elle."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St. Pete -> Toronto",
+    "location": "Toronto",
     "confidence": "high",
     "asOf": "Monday Nov 2"
   },
@@ -65,15 +71,15 @@
       "overdue": true
     },
     {
-      "title": "Portland house order: bedframe + outdoor shower soap holder",
+      "title": "Portland house order - bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Call dermatologist to book Mike's appt",
-      "project": "Household",
-      "due": "Overdue Aug 28",
+      "title": "Destination edit work",
+      "project": "Work",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -85,15 +91,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear stretch in St. Pete before you travel, the one open window of the day."
+      "line": "A clear morning in St. Pete to pack and clear the decks before the airport."
     },
     {
       "time": "Afternoon",
-      "line": "Wheels up from Tampa mid-afternoon, Toronto-bound."
+      "line": "A 4:20 Porter flight out of Tampa, wheels-down in Toronto by 7:17 for the conference."
     },
     {
       "time": "Evening",
-      "line": "Land around dinnertime and settle in; the real event is tomorrow."
+      "line": "Settle into Toronto with the plenary and tomorrow's board dinner just ahead."
     }
   ],
   "japanese": {
