@@ -1,66 +1,50 @@
 {
   "date": "Sunday, November 1, 2026",
-  "generatedAt": "Morning brief · 9:06 PM ET",
-  "theme": "A quiet Sunday, Toronto tomorrow",
-  "greeting": "The heavy lifting is already behind you, Dan — the Sunday review wrapped this morning and the girls are with Jen for the next couple of weeks. Tonight is really about tomorrow: you fly to Toronto at 4:20, so it is a good window to clear the bookings that keep sliding and to check in early.",
+  "generatedAt": "Morning brief · 9:10 PM ET",
+  "theme": "A quiet Sunday, then Toronto",
+  "greeting": "The one thing on the books — the Sunday review with Mike — is behind you, Dan. The rest of the day is open, with tomorrow afternoon's Toronto flight the next real marker.",
   "needsAttention": [
     {
-      "tag": "Book tonight",
-      "title": "Maine Christmas SUV rental is still open",
-      "detail": "Your p1 task (overdue since Sep 14) to book a refundable full-size SUV out of Portland for Christmas week. Once the Pathfinder heads south there is no six-seater in Maine, and holiday inventory at PWM sells out early — book refundable now and adjust dates later."
-    },
-    {
-      "tag": "Decide + book",
-      "title": "December break still needs a destination",
-      "detail": "The p2 task (overdue since Sep 30) for the Dec 13–Jan 2 trip with all four girls. Holiday inventory for six over three weeks is the thinnest of the year; a domestic shortlist avoids the passport timing risk entirely."
-    },
-    {
-      "tag": "Tomorrow's flight",
+      "tag": "Travel · tomorrow",
       "title": "Check in for the Toronto flight",
-      "detail": "Porter (via Kiwi) flagged that you still need to check in with the carrier for PD526, Tampa to Toronto, departing 4:20 PM tomorrow. Worth doing tonight before you are packing."
+      "detail": "Porter PD526 leaves Tampa at 4:20 PM tomorrow. Kiwi has already nudged you to check in with the carrier — online check-in opens 24 hours out, so it's live tonight."
+    },
+    {
+      "tag": "Overdue · p1",
+      "title": "Book the Maine Christmas SUV",
+      "detail": "Your one p1 on the Dan & Mike board, open since mid-September. A full-size SUV out of Portland over Christmas week sells out — book it refundable now and adjust the dates later."
+    },
+    {
+      "tag": "Time-sensitive",
+      "title": "Lock the December break destination",
+      "detail": "All four girls, Dec 13–Jan 2. The decide-by and book-by dates have both passed and holiday inventory for six is the thinnest of the year — this is the one most likely to bite next."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
-      "title": "Sunday review with Mike",
-      "detail": "Done — the 15-minute board sweep cleared the week.",
-      "tag": "review"
+      "title": "Sunday review — Mike + Dan",
+      "detail": "Clear the board: an owner and a date on everything, chase what you're waiting on.",
+      "tag": "planning"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "NACD New England board session",
-        "detail": "NACD New England invited the Maine team to a Zoom on Nov 30 — governance networking worth holding on the calendar."
-      },
-      {
-        "tag": "Job search",
-        "title": "KLA government-affairs VP role",
-        "detail": "LinkedIn surfaced a VP, Global Government Affairs & Strategic Policy posting — squarely in your lane."
+        "title": "Claudia Rossetti messaged you on LinkedIn",
+        "detail": "Your ICGN contact reached out — worth a reply while you're working the governance network."
       },
       {
         "tag": "Financial",
-        "title": "Morgan Stanley statement ready",
-        "detail": "A new statement is available to view."
-      },
-      {
-        "tag": "FYI",
-        "title": "Deloitte tax services enrollment open",
-        "detail": "Annual tax-services enrollment window is open if you use it."
+        "title": "Two statements ready",
+        "detail": "Morgan Stanley and Revolut monthly statements are available to review."
       }
     ],
-    "noise": "The rest is retail promos, news digests, and local newsletters.",
-    "clear": ""
+    "noise": "The rest is newsletters and receipts — Epoch Times, NYPL, ParkMobile, retail promos.",
+    "clear": "No personal email is sitting unanswered."
   },
-  "resolved": [
-    {
-      "tag": "Done",
-      "title": "Sunday review cleared the board",
-      "detail": "You and Mike ran the 15-minute review this morning — owners and dates set, nothing left chasing you into the week."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -81,35 +65,35 @@
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Portland house order — king bedframe + shower soap holder",
       "project": "Dan & Mike",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Destination edit work",
-      "project": "Travel",
+      "project": "Dan & Mike",
       "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/10",
+    "morning": "0/9",
     "day": "0/6",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The 15-minute Sunday review with Mike cleared the board at nine."
+      "line": "The 15-minute review with Mike at 9 was the day's only commitment."
     },
     {
       "time": "Afternoon",
-      "line": "An open stretch with nothing scheduled — the day was yours."
+      "line": "Wide open — a clean window to finally book the stale Christmas rental."
     },
     {
       "time": "Evening",
-      "line": "Pack and check in; tomorrow you fly to Toronto through the 5th."
+      "line": "Quiet, with tomorrow's 4:20 PM Toronto flight to pack for."
     }
   ],
   "japanese": {
