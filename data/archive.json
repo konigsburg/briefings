@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-11-02",
+    "kind": "Morning brief",
+    "label": "Monday, Nov 2 · 5:11 AM ET",
+    "summary": "Open morning in St. Pete before a 4:20 flight to Toronto for ICGN conference week, where Dan moderates Plenary 7 Thursday.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-11-01",
     "kind": "Morning brief",
     "label": "Sunday, Nov 1 · 9:10 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Sunday, Oct 4 · 10:18 PM ET",
     "summary": "A quiet Sunday with just the morning review; the evening turns to tomorrow's Portland flight, a warm board-recruiter lead, and two trip decisions still open.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-10-03",
-    "kind": "Morning brief",
-    "label": "Saturday, Oct 3 · 10:13 PM ET",
-    "summary": "A wide-open Saturday with no calendar events; the week's trip-booking windows (December trip, Christmas SUV, Pathfinder drive) are the live items ahead of tomorrow's Sunday review.",
     "ref": "today"
   }
 ]
