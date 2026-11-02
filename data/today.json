@@ -1,96 +1,97 @@
 {
   "date": "Monday, November 2, 2026",
   "generatedAt": "Morning brief · 7:08 AM ET",
-  "theme": "Travel day — St. Pete to Toronto for ICGN week.",
-  "greeting": "Good morning, Dan. The morning is yours in St. Pete, then an afternoon flight carries you to Toronto, where ICGN week opens tomorrow night.",
+  "theme": "A travel day — St. Pete to Toronto for ICGN.",
+  "greeting": "The morning is open to pack up and check out of the Coffee Pot Bayou cottage; the afternoon takes you north on Porter PD526, with the ICGN Board Dinner waiting tomorrow evening.",
   "needsAttention": [
     {
-      "tag": "Today · travel",
-      "title": "Check in for the Toronto flight",
-      "detail": "Porter PD526 leaves Tampa at 4:20 PM today; the carrier check-in window is open now, and Kiwi has already nudged you to do it."
+      "tag": "Prep · tomorrow",
+      "title": "Arrive at the ICGN dinner holding a short list",
+      "detail": "Tomorrow evening's ICGN Board Dinner at Lee Restaurant is a block from your loft. Worth landing in Toronto with two or three people you want to find and a clear line on the board work you're after next."
     },
     {
       "tag": "Overdue · p1",
-      "title": "Hold the Maine Christmas SUV",
-      "detail": "The full-size SUV out of Portland for Christmas week has been open since Sep 14. Holiday inventory there sells out — a refundable hold costs nothing and kills the risk in one booking."
+      "title": "Book the Maine Christmas SUV before it's gone",
+      "detail": "A p1 on the Mike + Dan board, overdue since Sept 14: a full-size SUV out of Portland for Christmas week — the only six-seater up there once the Pathfinder heads south. Holiday inventory at PWM sells out; a refundable hold ends the risk."
     },
     {
-      "tag": "Tomorrow · prep",
-      "title": "Arrive at the ICGN dinner with a short list",
-      "detail": "Tomorrow's ICGN Board Dinner at Lee Restaurant opens the Toronto conference. Worth landing with a few people you want to find, given the board search."
+      "tag": "Overdue · p2",
+      "title": "Lock the December holiday trip",
+      "detail": "Also overdue (p2): shortlist and decide the Dec 13 – Jan 2 trip for all six. Holiday inventory for that many over three weeks is the year's thinnest, and the decision has waited since Sept 30."
     }
   ],
   "schedule": [
     {
+      "time": "Until 1 PM",
+      "title": "Check out of the Coffee Pot Bayou cottage",
+      "detail": "Open morning in St. Pete",
+      "tag": "Open"
+    },
+    {
       "time": "4:20 PM",
       "title": "Flight to Toronto (PD526)",
-      "detail": "Tampa → Toronto, lands 7:17 PM",
-      "tag": "travel"
+      "detail": "Tampa (TPA) → Toronto, lands ~7:17 PM",
+      "tag": "Travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Two roles in your lane",
-        "detail": "LinkedIn surfaced a KLA VP of Global Government Affairs and a Meta partnerships lead — both public-affairs adjacent."
-      },
-      {
-        "tag": "Job search",
-        "title": "NACD New England / Maine team",
-        "detail": "Larissa Ravetto sent a Zoom invite for the Nov 30 NACD NE–Maine meeting. Group invite, no reply owed — but it is the Maine director circle worth being in."
-      },
-      {
         "tag": "Financial",
-        "title": "Statements posted",
-        "detail": "Morgan Stanley and Revolut monthly statements are up; Deloitte tax-services enrollment also opened."
+        "title": "Two statements now available",
+        "detail": "Morgan Stanley and Revolut monthly statements posted — FYI, nothing to action."
+      },
+      {
+        "tag": "Job search",
+        "title": "LinkedIn activity, automated only",
+        "detail": "A job alert (a Meta partnerships role) and one connection invite — no recruiter outreach or replies needing you."
       }
     ],
-    "noise": "The rest is newsletters — Foreign Affairs, Responsible Investor, Italian word of the day, St. Pete locals, and retail.",
-    "clear": ""
+    "noise": "The rest is newsletters and promos — Foreign Affairs, Responsible Investor, Italian/Japanese word-of-the-day, a few retailers — plus Airbnb and travel confirmations.",
+    "clear": "No security mail, and nothing is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St. Pete → Toronto",
+    "location": "St. Petersburg → Toronto",
     "confidence": "high",
     "asOf": "Monday Nov 2"
   },
   "recipe": {
     "title": "Chanterelle salad",
     "book": "Canal House Cooks Every Day",
-    "why": "Chanterelles are at their peak in these last autumn weeks, and a warm mushroom salad is exactly the kind of technique-forward, from-scratch plate that rewards a slow November evening."
+    "why": "You land in Toronto tonight, but chanterelles are at their autumn peak right now — one to bookmark for the first quiet evening back in your own kitchen, warm and technique-forward the way you like it."
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
+      "title": "Get three term-life quotes for Mike",
+      "project": "Mike + Dan board",
+      "due": "Overdue Sept 25",
       "overdue": true
     },
     {
-      "title": "December break — shortlist 3 destinations",
-      "project": "Travel",
-      "due": "Overdue Sep 30",
+      "title": "Place the Portland house order (bedframe + outdoor shower soap holder)",
+      "project": "Mike + Dan board",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down to St. Pete",
-      "project": "Travel",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Call dermatologist for Mike's appointment",
-      "project": "Household",
+      "title": "Mike: call the dermatologist to book wart-removal appt",
+      "project": "Mike + Dan board",
       "due": "Overdue Aug 28",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower holder",
-      "project": "Household",
-      "due": "Overdue Sep 30",
+      "title": "Drive the Pathfinder down, Portland → St Pete",
+      "project": "Mike + Dan board",
+      "due": "Oct 5–18 window passed",
+      "overdue": true
+    },
+    {
+      "title": "Destination edit work",
+      "project": "Professional Projects",
+      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
