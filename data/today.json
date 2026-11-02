@@ -1,66 +1,66 @@
 {
   "date": "Sunday, November 1, 2026",
-  "generatedAt": "Morning brief · 7:07 PM ET",
-  "theme": "An open Sunday, bookended by a handoff and a flight.",
-  "greeting": "A quiet, open Sunday, Dan — one short review this morning and a clear afternoon. The girls head back to Jen this evening, and a flight to Toronto starts your week tomorrow.",
+  "generatedAt": "Morning brief · 7:10 PM ET",
+  "theme": "A quiet Sunday, Toronto tomorrow",
+  "greeting": "The heavy lifting is already behind you, Dan — the Sunday review wrapped this morning and the girls are with Jen for the next couple of weeks. Tonight is really about tomorrow: you fly to Toronto at 4:20, so it is a good window to clear the bookings that keep sliding and to check in early.",
   "needsAttention": [
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV rental",
-      "detail": "Your top-priority item in Dan & Mike Stuff, overdue since Sep 14. A full-size SUV out of Portland over Christmas week sells out — a refundable hold now takes the whole risk off the table."
+      "tag": "Book tonight",
+      "title": "Maine Christmas SUV rental is still open",
+      "detail": "Your p1 task (overdue since Sep 14) to book a refundable full-size SUV out of Portland for Christmas week. Once the Pathfinder heads south there is no six-seater in Maine, and holiday inventory at PWM sells out early — book refundable now and adjust dates later."
     },
     {
-      "tag": "Tomorrow · travel",
+      "tag": "Decide + book",
+      "title": "December break still needs a destination",
+      "detail": "The p2 task (overdue since Sep 30) for the Dec 13–Jan 2 trip with all four girls. Holiday inventory for six over three weeks is the thinnest of the year; a domestic shortlist avoids the passport timing risk entirely."
+    },
+    {
+      "tag": "Tomorrow's flight",
       "title": "Check in for the Toronto flight",
-      "detail": "Porter PD526 leaves Tampa at 4:20 PM tomorrow; Kiwi flagged carrier check-in. Worth packing and checking in tonight."
-    },
-    {
-      "tag": "Overdue · p2",
-      "title": "Decide the December break destination",
-      "detail": "Decision was due Sep 30 and booking Oct 15 — six people over three weeks of holidays is the thinnest inventory of the year, and this is blocking the rest of the December plan."
+      "detail": "Porter (via Kiwi) flagged that you still need to check in with the carrier for PD526, Tampa to Toronto, departing 4:20 PM tomorrow. Worth doing tonight before you are packing."
     }
   ],
   "schedule": [
     {
       "time": "9:00 AM",
       "title": "Sunday review with Mike",
-      "detail": "15-min board sweep (done)",
-      "tag": "sync"
-    },
-    {
-      "time": "6:00 PM",
-      "title": "Girls head back to Jen",
-      "detail": "Sunday handoff",
-      "tag": "family"
+      "detail": "Done — the 15-minute board sweep cleared the week.",
+      "tag": "review"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "NACD New England — Maine team event",
-        "detail": "A forwarded note about the next NACD New England / Maine gathering — right in your board network."
+        "title": "NACD New England board session",
+        "detail": "NACD New England invited the Maine team to a Zoom on Nov 30 — governance networking worth holding on the calendar."
       },
       {
         "tag": "Job search",
-        "title": "KLA VP, Global Government Affairs",
-        "detail": "LinkedIn alert for a VP of Global Government Affairs & Strategic Policy role at KLA."
-      },
-      {
-        "tag": "FYI",
-        "title": "Check in for tomorrow's flight",
-        "detail": "Kiwi reminder to check in with Porter for the Tampa → Toronto flight."
+        "title": "KLA government-affairs VP role",
+        "detail": "LinkedIn surfaced a VP, Global Government Affairs & Strategic Policy posting — squarely in your lane."
       },
       {
         "tag": "Financial",
-        "title": "Deloitte tax services enrollment",
-        "detail": "The Deloitte US tax services enrollment window is open."
+        "title": "Morgan Stanley statement ready",
+        "detail": "A new statement is available to view."
+      },
+      {
+        "tag": "FYI",
+        "title": "Deloitte tax services enrollment open",
+        "detail": "Annual tax-services enrollment window is open if you use it."
       }
     ],
-    "noise": "The rest is newsletters and promos — St. Pete top 10, Epoch Times, OpenAI, Harry & David, alumni notes.",
+    "noise": "The rest is retail promos, news digests, and local newsletters.",
     "clear": ""
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Done",
+      "title": "Sunday review cleared the board",
+      "detail": "You and Mike ran the 15-minute review this morning — owners and dates set, nothing left chasing you into the week."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -76,19 +76,13 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Dan & Mike Stuff",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Drive the Pathfinder down (Portland → St Pete)",
-      "project": "Dan & Mike Stuff",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + outdoor soap holder",
-      "project": "Dan & Mike Stuff",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 30",
       "overdue": true
     },
@@ -106,16 +100,16 @@
   },
   "acts": [
     {
-      "time": "9 AM – Noon",
-      "line": "The only thing booked was the 15-minute Sunday review with Mike — the rest of the morning stayed yours."
+      "time": "Morning",
+      "line": "The 15-minute Sunday review with Mike cleared the board at nine."
     },
     {
-      "time": "Noon – 6 PM",
-      "line": "A clear afternoon with nothing on the calendar, winding toward the evening handoff."
+      "time": "Afternoon",
+      "line": "An open stretch with nothing scheduled — the day was yours."
     },
     {
-      "time": "6 PM onward",
-      "line": "The girls go back to Jen, and tomorrow's 4:20 Toronto flight is the next thing waiting."
+      "time": "Evening",
+      "line": "Pack and check in; tomorrow you fly to Toronto through the 5th."
     }
   ],
   "japanese": {
