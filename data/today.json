@@ -1,60 +1,54 @@
 {
   "date": "Monday, November 2, 2026",
   "generatedAt": "Morning brief · 9:39 AM ET",
-  "theme": "A travel day — St. Pete to Toronto for ICGN.",
-  "greeting": "The morning is open to pack up and check out of the Coffee Pot Bayou cottage; the afternoon takes you north on Porter PD526, with the ICGN Board Dinner waiting tomorrow evening.",
+  "theme": "A travel day pointed at Toronto.",
+  "greeting": "A clear morning at home, then north you go. You land in Toronto tonight, and the ICGN board dinner tomorrow is what this trip is really about.",
   "needsAttention": [
     {
-      "tag": "Prep · tomorrow",
-      "title": "Arrive at the ICGN dinner holding a short list",
-      "detail": "Tomorrow evening's ICGN Board Dinner at Lee Restaurant is a block from your loft. Worth landing in Toronto with two or three people you want to find and a clear line on the board work you're after next."
+      "tag": "Book this week",
+      "title": "Maine Christmas SUV rental still open",
+      "detail": "Your p1 Household task has been overdue since Sept 14. A full-size SUV out of Portland over Christmas week is the thinnest rental in that market; book refundable now before holiday inventory vanishes."
     },
     {
-      "tag": "Overdue · p1",
-      "title": "Book the Maine Christmas SUV before it's gone",
-      "detail": "A p1 on the Mike + Dan board, overdue since Sept 14: a full-size SUV out of Portland for Christmas week — the only six-seater up there once the Pathfinder heads south. Holiday inventory at PWM sells out; a refundable hold ends the risk."
+      "tag": "Window closing",
+      "title": "December break destination undecided",
+      "detail": "The p2 decision was due Sept 30 with a book-by of Oct 15, now past. Six people over three weeks of the holidays means inventory thins out a little more each day it waits."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "Lock the December holiday trip",
-      "detail": "Also overdue (p2): shortlist and decide the Dec 13 – Jan 2 trip for all six. Holiday inventory for that many over three weeks is the year's thinnest, and the decision has waited since Sept 30."
+      "tag": "Tomorrow",
+      "title": "ICGN board dinner prep",
+      "detail": "You arrive tonight and the dinner at Lee Restaurant is tomorrow. Worth landing with a few governance talking points and a sense of who to seek out, given the board search."
     }
   ],
   "schedule": [
     {
-      "time": "Until 1 PM",
-      "title": "Check out of the Coffee Pot Bayou cottage",
-      "detail": "Open morning in St. Pete",
-      "tag": "Open"
-    },
-    {
       "time": "4:20 PM",
-      "title": "Flight to Toronto (PD526)",
-      "detail": "Tampa (TPA) → Toronto, lands ~7:17 PM",
-      "tag": "Travel"
+      "title": "Flight to Toronto (PD 526)",
+      "detail": "Tampa TPA to Toronto, lands 7:17 PM ET",
+      "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Two statements now available",
-        "detail": "Morgan Stanley and Revolut monthly statements posted — FYI, nothing to action."
+        "tag": "Job search",
+        "title": "A LinkedIn message awaits your reply",
+        "detail": "LinkedIn is nudging you about an unread message you haven't answered, worth a look given the board and role search."
       },
       {
-        "tag": "Job search",
-        "title": "LinkedIn activity, automated only",
-        "detail": "A job alert (a Meta partnerships role) and one connection invite — no recruiter outreach or replies needing you."
+        "tag": "Financial",
+        "title": "Amex flagged account changes",
+        "detail": "An 'important account changes' notice from American Express, likely a terms update but worth a glance to be sure it's nothing actionable."
       }
     ],
-    "noise": "The rest is newsletters and promos — Foreign Affairs, Responsible Investor, Italian/Japanese word-of-the-day, a few retailers — plus Airbnb and travel confirmations.",
-    "clear": "No security mail, and nothing is waiting on your reply."
+    "noise": "The rest is Black Friday blasts, newsletters, and travel promos; nothing needs you.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "St. Petersburg → Toronto",
+    "location": "St. Pete -> Toronto",
     "confidence": "high",
     "asOf": "Monday Nov 2"
   },
@@ -65,33 +59,21 @@
   },
   "tasks": [
     {
-      "title": "Get three term-life quotes for Mike",
-      "project": "Mike + Dan board",
-      "due": "Overdue Sept 25",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Place the Portland house order (bedframe + outdoor shower soap holder)",
-      "project": "Mike + Dan board",
-      "due": "Overdue Sept 30",
+      "title": "Portland house order: bedframe + outdoor shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Mike: call the dermatologist to book wart-removal appt",
-      "project": "Mike + Dan board",
+      "title": "Call dermatologist to book Mike's appt",
+      "project": "Household",
       "due": "Overdue Aug 28",
-      "overdue": true
-    },
-    {
-      "title": "Drive the Pathfinder down, Portland → St Pete",
-      "project": "Mike + Dan board",
-      "due": "Oct 5–18 window passed",
-      "overdue": true
-    },
-    {
-      "title": "Destination edit work",
-      "project": "Professional Projects",
-      "due": "Overdue Aug 15",
       "overdue": true
     }
   ],
@@ -103,15 +85,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Open in St. Pete — room to pack, close loose ends, and check in before you leave."
+      "line": "A clear stretch in St. Pete before you travel, the one open window of the day."
     },
     {
       "time": "Afternoon",
-      "line": "Porter PD526 lifts off at 4:20 for Toronto, landing around 7:17."
+      "line": "Wheels up from Tampa mid-afternoon, Toronto-bound."
     },
     {
       "time": "Evening",
-      "line": "Settle into the Richmond St loft; the ICGN conference week begins tomorrow."
+      "line": "Land around dinnertime and settle in; the real event is tomorrow."
     }
   ],
   "japanese": {
