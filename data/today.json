@@ -1,61 +1,51 @@
 {
   "date": "Tuesday, November 03, 2026",
   "generatedAt": "Morning brief · 5:07 AM ET",
-  "theme": "ICGN week opens in Toronto.",
-  "greeting": "You've made it to Toronto, Dan, with the travel day behind you. The ICGN board dinner is tomorrow and the conference you're moderating lands Thursday — the week you flew in for starts now.",
+  "theme": "An open day in Toronto, closing on a governance dinner.",
+  "greeting": "The day in Toronto is wide open until the ICGN board dinner tonight, Dan, with the conference to follow tomorrow. The girls are with Jen this stretch, so the hours are entirely yours.",
   "needsAttention": [
     {
-      "tag": "Prep · ICGN",
-      "title": "You moderate Plenary 7 on Thursday",
-      "detail": "ICGN's \"Evolving Stewardship Data, Reporting and Impact\" panel runs Thursday at 3:05 PM at U of T, with Rachit Gupta, Jane Ambachtsheer and Andy Howard. The flow you settled with Jen opens on Diligent's stewardship intelligence before you bridge the room from activity to outcomes and impact. The ICGN board dinner comes first, tomorrow night at Lee Restaurant."
+      "tag": "Tonight · networking",
+      "title": "The ICGN dinner is tomorrow's warm-up",
+      "detail": "Dinner at Lee Restaurant tonight, the evening before the ICGN conference — a room full of governance people the night before the main event. Worth arriving with a few names to seek out, given the board-seat search."
     },
     {
-      "tag": "Overdue · travel",
-      "title": "December break is still unpicked",
-      "detail": "The Mike + Dan board task to choose a destination was due Sept 30 with a mid-October booking target, both now past. Holiday inventory for six over Dec 13–Jan 2 only keeps thinning the longer it sits."
+      "tag": "Overdue · Travel",
+      "title": "December break still undecided",
+      "detail": "The 'shortlist 3 destinations' task is overdue from Sept 30 and the Oct 15 booking target has passed. Six people, three weeks, over the holidays — inventory only thins from here. Pick domestic vs. international and book."
+    },
+    {
+      "tag": "Overdue · Household",
+      "title": "Term-life quotes for Mike",
+      "detail": "The p2 task to get three term-life quotes has sat overdue since Sept 25. It's still missing a target coverage amount and term length before it can move."
     }
   ],
   "schedule": [
     {
-      "time": "4:20 PM",
-      "title": "Flight to Toronto",
-      "detail": "Porter PD526, Tampa to Toronto, landing ~7:15 PM.",
-      "tag": "travel"
+      "time": "Evening",
+      "title": "ICGN Board Dinner",
+      "detail": "Lee Restaurant, Toronto — the night before the conference",
+      "tag": "dinner"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "Amex flagged account changes",
-        "detail": "American Express sent an \"important account changes\" notice — worth a quick look when you have a minute."
-      },
-      {
-        "tag": "Job search",
-        "title": "Public-affairs VP alert",
-        "detail": "LinkedIn surfaced a VP, Global Government Affairs & Strategic Policy role at KLA."
-      },
-      {
         "tag": "Financial",
-        "title": "Deloitte tax enrollment open",
-        "detail": "Deloitte's annual tax-services enrollment window is open."
+        "title": "AppleCare One plan canceled",
+        "detail": "Apple emailed that your AppleCare One Individual plan has been canceled — worth a glance to confirm it was intentional and not a lapsed payment."
       }
     ],
-    "noise": "The rest is Airbnb trip prompts for Toronto and retail promos.",
-    "clear": ""
+    "noise": "The rest is newsletters and promos — Bloomberg, Revolut, Venissa, Paris, a couple of LinkedIn digests.",
+    "clear": "Nothing's sitting in the inbox awaiting your reply."
   },
-  "resolved": [
-    {
-      "title": "Panel questions are locked",
-      "detail": "You signed off on Jen's reshaped moderator flow for Plenary 7, and Flo confirmed Rachit's commercial angle is now worked in."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Toronto",
     "confidence": "high",
-    "asOf": "Monday Nov 2"
+    "asOf": "Tuesday Nov 3"
   },
   "recipe": {
     "title": "Mushroom Ragoût",
@@ -64,41 +54,35 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sept 25",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Household",
+      "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sept 30",
-      "overdue": true
-    },
-    {
-      "title": "Look up chilis to buy and ship for cooking",
+      "title": "Buy and ship chilis for cooking",
       "project": "Personal",
-      "due": "Today",
-      "overdue": false
+      "due": "Overdue Nov 2",
+      "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/3",
+    "morning": "0/9",
     "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet start in St. Petersburg before the afternoon flight north."
+      "line": "Toronto's morning is open — nothing on the calendar before the evening."
     },
     {
-      "time": "4:20 – 7:15 PM",
-      "line": "Porter PD526 carries you from Tampa up to Toronto for the week."
+      "time": "Afternoon",
+      "line": "Still clear, which leaves room to line up talking points for tomorrow's conference."
     },
     {
-      "time": "Evening onward",
-      "line": "Settling into the Richmond Street loft, with tomorrow's ICGN board dinner next on the docket."
+      "time": "Evening",
+      "line": "The ICGN board dinner at Lee Restaurant is the day's one anchor."
     }
   ],
   "japanese": {
