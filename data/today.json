@@ -1,43 +1,43 @@
 {
   "date": "Tuesday, November 3, 2026",
-  "generatedAt": "Morning brief · 6:07 AM ET",
-  "theme": "An open day in Toronto, closing on a governance dinner.",
-  "greeting": "The day in Toronto is wide open until the ICGN board dinner tonight, Dan, with the conference to follow tomorrow. The girls are with Jen this stretch, so the hours are entirely yours.",
+  "generatedAt": "Morning brief · 6:09 AM ET",
+  "theme": "A clear day in Toronto, dinner before the conference",
+  "greeting": "The day is yours until tonight, Dan — Toronto is quiet before the ICGN board dinner, and the conference proper opens tomorrow.",
   "needsAttention": [
     {
-      "tag": "Tonight · networking",
-      "title": "The ICGN dinner is tomorrow's warm-up",
-      "detail": "Dinner at Lee Restaurant tonight, the evening before the ICGN conference — a room full of governance people the night before the main event. Worth arriving with a few names to seek out, given the board-seat search."
+      "tag": "Prep · tomorrow",
+      "title": "ICGN conference opens tomorrow",
+      "detail": "Tonight's board dinner at Lee is the warm-up; the conference runs tomorrow in Toronto. Worth skimming the agenda and arriving with your two or three points to raise."
     },
     {
-      "tag": "Overdue · Travel",
-      "title": "December break still undecided",
-      "detail": "The 'shortlist 3 destinations' task is overdue from Sept 30 and the Oct 15 booking target has passed. Six people, three weeks, over the holidays — inventory only thins from here. Pick domestic vs. international and book."
+      "tag": "Decision overdue",
+      "title": "Lock the December break destination",
+      "detail": "The Dec 13–Jan 2 trip for all four kids is well past its Sept 30 decide-by and Oct 15 book-by, and holiday inventory for six only thins from here. Pick domestic vs. international and commit."
     },
     {
-      "tag": "Overdue · Household",
-      "title": "Term-life quotes for Mike",
-      "detail": "The p2 task to get three term-life quotes has sat overdue since Sept 25. It's still missing a target coverage amount and term length before it can move."
+      "tag": "Overdue · p2",
+      "title": "Three term life quotes for Mike",
+      "detail": "Open since Sept 25 (p2). You shop the quotes, Mike handles the application and exam — it needs a target coverage amount and term length to move."
     }
   ],
   "schedule": [
     {
       "time": "Evening",
       "title": "ICGN Board Dinner",
-      "detail": "Lee Restaurant, Toronto — the night before the conference",
+      "detail": "Lee Restaurant — the night before the conference",
       "tag": "dinner"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "AppleCare One plan canceled",
-        "detail": "Apple emailed that your AppleCare One Individual plan has been canceled — worth a glance to confirm it was intentional and not a lapsed payment."
+        "tag": "Security",
+        "title": "AppleCare plan canceled",
+        "detail": "Apple says your AppleCare One Individual plan was canceled — worth a glance if that wasn't you."
       }
     ],
-    "noise": "The rest is newsletters and promos — Bloomberg, Revolut, Venissa, Paris, a couple of LinkedIn digests.",
-    "clear": "Nothing's sitting in the inbox awaiting your reply."
+    "noise": "The rest is newsletters and promos — WSJ, Bloomberg, Paris and Venice travel, America's Test Kitchen.",
+    "clear": "No one is waiting on a reply."
   },
   "resolved": [],
   "context": {
@@ -60,8 +60,8 @@
       "overdue": true
     },
     {
-      "title": "Buy and ship chilis for cooking",
-      "project": "Personal",
+      "title": "Look up and ship chilis for cooking",
+      "project": "Morning Routine",
       "due": "Overdue Nov 2",
       "overdue": true
     }
@@ -74,15 +74,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Toronto's morning is open — nothing on the calendar before the evening."
+      "line": "A rare clear stretch in Toronto, with nothing on the calendar before the conference days begin."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear, which leaves room to line up talking points for tomorrow's conference."
+      "line": "Still open — good hours for the December-break call or to prep for tomorrow."
     },
     {
       "time": "Evening",
-      "line": "The ICGN board dinner at Lee Restaurant is the day's one anchor."
+      "line": "The day's one fixed point lands after dark; everything before it is yours to spend."
     }
   ],
   "japanese": {
