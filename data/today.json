@@ -1,66 +1,72 @@
 {
   "date": "Tuesday, November 3, 2026",
   "generatedAt": "Morning brief · 7:05 AM ET",
-  "theme": "A clear day in Toronto, dinner before the conference",
-  "greeting": "The day is yours until tonight, Dan — Toronto is quiet before the ICGN board dinner, and the conference proper opens tomorrow.",
+  "theme": "An open day in Toronto before the ICGN conference.",
+  "greeting": "The day is open in Toronto, Dan — a dinner tonight, then the conference begins. Girls are with Jen this week.",
   "needsAttention": [
     {
-      "tag": "Prep · tomorrow",
-      "title": "ICGN conference opens tomorrow",
-      "detail": "Tonight's board dinner at Lee is the warm-up; the conference runs tomorrow in Toronto. Worth skimming the agenda and arriving with your two or three points to raise."
+      "tag": "Panel prep",
+      "title": "Shape your Plenary 7 questions",
+      "detail": "You moderate Plenary 7 on evolving stewardship data Thursday at 3:05; the conference opens tomorrow. The ICGN run-of-show lists your panel — Rachit Gupta, Jane Ambachtsheer and Andy Howard — so an open day now is the time to arrive with your framing and opening questions."
     },
     {
-      "tag": "Decision overdue",
-      "title": "Lock the December break destination",
-      "detail": "The Dec 13–Jan 2 trip for all four kids is well past its Sept 30 decide-by and Oct 15 book-by, and holiday inventory for six only thins from here. Pick domestic vs. international and commit."
-    },
-    {
-      "tag": "Overdue · p2",
-      "title": "Three term life quotes for Mike",
-      "detail": "Open since Sept 25 (p2). You shop the quotes, Mike handles the application and exam — it needs a target coverage amount and term length to move."
+      "tag": "Overdue · travel",
+      "title": "The December trip is past its booking window",
+      "detail": "On the Mike + Dan board, shortlisting the December-break destination for all four kids (Dec 13 – Jan 2) was due Sept 30 with an Oct 15 booking target — both now passed, and holiday inventory for six only thins from here."
     }
   ],
   "schedule": [
     {
       "time": "Evening",
       "title": "ICGN Board Dinner",
-      "detail": "Lee Restaurant — the night before the conference",
-      "tag": "dinner"
+      "detail": "Lee Restaurant — the night before the Autumn Conference opens.",
+      "tag": "Dinner"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Security",
-        "title": "AppleCare plan canceled",
-        "detail": "Apple says your AppleCare One Individual plan was canceled — worth a glance if that wasn't you."
+        "title": "SimplyWise was granted account access",
+        "detail": "A Google alert on Nov 2 says the app SimplyWise was granted access to your konigsburg@gmail.com account. Verify it was you, or revoke it."
+      },
+      {
+        "tag": "Financial",
+        "title": "Amex Pay Over Time change",
+        "detail": "Your Amex (ending 3003) switches Pay Over Time to active on Feb 1, 2027. Review your AutoPay setting to avoid interest — not urgent."
       }
     ],
-    "noise": "The rest is newsletters and promos — WSJ, Bloomberg, Paris and Venice travel, America's Test Kitchen.",
-    "clear": "No one is waiting on a reply."
+    "noise": "The rest is newsletters, receipts and promos — WSJ, NYT Cooking, Responsible Investor, a Maine milkman invoice, eBay/PayPal order confirmations.",
+    "clear": "No new mail awaiting your reply, and no job-search or health items."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Toronto",
+    "location": "Toronto, Canada",
     "confidence": "high",
     "asOf": "Tuesday Nov 3"
   },
   "recipe": {
     "title": "Mushroom Ragoût",
     "book": "How to Eat",
-    "why": "Deep autumn calls for something slow and earthy — mushrooms are at their peak now, and a ragoût rewards an unhurried evening."
+    "why": "Autumn's mushrooms are at their peak right now — a slow, earthy ragoût to come home to at your own stove after Toronto."
   },
   "tasks": [
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Household",
-      "due": "Overdue Sep 30",
+      "title": "Get three term-life quotes for Mike",
+      "project": "Mike + Dan board",
+      "due": "Overdue Sept 25 (p2)",
       "overdue": true
     },
     {
-      "title": "Look up and ship chilis for cooking",
+      "title": "Order the Portland bedframe and soap holder",
+      "project": "Mike + Dan board",
+      "due": "Overdue Sept 30",
+      "overdue": true
+    },
+    {
+      "title": "Source and ship cooking chilis",
       "project": "Morning Routine",
       "due": "Overdue Nov 2",
       "overdue": true
