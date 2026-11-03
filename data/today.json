@@ -1,48 +1,54 @@
 {
   "date": "Tuesday, November 3, 2026",
   "generatedAt": "Morning brief · 11:06 AM ET",
-  "theme": "Toronto, wide open, pointed at tonight.",
-  "greeting": "Morning, Dan. You're in Toronto with the day mostly open ahead of the ICGN board dinner tonight — a good room to be in while the board search is live.",
+  "theme": "Toronto for ICGN — and it's Mike's birthday.",
+  "greeting": "You're in Toronto for the ICGN gathering, and it's Mike's birthday today. The daytime is open; the evening has the board dinner at Lee.",
   "needsAttention": [
     {
-      "tag": "Tonight · ICGN",
-      "title": "A governance room worth working tonight",
-      "detail": "The ICGN board dinner at Lee Restaurant is on your calendar this evening, the night before the conference — prime networking while you're pursuing board seats. Worth arriving with a crisp line on what you're looking for."
+      "tag": "Today",
+      "title": "Mike's birthday",
+      "detail": "It's on the calendar for today. A conference day is easy to disappear into — this one's worth a moment that's his."
     },
     {
-      "tag": "Decision overdue",
-      "title": "December break still has no destination",
-      "detail": "The Dec 13–Jan 2 trip with all four kids on the Mike + Dan board was flagged to decide by Sept 30 and book by Oct 15 — both are past. Holiday inventory for six only thins from here."
+      "tag": "Dec travel",
+      "title": "December break is still unbooked",
+      "detail": "The trip for all four kids (Dec 13–Jan 2) hasn't been decided or booked, and the planned booking window has already passed. Holiday inventory for six thins fast."
     }
   ],
   "schedule": [
     {
+      "time": "Today",
+      "title": "Mike's birthday",
+      "detail": "On your calendar",
+      "tag": "Personal"
+    },
+    {
       "time": "Evening",
       "title": "ICGN Board Dinner",
-      "detail": "Lee Restaurant, 497 Richmond St W, Toronto — the night before the conference",
-      "tag": "dinner"
+      "detail": "Lee Restaurant, Toronto — the night before the conference",
+      "tag": "ICGN"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "Google account security alerts",
-        "detail": "Two recent sign-in alerts for your Gmail this week — worth a quick look to confirm they were you."
-      },
-      {
         "tag": "Financial",
-        "title": "New Experian credit-file alerts",
-        "detail": "Experian flagged new activity on your credit file; Morgan Stanley and Revolut statements also posted."
+        "title": "Amex: important account changes",
+        "detail": "American Express sent an account-changes notice to your konigsburg address — worth opening."
       },
       {
         "tag": "Job search",
-        "title": "A LinkedIn note and roles in your lane",
-        "detail": "Claudia messaged you on LinkedIn, and alerts surfaced govt-affairs / policy roles (KLA, Ford Foundation)."
+        "title": "LinkedIn message from Ton",
+        "detail": "A direct message came in on LinkedIn; networking thread worth a look."
+      },
+      {
+        "tag": "FYI",
+        "title": "Deloitte tax enrollment is open",
+        "detail": "US tax services enrollment window has opened."
       }
     ],
-    "noise": "~15 receipts, statements, and promos — Delta miles, SoFi, Harry & David, routine brokerage statements.",
-    "clear": "Only two genuinely unread threads — a light morning for mail."
+    "noise": "The rest is newsletters and promotions — Folio Society and the usual.",
+    "clear": "Nothing in the inbox is waiting on your reply this morning."
   },
   "resolved": [],
   "context": {
@@ -59,20 +65,20 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Mike + Dan board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan board",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Source and ship chilis for cooking",
-      "project": "Personal",
+      "title": "Order chilis for cooking",
+      "project": "Inbox",
       "due": "Overdue Nov 2",
       "overdue": true
     }
@@ -85,15 +91,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "An unscheduled morning in Toronto — the conference weekend hasn't started yet."
+      "line": "A birthday morning with Mike in Toronto before the conference crowd gathers."
     },
     {
       "time": "Afternoon",
-      "line": "Open straight through; nothing is asking for you until the evening."
+      "line": "The daytime is open in a new city — yours to spend before the evening fills."
     },
     {
       "time": "Evening",
-      "line": "The day closes on a single engagement downtown, then it's yours again."
+      "line": "The ICGN board dinner at Lee, the table set the night before the conference opens."
     }
   ],
   "japanese": {
