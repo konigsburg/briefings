@@ -1,37 +1,48 @@
 {
   "date": "Tuesday, November 3, 2026",
   "generatedAt": "Morning brief · 5:06 PM ET",
-  "theme": "Open day in Toronto, board dinner tonight.",
-  "greeting": "You're in Toronto with an open day before tomorrow's ICGN conference, and the board dinner at Lee is tonight. It's also Mike's birthday.",
+  "theme": "Toronto for ICGN, and Mike's birthday",
+  "greeting": "You're in Toronto for ICGN, Dan — the board dinner at Lee anchors tonight and the conference follows tomorrow. It's also Mike's birthday, so find a moment for him between the sessions.",
   "needsAttention": [
     {
       "tag": "Today",
       "title": "Mike's birthday",
-      "detail": "It's Mike's birthday and you're away in Toronto — a call or something sent ahead carries further than a late text."
+      "detail": "It's Mike's birthday today — easy to let slip while you're traveling, so carve out a call or a note before the dinner takes over the evening."
     },
     {
-      "tag": "Overdue · Travel",
-      "title": "December break still unbooked",
-      "detail": "The p2 shortlist was due Sept 30 with a book-by of Oct 15; holiday inventory for six over three weeks only thins from here. Pick domestic-or-international and book."
+      "tag": "Overdue p2",
+      "title": "December break still undecided",
+      "detail": "The all-kids Dec 13 to Jan 2 trip was due to be shortlisted Sep 30 and booked by Oct 15 — both dates have passed, and holiday inventory for six only thins further. Decide domestic-vs-international and lock it."
     },
     {
-      "tag": "Prep · Tomorrow",
-      "title": "ICGN conference tomorrow",
-      "detail": "Tonight's dinner sits the night before the ICGN sessions — worth arriving at Lee already knowing who's at the table and what's on the agenda."
+      "tag": "Overdue p2",
+      "title": "Term life quotes for Mike",
+      "detail": "Your task to shop three term life quotes for Mike has been open since late September. Still needs a target coverage amount and term length before you can pull quotes."
     }
   ],
   "schedule": [
     {
       "time": "Evening",
       "title": "ICGN Board Dinner",
-      "detail": "Lee Restaurant, Toronto — the night before the conference",
+      "detail": "Lee Restaurant, 497 Richmond St W — the night before the conference",
       "tag": "dinner"
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "Three newsletters and an Audible account notice — nothing that needs you.",
-    "clear": "Inbox is quiet; nothing's waiting on a reply."
+    "flagged": [
+      {
+        "tag": "Job search",
+        "title": "LinkedIn message from Paul",
+        "detail": "A new LinkedIn message is waiting — worth a glance in case it's a networking or recruiter thread."
+      },
+      {
+        "tag": "Job search",
+        "title": "Partner role alert, Rice Cohen",
+        "detail": "A LinkedIn job alert for a Partner search; scan it quickly for board or advisory fit."
+      }
+    ],
+    "noise": "The rest is newsletters and promos — Epoch Times, St. Pete top 10, Expedia, Teddy Stratford.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -48,13 +59,7 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + shower soap holder",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
@@ -74,15 +79,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet start in Toronto — nothing on the calendar until the evening."
+      "line": "The Toronto day is open until evening — a clean window to prep for tomorrow's ICGN sessions."
     },
     {
       "time": "Afternoon",
-      "line": "Open hours, the kind the overdue December-trip decision could finally land in."
+      "line": "Still yours, with no meetings on the books before the dinner."
     },
     {
       "time": "Evening",
-      "line": "The ICGN board dinner at Lee anchors the night, the night before the conference."
+      "line": "The ICGN board dinner at Lee is the one fixed point, setting up the conference tomorrow."
     }
   ],
   "japanese": {
