@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-11-03",
+    "kind": "Morning brief",
+    "label": "Tuesday, Nov 3 · 5:07 AM ET",
+    "summary": "Open day in Toronto before tonight's ICGN board dinner; conference tomorrow, girls with Jen.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-11-02",
     "kind": "Morning brief",
     "label": "Monday, Nov 2 · 9:10 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Monday, Oct 5 · 10:17 PM ET",
     "summary": "A travel day from Tampa to Portland into the Maine off-week, with the Christmas SUV, the Pathfinder drive window, and the December trip all needing a decision this week.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-10-04",
-    "kind": "Morning brief",
-    "label": "Sunday, Oct 4 · 10:18 PM ET",
-    "summary": "A quiet Sunday with just the morning review; the evening turns to tomorrow's Portland flight, a warm board-recruiter lead, and two trip decisions still open.",
     "ref": "today"
   }
 ]
