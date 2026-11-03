@@ -1,54 +1,38 @@
 {
   "date": "Tuesday, November 3, 2026",
-  "generatedAt": "Morning brief · 1:06 PM ET",
-  "theme": "Toronto for ICGN — and it's Mike's birthday.",
-  "greeting": "You're in Toronto for the ICGN gathering, and it's Mike's birthday today. The daytime is open; the evening has the board dinner at Lee.",
+  "generatedAt": "Morning brief · 1:09 PM ET",
+  "theme": "Governance eve in Toronto.",
+  "greeting": "You're in Toronto for the ICGN conference, Dan, with the board dinner tonight at Lee. The day itself is open — and it happens to be Mike's birthday.",
   "needsAttention": [
     {
-      "tag": "Today",
-      "title": "Mike's birthday",
-      "detail": "It's on the calendar for today. A conference day is easy to disappear into — this one's worth a moment that's his."
+      "tag": "Travel · overdue",
+      "title": "December break still unpicked",
+      "detail": "The holiday trip for all four kids (Dec 13–Jan 2) was meant to be decided Sept 30 and booked Oct 15 — both windows have passed, and six-person holiday inventory only gets thinner. Pick domestic vs. international and lock a shortlist."
     },
     {
-      "tag": "Dec travel",
-      "title": "December break is still unbooked",
-      "detail": "The trip for all four kids (Dec 13–Jan 2) hasn't been decided or booked, and the planned booking window has already passed. Holiday inventory for six thins fast."
+      "tag": "Household · overdue",
+      "title": "Term life quotes for Mike",
+      "detail": "Three term-life quotes for Mike have waited since Sept 25. Still blocked on the one input only you can set: target coverage amount and term length."
     }
   ],
   "schedule": [
     {
       "time": "Today",
-      "title": "Mike's birthday",
-      "detail": "On your calendar",
-      "tag": "Personal"
+      "title": "Mike's Birthday",
+      "detail": "It's Mike's birthday",
+      "tag": "personal"
     },
     {
       "time": "Evening",
       "title": "ICGN Board Dinner",
-      "detail": "Lee Restaurant, Toronto — the night before the conference",
-      "tag": "ICGN"
+      "detail": "Lee Restaurant — eve of the conference",
+      "tag": "dinner"
     }
   ],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "Financial",
-        "title": "Amex: important account changes",
-        "detail": "American Express sent an account-changes notice to your konigsburg address — worth opening."
-      },
-      {
-        "tag": "Job search",
-        "title": "LinkedIn message from Ton",
-        "detail": "A direct message came in on LinkedIn; networking thread worth a look."
-      },
-      {
-        "tag": "FYI",
-        "title": "Deloitte tax enrollment is open",
-        "detail": "US tax services enrollment window has opened."
-      }
-    ],
-    "noise": "The rest is newsletters and promotions — Folio Society and the usual.",
-    "clear": "Nothing in the inbox is waiting on your reply this morning."
+    "flagged": [],
+    "noise": "",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -65,20 +49,14 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Order chilis for cooking",
-      "project": "Inbox",
+      "title": "Buy and ship chilis for cooking",
+      "project": "Morning Routine",
       "due": "Overdue Nov 2",
       "overdue": true
     }
@@ -91,15 +69,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A birthday morning with Mike in Toronto before the conference crowd gathers."
+      "line": "It's Mike's birthday — worth a word before the conference week takes over."
     },
     {
       "time": "Afternoon",
-      "line": "The daytime is open in a new city — yours to spend before the evening fills."
+      "line": "An open stretch in Toronto before the governance crowd gathers this evening."
     },
     {
       "time": "Evening",
-      "line": "The ICGN board dinner at Lee, the table set the night before the conference opens."
+      "line": "The ICGN board dinner at Lee Restaurant, the night before the conference opens."
     }
   ],
   "japanese": {
