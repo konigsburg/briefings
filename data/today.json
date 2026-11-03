@@ -1,49 +1,54 @@
 {
   "date": "Tuesday, November 3, 2026",
   "generatedAt": "Morning brief · 9:07 AM ET",
-  "theme": "An open day in Toronto before the ICGN conference.",
-  "greeting": "The day is open in Toronto, Dan — a dinner tonight, then the conference begins. Girls are with Jen this week.",
+  "theme": "Toronto, wide open, pointed at tonight.",
+  "greeting": "Morning, Dan. You're in Toronto with the day mostly open ahead of the ICGN board dinner tonight — a good room to be in while the board search is live.",
   "needsAttention": [
     {
-      "tag": "Panel prep",
-      "title": "Shape your Plenary 7 questions",
-      "detail": "You moderate Plenary 7 on evolving stewardship data Thursday at 3:05; the conference opens tomorrow. The ICGN run-of-show lists your panel — Rachit Gupta, Jane Ambachtsheer and Andy Howard — so an open day now is the time to arrive with your framing and opening questions."
+      "tag": "Tonight · ICGN",
+      "title": "A governance room worth working tonight",
+      "detail": "The ICGN board dinner at Lee Restaurant is on your calendar this evening, the night before the conference — prime networking while you're pursuing board seats. Worth arriving with a crisp line on what you're looking for."
     },
     {
-      "tag": "Overdue · travel",
-      "title": "The December trip is past its booking window",
-      "detail": "On the Mike + Dan board, shortlisting the December-break destination for all four kids (Dec 13 – Jan 2) was due Sept 30 with an Oct 15 booking target — both now passed, and holiday inventory for six only thins from here."
+      "tag": "Decision overdue",
+      "title": "December break still has no destination",
+      "detail": "The Dec 13–Jan 2 trip with all four kids on the Mike + Dan board was flagged to decide by Sept 30 and book by Oct 15 — both are past. Holiday inventory for six only thins from here."
     }
   ],
   "schedule": [
     {
       "time": "Evening",
       "title": "ICGN Board Dinner",
-      "detail": "Lee Restaurant — the night before the Autumn Conference opens.",
-      "tag": "Dinner"
+      "detail": "Lee Restaurant, 497 Richmond St W, Toronto — the night before the conference",
+      "tag": "dinner"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Security",
-        "title": "SimplyWise was granted account access",
-        "detail": "A Google alert on Nov 2 says the app SimplyWise was granted access to your konigsburg@gmail.com account. Verify it was you, or revoke it."
+        "title": "Google account security alerts",
+        "detail": "Two recent sign-in alerts for your Gmail this week — worth a quick look to confirm they were you."
       },
       {
         "tag": "Financial",
-        "title": "Amex Pay Over Time change",
-        "detail": "Your Amex (ending 3003) switches Pay Over Time to active on Feb 1, 2027. Review your AutoPay setting to avoid interest — not urgent."
+        "title": "New Experian credit-file alerts",
+        "detail": "Experian flagged new activity on your credit file; Morgan Stanley and Revolut statements also posted."
+      },
+      {
+        "tag": "Job search",
+        "title": "A LinkedIn note and roles in your lane",
+        "detail": "Claudia messaged you on LinkedIn, and alerts surfaced govt-affairs / policy roles (KLA, Ford Foundation)."
       }
     ],
-    "noise": "The rest is newsletters, receipts and promos — WSJ, NYT Cooking, Responsible Investor, a Maine milkman invoice, eBay/PayPal order confirmations.",
-    "clear": "No new mail awaiting your reply, and no job-search or health items."
+    "noise": "~15 receipts, statements, and promos — Delta miles, SoFi, Harry & David, routine brokerage statements.",
+    "clear": "Only two genuinely unread threads — a light morning for mail."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Toronto, Canada",
+    "location": "Toronto",
     "confidence": "high",
     "asOf": "Tuesday Nov 3"
   },
@@ -54,41 +59,41 @@
   },
   "tasks": [
     {
-      "title": "Get three term-life quotes for Mike",
+      "title": "Get 3 term-life quotes for Mike",
       "project": "Mike + Dan board",
-      "due": "Overdue Sept 25 (p2)",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Order the Portland bedframe and soap holder",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Mike + Dan board",
-      "due": "Overdue Sept 30",
+      "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Source and ship cooking chilis",
-      "project": "Morning Routine",
+      "title": "Source and ship chilis for cooking",
+      "project": "Personal",
       "due": "Overdue Nov 2",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/4",
     "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A rare clear stretch in Toronto, with nothing on the calendar before the conference days begin."
+      "line": "An unscheduled morning in Toronto — the conference weekend hasn't started yet."
     },
     {
       "time": "Afternoon",
-      "line": "Still open — good hours for the December-break call or to prep for tomorrow."
+      "line": "Open straight through; nothing is asking for you until the evening."
     },
     {
       "time": "Evening",
-      "line": "The day's one fixed point lands after dark; everything before it is yours to spend."
+      "line": "The day closes on a single engagement downtown, then it's yours again."
     }
   ],
   "japanese": {
