@@ -1,30 +1,31 @@
 {
   "date": "Tuesday, November 3, 2026",
-  "generatedAt": "Morning brief · 7:06 PM ET",
-  "theme": "Toronto for ICGN, and Mike's birthday",
-  "greeting": "You're in Toronto for ICGN, Dan — the board dinner at Lee anchors tonight and the conference follows tomorrow. It's also Mike's birthday, so find a moment for him between the sessions.",
+  "generatedAt": "Morning brief · 7:10 PM ET",
+  "theme": "Toronto, on the eve of ICGN.",
+  "greeting": "You're in Toronto for ICGN, Dan — tonight's board dinner, then your panel tomorrow. Today itself stays open, and it's Mike's birthday.",
   "needsAttention": [
     {
-      "tag": "Today",
-      "title": "Mike's birthday",
-      "detail": "It's Mike's birthday today — easy to let slip while you're traveling, so carve out a call or a note before the dinner takes over the evening."
+      "tag": "Prep for tomorrow",
+      "title": "ICGN panel in the morning",
+      "detail": "You speak at the ICGN conference tomorrow in Toronto, and your panel materials are already printed and waiting at the UPS store. Tonight is the window to run your talking points before the room fills."
     },
     {
-      "tag": "Overdue p2",
-      "title": "December break still undecided",
-      "detail": "The all-kids Dec 13 to Jan 2 trip was due to be shortlisted Sep 30 and booked by Oct 15 — both dates have passed, and holiday inventory for six only thins further. Decide domestic-vs-international and lock it."
-    },
-    {
-      "tag": "Overdue p2",
-      "title": "Term life quotes for Mike",
-      "detail": "Your task to shop three term life quotes for Mike has been open since late September. Still needs a target coverage amount and term length before you can pull quotes."
+      "tag": "Decision overdue",
+      "title": "December break still unbooked",
+      "detail": "The all-kids Dec 13–Jan 2 trip was meant to be decided by Sept 30 and booked by Oct 15. Holiday inventory for six only thins from here — pick domestic vs. international and lock a shortlist."
     }
   ],
   "schedule": [
     {
+      "time": "All day",
+      "title": "Mike's birthday",
+      "detail": "Celebrating Mike today",
+      "tag": "personal"
+    },
+    {
       "time": "Evening",
       "title": "ICGN Board Dinner",
-      "detail": "Lee Restaurant, 497 Richmond St W — the night before the conference",
+      "detail": "Lee Restaurant, Toronto — the night before the conference",
       "tag": "dinner"
     }
   ],
@@ -32,17 +33,17 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "LinkedIn message from Paul",
-        "detail": "A new LinkedIn message is waiting — worth a glance in case it's a networking or recruiter thread."
+        "title": "Ford Foundation director role",
+        "detail": "A LinkedIn alert flags Program Director, Democracy & Rule of Law — applications close Dec 4, and it fits your governance and public-affairs background."
       },
       {
-        "tag": "Job search",
-        "title": "Partner role alert, Rice Cohen",
-        "detail": "A LinkedIn job alert for a Partner search; scan it quickly for board or advisory fit."
+        "tag": "FYI",
+        "title": "ICGN connection request",
+        "detail": "Mathias Ijeh from ICGN sent a LinkedIn invite — worth accepting before you're in the room tomorrow."
       }
     ],
-    "noise": "The rest is newsletters and promos — Epoch Times, St. Pete top 10, Expedia, Teddy Stratford.",
-    "clear": ""
+    "noise": "Everything else is LinkedIn job alerts, local newsletters, and a loan promo.",
+    "clear": "Nothing in your inbox is waiting on a reply."
   },
   "resolved": [],
   "context": {
@@ -59,9 +60,15 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Household",
-      "due": "Overdue Sep 30",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sept 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
@@ -79,15 +86,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The Toronto day is open until evening — a clean window to prep for tomorrow's ICGN sessions."
+      "line": "A quiet morning in Toronto, and it's Mike's birthday before the governance crowd gathers."
     },
     {
       "time": "Afternoon",
-      "line": "Still yours, with no meetings on the books before the dinner."
+      "line": "The afternoon stays open; your panel materials are printed and waiting at the UPS store."
     },
     {
       "time": "Evening",
-      "line": "The ICGN board dinner at Lee is the one fixed point, setting up the conference tomorrow."
+      "line": "The ICGN board dinner at Lee Restaurant closes the day, the night before you take the stage."
     }
   ],
   "japanese": {
