@@ -1,44 +1,50 @@
 {
   "date": "Wednesday, November 4, 2026",
   "generatedAt": "Morning brief · 6:06 AM ET",
-  "theme": "An open day in Toronto before tomorrow's travel.",
-  "greeting": "Good morning, Dan. You're in Toronto with the ICGN meetings behind you and nothing on the calendar today — the day is yours before tomorrow's early call and evening flight to Boston.",
+  "theme": "ICGN in Toronto — a governance day away from home.",
+  "greeting": "You're in Toronto for the ICGN Autumn Conference, Dan — day one of two, and you're on the speaker list. The kids are with Jen this stretch, so the focus is the room today and your flight to Boston tomorrow night.",
   "needsAttention": [
     {
-      "tag": "Travel · overdue",
-      "title": "The December trip is still unbooked",
-      "detail": "Your 'shortlist 3 destinations' task is past both its Sept 30 decide-by and Oct 15 book-by. All four kids, Dec 13–Jan 2, six people over the holidays — the thinnest inventory of the year, thinning every day you wait."
+      "tag": "Valoris proposal",
+      "title": "Steindl sent proposal comments and a draft NDA",
+      "detail": "Martin Steindl returned comments on your Valoris proposal plus a draft confidentiality and non-compete agreement to review, with Mike and Davit copied. It landed early this morning and nothing's gone back yet."
     },
     {
-      "tag": "Tomorrow · travel",
-      "title": "Early call, then wheels up to Boston",
-      "detail": "Tomorrow opens with the 7 AM ET Valoris/FinCity call (you're still tentative) and closes with an 8 PM flight out of Toronto. Settle the RSVP and pack tonight."
+      "tag": "Early call tomorrow",
+      "title": "7 AM Valoris<>IMC/FinCity Zoom",
+      "detail": "You're still marked tentative on tomorrow's 7:00 AM call with the FinCity/IMC research team. Worth confirming or declining tonight so it doesn't collide with your conference morning."
+    },
+    {
+      "tag": "Decision slipping",
+      "title": "December break is still undecided",
+      "detail": "The Dec 13–Jan 2 trip for all four kids has been open since its Sept 30 decide-by and Oct 15 book-by — holiday inventory for six is at its thinnest now. Pick domestic vs. international and lock it."
+    },
+    {
+      "tag": "Overdue · p2",
+      "title": "Three term-life quotes for Mike",
+      "detail": "Open since Sept 25 in Household — it needs a target coverage amount and term length before you can shop. This is the four-kids-no-coverage gap it closes."
     }
   ],
-  "schedule": [],
+  "schedule": [
+    {
+      "time": "All day",
+      "title": "ICGN Autumn Conference",
+      "detail": "Day one of two · U of T, Schwartz Reisman campus",
+      "tag": "Conference"
+    }
+  ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Connection request from a Prophet partner",
-        "detail": "Paul Teuton, a Partner at Prophet, sent a LinkedIn request — worth a look given your networking push."
+        "title": "Valoris: proposal comments + draft NDA",
+        "detail": "Martin Steindl, cc Mike and Davit — two documents to review."
       }
     ],
-    "noise": "The rest is newsletters and promos — Epoch Times, WSJ Economics, St. Pete and Midcoast roundups, the Italian word of the day, and a couple of shop sales.",
-    "clear": "Nothing in the inbox needs a reply from you this morning."
+    "noise": "Otherwise just newsletters — Foreign Affairs, a Hims refill reminder, two city guides, and the Italian word of the day.",
+    "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "ICGN",
-      "title": "Toronto board dinner is set",
-      "detail": "You RSVP'd and Mathias confirmed the dinner is at 7 PM — nothing further needed from you."
-    },
-    {
-      "tag": "ICGN",
-      "title": "Panel printing handled",
-      "detail": "You sent your panel materials to the Toronto UPS Store for printing."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -53,19 +59,13 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
       "project": "Household",
-      "due": "Overdue Sep 25",
+      "due": "Overdue Sept 30",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Household",
-      "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Source and ship chilis for cooking",
+      "title": "Look up and ship chilis for cooking",
       "project": "Personal",
       "due": "Overdue Nov 2",
       "overdue": true
@@ -79,18 +79,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning in Toronto — no meetings booked, the ICGN sessions already behind you.",
-      "tag": "open"
+      "line": "ICGN sessions at the Schwartz Reisman campus — you're a listed speaker, so the day's shape is the agenda, not your own calendar."
     },
     {
       "time": "Afternoon",
-      "line": "Open hours with nothing on the calendar — the right block to finally lock the December trip.",
-      "tag": "focus"
+      "line": "More conference; the Valoris comments and draft NDA are the one work thread worth stealing a break for."
     },
     {
       "time": "Evening",
-      "line": "Your last night in Toronto before tomorrow's early call and flight to Boston.",
-      "tag": "travel"
+      "line": "Last night in the Toronto loft before tomorrow's 8 PM flight to Boston."
     }
   ],
   "japanese": {
