@@ -1,49 +1,54 @@
 {
   "date": "Tuesday, November 3, 2026",
   "generatedAt": "Morning brief · 9:06 PM ET",
-  "theme": "Toronto, on the eve of ICGN.",
-  "greeting": "You're in Toronto for ICGN, Dan — tonight's board dinner, then your panel tomorrow. Today itself stays open, and it's Mike's birthday.",
+  "theme": "Toronto for ICGN — and Mike's birthday",
+  "greeting": "You're in Toronto for ICGN, with the board dinner at Lee tonight ahead of tomorrow's conference. The girls are with Jen, and it's Mike's birthday.",
   "needsAttention": [
     {
-      "tag": "Prep for tomorrow",
-      "title": "ICGN panel in the morning",
-      "detail": "You speak at the ICGN conference tomorrow in Toronto, and your panel materials are already printed and waiting at the UPS store. Tonight is the window to run your talking points before the room fills."
+      "tag": "Window closed",
+      "title": "December break — pick a destination",
+      "detail": "On the Mike + Dan board (p2) since Sept 30. All four kids, Dec 13–Jan 2; the decide-by and book-by (Oct 15) dates have both passed, and holiday inventory for six over three weeks is the thinnest of the year."
     },
     {
-      "tag": "Decision overdue",
-      "title": "December break still unbooked",
-      "detail": "The all-kids Dec 13–Jan 2 trip was meant to be decided by Sept 30 and booked by Oct 15. Holiday inventory for six only thins from here — pick domestic vs. international and lock a shortlist."
+      "tag": "Overdue · board",
+      "title": "Three term-life quotes for Mike",
+      "detail": "On the board (p2), roughly six weeks overdue. Still blocked on the two missing inputs: target coverage amount and term length."
     }
   ],
   "schedule": [
-    {
-      "time": "All day",
-      "title": "Mike's birthday",
-      "detail": "Celebrating Mike today",
-      "tag": "personal"
-    },
     {
       "time": "Evening",
       "title": "ICGN Board Dinner",
       "detail": "Lee Restaurant, Toronto — the night before the conference",
       "tag": "dinner"
+    },
+    {
+      "time": "All day",
+      "title": "Mike's birthday",
+      "detail": "",
+      "tag": "personal"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Ford Foundation director role",
-        "detail": "A LinkedIn alert flags Program Director, Democracy & Rule of Law — applications close Dec 4, and it fits your governance and public-affairs background."
+        "tag": "Financial",
+        "title": "Amex November statement ready",
+        "detail": "Account ending 03003 — flags an important notice to review."
+      },
+      {
+        "tag": "Financial",
+        "title": "Amex AutoPay — $1,000 on Nov 9",
+        "detail": "A reminder that $1,000 posts Monday, Nov 9 (account ending 31001)."
       },
       {
         "tag": "FYI",
-        "title": "ICGN connection request",
-        "detail": "Mathias Ijeh from ICGN sent a LinkedIn invite — worth accepting before you're in the room tomorrow."
+        "title": "Nora's book request needs approval",
+        "detail": "Amazon Kids is holding a Dog Man graphic novel for your OK."
       }
     ],
-    "noise": "Everything else is LinkedIn job alerts, local newsletters, and a loan promo.",
-    "clear": "Nothing in your inbox is waiting on a reply."
+    "noise": "The rest is a sailing-cookbook presale from American Sailing.",
+    "clear": "Nothing in the inbox is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -60,19 +65,13 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sept 25",
-      "overdue": true
-    },
-    {
       "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sept 30",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Look up and ship chilis for cooking",
+      "title": "Look up chilis to buy and ship for cooking",
       "project": "Personal",
       "due": "Overdue Nov 2",
       "overdue": true
@@ -86,15 +85,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "A quiet morning in Toronto, and it's Mike's birthday before the governance crowd gathers."
+      "line": "A light morning in Toronto on the eve of the ICGN conference."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon stays open; your panel materials are printed and waiting at the UPS store."
+      "line": "Open stretch between travel and the evening's governance crowd."
     },
     {
       "time": "Evening",
-      "line": "The ICGN board dinner at Lee Restaurant closes the day, the night before you take the stage."
+      "line": "One dinner anchors the night; the rest of the evening is yours."
     }
   ],
   "japanese": {
