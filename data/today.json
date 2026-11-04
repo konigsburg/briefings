@@ -1,61 +1,38 @@
 {
   "date": "Wednesday, November 4, 2026",
   "generatedAt": "Morning brief · 5:06 PM ET",
-  "theme": "ICGN Toronto — audience today, stage tomorrow.",
-  "greeting": "You're at ICGN in Toronto, Dan — in the audience today, on the stage for stewardship tomorrow. Today's own calendar is open; tomorrow is the one with edges.",
+  "theme": "A clear day in Toronto before tomorrow's stage.",
+  "greeting": "You're at ICGN in Toronto with nothing fixed on the calendar today, Dan. That open stretch is exactly what tomorrow needs: the stewardship talk you're giving and the Valoris papers you promised Martin, both landing before the 7 AM call and the evening flight to Boston.",
   "needsAttention": [
     {
-      "tag": "Prep for tomorrow",
-      "title": "Read the Valoris draft before the 7 AM call",
-      "detail": "Martin sent his comments and a draft agreement this morning, and you replied that you'd look and come back. You meet that same Valoris/IMC/FinCity group at 7 AM ET tomorrow — worth reading before then."
+      "tag": "Prep · tomorrow",
+      "title": "Your stewardship talk at ICGN",
+      "detail": "You told Martin this morning you're speaking at ICGN tomorrow on stewardship. Today's open calendar is the window to lock the talk before tonight."
     },
     {
-      "tag": "Decision overdue",
-      "title": "December break is still unbooked",
-      "detail": "Shortlisting and booking holiday travel for all four kids over Dec 13–Jan 2 is weeks past its decide-by, and six seats over the holidays only get scarcer."
+      "tag": "Prep · Valoris",
+      "title": "Review Martin's draft agreement",
+      "detail": "Martin Steindl sent comments and a draft agreement, and you said you'd look and come back to him. The Valoris<>IMC/FinCity call is tomorrow at 7:00 AM ET, so read it today."
     },
     {
-      "tag": "Overdue · board",
-      "title": "Three term-life quotes for Mike",
-      "detail": "A p2 on the Mike + Dan board, open since late September. It needs a target coverage amount and term length to move — four kids and no coverage is the gap behind it."
+      "tag": "Window closed",
+      "title": "December break still unbooked",
+      "detail": "The decide-by (Sep 30) and book-by (Oct 15) dates have both passed on the 21-day December trip for all six. Holiday inventory only thins from here. Pick a destination and book."
     }
   ],
-  "schedule": [
-    {
-      "time": "All day",
-      "title": "ICGN, Toronto",
-      "detail": "Day two — attending today, speaking tomorrow",
-      "tag": "Conference"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Audible account merge",
-        "detail": "Audible wants your accounts merged by Jan 12 to keep listening — a real but non-urgent deadline."
+        "tag": "Job search",
+        "title": "Valoris draft agreement awaits you",
+        "detail": "Martin Steindl's proposal comments and draft agreement are open; you replied this morning that you'd come back to him, with the IMC/FinCity call tomorrow at 7."
       }
     ],
-    "noise": "Otherwise just subscription and promo notices — a Cocofloss price change from Dec 3, the usual newsletters.",
-    "clear": "Nothing unread is waiting on your reply."
+    "noise": "A LinkedIn alert for a Citi SVP banking role and the usual updates.",
+    "clear": ""
   },
-  "resolved": [
-    {
-      "tag": "Done today",
-      "title": "Replied to Martin on the Valoris proposal",
-      "detail": "Your acknowledgment went out this afternoon — comments to follow, but the thread's moving."
-    },
-    {
-      "tag": "Networking",
-      "title": "Reached out to Terence at Heidrick",
-      "detail": "Checked off today, keeping one of the recruiter threads warm."
-    },
-    {
-      "tag": "Done today",
-      "title": "Introduced Misha and Mike",
-      "detail": "Connection made and closed out this morning."
-    }
-  ],
+  "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
@@ -70,16 +47,22 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan board",
-      "due": "Overdue Sep 30",
+      "title": "Reach Mike Kelly via Priti at TD",
+      "project": "Morning Routine",
+      "due": "Today",
+      "overdue": false
+    },
+    {
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Mike Kelly via Priti at TD",
-      "project": "Morning Routine",
-      "due": "Due today",
-      "overdue": false
+      "title": "Portland house order: bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan Board",
+      "due": "Overdue Sep 30",
+      "overdue": true
     }
   ],
   "routines": {
@@ -90,15 +73,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "Day two of ICGN in Toronto — in the audience today, on the stage tomorrow."
+      "line": "At ICGN in Toronto with nothing booked, a rare open conference morning."
     },
     {
       "time": "Afternoon",
-      "line": "Nothing is pinned to the clock, so the hours are yours to shape tomorrow's stewardship talk."
+      "line": "The widest clear block of the day, before the pace picks up tomorrow."
     },
     {
       "time": "Evening",
-      "line": "A quiet night before an early Valoris call and the evening flight home to Boston tomorrow."
+      "line": "Your last night in Toronto; tomorrow brings an early call, the stage, and an 8 PM flight to Boston."
     }
   ],
   "japanese": {
