@@ -1,62 +1,50 @@
 {
   "date": "Wednesday, November 4, 2026",
-  "generatedAt": "Morning brief · 5:06 AM ET",
-  "theme": "Toronto for ICGN — and Mike's birthday",
-  "greeting": "You're in Toronto for ICGN, with the board dinner at Lee tonight ahead of tomorrow's conference. The girls are with Jen, and it's Mike's birthday.",
+  "generatedAt": "Morning brief · 5:09 AM ET",
+  "theme": "An open day in Toronto before tomorrow's travel.",
+  "greeting": "Good morning, Dan. You're in Toronto with the ICGN meetings behind you and nothing on the calendar today — the day is yours before tomorrow's early call and evening flight to Boston.",
   "needsAttention": [
     {
-      "tag": "Window closed",
-      "title": "December break — pick a destination",
-      "detail": "On the Mike + Dan board (p2) since Sept 30. All four kids, Dec 13–Jan 2; the decide-by and book-by (Oct 15) dates have both passed, and holiday inventory for six over three weeks is the thinnest of the year."
+      "tag": "Travel · overdue",
+      "title": "The December trip is still unbooked",
+      "detail": "Your 'shortlist 3 destinations' task is past both its Sept 30 decide-by and Oct 15 book-by. All four kids, Dec 13–Jan 2, six people over the holidays — the thinnest inventory of the year, thinning every day you wait."
     },
     {
-      "tag": "Overdue · board",
-      "title": "Three term-life quotes for Mike",
-      "detail": "On the board (p2), roughly six weeks overdue. Still blocked on the two missing inputs: target coverage amount and term length."
+      "tag": "Tomorrow · travel",
+      "title": "Early call, then wheels up to Boston",
+      "detail": "Tomorrow opens with the 7 AM ET Valoris/FinCity call (you're still tentative) and closes with an 8 PM flight out of Toronto. Settle the RSVP and pack tonight."
     }
   ],
-  "schedule": [
-    {
-      "time": "Evening",
-      "title": "ICGN Board Dinner",
-      "detail": "Lee Restaurant, Toronto — the night before the conference",
-      "tag": "dinner"
-    },
-    {
-      "time": "All day",
-      "title": "Mike's birthday",
-      "detail": "",
-      "tag": "personal"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Amex November statement ready",
-        "detail": "Account ending 03003 — flags an important notice to review."
-      },
-      {
-        "tag": "Financial",
-        "title": "Amex AutoPay — $1,000 on Nov 9",
-        "detail": "A reminder that $1,000 posts Monday, Nov 9 (account ending 31001)."
-      },
-      {
-        "tag": "FYI",
-        "title": "Nora's book request needs approval",
-        "detail": "Amazon Kids is holding a Dog Man graphic novel for your OK."
+        "tag": "Job search",
+        "title": "Connection request from a Prophet partner",
+        "detail": "Paul Teuton, a Partner at Prophet, sent a LinkedIn request — worth a look given your networking push."
       }
     ],
-    "noise": "The rest is a sailing-cookbook presale from American Sailing.",
-    "clear": "Nothing in the inbox is waiting on your reply."
+    "noise": "The rest is newsletters and promos — Epoch Times, WSJ Economics, St. Pete and Midcoast roundups, the Italian word of the day, and a couple of shop sales.",
+    "clear": "Nothing in the inbox needs a reply from you this morning."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "ICGN",
+      "title": "Toronto board dinner is set",
+      "detail": "You RSVP'd and Mathias confirmed the dinner is at 7 PM — nothing further needed from you."
+    },
+    {
+      "tag": "ICGN",
+      "title": "Panel printing handled",
+      "detail": "You sent your panel materials to the Toronto UPS Store for printing."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
     "location": "Toronto",
     "confidence": "high",
-    "asOf": "Tuesday Nov 3"
+    "asOf": "Wednesday Nov 4"
   },
   "recipe": {
     "title": "Lamb Shanks with Crushed Roots",
@@ -65,35 +53,44 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Look up chilis to buy and ship for cooking",
+      "title": "Source and ship chilis for cooking",
       "project": "Personal",
       "due": "Overdue Nov 2",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/4",
+    "morning": "0/9",
     "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A light morning in Toronto on the eve of the ICGN conference."
+      "line": "A clear morning in Toronto — no meetings booked, the ICGN sessions already behind you.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "Open stretch between travel and the evening's governance crowd."
+      "line": "Open hours with nothing on the calendar — the right block to finally lock the December trip.",
+      "tag": "focus"
     },
     {
       "time": "Evening",
-      "line": "One dinner anchors the night; the rest of the evening is yours."
+      "line": "Your last night in Toronto before tomorrow's early call and flight to Boston.",
+      "tag": "travel"
     }
   ],
   "japanese": {
