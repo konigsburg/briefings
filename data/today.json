@@ -1,23 +1,23 @@
 {
   "date": "Wednesday, November 4, 2026",
   "generatedAt": "Morning brief · 3:06 PM ET",
-  "theme": "A conference day in Toronto, with the stage tomorrow.",
-  "greeting": "You're in Toronto for day two of ICGN, Dan — open on the clock today, on stage tomorrow. The girls are with Jen this stretch, so tonight is clear to prep.",
+  "theme": "ICGN Toronto — audience today, stage tomorrow.",
+  "greeting": "You're at ICGN in Toronto, Dan — in the audience today, on the stage for stewardship tomorrow. Today's own calendar is open; tomorrow is the one with edges.",
   "needsAttention": [
     {
       "tag": "Prep for tomorrow",
       "title": "Read the Valoris draft before the 7 AM call",
-      "detail": "Martin sent his comments and a draft agreement, and you replied that you'd look and come back. You meet that same Valoris/IMC/FinCity group at 7 AM ET tomorrow, so it's worth reading tonight."
+      "detail": "Martin sent his comments and a draft agreement this morning, and you replied that you'd look and come back. You meet that same Valoris/IMC/FinCity group at 7 AM ET tomorrow — worth reading before then."
     },
     {
       "tag": "Decision overdue",
       "title": "December break is still unbooked",
-      "detail": "The task to shortlist and book holiday travel for all four kids over Dec 13–Jan 2 is weeks past its decide-by date. Holiday inventory for six only gets thinner from here."
+      "detail": "Shortlisting and booking holiday travel for all four kids over Dec 13–Jan 2 is weeks past its decide-by, and six seats over the holidays only get scarcer."
     },
     {
-      "tag": "Overdue · Household",
-      "title": "Term life quotes for Mike",
-      "detail": "The quotes task has sat open since late September — four kids and no coverage is the gap it's meant to close, and it won't close itself."
+      "tag": "Overdue · board",
+      "title": "Three term-life quotes for Mike",
+      "detail": "A p2 on the Mike + Dan board, open since late September. It needs a target coverage amount and term length to move — four kids and no coverage is the gap behind it."
     }
   ],
   "schedule": [
@@ -31,20 +31,31 @@
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Nora's book request",
-        "detail": "Amazon Kids is holding a graphic-novel download for your approval."
-      },
-      {
         "tag": "Financial",
         "title": "Audible account merge",
-        "detail": "Audible wants your accounts merged by Jan 12 to keep listening uninterrupted — not urgent, but a real deadline."
+        "detail": "Audible wants your accounts merged by Jan 12 to keep listening — a real but non-urgent deadline."
       }
     ],
-    "noise": "Otherwise it's newsletters and promos — Yale alumni, BaseLocal St. Pete, Lumosity, a Bonjour Fête delivery.",
-    "clear": ""
+    "noise": "Otherwise just subscription and promo notices — a Cocofloss price change from Dec 3, the usual newsletters.",
+    "clear": "Nothing unread is waiting on your reply."
   },
-  "resolved": [],
+  "resolved": [
+    {
+      "tag": "Done today",
+      "title": "Replied to Martin on the Valoris proposal",
+      "detail": "Your acknowledgment went out this afternoon — comments to follow, but the thread's moving."
+    },
+    {
+      "tag": "Networking",
+      "title": "Reached out to Terence at Heidrick",
+      "detail": "Checked off today, keeping one of the recruiter threads warm."
+    },
+    {
+      "tag": "Done today",
+      "title": "Introduced Misha and Mike",
+      "detail": "Connection made and closed out this morning."
+    }
+  ],
   "context": {
     "kids": false,
     "phase": "green",
@@ -60,9 +71,15 @@
   "tasks": [
     {
       "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Household",
+      "project": "Mike + Dan board",
       "due": "Overdue Sep 30",
       "overdue": true
+    },
+    {
+      "title": "Mike Kelly via Priti at TD",
+      "project": "Morning Routine",
+      "due": "Due today",
+      "overdue": false
     }
   ],
   "routines": {
