@@ -1,23 +1,23 @@
 {
   "date": "Wednesday, November 4, 2026",
-  "generatedAt": "Morning brief · 11:09 AM ET",
-  "theme": "An open day in Toronto",
-  "greeting": "A rare open day in Toronto, Dan — nothing on the calendar until tomorrow. Good room to clear the decisions that have been idling and get a head start on an early morning.",
+  "generatedAt": "Morning brief · 11:12 AM ET",
+  "theme": "An open day in Toronto before tomorrow's travel.",
+  "greeting": "Good morning, Dan. You're in Toronto with a clear calendar today and the girls are with Jen, so the day is yours before tomorrow's flight to Boston.",
   "needsAttention": [
     {
-      "tag": "Tomorrow prep",
-      "title": "Early call, then a flight out of Toronto",
-      "detail": "Tomorrow opens with the 7 AM Valoris Stewardship Catalysts call and closes with an 8 PM flight to Boston — set the early alarm and pack before the day gets away from you."
-    },
-    {
       "tag": "Decision overdue",
-      "title": "Lock the December-break destination",
-      "detail": "The December-break shortlist (p2) has sat since late September. Holiday inventory for six over three weeks is the thinnest of the year, so the domestic-vs-international call is well overdue."
+      "title": "December break destination",
+      "detail": "On the Mike + Dan board since Sept 30 and still open. A domestic-or-international call is what unblocks booking the Dec 13–Jan 2 trip for all four kids — inventory only gets thinner from here."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "Pull three term-life quotes for Mike",
-      "detail": "Still open from Sept 25 — four kids and no coverage is the real gap, and the shopping (quotes, term length, coverage amount) is the part that's yours."
+      "tag": "Overdue · board",
+      "title": "Term life quotes for Mike",
+      "detail": "A p2 on the Mike + Dan board, overdue since Sept 25: shop three term quotes so Mike can start the application."
+    },
+    {
+      "tag": "Tomorrow · RSVP",
+      "title": "Valoris × FinCity stewardship call",
+      "detail": "Tomorrow's Zoom with Valoris Catalysts, FinCity Tokyo and the IMC on independent fund managers; your RSVP is still tentative. Decide whether you're in and skim the research thesis beforehand."
     }
   ],
   "schedule": [],
@@ -25,16 +25,21 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "New SVP Global Public Policy alert",
-        "detail": "LinkedIn surfaced 'Senior Vice President of Global Public Policy' and similar roles — worth a scan for the search."
+        "title": "LinkedIn messages waiting",
+        "detail": "Ton van der Weegen messaged you on LinkedIn — flagged as awaiting your reply."
+      },
+      {
+        "tag": "Financial",
+        "title": "Experian monthly statement",
+        "detail": "Your monthly credit statement posted; worth a quick scan for anything unexpected."
       },
       {
         "tag": "FYI",
-        "title": "Meeting invite from Lindy Miller",
-        "detail": "A one-on-one invite for Nov 17 at 11 AM is sitting unanswered — respond when you can."
+        "title": "Substack message from Corre Larkin",
+        "detail": "A new direct message came in through Substack."
       }
     ],
-    "noise": "The rest is retail and newsletters — Black Friday previews, Thanksgiving napkins, the Italian word of the day.",
+    "noise": "The rest is newsletters and promos — Epoch Times, NYT Cooking, BaseLocal St. Pete, Amex, Italian word of the day, and a couple of shipping updates.",
     "clear": ""
   },
   "resolved": [],
@@ -43,7 +48,7 @@
     "phase": "green",
     "location": "Toronto",
     "confidence": "high",
-    "asOf": "Wednesday Nov 4"
+    "asOf": "Wed Nov 4"
   },
   "recipe": {
     "title": "Lamb Shanks with Crushed Roots",
@@ -53,37 +58,34 @@
   "tasks": [
     {
       "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Household",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Buy and ship chilis for cooking",
-      "project": "Cooking",
+      "title": "Look up and ship chilis for cooking",
+      "project": "Morning Routine",
       "due": "Overdue Nov 2",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/4",
-    "day": "0/3",
-    "evening": "0/3"
+    "morning": "7/9",
+    "day": "1/2",
+    "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing on the calendar — the Toronto morning is entirely yours.",
-      "tag": "open"
+      "line": "No meetings on the calendar — an open stretch in Toronto to spend on the board items that have been waiting."
     },
     {
       "time": "Afternoon",
-      "line": "Still wide open, a clean stretch for the December-break and term-life decisions that keep slipping.",
-      "tag": "open"
+      "line": "Still clear; the overdue December-travel call is the one decision that unlocks the most."
     },
     {
       "time": "Evening",
-      "line": "Quiet tonight, but tomorrow starts at 7 AM and ends on a flight to Boston — worth packing ahead.",
-      "tag": "travel"
+      "line": "Your last full night at the Toronto loft before tomorrow's 8 PM flight to Boston."
     }
   ],
   "japanese": {
