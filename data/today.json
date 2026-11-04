@@ -1,20 +1,41 @@
 {
   "date": "Wednesday, November 4, 2026",
   "generatedAt": "Morning brief · 9:10 AM ET",
-  "theme": "A wide-open day in Toronto, on the eve of the flight home.",
-  "greeting": "Nothing on the calendar today, Dan — a rare clear stretch in Toronto with the kids at Jen's. Tomorrow turns into a travel day, so tonight leans toward packing.",
+  "theme": "An open day in Toronto",
+  "greeting": "A rare open day in Toronto, Dan — nothing on the calendar until tomorrow. Good room to clear the decisions that have been idling and get a head start on an early morning.",
   "needsAttention": [
     {
-      "tag": "Family travel",
-      "title": "The December family trip is still unbooked",
-      "detail": "On the Mike + Dan board, the decide-by and book-by dates (Sep 30 / Oct 15) have both passed. Holiday inventory for six over three weeks thins a little more each day it waits."
+      "tag": "Tomorrow prep",
+      "title": "Early call, then a flight out of Toronto",
+      "detail": "Tomorrow opens with the 7 AM Valoris Stewardship Catalysts call and closes with an 8 PM flight to Boston — set the early alarm and pack before the day gets away from you."
+    },
+    {
+      "tag": "Decision overdue",
+      "title": "Lock the December-break destination",
+      "detail": "The December-break shortlist (p2) has sat since late September. Holiday inventory for six over three weeks is the thinnest of the year, so the domestic-vs-international call is well overdue."
+    },
+    {
+      "tag": "Overdue · p2",
+      "title": "Pull three term-life quotes for Mike",
+      "detail": "Still open from Sept 25 — four kids and no coverage is the real gap, and the shopping (quotes, term length, coverage amount) is the part that's yours."
     }
   ],
   "schedule": [],
   "inbox": {
-    "flagged": [],
-    "noise": "The rest is newsletters and shop promos — BaseLocal St. Pete, Daily Italian, and a couple of lighting and gift sales.",
-    "clear": "No urgent, security, financial, or job-search mail — and nothing awaiting your reply."
+    "flagged": [
+      {
+        "tag": "Job search",
+        "title": "New SVP Global Public Policy alert",
+        "detail": "LinkedIn surfaced 'Senior Vice President of Global Public Policy' and similar roles — worth a scan for the search."
+      },
+      {
+        "tag": "FYI",
+        "title": "Meeting invite from Lindy Miller",
+        "detail": "A one-on-one invite for Nov 17 at 11 AM is sitting unanswered — respond when you can."
+      }
+    ],
+    "noise": "The rest is retail and newsletters — Black Friday previews, Thanksgiving napkins, the Italian word of the day.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -31,41 +52,38 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Look up chilis to buy and ship for cooking",
-      "project": "Morning Routine",
+      "title": "Buy and ship chilis for cooking",
+      "project": "Cooking",
       "due": "Overdue Nov 2",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
-    "day": "0/2",
-    "evening": "0/4"
+    "morning": "0/4",
+    "day": "0/3",
+    "evening": "0/3"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "ICGN sessions at the Schwartz Reisman campus — you're a listed speaker, so the day's shape is the agenda, not your own calendar."
+      "line": "Nothing on the calendar — the Toronto morning is entirely yours.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "More conference; the Valoris comments and draft NDA are the one work thread worth stealing a break for."
+      "line": "Still wide open, a clean stretch for the December-break and term-life decisions that keep slipping.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "Last night in the Toronto loft before tomorrow's 8 PM flight to Boston."
+      "line": "Quiet tonight, but tomorrow starts at 7 AM and ends on a flight to Boston — worth packing ahead.",
+      "tag": "travel"
     }
   ],
   "japanese": {
