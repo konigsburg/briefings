@@ -1,48 +1,20 @@
 {
   "date": "Wednesday, November 4, 2026",
-  "generatedAt": "Morning brief · 7:07 AM ET",
-  "theme": "ICGN in Toronto — a governance day away from home.",
-  "greeting": "You're in Toronto for the ICGN Autumn Conference, Dan — day one of two, and you're on the speaker list. The kids are with Jen this stretch, so the focus is the room today and your flight to Boston tomorrow night.",
+  "generatedAt": "Morning brief · 7:11 AM ET",
+  "theme": "A wide-open day in Toronto, on the eve of the flight home.",
+  "greeting": "Nothing on the calendar today, Dan — a rare clear stretch in Toronto with the kids at Jen's. Tomorrow turns into a travel day, so tonight leans toward packing.",
   "needsAttention": [
     {
-      "tag": "Valoris proposal",
-      "title": "Steindl sent proposal comments and a draft NDA",
-      "detail": "Martin Steindl returned comments on your Valoris proposal plus a draft confidentiality and non-compete agreement to review, with Mike and Davit copied. It landed early this morning and nothing's gone back yet."
-    },
-    {
-      "tag": "Early call tomorrow",
-      "title": "7 AM Valoris<>IMC/FinCity Zoom",
-      "detail": "You're still marked tentative on tomorrow's 7:00 AM call with the FinCity/IMC research team. Worth confirming or declining tonight so it doesn't collide with your conference morning."
-    },
-    {
-      "tag": "Decision slipping",
-      "title": "December break is still undecided",
-      "detail": "The Dec 13–Jan 2 trip for all four kids has been open since its Sept 30 decide-by and Oct 15 book-by — holiday inventory for six is at its thinnest now. Pick domestic vs. international and lock it."
-    },
-    {
-      "tag": "Overdue · p2",
-      "title": "Three term-life quotes for Mike",
-      "detail": "Open since Sept 25 in Household — it needs a target coverage amount and term length before you can shop. This is the four-kids-no-coverage gap it closes."
+      "tag": "Family travel",
+      "title": "The December family trip is still unbooked",
+      "detail": "On the Mike + Dan board, the decide-by and book-by dates (Sep 30 / Oct 15) have both passed. Holiday inventory for six over three weeks thins a little more each day it waits."
     }
   ],
-  "schedule": [
-    {
-      "time": "All day",
-      "title": "ICGN Autumn Conference",
-      "detail": "Day one of two · U of T, Schwartz Reisman campus",
-      "tag": "Conference"
-    }
-  ],
+  "schedule": [],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "Job search",
-        "title": "Valoris: proposal comments + draft NDA",
-        "detail": "Martin Steindl, cc Mike and Davit — two documents to review."
-      }
-    ],
-    "noise": "Otherwise just newsletters — Foreign Affairs, a Hims refill reminder, two city guides, and the Italian word of the day.",
-    "clear": ""
+    "flagged": [],
+    "noise": "The rest is newsletters and shop promos — BaseLocal St. Pete, Daily Italian, and a couple of lighting and gift sales.",
+    "clear": "No urgent, security, financial, or job-search mail — and nothing awaiting your reply."
   },
   "resolved": [],
   "context": {
@@ -55,25 +27,31 @@
   "recipe": {
     "title": "Lamb Shanks with Crushed Roots",
     "book": "Eat",
-    "why": "A low, slow braise for the first real chill of November — the shanks go in early and the crushed roots catch all that liquor by dinner."
+    "why": "A slow braise for a grey Toronto evening before tomorrow's flight home — the shanks go in early and the crushed roots catch all that winey liquor by dinner."
   },
   "tasks": [
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Household",
-      "due": "Overdue Sept 30",
+      "title": "Get 3 term-life quotes for Mike",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Look up and ship chilis for cooking",
-      "project": "Personal",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Look up chilis to buy and ship for cooking",
+      "project": "Morning Routine",
       "due": "Overdue Nov 2",
       "overdue": true
     }
   ],
   "routines": {
     "morning": "0/9",
-    "day": "0/5",
+    "day": "0/2",
     "evening": "0/4"
   },
   "acts": [
