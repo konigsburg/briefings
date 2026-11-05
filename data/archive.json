@@ -1,5 +1,12 @@
 [
   {
+    "id": "brief-2026-11-05",
+    "kind": "Morning brief",
+    "label": "Thursday, Nov 5 · 5:10 AM ET",
+    "summary": "ICGN day in Toronto — 7 AM FinCity call, a stewardship session, and an 8 PM flight to Boston; Valoris reply owed.",
+    "ref": "today"
+  },
+  {
     "id": "brief-2026-11-04",
     "kind": "Morning brief",
     "label": "Wednesday, Nov 4 · 9:11 PM ET",
@@ -200,13 +207,6 @@
     "kind": "Morning brief",
     "label": "Wednesday, Oct 7 · 10:14 PM ET",
     "summary": "A quiet Wednesday with one Valoris call; tomorrow's NACD prep and Merrill call plus the Oct 15 December book-by lead the open items.",
-    "ref": "today"
-  },
-  {
-    "id": "brief-2026-10-06",
-    "kind": "Morning brief",
-    "label": "Tuesday, Oct 6 · 10:18 PM ET",
-    "summary": "One Valoris call, an otherwise open day, and a short list — travel decisions, a signing, and a networking intro — worth closing before the week slips.",
     "ref": "today"
   }
 ]
