@@ -1,23 +1,23 @@
 {
   "date": "Wednesday, November 4, 2026",
   "generatedAt": "Morning brief · 7:07 PM ET",
-  "theme": "A clear day in Toronto before tomorrow's stage.",
-  "greeting": "You're at ICGN in Toronto with nothing fixed on the calendar today, Dan. That open stretch is exactly what tomorrow needs: the stewardship talk you're giving and the Valoris papers you promised Martin, both landing before the 7 AM call and the evening flight to Boston.",
+  "theme": "A clear last day in Toronto before tomorrow's flight home.",
+  "greeting": "An open day in Toronto, Dan — nothing on the calendar is holding you. The push is tomorrow: an early Valoris/FinCity call, then the evening flight back to Boston.",
   "needsAttention": [
     {
-      "tag": "Prep · tomorrow",
-      "title": "Your stewardship talk at ICGN",
-      "detail": "You told Martin this morning you're speaking at ICGN tomorrow on stewardship. Today's open calendar is the window to lock the talk before tonight."
+      "tag": "Early start",
+      "title": "Valoris/FinCity call at 7 AM",
+      "detail": "Tomorrow opens at 7:00 AM ET with the Valoris Stewardship Catalysts × IMC/FinCity Zoom. You're marked tentative and your reply already went out — just an early one to wake for after a travel day."
     },
     {
-      "tag": "Prep · Valoris",
-      "title": "Review Martin's draft agreement",
-      "detail": "Martin Steindl sent comments and a draft agreement, and you said you'd look and come back to him. The Valoris<>IMC/FinCity call is tomorrow at 7:00 AM ET, so read it today."
-    },
-    {
-      "tag": "Window closed",
+      "tag": "Decision overdue",
       "title": "December break still unbooked",
-      "detail": "The decide-by (Sep 30) and book-by (Oct 15) dates have both passed on the 21-day December trip for all six. Holiday inventory only thins from here. Pick a destination and book."
+      "detail": "On the Mike + Dan board (p2), overdue since Sep 30. The Dec 13–Jan 2 window for all four girls needs a destination locked — holiday inventory for six only thins from here."
+    },
+    {
+      "tag": "Overdue · p2",
+      "title": "Term life quotes for Mike",
+      "detail": "On the Mike + Dan board, overdue since Sep 25. Three term quotes — length and coverage — are still yours to pull before Mike can do his part."
     }
   ],
   "schedule": [],
@@ -25,11 +25,11 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Valoris draft agreement awaits you",
-        "detail": "Martin Steindl's proposal comments and draft agreement are open; you replied this morning that you'd come back to him, with the IMC/FinCity call tomorrow at 7."
+        "title": "LinkedIn message from Ton van der Weegen",
+        "detail": "A LinkedIn digest says two messages are waiting on your reply — worth a look given the search."
       }
     ],
-    "noise": "A LinkedIn alert for a Citi SVP banking role and the usual updates.",
+    "noise": "About 20 unread, almost all newsletters, shipping updates, and election-night roundups.",
     "clear": ""
   },
   "resolved": [],
@@ -47,41 +47,35 @@
   },
   "tasks": [
     {
-      "title": "Reach Mike Kelly via Priti at TD",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 30",
+      "overdue": true
+    },
+    {
+      "title": "Mike Kelly via Priti at TD (+ other name)",
       "project": "Morning Routine",
       "due": "Today",
       "overdue": false
-    },
-    {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
-      "title": "Portland house order: bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan Board",
-      "due": "Overdue Sep 30",
-      "overdue": true
     }
   ],
   "routines": {
     "morning": "0/2",
-    "day": "0/4",
+    "day": "0/1",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "At ICGN in Toronto with nothing booked, a rare open conference morning."
+      "line": "An open morning in Toronto — no calls on the books."
     },
     {
       "time": "Afternoon",
-      "line": "The widest clear block of the day, before the pace picks up tomorrow."
+      "line": "Still clear through the afternoon, with the overdue board items the obvious use of it."
     },
     {
       "time": "Evening",
-      "line": "Your last night in Toronto; tomorrow brings an early call, the stage, and an 8 PM flight to Boston."
+      "line": "Last night in the Richmond Street loft before tomorrow night's flight home."
     }
   ],
   "japanese": {
