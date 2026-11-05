@@ -1,59 +1,60 @@
 {
   "date": "Thursday, November 5, 2026",
-  "generatedAt": "Morning brief · 5:07 AM ET",
-  "theme": "Quiet in Toronto, a full day tomorrow.",
-  "greeting": "A quiet evening in Toronto, Dan — today's calendar is clear, which leaves room for the two family decisions that have been sitting a while. Tomorrow starts early with the FinCity call and your ICGN stewardship talk, and ends on the flight home.",
+  "generatedAt": "Morning brief · 5:10 AM ET",
+  "theme": "ICGN in Toronto, then wheels up for Boston.",
+  "greeting": "You're in Toronto for ICGN, Dan, on stage today talking stewardship, with an evening flight to Boston to close it out. The girls are with Jen this stretch, so the daytime is yours to work.",
   "needsAttention": [
     {
-      "tag": "Decide + book",
-      "title": "December break is weeks past its own deadline",
-      "detail": "The all-four-kids trip over Dec 13–Jan 2 was meant to be shortlisted by Sep 30 and booked by Oct 15 — both gone. Holiday inventory for six is the thinnest of the year, so every day now costs options and price."
-    },
-    {
-      "tag": "Overdue · p2",
-      "title": "Term life quotes for Mike",
-      "detail": "Your half (three quotes, term length, coverage amount) has been open since Sep 25. It's stuck on the target coverage amount and term — settle those two and the shopping moves."
-    },
-    {
       "tag": "Reply owed",
-      "title": "Come back to Martin on the Valoris draft",
-      "detail": "You told Martin Steindl this morning you'd review the proposal and draft agreement and circle back. The ICGN days will swallow the week if it waits, so block time before travel."
+      "title": "Valoris proposal and draft agreement",
+      "detail": "Martin sent comments on your proposal plus a confidentiality and non-compete agreement for the evaluation period, and told you he thinks you're on a good path. You said you'd review both and come back; he's offered a call to walk through them."
     },
     {
-      "tag": "Prep tomorrow",
-      "title": "ICGN stewardship talk + 7 AM FinCity call",
-      "detail": "You're speaking on stewardship at ICGN tomorrow and have a 7:00 AM Valoris×IMC/FinCity Zoom that's still only tentative — firm up the RSVP and have your talking points set tonight."
+      "tag": "Today",
+      "title": "Check in for tonight's flight",
+      "detail": "Online check-in is open for Porter PD2947, Toronto to Boston at 8 PM."
+    },
+    {
+      "tag": "Overdue · Travel",
+      "title": "Lock the December break destination",
+      "detail": "The p2 'December break' task — pick a destination for all four kids over Dec 13–Jan 2 — is well past its Sep 30 decide / Oct 15 book deadline, and holiday inventory for six only thins from here."
     }
   ],
   "schedule": [
     {
       "time": "7:00 AM",
       "title": "Valoris × IMC/FinCity call",
-      "detail": "Zoom with the FinCity Tokyo team (tomorrow); your RSVP is still tentative",
-      "tag": "Tomorrow"
+      "detail": "Zoom with the Tokyo research team on independent managers",
+      "tag": "call"
+    },
+    {
+      "time": "Daytime",
+      "title": "ICGN — speaking on stewardship",
+      "detail": "Your session; the reason you're in Toronto",
+      "tag": "event"
     },
     {
       "time": "8:00 PM",
-      "title": "Flight home to Boston",
-      "detail": "Porter PD2947, Toronto YTZ → BOS (tomorrow); online check-in is open",
-      "tag": "Tomorrow"
+      "title": "Flight to Boston (PD2947)",
+      "detail": "Porter, Toronto YTZ → Boston, lands ~9:35 PM",
+      "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Deloitte partner wants to connect",
-        "detail": "Trevor Nakka (Lead Client Service Partner, Deloitte) sent a LinkedIn connection request — an easy yes for the board and advisory network."
+        "title": "Valoris — proposal comments + agreement",
+        "detail": "Martin Steindl sent two documents and offered a call; your reply is owed."
       },
       {
-        "tag": "Job search",
-        "title": "ExecThread's November CEO roles",
-        "detail": "The monthly active-CEO-search digest arrived; worth a skim for anything board- or governance-adjacent."
+        "tag": "FYI",
+        "title": "Flight check-in open",
+        "detail": "Kiwi.com: check in for tonight's Toronto → Boston flight."
       }
     ],
-    "noise": "The rest is newsletters, retail promos, and wall-to-wall election coverage — nothing that needs you.",
-    "clear": "No bills, security alerts, or account issues in the last few days."
+    "noise": "Everything else is newsletters, retail promos, and a Todoist digest.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -61,7 +62,7 @@
     "phase": "green",
     "location": "Toronto",
     "confidence": "high",
-    "asOf": "Wednesday Nov 4"
+    "asOf": "Thursday Nov 5"
   },
   "recipe": {
     "title": "Roast chicken smothered with chanterelles",
@@ -70,35 +71,41 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — bedframe + outdoor soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Mike Kelly intro via Priti at TD",
-      "project": "Morning Routine",
-      "due": "Today",
-      "overdue": false
+      "title": "Follow up: Mike Kelly via Priti at TD",
+      "project": "To-do",
+      "due": "Overdue Nov 4",
+      "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/2",
-    "day": "0/1",
+    "morning": "0/8",
+    "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear morning in Toronto with nothing on the clock — the ICGN conference floor is yours to work."
+      "line": "A 7 AM call with the FinCity and IMC group opens the day before the conference floor fills."
     },
     {
       "time": "Afternoon",
-      "line": "Still open through the afternoon; a rare stretch with no meetings pulling at it."
+      "line": "You take the ICGN stage on stewardship — the reason you flew to Toronto."
     },
     {
       "time": "Evening",
-      "line": "An early start and a late flight bookend tomorrow, so tonight is for packing and checking in."
+      "line": "Porter PD2947 carries you to Boston at 8; have the bags packed before the last session."
     }
   ],
   "japanese": {
