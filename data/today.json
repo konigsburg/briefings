@@ -1,8 +1,8 @@
 {
   "date": "Thursday, November 5, 2026",
-  "generatedAt": "Morning brief · 11:07 AM ET",
-  "theme": "A Toronto conference day that ends in the air.",
-  "greeting": "Good morning, Dan. It's your last day at ICGN in Toronto — a stewardship session to give and an 8 PM flight to Boston to close it out. The girls are with Jen this week, so tonight's logistics are only your own.",
+  "generatedAt": "Morning brief · 11:13 AM ET",
+  "theme": "Last day of ICGN in Toronto, then wheels-up for Boston.",
+  "greeting": "You're closing out ICGN with a stewardship session to give, Dan, before Porter PD2947 carries you to Boston tonight. The girls are with Jen, so the day's shape is yours once the talk is done — a few overdue board items are the only things tugging at your sleeve.",
   "needsAttention": [
     {
       "tag": "Owed reply",
@@ -12,19 +12,19 @@
     {
       "tag": "Flight tonight",
       "title": "8 PM to Boston",
-      "detail": "Porter PD2947 leaves Toronto City (YTZ) at 8:00 PM and online check-in opened overnight — it's your last night in Toronto."
+      "detail": "Porter PD2947 leaves Toronto City (YTZ) at 8:00 PM and lands around 9:35 — it's your last night in Toronto, so pack before you head to the conference close."
     },
     {
       "tag": "Booking window",
       "title": "December break still open",
-      "detail": "The p2 plan to lock the three-week December trip for the four kids is months past its decide-by, and holiday inventory for six only thins from here."
+      "detail": "The p2 plan to lock the three-week December trip for the four kids is well past its Sept 30 decide-by and Oct 15 book-by, and holiday inventory for six only thins from here."
     }
   ],
   "schedule": [
     {
       "time": "7:00 AM",
       "title": "Valoris <> IMC/FinCity",
-      "detail": "Zoom research call with Fincity.Tokyo and the Independent Managers Club.",
+      "detail": "Zoom research call with Fincity.Tokyo and the Independent Managers Club — already behind you.",
       "tag": "call"
     },
     {
@@ -44,23 +44,23 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "SVP Global Public Policy roles",
-        "detail": "LinkedIn flagged a 'Senior VP of Global Public Policy' opening and similar matches to your alert."
+        "title": "SVP Global Public Policy alert",
+        "detail": "LinkedIn refreshed its 'Senior Vice President of Global Public Policy' alert again this morning — worth a two-minute skim between sessions."
       },
       {
         "tag": "FYI",
         "title": "Audible account merge",
-        "detail": "Audible wants your accounts merged by Jan 12 to keep the library — no rush, but a real deadline."
+        "detail": "Audible wants your accounts merged by Jan 12, 2027 to keep the library — no rush, but a real deadline."
       }
     ],
-    "noise": "The rest is retail and newsletters — John Derian, Harry & David, Faherty, The Company Store, WSJ Economics, your St. Pete digest.",
-    "clear": ""
+    "noise": "The rest is retail and newsletters, plus the usual LinkedIn connection and job-alert digests.",
+    "clear": "Nothing in the inbox is actually waiting on your reply this morning."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Toronto",
+    "location": "Toronto (→ Boston tonight)",
     "confidence": "high",
     "asOf": "Thursday Nov 5"
   },
@@ -72,25 +72,25 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Mike + Dan board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Household",
+      "project": "Mike + Dan board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
       "title": "Mike Kelly intro via Priti at TD",
-      "project": "Inbox",
+      "project": "Networking",
       "due": "Overdue Nov 4",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/8",
+    "morning": "8/8",
     "day": "0/5",
     "evening": "0/4"
   },
@@ -101,7 +101,7 @@
     },
     {
       "time": "Afternoon",
-      "line": "A last Toronto conference day — the panel, then packing up before the airport."
+      "line": "A last Toronto conference day — the session, then packing up before the airport."
     },
     {
       "time": "Evening",
