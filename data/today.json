@@ -1,42 +1,36 @@
 {
   "date": "Thursday, November 5, 2026",
-  "generatedAt": "Morning brief · 5:07 PM ET",
-  "theme": "Conference day in Toronto, then a night flight to Boston.",
-  "greeting": "Your ICGN panel on stewardship anchors the day in Toronto before Porter carries you to Boston tonight. With the girls at Jen's, the landing is your own.",
+  "generatedAt": "Morning brief · 5:11 PM ET",
+  "theme": "Toronto conference day, Boston by nightfall.",
+  "greeting": "Morning, Dan — one early call, an open conference day in Toronto, and a night flight to Boston to close it out.",
   "needsAttention": [
     {
-      "tag": "Reply owed",
-      "title": "Come back to Martin on the Valoris draft",
-      "detail": "You told Martin Steindl on Nov 4 you'd review the comments and draft agreement and get back to him — the thread is still open."
+      "tag": "Closes today",
+      "title": "Check in for tonight's flight",
+      "detail": "Online check-in is open for Porter PD 2947, Toronto to Boston at 8 PM. Handle it before you leave the ICGN venue so you're not doing it at the gate."
     },
     {
-      "tag": "Decision overdue",
-      "title": "December-break destination still unpicked",
-      "detail": "On the Mike + Dan board (p2): the shortlist was due Sept 30 and booking by Oct 15, both now passed, for the Dec 13–Jan 2 trip with all four kids. Passports land early-to-mid November, so a domestic pick carries no risk."
+      "tag": "Overdue p2",
+      "title": "Lock the December break destination",
+      "detail": "The Mike + Dan board task to shortlist and decide is well past its Sept 30 date, and holiday inventory for six over three weeks only thins from here. Pick domestic vs. international and get it booked."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "Three term-life quotes for Mike",
-      "detail": "p2 on the Mike + Dan board, overdue since Sep 25; still missing the target coverage amount and term length to shop against."
+      "tag": "Overdue p2",
+      "title": "Get the three term-life quotes for Mike",
+      "detail": "Open on the board since late September — your half is the shopping (coverage amount, term length, three quotes) before Mike does the application."
     }
   ],
   "schedule": [
     {
       "time": "7:00 AM",
-      "title": "Valoris <> IMC / FinCity",
-      "detail": "Zoom with the stewardship-catalysts and FinCity Tokyo teams",
+      "title": "FinCity / IMC stewardship call",
+      "detail": "Zoom with Valoris, FinCity.Tokyo and the Independent Managers Club",
       "tag": "call"
     },
     {
-      "time": "Daytime",
-      "title": "ICGN panel — stewardship",
-      "detail": "Your speaking slot in Toronto",
-      "tag": "event"
-    },
-    {
       "time": "8:00 PM",
-      "title": "Flight to Boston (PD2947)",
-      "detail": "Porter, Toronto YTZ → BOS, in around 9:35 PM",
+      "title": "Flight to Boston (PD 2947)",
+      "detail": "Toronto YTZ, arrives around 9:35 PM",
       "tag": "travel"
     }
   ],
@@ -44,23 +38,23 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "MCCA hiring: SVP, External Affairs",
-        "detail": "Fresh LinkedIn alert for a public-affairs leadership seat — worth a scan given the search."
+        "title": "New board-adjacent roles from LinkedIn",
+        "detail": "A KPMG US Managing Director listing plus 22 others in today's alert — worth a scan for governance and board-track fits."
       },
       {
         "tag": "FYI",
-        "title": "Flight check-in is open",
-        "detail": "Kiwi.com opened online check-in for tonight's Toronto → Boston leg."
+        "title": "Valoris draft agreement still awaits your read",
+        "detail": "Martin sent comments and a draft agreement; you told him Nov 4 you'd look and come back. That reply is still owed."
       }
     ],
-    "noise": "Otherwise newsletters and promos — NYT Cooking, two Maine locals, a St. Pete digest, retail sales — plus a delivered Murakami order.",
+    "noise": "An Uber receipt, a Cocofloss subscription price bump, and an Audible account-merge notice — none urgent.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Toronto → Boston",
+    "location": "Toronto",
     "confidence": "high",
     "asOf": "Thursday Nov 5"
   },
@@ -71,35 +65,29 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
-      "overdue": true
-    },
-    {
-      "title": "Mike Kelly via Priti at TD (+ one more name)",
-      "project": "Morning Routine",
-      "due": "Overdue Nov 4",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/0",
+    "morning": "0/1",
     "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A 7 a.m. call with the Valoris and FinCity Tokyo teams opened the day in Toronto."
+      "line": "A 7 o'clock call with the FinCity and Independent Managers Club team opens the day before the ICGN floor fills."
     },
     {
       "time": "Afternoon",
-      "line": "The center of gravity is your ICGN stewardship panel before you make for the airport."
+      "line": "Nothing sits on the calendar — the conference sessions and hallway conversations are yours to spend as you like."
     },
     {
       "time": "Evening",
-      "line": "Porter PD2947 lifts off at 8 for Boston, wheels-down near 9:35."
+      "line": "The evening belongs to travel, with a late flight out of Toronto and Boston on the other side."
     }
   ],
   "japanese": {
