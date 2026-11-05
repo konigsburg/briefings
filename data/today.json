@@ -1,49 +1,66 @@
 {
   "date": "Thursday, November 5, 2026",
   "generatedAt": "Morning brief · 9:08 AM ET",
-  "theme": "A dawn call, an open Toronto day, Boston by night.",
-  "greeting": "The Valoris call opens things at 7, then the day is yours in Toronto — the city where you're speaking on stewardship at ICGN. An 8pm flight carries you on to Boston.",
+  "theme": "A Toronto conference day that ends in the air.",
+  "greeting": "Good morning, Dan. It's your last day at ICGN in Toronto — a stewardship session to give and an 8 PM flight to Boston to close it out. The girls are with Jen this week, so tonight's logistics are only your own.",
   "needsAttention": [
     {
-      "tag": "Prep · 7am",
-      "title": "Valoris draft agreement to read",
-      "detail": "You told Martin yesterday you'd look at the Valoris draft agreement and come back; the 7am call with IMC/FinCity is the room to raise it in."
+      "tag": "Owed reply",
+      "title": "Valoris draft agreement",
+      "detail": "You told Martin yesterday you'd review Valoris's comments and draft agreement and come back to him; the thread is still waiting on your substantive read."
+    },
+    {
+      "tag": "Flight tonight",
+      "title": "8 PM to Boston",
+      "detail": "Porter PD2947 leaves Toronto City (YTZ) at 8:00 PM and online check-in opened overnight — it's your last night in Toronto."
     },
     {
       "tag": "Booking window",
-      "title": "December break still has no destination",
-      "detail": "The all-four-kids Dec 13–Jan 2 trip needs a place picked. The decide-by (Sep 30) and book-by (Oct 15) dates have both passed, and holiday inventory for six only thins from here."
-    },
-    {
-      "tag": "Overdue · p2",
-      "title": "Three term-life quotes for Mike",
-      "detail": "Open since September in Household — the shopping half is yours (quotes, term length, coverage). A real gap with four kids and no cover."
+      "title": "December break still open",
+      "detail": "The p2 plan to lock the three-week December trip for the four kids is months past its decide-by, and holiday inventory for six only thins from here."
     }
   ],
   "schedule": [
     {
       "time": "7:00 AM",
-      "title": "Valoris Catalysts ↔ IMC/FinCity",
-      "detail": "Zoom · independent fund managers outside Japan",
+      "title": "Valoris <> IMC/FinCity",
+      "detail": "Zoom research call with Fincity.Tokyo and the Independent Managers Club.",
       "tag": "call"
     },
     {
+      "time": "Daytime",
+      "title": "ICGN — stewardship",
+      "detail": "Your speaking session on stewardship at the ICGN conference in Toronto.",
+      "tag": "speaking"
+    },
+    {
       "time": "8:00 PM",
-      "title": "Flight to Boston (PD 2947)",
-      "detail": "Toronto YTZ → Boston, lands ~9:35pm",
-      "tag": "travel"
+      "title": "Flight to Boston",
+      "detail": "Porter PD2947, Toronto City (YTZ) to Boston, lands ~9:35 PM.",
+      "tag": "flight"
     }
   ],
   "inbox": {
-    "flagged": [],
-    "noise": "The rest is newsletters and sales — WSJ Economics, Daily Italian, St. Pete local, a run of holiday promos.",
-    "clear": "Nothing in the inbox is waiting on your reply this morning."
+    "flagged": [
+      {
+        "tag": "Job search",
+        "title": "SVP Global Public Policy roles",
+        "detail": "LinkedIn flagged a 'Senior VP of Global Public Policy' opening and similar matches to your alert."
+      },
+      {
+        "tag": "FYI",
+        "title": "Audible account merge",
+        "detail": "Audible wants your accounts merged by Jan 12 to keep the library — no rush, but a real deadline."
+      }
+    ],
+    "noise": "The rest is retail and newsletters — John Derian, Harry & David, Faherty, The Company Store, WSJ Economics, your St. Pete digest.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Toronto → Boston tonight",
+    "location": "Toronto",
     "confidence": "high",
     "asOf": "Thursday Nov 5"
   },
@@ -54,35 +71,41 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — bedframe + outdoor-shower soap holder",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + shower soap holder",
       "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Mike Kelly via Priti at TD (+ other name)",
+      "title": "Mike Kelly intro via Priti at TD",
       "project": "Inbox",
       "due": "Overdue Nov 4",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/8",
     "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The 7am Valoris call lands first — the draft agreement you promised Martin a read is the thing to bring to it."
+      "line": "The 7 AM FinCity call is behind you and the ICGN floor is yours until your stewardship session."
     },
     {
       "time": "Afternoon",
-      "line": "The middle of the day is open in Toronto, around your ICGN stewardship talk."
+      "line": "A last Toronto conference day — the panel, then packing up before the airport."
     },
     {
       "time": "Evening",
-      "line": "Wheels up at 8 for Boston; the day ends in the air."
+      "line": "Wheels up at 8 for Boston; nothing waiting at home since the girls are with Jen."
     }
   ],
   "japanese": {
