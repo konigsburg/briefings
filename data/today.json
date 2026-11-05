@@ -1,60 +1,54 @@
 {
   "date": "Thursday, November 5, 2026",
-  "generatedAt": "Morning brief · 1:06 PM ET",
-  "theme": "Last day of ICGN in Toronto, then wheels-up for Boston.",
-  "greeting": "You're closing out ICGN with a stewardship session to give, Dan, before Porter PD2947 carries you to Boston tonight. The girls are with Jen, so the day's shape is yours once the talk is done — a few overdue board items are the only things tugging at your sleeve.",
+  "generatedAt": "Morning brief · 1:12 PM ET",
+  "theme": "ICGN in Toronto, a wide-open afternoon, then a night flight home.",
+  "greeting": "You're at ICGN in Toronto today, Dan, with your talk on stewardship on the docket — the reason for the trip. The girls are with Jen this stretch, so after a quiet afternoon the day ends with an 8 PM flight to Boston.",
   "needsAttention": [
     {
-      "tag": "Owed reply",
-      "title": "Valoris draft agreement",
-      "detail": "You told Martin yesterday you'd review Valoris's comments and draft agreement and come back to him; the thread is still waiting on your substantive read."
+      "tag": "Reply owed",
+      "title": "Come back to Martin at Valoris",
+      "detail": "You told him Nov 4 you'd review Valoris's comments on your proposal and their draft confidentiality / non-compete; he offered a call to walk through either. Still sitting on your side."
     },
     {
-      "tag": "Flight tonight",
-      "title": "8 PM to Boston",
-      "detail": "Porter PD2947 leaves Toronto City (YTZ) at 8:00 PM and lands around 9:35 — it's your last night in Toronto, so pack before you head to the conference close."
+      "tag": "Overdue · p2",
+      "title": "December break is still unbooked",
+      "detail": "The Mike + Dan board task to pick and book the Dec 13–Jan 2 trip for six is past its Sept 30 decide-by and Oct 15 book-by; holiday inventory only thins from here."
     },
     {
-      "tag": "Booking window",
-      "title": "December break still open",
-      "detail": "The p2 plan to lock the three-week December trip for the four kids is well past its Sept 30 decide-by and Oct 15 book-by, and holiday inventory for six only thins from here."
+      "tag": "Today · travel",
+      "title": "Check in for tonight's flight",
+      "detail": "Kiwi flagged that online check-in is open for your 8 PM Toronto→Boston flight (PD 2947)."
     }
   ],
   "schedule": [
     {
-      "time": "7:00 AM",
-      "title": "Valoris <> IMC/FinCity",
-      "detail": "Zoom research call with Fincity.Tokyo and the Independent Managers Club — already behind you.",
-      "tag": "call"
-    },
-    {
       "time": "Daytime",
-      "title": "ICGN — stewardship",
-      "detail": "Your speaking session on stewardship at the ICGN conference in Toronto.",
-      "tag": "speaking"
+      "title": "ICGN — stewardship session",
+      "detail": "Your talk, Toronto",
+      "tag": "conf"
     },
     {
       "time": "8:00 PM",
-      "title": "Flight to Boston",
-      "detail": "Porter PD2947, Toronto City (YTZ) to Boston, lands ~9:35 PM.",
-      "tag": "flight"
+      "title": "Flight to Boston (PD 2947)",
+      "detail": "Toronto YTZ → Boston, lands ~9:35 PM",
+      "tag": "travel"
     }
   ],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "SVP Global Public Policy alert",
-        "detail": "LinkedIn refreshed its 'Senior Vice President of Global Public Policy' alert again this morning — worth a two-minute skim between sessions."
+        "tag": "FYI",
+        "title": "Audible: merge accounts by Jan 12",
+        "detail": "Audible wants your accounts merged by January 12, 2027 to keep your library — easy to lose in the feed."
       },
       {
-        "tag": "FYI",
-        "title": "Audible account merge",
-        "detail": "Audible wants your accounts merged by Jan 12, 2027 to keep the library — no rush, but a real deadline."
+        "tag": "Financial",
+        "title": "Cocofloss subscription rises Dec 3",
+        "detail": "Your Happiness Set subscription goes up from $32.40 next month — adjust or cancel if you'd rather not."
       }
     ],
-    "noise": "The rest is retail and newsletters, plus the usual LinkedIn connection and job-alert digests.",
-    "clear": "Nothing in the inbox is actually waiting on your reply this morning."
+    "noise": "Otherwise newsletters and promos — BaseLocal St. Pete, Midcoast Villager, Field Company, Simply Trees — plus a delivered Murakami book.",
+    "clear": "Nothing else is waiting on your reply."
   },
   "resolved": [],
   "context": {
@@ -72,40 +66,40 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan board",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
       "title": "Portland house order — bedframe + shower soap holder",
-      "project": "Mike + Dan board",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Mike Kelly intro via Priti at TD",
-      "project": "Networking",
+      "title": "Follow up on Mike Kelly intro (via Priti, TD)",
+      "project": "Morning Routine",
       "due": "Overdue Nov 4",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "8/8",
-    "day": "0/5",
+    "morning": "0/3",
+    "day": "0/2",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "The 7 AM FinCity call is behind you and the ICGN floor is yours until your stewardship session."
+      "line": "ICGN's floor and your own session on stewardship — the reason you're in Toronto."
     },
     {
       "time": "Afternoon",
-      "line": "A last Toronto conference day — the session, then packing up before the airport."
+      "line": "Nothing on the calendar; the stretch before your flight is wide open."
     },
     {
       "time": "Evening",
-      "line": "Wheels up at 8 for Boston; nothing waiting at home since the girls are with Jen."
+      "line": "The day turns toward the trip home after a quiet afternoon."
     }
   ],
   "japanese": {
