@@ -1,18 +1,18 @@
 {
   "date": "Friday, November 6, 2026",
   "generatedAt": "Morning brief · 5:06 PM ET",
-  "theme": "An open day with two things quietly waiting.",
-  "greeting": "Nothing is on the calendar today, Dan, and the girls are at Jen's. A wide-open Friday that leaves room for the two things that have been sitting a while.",
+  "theme": "A wide-open Friday, good for the decisions that have waited.",
+  "greeting": "Your calendar is completely clear today, Dan, a rare open Friday. With the girls in Florida this week, it's a good window to close the two things that have been sitting.",
   "needsAttention": [
     {
-      "tag": "Owe a reply",
-      "title": "Valoris is waiting on your read",
-      "detail": "Martin sent their comments on your proposal and a draft confidentiality and non-compete for the evaluation period; you told him you'd look and come back. He's offered a call on either when you're ready."
+      "tag": "Reply owed",
+      "title": "Valoris proposal and draft agreement",
+      "detail": "Martin Steindl sent comments on your proposal plus a draft confidentiality and non-compete for the evaluation period, and offered a call. On Nov 4 you said you'd 'have a look and come back' — it's still open two days on."
     },
     {
-      "tag": "Window closing",
-      "title": "December trip is past its book-by",
-      "detail": "The shortlist-and-book call for the Dec 13 to Jan 2 break with all four girls blew past its Oct 15 book-by date. Holiday inventory for six over three weeks only thins from here."
+      "tag": "Booking window",
+      "title": "December break still undecided",
+      "detail": "The Dec 13–Jan 2 trip for all six was meant to be decided by Sept 30 and booked by Oct 15. Holiday inventory for six over three weeks only thins further each day it waits."
     }
   ],
   "schedule": [],
@@ -20,18 +20,18 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Herskovich wants to stay in touch",
-        "detail": "BNP Paribas's Michael Herskovich replied warmly after Toronto, glad to keep in touch as you move toward your next role."
+        "title": "Michael Herskovich replied",
+        "detail": "BNP Paribas' Global Head of Stewardship answered your Toronto note — glad to stay in touch as you move into your next role. No reply needed."
       }
     ],
-    "noise": "The rest is promotions and newsletters: Bloomberg, LinkedIn, Hilton, a few retail sales, and a Cocofloss subscription price-change notice.",
-    "clear": ""
+    "noise": "A LinkedIn job alert, a Cocolab subscription price-change notice, and your own sent note to Aaron at Global Proxy Watch.",
+    "clear": "Nothing else is awaiting your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Maine (likely)",
+    "location": "Maine",
     "confidence": "low",
     "asOf": "Friday Nov 6"
   },
@@ -43,34 +43,34 @@
   "tasks": [
     {
       "title": "Get 3 term life quotes for Mike",
-      "project": "Household",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order: bedframe + outdoor shower soap holder",
-      "project": "Household",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "7/9",
+    "morning": "0/2",
     "day": "0/2",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings on the books anywhere today."
+      "line": "A completely open calendar — no meetings anchor the morning."
     },
     {
       "time": "Afternoon",
-      "line": "A rare open afternoon with nothing scheduled against it."
+      "line": "The open stretch runs clean through the afternoon; it's yours to direct."
     },
     {
       "time": "Evening",
-      "line": "The girls are with Jen tonight, so the evening is quiet and unclaimed."
+      "line": "The girls are with Jen this week, so the evening winds down quietly."
     }
   ],
   "japanese": {
