@@ -1,31 +1,20 @@
 {
   "date": "Friday, November 6, 2026",
   "generatedAt": "Morning brief · 11:07 AM ET",
-  "theme": "A clear calendar after conference week.",
-  "greeting": "Nothing's scheduled today, Dan - the first open day after the ICGN stretch. The quiet leaves room for the board and travel items that have been sitting, and the Valoris draft you said you'd circle back on.",
+  "theme": "An open day — nothing on the calendar.",
+  "greeting": "The calendar's clear today, Dan — no meetings on the books. The one thing carrying a real clock is the December trip; everything else can hold for the Sunday review.",
   "needsAttention": [
     {
-      "tag": "Dec travel",
-      "title": "December break still undecided",
-      "detail": "Overdue since Sept 30 on the Mike + Dan board - the Dec 13 to Jan 2 window with all four kids. Holiday inventory for six is the thinnest of the year, and each unbooked week narrows the field."
-    },
-    {
-      "tag": "Board - overdue",
-      "title": "Three term-life quotes for Mike",
-      "detail": "Overdue since Sept 25. Still missing the coverage amount and term length to shop against, which is what's held it up."
+      "tag": "Booking window",
+      "title": "December break still isn't booked",
+      "detail": "The all-kids Dec 13–Jan 2 trip was meant to be decided by Sept 30 and booked by Oct 15 — both are well past. Holiday inventory for six over three weeks is the thinnest of the year, so a domestic default is worth locking down now."
     }
   ],
   "schedule": [],
   "inbox": {
-    "flagged": [
-      {
-        "tag": "Job search",
-        "title": "Valoris draft agreement to review",
-        "detail": "You told Martin on Nov 4 you'd 'have a look and come back' on their comments and the draft agreement - still open, with the ball in your court."
-      }
-    ],
-    "noise": "The rest is promotions and newsletters - Indochino, Global Proxy Watch, an Audible account notice.",
-    "clear": "Nothing else is waiting on a reply."
+    "flagged": [],
+    "noise": "Only newsletters landed — NYT Cooking, Global Proxy Watch, and a Nextdoor roundup.",
+    "clear": "Nothing is waiting on a reply."
   },
   "resolved": [],
   "context": {
@@ -42,35 +31,41 @@
   },
   "tasks": [
     {
-      "title": "Portland house order - king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan - Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Mike + Dan — Board",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order — bedframe + shower soap holder",
+      "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
     {
-      "title": "Mike Kelly via Priti at TD",
+      "title": "Follow up: Mike Kelly via Priti at TD",
       "project": "Morning Routine",
       "due": "Overdue Nov 4",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/3",
+    "morning": "7/8",
     "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings before noon - unusually clear for the end of a conference week."
+      "line": "Morning routine's done and the garden's tended — a quiet start with nothing scheduled."
     },
     {
       "time": "Afternoon",
-      "line": "The afternoon is unbroken, a rare block to spend on one thing rather than many."
+      "line": "No meetings at all; the December booking is the one call worth making today."
     },
     {
       "time": "Evening",
-      "line": "A free evening, with the girls at Jen's through mid-month."
+      "line": "Open straight through — a season for a slow onion tart."
     }
   ],
   "japanese": {
