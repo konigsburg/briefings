@@ -1,42 +1,37 @@
 {
   "date": "Friday, November 6, 2026",
-  "generatedAt": "Morning brief · 3:06 PM ET",
-  "theme": "An open day with one real decision waiting on you.",
-  "greeting": "The calendar is clear both today and tomorrow, Dan — no meetings either side. The pull today is a Valoris reply you promised and a holiday trip that's overdue to book.",
+  "generatedAt": "Morning brief · 3:09 PM ET",
+  "theme": "An open day with two things quietly waiting.",
+  "greeting": "Nothing is on the calendar today, Dan, and the girls are at Jen's. A wide-open Friday that leaves room for the two things that have been sitting a while.",
   "needsAttention": [
     {
-      "tag": "Job search",
+      "tag": "Owe a reply",
       "title": "Valoris is waiting on your read",
-      "detail": "Martin at Valoris Catalysts sent their comments on your partnership proposal plus a draft confidentiality and non-compete agreement, and offered a call. You told him Nov 4 you'd come back to him and haven't yet."
+      "detail": "Martin sent their comments on your proposal and a draft confidentiality and non-compete for the evaluation period; you told him you'd look and come back. He's offered a call on either when you're ready."
     },
     {
-      "tag": "Closing window",
-      "title": "December trip still unbooked",
-      "detail": "The Dec 13–Jan 2 trip for all six is undecided; your own decide-by (Sep 30) and book-by (Oct 15) dates have passed, and holiday inventory is the thinnest of the year. Passports are now in hand."
-    },
-    {
-      "tag": "Overdue",
-      "title": "Term-life quotes for Mike",
-      "detail": "On the Mike + Dan board since Sep 25 — three quotes, term length and coverage. Four kids and still no policy in place."
+      "tag": "Window closing",
+      "title": "December trip is past its book-by",
+      "detail": "The shortlist-and-book call for the Dec 13 to Jan 2 break with all four girls blew past its Oct 15 book-by date. Holiday inventory for six over three weeks only thins from here."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "FYI",
-        "title": "Audible account merge",
-        "detail": "Merge your accounts by Jan 12 to keep listening — plenty of runway."
+        "tag": "Job search",
+        "title": "Herskovich wants to stay in touch",
+        "detail": "BNP Paribas's Michael Herskovich replied warmly after Toronto, glad to keep in touch as you move toward your next role."
       }
     ],
-    "noise": "Everything else is promotions and newsletters — Hilton, Chairish, Teddy Stratford, Puzzmo, a Care.com survey.",
+    "noise": "The rest is promotions and newsletters: Bloomberg, LinkedIn, Hilton, a few retail sales, and a Cocofloss subscription price-change notice.",
     "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Maine",
+    "location": "Maine (likely)",
     "confidence": "low",
     "asOf": "Friday Nov 6"
   },
@@ -47,29 +42,35 @@
   },
   "tasks": [
     {
-      "title": "Order Portland king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Household",
+      "due": "Overdue Sep 25",
+      "overdue": true
+    },
+    {
+      "title": "Portland house order: bedframe + outdoor shower soap holder",
+      "project": "Household",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/2",
-    "day": "0/4",
+    "morning": "7/9",
+    "day": "0/2",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A clear calendar both days — the kind of open stretch that doesn't come often."
+      "line": "No meetings on the books anywhere today."
     },
     {
       "time": "Afternoon",
-      "line": "One meaningful thread is sitting with you rather than with anyone else."
+      "line": "A rare open afternoon with nothing scheduled against it."
     },
     {
       "time": "Evening",
-      "line": "The girls are with Jen this stretch, so the house stays quiet and the clock is yours."
+      "line": "The girls are with Jen tonight, so the evening is quiet and unclaimed."
     }
   ],
   "japanese": {
