@@ -1,18 +1,23 @@
 {
   "date": "Friday, November 6, 2026",
   "generatedAt": "Morning brief · 6:06 AM ET",
-  "theme": "An open Friday — the whole day is yours.",
-  "greeting": "The calendar's empty today, Dan — no meetings to climb. The girls are with Jen through mid-month, so this clear Friday is a chance to put real time against the board items that have been waiting.",
+  "theme": "An open day — spend it on what's been waiting.",
+  "greeting": "The calendar's clear and the girls are with Jen, Dan, so this is a rare open Friday. A few board items have been sitting past their dates, and Martin's draft agreement is the one thing genuinely waiting on your reply.",
   "needsAttention": [
     {
-      "tag": "Blocked · overdue",
-      "title": "December trip still unbooked",
-      "detail": "The p2 board task to shortlist and book December travel (Dec 13–Jan 2, all four girls) is past both its decide-by and book-by dates. It needs the domestic-vs-international call before anything can be booked, and holiday inventory for six is the thinnest of the year."
+      "tag": "Awaiting reply",
+      "title": "Martin's Valoris draft is still open",
+      "detail": "You told him Wednesday you'd read the draft agreement and come back once ICGN wrapped. That was two days ago and the thread's gone quiet on your side."
     },
     {
-      "tag": "Overdue · board",
-      "title": "Term life quotes for Mike",
-      "detail": "The p2 task to pull three term life quotes has sat on the Mike + Dan board since late September. It still needs a target coverage amount and term length before you can shop it."
+      "tag": "Decision overdue",
+      "title": "December break is still unbooked",
+      "detail": "On the Mike + Dan board since Sept 30, with both the decide-by and book-by dates now passed. Holiday inventory for six across three weeks only thins from here, so the domestic-vs-international call is worth making today."
+    },
+    {
+      "tag": "Overdue · p2",
+      "title": "Term-life quotes for Mike",
+      "detail": "On the board since Sept 25 — a real gap with four kids and no coverage. It's stuck on one missing input: a target coverage amount and term length before you can shop."
     }
   ],
   "schedule": [],
@@ -20,12 +25,17 @@
     "flagged": [
       {
         "tag": "Financial",
-        "title": "Portland stormwater bill posted",
-        "detail": "$69.75 on account 705337 — auto-pay is on, so this is just the notice."
+        "title": "Portland stormwater bill",
+        "detail": "$69.75, dated Nov 2, already on auto-pay — nothing to do."
+      },
+      {
+        "tag": "FYI",
+        "title": "Concord Coach ticket confirmed",
+        "detail": "Overnight confirmation for Dartmouth / Boston Express travel — your receipt and PDF ticket are in."
       }
     ],
-    "noise": "Everything else is newsletters, promos, and receipts — the Italian word of the day, Field Company, Cocolab, a Thursday Uber receipt, and a Todoist digest.",
-    "clear": "No job-search mail and nothing waiting on your reply this morning."
+    "noise": "The rest is newsletters and receipts: Hims, the Italian word of the day, Global Proxy Watch, and a few promos.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
@@ -48,7 +58,7 @@
       "overdue": true
     },
     {
-      "title": "Mike Kelly via Priti at TD — plus the other name",
+      "title": "Mike Kelly via Priti at TD (networking lead)",
       "project": "Morning Routine",
       "due": "Overdue Nov 4",
       "overdue": true
@@ -62,17 +72,17 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar's clear from the start — no early handoff, no meetings.",
+      "line": "Nothing is booked before noon — the calendar is genuinely empty today.",
       "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "Open straight through — the longest uninterrupted stretch you'll see this week.",
+      "line": "Still clear through the afternoon, with room for the reading and decisions that have been stacking up on the board.",
       "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "Nothing scheduled into the night; an easy landing.",
+      "line": "A quiet evening with the girls down in Florida — unhurried enough to cook something slow.",
       "tag": "quiet"
     }
   ],
