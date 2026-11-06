@@ -1,42 +1,37 @@
 {
   "date": "Friday, November 6, 2026",
   "generatedAt": "Morning brief · 9:11 AM ET",
-  "theme": "A wide-open day with a few overdue decisions quietly waiting.",
-  "greeting": "The whole day is yours, Dan — nothing on the calendar to answer to. A good morning to clear a couple of the board items that have been sitting.",
+  "theme": "A clear calendar after conference week.",
+  "greeting": "Nothing's scheduled today, Dan - the first open day after the ICGN stretch. The quiet leaves room for the board and travel items that have been sitting, and the Valoris draft you said you'd circle back on.",
   "needsAttention": [
     {
-      "tag": "Overdue · p2",
-      "title": "Make the December-break call",
-      "detail": "On the Mike + Dan board, overdue since Sept 30: the holiday trip for all four girls (Dec 13–Jan 2) is past its book-by date, and inventory for six over the holidays only thins from here."
+      "tag": "Dec travel",
+      "title": "December break still undecided",
+      "detail": "Overdue since Sept 30 on the Mike + Dan board - the Dec 13 to Jan 2 window with all four kids. Holiday inventory for six is the thinnest of the year, and each unbooked week narrows the field."
     },
     {
-      "tag": "Overdue · p2",
-      "title": "Get Mike his term-life quotes",
-      "detail": "Also p2 on the board and overdue since Sept 25 — three quotes to shop so four kids aren't left without coverage. Still missing the target amount and term."
+      "tag": "Board - overdue",
+      "title": "Three term-life quotes for Mike",
+      "detail": "Overdue since Sept 25. Still missing the coverage amount and term length to shop against, which is what's held it up."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Health",
-        "title": "Tampa Gardens holiday note",
-        "detail": "Your mother's residence wrote to families about its Christmas celebration — an announcement, nothing owed."
-      },
-      {
         "tag": "Job search",
-        "title": "LinkedIn job-alert digest",
-        "detail": "An automated digest led by a KPMG US Managing Director role; no personal recruiter outreach today."
+        "title": "Valoris draft agreement to review",
+        "detail": "You told Martin on Nov 4 you'd 'have a look and come back' on their comments and the draft agreement - still open, with the ball in your court."
       }
     ],
-    "noise": "Otherwise all newsletters, receipts and promos — BaseLocal, WSJ Economics, NYT Cooking, Alison Roman, eBay/Uber receipts, real-estate listings.",
-    "clear": "Nothing security or financial, and nothing awaiting your reply."
+    "noise": "The rest is promotions and newsletters - Indochino, Global Proxy Watch, an Audible account notice.",
+    "clear": "Nothing else is waiting on a reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Portland, Maine",
+    "location": "Maine",
     "confidence": "low",
     "asOf": "Friday Nov 6"
   },
@@ -47,8 +42,8 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order - king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan - Board",
       "due": "Overdue Sep 30",
       "overdue": true
     },
@@ -60,25 +55,22 @@
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/3",
     "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing is booked before noon — the calendar is genuinely empty today.",
-      "tag": "open"
+      "line": "No meetings before noon - unusually clear for the end of a conference week."
     },
     {
       "time": "Afternoon",
-      "line": "Still clear through the afternoon, with room for the reading and decisions that have been stacking up on the board.",
-      "tag": "open"
+      "line": "The afternoon is unbroken, a rare block to spend on one thing rather than many."
     },
     {
       "time": "Evening",
-      "line": "A quiet evening with the girls down in Florida — unhurried enough to cook something slow.",
-      "tag": "quiet"
+      "line": "A free evening, with the girls at Jen's through mid-month."
     }
   ],
   "japanese": {
