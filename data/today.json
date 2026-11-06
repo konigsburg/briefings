@@ -1,63 +1,39 @@
 {
   "date": "Friday, November 6, 2026",
-  "generatedAt": "Morning brief · 5:06 AM ET",
-  "theme": "ICGN wraps in Toronto; wheels up for Boston tonight.",
-  "greeting": "The conference closes and you fly to Boston this evening, Dan. The day itself is light — what's really waiting is a stale December-trip decision and the Valoris agreement you promised Martin you'd read.",
+  "generatedAt": "Morning brief · 5:09 AM ET",
+  "theme": "An open Friday — the whole day is yours.",
+  "greeting": "The calendar's empty today, Dan — no meetings to climb. The girls are with Jen through mid-month, so this clear Friday is a chance to put real time against the board items that have been waiting.",
   "needsAttention": [
     {
-      "tag": "Window closing",
-      "title": "December break is decided late and still unbooked",
-      "detail": "The p2 board task to shortlist and book all six of you for Dec 13–Jan 2 passed its decide-by (Sep 30) and book-by (Oct 15). Holiday inventory for six over three weeks only thins from here — pick domestic-vs-international and book."
-    },
-    {
-      "tag": "Job search",
-      "title": "Come back to Martin on the Valoris agreement",
-      "detail": "On Nov 4 you told Martin Steindl you'd review his comments and the draft agreement and come back — that reply on the engagement is still owed."
+      "tag": "Blocked · overdue",
+      "title": "December trip still unbooked",
+      "detail": "The p2 board task to shortlist and book December travel (Dec 13–Jan 2, all four girls) is past both its decide-by and book-by dates. It needs the domestic-vs-international call before anything can be booked, and holiday inventory for six is the thinnest of the year."
     },
     {
       "tag": "Overdue · board",
-      "title": "Three term-life quotes for Mike",
-      "detail": "Your p2 item on the Mike + Dan board has sat since Sep 25. Four kids and no coverage is the gap; it still needs a target amount and term before you can shop."
+      "title": "Term life quotes for Mike",
+      "detail": "The p2 task to pull three term life quotes has sat on the Mike + Dan board since late September. It still needs a target coverage amount and term length before you can shop it."
     }
   ],
-  "schedule": [
-    {
-      "time": "7:00 AM",
-      "title": "Valoris × IMC / FinCity",
-      "detail": "Stewardship call, Tokyo-hosted Zoom",
-      "tag": "call"
-    },
-    {
-      "time": "8:00 PM",
-      "title": "Flight to Boston (PD2947)",
-      "detail": "Porter out of Toronto YTZ",
-      "tag": "travel"
-    },
-    {
-      "time": "All day",
-      "title": "Stephanie Joseph & Larry",
-      "detail": "Both have birthdays today",
-      "tag": "birthday"
-    }
-  ],
+  "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Job search",
-        "title": "Valoris draft agreement awaits your read",
-        "detail": "Martin sent comments and a draft agreement; you replied you'd look and come back, so the next move is yours."
+        "tag": "Financial",
+        "title": "Portland stormwater bill posted",
+        "detail": "$69.75 on account 705337 — auto-pay is on, so this is just the notice."
       }
     ],
-    "noise": "A Cocofloss subscription price-increase notice — nothing to do.",
-    "clear": "The inbox is otherwise quiet — nothing else unread is waiting on you."
+    "noise": "Everything else is newsletters, promos, and receipts — the Italian word of the day, Field Company, Cocolab, a Thursday Uber receipt, and a Todoist digest.",
+    "clear": "No job-search mail and nothing waiting on your reply this morning."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Boston (in from Toronto)",
-    "confidence": "high",
-    "asOf": "Thursday Nov 5"
+    "location": "Maine",
+    "confidence": "low",
+    "asOf": "Friday Nov 6"
   },
   "recipe": {
     "title": "Onion Tart",
@@ -66,35 +42,38 @@
   },
   "tasks": [
     {
-      "title": "Mike Kelly via Priti at TD (and the other name)",
-      "project": "Morning Routine",
-      "due": "Overdue Nov 4",
-      "overdue": true
-    },
-    {
       "title": "Portland house order — king bedframe + outdoor shower soap holder",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
+    },
+    {
+      "title": "Mike Kelly via Priti at TD — plus the other name",
+      "project": "Morning Routine",
+      "due": "Overdue Nov 4",
+      "overdue": true
     }
   ],
   "routines": {
-    "morning": "9/9",
+    "morning": "0/9",
     "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "An early stewardship call with Valoris and FinCity at 7, then your last turn on the ICGN floor after speaking on stewardship."
+      "line": "The calendar's clear from the start — no early handoff, no meetings.",
+      "tag": "open"
     },
     {
       "time": "Afternoon",
-      "line": "The conference winds down — Toronto is yours until it's time to head for the island airport."
+      "line": "Open straight through — the longest uninterrupted stretch you'll see this week.",
+      "tag": "open"
     },
     {
       "time": "Evening",
-      "line": "Wheels up for Boston at 8; a note to Stephanie and Larry from the gate would land their birthdays."
+      "line": "Nothing scheduled into the night; an easy landing.",
+      "tag": "quiet"
     }
   ],
   "japanese": {
