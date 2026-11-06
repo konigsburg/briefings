@@ -1,54 +1,49 @@
 {
   "date": "Friday, November 6, 2026",
   "generatedAt": "Morning brief · 7:05 AM ET",
-  "theme": "An open day — spend it on what's been waiting.",
-  "greeting": "The calendar's clear and the girls are with Jen, Dan, so this is a rare open Friday. A few board items have been sitting past their dates, and Martin's draft agreement is the one thing genuinely waiting on your reply.",
+  "theme": "A wide-open day with a few overdue decisions quietly waiting.",
+  "greeting": "The whole day is yours, Dan — nothing on the calendar to answer to. A good morning to clear a couple of the board items that have been sitting.",
   "needsAttention": [
     {
-      "tag": "Awaiting reply",
-      "title": "Martin's Valoris draft is still open",
-      "detail": "You told him Wednesday you'd read the draft agreement and come back once ICGN wrapped. That was two days ago and the thread's gone quiet on your side."
-    },
-    {
-      "tag": "Decision overdue",
-      "title": "December break is still unbooked",
-      "detail": "On the Mike + Dan board since Sept 30, with both the decide-by and book-by dates now passed. Holiday inventory for six across three weeks only thins from here, so the domestic-vs-international call is worth making today."
+      "tag": "Overdue · p2",
+      "title": "Make the December-break call",
+      "detail": "On the Mike + Dan board, overdue since Sept 30: the holiday trip for all four girls (Dec 13–Jan 2) is past its book-by date, and inventory for six over the holidays only thins from here."
     },
     {
       "tag": "Overdue · p2",
-      "title": "Term-life quotes for Mike",
-      "detail": "On the board since Sept 25 — a real gap with four kids and no coverage. It's stuck on one missing input: a target coverage amount and term length before you can shop."
+      "title": "Get Mike his term-life quotes",
+      "detail": "Also p2 on the board and overdue since Sept 25 — three quotes to shop so four kids aren't left without coverage. Still missing the target amount and term."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Financial",
-        "title": "Portland stormwater bill",
-        "detail": "$69.75, dated Nov 2, already on auto-pay — nothing to do."
+        "tag": "Health",
+        "title": "Tampa Gardens holiday note",
+        "detail": "Your mother's residence wrote to families about its Christmas celebration — an announcement, nothing owed."
       },
       {
-        "tag": "FYI",
-        "title": "Concord Coach ticket confirmed",
-        "detail": "Overnight confirmation for Dartmouth / Boston Express travel — your receipt and PDF ticket are in."
+        "tag": "Job search",
+        "title": "LinkedIn job-alert digest",
+        "detail": "An automated digest led by a KPMG US Managing Director role; no personal recruiter outreach today."
       }
     ],
-    "noise": "The rest is newsletters and receipts: Hims, the Italian word of the day, Global Proxy Watch, and a few promos.",
-    "clear": ""
+    "noise": "Otherwise all newsletters, receipts and promos — BaseLocal, WSJ Economics, NYT Cooking, Alison Roman, eBay/Uber receipts, real-estate listings.",
+    "clear": "Nothing security or financial, and nothing awaiting your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Maine",
+    "location": "Portland, Maine",
     "confidence": "low",
     "asOf": "Friday Nov 6"
   },
   "recipe": {
     "title": "Onion Tart",
     "book": "How to Eat",
-    "why": "A slow-cooked, deeply caramelized onion tart is exactly the kind of patient autumn cooking this gray November Friday asks for."
+    "why": "Back in Maine for a quiet week with the girls at Jen's, a slow-cooked, deeply caramelized onion tart is exactly the kind of unhurried autumn supper this open evening is built for."
   },
   "tasks": [
     {
@@ -58,7 +53,7 @@
       "overdue": true
     },
     {
-      "title": "Mike Kelly via Priti at TD (networking lead)",
+      "title": "Mike Kelly via Priti at TD",
       "project": "Morning Routine",
       "due": "Overdue Nov 4",
       "overdue": true
