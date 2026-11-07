@@ -1,18 +1,18 @@
 {
   "date": "Friday, November 6, 2026",
   "generatedAt": "Morning brief · 9:06 PM ET",
-  "theme": "A wide-open day.",
-  "greeting": "Your calendar is completely clear today, Dan — no meetings start to finish. That open space is a good chance to finally land the December trip decision that's now well past its deadline.",
+  "theme": "A clear day, a quiet house.",
+  "greeting": "An open day, Dan — nothing on the calendar and the girls at Jen's. The only real pulls are a couple of overdue items on the Mike + Dan board that would feel good to finally clear.",
   "needsAttention": [
     {
-      "tag": "Trip decision",
-      "title": "December trip is past its book-by date",
-      "detail": "The all-kids Dec 13-Jan 2 trip (p2 on the Mike + Dan board) was set to be decided by Sept 30 and booked by Oct 15 — both are gone, and holiday inventory for six over three weeks only thins from here."
+      "tag": "Overdue · trip",
+      "title": "December break is still unbooked",
+      "detail": "On the Mike + Dan board, overdue since Sept 30. The decide-by and book-by dates have both passed, and the Dec 13–Jan 2 window with all four kids is about five weeks out — holiday inventory for six is at its thinnest now."
     },
     {
-      "tag": "Overdue p2",
-      "title": "Term life quotes for Mike still open",
-      "detail": "Pulling three term-life quotes for Mike (Mike + Dan board, p2) has sat open since late September — four kids and no coverage is the gap it closes."
+      "tag": "Overdue · p2",
+      "title": "Term-life quotes for Mike",
+      "detail": "On the Mike + Dan board, overdue since Sept 25. Your half is the shopping — quotes, term length, coverage amount — before Mike takes the application and exam."
     }
   ],
   "schedule": [],
@@ -20,18 +20,23 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Toronto contact open to staying in touch",
-        "detail": "A contact you saw at the ICGN conference replied warmly, saying he'd like to keep in touch as you move into your next role — worth a short reply to keep it warm."
+        "title": "Michael Herskovich wrote back",
+        "detail": "A warm reply after Toronto — he's glad you enjoyed the conference and hopes to stay in touch as you move into your next role."
+      },
+      {
+        "tag": "Job search",
+        "title": "Aaron Bernstein will keep an eye out",
+        "detail": "After your dinner, the Global Proxy Watch editor says he'll flag any openings that look right for you."
       }
     ],
-    "noise": "A LinkedIn job-alert digest and a Cocofloss subscription price-change notice — nothing that needs you.",
-    "clear": "Your replies on the Proxy Watch and Valoris threads are sent; the ball is in their court now."
+    "noise": "The rest of the inbox is quiet.",
+    "clear": "Nothing else is waiting on your reply."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Toronto",
+    "location": "Coastal Maine",
     "confidence": "low",
     "asOf": "Friday Nov 6"
   },
@@ -56,15 +61,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "No meetings today, Dan — a rare, fully open calendar."
+      "line": "Nothing was on the calendar — an open day from the first hour."
     },
     {
       "time": "Afternoon",
-      "line": "The middle of the day is entirely unclaimed."
+      "line": "No meetings held the middle either, a rare clear stretch to point at the board."
     },
     {
       "time": "Evening",
-      "line": "A quiet close; the evening routine is all that's left."
+      "line": "The girls are at Jen's tonight, so it's a quiet house in Maine to close the day."
     }
   ],
   "japanese": {
