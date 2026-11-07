@@ -1,23 +1,23 @@
 {
   "date": "Saturday, November 7, 2026",
   "generatedAt": "Morning brief · 7:04 AM ET",
-  "theme": "An open day with a couple of decisions waiting.",
-  "greeting": "A wide-open Saturday, Dan — nothing on the calendar and the girls are with Jen until the 14th. Good morning to renew that GitHub token and finally land the December trip call.",
+  "theme": "A wide-open Saturday with two things quietly on the clock.",
+  "greeting": "No meetings today, Dan — a rare unbroken stretch. Two items want it, though: a GitHub token that lapses tomorrow and the December-trip call ahead of your 9 AM Sunday review.",
   "needsAttention": [
     {
-      "tag": "Security",
-      "title": "Renew the GitHub deploy token",
-      "detail": "GitHub says the briefings-deploy-3 access token expires in about a day — renew it before it lapses or the briefing deploy stops working."
+      "tag": "Account",
+      "title": "Renew your GitHub deploy token",
+      "detail": "A GitHub notice in your inbox says the fine-grained token briefings-deploy-3 expires in about a day — it's what publishes this brief, so renew it before it lapses."
     },
     {
-      "tag": "Decision overdue",
-      "title": "Lock the December trip",
-      "detail": "The Mike + Dan board flagged this to decide by Sep 30 and book by Oct 15 — both passed, and the kids are with you Dec 13–Jan 2 over the thinnest travel inventory of the year."
+      "tag": "Overdue · travel",
+      "title": "Make the December-break call",
+      "detail": "Your board task to shortlist the December trip has sat since Sep 30. Six people over the holidays, leaving Dec 13 — inventory thins every day. Pick domestic vs. international and book."
     },
     {
-      "tag": "Tomorrow 9 AM",
-      "title": "Sunday board review with Mike",
-      "detail": "Your 15-minute review is first thing tomorrow — a glance at the Mike + Dan board tonight clears the three open [DAN] items fast."
+      "tag": "Prep · tomorrow",
+      "title": "Walk into the Sunday review decided",
+      "detail": "You and Mike meet at 9 AM to triage the board. Arrive with the trip direction chosen; the term-life quotes and the Portland order are the other two overdue items that will come up."
     }
   ],
   "schedule": [],
@@ -25,51 +25,55 @@
     "flagged": [
       {
         "tag": "Security",
-        "title": "GitHub token expiring",
-        "detail": "The briefings-deploy-3 personal access token expires in about a day; renew it to keep the deploy running."
+        "title": "GitHub access token expiring",
+        "detail": "briefings-deploy-3 expires in ~1 day per a GitHub notice."
+      },
+      {
+        "tag": "Job search",
+        "title": "Michael Herskovich (BNP Paribas) replied",
+        "detail": "Warm follow-up after the Toronto conference; hopes to stay in touch as you move into your next role."
+      },
+      {
+        "tag": "Job search",
+        "title": "Aaron Bernstein (Proxywatch) will watch for openings",
+        "detail": "Thanked you for dinner and offered to flag board openings that fit."
       }
     ],
-    "noise": "Six newsletters and a Todoist digest — FT Weekend, Epoch Times, and your Italian/book lists.",
-    "clear": "Nothing else is waiting on a reply."
+    "noise": "The rest is newsletters — FT Weekend, Epoch Times, Daily Italian Words, Tombolo Books, the St. Pete local brief.",
+    "clear": ""
   },
   "resolved": [
-    {
-      "title": "Michael Herskovich wrote back",
-      "detail": "A warm reply from BNP Paribas to your Toronto thank-you — happy to stay in touch as you move to your next role; nothing owed."
-    },
-    {
-      "title": "Aaron Bernstein will watch for openings",
-      "detail": "Proxy Watch's editor closed your thread warmly and said he'll flag any board openings that look right for you."
-    }
+    "Michael Herskovich wrote back warmly on the BNP Paribas thread after Toronto — networking for your next role continuing.",
+    "Aaron Bernstein (Global Proxy Watch) offered to flag any board openings that look right — no reply owed."
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Maine",
+    "location": "Coastal Maine",
     "confidence": "low",
     "asOf": "Saturday Nov 7"
   },
   "recipe": {
     "title": "Fricassée of chanterelles",
     "book": "Canal House Cooks Every Day",
-    "why": "Peak autumn for wild mushrooms — a slow Saturday is just the day to coax chanterelles into something buttery and unhurried."
+    "why": "Deep into autumn, when wild mushrooms are at their best — a slow solo Saturday is made for coaxing chanterelles into something buttery and unhurried."
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
+      "title": "Get 3 term-life quotes for Mike",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "0/9",
+    "morning": "0/8",
     "day": "0/5",
     "evening": "0/4"
   },
