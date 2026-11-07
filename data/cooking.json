@@ -1,92 +1,92 @@
 {
-  "date": "Sat, Oct 31",
-  "generatedAt": "Weekly · Oct 31",
-  "theme": "Late-autumn larder: a pork & porcini ragu and a jar of confit garlic oil to carry the week (2 adults — girls are with Jen Nov 1-14)",
+  "date": "Sat, Nov 7",
+  "generatedAt": "Weekly · Nov 7",
+  "theme": "Late-autumn chicories + two make-ahead flavor bases (just you & Mike this week)",
   "components": [
     {
-      "name": "Pork & porcini ragu",
-      "time": "~90 min, mostly hands-off braise",
-      "ingredients": "1.5 lb pork shoulder (cubed), 1 oz dried porcini, 1 onion, 1 carrot, 1 rib celery, 4 garlic cloves, 1/2 cup red wine, 1 can (28 oz) whole peeled tomatoes, bay, olive oil, salt",
-      "method": "Soak porcini in 1 cup hot water. Pat pork dry, season, brown hard in olive oil in batches; set aside. Soften a fine soffritto of onion/carrot/celery/garlic in the fat. Add chopped porcini, deglaze with wine, reduce. Return pork, add crushed tomatoes, strained porcini liquor and bay. Barely simmer covered ~75 min until pork shreds; break it up with a spoon, reduce loose if needed. Keeps 4 days / freezes well."
+      "name": "Brothy borlotti (or cannellini) bean conserva",
+      "time": "~75 min, mostly hands-off",
+      "ingredients": "1 lb dried borlotti or cannellini, 1 head garlic halved, few sage leaves, 1 rosemary sprig, 2 bay leaves, 1 dried chile, 1/4 cup+ extra-virgin olive oil, sea salt",
+      "method": "Soak the beans overnight (or quick-soak: boil 2 min, rest 1 hr). Drain, cover with fresh cold water by 2 inches, add the halved garlic head, sage, rosemary, bay, chile, and a big glug of olive oil. Bring to a bare simmer and cook gently 60-90 min until creamy but intact, skimming once or twice. Salt only in the last 20 min so the skins stay tender. Cool the beans IN their liquor and store them that way - that cloudy bean brodo is the week's gold. Keeps 5 days."
     },
     {
-      "name": "Confit garlic & rosemary oil",
-      "time": "~40 min, hands-off",
-      "ingredients": "3 heads garlic (peeled), 1.5 cups good olive oil, 2 rosemary sprigs, 1 dried chile, pinch salt",
-      "method": "Put peeled cloves, rosemary and chile in a small pot, cover with oil. Hold at a bare simmer (55-60°C — just a few lazy bubbles) ~40 min until cloves are golden and spreadably soft; don't let them fry. Cool fully, jar cloves under their oil. Fridge up to 2 weeks — both the mellow cloves and the perfumed oil become weeknight shortcuts."
+      "name": "Mushroom & allium confit",
+      "time": "~45 min",
+      "ingredients": "1.5 lb mixed mushrooms (cremini + shiitake or maitake), 2 onions or 4 shallots, 6 garlic cloves, thyme sprigs, 1/2 cup olive oil, splash sherry vinegar, salt",
+      "method": "Slice mushrooms and alliums. In a wide pan over medium-high with plenty of olive oil, cook the mushrooms hard and undisturbed until they release their water and re-brown deeply, 20-25 min. Add onions/shallots, garlic, and thyme; drop the heat and cook low until jammy, ~15 min. Deglaze with a splash of sherry vinegar, season, and store under a film of oil. Keeps a week - an umami bomb for pasta, eggs, toast, or spooned over fish."
     }
   ],
   "dinners": [
     {
-      "name": "Pappardelle al ragu",
-      "time": "20 min",
-      "ingredients": "pork & porcini ragu, pappardelle (or rigatoni), parmigiano, olive oil, parsley",
+      "name": "Pasta e fagioli",
+      "time": "~25 min",
+      "ingredients": "Bean conserva + its brodo, a spoon of mushroom confit, ditalini or broken short pasta, parm rind, rosemary, dried chile, finishing olive oil",
       "steps": [
-        "Boil pasta in well-salted water; reserve a mug of water.",
-        "Warm the ragu, loosen with a splash of pasta water.",
-        "Toss drained pasta into the ragu off heat with a knob of butter or glug of oil until glossy.",
-        "Plate, shower with parmigiano, parsley and a thread of olive oil."
+        "Warm the beans with a good ladle of their brodo, a parm rind, and a rosemary sprig.",
+        "Stir in a heaping spoon of mushroom confit for depth.",
+        "Add ditalini and a little water; simmer until pasta is cooked and the whole thing is loose and brothy.",
+        "Fish out the rind, season, and finish each bowl with chili and a hard pour of olive oil."
       ]
     },
     {
-      "name": "Soft polenta with pork ragu & gremolata",
-      "time": "30 min",
-      "ingredients": "pork & porcini ragu, polenta, parmigiano, butter, lemon zest, parsley, garlic",
+      "name": "Crispy-skin cod over brothy beans",
+      "time": "~30 min",
+      "ingredients": "2 skin-on cod or branzino fillets (~3/4 lb), bean conserva + brodo, radicchio/Treviso, lemon, parsley, garlic, olive oil (gremolata)",
       "steps": [
-        "Simmer polenta in salted water, whisking, until creamy (~25 min); finish with butter and parmigiano.",
-        "Reheat the ragu gently.",
-        "Chop gremolata: parsley, lemon zest, a little raw garlic.",
-        "Spoon polenta into bowls, ladle ragu over, scatter gremolata and a little more parmigiano."
+        "Make a quick gremolata: chopped parsley, grated garlic, lemon zest, olive oil.",
+        "Warm the beans loose and brothy in a wide bowl; char wedges of radicchio in a hot pan until edges blacken.",
+        "Pat fish skin bone-dry, lightly score, and crisp skin-side down in a hot oiled pan (see technique).",
+        "Spoon beans into bowls, lay fish crisp-side up, scatter charred radicchio, and finish with gremolata and lemon."
       ]
     },
     {
-      "name": "Olive-oil poached cod with confit garlic, cannellini & salsa verde",
-      "time": "25 min",
-      "ingredients": "2 cod fillets, confit garlic + its oil, 1 can cannellini, salsa verde (parsley, capers, anchovy, lemon), lemon",
+      "name": "Mushroom confit, white bean & egg toast",
+      "time": "~15 min",
+      "ingredients": "Mushroom confit, bean conserva, eggs, sourdough, chicory/escarole for salad, lemon, olive oil",
       "steps": [
-        "Warm a small amount of the confit oil with a few confit cloves; add drained cannellini to warm through, season.",
-        "Heat a shallow pot of olive oil to 55-60°C; slip in salted cod and poach 10-12 min until just opaque.",
-        "Blitz or chop a quick salsa verde.",
-        "Spoon beans into bowls, set cod on top, lift out with a slotted spatula, spoon salsa verde over and finish with lemon."
+        "Grill or toast thick sourdough and rub with a cut garlic clove.",
+        "Smash warm beans onto the toast; pile on mushroom confit.",
+        "Top with a fried or jammy egg.",
+        "Serve with a sharp chicory salad dressed in lemon and olive oil."
       ]
     },
     {
-      "name": "Brothy clams with confit garlic, white wine & grilled bread",
-      "time": "25 min",
-      "ingredients": "2 lb littleneck clams, confit garlic + oil, 1/2 cup white wine, chile flakes, parsley, crusty bread",
+      "name": "Ribollita-style bean & cavolo nero soup",
+      "time": "~30 min",
+      "ingredients": "Bean conserva + brodo, cavolo nero (lacinato kale), stale sourdough, garlic, dried chile, Parmigiano, great olive oil, optional Italian sausage",
       "steps": [
-        "Grill or toast thick bread, rub with a confit clove.",
-        "In a wide pot, warm confit oil, mashed confit cloves and chile flakes.",
-        "Add clams and wine, cover, steam 5-7 min until they open (discard any that don't).",
-        "Finish with parsley and a glug of raw olive oil; serve with the bread to mop the broth."
+        "Soften sliced garlic and chile in olive oil (brown a crumbled sausage here first if using).",
+        "Add shredded cavolo nero and wilt, then the beans and plenty of their brodo.",
+        "Tear in chunks of stale bread and simmer until it collapses into a thick, spoon-coating soup.",
+        "Season, ladle out, and finish with grated parm and a generous pour of olive oil."
       ]
     }
   ],
   "technique": {
-    "name": "Low-temperature olive-oil poaching",
-    "tiedTo": "Wednesday's cod — hold the oil at 55-60°C with the fish just submerged for 10-12 min. The gentle, even heat sets the proteins slowly so the flesh stays silky and never seizes or weeps the way it can in a hot pan; a probe thermometer makes it foolproof, and the oil can be strained and reused."
+    "name": "Crisping fish skin without curling",
+    "tiedTo": "The crispy-skin cod - flat, shatteringly crisp skin is the whole dish. Pat the skin bone-dry and lightly score it, lay it into a hot oiled pan skin-side down, and press it flat with a spatula for the first 30-60 seconds so it can't buckle. Cook about 80% of the way through on the skin side, then flip only to finish - don't fuss with it in between."
   },
   "shopping": [
     {
       "section": "Produce",
-      "items": "1 onion, 1 carrot, 1 celery rib, 4 heads garlic, 2 rosemary sprigs, flat-leaf parsley, 2 lemons"
+      "items": "2 heads garlic, 2 onions or 4 shallots, 1.5 lb mixed mushrooms (cremini + shiitake/maitake), radicchio or Treviso, cavolo nero (lacinato kale), chicory or escarole, 2 lemons, parsley, fresh rosemary, sage, thyme, bay leaves"
     },
     {
       "section": "Seafood",
-      "items": "2 cod fillets (~6 oz each), 2 lb littleneck clams"
+      "items": "2 skin-on cod or branzino fillets (~3/4 lb)"
     },
     {
-      "section": "Protein",
-      "items": "1.5 lb pork shoulder"
+      "section": "Protein (optional)",
+      "items": "2 Italian sausages (for the ribollita)"
     },
     {
       "section": "Dairy",
-      "items": "parmigiano-reggiano, butter"
+      "items": "eggs, Parmigiano-Reggiano (plus a rind if you can get one)"
     },
     {
       "section": "Pantry",
-      "items": "1 oz dried porcini, 1 can (28 oz) whole peeled tomatoes, 2 cans cannellini beans, pappardelle (or rigatoni), polenta, good olive oil (large bottle — you'll use plenty), red wine, dry white wine, capers, anchovies, dried chile / chile flakes, bay leaves, crusty bread"
+      "items": "1 lb dried borlotti or cannellini beans, ditalini or short pasta, extra-virgin olive oil (a lot), dried chiles, sherry vinegar, sourdough loaf, anchovies, capers, sea salt"
     }
   ],
-  "scaleNote": "This week is 2 adults (girls with Jen Nov 1-14), so quantities above serve 2 with ragu to spare. For the full-house weeks (6: 2 adults + 4 girls under 10): double the ragu and run it over rigatoni or into a quick baked pasta with mozzarella the girls love; triple the polenta and keep gremolata on the side so kids can skip it; double the confit garlic batch. For fish night, poach extra cod and set aside a few plain, unsauced pieces for the girls, serving salsa verde only for the adults; add buttered bread and a simple green salad to stretch any night."
+  "scaleNote": "Just you and Mike this week (girls with Jen), so the quantities above feed 2 with leftovers - the batch bases are meant to carry several dinners. For the full-house weeks (6 people, 4 girls under 10): cook 2 lb dried beans and ~3 lb mushrooms, and double the fish. Keep it kid-friendly by pulling portions before the chili goes in, serving the pasta e fagioli and ribollita a touch thicker over pasta, and offering the mushroom toast as a simple egg-and-beans toast on the side."
 }
