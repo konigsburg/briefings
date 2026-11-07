@@ -1,55 +1,48 @@
 {
   "date": "Saturday, November 7, 2026",
-  "generatedAt": "Morning brief · 9:06 AM ET",
-  "theme": "A wide-open Saturday with two things quietly on the clock.",
-  "greeting": "No meetings today, Dan — a rare unbroken stretch. Two items want it, though: a GitHub token that lapses tomorrow and the December-trip call ahead of your 9 AM Sunday review.",
+  "generatedAt": "Morning brief · 9:10 AM ET",
+  "theme": "An open Saturday",
+  "greeting": "A clear calendar and a quiet house, Dan — today's yours to spend on what's been waiting.",
   "needsAttention": [
     {
-      "tag": "Account",
-      "title": "Renew your GitHub deploy token",
-      "detail": "A GitHub notice in your inbox says the fine-grained token briefings-deploy-3 expires in about a day — it's what publishes this brief, so renew it before it lapses."
+      "tag": "Security",
+      "title": "GitHub token expires in about a day",
+      "detail": "GitHub flagged that your fine-grained token \"briefings-deploy-3\" expires in roughly a day — renew or rotate it before it lapses so nothing depending on it breaks."
     },
     {
-      "tag": "Overdue · travel",
-      "title": "Make the December-break call",
-      "detail": "Your board task to shortlist the December trip has sat since Sep 30. Six people over the holidays, leaving Dec 13 — inventory thins every day. Pick domestic vs. international and book."
+      "tag": "Travel window",
+      "title": "December break still unbooked",
+      "detail": "The all-kids Dec 13–Jan 2 trip was meant to be decided by Sept 30 and booked by Oct 15; holiday inventory for six over three weeks only thins from here."
     },
     {
-      "tag": "Prep · tomorrow",
-      "title": "Walk into the Sunday review decided",
-      "detail": "You and Mike meet at 9 AM to triage the board. Arrive with the trip direction chosen; the term-life quotes and the Portland order are the other two overdue items that will come up."
+      "tag": "Sunday prep",
+      "title": "Review with Mike tomorrow at 9",
+      "detail": "The 15-minute Sunday review opens tomorrow morning and chases the open Dan & Mike board items — worth a glance tonight so you arrive knowing where each stands."
     }
   ],
   "schedule": [],
   "inbox": {
     "flagged": [
       {
-        "tag": "Security",
-        "title": "GitHub access token expiring",
-        "detail": "briefings-deploy-3 expires in ~1 day per a GitHub notice."
-      },
-      {
         "tag": "Job search",
-        "title": "Michael Herskovich (BNP Paribas) replied",
-        "detail": "Warm follow-up after the Toronto conference; hopes to stay in touch as you move into your next role."
-      },
-      {
-        "tag": "Job search",
-        "title": "Aaron Bernstein (Proxywatch) will watch for openings",
-        "detail": "Thanked you for dinner and offered to flag board openings that fit."
+        "title": "BNP Paribas contact wrote back",
+        "detail": "Michael Herskovich replied warmly after Toronto and hopes to stay in touch as you move into your next role — no reply owed, but a good thread to keep warm."
       }
     ],
-    "noise": "The rest is newsletters — FT Weekend, Epoch Times, Daily Italian Words, Tombolo Books, the St. Pete local brief.",
+    "noise": "Everything else is retail and newsletters — OXO, Faherty, The Company Store, FT Weekend, a couple of real-estate alerts.",
     "clear": ""
   },
   "resolved": [
-    "Michael Herskovich wrote back warmly on the BNP Paribas thread after Toronto — networking for your next role continuing.",
-    "Aaron Bernstein (Global Proxy Watch) offered to flag any board openings that look right — no reply owed."
+    {
+      "tag": "Networking",
+      "title": "Proxy Watch editor will keep an eye out",
+      "detail": "Aaron Bernstein replied after your dinner and said he'll flag any board openings that look right for you — thread closed on a good note."
+    }
   ],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Coastal Maine",
+    "location": "Maine",
     "confidence": "low",
     "asOf": "Saturday Nov 7"
   },
@@ -60,14 +53,14 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term-life quotes for Mike",
-      "project": "Mike + Dan — Board",
+      "title": "Get 3 term life quotes for Mike",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 25",
       "overdue": true
     },
     {
-      "title": "Portland house order — king bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order — bedframe + outdoor shower soap holder",
+      "project": "Dan & Mike",
       "due": "Overdue Sep 30",
       "overdue": true
     }
@@ -80,15 +73,15 @@
   "acts": [
     {
       "time": "Morning",
-      "line": "The calendar is completely clear — not a single meeting on the day."
+      "line": "A rare fully open Saturday — nothing on the calendar at all."
     },
     {
       "time": "Afternoon",
-      "line": "The girls are with Jen through the 14th, so the quiet stretch is yours to spend."
+      "line": "The day stays clear straight through the afternoon."
     },
     {
       "time": "Evening",
-      "line": "Tomorrow opens with the 9 AM board review — a few minutes on the board tonight makes it quick."
+      "line": "A quiet close, with just one short call to start tomorrow."
     }
   ],
   "japanese": {
