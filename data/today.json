@@ -1,18 +1,18 @@
 {
   "date": "Friday, November 6, 2026",
-  "generatedAt": "Morning brief · 7:06 PM ET",
-  "theme": "A wide-open Friday, good for the decisions that have waited.",
-  "greeting": "Your calendar is completely clear today, Dan, a rare open Friday. With the girls in Florida this week, it's a good window to close the two things that have been sitting.",
+  "generatedAt": "Morning brief · 7:10 PM ET",
+  "theme": "A wide-open day.",
+  "greeting": "Your calendar is completely clear today, Dan — no meetings start to finish. That open space is a good chance to finally land the December trip decision that's now well past its deadline.",
   "needsAttention": [
     {
-      "tag": "Reply owed",
-      "title": "Valoris proposal and draft agreement",
-      "detail": "Martin Steindl sent comments on your proposal plus a draft confidentiality and non-compete for the evaluation period, and offered a call. On Nov 4 you said you'd 'have a look and come back' — it's still open two days on."
+      "tag": "Trip decision",
+      "title": "December trip is past its book-by date",
+      "detail": "The all-kids Dec 13-Jan 2 trip (p2 on the Mike + Dan board) was set to be decided by Sept 30 and booked by Oct 15 — both are gone, and holiday inventory for six over three weeks only thins from here."
     },
     {
-      "tag": "Booking window",
-      "title": "December break still undecided",
-      "detail": "The Dec 13–Jan 2 trip for all six was meant to be decided by Sept 30 and booked by Oct 15. Holiday inventory for six over three weeks only thins further each day it waits."
+      "tag": "Overdue p2",
+      "title": "Term life quotes for Mike still open",
+      "detail": "Pulling three term-life quotes for Mike (Mike + Dan board, p2) has sat open since late September — four kids and no coverage is the gap it closes."
     }
   ],
   "schedule": [],
@@ -20,18 +20,18 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Michael Herskovich replied",
-        "detail": "BNP Paribas' Global Head of Stewardship answered your Toronto note — glad to stay in touch as you move into your next role. No reply needed."
+        "title": "Toronto contact open to staying in touch",
+        "detail": "A contact you saw at the ICGN conference replied warmly, saying he'd like to keep in touch as you move into your next role — worth a short reply to keep it warm."
       }
     ],
-    "noise": "A LinkedIn job alert, a Cocolab subscription price-change notice, and your own sent note to Aaron at Global Proxy Watch.",
-    "clear": "Nothing else is awaiting your reply."
+    "noise": "A LinkedIn job-alert digest and a Cocofloss subscription price-change notice — nothing that needs you.",
+    "clear": "Your replies on the Proxy Watch and Valoris threads are sent; the ball is in their court now."
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Maine",
+    "location": "Toronto",
     "confidence": "low",
     "asOf": "Friday Nov 6"
   },
@@ -42,12 +42,6 @@
   },
   "tasks": [
     {
-      "title": "Get 3 term life quotes for Mike",
-      "project": "Mike + Dan — Board",
-      "due": "Overdue Sep 25",
-      "overdue": true
-    },
-    {
       "title": "Portland house order — bedframe + outdoor shower soap holder",
       "project": "Mike + Dan — Board",
       "due": "Overdue Sep 30",
@@ -55,22 +49,22 @@
     }
   ],
   "routines": {
-    "morning": "0/2",
+    "morning": "9/9",
     "day": "0/2",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "A completely open calendar — no meetings anchor the morning."
+      "line": "No meetings today, Dan — a rare, fully open calendar."
     },
     {
       "time": "Afternoon",
-      "line": "The open stretch runs clean through the afternoon; it's yours to direct."
+      "line": "The middle of the day is entirely unclaimed."
     },
     {
       "time": "Evening",
-      "line": "The girls are with Jen this week, so the evening winds down quietly."
+      "line": "A quiet close; the evening routine is all that's left."
     }
   ],
   "japanese": {
