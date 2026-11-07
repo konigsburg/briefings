@@ -1,18 +1,28 @@
 {
   "date": "Saturday, November 7, 2026",
-  "generatedAt": "Morning brief · 5:06 AM ET",
-  "theme": "A clear day, a quiet house.",
-  "greeting": "An open day, Dan — nothing on the calendar and the girls at Jen's. The only real pulls are a couple of overdue items on the Mike + Dan board that would feel good to finally clear.",
+  "generatedAt": "Morning brief · 5:09 AM ET",
+  "theme": "An open day with a few long-overdue threads worth pulling.",
+  "greeting": "The calendar's clear today, Dan — a rare fully open Saturday. Good conditions to renew that GitHub token before it lapses and finally land the December-trip and life-insurance decisions that have idled since September.",
   "needsAttention": [
     {
-      "tag": "Overdue · trip",
-      "title": "December break is still unbooked",
-      "detail": "On the Mike + Dan board, overdue since Sept 30. The decide-by and book-by dates have both passed, and the Dec 13–Jan 2 window with all four kids is about five weeks out — holiday inventory for six is at its thinnest now."
+      "tag": "Security",
+      "title": "GitHub token expires tomorrow",
+      "detail": "Your fine-grained token briefings-deploy-3 expires in one day — renew it so the publishing pipeline keeps running."
+    },
+    {
+      "tag": "Decide / book",
+      "title": "December trip still unpicked",
+      "detail": "The all-kids Dec 13–Jan 2 trip was due to be decided Sept 30 and booked by Oct 15. Holiday inventory for six is at its thinnest now — pick domestic vs. international and lock it."
     },
     {
       "tag": "Overdue · p2",
-      "title": "Term-life quotes for Mike",
-      "detail": "On the Mike + Dan board, overdue since Sept 25. Your half is the shopping — quotes, term length, coverage amount — before Mike takes the application and exam."
+      "title": "Term life quotes for Mike",
+      "detail": "Open since Sept 25 (Mike + Dan board). It still needs a target coverage amount and term length from you before the quotes can go out."
+    },
+    {
+      "tag": "Tomorrow 9 AM",
+      "title": "Prep the Sunday review",
+      "detail": "You and Mike clear the board at 9 AM Sunday. A few minutes tonight putting an owner and date on each open item is what makes the 15 minutes work."
     }
   ],
   "schedule": [],
@@ -20,25 +30,30 @@
     "flagged": [
       {
         "tag": "Job search",
-        "title": "Michael Herskovich wrote back",
-        "detail": "A warm reply after Toronto — he's glad you enjoyed the conference and hopes to stay in touch as you move into your next role."
+        "title": "BNP Paribas reply from Herskovich",
+        "detail": "Michael Herskovich wrote back after Toronto, glad to stay in touch as you move into your next role."
       },
       {
         "tag": "Job search",
-        "title": "Aaron Bernstein will keep an eye out",
-        "detail": "After your dinner, the Global Proxy Watch editor says he'll flag any openings that look right for you."
+        "title": "Proxywatch — Bernstein watching for seats",
+        "detail": "Aaron Bernstein enjoyed the dinner and will flag any board openings that look right for you."
+      },
+      {
+        "tag": "Job search",
+        "title": "Valoris proposal in their court",
+        "detail": "You sent the revised proposal and draft agreement Thursday night; nothing's owed until they respond."
       }
     ],
-    "noise": "The rest of the inbox is quiet.",
-    "clear": "Nothing else is waiting on your reply."
+    "noise": "Everything else is newsletters and promos — FT Weekend, Daily Italian Words, Tombolo Books, LampTwist, plus the daily Todoist digest.",
+    "clear": ""
   },
   "resolved": [],
   "context": {
     "kids": false,
     "phase": "green",
-    "location": "Coastal Maine",
+    "location": "Maine",
     "confidence": "low",
-    "asOf": "Friday Nov 6"
+    "asOf": "Saturday Nov 7"
   },
   "recipe": {
     "title": "Fricassée of chanterelles",
@@ -47,29 +62,29 @@
   },
   "tasks": [
     {
-      "title": "Portland house order — bedframe + outdoor shower soap holder",
-      "project": "Mike + Dan — Board",
+      "title": "Portland house order — king bedframe + outdoor shower soap holder",
+      "project": "Mike + Dan board",
       "due": "Overdue Sep 30",
       "overdue": true
     }
   ],
   "routines": {
-    "morning": "9/9",
-    "day": "0/2",
+    "morning": "0/8",
+    "day": "0/5",
     "evening": "0/4"
   },
   "acts": [
     {
       "time": "Morning",
-      "line": "Nothing was on the calendar — an open day from the first hour."
+      "line": "Nothing on the calendar — the whole day is yours to steer."
     },
     {
       "time": "Afternoon",
-      "line": "No meetings held the middle either, a rare clear stretch to point at the board."
+      "line": "A clear runway for the December-trip call and the life-insurance quotes that have waited since September."
     },
     {
       "time": "Evening",
-      "line": "The girls are at Jen's tonight, so it's a quiet house in Maine to close the day."
+      "line": "Tidy the Mike + Dan board before tomorrow's 9 AM Sunday review."
     }
   ],
   "japanese": {
